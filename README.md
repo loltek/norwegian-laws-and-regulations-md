@@ -155,7 +155,9 @@ section links still point to Lovdata.
 
 Exact section anchors within the Markdown files would be nice, but supporting
 them correctly across all documents and cross-references is currently too much
-effort. File-level links are deliberate.
+effort. File-level links are deliberate. If you would like to sponsor
+development of exact section anchors, contact <hans@loltek.net> — I would be
+happy to implement it.
 
 ## Sources
 
