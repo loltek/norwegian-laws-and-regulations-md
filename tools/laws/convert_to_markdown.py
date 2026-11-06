@@ -303,7 +303,7 @@ def load_targets(paths: list[Path], own_dir: str) -> dict[str, str]:
             data = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):
             continue
-        for item in data.get("documents", data.get("laws", [])):
+        for item in data.get("documents", []):
             key = doc_key(item.get("source_url", ""))
             if not key:
                 continue
@@ -728,7 +728,7 @@ def main() -> None:
 
     if write_json(INDEX_PATH, {
         "count": len(records),
-        "laws": sorted(records, key=lambda item: item["path"]),
+        "documents": sorted(records, key=lambda item: item["path"]),
     }):
         content_changed = True
     write_json(

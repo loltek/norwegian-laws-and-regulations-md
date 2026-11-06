@@ -2,7 +2,7 @@
 """Convert the Lovdata HTML/XML dumps in ./src to readable Markdown in ./forskrifter.
 
 Filenames are built from the document's Lovdata date code plus a slug of its
-short title, e.g. lov-1915-08-13-5-domstolloven.md.
+short title, e.g. for-2004-12-01-1558-bokforingsforskriften.md.
 
 The converter is deliberately strict: unknown tags, classes, list types or
 table constructs abort the run so they can be inspected instead of being
@@ -358,7 +358,7 @@ def load_targets(paths: list[Path], own_dir: str) -> dict[str, str]:
             data = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):
             continue
-        for item in data.get("documents", data.get("laws", [])):
+        for item in data.get("documents", []):
             key = doc_key(item.get("source_url", ""))
             if not key:
                 continue
@@ -408,7 +408,7 @@ def output_name(soup: BeautifulSoup, source: Path) -> str:
     # Drop a trailing abbreviation such as "Domstolloven – dl".
     short = re.sub(r"\s+[–-]\s+\S{1,12}$", "", short).strip()
 
-    name = shorten(slugify(short or title)) or "lov"
+    name = shorten(slugify(short or title)) or "forskrift"
     return f"{slugify(legacy)}-{name}.md"
 
 
@@ -786,7 +786,7 @@ def write_json(path: Path, data: dict) -> bool:
 
 
 def build_dataset(
-    law_count: int, files: list[Path], content_changed: bool
+    document_count: int, files: list[Path], content_changed: bool
 ) -> dict:
     path = DATASET_PATH
     old = {}
@@ -814,7 +814,7 @@ def build_dataset(
         "source_b3sum": source_b3sum,
         "converter_b3sum": converter_b3sum,
         "generated_at": generated_at,
-        "document_count": law_count,
+        "document_count": document_count,
         "source_file_count": len(files),
         "excluded_languages": sorted(EXCLUDED_LANGUAGES),
         "format_version": 1,
@@ -870,7 +870,7 @@ def write_index_and_dataset(
 ) -> None:
     index = {
         "count": len(records),
-        "laws": sorted(records.values(), key=lambda item: item["path"]),
+        "documents": sorted(records.values(), key=lambda item: item["path"]),
     }
     if write_json(INDEX_PATH, index):
         content_changed = True
