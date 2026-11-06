@@ -21,8 +21,8 @@ trap 'rm -rf "$TMP"' EXIT
 echo "Downloading $URL"
 curl -fsSL "$URL" -o "$TMP/forskrifter.tar.bz2"
 
-HASH="$(b3sum "$TMP/forskrifter.tar.bz2" | awk '{print $1}')"
-CONVERTER_HASH="$(b3sum "$CONVERTER" | awk '{print $1}')"
+HASH="$("${PYTHON:-python3}" "$ROOT/tools/blake3sum.py" "$TMP/forskrifter.tar.bz2" | awk '{print $1}')"
+CONVERTER_HASH="$("${PYTHON:-python3}" "$ROOT/tools/blake3sum.py" "$CONVERTER" | awk '{print $1}')"
 
 if [[ "$FORCE" -eq 0 && ${#ARGS[@]} -eq 0 && -f "$STATE" && -f "$ROOT/forskrifter/index.json" ]] \
   && compgen -G "$ROOT/forskrifter/*.md" >/dev/null; then

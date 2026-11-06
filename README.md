@@ -87,8 +87,6 @@ python3 -m venv .venv
 pip install -r requirements.txt
 ```
 
-The updaters also need `b3sum` (Ubuntu: `sudo apt-get install b3sum`).
-
 Download both datasets and regenerate everything:
 
 ```bash
@@ -119,7 +117,7 @@ python tools/regulations/convert_to_markdown.py --only sf/sf-20041201-1558.xml
 
 Checkpoint files are ignored by git and are never used by CI.
 
-Each updater downloads the source tarball, hashes it with BLAKE3 (`b3sum`), and
+Each updater downloads the source tarball, hashes it with BLAKE3, and
 compares it with `source_b3sum` in the dataset's `dataset.json`. If the source
 and converter are unchanged, it exits without extracting or regenerating
 anything. Use `--force` to rebuild anyway:
