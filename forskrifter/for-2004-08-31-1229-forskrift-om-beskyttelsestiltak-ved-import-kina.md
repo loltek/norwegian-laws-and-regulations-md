@@ -1,0 +1,80 @@
+# Forskrift om særskilte beskyttelsestiltak ved import av produkter av animalsk opprinnelse fra Folkerepublikken Kina
+
+- **Korttittel:** Forskrift om beskyttelsestiltak ved import Kina
+- **Datokode:** FOR-2004-08-31-1229
+- **DokumentID:** SF/forskrift/2004-08-31-1229
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Mattilsynet
+- **Hjemmel:** lov 19.12.2003 nr. 124/§12; lov 19.12.2003 nr. 124/§16; lov 19.12.2003 nr. 124/§17; lov 19.12.2003 nr. 124/§19; lov 19.12.2003 nr. 124/§23
+- **Publisert i:** I 2004 hefte 12 (Vedlegg)
+- **Kunngjort:** 2004-09-03
+- **I kraft fra:** 2004-08-31
+- **Siste endring i kraft:** 2023-06-13
+- **Sist endret ved:** forskrift 05.06.2023 nr. 792 fra 2023-06-13
+- **Endrer:** forskrift 06.01.2003 nr. 2
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2012-05-11 (hjemmelsfelt)
+- **Merknad:** Hjemmel: Fastsatt av Det sentrale Mattilsynet ved hovedkontoret 31. august 2004 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 23 tredje ledd, jf. § 12, § 16, § 17 og § 19. EØS-henvisninger: EØS-avtalen vedlegg I kap. I del 7.1 nr. 13, kap. II nr. 41 og vedlegg II kap. XII nr. 54zzzc (vedtak 2002/994/EF som endret ved vedtak 2004/621/EF, vedtak 2005/573/EF, vedtak 2008/463/EF, vedtak 2008/639/EF, vedtak 2009/799/EF, vedtak 2012/482/EU, beslutning EU 2015/1068 og beslutning (EU) 2023/1016). Endret ved forskrifter 5 aug 2008 nr. 874 (bl.a. tittel), 11 aug 2008 nr. 884, 13 mars 2012 nr. 221, 22 aug 2012 nr. 824, 3 juli 2015 nr. 873, 19 okt 2016 nr. 1217, 5 juni 2023 nr. 792 (i kraft 13 juni 2023).
+- **Kilde:** <https://lovdata.no/forskrift/2004-08-31-1229>
+
+## § 1. Forbud
+
+Det er forbudt å importere alle produkter av animalsk opprinnelse, herunder honning, bestemt til folkemat eller til dyrefôr fra Folkerepublikken Kina.
+
+## § 2. Unntak
+
+Unntatt fra forbudet i [§ 1](for-2004-08-31-1229-forskrift-om-beskyttelsestiltak-ved-import-kina.md) er produkter oppført i vedlegget til denne forskriften, og som oppfyller vilkårene i denne forskriften, samt folkehelsemessige og dyrehelsemessige krav som stilles til de aktuelle produktene i andre forskrifter.
+
+## § 3. Helsesertifikat
+
+Forsendelser av produkter listet opp i vedlegg del II tillates importert når hver forsendelse følges av et helsesertifikat. Helsesertifikatet skal inneholde en erklæring fra offisielle kinesiske myndigheter om at forsendelsen har blitt underlagt kjemisk analyse for å sikre at produktene i forsendelsen ikke innebærer noen risiko for dyrs eller menneskers helse.
+
+Den kjemiske analysen skal særlig ha blitt utført for å påvise kloramfenikol, nitrofuran og nitrofuranmetabolitter.
+
+Akvakulturprodukter som er oppført i vedlegg del II, skal i tillegg testes for innhold av malakittgrønt og krystallfiolett og deres metabolitter.
+
+Erklæringen fra offisielle kinesiske myndigheter skal inneholde resultatene av ovennevnte analyser.
+
+*Endret ved [forskrift 5 aug 2008 nr. 874](https://lovdata.no/forskrift/2008-08-05-874).*
+
+## § 4. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskrift er straffbar, jf. [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+## § 5. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.
+
+Samtidig oppheves [forskrift 6. januar 2003 nr. 2](https://lovdata.no/forskrift/2003-01-06-2) om vernetiltak ved import av produkter av animalsk opprinnelse fra Folkerepublikken Kina.
+
+## Vedlegg
+
+*Del I. Liste over produkter av animalsk opprinnelse bestemt til konsum eller til dyrefôr som kan importeres til EØS uten sertifikatet som nevnt i [§ 3](for-2004-08-31-1229-forskrift-om-beskyttelsestiltak-ved-import-kina.md)*
+
+- fisk og fiskeprodukter, unntatt:
+  - akvakulturprodukter,
+  - rensede og/eller behandlede reker,
+  - kreps av arten Procambrus clarkii fanget ved fiske i naturlig ferskvann.
+- gelatin,
+- tilsetningsstoffer i næringsmidler som er omfattet av [forskrift 6. juni 2011 nr. 668 om tilsetningsstoffer til næringsmidler](for-2011-06-06-668-forskrift-om-tilsetningsstoffer-til-naeringsmidler.md) (forordning [(EF) nr. 1333/2008](https://lovdata.no/eu/32008r1333)),
+- stoffer som skal benyttes som eller benyttes i, kosttilskudd som er omfattet av [forskrift 20. mai 2004 nr. 755 om kosttilskudd](for-2004-05-20-755-forskrift-om-kosttilskudd.md) (direktiv [2002/46/EF](https://lovdata.no/eu/32002l0046)),
+- vitamin D3 til konsum, og dets forløpere som brukes i fremstillingen vitamin D3, når de oppfyller kravene for særskilt behandling av høyt foredlede produkter (fettderivater). Disse kravene er gitt i [forskrift 22. desember 2008 nr. 1624 om særlige hygieneregler for næringsmidler av animalsk opprinnelse](for-2008-12-22-1624-animaliehygieneforskriften.md) (avsnitt XVI i vedlegg III til forordning [(EF) nr. 853/2004](https://lovdata.no/eu/32004r0853)),
+- kjæledyrfôr som er omfattet av [forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum](for-2016-09-14-1064-animaliebiproduktforskriften.md) (forordning [(EF) nr. 1069/2009](https://lovdata.no/eu/32009r1069)),
+- kondroitin sulfat og glukosamin ansett som fôrmidler som er omfattet av [forskrift 2. april 2011 nr. 360 om merking og omsetning av fôrvarer](for-2011-04-02-360-forskrift-om-merking-mm-av-forvarer.md) (forordning [(EF) nr. 68/2013](https://lovdata.no/eu/32013r0068)),
+- vitamin D3 og dets forløpere, som skal benyttes som fôrtilsetningsstoffer i samsvar med [forskrift 12. april 2005 nr. 319 om tilsetningsstoffer til bruk i fôrvarer](for-2005-04-12-319-forskrift-om-tilsetningsstoffer-i-forvarer.md) (forordning [(EF) nr. 1831/2003](https://lovdata.no/eu/32003r1831)), til dyrefôr til produksjonsdyr og kjæledyrfôr som er omfattet av [forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum](for-2016-09-14-1064-animaliebiproduktforskriften.md) (forordning [(EF) nr. 1069/2009](https://lovdata.no/eu/32009r1069)),
+- L-cystein og L-cystin som skal benyttes som fôrtilsetningsstoffer i samsvar med [forskrift 12. april 2005 nr. 319 om tilsetningsstoffer til bruk i fôrvarer](for-2005-04-12-319-forskrift-om-tilsetningsstoffer-i-forvarer.md) (forordning [(EF) nr. 1831/2003](https://lovdata.no/eu/32003r1831)).
+
+*Del II. Liste over produkter av animalsk opprinnelse bestemt til konsum eller til dyrefôr som kan importeres til EØS dersom de ledsages av sertifikatet som nevnt i [§ 3](for-2004-08-31-1229-forskrift-om-beskyttelsestiltak-ved-import-kina.md)*
+
+- Akvakulturprodukter,
+- Rensede og/eller behandlede reker,
+- Kreps av arten *Procambrus clarkii* fanget ved fiske i naturlig ferskvann,
+- Dyretarmer,
+- Kaninkjøtt,
+- Honning,
+- Bidronninggelé,
+- Produkter av fjørfekjøtt,
+- Egg og eggprodukter,
+- Propolis og bipollen.
+
+*Vedlegget endret ved [forskrifter 5 aug 2008 nr. 874](https://lovdata.no/forskrift/2008-08-05-874), [11 aug 2008 nr. 884](https://lovdata.no/forskrift/2008-08-11-884), [13 mars 2012 nr. 221](https://lovdata.no/forskrift/2012-03-13-221), [22 august 2012 nr. 824](https://lovdata.no/forskrift/2012-08-22-824) (i kraft 23 aug 2012), [3 juli 2015 nr. 873](https://lovdata.no/forskrift/2015-07-03-873), [19 okt 2016 nr. 1217](https://lovdata.no/forskrift/2016-10-19-1217), [5 juni 2023 nr. 792](https://lovdata.no/forskrift/2023-06-05-792) (i kraft 13 juni 2023).*

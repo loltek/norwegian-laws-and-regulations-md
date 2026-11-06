@@ -1,0 +1,349 @@
+# Lov om naturområder i Oslo og nærliggende kommuner (markaloven)
+
+- **Korttittel:** Markaloven
+- **Datokode:** LOV-2009-06-05-35
+- **DokumentID:** NL/lov/2009-06-05-35
+- **Departement:** Klima- og miljødepartementet
+- **Kunngjort:** 2009-06-05 14:50
+- **I kraft fra:** 2009-09-01
+- **Siste endring i kraft:** 2025-07-01
+- **Sist endret ved:** lov 06.06.2025 nr. 25 fra 2025-07-01
+- **Rettsområde:** Kultur, idrett og underholdning > Idrett. Sport; Miljøvern, natur og friluftsliv > Friluftsliv; Miljøvern, natur og friluftsliv > Naturmangfold/naturfredning
+- **Endrer:** lov 21.06.1996 nr. 38
+- **Siste rettelse:** 2021-08-25 (faglige fotnoter fjernet, UU-tilpasset)
+- **Kilde:** <https://lovdata.no/lov/2009-06-05-35>
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Formål
+
+Formålet med loven er å fremme og tilrettelegge for friluftsliv, naturopplevelse og idrett. Loven skal sikre Markas grenser og bevare et rikt og variert landskap og natur- og kulturmiljø med kulturminner.
+
+Det skal samtidig tas hensyn til bærekraftig bruk til andre formål.
+
+### § 2. Stedlig og saklig virkeområde
+
+Lovens geografiske virkeområde (Marka) består av følgende områder: Kjekstadmarka, Vardåsmarka, Vestmarka, Krokskogen, Bærumsmarka, Nordmarka, Lillomarka, Romeriksåsene, Gjelleråsmarka, Østmarka og Sørmarka. Virkeområdet er nærmere avgrenset som det fremgår av Klima- og miljødepartementets digitale kart «Markagrensen».
+
+Kongen kan gi forskrift om at loven skal gjelde for nærliggende områder som har, eller gjennom tilrettelegging eller skjøtsel kan få, tilsvarende verdi for friluftslivet.
+
+Kongen kan gi forskrift om innskrenkende justeringer av markagrensen dersom vesentlige samfunnsinteresser gjør det nødvendig. Arealmangel som følge av utbyggingspress i regionen, utgjør ikke en vesentlig samfunnsinteresse.
+
+Kongen kan gi forskrift om mindre innskrenkende justeringer av grensen der den går gjennom boligeiendommer, eller den av andre grunner medfører større praktiske ulemper for forvaltningen av en eiendom, og justeringen ikke er til nevneverdig skade for friluftsliv, idrett eller naturopplevelse.
+
+I vurderingen av om grensen skal justeres etter tredje eller fjerde ledd kan det legges vekt på om det legges nye egnede områder til Marka til erstatning for området som tas ut.
+
+Loven omfatter bygge- og anleggstiltak som nevnt i [§ 5](lov-2009-06-05-35-markaloven.md), inkludert bygge- og anleggstiltak i landbruket. Loven omfatter ikke
+
+a. skogbehandling, hogsttiltak og drift av jordbruksarealer
+b. tiltak som er nevnt i [plan- og bygningsloven § 1-3 andre ledd](lov-2008-06-27-71-plan-og-bygningsloven.md), eller som inngår i vedtak etter [plan- og bygningsloven § 6-4 tredje ledd](lov-2008-06-27-71-plan-og-bygningsloven.md).
+
+*Endret ved [lover 10 apr 2019 nr. 12](https://lovdata.no/lov/2019-04-10-12), [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 3. Myndighet etter loven
+
+Departementet er øverste forvaltningsmyndighet etter denne lov. Departementet kan legge nærmere angitte oppgaver etter denne lov til den enkelte statsforvalter eller Miljødirektoratet.
+
+Kongen kan i forskrift tildele kommunen eller fylkeskommunen myndighet etter nærmere angitte bestemmelser i eller i medhold av loven her. Departementet kan i forskrift tildele myndighet for område vernet etter [§ 11](lov-2009-06-05-35-markaloven.md) til kommuner som samtykker til det. Departementet kan bestemme at et særskilt oppnevnt organ er forvaltningsmyndighet for et område vernet med hjemmel i [§ 11](lov-2009-06-05-35-markaloven.md).
+
+Departementet har samme myndighet til å omgjøre kommunens eller fylkeskommunens vedtak etter loven her som overordnet organ har etter [forvaltningslovens](lov-1967-02-10-forvaltningsloven.md) bestemmelser om omgjøring.
+
+*Endret ved [lover 14 juni 2013 nr. 48](https://lovdata.no/lov/2013-06-14-48) (ikr. 1 juli 2013), [21 juni 2019 nr. 52](https://lovdata.no/lov/2019-06-21-52) (ikr. 1 jan 2020 iflg. [res. 22 nov 2019 nr. 1548](https://lovdata.no/forskrift/2019-11-22-1548)), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)), [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 3 a. Unntak fra krav i loven for Forsvaret
+
+Dersom et tiltak krever bruk av sikkerhetsgradert informasjon etter [sikkerhetsloven § 5-3](lov-2018-06-01-24-sikkerhetsloven.md), eller tiltaket berører objekt eller infrastruktur som Forsvarsdepartementet har utpekt eller vil utpeke som skjermingsverdig i medhold av [sikkerhetsloven § 7-1](lov-2018-06-01-24-sikkerhetsloven.md), er tiltaket unntatt fra forbudet mot bygge- og anleggstiltak i [§ 5](lov-2009-06-05-35-markaloven.md) og krav om tillatelse for bygge- og anleggstiltak etter [§ 14](lov-2009-06-05-35-markaloven.md) eller dispensasjon etter [§ 15](lov-2009-06-05-35-markaloven.md). Forsvaret skal i slike tilfeller vektlegge ivaretakelsen av [markalovens](lov-2009-06-05-35-markaloven.md) formål.
+
+*Tilføyd ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 3 b. Unntak fra krav i loven for visse skjermingsverdige objekter og infrastruktur
+
+Dersom tvingende sikkerhetshensyn gjør det nødvendig, kan hvert departement innen sitt myndighetsområde beslutte at et tiltak som krever bruk av sikkerhetsgradert informasjon etter [sikkerhetsloven § 5-3](lov-2018-06-01-24-sikkerhetsloven.md), eller skal utføres i tilknytning til objekt eller infrastruktur som er eller vil bli utpekt som skjermingsverdig etter [sikkerhetsloven § 7-1](lov-2018-06-01-24-sikkerhetsloven.md), helt eller delvis skal være unntatt fra forbudet mot bygge- og anleggstiltak i [§ 5](lov-2009-06-05-35-markaloven.md) og krav om tillatelse for bygge- og anleggstiltak etter [§ 14](lov-2009-06-05-35-markaloven.md) eller dispensasjon etter [§ 15](lov-2009-06-05-35-markaloven.md). [Plan- og bygningsloven § 20-8](lov-2008-06-27-71-plan-og-bygningsloven.md) andre til fjerde ledd gjelder så langt de passer.
+
+*Tilføyd ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+## Kapittel 2. Alminnelige rammer for tiltak og virksomhet
+
+### § 4. Arealformål
+
+Med mindre annet er bestemt i plan stadfestet med hjemmel i [§ 7](lov-2009-06-05-35-markaloven.md) eller i statlig arealplan etter [plan- og bygningsloven § 6-4](lov-2008-06-27-71-plan-og-bygningsloven.md), har Marka landbruks-, natur- og friluftsformål (LNF-område) etter [plan- og bygningsloven](lov-2008-06-27-71-plan-og-bygningsloven.md).
+
+Restriksjoner som følger av arealplaner vedtatt før 1. september 2009 gjelder i tillegg til loven her.
+
+*Endret ved [lover 28 mars 2014 nr. 9](https://lovdata.no/lov/2014-03-28-9) (ikr. 1 juni 2014 iflg. [res. 28 mars 2014 nr. 371](https://lovdata.no/forskrift/2014-03-28-371)), [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 5. Forbud mot bygge- og anleggstiltak
+
+Bygge- og anleggstiltak er forbudt i Marka. Med bygge- og anleggstiltak menes i loven her:
+
+a. oppføring, tilbygging, påbygging, underbygging eller plassering av bygning, konstruksjon eller anlegg
+b. vesentlig endring av tiltak som nevnt under bokstav a
+c. varig eller tidsbestemt bruksendring, vesentlig utvidelse eller vesentlig endring av tidligere drift av tiltak som nevnt under bokstav a
+d. oppføring eller endring av bygningstekniske installasjoner
+e. oppdeling av bruksenheter i boliger
+f. plassering av skilt- og reklameinnretninger
+g. plassering av midlertidige bygninger, konstruksjoner eller anlegg
+h. vesentlige terrenginngrep
+i. anlegg av veg, parkeringsplass og landingsplass
+j. annen virksomhet og endring av arealbruk som vil være i strid med arealformål, planbestemmelser og hensynssoner.
+
+Forbudet i første ledd omfatter ikke følgende tiltak dersom disse er i samsvar med plan:
+
+a. innvendige og utvendige arbeider og installasjoner på eksisterende bygning, konstruksjon eller anlegg, inkludert reparasjoner, når dette ikke øker bruksareal eller på annen måte øker bygningsmassen
+b. fasadeendringer som ikke endrer bygningens karakter, samt tilbakeføring av fasade til tidligere dokumentert utførelse
+c. oppføring av mindre konstruksjoner som hundehus, mindre lekestuer o.l., og som enkelt kan fjernes
+d. mindre fylling eller planering av terreng når tiltaket ikke medfører mer enn 0,5 meter avvik fra opprinnelig terrengnivå
+e. forstøtningsmur inntil 1 meters høyde og som ikke er nærmere nabogrense enn 4 meter
+f. permanent overdekking av fyringsved til egen bruk på flate som samlet ikke er større enn 5 m2 på hver eiendom
+g. fast dekke på én uteplass på inntil 20 m2 på hver eiendom. Avstanden mellom uteplass og nærmeste nabogrense skal være minst 4,0 meter
+h. levegg ved uteplass med høyde inntil 1,8 meter og som samlet per eiendom ikke overstiger 5 meter lengde
+i. terrasser som har en høyde på inntil 1,0 meter fra eksisterende terreng, er forbundet med en bygning og samlet for hver eiendom ikke overstiger 20 m2. Slike terrasser kan ha et tilhørende rekkverk på inntil 1,2 meter, men kan ikke være overbygde. Avstanden mellom terrasse og nabogrensen skal være minst 4,0 meter
+j. oppføring av mindre skilt som viser informasjon om løyper, turmål, natur, kulturmiljø eller serverings- og overnattingstilbud
+k. drift og vedlikehold samt nødvendig istandsetting ved akutt utfall på eksisterende energi- og kraftanlegg
+l. oppgradering eller fornyelse av kraftledninger for å heve spenningsnivå og øke linjetverrsnittet når dette ikke har nevneverdig betydning for ivaretakelse av [markalovens](lov-2009-06-05-35-markaloven.md) formål
+m. vedlikehold og rehabilitering av vassdragsanlegg
+n. nedlegging av vassdragsanlegg der dette er konsesjonspliktig etter [vannressursloven § 41](lov-2000-11-24-82-vannressursloven.md).
+
+Tiltakshaver er ansvarlig for at tiltak som nevnt i andre ledd utføres i samsvar med de krav som ellers er fastsatt i eller i medhold av lov.
+
+Departementet kan fastsette forskrift om hvilke tiltak som omfattes av paragrafen her.
+
+*Endret ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 6. Unntak for tiltak i kommunale eller statlige planer i Marka
+
+Kommunale planer etter [plan- og bygningsloven](lov-2008-06-27-71-plan-og-bygningsloven.md) kan uavhengig av [§ 4 første ledd](lov-2009-06-05-35-markaloven.md) og [§ 5 første ledd](lov-2009-06-05-35-markaloven.md) åpne for følgende bygge- og anleggstiltak i Marka:
+
+a. tiltak i landbruk, herunder bygninger og terrenginngrep
+b. tilretteleggingstiltak etter [§ 9 første ledd](lov-2009-06-05-35-markaloven.md) som forutsetter reguleringsplan etter bestemmelser i eller i medhold av [plan- og bygningsloven](lov-2008-06-27-71-plan-og-bygningsloven.md)
+c. idrettsanlegg som kan innpasses innenfor lovens formål
+d. offentlige infrastrukturanlegg som veger, utfartsparkeringer, jernbane, dammer, vannforsyningssystemer, kraftledninger mv. samt områder for igangværende råstoffutvinning
+e. ombygging og mindre utvidelser av eksisterende bygninger, anlegg og innretninger
+f. begrenset spredt utbygging i tilknytning til eksisterende bebyggelse i Sørkedalen og Maridalen når utbyggingen er nødvendig for å opprettholde et etablert lokalsamfunn
+g. utvidelse, modernisering eller etablering av serverings- eller overnattingsvirksomhet som har til formål å fremme, eller som samlet sett har flere fordeler enn ulemper for, friluftsliv, idrett eller naturopplevelse
+h. tiltak som har til formål å fremme eller tilrettelegge for friluftsliv, idrett eller naturopplevelse for allmennheten
+i. tiltak til militære formål
+j. tiltak for å forebygge skader fra ras, skred, steinsprang eller flom og for håndtering av overvann
+k. tiltak for å hindre, stanse, fjerne eller begrense virkningen av forurensning
+l. tiltak for å forbedre eller gjenopprette tilstand i økosystemer som er blitt forringet eller ødelagt.
+
+Tiltak som nevnt i første ledd krever søknad og tillatelse etter [§ 14](lov-2009-06-05-35-markaloven.md).
+
+Kommunale planer i Marka kan også videreføre eksisterende tiltak som er i tråd med tidligere vedtak om varig etablering etter loven her, eller tiltak som var lovlig etablert som varig tiltak før loven her trådte i kraft.
+
+Myndighet etter [plan- og bygningsloven § 6-4](lov-2008-06-27-71-plan-og-bygningsloven.md) kan fravike forbudet i [§ 5](lov-2009-06-05-35-markaloven.md) ved statlig arealplan.
+
+*Endret ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 7. Behandling av kommunale planer i Marka
+
+Igangsetting av arbeid med kommunal plan som nevnt i [§ 6 første ledd](lov-2009-06-05-35-markaloven.md) krever tillatelse fra statsforvalteren. Statsforvalterens avgjørelse er endelig og kan ikke påklages.
+
+Kommunens endelige vedtak om kommunal plan som nevnt i [§ 6 første ledd](lov-2009-06-05-35-markaloven.md) må stadfestes av departementet før planen får rettsvirkning etter [plan- og bygningsloven](lov-2008-06-27-71-plan-og-bygningsloven.md). Slike planer skal bare stadfestes dersom de etter departementets syn lar seg forene med lovens formål. Departementet kan endre kommunens plan dersom det anser det nødvendig for at planen skal være i samsvar med lovens formål.
+
+Første og andre ledd gjelder ikke for tiltak som omfattes av [§ 3 a](lov-2009-06-05-35-markaloven.md) og [§ 3 b](lov-2009-06-05-35-markaloven.md) om visse skjermingsverdige objekter og infrastruktur i medhold av [sikkerhetsloven](lov-2018-06-01-24-sikkerhetsloven.md).
+
+*Endret ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 8. (Opphevet)
+
+*Opphevet ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+## Kapittel 3. Ferdsel, friluftsliv og hensynsfull bruk av Marka
+
+### § 9. Tilrettelegging for ferdsel, stier, løyper, klatreruter og områder for allmennheten
+
+Anlegging av stier, løyper, klatreruter og områder for friluftslivsaktiviteter for allmennheten krever tillatelse etter [§ 14](lov-2009-06-05-35-markaloven.md) dersom dette medfører oppføring av konstruksjon eller vesentlige terrenginngrep. Mindre tiltak som skilting og merking av ny trase, samt enkelt vedlikehold og forbedring av eksisterende trase, legging av klopper og liknende, rensking og bolting av klatreruter, fjerning av røtter og mindre terrenginngrep, kan gjennomføres uten søknad. For gjennomføring av større bygge- og anleggstiltak og andre tiltak som kan få vesentlige virkninger for miljø og samfunn, kreves det stadfestet reguleringsplan, jf. [plan- og bygningsloven kap. 12](lov-2008-06-27-71-plan-og-bygningsloven.md) og denne lovs [§ 7](lov-2009-06-05-35-markaloven.md) samt tillatelse etter [§ 14](lov-2009-06-05-35-markaloven.md).
+
+Departementet kan i forskrift gi nærmere bestemmelser om tiltak etter første ledd. Det kan gis bestemmelser om at det ikke, eller bare på nærmere vilkår, skal ryddes, anlegges, merkes eller prepareres stier eller løyper innenfor bestemte områder i Marka.
+
+Permanente tiltak etter første ledd krever samtykke fra grunneier eller fester.
+
+Statsforvalteren kan gi offentlige myndigheter og organisasjoner med allment friluftsliv som formål rett til å anlegge, rydde, merke og preparere stier, løyper, klatreruter og områder for friluftslivsaktiviteter for allmennheten. Tillatelse kan gis for avgrensede områder eller for enkelte stier eller løyper.
+
+Statsforvalteren kan i det enkelte tilfelle vedta at inngrep etter andre og fjerde ledd kan foretas uten forutgående samtykke. Volder tiltaket skade, kan vedkommende eier eller fester kreve erstatningsspørsmålet avgjort ved skjønn. De lovbestemte kostnader ved skjønnet skal erstattes grunneier eller rettighetshaver, hvis skjønnet ikke finner at det kan gjøres unntak fordi erstatningssøkeren har avslått et rimelig forlikstilbud eller uten rimelig grunn har forlangt skjønn. I den utstrekning det finnes rimelig kan erstatningssøkeren også tilkjennes erstatning for utgifter som har vært nødvendig for å ivareta hans tarv under skjønnssaken.
+
+Grunneier, fester eller bruker kan kreve omlagt tiltak etter første ledd som påfører ham særlig skade eller ulempe, dersom dette kan skje uten vesentlig ulempe for friluftslivet eller allmenne interesser for øvrig. For tiltak som medfører eller kan medføre vesentlig skade på naturmiljøet, kan omlegging også kreves av organisasjoner med naturvern eller friluftsliv som formål.
+
+Krav om omlegging rettes til den som holder løypa, stien, klatreruten eller området ved like. Tvist om omlegging kan kreves avgjort av statsforvalteren.
+
+*Endret ved lover [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)), [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 10. Regler for motorisert ferdsel
+
+I Marka er motorferdsel i utmark og vassdrag ikke tillatt med mindre annet følger av denne lov eller forskrift gitt i medhold av denne lov. [Motorferdselloven](lov-1977-06-10-82-motorferdselloven.md) gjelder ikke i Marka. All motorferdsel i utmark og vassdrag skal foregå varsomt og på tidspunkter som i minst mulig grad medfører ulemper for friluftslivet, skader i terrenget eller forstyrrelser for dyrelivet. På disse vilkår er nødvendig motorferdsel tillatt i forbindelse med:
+
+a. politi-, ambulanse- og redningstjeneste og oppsyns- og tilsynstjeneste etablert med hjemmel i lov,
+b. offentlige post- og teletjenester,
+c. person- og godstransport til og fra faste bosteder og i jordbruks- og skogbruksnæring. Jakt, fiske og bærsanking regnes ikke som næring i denne forbindelse,
+d. skånsom transport av felt elg, hjort og villsvin,
+e. drift og vedlikehold av hytter som er åpne for allmennheten,
+f. Forsvarets øvelser, forflytninger og transporter,
+g. transport i forbindelse med anlegg og drift av veger og større anlegg, herunder dammer,
+h. vedlikehold av eksisterende løyper, stier, turveier og områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov-2009-06-05-35-markaloven.md) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,
+i. anlegg av nye og utvidelse av eksisterende løyper og områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov-2009-06-05-35-markaloven.md) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,
+j. brøyting eller preparering av snødekket mark eller islagte vann for å etablere løyper, baner eller områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov-2009-06-05-35-markaloven.md) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,
+k. transport i forbindelse med fiskekultiveringstiltak med offentlig formål,
+l. drift og vedlikehold av eksisterende og bygging av nye energi- og kraftanlegg,
+m. nødvendig istandsetting ved akutt utfall i områder som er vernet eller midlertidig vernet etter [§ 11](lov-2009-06-05-35-markaloven.md).
+
+Med utmark menes udyrket mark som etter [lov om friluftslivet § 1 a første ledd](lov-1957-06-28-16-friluftsloven.md) ikke regnes som innmark eller like med innmark. Setervoll, hustomt, engslått, kulturbeite og skogplantefelt som ligger i utmark, regnes i denne lov like med utmark.
+
+Veg i utmark som ikke er opparbeidet for kjøring med bil, anses i denne lov som utmark. Det samme gjelder opparbeidet veg som ikke er brøytet for kjøring med bil.
+
+Med vassdrag menes åpne og islagte elver, bekker og innsjøer. Med motorferdsel menes i denne lov bruk av kjøretøy (bil, traktor, motorsykkel, beltebil, snøscooter o.l.) og båt eller annet flytende eller svevende fartøy drevet med motor, samt landing og start med motordrevet luftfartøy.
+
+Departementet kan ved forskrift forby eller begrense ferdselen med motorkjøretøy på privat veg for andre enn fastboende og besøkende til disse når ferdselen ikke har erverv, forvaltning eller oppsyn til formål eller skjer i politi, ambulanse-, brannvern- eller sikringsøyemed. Det kan fastsettes regulerende bestemmelser for ellers lovlig ferdsel med motorkjøretøy på vegene.
+
+Departementet kan gi forskrift om adgang til bruk av elsykler i utmark i Marka og om bruken av slike sykler.
+
+Denne loven innskrenker ikke grunneiers eller rettighetshavers adgang til å forby eller begrense motorferdsel på sin eiendom.
+
+*Endret ved [lover 10 apr 2019 nr. 12](https://lovdata.no/lov/2019-04-10-12), [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)). **Endres** ved lov [19 juni 2026 nr. 53](lov-2026-06-19-53-motorferdselloven.md) (i kraft fra den tid Kongen bestemmer).*
+
+### § 11. Særskilt vern av friluftslivsområder
+
+Kongen kan verne som friluftslivsområde områder som på grunn av naturopplevelsesverdier har særskilte kvaliteter for friluftslivet. Det kan fastsettes nærmere bestemmelser om området, herunder bestemmelser om skjøtsel og bruk.
+
+Departementet kan verne områder midlertidig for å forhindre skade på verneverdier. Det kan fastsettes nærmere bestemmelser om området, herunder bestemmelser om skjøtsel og bruk.
+
+Bestemmelsene om saksbehandling i [naturmangfoldloven kapittel V](lov-2009-06-19-100-naturmangfoldloven.md) gjelder for opprettelse av friluftslivsområder.
+
+Det kan ikke iverksettes tiltak i friluftslivsområde som vesentlig kan endre områdets verdi som friluftslivsområde. Departementet avgjør i tvilstilfelle om et tiltak kan endre områdets verdi vesentlig som friluftslivsområde.
+
+En eier av eller rettighetshaver i eiendom som helt eller delvis blir vernet som friluftslivsområde, har rett til erstatning fra staten for økonomisk tap når et vern medfører en vanskeliggjøring av igangværende bruk. Dersom bruken trenger tillatelse fra offentlig myndighet, gjelder retten til erstatning bare når tillatelse er gitt før det er foretatt kunngjøring etter [naturmangfoldloven § 42](lov-2009-06-19-100-naturmangfoldloven.md). [Naturmangfoldloven § 51](lov-2009-06-19-100-naturmangfoldloven.md) gjelder for fremgangsmåten ved fastsetting av erstatning etter bestemmelsen her.
+
+Når vilkårene etter femte ledd er oppfylt, fastsettes erstatningen for tap som følge av vanskeliggjøring av igangværende bruk i samsvar med utmålingsreglene i [lov 6. april 1984 nr. 17](https://lovdata.no/lov/1984-04-06-17) om vederlag ved oreigning av fast eigedom. Ved anvendelsen av [lov 6. april 1984 nr. 17](https://lovdata.no/lov/1984-04-06-17) om vederlag ved oreigning av fast eigedom [§ 10](https://lovdata.no/lov/1984-04-06-17/§10) skal tidspunktet for vernevedtaket legges til grunn.
+
+*Endret ved [lover 28 mars 2014 nr. 9](https://lovdata.no/lov/2014-03-28-9) (ikr. 1 juni 2014 iflg. [res. 28 mars 2014 nr. 371](https://lovdata.no/forskrift/2014-03-28-371)), [12 aug 2016 nr. 79](https://lovdata.no/lov/2016-08-12-79).*
+
+### § 12. Hensynsfull bruk av Marka
+
+Departementet kan gi forskrift om hensynsfull bruk av Marka. Bestemmelsene i forskriften skal bidra til å bevare og utvikle et godt forhold mellom brukere av Marka innen henholdsvis friluftsliv, idrett og næringsutøvelse i tillegg til hytteeiere og fastboende. Det skal legges vekt på at flerbruken i Marka skal foregå innenfor rammen av bærekraftig bruk.
+
+## Kapittel 4. Rådet for markasaker (Markarådet)
+
+### § 13. Rådet for markasaker (Markarådet)
+
+Departementet kan oppnevne et råd for markasaker. Markarådet skal arbeide for å fremme formålet med loven og kan av eget tiltak ta opp saker til behandling i rådet. Markarådet kan blant annet gi uttalelse til:
+
+a. søknader om tillatelse i større saker og dispensasjon
+b. forslag til planer
+c. forslag om særskilt vern av friluftslivsområde i henhold til [§ 11](lov-2009-06-05-35-markaloven.md) i denne lov.
+
+Markarådet kan utarbeide forslag til forskrift om hensynsfull bruk av Marka.
+
+Markarådet med varamedlemmer oppnevnes for fire år om gangen. Rådet velger selv sin leder.
+
+Departementet fastsetter nærmere bestemmelser om Markarådets sammensetning, antall medlemmer, oppgaver og arbeidsordning, sekretariatsordning, herunder hvilke oppgaver sekretariatet skal utføre mv.
+
+## Kapittel 5. Tillatelse til tiltak, dispensasjon, saksbehandling og klage
+
+### § 14. Tiltak kommunen kan gi tillatelse til
+
+Kommunen kan uavhengig av [§ 5 første ledd](lov-2009-06-05-35-markaloven.md) gi tillatelse til å
+
+a. gjennomføre tiltak, inkludert bruksendring, som er i samsvar med vedtatt og stadfestet kommunal plan, jf. [§§ 6](lov-2009-06-05-35-markaloven.md) og [7](lov-2009-06-05-35-markaloven.md)
+b. anlegge tilretteleggingstiltak som nevnt i [§ 9 første ledd første punktum](lov-2009-06-05-35-markaloven.md), når disse er i samsvar med vedtatt og stadfestet kommunal plan, jf. [§§ 6](lov-2009-06-05-35-markaloven.md) og [7](lov-2009-06-05-35-markaloven.md)
+c. gjenoppføre bygninger som har gått tapt ved brann eller naturskade, og som er i samsvar med gjeldende plan
+d. gjennomføre bygge- og anleggstiltak som er i samsvar med arealformål LNF, jf. § 4 første ledd, [plan- og bygningsloven § 11-7 andre ledd nr. 5 bokstav a](lov-2008-06-27-71-plan-og-bygningsloven.md) eller [§ 12-5 andre ledd nr. 5](lov-2008-06-27-71-plan-og-bygningsloven.md).
+
+I et vedtak om tillatelse etter første ledd skal det i vurderingen av om tillatelse skal gis, fremgå hvilken betydning tiltaket har for ivaretakelse av lovens formål, og hvordan dette er vektlagt. I saker om tillatelse til bygge- og anleggstiltak i landbruket skal søknadsbehandlingen begrenses til å kontrollere at tiltaket har landbruksformål, inngår i et område med arealformål LNF etter § 4 første ledd, [plan- og bygningsloven § 11-7 andre ledd nr. 5 bokstav a](lov-2008-06-27-71-plan-og-bygningsloven.md) eller [§ 12-5 andre ledd nr. 5](lov-2008-06-27-71-plan-og-bygningsloven.md) og er i samsvar med eventuelle planer som nevnt i første ledd bokstav a.
+
+Dersom et tiltak utløser krav om reguleringsplan etter bestemmelse i eller i medhold av [plan- og bygningsloven](lov-2008-06-27-71-plan-og-bygningsloven.md), skal det foreligge stadfestet reguleringsplan for tiltaket før kommunen kan gi tillatelse etter første ledd.
+
+*Endret ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 15. Dispensasjon
+
+Kommunen kan gi varig eller midlertidig dispensasjon fra bestemmelsene i [§ 4 første ledd](lov-2009-06-05-35-markaloven.md), [§ 5 første ledd](lov-2009-06-05-35-markaloven.md) og [§ 10 første ledd](lov-2009-06-05-35-markaloven.md) samt fra bestemmelser i plan fastsatt med hjemmel i [§ 7 andre ledd](lov-2009-06-05-35-markaloven.md). Regionale og statlige myndigheter hvis saksområde blir direkte berørt, skal få mulighet til å uttale seg før det treffes vedtak etter bestemmelsen her.
+
+Dispensasjon kan bare gis dersom hensynene i lovens formålsbestemmelse ikke blir vesentlig tilsidesatt, og fordelene ved å gi dispensasjon etter en samlet vurdering anses for å være klart større enn ulempene for friluftslivet, naturmiljøet eller allmenne interesser. Det kan ikke dispenseres fra kravet om utarbeidelse av reguleringsplan etter [plan- og bygningsloven](lov-2008-06-27-71-plan-og-bygningsloven.md) eller andre saksbehandlingsregler. Det kan settes vilkår for dispensasjonen.
+
+I vurderingen av om dispensasjon skal gis, skal kommunen legge særlig vekt på uttalelser fra direkte berørte statlige eller regionale myndigheter. Vurderingen skal fremgå av vedtaket. Kommunen skal gi myndigheter som har uttalt seg, kopi av vedtaket.
+
+*Endret ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 16. Klage
+
+Statsforvalteren er klageinstans for kommunens vedtak etter denne lov. Miljødirektoratet er klageinstans for statsforvalterens vedtak. Statsforvalteren og fylkeskommunen kan av eget tiltak påklage kommunens vedtak etter [§ 15](lov-2009-06-05-35-markaloven.md) og andre vedtak som kommunen fatter i medhold av denne lov. Ellers gjelder reglene om klage i [forvaltningsloven](lov-1967-02-10-forvaltningsloven.md) tilsvarende.
+
+*Endret ved [lover 14 juni 2013 nr. 48](https://lovdata.no/lov/2013-06-14-48) (ikr. 1 juli 2013), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)), [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+## Kapittel 6. Tilsyn, kontroll, retting og straff
+
+### § 17. Tilsyn og kontroll
+
+Kommunen og statsforvalteren skal gjennom råd, veiledning og opplysning arbeide for å fremme formålet med denne lov.
+
+Kommunen skal føre tilsyn med at bestemmelsene gitt i og i medhold av denne lov blir overholdt. Kommunen avgjør på hvilke områder det skal føres tilsyn. Det skal legges vekt på å føre et så effektivt tilsyn som forholdene tilsier med minst mulig belastning for miljøet.
+
+Ved tilsyn skal den som blir kontrollert eller den ansvarlige for virksomheten gi tilsynsmyndigheten nødvendig bistand og opplysninger. Tilsynsmyndigheten kan stanse personer, fartøyer og motorkjøretøyer dersom dette er nødvendig for utøvelsen av tilsynet.
+
+Kommunen og statsforvalteren kan påpeke plikt etter andre lover som er av betydning for formålet med denne lov og skal melde antatte brudd på plikter etter annet lovverk til ansvarlig tilsynsmyndighet.
+
+Departementet kan i forskrift gi nærmere regler om tilsyn, kontroll og rapportering.
+
+*Endret ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 17 a. Plikt til å forfølge ulovligheter
+
+Kommunen skal forfølge overtredelser av bestemmelser gitt i eller i medhold av denne loven.
+
+Er overtredelsen av mindre betydning, kan kommunen avstå fra å forfølge ulovligheten. Beslutning om å ikke forfølge en overtredelse er ikke enkeltvedtak etter [forvaltningsloven](lov-1967-02-10-forvaltningsloven.md).
+
+*Tilføyd ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 18. Retting og avbøtende tiltak
+
+Kommunen kan pålegge den ansvarlige å rette eller stanse forhold som er i strid med loven eller i strid med vedtak med hjemmel i loven.
+
+Den som ved å overtre loven eller vedtak med hjemmel i loven forårsaker fare for miljøforringelse, skal sette i verk tiltak for å forhindre at slik miljøforringelse skjer. Har miljøforringelsen allerede inntrådt, plikter skadevolder å hindre ytterligere miljøforringelse. Han plikter som hovedregel også å gjenopprette den tidligere miljøtilstand ved oppsamling, rydding, fjerning, planering eller andre egnede tiltak. Tiltak som i seg selv kan volde miljøpåvirkning av noen betydning, skal bare iverksettes etter tillatelse fra departementet eller pålegg etter første ledd.
+
+Plikten til utbedring og gjenoppretting gjelder ikke dersom det i lys av kostnadene og virkningene av tiltakene, miljøvirkningene av overtredelsen og overtrederens skyld og økonomiske stilling ville være særlig urimelig.
+
+### § 19. Tvangsmulkt
+
+For å sikre at bestemmelser gitt i eller i medhold av denne lov blir gjennomført, kan kommunen eller statsforvalteren fatte vedtak om tvangsmulkt.
+
+Tvangsmulkt kan fastsettes når overtredelsen av en bestemmelse er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter fastsatt frist for retting av forholdet. Tvangsmulkt kan fastsettes på forhånd dersom særlige grunner tilsier det, og løper da fra en eventuell overtredelse inntreffer. Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forhold varer, eller at den forfaller for hver overtredelse. Tvangsmulkt løper likevel ikke dersom etterlevelse er umulig på grunn av forhold som ikke skyldes den ansvarlige. Tvangsmulkt kan fastsettes som løpende mulkt eller engangsmulkt.
+
+Tvangsmulkt pålegges den ansvarlige for overtredelsen. Pålegg om tvangsmulkt er tvangsgrunnlag for utlegg. Departementet kan frafalle påløpt tvangsmulkt.
+
+*Endret ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+### § 20. Straff
+
+Med bøter eller fengsel inntil ett år straffes den som forsettlig eller grovt uaktsomt overtrer bestemmelsene i eller i medhold av [§ 5](lov-2009-06-05-35-markaloven.md), [§ 6](lov-2009-06-05-35-markaloven.md), [§ 9](lov-2009-06-05-35-markaloven.md), [§ 10](lov-2009-06-05-35-markaloven.md), [§ 11](lov-2009-06-05-35-markaloven.md), [§ 17](lov-2009-06-05-35-markaloven.md) eller [§ 18](lov-2009-06-05-35-markaloven.md).
+
+Er det inntrådt eller voldt fare for betydelig miljøskade, eller overtredelsene er grove, kan fengsel inntil tre år anvendes. Ved vurderingen av om overtredelsen er grov, skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.
+
+*Endret ved lov [6 juni 2025 nr. 25](https://lovdata.no/lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](https://lovdata.no/forskrift/2025-06-06-945)).*
+
+## Kapittel 7. Ikrafttredelse
+
+### § 21. Ikrafttredelse
+
+Loven gjelder fra den tid Kongen bestemmer.[1]
+
+### § 22. Overgangsbestemmelse
+
+Departementet kan i forskrift gi nærmere bestemmelser om hvordan reglene i [plan- og bygningsloven 14. juni 1985 nr. 77](https://lovdata.no/lov/1985-06-14-77) skal virke sammen med bestemmelser i denne lov.
+
+### § 23. Endringer i andre lover
+
+I [lov om statlig naturoppsyn 21. juni 1996 nr. 38](lov-1996-06-21-38-naturoppsynsloven.md) (naturoppsynsloven) skal [§ 2](lov-1996-06-21-38-naturoppsynsloven.md) første ledd lyde: – – –
+
+## Klima- og miljødepartementets digitale kart «Markagrensen» datert 10. april 2019
+
+*Endret ved [forskrift 4 sep 2015 nr. 1032](../forskrifter/for-2015-09-04-1032-markalovforskriften.md), [kunngjøring 10 apr 2019 nr. 623](https://lovdata.no/forskrift/2019-04-10-623).*
+
+*Markalovens geografiske virkeområde*
+
+For å lese kartet se her: [(pdf)](https://lovdata.no/static/NL/nl-20090605-035-01-02.pdf)
+
+*Endret ved [kunngjøring 10 apr 2019 nr. 623](https://lovdata.no/forskrift/2019-04-10-623).*
+
+## Fotnoter
+
+**1.** Fra 1 sep 2009 iflg. [res. 5 juni 2009 nr. 618](https://lovdata.no/forskrift/2009-06-05-618).

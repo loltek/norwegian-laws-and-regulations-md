@@ -1,0 +1,64 @@
+# Lov om forsøk i offentlig forvaltning (forsøksloven)
+
+- **Korttittel:** Forsøksloven
+- **Datokode:** LOV-1992-06-26-87
+- **DokumentID:** NL/lov/1992-06-26-87
+- **Departement:** Kommunal- og distriktsdepartementet
+- **I kraft fra:** 1993-01-01
+- **Siste endring i kraft:** 2021-06-01
+- **Sist endret ved:** lov 07.05.2021 nr. 34 fra 2021-06-01
+- **Rettsområde:** Forvaltnings- og kommunalrett > Offentlig forvaltning
+- **Siste rettelse:** 2022-04-04 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Sml. lover 17 juli 1992 nr. 100 § 2-4 og 17 juli 1998 nr. 61 § 1-5. Lovens tittel endret ved lov 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879).
+- **Kilde:** <https://lovdata.no/lov/1992-06-26-87>
+
+## § 1. Lovens formål
+
+Formålet med denne lov er gjennom forsøk å utvikle funksjonelle og effektive organisasjons- og driftsformer i den offentlige forvaltning, og en hensiktsmessig oppgavefordeling mellom forvaltningsorganer og mellom forvaltningsnivåer. Det skal legges særlig vekt på å forbedre den offentlige tjenesteyting overfor borgerne og få til best mulig ressursutnyttelse. Ved forsøk som omfatter folkevalgte organer skal det også legges vekt på å fremme gode demokratiske styringsformer.
+
+## § 2. Lovens virkeområde
+
+Denne lov gjelder for forsøk i den statlige, fylkeskommunale og kommunale forvaltning, hvis ikke annet følger av lov.
+
+## § 3. Hva forsøkene kan omfatte
+
+Kongen kan godkjenne forsøk med:
+
+a. avvik fra gjeldende lover og forskrifter om hvordan staten, fylkeskommunene eller kommunene skal organisere sin virksomhet og løse sine oppgaver
+b. avvik fra bestemmelsene om oppgavefordelingen mellom statlige, fylkeskommunale og kommunale forvaltningsorganer
+c. unntak fra statlige kontrollordninger overfor fylkeskommunene og kommunene
+d. enhetsfylke uten hinder av [§ 4](lov-1992-06-26-87-forsoksloven.md) første ledd bokstav a. Med enhetsfylke menes at fylkeskommunen og statsforvalteren integreres i ett regionalt organ med felles administrativ ledelse.
+
+Godkjenning kan bare gis i samband med forsøk som tar sikte på å oppfylle de mål som er satt i [§ 1](lov-1992-06-26-87-forsoksloven.md), og som for øvrig finnes forsvarlig og faglig vel underbygget.
+
+Godkjenning kan gis for en periode på inntil fire år. Forsøksperioden kan forlenges med inntil to år. Dersom det er planlagt eller besluttet å gjennomføre reformer i samsvar med det forsøket gjelder, kan forsøksperioden forlenges fram til reformen trer ikraft.
+
+*Endret ved [lover 27 juni 2003 nr. 67](https://lovdata.no/lov/2003-06-27-67), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+## § 4. Begrensninger i adgangen til å drive forsøk
+
+Kongen kan ikke godkjenne forsøk med avvik fra
+
+a. [kommunelovens](lov-2018-06-22-83-kommuneloven.md) grunnleggende bestemmelser om organisering av virksomheten i kommuner og fylkeskommuner
+b. [forvaltningslovens](lov-1967-02-10-forvaltningsloven.md) saksbehandlingsregler
+c. saksbehandlingsregler i annen lovgivning, når bestemmelsene er gitt av hensyn til enkeltpersoners rettssikkerhet, og Kongen ikke finner at dette hensyn ivaretas minst like godt ved den framgangsmåte det søkes om samtykke til.
+
+Godkjenning kan ikke gis når dette vil innebære innskrenking av rettigheter eller utvidelse av plikter som enkeltpersoner har etter gjeldende lovgivning.
+
+## § 5. Gjennomføring m.v. av forsøk
+
+Til erstatning for de bestemmelser det godkjennes avvik fra, skal det utarbeides nærmere regler for gjennomføringen av det enkelte forsøk. Reglene fastsettes gjennom vedtekter som skal godkjennes av Kongen. Ved utarbeidelsen av vedtektene får [§ 37](lov-1967-02-10-forvaltningsloven.md) i forvaltningsloven tilsvarende anvendelse. I forbindelse med godkjenningen kan Kongen gjøre mindre endringer i vedtektene.
+
+Vedtekter for forsøk i kommuner eller fylkeskommuner fastsettes av henholdsvis kommunestyret eller fylkestinget. Kommunestyret eller fylkestinget kan delegere sin myndighet til et annet folkevalgt organ, for så vidt gjelder mindre endringer og tillegg til allerede godkjente vedtekter.
+
+## § 6. Andre forsøksbetingelser m.v.
+
+Kongen kan gi nærmere regler om forsøk etter denne lov, herunder om antallet forsøksenheter totalt og innenfor det enkelte forsøksområde, prosedyre for utvelgelse av forsøksenheter og forsøksområder, og godkjenning og iverksetting av forsøk.
+
+## § 7. Forlengelse av forsøk etter annen lovgivning
+
+– – –
+
+## § 8. Ikrafttreden
+
+Denne lov trer i kraft 1. januar 1993.

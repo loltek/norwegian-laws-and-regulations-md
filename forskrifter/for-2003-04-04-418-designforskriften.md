@@ -1,0 +1,479 @@
+# Forskrift til designloven (designforskriften)
+
+- **Korttittel:** Designforskriften
+- **Datokode:** FOR-2003-04-04-418
+- **DokumentID:** SF/forskrift/2003-04-04-418
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Lovavdelingen
+- **Hjemmel:** lov 14.03.2003 nr. 15/§13; lov 14.03.2003 nr. 15/§16; lov 14.03.2003 nr. 15/§17; lov 14.03.2003 nr. 15/§27; lov 14.03.2003 nr. 15/§37; lov 14.03.2003 nr. 15/§49; lov 14.03.2003 nr. 15/§52; lov 14.03.2003 nr. 15/§56; lov 14.03.2003 nr. 15/§57; lov 14.03.2003 nr. 15/§58
+- **Publisert i:** I 2003 hefte 5
+- **Kunngjort:** 2003-04-04
+- **I kraft fra:** 2003-05-01
+- **Siste endring i kraft:** 2019-07-01
+- **Sist endret ved:** forskrift 21.06.2019 nr. 800 fra 2019-07-01
+- **Endrer:** forskrift 15.09.1970 nr. 9122; forskrift 20.12.1996 nr. 1163; forskrift 23.12.1996 nr. 1264
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2018-10-16 (klassifiseringslisten utgår)
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 4. april 2003 med hjemmel i lov av 14. mars 2003 nr. 15 om beskyttelse av design (designloven) § 13, § 16, § 17, § 27, § 37, § 49, § 52, § 56, § 57 og § 58. Fremmet av Justis- og politidepartementet. Endret ved forskrifter 14 mai 2004 nr. 749, 15 mai 2009 nr. 511, 9 april 2010 nr. 498, 25 juni 2010 nr. 937, 1 mars 2013 nr. 246, 21 juni 2019 nr. 800 (i kraft 1 juli 2019). Rettelser: 07.04.2003 (§ 18), 11.04.2003 (§ 1, § 30, § 33), 24.04.2003 (klassifiseringslisten tilføyd), 16.10.2018 (klassifiseringslisten utgår).
+- **Kilde:** <https://lovdata.no/forskrift/2003-04-04-418>
+
+## Kapittel 1. Søknad om registrering av design
+
+### § 1. Formkrav
+
+Søknad om registrering av design leveres på særskilt søknadsskjema. Skjema med vedlegg skal utfylles med trykt skrift.
+
+*Endret ved [forskrifter 14 mai 2004 nr. 749](https://lovdata.no/forskrift/2004-05-14-749) (i kraft 1 juli 2004), [15 mai 2009 nr. 511](https://lovdata.no/forskrift/2009-05-15-511), [25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 2. Språkkrav
+
+Søknaden skal være på norsk. Vedlegg til søknaden og andre dokumenter i saken skal være på norsk, dansk, svensk eller engelsk.
+
+Er søknaden eller andre dokumenter på annet språk enn bestemt i første ledd, kan Patentstyret kreve at søkeren skal levere en oversettelse til norsk innen en frist som Patentstyret fastsetter. Patentstyret kan kreve at oversettelsen bekreftes av en statsautorisert oversetter.
+
+Patentstyret kan i det enkelte tilfellet godta annet språk enn nevnt i første ledd.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 3. Søknadens innhold
+
+Søknaden skal være signert av søkeren eller dennes fullmektig og inneholde:
+
+1. søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresse.
+2. opplysning om det kreves prioritet etter [designloven § 16](../lover/lov-2003-03-14-15-designloven.md).
+3. en angivelse av om og hvor lenge registreringen ønskes utsatt etter [designloven § 18](../lover/lov-2003-03-14-15-designloven.md) annet ledd.
+
+Søknaden skal i tillegg inneholde opplysninger som nevnt i [§ 4](for-2003-04-04-418-designforskriften.md) og [§ 5](for-2003-04-04-418-designforskriften.md).
+
+*Endret ved [forskrifter 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019, se endringsforskriften for overgangsregler).*
+
+### § 3a. Adresse for korrespondanse
+
+Dersom ikke annet er angitt i søknaden, er adressen som oppgis etter [§ 3](for-2003-04-04-418-designforskriften.md) nr. 1 adresse for meddelelser og forkynnelser m.m. etter designloven 49. Har søker oppnevnt fullmektig, er fullmektigens adresse slik adresse så langt som fullmakten rekker. Er det flere søkere eller fullmektiger, og ikke annet er angitt, er adressen til den som er nevnt først adresse for korrespondanse. Søker kan når som helst melde inn ny adresse for korrespondanse.
+
+*Tilføyd ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 4. Produktangivelse og klasse
+
+Søknaden skal presist angi produktet eller produktene som designen gjelder, slik at Patentstyret kan avgjøre hvilken klasse og underklasse produktet tilhører etter Locarnoavtalen av 8. oktober 1968 nr. 1 om internasjonal klassifisering av design. Klasse og underklasse etter Locarnoavtalen skal angis i søknaden, men angivelsen er ikke bindende for Patentstyret.
+
+### § 5. Bilder og modell
+
+Inntil sju bilder som tydelig viser designen, skal følge med søknaden ved leveringen. Med bilder menes fotografi, tegning eller annen grafisk fremstilling som er egnet til elektronisk opptak, lagring og gjengivelse. Tekniske tegninger godtas ikke. Et av bildenes lengde og bredde skal være minst 3 cm, men bildene må ikke være større enn A4-format. Hvert bilde skal ha en ramme som er minst 5 mm bred.
+
+Bildene skal kun vise det produktet eller den delen av produktet som designen gjelder. Hvis designen ønskes registrert i farger, må bilder og modeller være i farger.
+
+Gjelder søknaden bevegelige design, kan Patentstyret kreve at det leveres en beskrivelse av designen og eventuelt en prøve av den lagret på et egnet medium.
+
+Omfatter søknaden mer enn en design, jf. [designloven § 15](../lover/lov-2003-03-14-15-designloven.md), skal det leveres inn inntil sju separate bilder og eventuelt modell av hver design. Bilder skal være fortløpende nummerert, slik at det går klart frem hvilken design de gjelder. Leveres det flere bilder av hver design, skal det til hovednummeret knyttes et tilleggsnummer for hvert bilde (1.1, 1.2, 1.3 osv.).
+
+Hvis det anses nødvendig, kan Patentstyret kreve at søker leverer modell. Modellen må være av holdbart og ufarlig materiale og medregnet innpakning skal den ikke i noen retning overstige 30 cm eller veie mer enn 4 kg.
+
+Patentstyret kan fastsette nærmere krav til bildene og gi nærmere retningslinjer om oversendelsesmåter og lagringsformater mv.
+
+*Endret ved [forskrifter 14 mai 2004 nr. 749](https://lovdata.no/forskrift/2004-05-14-749) (i kraft 1 juli 2004), [9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010), [25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019, se endringsforskriften for overgangsregler).*
+
+### § 6. Leveringsdag
+
+Søknaden får leveringsdag selv om den ikke oppfyller vilkårene i [§ 2](for-2003-04-04-418-designforskriften.md), [§ 3](for-2003-04-04-418-designforskriften.md) og [§ 4](for-2003-04-04-418-designforskriften.md), hvis den senere rettes eller leveres på korrekt måte, jf. [designloven § 19](../lover/lov-2003-03-14-15-designloven.md).
+
+Hvis verken bilder eller eventuelt modell følger med søknaden, regnes den bare som levert hvis den inneholder et krav om prioritet som oppfyller vilkårene i [designloven § 16](../lover/lov-2003-03-14-15-designloven.md) første ledd, jf. forskriften [§ 7](for-2003-04-04-418-designforskriften.md) til [§ 9](for-2003-04-04-418-designforskriften.md).
+
+*Endret ved [forskrifter 14 mai 2004 nr. 749](https://lovdata.no/forskrift/2004-05-14-749) (i kraft 1 juli 2004), [25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+## Kapittel 2. Prioritet
+
+### § 7. Søknadsprioritet
+
+Søkeren kan kreve prioritet etter [designloven § 16](../lover/lov-2003-03-14-15-designloven.md) første ledd på grunnlag av den første søknaden om designregistrering eller bruksmønsterbeskyttelse som viser designen, hvis denne søknaden ble innlevert i en stat som er tilsluttet Pariskonvensjonen 20. mars 1883 nr. 1 om beskyttelse av industriell eiendomsrett eller avtale 15. april 1994 nr. 1 om opprettelse av Verdens handelsorganisasjon (WTO-avtalen), eller hvis den ble innlevert til regional registreringsmyndighet for slike stater.
+
+Kravet om prioritet må tas med i søknaden ved innleveringen til Patentstyret. Det kan ikke kreves prioritet etter dette tidspunktet. En design kan bare ha én prioritet.
+
+Kravet skal opplyse om hvilken designmyndighet den påberopte søknaden ble innlevert til, hvilken dag den ble innlevert og søknadsnummeret. Hvis kravet ikke inneholder disse opplysningene, skal Patentstyret gi søkeren en frist på én måned til å innlevere opplysningene. Retten til prioritet bortfaller dersom fristen ikke overholdes.
+
+Patentstyret kan forlange at den som krever prioritet, skal innlevere et prioritetsbevis innen tre måneder fra krav om dette ble sendt fra Patentstyret. Prioritetsbeviset skal inneholde opplysninger som nevnt i tredje ledd, søkerens navn, kopi av søknaden og være bekreftet av designmyndigheten som den påberopte søknaden ble innlevert til.
+
+*Endret ved [forskrift 14 mai 2004 nr. 749](https://lovdata.no/forskrift/2004-05-14-749) (i kraft 1 juli 2004).*
+
+### § 8. Grunnlag for søknadsprioritet
+
+For at en søknad skal kunne gi grunnlag for prioritet etter [designloven § 16](../lover/lov-2003-03-14-15-designloven.md) første ledd, må den være den første som angir designen.
+
+En senere søknad som angir designen, kan likevel gi grunnlag for prioritet hvis:
+
+1. den er innlevert på samme sted som den første søknaden og av samme søker eller dennes rettsetterfølger,
+2. den første søknaden er trukket tilbake, henlagt eller avslått uten at designen var allment tilgjengelig da den senere søknaden ble innlevert,
+3. den første søknaden ikke har tjent som grunnlag for noe krav om prioritet, og
+4. den første søknaden ikke danner grunnlag for noen bestående rettighet.
+
+### § 9. Folkerettslig avtale om prioritet
+
+Patentstyret kan gi prioritet etter [designloven § 16](../lover/lov-2003-03-14-15-designloven.md) første ledd på grunnlag av en søknad som er innlevert i en stat som ikke er tilsluttet Pariskonvensjonen eller WTO-avtalen, hvis denne staten gir slik prioritet på grunnlag av designsøknader som er innlevert i Norge.
+
+Forskriften [§ 7](for-2003-04-04-418-designforskriften.md) og [§ 8](for-2003-04-04-418-designforskriften.md) gjelder tilsvarende for prioritet etter paragrafen her.
+
+### § 10. Utstillingsprioritet
+
+Søkeren kan kreve prioritet etter [designloven § 16](../lover/lov-2003-03-14-15-designloven.md) annet ledd hvis designen er vist på en offisiell eller offisielt anerkjent utstilling som nevnt i konvensjon av 22. november 1928 nr. 1 om internasjonale utstillinger. Forskriften [§ 7](for-2003-04-04-418-designforskriften.md) annet ledd gjelder tilsvarende.
+
+Kravet om prioritet skal angi navnet på den utstillingen der designen først ble vist, hvilken stat utstillingen ble holdt i og tidspunktet for den første fremvisningen av designen på utstillingen. Hvis kravet ikke inneholder disse opplysningene, skal Patentstyret gi søkeren en frist på én måned til å innlevere opplysningene. Retten til prioritet bortfaller dersom fristen ikke overholdes.
+
+Patentstyret kan forlange at den som krever prioritet, skal innlevere et prioritetsbevis innen tre måneder fra krav om dette ble sendt fra Patentstyret. Som prioritetsbevis godtas en erklæring fra den ansvarlige ledelsen for utstillingen om at utstillingen er internasjonal og om tidspunktet for den første fremvisningen av designen på utstillingen.
+
+### § 11. Søknader med mer enn én design (samregistrering)
+
+Omfatter søknaden mer enn én design, jf. [designloven § 15](../lover/lov-2003-03-14-15-designloven.md), kan søkeren kreve prioritet for én eller flere av designene.
+
+Prioritet kan påberopes på grunnlag av én eller flere tidligere søknader. Dette gjelder selv om de påberopte søknadene er innlevert i forskjellige stater.
+
+### § 12. Tilbakekall av krav om prioritet
+
+Krav om prioritet kan trekkes tilbake ved skriftlig melding til Patentstyret inntil søknaden om registrering er avgjort.
+
+## Kapittel 3. Søknadsbehandlingen
+
+### § 13. Standard undersøkelse
+
+I registreringsbrevet skal Patentstyret orientere designhaveren om hvilke forhold Patentstyret har undersøkt etter [designloven § 17](../lover/lov-2003-03-14-15-designloven.md) første ledd.
+
+### § 14. Supplerende undersøkelse
+
+Etter krav fra søkeren skal Patentstyret foreta en supplerende undersøkelse av designsøknaden, jf. [designloven § 17](../lover/lov-2003-03-14-15-designloven.md) annet ledd.
+
+Kravet om supplerende undersøkelse må tas med i søknaden ved innleveringen til Patentstyret. Omfatter søknaden mer enn én design, skal undersøkelsen gjelde alle designene i søknaden, om ikke annet er angitt i søknaden.
+
+Ved den supplerende undersøkelsen skal Patentstyret kartlegge forhold som kan være til hinder for designrett etter [designloven § 3](../lover/lov-2003-03-14-15-designloven.md) til [§ 5](../lover/lov-2003-03-14-15-designloven.md), [§ 7](../lover/lov-2003-03-14-15-designloven.md) annet ledd og [§ 8](../lover/lov-2003-03-14-15-designloven.md). Patentstyret skal herunder kartlegge alle:
+
+1. design som er eller har vært søkt eller registrert i Norge
+2. internasjonale registreringer som har eller har hatt virkning i Norge og hvor Norge er utpekt
+3. varemerke som kan være til hinder for designrett etter [designloven § 7](../lover/lov-2003-03-14-15-designloven.md) tredje ledd nr. 1.
+
+Får Patentstyret kjennskap til andre forhold som kan ha betydning for beskyttelsen av designen, skal dette inngå i undersøkelsen.
+
+Patentstyret skal orientere søkeren om resultatet av undersøkelsen, uten å ta stilling til om vilkårene for designrett er oppfylt.
+
+*Endret ved [forskrift 9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010).*
+
+### § 15. Protest under søknadsbehandlingen
+
+Hvis Patentstyret før en design er registrert, mottar en protest av betydning for vurderingen av søknaden, skal Patentstyret gi søkeren melding om dette.
+
+Protest mot registrering av en design gir ikke partsrettigheter. Dersom protesten ikke tas til følge, skal vedkommende som har fremsatt den gjøres oppmerksom på adgangen til å kreve administrativ overprøving.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 16. Delvis avslag og registrering i endret form
+
+Omfatter søknaden mer enn én design, og én eller flere av designene ikke oppfyller vilkårene for registrering etter [designloven § 17](../lover/lov-2003-03-14-15-designloven.md) første ledd, må disse designene avdeles etter forskriften [§ 17](for-2003-04-04-418-designforskriften.md) eller trekkes fra søknaden. Hvis søkeren ikke ønsker dette, skal søknaden avslås i sin helhet.
+
+Hvis Patentstyret finner at en design kan registreres i endret form etter [designloven § 14](../lover/lov-2003-03-14-15-designloven.md), skal Patentstyret gi søkeren melding om dette med en frist på to måneder til å innlevere bilder av designen i endret form.
+
+## Kapittel 4. Utskilling, deling og sammenslåing av søknader og registreringer
+
+*Overskrift endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 16a. Utskilling av design i ny søknad
+
+Er det levert nye bilder som viser en annen design enn den som fremgår av det opprinnelige bildematerialet i designsøknaden, jf. [designloven § 14](../lover/lov-2003-03-14-15-designloven.md), kan søkeren kreve å utskille denne designen i en ny selvstendig søknad.
+
+Søker skal sammen med kravet om utskilling levere nytt søknadsskjema, angi den opprinnelige søknadens nummer, samt vedlegge bilder som viser designen. Bestemmelsene i [§ 3](for-2003-04-04-418-designforskriften.md) til [§ 5](for-2003-04-04-418-designforskriften.md) gjelder tilsvarende. Det skal betales fastsatt gebyr for den nye søknaden.
+
+Krav om utskilling avslås hvis vilkårene i første og annet ledd ikke er oppfylt. [Designloven § 19](../lover/lov-2003-03-14-15-designloven.md) gjelder tilsvarende.
+
+Gjennomføres utskilling, gis søkeren melding om dette med opplysning om nummeret på den nye søknaden. Den nye søknaden regnes som levert samme dag som bildene av designen ble levert i den opprinnelige søknaden.
+
+*Tilføyd ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010), endret ved [forskrift 21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019).*
+
+### § 17. Deling av søknader
+
+Omfatter søknaden mer enn én design, kan søkeren kreve søknaden delt i flere selvstendige søknader.
+
+Kravet om deling skal angi den opprinnelige søknadens nummer og hvilke av designene den opprinnelige og de nye søknadene skal omfatte. Søker skal levere nytt søknadsskjema og vedlegge bilder for hver ny søknad. Bestemmelsene i [§ 3](for-2003-04-04-418-designforskriften.md) til [§ 5](for-2003-04-04-418-designforskriften.md) gjelder tilsvarende. Det skal betales fastsatt gebyr for hver ny søknad. Ny søknad betegnes som avdelt søknad.
+
+Avdelt søknad må leveres før den opprinnelige søknaden er endelig avgjort. Avdelt søknad kan ikke omfatte design som ikke var omfattet av den opprinnelige søknaden før delingen. Avdelt søknad kan ikke omfatte samme design som den opprinnelige søknaden eller annen avdelt søknad.
+
+Krav om deling avslås hvis vilkårene i første til tredje ledd ikke er oppfylt. [Designloven § 19](../lover/lov-2003-03-14-15-designloven.md) gjelder tilsvarende.
+
+Gjennomføres deling, gis søkeren melding om dette med opplysning om nummeret på den avdelte søknaden. Den opprinnelige søknaden beholder sitt søknadsnummer. Hver avdelt søknad gis nytt søknadsnummer. Avdelt søknad får samme leveringsdag som den opprinnelige søknaden, og den enkelte designen beholder sin opprinnelige prioritet. Dokumenter som ble levert i den opprinnelige søknaden frem til og med gjennomføringen av delingen, skal regnes som dokumenter i en avdelt søknad.
+
+*Endret ved [forskrifter 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010). [21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019).*
+
+### § 18. Deling av registreringer
+
+Omfatter en registrering mer enn én design, kan designhaveren kreve registreringen delt i flere selvstendige registreringer.
+
+Kravet om deling skal angi den opprinnelige registreringens nummer og hvilke av designene den opprinnelige og de nye registreringene skal omfatte. Det skal betales fastsatt gebyr for hver ny registrering. Ny registrering betegnes som avdelt registrering.
+
+Krav om deling må leveres før den opprinnelige registreringen er opphørt. Avdelt registrering kan ikke omfatte design som ikke var omfattet av den opprinnelige registreringen før delingen. Avdelt registrering kan ikke omfatte samme design som den opprinnelige registreringen eller annen avdelt registrering.
+
+Krav om deling avslås hvis vilkårene i første til tredje ledd ikke er oppfylt. [Designloven § 19](../lover/lov-2003-03-14-15-designloven.md) gjelder tilsvarende.
+
+Gjennomføres deling, gis designhaveren melding om dette med opplysning om nummeret på den avdelte registreringen. Den opprinnelige registreringen beholder sitt nummer. Hver avdelt registrering gis nytt registreringsnummer. Avdelt registrering får samme leveringsdag som den opprinnelige registreringen, og den enkelte designen beholder sin opprinnelige prioritet. Dokumenter som ble levert i den opprinnelige registreringen frem til og med gjennomføringen av delingen, skal regnes som dokumenter i en avdelt registrering.
+
+*Endret ved [forskrifter 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019).*
+
+### § 19. Sammenslåing av avdelte søknader og registreringer
+
+Søkeren kan kreve at Patentstyret slår sammen tidligere avdelte søknader, jf. [§ 17](for-2003-04-04-418-designforskriften.md), som er levert til Patentstyret på samme dag hvis designene tilhører samme klasse etter Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design.
+
+Kravet skal angi søknadens nummer, nummeret på den søknaden den ønskes sammenslått med, og hvilke design den sammenslåtte søknaden skal omfatte. Ved krav om delvis sammenslåing skal søkeren angi hvilke design som skal inngå i søknaden som de overføres til. Det skal betales fastsatt gebyr. Krav om sammenslåing avslås hvis vilkårene i leddet her ikke er oppfylt. [Designloven § 19](../lover/lov-2003-03-14-15-designloven.md) gjelder tilsvarende.
+
+Ved sammenslåing av tidligere avdelte søknader hvor den opprinnelige søknaden inngår, videreføres alltid den søknaden som har det opprinnelige søknadsnummeret.
+
+Gjennomføres hel eller delvis sammenslåing, gis søkeren melding om dette med opplysning om nummeret på den sammenslåtte søknaden.
+
+Innehaveren kan kreve at Patentstyret slår sammen tidligere avdelte registreringer, jf. [§ 18](for-2003-04-04-418-designforskriften.md), når søknaden er levert til Patentstyret på samme dag hvis designene tilhører samme klasse etter Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design. Bestemmelsene i annet til fjerde ledd gjelder tilsvarende.
+
+*Endret ved [forskrifter 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019).*
+
+## Kapittel 5. Registrering og kunngjøring
+
+### § 20. Designregisteret
+
+Patentstyret fører register over designsøknader og designregistreringer. For internasjonale designregistreringer hvor Norge er utpekt gjelder [§ 21](for-2003-04-04-418-designforskriften.md). Opplysningene i designregistret er tilgjengelig for enhver.
+
+Registeret skal inneholde følgende opplysninger om søknaden og registreringen:
+
+1. søkerens navn eller foretaksnavn og adresse
+2. eventuell fullmektigs navn eller foretaksnavn og adresse
+3. eventuell særskilt adresse for korrespondanse, jf. [§ 3a](for-2003-04-04-418-designforskriften.md) og [designloven § 49](../lover/lov-2003-03-14-15-designloven.md)
+4. hvis det fremgår av søknaden, eller søkeren eller designeren har bedt om at navnet innføres i registeret, designerens eller designernes navn, gruppe eller foretaksnavn og adresse
+5. søknadsdag og søknadsnummer
+6. om prioritet er krevd, og i tilfelle grunnlaget for prioritet og opplysninger som nevnt i [kapittel 2](for-2003-04-04-418-designforskriften.md)
+7. bilder som viser designen, med angivelse av om designen er i farger
+8. om det er levert modell
+9. anmerkning om samregistrering
+10. angivelse av det produktet eller produktene som designen gjelder, og den eller de klassene i Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design som omfatter produktet
+11. registreringsdag, registreringsnummer og kunngjøringsdag
+12. registreringsperiodens utløp
+13. om søknaden er en utskilt eller avdelt søknad, og i tilfelle den opprinnelige søknadens nummer
+14. om registreringen er en avdelt registrering, og i tilfelle den opprinnelige registreringens nummer
+15. om det ved utskilling fra eller deling av en søknad eller registrering er fremkommet nye søknader eller registreringer, med opplysning om de nye søknads- eller registreringsnumrene
+16. om søknaden eller registreringen er sammenslått med en annen søknad eller registrering, og i tilfelle den opprinnelige søknadens eller registreringens nummer og leveringsdag
+17. om søkeren har bedt om utsatt registrering
+18. den dag dokumenter som kan avsløre designens utseende ble tilgjengelige for enhver etter [designloven § 21](../lover/lov-2003-03-14-15-designloven.md)
+19. mottatte og sendte dokumenter i saken
+20. betalte utestående og eventuelt tilbakebetalte avgifter og gebyrer
+21. andre beslutninger som er truffet i saken og sakens status
+22. om designregistreringen er fornyet etter [designloven § 24](../lover/lov-2003-03-14-15-designloven.md) og fornyelsesavgift er betalt,
+23. dato for opphør etter [designloven § 33](../lover/lov-2003-03-14-15-designloven.md) eller [§ 34](../lover/lov-2003-03-14-15-designloven.md)
+24. om krav om at fristoversittelse ikke skal få virkning og avgjørelsen av slikt krav, jf. [designloven § 50](../lover/lov-2003-03-14-15-designloven.md)
+25. at det er inngitt krav om administrativ overprøving av og avgjørelse i slik sak, jf. [designloven § 25](../lover/lov-2003-03-14-15-designloven.md)
+26. at det er levert klage til Klagenemnden for industrielle rettigheter etter [designloven § 36](../lover/lov-2003-03-14-15-designloven.md)
+27. at det er reist søksmål etter [designloven § 39](../lover/lov-2003-03-14-15-designloven.md)
+28. at det er reist søksmål om ugyldigkjennelse eller overføring av registreringen etter [designloven § 25](../lover/lov-2003-03-14-15-designloven.md), og utfallet av saken når dommen er endelig
+29. ny fullmektig ved endring i fullmektigforhold
+30. at det er tatt utlegg og arrest i en designregistrering,
+31. om overdragelse eller lisens
+32. om søkerens, innehaverens, fullmektigens eller lisenstakerens navn, foretaksnavn eller adresse er endret.
+
+Melding om endringer etter nr. 29, 31 og 32 skal leveres på særskilt skjema fastsatt av Patentstyret.
+
+*Endret ved [forskrifter 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010), [1 mars 2013 nr. 246](for-2013-03-01-246-patentstyreforskrifta.md) (i kraft 1 april 2013), [21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019).*
+
+### § 21. Internasjonale designregistreringer
+
+Internasjonale designregistreringer hvor Norge er utpekt føres i registeret nevnt i [§ 20](for-2003-04-04-418-designforskriften.md). Opplysningene i registeret er tilgjengelige for enhver.
+
+Registeret skal inneholde følgende opplysninger om den internasjonale registreringen:
+
+1. internasjonalt registreringsnummer
+2. designhaverens navn eller foretaksnavn og adresse
+3. opplysninger om hvem som har frembrakt designen hvis det fremgår av den internasjonale registreringen, eller hvis designhaver eller designer har bedt om at navnet føres inn i registeret.
+4. eventuell fullmektigs navn eller foretaksnavn og adresse
+5. eventuell særskilt adresse for korrespondanse, jf. [§ 3a](for-2003-04-04-418-designforskriften.md) og [designloven § 49](../lover/lov-2003-03-14-15-designloven.md)
+6. dato for internasjonal registrering og kunngjøring av registreringen i Det internasjonale byråets bulleteng (International Design Bulletin)
+7. om prioritet er krevd, og i tilfelle hvor den påberopte tidligere søknaden er levert, samt leveringsdag og søknadsnummer for søknaden
+8. dato for beslutning om virkning i Norge og kunngjøring av beslutningen
+9. bilder som viser designen samt angivelse av om designen er i farger
+10. angivelse av produktet eller produktene som designen gjelder, og den eller de klassene i Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design som omfatter produktet på engelsk
+11. anmerkning om samregistrering
+12. om fornyelse av en registrering
+13. dato for registrerings- eller eventuelt fornyelsesperiodens utløp
+14. om registreringen har falt bort eller er løpt ut og datoen for det
+15. andre opplysninger som mottas fra Det internasjonale byrået om internasjonal designregistrering som gjelder i Norge når opplysningene har betydning for retten til, rettigheter i eller vernet av designen i Norge
+16. opplysninger som nevnt i [§ 20](for-2003-04-04-418-designforskriften.md) annet ledd nr. 19, 21 og 29 til 32.
+
+*Endret ved [forskrifter 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019).*
+
+### § 22. Kunngjøring av nasjonal registrering, fornyelse og opphør
+
+Kunngjøring av registrering av design etter [designloven § 18](../lover/lov-2003-03-14-15-designloven.md) skal inneholde opplysninger som nevnt i [§ 20](../lover/lov-2003-03-14-15-designloven.md) annet ledd nr. 1 til 16, 18 og 19.
+
+Kunngjøring av fornyelse etter [designloven § 24](../lover/lov-2003-03-14-15-designloven.md) skal inneholde opplysninger som nevnt i [§ 20](../lover/lov-2003-03-14-15-designloven.md) annet ledd nr. 1 til 5 og dato for utløpet av fornyelsesperioden.
+
+Opphør av registreringen skal kunngjøres. Kunngjøringen skal inneholde opplysninger som nevnt i [§ 20](for-2003-04-04-418-designforskriften.md) annet ledd nr. 1 til 5 og opplysning om at registreringen har opphørt å gjelde og datoen for dette.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 23. Kunngjøring av internasjonal registrering, fornyelse og opphør
+
+Kunngjøring av internasjonal designregistrering etter [designloven § 57](../lover/lov-2003-03-14-15-designloven.md) fjerde ledd skal inneholde opplysninger som nevnt i [§ 21](../lover/lov-2003-03-14-15-designloven.md) annet ledd nr. 1 til 10 og 13, samt datoen for kunngjøring i Norsk designtidende.
+
+Kunngjøring av fornyelse av internasjonal designregistrering etter [designloven § 58](../lover/lov-2003-03-14-15-designloven.md) tredje ledd skal inneholde opplysninger som nevnt i [§ 21](../lover/lov-2003-03-14-15-designloven.md) annet ledd nr. 1 til 5 og dato for utløpet av fornyelsesperioden.
+
+Kunngjøring av opphør av internasjonal designregistrering etter [designloven § 59](../lover/lov-2003-03-14-15-designloven.md) skal inneholde opplysninger som nevnt i [§ 21](../lover/lov-2003-03-14-15-designloven.md) annet ledd nr. 1 til 5 og opplysning om at registreringen har opphørt å gjelde og datoen for dette.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 24. Kunngjøring av administrativ overprøving
+
+Kunngjøring av krav om administrativ overprøving etter [designloven § 27](../lover/lov-2003-03-14-15-designloven.md) skal inneholde:
+
+1. opplysninger som nevnt i [§ 20](for-2003-04-04-418-designforskriften.md) annet ledd nr. 1 til 3 og 10 og 11
+2. navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuell fullmektigs navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 30](for-2003-04-04-418-designforskriften.md) annet ledd, jf. [§ 3a](for-2003-04-04-418-designforskriften.md)
+3. dato for kravet om administrativ overprøving.
+
+Kunngjøring av endelig avgjørelse i sak om administrativ overprøving, jf. [designloven § 35](../lover/lov-2003-03-14-15-designloven.md), skal inneholde:
+
+1. opplysninger som nevnt i første ledd
+2. opplysninger om utfallet av den administrative overprøvingen
+3. datoen avgjørelsen ble endelig.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 25. Andre kunngjøringer
+
+Kunngjøring etter [designloven § 50](../lover/lov-2003-03-14-15-designloven.md) skal inneholde:
+
+1. opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkning
+2. opplysninger som nevnt i [§ 20](for-2003-04-04-418-designforskriften.md) annet ledd nr. 1 og 5 eller 11.
+
+Patentstyret skal for øvrig kunngjøre:
+
+1. rett til fortsatt utnyttelse etter [designloven § 31](../lover/lov-2003-03-14-15-designloven.md), med angivelse av designens registreringsnummer, opplysninger om innehaver og opplysinger om den som har rett til fortsatt utnyttelse
+2. opphevelse av registrering etter [designloven § 33](../lover/lov-2003-03-14-15-designloven.md) og slettelse av registrering etter [designloven § 34](../lover/lov-2003-03-14-15-designloven.md)
+3. søksmål om ugyldighet og overføring og endelig avgjørelse i slik sak
+4. søksmål etter [designloven § 39](../lover/lov-2003-03-14-15-designloven.md) og endelig avgjørelse i slik sak
+5. sammenslåing av registreringer, med angivelse av de avdelte registreringenes numre og det nye registreringsnummeret
+6. melding om overdragelse
+7. melding om lisens
+8. melding om endring av søkerens, innehaverens, fullmektigens eller lisenstakerens navn eller foretaksnavn og adresse, samt eventuell endring av særskilt korrespondanseadresse
+9. melding om oppnevning, endring eller sletting av fullmektig
+10. utlegg og arrest i designen.
+
+Kunngjøring etter nr. 3 og 6 til 10 skal inneholde opplysning om hvilken dato melding om forholdet som kunngjøres kom inn til Patentstyret.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+## Kapittel 6. Administrativ overprøving og klage
+
+### § 26. Administrativ overprøving
+
+Krav om administrativ overprøving skal inneholde opplysninger som nevnt i [designloven § 27](../lover/lov-2003-03-14-15-designloven.md) første ledd samt navnet eller foretaksnavnet og adressen til en eventuell fullmektig. [§ 3](for-2003-04-04-418-designforskriften.md)a gjelder tilsvarende for korrespondanse med innsigeren, jf. [designloven § 49](../lover/lov-2003-03-14-15-designloven.md).
+
+Hvis kravet om administrativ overprøving trekkes tilbake, kan behandlingen av saken bare fortsette etter [designloven § 27](../lover/lov-2003-03-14-15-designloven.md) femte ledd hvis designhaveren gis melding om dette inn to måneder etter at kravet ble trukket tilbake.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 27. Krav om overprøving fra departementet
+
+Utenriksdepartementet kan fremme krav om administrativ overprøving etter [designloven § 26](../lover/lov-2003-03-14-15-designloven.md) annet ledd nr. 3, bortsett fra krav om administrativ overprøving knyttet til nasjonale kontroll- og garantimerker, som kan fremmes av Justisdepartementet.
+
+### § 28. Delvis ugyldighet
+
+Omfatter registreringen mer enn én design, og én eller flere av designene ikke oppfyller vilkårene for registrering etter [designloven § 17](../lover/lov-2003-03-14-15-designloven.md) første ledd, må disse designene avdeles etter forskriften [§ 18](for-2003-04-04-418-designforskriften.md) eller trekkes fra registreringen. Hvis designhaveren ikke ønsker dette, skal registreringen oppheves i sin helhet.
+
+Forskriften [§ 16](for-2003-04-04-418-designforskriften.md) annet ledd gjelder tilsvarende når en registrert design kan opprettholdes i endret form etter [designloven § 28](../lover/lov-2003-03-14-15-designloven.md).
+
+### § 29. (Opphevet 1 juli 2010, jf. [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md).)
+
+## Kapittel 7. Forskjellige bestemmelser
+
+### § 30. Språkkrav og korrespondanseadresse etter registrering
+
+Dokumenter som gjelder designregistreringer, herunder dokument i sak om administrativ overprøving, overføring eller klage m.m., skal være på norsk, dansk eller svensk. Det samme gjelder for dokument som gjelder internasjonale registreringer fra andre enn Det internasjonale byrået, herunder for dokument i sak om fornyet vurdering etter [§ 37](for-2003-04-04-418-designforskriften.md) annet ledd. Er et dokument på annet språk, kan Patentstyret kreve at det leveres en oversettelse til norsk innen en frist som Patentstyret fastsetter. Bestemmelsene i [§ 6](for-2003-04-04-418-designforskriften.md) annet ledd annet punktum og tredje ledd gjelder tilsvarende.
+
+[§ 3a](for-2003-04-04-418-designforskriften.md) gjelder tilsvarende for korrespondanse med innehaver av nasjonal eller internasjonal designregistrering.
+
+*Opphevet ved [forskrift 15 mai 2009 nr. 511](https://lovdata.no/forskrift/2009-05-15-511). Tilføyd igjen ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 31. Krav om slettelse etter [designloven § 34](../lover/lov-2003-03-14-15-designloven.md)
+
+Krav fra designhaveren om slettelse av registreringen etter [designloven § 34](../lover/lov-2003-03-14-15-designloven.md) første ledd leveres til Patentstyret og skal være signert av designhaveren eller dennes fullmektig. Kravet skal angi registreringsnummer og eventuelt hvilken design i registreringen som kreves slettet. [§ 3](for-2003-04-04-418-designforskriften.md) annet ledd gjelder tilsvarende.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 32. Fornyelse av registrering
+
+Patentstyret skal varsle designhaver om fristen etter [designloven § 24](../lover/lov-2003-03-14-15-designloven.md) første ledd ett år før registreringen utløper. At varsel ikke er gitt, gir ikke rett til å kreve fornyelse etter fristens utløp.
+
+Hvis et krav om fornyelse ikke oppfyller vilkårene i [designloven § 24](../lover/lov-2003-03-14-15-designloven.md), skal Patentstyret gi innehaveren en frist for retting av forholdet. Rettes ikke forholdet innen fristen, avslås kravet.
+
+Når en registrering er fornyet, skal Patentstyret sende melding om dette til designhaveren.
+
+*Endret ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 33. Dokumentformater, leveringstidspunkt, frister og betalinger
+
+Søknad og andre dokumenter kan leveres i papirformat eller elektronisk i samsvar med forskrift om betalinger mv. til Patentstyret og Klagenemnda for industrielle rettigheter.
+
+Bestemmelser om frister, betaling av avgifter og gebyrer og om når et dokument skal regnes som levert med fristavbrytende virkning, er gitt i forskrift om betalinger mv. til Patentstyret og Klagenemda for industrielle rettigheter.
+
+*Endret ved [forskrifter 15 mai 2009 nr. 511](https://lovdata.no/forskrift/2009-05-15-511), [25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019).*
+
+### § 34. (Opphevet)
+
+*Opphevet ved [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md) (i kraft 1 juli 2010).*
+
+### § 35. Oppbevaring av modell
+
+Er det levert inn modell til Patentstyret i forbindelse med en designsøknad, skal Patentstyret oppbevare den i fem år etter at registreringen er opphørt. Har designhaveren innen dette tidspunktet ikke bedt om å få tilbakelevert modellen, kan Patentstyret tilintetgjøre den.
+
+## Kapittel 8. Internasjonal designregistrering
+
+*Tilføyd ved [forskrift 9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010).*
+
+### § 36. Søknad om internasjonal designregistrering
+
+Søknad om internasjonal designregistrering kan leveres enten direkte til Det internasjonale byrået eller til Patentstyret, på Det internasjonale byråets offisielle søknadsskjema. Ved levering til Patentstyret skal søknaden samt eventuelle vedlegg være på engelsk. Søknadsskjemaet skal være utfylt med trykt skrift. For øvrig skal søknaden oppfylle vilkårene i [designloven § 56](../lover/lov-2003-03-14-15-designloven.md) første ledd, Genèveavtalen artikkel 5 samt regel 7 i de supplerende reglene til Genèveavtalen (Genèvereglene).
+
+Dersom gebyr betales innen den frist Patentstyret setter, skal en internasjonal søknad som er levert til Patentstyret oversendes til Det internasjonale byrået slik at den kan være mottatt der innen én måned etter leveringen hos Patentstyret, jf. regel 13 i Genèvereglene.
+
+*Tilføyd ved [forskrift 9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010), endret ved [forskrift 21 juni 2019 nr. 800](https://lovdata.no/forskrift/2019-06-21-800) (i kraft 1 juli 2019).*
+
+### § 37. Behandling av krav om at en internasjonal designregistrering skal ha virkning i Norge
+
+Foreligger det noe til hinder for at en internasjonal designregistrering kan gis virkning i Norge, skal Patentstyret gi Det internasjonale byrået melding om avslag etter [designloven § 57](../lover/lov-2003-03-14-15-designloven.md) annet ledd innen seks måneder etter den dagen da registreringen ble kunngjort i Det internasjonale byråets bulleteng (International Design Bulletin), jf. Genèveavtalen artikkel 12 nr. 2 og regel 18 nr. 1 bokstav a i Genèvereglene.
+
+Innehaveren av den internasjonale designregistreringen kan kreve en fornyet vurdering av spørsmålet om registreringen helt eller delvis kan gis virkning i Norge. Krav om fornyet vurdering med eventuelle rettinger av mangler må leveres til Patentstyret innen to måneder etter den dagen da melding om avslaget ble sendt søkeren.
+
+Finner Patentstyret at det ikke foreligger noe til hinder for at den internasjonale designregistreringen helt eller delvis kan gis virkning i Norge, skal denne innføres i designregistret og kunngjøres innen den fristen som er angitt i første ledd i paragrafen her.
+
+[Designloven § 49](../lover/lov-2003-03-14-15-designloven.md) gjelder tilsvarende i saker om internasjonal designregistrering.
+
+*Tilføyd ved [forskrift 9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010).*
+
+### § 38. Oppheving av eget tiltak
+
+Dersom en internasjonal designregistrering er gitt virkning i Norge ved en åpenbar feil, kan Patentstyret oppheve innføringen i samsvar med [designloven § 33](../lover/lov-2003-03-14-15-designloven.md) hvis det gjøres innen den fristen som er angitt i § 37 første ledd i forskriften her. Patentstyret skal innen samme frist gi Det internasjonale byrået melding om opphevingen.
+
+*Tilføyd ved [forskrift 9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010).*
+
+### § 39. (Opphevet 1 juli 2010, jf. [forskrift 25 juni 2010 nr. 937](for-2010-06-25-937-varemerkeforskriften.md).)
+
+## Kapittel 9. Sluttbestemmelser
+
+*Endret ved [forskrift 9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010, tidligere kapittel 8).*
+
+### § 40. Oppheving av andre forskrifter
+
+Følgende forskrifter oppheves:
+
+1. [Forskrift av 15. september 1970 nr. 9122](https://lovdata.no/forskrift/1970-09-15-9122) om klassifikasjon av mønster
+2. [Forskrift av 20. desember 1996 nr. 1163](https://lovdata.no/forskrift/1996-12-20-1163) til mønsterloven
+3. [Forskrift av 23. desember 1996 nr. 1264](https://lovdata.no/forskrift/1996-12-23-1264) om nærmere bestemmelser til mønsterloven.
+
+*Endret ved [forskrift 9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010, tidligere § 36).*
+
+### § 41. Ikraftsettings- og overgangsbestemmelser
+
+Forskriften her trer i kraft 1. mai 2003.
+
+De tidligere forskriftene gjelder for design som er registrert eller søkt registrert før forskriften her trådte i kraft, så langt ikke annet er bestemt i tredje og fjerde ledd.
+
+Bestemmelsene i [§ 26](for-2003-04-04-418-designforskriften.md) til [§ 28](for-2003-04-04-418-designforskriften.md) gjelder også for registreringer som er gjort på grunnlag av designloven, selv om søknaden ble innlevert før forskriften her trådte i kraft.
+
+Kapittel 7 i forskriften her, bortsett fra [§ 32](for-2003-04-04-418-designforskriften.md) første ledd, gjelder også for design som er registrert eller søkt registrert før forskriften her trådte i kraft.
+
+*Endret ved [forskrift 9 april 2010 nr. 498](https://lovdata.no/forskrift/2010-04-09-498) (i kraft 17 juni 2010, tidligere § 37).*

@@ -1,0 +1,76 @@
+# Forskrift om direkte valg til kommunedelsutvalg.
+
+- **Korttittel:** Forskrift om direkte valg til kommunedelsutvalg
+- **Datokode:** FOR-2003-01-03-8
+- **DokumentID:** SF/forskrift/2003-01-03-8
+- **Departement:** Kommunal- og distriktsdepartementet
+- **Etat:** Kommunalavdelingen
+- **Hjemmel:** lov 25.09.1992 nr. 107/§12; lov 22.06.2018 nr. 83/§31-5; lov 22.06.2018 nr. 83/§5-8
+- **Publisert i:** I 2003 hefte 1
+- **Kunngjort:** 2003-01-14
+- **I kraft fra:** 2003-01-03
+- **Siste endring i kraft:** 2026-10-26
+- **Sist endret ved:** forskrift 26.10.2026 nr. 2146
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Kommunal- og regionaldepartementet (nå Kommunal- og moderniseringsdepartementet) 3. januar 2003 med hjemmel i lov av 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven) § 12 nr. 7. Tilføyd hjemmel: Lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven) § 5-8. Endret ved forskrifter 1 juli 2015 nr. 849, 15 feb 2019 nr. 124, 26 okt 2026 nr. 2146.
+- **Kilde:** <https://lovdata.no/forskrift/2003-01-03-8>
+
+## § 1. Tidspunkt for valg. Valgstyret
+
+(1) Direkte valg av kommunedelsutvalg holdes samtidig med valg til kommunestyret.
+
+(2) Valgstyret i kommunen er ansvarlig for gjennomføring av valg til kommunedelsutvalg.
+
+## § 2. Manntall. Valgbarhet
+
+(1) Valgstyret plikter ikke å føre særskilt manntall for valg til kommunedelsutvalg.
+
+(2) Kommunestyret bestemmer selv om valgbarhet til kommunedelsutvalg skal begrenses til å omfatte kun de som er bosatt i vedkommende kommunedel.
+
+## § 3. Listeforslagene. Stemmesedler
+
+(1) Underskrifter på listeforslag skal være skrift på papir.
+
+(2) Listeforslag fra andre enn partier som er registrert i Partiregisteret, og som ved forrige stortingsvalg fikk minst 5 000 stemmer i hele landet, skal være underskrevet av minst så mange personer som tilsvarer 0,5 prosent av antall personer med stemmerett ved forrige valg i kommunedelen. Listeforslaget skal likevel være underskrevet av minst like mange personer som det skal velges medlemmer til kommunedelsutvalget. Første og andre punktum gjelder likevel ikke dersom partiet er blitt registrert i Partiregisteret etter forrige stortingsvalg.
+
+(3) Stemmesedlene til kommunedelsvalget skal ha en annen farge enn stemmesedlene til kommunestyrevalget og fylkestingsvalget.
+
+*Endret ved forskrift [26 okt 2026 nr. 2146](https://lovdata.no/forskrift/2026-10-26-2146).*
+
+## § 4. Forhåndsstemmegivningen
+
+(1) Forhåndsstemmegivning til valg av kommunedelsutvalg skal foregå på de samme steder innen kommunen som forhåndsstemmegivning til kommunestyrevalget.
+
+(2) Dersom det brukes stemmeseddelkonvolutt, skal stemmeseddelen legges i én felles stemmeseddelkonvolutt med stemmesedlene til kommunestyrevalget og fylkestingsvalget.
+
+*Endret ved forskrifter [1 juli 2015 nr. 849](https://lovdata.no/forskrift/2015-07-01-849), [26 okt 2026 nr. 2146](https://lovdata.no/forskrift/2026-10-26-2146).*
+
+## § 5. Stemmegivning på valgtinget
+
+Kommunestyret avgjør om stemmesedler til valg av kommunedelsutvalg skal være tilgjengelige i andre valglokaler enn de som ligger i vedkommende kommunedel.
+
+## § 6. Opptelling. Valgoppgjør
+
+(1) Stemmesedlene for valg til kommunedelsutvalg telles opp atskilt fra stemmesedlene til kommunestyrevalget.
+
+(2) [Valgloven § 10-8 andre ledd](../lover/lov-2023-06-16-62-valgloven.md) gjelder ikke.
+
+(3) På valgtinget skal stemmesedler som er lagt i en urne uten bruk av stemmeseddelkonvolutt, og som er fra velgere som har stemmerett i den kommunedelen som valglokalet tilhører, telles opp i valglokalet. Dette gjelder bare hvis den delen av manntallet opptellingen gjelder, inneholder minst 100 navn. Stemmesedler fra velgere som er innført i manntallet i stemmekretser i andre kommunedeler, skal telles opp samlet for hver enkelt kommunedel etter [valgforskriften § 11-6](for-2024-11-05-2662-valgforskriften.md).
+
+*Endret ved forskrift [26 okt 2026 nr. 2146](https://lovdata.no/forskrift/2026-10-26-2146).*
+
+## § 7. Godkjenning av valget
+
+Det nyvalgte kommunestyret treffer vedtak om valg av kommunedelsutvalg er gyldig.
+
+*Endret ved forskrift [26 okt 2026 nr. 2146](https://lovdata.no/forskrift/2026-10-26-2146).*
+
+## § 8. Forholdet til valgloven og valgforskriften
+
+[Valglovens](../lover/lov-2023-06-16-62-valgloven.md) og [valgforskriftens](for-2024-11-05-2662-valgforskriften.md) bestemmelser om kommunestyrevalg gjelder tilsvarende så langt de passer. [Valgloven kapittel 20](../lover/lov-2023-06-16-62-valgloven.md) og [valgforskriften kapittel 4](for-2024-11-05-2662-valgforskriften.md) gjelder ikke.
+
+*Endret ved forskrifter [15 feb 2019 nr. 124](https://lovdata.no/forskrift/2019-02-15-124), [26 okt 2026 nr. 2146](https://lovdata.no/forskrift/2026-10-26-2146).*
+
+## § 9. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.

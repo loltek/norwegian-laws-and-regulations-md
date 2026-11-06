@@ -1,0 +1,96 @@
+# Forskrift om kunstig sædoverføring hos husdyr utført av andre enn veterinær
+
+- **Korttittel:** Forskrift om sædoverføring hos husdyr
+- **Datokode:** FOR-1995-03-06-239
+- **DokumentID:** SF/forskrift/1995-03-06-239
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Avd. for matpolitikk
+- **Hjemmel:** lov 19.12.2003 nr. 124/§33; lov 19.12.2003 nr. 124/§36; forskrift 19.12.2003 nr. 1790; lov 19.06.2009 nr. 97/§6; lov 19.06.2009 nr. 97/§7; lov 19.06.2009 nr. 97/§8; lov 19.06.2009 nr. 97/§9; lov 19.06.2009 nr. 97/§25; forskrift 11.06.2010 nr. 814
+- **Publisert i:** Avd I 1995 234
+- **I kraft fra:** 1995-04-01
+- **Siste endring i kraft:** 2022-04-28
+- **Sist endret ved:** forskrift 06.04.2022 nr. 635 fra 2022-04-28
+- **Endrer:** forskrift 15.01.1985 nr. 3977
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) 6. mars 1995 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 33 første ledd, jf. § 36 andre ledd, jf. delegeringsvedtak 19. desember 2003 nr. 1790, og lov 19. juni 2009 nr. 97 om dyrevelferd § 6, § 7, § 8, § 9 og § 25, jf. delegeringsvedtak 11. juni 2010 nr. 814. Endret ved forskrifter 10 jan 1996 nr. 60, 13 jan 1998 nr. 82, 9 jan 2004 nr. 95, 6 aug 2010 nr. 1147, 6 mai 2015 nr. 485, 6 april 2022 nr. 635 (i kraft 28 april 2022).
+- **Kilde:** <https://lovdata.no/forskrift/1995-03-06-239>
+
+## Kapittel I Formål og virkeområde
+
+### § 1. Formål og virkeområde
+
+Formålet med denne forskriften er å hindre smitteoverføring ved kunstig sædoverføring hos husdyr og å forhindre kunstig sædoverføring i de tilfeller dette kan få dyrevernmessige konsekvenser.
+
+Med husdyr menes i denne forskrift: Storfe, svin, sau, geit, hest og rev.
+
+## Kapittel II Bestemmelser om kunstig sædoverføring
+
+### § 2. Plikter for den som driver inseminasjonsvirksomhet
+
+Enhver som driver inseminasjonsvirksomhet skal opptre slik at sjukdommer ikke spres.
+
+### § 3. Semintekniker
+
+Person uten veterinærutdanning kan foreta kunstig sædoverføring hos en eller flere arter husdyr, når vedkommende er autorisert som semintekniker av Mattilsynet. For å bli autorisert må vedkommende ha bestått kurs i kunstig sædoverføring for den aktuelle dyreart ved Norges miljø- og biovitenskapelige universitet.
+
+Semintekniker kan utføre drektighetskontroll på den/de dyrearter vedkommende er autorisert for dersom vedkommende på en tilfredsstillende måte har gjennomgått kurs i drektighetskontroll for den/de aktuelle dyreart(er) ved Norges miljø- og biovitenskapelige universitet.
+
+Mattilsynet i det området seminteknikeren har sitt kontorsted er nærmeste overordnede i alle faglige spørsmål innenfor denne forskriftens virkeområde. Seminteknikeren må i samsvar med forskriftens formål følge anvisning og rettledning fra Mattilsynet.
+
+*Endret ved [forskrifter 10 jan 1996 nr. 60](https://lovdata.no/forskrift/1996-01-10-60), [9 jan 2004 nr. 95](https://lovdata.no/forskrift/2004-01-09-95), [6 mai 2015 nr. 485](https://lovdata.no/forskrift/2015-05-06-485).*
+
+### § 4. Andre som utfører inseminasjon
+
+Eier, røkter eller annen person som av eier er gitt ansvaret for besetningen kan inseminere dyr i denne besetningen når vedkommende har fått tillatelse fra Mattilsynet. For å få slik tillatelse må vedkommende ha gjennomgått opplæring som er godkjent av Norges miljø- og biovitenskapelige universitet. Mattilsynet kan sette ytterligere vilkår for godkjenning.
+
+Det forutsettes at besetningen som vedkommende skal inseminere i, har en slik størrelse at det sikres et minimum av rutine.
+
+Mattilsynet er nærmeste overordnede for person som har fått tillatelse til å inseminere etter denne bestemmelsen i alle faglige spørsmål innenfor forskriftens virkeområde. Vedkommende må i samsvar med forskriftens formål etterkomme anvisning og rettledning fra Mattilsynet.
+
+*Endret ved [forskrifter 10 jan 1996 nr. 60](https://lovdata.no/forskrift/1996-01-10-60), [9 jan 2004 nr. 95](https://lovdata.no/forskrift/2004-01-09-95), [6 mai 2015 nr. 485](https://lovdata.no/forskrift/2015-05-06-485).*
+
+### § 5. Krav til sæd
+
+Sæd som brukes skal oppfylle kravene i [dyrehelseforskriften 6. april 2022 nr. 631](for-2022-04-06-631-dyrehelseforskriften.md) og, enten [avlsmaterialeforskriften 6. april 2022 nr. 630](for-2022-04-06-630-avlsmaterialeforskriften.md) eller [dyreimportforskriften 6. april 2022 nr. 633](for-2022-04-06-633-dyreimportforskriften.md).
+
+*Endret ved [forskrifter 10 jan 1996 nr. 60](https://lovdata.no/forskrift/1996-01-10-60), [9 jan 2004 nr. 95](https://lovdata.no/forskrift/2004-01-09-95), [6 april 2022 nr. 635](https://lovdata.no/forskrift/2022-04-06-635) (i kraft 28 april 2022).*
+
+### § 6. Forbud mot inseminasjon
+
+Inseminasjon skal ikke foretas når dyret mistenkes å være drektig. Dyret skal heller ikke insemineres dersom det viser tegn til sjukdom eller det registreres unormale tilstander ved kjønnsorganene. I slike situasjoner skal eier eller semintekniker henvise tilfellet til veterinær.
+
+### § 7. Journalføring
+
+Enhver som driver inseminasjonsvirksomhet skal føre nøyaktige notater over virksomheten.
+
+### § 8. Rapportering
+
+Semintekniker eller annen som utfører seminasjon skal melde fra til det lokale Mattilsynet hvis han/hun får mistanke om at det forekommer smittsom sjukdom.
+
+*Endret ved [forskrift 9 jan 2004 nr. 95](https://lovdata.no/forskrift/2004-01-09-95).*
+
+## Kapittel IV Avsluttende bestemmelser
+
+### § 9. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+*Tilføyd ved [forskrift 13 jan 1998 nr. 82](https://lovdata.no/forskrift/1998-01-13-82). Endret ved [forskrift 9 jan 2004 nr. 95](https://lovdata.no/forskrift/2004-01-09-95).*
+
+### § 10. Inndraging av autorisasjon og tillatelse
+
+Mattilsynet kan når som helst inndra autorisasjon eller tillatelse til å inseminere dersom vedkommende overtrer bestemmelser gitt i denne forskrift eller på annen måte viser seg uskikket til å utføre arbeidet.
+
+*Endret ved [forskrifter 10 jan 1996 nr. 60](https://lovdata.no/forskrift/1996-01-10-60), [13 jan 1998 nr. 82](https://lovdata.no/forskrift/1998-01-13-82) (tidligere [§ 9](https://lovdata.no/forskrift/1998-01-13-82/§9)), [9 jan 2004 nr. 95](https://lovdata.no/forskrift/2004-01-09-95).*
+
+### § 11. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [dyrevelferdsloven § 37](../lover/lov-2009-06-19-97-dyrevelferdsloven.md) og [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrifter 13 jan 1998 nr. 82](https://lovdata.no/forskrift/1998-01-13-82) (tidligere § 10), [9 jan 2004 nr. 95](https://lovdata.no/forskrift/2004-01-09-95), [6 aug 2010 nr. 1147](https://lovdata.no/forskrift/2010-08-06-1147).*
+
+### § 12. Ikrafttreden
+
+Denne forskriften trer i kraft 1. april 1995. Fra samme tid oppheves [forskrift av 15. januar 1985 nr. 3977](https://lovdata.no/forskrift/1985-01-15-3977) om instruks for seminteknikere.
+
+*Endret ved [forskrift 13 jan 1998 nr. 82](https://lovdata.no/forskrift/1998-01-13-82) (tidligere § 11).*

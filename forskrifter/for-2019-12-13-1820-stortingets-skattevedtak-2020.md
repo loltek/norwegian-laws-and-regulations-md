@@ -1,0 +1,178 @@
+# Stortingsvedtak om skatt av inntekt og formue mv. for inntektsåret 2020 (Stortingets skattevedtak)
+
+- **Korttittel:** Stortingets skattevedtak 2020
+- **Datokode:** FOR-2019-12-13-1820
+- **DokumentID:** STV/forskrift/2019-12-13-1820
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavd.
+- **Hjemmel:** lov/1814-05-17/§75
+- **Kunngjort:** 2019-12-18 13:35
+- **I kraft fra:** Inntektsåret 2020
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Kunngjøring fra Finansdepartementet av stortingsvedtak 13. desember 2019 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 75 bokstav a.
+- **Kilde:** <https://lovdata.no/STV/forskrift/2019-12-13-1820>
+
+## Kapittel 1 – Generelt
+
+### § 1-1. Vedtakets anvendelsesområde
+
+Dette vedtaket gjelder utskriving av skatt på inntekt og formue for inntektsåret 2020. Vedtaket legges også til grunn for utskriving av forskudd på skatt for inntektsåret 2020, etter reglene i [skattebetalingsloven kapittel 4](../lover/lov-2005-06-17-67-skattebetalingsloven.md) til 6.
+
+Sammen med bestemmelsene om forskudd på skatt i skattebetalingsloven, gjelder dette vedtaket også når skatteplikt utelukkende følger av lov om skattlegging av undersjøiske petroleumsforekomster mv., og skattyteren ikke skal svare terminskatt etter samme lov § 7.
+
+### § 1-2. Forholdet til skattelovgivningen
+
+Så langt dette vedtak ikke bestemmer noe annet, legges lovgivningen om skatt på formue og inntekt til grunn ved anvendelsen av vedtaket.
+
+## Kapittel 2 – Formuesskatt til staten og kommunene
+
+### § 2-1. Formuesskatt til staten – personlig skattyter og dødsbo
+
+Personlig skattyter og dødsbo svarer formuesskatt til staten av den delen av skattyterens samlede antatte formue som overstiger 1 500 000 kroner. Satsen skal være 0,15 pst.
+
+Ektefeller som skattlegges under ett for begges formue, jf. [skatteloven § 2-10](../lover/lov-1999-03-26-14-skatteloven.md), svarer formuesskatt til staten av den delen av ektefellenes samlede antatte formue som overstiger 3 000 000 kroner. Satsen skal være 0,15 pst.
+
+### § 2-2. Formuesskatt til staten – upersonlig skattyter
+
+Selskaper og innretninger som nevnt i [skatteloven § 2-36](../lover/lov-1999-03-26-14-skatteloven.md) annet ledd, og som ikke er fritatt for formuesskatteplikt etter [skatteloven kapittel 2](../lover/lov-1999-03-26-14-skatteloven.md), svarer formuesskatt til staten med 0,15 pst. Formue under 10 000 kroner er skattefri.
+
+### § 2-3. Formuesskatt til kommunene
+
+Det svares formuesskatt til kommunen dersom skattyter ikke er fritatt for slik skatteplikt etter [skatteloven kapittel 2](../lover/lov-1999-03-26-14-skatteloven.md). Skattyter som har krav på personfradrag etter [skatteloven § 15-4](../lover/lov-1999-03-26-14-skatteloven.md), skal ha et fradrag i formuen på 1 500 000 kroner. For ektefeller som skattlegges under ett for begges formue, jf. [skatteloven § 2-10](../lover/lov-1999-03-26-14-skatteloven.md), skal fradraget være 3 000 000 kroner. Når skattyter har formue i flere kommuner, fordeles fradraget etter reglene i [skatteloven § 4-30](../lover/lov-1999-03-26-14-skatteloven.md) første og annet ledd. Satsen for formuesskatt til kommunene må ikke være høyere enn 0,7 pst. Maksimumssatsen gjelder når ikke lavere sats er vedtatt av kommunen.
+
+## Kapittel 3 – Inntektsskatt til staten, kommunene og fylkeskommunene
+
+### § 3-1. Trinnskatt
+
+Personlig skattyter i klasse 0 og 1 skal av personinntekt fastsatt etter [skatteloven kapittel 12](../lover/lov-1999-03-26-14-skatteloven.md), svare trinnskatt til staten med
+
+- 1,9 pst. for den delen av inntekten som overstiger 180 800 kroner,
+- 4,2 pst. for den delen av inntekten som overstiger 254 500 kroner,
+- 13,2 pst. for den delen av inntekten som overstiger 639 750 kroner, og
+- 16,2 pst. for den delen av inntekten som overstiger 999 550 kroner.
+
+For personlig skattyter i Troms og Finnmark fylke, med unntak av skattytere i kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Målselv, Salangen, Senja, Sørreisa, Tjeldsund og Tromsø, skal satsen etter første ledd tredje strekpunkt likevel være 11,2 pst.
+
+Dersom skattyter er bosatt i riket bare en del av året, nedsettes beløpene i første og annet ledd forholdsmessig under hensyn til det antall hele eller påbegynte måneder av året han har vært bosatt her. Tilsvarende gjelder for skattyter som ikke er bosatt i riket, men som plikter å svare skatt etter [skatteloven § 2-3](../lover/lov-1999-03-26-14-skatteloven.md) første og annet ledd, eller lov om skattlegging av undersjøiske petroleumsforekomster mv.
+
+### § 3-2. Fellesskatt
+
+Enhver som plikter å betale inntektsskatt til kommunen etter skatteloven, skal betale fellesskatt til staten. Fellesskatten skal beregnes på samme grunnlag som inntektsskatten til kommunene.
+
+Satsen for fellesskatt skal være:
+
+- For personlig skattepliktig og dødsbo i Troms og Finnmark fylke, med unntak av skattepliktig og dødsbo i kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Målselv, Salangen, Senja, Sørreisa, Tjeldsund og Tromsø: 4,95 pst.
+- For personlig skattepliktig og dødsbo ellers: 8,45 pst.
+
+### § 3-3. Skatt til staten
+
+Selskaper og innretninger som nevnt i [skatteloven § 2-36](../lover/lov-1999-03-26-14-skatteloven.md) annet ledd, svarer skatt til staten med 22 pst. av inntekten.
+
+Selskap og innretninger som nevnt i første ledd og som svarer finansskatt på lønn, jf. [folketrygdloven § 23-2a](../lover/lov-1997-02-28-19-folketrygdloven.md), svarer skatt til staten med 25 pst. av inntekten.
+
+### § 3-4. Skatt på grunnrenteinntekt i kraftforetak
+
+Av grunnrenteinntekt i vannkraftverk fastsatt i medhold av [skatteloven § 18-3](../lover/lov-1999-03-26-14-skatteloven.md) svares grunnrenteskatt til staten med 37 pst.
+
+### § 3-5. Skatt til staten for person bosatt og selskap hjemmehørende i utlandet
+
+Skattyter som nevnt i [skatteloven § 2-3](../lover/lov-1999-03-26-14-skatteloven.md) første ledd bokstav h, skal i tillegg til å svare skatt etter bestemmelsene foran i dette vedtaket, svare skatt til staten med 22 pst. av inntekten.
+
+Person som ikke har bopel i riket, men som mottar lønn av den norske stat, skal av denne inntekt svare fellesskatt til staten etter satsen for personlig skattyter og dødsbo i dette vedtaket [§ 3-2](https://lovdata.no/forskrift/2019-12-13-1820/§3-2) annet ledd annet strekpunkt, samt trinnskatt som nevnt i [§ 3-1](https://lovdata.no/forskrift/2019-12-13-1820/§3-1) første ledd. Bestemmelsene i [skatteloven § 16-20](../lover/lov-1999-03-26-14-skatteloven.md) til [§ 16-29](../lover/lov-1999-03-26-14-skatteloven.md) gjelder tilsvarende for skattytere som nevnt i dette ledd.
+
+Av aksjeutbytte som utdeles til aksjonær som er hjemmehørende i utlandet, svares skatt til staten med 25 pst. eller i tilfelle den sats som følger av skatteavtale med fremmed stat. Det samme gjelder renter på grunnfondsbevis som utdeles til skattyter hjemmehørende i utlandet.
+
+Person som nevnt i [skatteloven § 2-3](../lover/lov-1999-03-26-14-skatteloven.md) fjerde ledd, skal av personinntekt fastsatt etter [skatteloven kapittel 12](../lover/lov-1999-03-26-14-skatteloven.md) svare skatt til staten med 15 pst. av inntekten. Dersom vedkommende gis fradrag etter [skatteloven § 6-71](../lover/lov-1999-03-26-14-skatteloven.md), svares skatt til staten etter skattesatsene som følger av [§ 3-1](../lover/lov-1999-03-26-14-skatteloven.md), [§ 3-2](../lover/lov-1999-03-26-14-skatteloven.md) og § 3-8.
+
+### § 3-6. Skatt til staten på honorar til utenlandske artister mv.
+
+Skattepliktig etter lov om skatt på honorar til utenlandske artister mv., skal svare skatt til staten med 15 pst. av inntekten.
+
+### § 3-7. Skattesats for utbetalinger fra individuell pensjonsavtale til bo
+
+Skattesatsen for utbetaling fra individuell pensjonsavtale og etter innskuddspensjonsloven til bo, som omhandlet i [skatteloven § 5-40](../lover/lov-1999-03-26-14-skatteloven.md) fjerde ledd, skal være 45 pst.
+
+### § 3-8. Inntektsskatt til kommunene og fylkeskommunene
+
+Den fylkeskommunale inntektsskattøren for personlige skattytere og dødsbo skal være maksimum 2,45 pst. Den kommunale inntektsskattøren for personlige skattytere og dødsbo skal være maksimum 11,10 pst.
+
+Maksimumssatsene skal gjelde med mindre fylkestinget eller kommunestyret vedtar lavere satser.
+
+### § 3-9. Skatt til staten for personer bosatt i utlandet
+
+Skattyter som skattlegges etter reglene i [skatteloven kapittel 19](../lover/lov-1999-03-26-14-skatteloven.md), svarer skatt til staten med 25 pst. av inntekten. Dersom det følger av trygdeavtaler med andre land eller forordning [(EF) nr. 883/2004](https://lovdata.no/eu/32004r0883*) at skattyter etter alminnelige regler ikke skal betale trygdeavgift til Norge eller bare skal betale trygdeavgift med lav sats, skal skattesatsen etter første punktum reduseres tilsvarende.
+
+## Kapittel 4 – Skatt etter lov om skattlegging av undersjøiske petroleumsforekomster mv.
+
+### § 4-1. Ordinære skatter
+
+Skattyter som har formue knyttet til eller inntekt vunnet ved petroleumsutvinning og rørledningstransport, jf. § 2 annet ledd i lov om skattlegging av undersjøiske petroleumsforekomster mv., skal av slik formue og inntekt, i tillegg til de skatter som følger av bestemmelsene foran, svare skatt til staten etter reglene og satsene nedenfor. Det samme gjelder når skatteplikten utelukkende følger av nevnte lov.
+
+Av formue som tilhører andre skattytere enn selskaper, svares skatt med 0,7 pst.
+
+Av inntekt svares skatt med 22 pst., med mindre det skal svares skatt på inntekten etter dette vedtaket [§ 3-3](https://lovdata.no/forskrift/2019-12-13-1820/§3-3). Skatten blir å utligne i samsvar med bestemmelsene i lov om skattlegging av undersjøiske petroleumsforekomster mv.
+
+### § 4-2. Særskatt
+
+Av inntekt vunnet ved petroleumsutvinning, behandling og rørledningstransport som nevnt i lov om skattlegging av undersjøiske petroleumsforekomster mv. § 5, skal det svares særskatt med 56 pst.
+
+### § 4-3. Terminskatt
+
+Terminskatt for inntektsåret 2020 skrives ut og betales i samsvar med lov om skattlegging av undersjøiske petroleumsforekomster mv. § 7. Ved utskrivingen av terminskatt benyttes satsene ovenfor.
+
+### § 4-4. Utbytte utdelt til utenlandsk eierselskap
+
+Det svares ikke skatt av aksjeutbytte som utdeles fra i riket hjemmehørende aksjeselskap og allmennaksjeselskap som er skattepliktig etter lov om skattlegging av undersjøiske petroleumsforekomster mv. § 5, til selskap hjemmehørende i utlandet som direkte eier minst 25 pst. av kapitalen i det utdelende selskap. Dersom det i riket hjemmehørende selskap også har inntekt som ikke er skattepliktig etter lov om skattlegging av undersjøiske petroleumsforekomster mv. § 5, svares skatt til staten etter de alminnelige regler for aksjeutbytte som fordeles til slik inntekt. Aksjeutbytte fordeles mellom særskattepliktig inntekt og annen inntekt på grunnlag av alminnelig inntekt fratrukket skatter for henholdsvis særskattepliktig inntekt og annen inntekt.
+
+## Kapittel 5 – Tonnasjeskatt
+
+### § 5-1. Tonnasjeskatt
+
+Aksjeselskap, allmennaksjeselskap og tilsvarende selskap hjemmehørende i annen EØS-stat som nevnt i [skatteloven § 8-10](../lover/lov-1999-03-26-14-skatteloven.md), skal svare tonnasjeskatt, jf. [skatteloven § 8-16](../lover/lov-1999-03-26-14-skatteloven.md), etter følgende satser:
+
+- 90 øre per dag per 100 nettotonn for de første 1 000 nettotonn, deretter
+- 18 kroner per dag per 1 000 nettotonn opp til 10 000 nettotonn, deretter
+- 12 kroner per dag per 1 000 nettotonn opp til 25 000 nettotonn, deretter
+- 6 kroner per dag per 1 000 nettotonn.
+
+Satsene i første ledd kan reduseres etter nærmere bestemmelser fastsatt av departementet, jf. [skatteloven § 8-16](../lover/lov-1999-03-26-14-skatteloven.md) første ledd.
+
+## Kapittel 6 – Særlige bestemmelser om skattegrunnlag, beløpsgrenser og satser mv.
+
+### § 6-1. Minstefradrag
+
+Minstefradrag i lønnsinntekt mv. etter [skatteloven § 6-32](../lover/lov-1999-03-26-14-skatteloven.md) første ledd bokstav a skal ikke settes lavere enn 31 800 kroner, og ikke høyere enn 104 450 kroner.
+
+Minstefradrag i pensjonsinntekt etter [skatteloven § 6-32](../lover/lov-1999-03-26-14-skatteloven.md) første ledd bokstav b skal ikke settes lavere enn 4 000 kroner, og ikke høyere enn 87 450 kroner.
+
+### § 6-2. Foreldrefradrag
+
+Fradrag beregnet etter [skatteloven § 6-48](../lover/lov-1999-03-26-14-skatteloven.md) skal ikke settes høyere enn 25 000 kroner for ett barn. Fradragsgrensen økes med inntil 15 000 kroner for hvert ytterligere barn.
+
+### § 6-3. Personfradrag
+
+Fradrag etter [skatteloven § 15-4](../lover/lov-1999-03-26-14-skatteloven.md) er 51 300 kroner i klasse 1.
+
+### § 6-4. Skattebegrensning ved lav alminnelig inntekt
+
+Beløpsgrensene som nevnt i [skatteloven § 17-1](../lover/lov-1999-03-26-14-skatteloven.md) første ledd skal være 147 450 kroner for enslige og 135 550 kroner for hver ektefelle. Beløpsgrensen er 271 100 kroner for ektepar og samboere som ved skattebegrensningen får inntekten fastsatt under ett etter [skatteloven § 17-2](../lover/lov-1999-03-26-14-skatteloven.md) annet ledd.
+
+### § 6-5. Skattefradrag for pensjonsinntekt
+
+Fradraget som nevnt i [skatteloven § 16-1](../lover/lov-1999-03-26-14-skatteloven.md) første ledd skal være 32 330 kroner.
+
+Beløpsgrensene som nevnt i [skatteloven § 16-1](../lover/lov-1999-03-26-14-skatteloven.md) tredje ledd skal være 204 150 kroner i trinn 1 og 306 300 kroner i trinn 2.
+
+### § 6-6. Særfradrag for enslige forsørgere
+
+Fradrag etter [skatteloven § 6-80](../lover/lov-1999-03-26-14-skatteloven.md) er 4 317 kroner per påbegynt måned.
+
+## Kapittel 7 – Forskriftskompetanse mv.
+
+### § 7-1. Forskriftsfullmakt til gjennomføring og utfylling
+
+Departementet kan gi forskrift til gjennomføring og utfylling av bestemmelsene i dette vedtak.
+
+### § 7-2. Adgang til å fravike reglene i vedtaket
+
+Reglene i dette vedtaket kan fravikes på vilkår som nevnt i [skattebetalingsloven § 4-8](../lover/lov-2005-06-17-67-skattebetalingsloven.md).

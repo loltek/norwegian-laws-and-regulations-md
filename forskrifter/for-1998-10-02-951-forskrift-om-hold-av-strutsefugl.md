@@ -1,0 +1,265 @@
+# Forskrift om hold av strutsefugl
+
+- **Datokode:** FOR-1998-10-02-951
+- **DokumentID:** SF/forskrift/1998-10-02-951
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Avd. for matpolitikk
+- **Hjemmel:** lov 19.06.2009 nr. 97/§6; lov 19.06.2009 nr. 97/§7; lov 19.06.2009 nr. 97/§8; lov 19.06.2009 nr. 97/§9; lov 19.06.2009 nr. 97/§23; lov 19.06.2009 nr. 97/§24; forskrift 11.06.2010 nr. 814
+- **Publisert i:** Avd I 1998 1442
+- **I kraft fra:** 1999-01-01
+- **Siste endring i kraft:** 2013-02-01
+- **Sist endret ved:** forskrift 21.01.2013 nr. 62 fra 2013-02-01
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2022-02-09 (struktur)
+- **Merknad:** Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) 2. oktober 1998 med hjemmel i lov 19. juni 2009 nr. 97 om dyrevelferd § 6, § 7, § 8, § 9, § 23 og § 24, jf. delegeringsvedtak 11. juni 2010 nr. 814. Endret ved forskrifter 6 mai 2003 nr. 593, 9 jan 2004 nr. 50, 14 nov 2007 nr. 1269, 6 aug 2010 nr. 1147, 21 jan 2013 nr. 62. Rettet: 09.02.2022 (struktur)
+- **Kilde:** <https://lovdata.no/forskrift/1998-10-02-951>
+
+## Kapittel I. Formål og virkeområde
+
+### § 1. Formål
+
+Formålet med forskriften er å legge forholdene til rette for god trivsel og helse hos strutsefugl og sikre at det tas hensyn til fuglenes naturlige behov. Videre skal strutsefugl sikres et tilstrekkelig areal for naturlige aktiviteter med mulighet for bevegelse og mosjon.
+
+### § 2. Virkeområde
+
+Forskriften gjelder for hold av strutsefugl av artene: struts (Struthio camelus), emu (Dromaius novaehollandiae) og nandu (Rhea americana) og andre arter av strutsefugl, for avl eller produksjon av kjøtt, fjør, hud eller andre formål.
+
+Forskriften gjelder ikke anlegg for offentlig fremvisning av dyr.
+
+*Endret ved [forskrift 6 aug 2010 nr. 1147](https://lovdata.no/forskrift/2010-08-06-1147).*
+
+## Kapittel II. Bygninger, rom, utearealer m.m.
+
+### § 3. Generelle krav
+
+Hold av strutsefugl skal bare foregå i løsdrift, og fuglene skal holdes i grupper.
+
+Strutsefugl skal ikke holdes isolert uten når dette er nødvendig på grunn av sjukdom eller skade. Strutsefugl skal ikke fikseres, unntatt i tilfeller av undersøkelse og behandling.
+
+Strutsefugl skal holdes på en slik måte at de får mosjon og mulighet til å utøve normal atferd. Inne- og utearealer som fuglene holdes på skal være innredet og utformet slik at fuglene ikke blir påført eller kan påføre seg selv skade.
+
+### § 4. Bygninger
+
+Rommene skal være isolert og skal kunne oppvarmes. Høyden fra underlag (overkant av talle) til tak for voksen struts skal til enhver tid være minimum 3 m, og 2,4 m for emu og nandu.
+
+Det skal finnes en fikseringsenhet som gjør det mulig å håndtere fuglene, for eksempel for stell, undersøkelse eller behandling.
+
+Det skal være minst to utganger fra bygningen. Plassering og utforming av ganger, dører m.v. skal sikre rask evakuering av fuglene i tilfelle brann eller andre nødssituasjoner. Dørbredden skal være minimum 1,2 m.
+
+Bygninger m.v. skal oppfylle de minimumskrav til størrelse som fremgår av vedlegg 1 og 2 til denne forskrift.
+
+### § 5. Binger
+
+Kyllinger fra 0 til 14 dagers alder skal holdes innendørs i binge med betonggolv, eller på annet tett underlag som er sklisikkert og lett å rengjøre. Kyllinger fra 14 dager til 3 måneders alder skal om de holdes inne, gå på tilsvarende underlag. Det skal ikke brukes strø. Fugler eldre enn 3 måneder kan innendørs gå på talle.
+
+Bingene skal holdes fri for gjenstander som kan skade fuglene dersom gjenstandene svelges. Lutet halm må ikke brukes som strø.
+
+Bingene skal oppfylle de minimumskrav til størrelse som fremgår av vedlegg 1 og 2 til denne forskrift.
+
+### § 6. Utearealer
+
+Kyllinger fra 14 dager til 3 måneders alder kan gå ute på velpreparert underlag.
+
+Kyllinger eldre enn 3 måneder kan gå ute på sand og gras og skal ha adgang til utearealer hele året.
+
+Utearealene skal være anlagt på naturlig tørr eller godt drenert grunn slik at en god hygienisk standard kan opprettholdes. Utearealene skal utformes og vedlikeholdes slik at de ikke er våte og gjørmete. Særlig viktig er dette i nærheten av oppholdsrommene og på ete- og liggeplasser. På vinterstid skal snø fjernes og arealene strøs når forholdene gjør dette nødvendig.
+
+I den kalde årstiden skal fuglene holdes inne om natten.
+
+Fuglene skal ha tilgang til støvbad på utearealene i sommerhalvåret.
+
+Utearealene skal være forsvarlig inngjerdet slik at fuglene ikke kan rømme. Gjerder skal være av netting eller annet egnet materiale lett synlig for fuglene, og være forsynt med en tverrliggende planke øverst. Strømførende gjerde og piggtrådgjerde er forbudt. Gjerdene skal være utformet slik at fuglene ikke blir fanget i det eller kan skade seg. Gjerdene skal ha tilstrekkelig styrke og fleksibilitet, slik at fuglene ikke blir skadet hvis de løper inn i gjerdet.
+
+Utearealene skal kontrolleres jevnlig for å hindre at fuglene blir påført skader.
+
+Utearealene skal oppfylle de krav til minimumsstørrelse som fremgår av vedlegg 1 og 2 til denne forskrift.
+
+Bestemmelsene om adgang til uteområde gjelder ikke mens fuglene står i karantene.
+
+## Kapittel III. Klima, lys, støy m.m.
+
+### § 7. Inneklima
+
+Alle rom for strutsefugl skal ha ventilasjonssystemer som sikrer fuglene et godt klima.
+
+Temperaturen skal tilpasses strutsefuglenes alder og være regulert slik at brå temperaturendringer unngås.
+
+Gasser i skadelige konsentrasjoner må ikke komme inn i eller oppstå i rom hvor det er fugler. Støv og annen forurensning i lufta skal holdes på et lavest mulig nivå. Luftfuktigheten skal holdes så lav som mulig.
+
+### § 8. Lys
+
+Alle rom skal ha vinduer som sikrer fuglene tilgang på dagslys. Det skal også være muligheter for tilfredsstillende kunstig belysning. Strutsefugl skal ha lys, naturlig eller kunstig, i 12 – 14 timer i døgnet. Lyskildene skal være slik plassert og ha en slik frekvens (hertz) at det ikke er til ubehag for fuglene. Strutsefugl skal ikke utsettes for permanent sterkt kunstig lys eller permanent mørke.
+
+### § 9. Støy
+
+Strutsefugl skal ikke utsettes for unødig støy. Utearealer skal legges slik at støy fra trafikk eller andre støykilder ikke generer fuglene. Vedvarende støy med lydstyrke over 65 dB skal unngås.
+
+## Kapittel IV. Tilsyn, stell m.v.
+
+### § 10. Tilsyn
+
+Strutsefugl skal holdes på en slik måte at tilsynet med fuglene kan skje uten vanskeligheter. Fuglene skal ha tilsyn og stell minst to ganger i døgnet. Fugler som er sjuke eller trenger spesielt tilsyn av annen grunn, skal ses til flere ganger i døgnet etter behov.
+
+Det skal avsettes særskilt plass for sjuke fugler og fugler som trenger spesielt tilsyn. Dersom fugler må holdes adskilt fra andre på grunn av sjukdom eller skade, skal de likevel kunne se sine artsfrender.
+
+### § 11. Renhold
+
+Der strutsefugl oppholder seg skal det gjennomføres tilstrekkelig renhold. Talle eller strø skal skiftes ved behov. Transport og lagring av gjødsel skal foregå på en for fuglene hygienisk og forsvarlig måte.
+
+### § 12. Fôr og vann
+
+Fôringen skal være tilstrekkelig til at fuglene har normalt hold og fôret skal være slik sammensatt at det dekker fuglenes behov for næring og etelyst under alle forhold.
+
+Alle fugler skal til enhver tid ha tilgang på tilstrekkelige mengder drikkevann av akseptabel bakteriologisk og kjemisk kvalitet.
+
+Alle fugler skal ha tilgang til å spise stein p.g.a. fordøyelsen. Størrelsen på steinen skal være fra halvparten til full størrelse av fuglens tånegl. De første ukene bør tilgangen være begrenset.
+
+Automatiske innretninger for tildeling av fôr og vann skal kontrolleres daglig.
+
+### § 13. Mosjon
+
+Strutsefugler har et særlig behov for mosjon. Kyllinger som vokser opp uten eldre kyllinger eller voksne fugler til stede, må ha hjelp til å lære å mosjonere for å hindre bl.a. beinproblemer.
+
+### § 14. Forbud
+
+Det er forbudt å plukke fjær av levende strutsefugl. Det er videre forbudt å bruke strutsefugl som ridedyr.
+
+### § 15. (Opphevet)
+
+*Opphevet ved [forskrift 21 jan 2013 nr. 62](https://lovdata.no/forskrift/2013-01-21-62) (i kraft 1 feb 2013).*
+
+## Kapittel V. Kompetanse, driftsplan, inspeksjon og melding
+
+*Overskriften endret ved [forskrift 14 nov 2007 nr. 1269](https://lovdata.no/forskrift/2007-11-14-1269).*
+
+### § 16. Kompetanse
+
+Eier eller annen person som har ansvar for strutsefugler, skal ha gjennomgått kurs i strutsehold av minst to ukers varighet, godkjent av Mattilsynet. Kurset skal inneholde de tema som fremgår av vedlegg 3 til denne forskrift. Vedkommende skal også ha hatt opphold i en strutsefarm i minst to uker.
+
+*Endret ved [forskrift 9 jan 2004 nr. 50](https://lovdata.no/forskrift/2004-01-09-50).*
+
+### § 17. Driftsplan
+
+Eier eller annen som har ansvar for fuglene, skal utarbeide en plan for strutseholdet. Planen skal inneholde en totaloversikt over strutseholdet med bygninger, utearealer, fôrings- og beiteforhold, lys, ventilasjon, opplastingsinnretning etc.
+
+### § 18. Melding om dyrehold og bygninger til oppstalling
+
+Enhver som vil holde dyr, skal på forhånd melde fra om dette til Mattilsynet. Melding skal gis på den måten Mattilsynet bestemmer og inneholde nødvendige opplysninger om dyreholdet, herunder dyreholderens navn, foretaks- eller fødselsnummer, dyreholderen og dyreholdets adresse, informasjon om bygninger til oppstalling av dyrene, produksjonsform og kapasitet, samt opplysninger om dyreholders kompetanse, jf. [§ 16](for-1998-10-02-951-forskrift-om-hold-av-strutsefugl.md). Endringer i disse opplysningene, herunder oppføring av nye bygninger, vesentlige endringer av eksisterende bygninger og opphør av dyreholdet, skal meldes til Mattilsynet.
+
+*Endret ved [forskrifter 9 jan 2004 nr. 50](https://lovdata.no/forskrift/2004-01-09-50), [14 nov 2007 nr. 1269](https://lovdata.no/forskrift/2007-11-14-1269).*
+
+## Kapittel VII. Avsluttende bestemmelser
+
+### § 19. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.
+
+*Endret ved [forskrift 9 jan 2004 nr. 50](https://lovdata.no/forskrift/2004-01-09-50).*
+
+### § 20. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i forskriften og sette vilkår for dispensasjonen.
+
+*Endret ved [forskrifter 6 mai 2003 nr. 593](https://lovdata.no/forskrift/2003-05-06-593), [9 jan 2004 nr. 50](https://lovdata.no/forskrift/2004-01-09-50).*
+
+### § 21. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [dyrevelferdsloven § 37](../lover/lov-2009-06-19-97-dyrevelferdsloven.md).
+
+*Endret ved [forskrifter 9 jan 2004 nr. 50](https://lovdata.no/forskrift/2004-01-09-50) (tidligere § 22), [6 aug 2010 nr. 1147](https://lovdata.no/forskrift/2010-08-06-1147).*
+
+### § 22. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 1999.
+
+Eksisterende strutsehold skal være i samsvar med forskriftens bestemmelser innen 1. januar 2004. Mattilsynet kan når det er åpenbart behov for det, stille krav om kortere overgangstid.
+
+*Endret ved [forskrift 9 jan 2004 nr. 50](https://lovdata.no/forskrift/2004-01-09-50), tidligere § 23.*
+
+## Vedlegg 1. Arealkrav til struts
+
+Tallene angir maksimumsverdier for gruppestørrelse og minimumskrav til areal (d = dager, u = uker, m = måneder, å = år)
+
+| Alder |  | Bygninger |  | Uteareal |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Max. antall | Min. m2 | Min. m2 | Min. m2 | Min. m2 |
+|  | fugl/gruppe | areal/fugl | totalt | areal/fugl | totalt |
+| < 4 d | 40 | 0,25 | 1 |  |  |
+| 4 d-3 u | 40 | 0,25-1,2 | 5 | 10 | 100 |
+| 3 u-3 m | 40[1] | 1,2-2 | 10 | 10 | 100-1000[3] [4] [7] |
+| 3 m-kjønns- |  | 2-5 | 20 | 200 | 1000[3] [4] |
+| moden |  |  |  |  |  |
+| voksne fugler[2] |  | 10 | 30 | 2000 / 3[6] | 1000[3] [5] |
+
+Gjerdehøyde: Minimum 2 m over underlaget.
+
+## Vedlegg 2. Arealkrav til emu og nandu
+
+Tallene angir maksimumsverdier for gruppestørrelse og minimumskrav til areal ( d = dager, u = uker, m = måneder, å = år)
+
+| Alder |  | Bygninger |  | Uteareal |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Maks. antall | Min. m2 | Min. m2 | Min. m2 | Min. m2 |
+|  | fugl/gruppe | areal/fugl | totalt | areal/fugl | totalt |
+| < 4 d | 40 | 0,25 | 1 |  |  |
+| 4 d-3 u | 40 | 0,25-0,5 | 5 | 5 | 75 |
+| 3 u-6 m | 40[8] | 1 | 10 | 20 | 100-500[10] [12] [14] |
+| 6m-kjønns- |  | 2-4 | 20 | 150 | 500[11] [13] |
+| moden |  |  |  |  |  |
+| voksne fugler 1+1[9] |  | 5 | 30 | 250 | 500[11] [13] |
+
+Gjerdehøyde: Minimum 1,75 m over underlaget.
+
+## Vedlegg 3. Krav til utdanning og opplæring
+
+Personer som har ansvaret for og/eller steller strutsefugl skal ha gjennomgått et utdannings- og opplæringsprogram hvor etterfølgende tema inngår i programmet.
+
+- Generell biologi og atferd hos strutsefugl
+- Biologiske særtrekk hos de enkelte arter
+- Generelle regler for tilsyn og stell
+- Helsekontroll og sjukdomssymptomer
+- Symptomer på stress og utilpasshet
+- Innfanging og håndtering av fugler i alle aldre
+- Ernæringsbehov og fôring
+- Reproduksjonsatferd inkludert håndtering av egg, lagring, inkubering, klekking
+- Stell av nyklekkede kyllinger og unge fugler
+- Krav til og behov for bevegelse og mosjon
+- Arealbehov i bygninger og utendørs
+- Krav til gjerdekonstruksjon og utforming
+- Håndtering og stell av sjuke fugler
+- Hygiene og desinfeksjon
+- Utvelgelse av avlsfugl
+- Registrering og journalføring
+- Transport og transportutstyr
+- Avlivingsmetoder
+- Kjennskap til lov- og regelverk når det gjelder dyrehelse og dyrevern inkludert transport og slakting.
+
+## Fotnoter
+
+**1.** Gruppestørrelsen forutsetter samme størrelse på fuglene.
+
+**2.** Dersom mer enn en reproduksjonsgruppe (trio) holdes på samme areal, er det spesielt viktig at tilstrekkelig ekstra areal, mulighet for å gjemme seg og mulighet for å dele opp gruppene, er til stede.
+
+**3.** Den korteste siden skal ikke være kortere enn 10 m.
+
+**4.** En side skal være minst 50 m.
+
+**5.** En side skal være minst 100 m.
+
+**6.** For hver hunnfugl i tillegg, skal arealet økes med 200 m2, og for hver hannfugl med 800 m2.
+
+**7.** Arealet tilpasses alderen på fuglene.
+
+**8.** Gruppestørrelsen forutsetter samme størrelse på fuglene.
+
+**9.** Dersom mer enn en reproduksjonsgruppe (to fugler) holdes på samme areal, er det spesielt viktig at tilstrekkelig ekstra areal, mulighet for å kunne gjemme seg og for å dele opp gruppene, er til stede.
+
+**10.** Den korteste siden skal ikke være kortere enn 6 m.
+
+**11.** Den korteste siden skal ikke være kortere enn 7 m.
+
+**12.** En side skal være minst 50 m.
+
+**13.** En side skal være minst 70 m.
+
+**14.** Arealet tilpasses alderen på fuglene.

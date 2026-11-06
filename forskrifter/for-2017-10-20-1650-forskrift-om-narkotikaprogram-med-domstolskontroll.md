@@ -1,0 +1,152 @@
+# Forskrift om narkotikaprogram med domstolskontroll
+
+- **Datokode:** FOR-2017-10-20-1650
+- **DokumentID:** SF/forskrift/2017-10-20-1650
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Avd. for kriminalitetsforebygging
+- **Hjemmel:** lov 20.05.2005 nr. 28/§38; forskrift 20.10.2017 nr. 1651
+- **Kunngjort:** 2017-10-24 14:40
+- **I kraft fra:** 2017-10-20
+- **Siste endring i kraft:** 2021-01-19
+- **Sist endret ved:** forskrift 19.01.2021 nr. 151
+- **Endrer:** forskrift 16.12.2005 nr. 1518; forskrift 12.02.2016 nr. 152
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 20. oktober 2017 med hjemmel i lov 20. mai 2005 nr. 28 om straff (straffeloven) § 38. Fremmet av Justis- og beredskapsdepartementet. Tilføyd hjemmel: Delegeringsvedtak 20. oktober 2017 nr. 1651. Endret ved forskrifter 26 mars 2019 nr. 362, 19 jan 2021 nr. 151.
+- **Kilde:** <https://lovdata.no/forskrift/2017-10-20-1650>
+
+## § 1. Formål
+
+Narkotikaprogram med domstolskontroll skal forebygge ny kriminalitet, fremme rehabilitering og bidra til å styrke og samordne praktiske hjelpe- og behandlingstilbud for domfelte som er avhengige av narkotika, og som omfattes av ordningen.
+
+## § 2. Virkeområde
+
+Forskriften gjelder gjennomføringen av narkotikaprogram med domstolskontroll fastsatt som vilkår for betinget dom etter [straffeloven § 37](../lover/lov-2005-05-20-28-straffeloven.md) første ledd bokstav f.
+
+## § 3. Hvem som kan idømmes narkotikaprogram med domstolskontroll
+
+Personer som er avhengige av narkotika kan dømmes til narkotikaprogram med domstolskontroll dersom han eller hun dømmes for
+
+a. overtredelser av [straffeloven § 231](../lover/lov-2005-05-20-28-straffeloven.md) første ledd, [§ 232](../lover/lov-2005-05-20-28-straffeloven.md) eller [legemiddelloven § 31](../lover/lov-1992-12-04-132-legemiddelloven.md) andre ledd,
+b. lovbrudd begått under påvirkning av narkotika eller
+c. lovbrudd begått for å finansiere eget narkotikamisbruk.
+
+Den som dømmes for overtredelse av minst ett av alternativene i [straffeloven kapittel 25](../lover/lov-2005-05-20-28-straffeloven.md) eller [26](../lover/lov-2005-05-20-28-straffeloven.md) skal ikke idømmes narkotikaprogram med domstolskontroll. Ved overtredelse av [straffeloven kapittel 25](../lover/lov-2005-05-20-28-straffeloven.md) kan det likevel gjøres unntak når forholdet er av mindre alvorlig karakter.
+
+## § 4. Forvaltningssamarbeid
+
+For å bidra til et helhetlig behandlings- og rehabiliteringstilbud for den domfelte, skal kriminalomsorgen tilrettelegge og gjennomføre narkotikaprogram med domstolskontroll i samarbeid med andre offentlige instanser.
+
+Kriminalomsorgen skal legge til rette for at samarbeidende instanser kan yte sine lovbestemte tjenester til domfelte.
+
+## § 5. Personundersøkelse
+
+Det skal alltid foreligge personundersøkelse i saker hvor det kan være aktuelt å idømme vilkår om narkotikaprogram. I en beslutning om personundersøkelse skal det fremgå hvis det ønskes vurdering av om siktede er egnet til å idømmes narkotikaprogram med domstolskontroll. Kriminalomsorgen har ansvaret for å utarbeide personundersøkelsene og gjennomføre vurderingene.
+
+Anses siktede som egnet for å idømmes narkotikaprogram med domstolskontroll, skal det før saken fremmes for retten, utarbeides et forslag til innhold i og vilkår for gjennomføringen av iverksettingsfasen av programmet, jf. [§ 8](for-2017-10-20-1650-forskrift-om-narkotikaprogram-med-domstolskontroll.md) første ledd.
+
+## § 6. Samtykke fra siktede
+
+I forbindelse med personundersøkelsen skal det innhentes samtykke fra siktede til å:
+
+a. gjennomføre narkotikaprogram med domstolskontroll
+b. frita fra taushetsplikten
+c. gi rett til å få utlevert personopplysninger som ellers ville vært underlagt taushetsplikt.
+
+Samtykkeerklæringen skal underskrives av siktede i forbindelse med personundersøkelsen, jf. [§ 5](for-2017-10-20-1650-forskrift-om-narkotikaprogram-med-domstolskontroll.md).
+
+Før et samtykke innhentes, skal kriminalomsorgen gi siktede utførlig informasjon om hva samtykket innebærer, hva narkotikaprogram med domstolskontroll innebærer, hvordan programmet gjennomføres og konsekvensene av å bryte vilkår i programmet eller av å tilbakekalle samtykket.
+
+Siktede kan trekke samtykket tilbake på ethvert tidspunkt. Trekkes samtykket tilbake etter domsavsigelsen, skal kriminalomsorgen, hvis det er mulig, informere domfelte om konsekvensene før begjæring om omgjøring sendes retten.
+
+## § 7. Gjennomføringsfaser
+
+Narkotikaprogram med domstolskontroll gjennomføres i fire faser, iverksettingsfasen, jf. personundersøkelsen, stabiliseringsfasen, ansvarsfasen og videreføringsfasen. Fasene fastsettes etter en individuell vurdering og under hensyn til en realistisk progresjon.
+
+Er den domfelte idømt narkotikaprogram med domstolskontroll og følger iverksettingsfasen, kan kriminalomsorgen be retten fastsette vilkår for og innhold i stabiliseringsfasen, basert på et forslag som kriminalomsorgen legger fram. Tilsvarende fastsetter retten vilkår for og innhold i ansvarsfasen og videreføringsfasen. Før kriminalomsorgen ber retten ta stilling til saken, skal domfelte gis adgang til å uttale seg.
+
+Når kriminalomsorgen har bedt om det og domfeltes forhold gir grunn til det, kan retten avsi kjennelse om at den domfelte skal gå videre til neste fase i programmet.
+
+## § 8. Gjennomføringsplan
+
+Kriminalomsorgen skal i samarbeid med den domfelte lage en gjennomføringsplan som skal konkretisere innhold og vilkår fastsatt i rettens kjennelser. Innenfor rammen av det som retten har fastsatt, kan gjennomføringsplanen endres av kriminalomsorgen i løpet av en fase.
+
+Gjennomføringsplanen skal utformes slik at den gir den domfelte klarhet og forutsigbarhet når det gjelder forutsetninger og vilkår for å delta i programmet.
+
+Kriminalomsorgen skal følge opp rettens kjennelse om faseovergang og gjennomføringsplanen, og kontrollere at fastsatte vilkår overholdes.
+
+## § 9. Innhold i narkotikaprogrammet
+
+Innholdet i narkotikaprogrammet skal tilrettelegges i samsvar med kriminalomsorgens og samarbeidende instansers faglige vurderinger. Programmet skal tilpasses den enkeltes særlige behov for tiltak som kan bidra til å redusere faren for ny kriminalitet og fremme domfeltes rehabilitering.
+
+Det skal tilrettelegges for et intensivt program med faste og hyppige avtaler som ivaretar formålet med programmet. Programmet skal inneholde obligatoriske tiltak, inkludert krav om jevnlig ruskontroll, som er felles for alle domfelte, og individuelle tiltak som planlegges i samarbeid med den enkelte.
+
+Programmet kan inneholde individuelt tilpasset behandling i tverrfaglig spesialisert behandling for rusavhengige (TSB) eller den kommunale helse- og omsorgstjenesten. Programmet kan også inneholde oppfølgning av arbeids- og velferdsforvaltningen, oppfølgning av utdanning, booppfølgning, fritidsaktiviteter og andre tiltak som er viktige for den enkeltes rehabilitering og integrering i samfunnet.
+
+Dersom det foreligger en individuell plan for domfelte etter helse- og [omsorgstjenesteloven § 7-1](../lover/lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md), [spesialisthelsetjenesteloven § 2-5](../lover/lov-1999-07-02-61-spesialisthelsetjenesteloven.md), psykisk [helsevernloven § 4-1](../lover/lov-1999-07-02-62-psykisk-helsevernloven.md), [sosialtjenesteloven § 28](../lover/lov-2009-12-18-131-sosialtjenesteloven.md) eller [§ 33](../lover/lov-2009-12-18-131-sosialtjenesteloven.md) eller arbeids- og [velferdsforvaltningsloven § 15](../lover/lov-2006-06-16-20-nav-loven.md) skal programmet søkes samordnet med den individuelle planen. Dersom den domfelte har behov for langvarige og koordinerte tjenester, skal kriminalomsorgen medvirke til at det utarbeides én koordinert individuell plan.
+
+## § 10. Domstolskontrollen
+
+Retten treffer avgjørelser etter straffeloven § 39 og forskriften [§ 7](for-2017-10-20-1650-forskrift-om-narkotikaprogram-med-domstolskontroll.md). Regiondirektøren eller den vedkommende gir fullmakt fremmer begjæring om rettens avgjørelse etter straffeloven § 39 første og annet ledd og forskriften [§ 7](for-2017-10-20-1650-forskrift-om-narkotikaprogram-med-domstolskontroll.md).
+
+Retten skal ved sine avgjørelser særlig legge vekt på domfeltes progresjon under straffegjennomføringen, om programmet gjennomføres etter forutsetningene og om fastsatte vilkår overholdes.
+
+Retten kan bestemme at det skal avholdes saksforberedende møter, som startmøter, statusmøter og sluttmøter.
+
+*Endret ved [forskrift 26 mars 2019 nr. 362](https://lovdata.no/forskrift/2019-03-26-362).*
+
+## § 11. Krav til domfelte
+
+Den domfelte skal gjennomføre narkotikaprogrammet i samsvar med kriminalomsorgens anvisninger. Den domfelte skal:
+
+a. møte til fastsatt tid og sted til alle avtaler med involverte instanser under gjennomføringen
+b. følge opp fastsatte tiltak
+c. møte uten påvirkning av alkohol eller annet berusende eller bedøvende middel
+d. gi opplysninger om sitt bosted og andre personlige forhold av betydning for gjennomføringen av programmet
+e. ikke begå ny straffbar handling i prøvetiden
+f. vise evne og vilje til å forandre rusadferden og til å gjøre en innsats for å endre livsførselen.
+
+Den domfelte skal ikke vise en atferd som kan:
+
+a. true sikkerheten til personer som deltar under straffegjennomføringen
+b. påvirke miljøet på en negativ måte.
+
+Domfelte skal selv dekke reiseutgiftene ved gjennomføring av programmet. Kriminalomsorgen kan etter søknad dekke utgiftene dersom domfelte ikke har tilstrekkelige midler.
+
+## § 12. Iverksetting av narkotikaprogrammet
+
+Narkotikaprogrammet skal iverksettes av kriminalomsorgen så snart som mulig etter at den har mottatt ordre fra påtalemyndigheten om å fullbyrde dommen.
+
+Kriminalomsorgen skal pålegge domfelte å møte til fastsatt tid og sted slik at gjennomføringen kan begynne.
+
+Innkalling skjer uavhengig av fristen i [forskrift om innkalling og utsettelse ved fullbyrding av straff § 3](for-2010-03-19-408-forskrift-om-fullbyrding-av-straff.md) første punktum.
+
+Programmet skal gjennomføres i prøvetiden retten har fastsatt. I særlige tilfeller kan retten bestemme at narkotikaprogrammet avsluttes før utløpet av prøvetiden.
+
+## § 13. Reaksjoner på brudd
+
+Det anses som brudd på vilkår om fullbyrdingsutsettelse dersom domfelte unnlater å møte, kommer for sent, eller møter påvirket til avtaler med kriminalomsorgen eller samarbeidende instanser, eller ikke følger opp fastsatte tiltak. Det samme gjelder dersom vedkommende nekter å underkaste seg kontrolltiltak for å avdekke brudd på vilkår.
+
+Rettens behandling av brudd på vilkår for narkotikaprogram med domstolskontroll skal påskyndes. Reaksjonen skal så vidt mulig støtte hensynet til domfeltes rehabilitering.
+
+Ved brudd på vilkårene som ikke anses å være så alvorlig at retten skal ta stilling til konsekvensen, kan kriminalomsorgen gi domfelte en muntlig eller skriftlig advarsel om mulige følger av gjentatte brudd. Kriminalomsorgen kan beslutte å innskjerpe kontrolltiltakene.
+
+Ved alvorligere brudd kan regiondirektøren eller den vedkommende gir fullmakt begjære rettens avgjørelse etter [straffeloven § 39](../lover/lov-2005-05-20-28-straffeloven.md) andre ledd tredje punktum. Når kriminalomsorgen ber retten ta stilling til saken, skal påtalemyndigheten varsles og domfelte gis anledning til å uttale seg.
+
+Regiondirektøren eller den vedkommende gir fullmakt treffer avgjørelse om anke, jf. [straffeprosessloven § 68](../lover/lov-1981-05-22-25-straffeprosessloven.md) femte ledd.
+
+*Endret ved forskrifter [26 mars 2019 nr. 362](https://lovdata.no/forskrift/2019-03-26-362), [19 jan 2021 nr. 151](https://lovdata.no/forskrift/2021-01-19-151).*
+
+## § 14. Straffbare handlinger
+
+Kriminalomsorgen skal varsle politi eller påtalemyndighet dersom den får begrunnet mistanke om at domfelte begår straffbare handlinger i prøvetiden.
+
+## § 15. Endring og utfyllende bestemmelser
+
+Justis- og beredskapsdepartementet kan endre forskriften og gi utfyllende bestemmelser i samsvar med [straffeloven § 38](../lover/lov-2005-05-20-28-straffeloven.md) tredje punktum.
+
+## § 16. Ikrafttredelse
+
+Forskriften trer i kraft straks. Samtidig oppheves
+
+- [forskrift 16. desember 2005 nr. 1518](https://lovdata.no/forskrift/2005-12-16-1518) om prøveordning med narkotikaprogram med domstolskontroll
+- [forskrift 12. februar 2016 nr. 152](https://lovdata.no/forskrift/2016-02-12-152) om forlengelse av prøveordning med narkotikaprogram med domstolskontroll.

@@ -1,0 +1,107 @@
+# Forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv.
+
+- **Datokode:** FOR-2017-12-21-2383
+- **DokumentID:** SF/forskrift/2017-12-21-2383
+- **Departement:** Kunnskapsdepartementet
+- **Etat:** Universitets- og høyskoleavd.
+- **Hjemmel:** lov 01.04.2005 nr. 15/§8-1; lov 01.04.2005 nr. 15/§8-3; lov 01.04.2005 nr. 15/§8-4; lov 01.04.2005 nr. 15/§8-5; lov 01.04.2005 nr. 15/§8-6; lov 01.04.2005 nr. 15/§8-7; lov 01.04.2005 nr. 15/§8-10; lov 01.04.2005 nr. 15/§8-11; lov 01.04.2005 nr. 15/§8-12; lov 08.06.2018 nr. 28/§29; lov 08.06.2018 nr. 28/§30; lov 08.06.2018 nr. 28/§31; lov 08.06.2018 nr. 28/§32; lov 08.06.2018 nr. 28/§33; lov 08.06.2018 nr. 28/§36; lov 08.06.2018 nr. 28/§37; lov 08.06.2018 nr. 28/§38; lov 08.03.2024 nr. 9/§17-3
+- **Kunngjort:** 2017-12-29 16:10
+- **I kraft fra:** 2018-01-01
+- **Siste endring i kraft:** 2019-10-15
+- **Sist endret ved:** forskrift 15.10.2019 nr. 1399
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Kunnskapsdepartementet 21. desember 2017 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 8-1 tredje ledd, § 8-3 femte ledd, § 8-4 fjerde ledd, § 8-5 fjerde ledd, § 8-6 tredje ledd, § 8-7 fjerde ledd, § 8-10 annet ledd, § 8-11 tredje ledd, § 8-12 annet ledd og lov 20. juni 2003 nr. 56 om fagskoleutdanning (fagskoleloven) § 3 tiende ledd, § 15 sjette ledd, § 16 fjerde ledd, § 17 fjerde ledd, § 18 tredje ledd, § 19 fjerde ledd, § 22 annet ledd, § 23 tredje ledd og § 24 annet ledd. Tilføyd hjemmel: Lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning (fagskoleloven) § 29 sjette ledd, § 30 fjerde ledd, § 31 fjerde ledd, § 32 tredje ledd, § 33 fjerde ledd, § 36 annet ledd, § 37 tredje ledd og § 38 annet ledd. Tilføyd hjemmel: Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3. Endret ved forskrift 15 okt 2019 nr. 1399.
+- **Kilde:** <https://lovdata.no/forskrift/2017-12-21-2383>
+
+## § 1. Virkeområde
+
+Forskriften gjelder private universiteter og høyskoler med akkreditering etter universitets- og høyskoleloven og fagskoler med akkreditering etter fagskoleloven.
+
+*Endret ved [forskrift 15 okt 2019 nr. 1399](https://lovdata.no/forskrift/2019-10-15-1399).*
+
+## § 2. Regnskapsmessig skille
+
+(1) Regnskapssystemet skal innrettes slik at akkreditert del og ikke-akkreditert del av institusjonens virksomhet er egne ansvarssteder.
+
+(2) Med akkreditert del av virksomhet etter første ledd menes drift som kan knyttes til institusjonens akkrediteringer sammenholdt med formål angitt i universitets- og [høyskoleloven § 1-1](https://lovdata.no/lov/2005-04-01-15/§1-1) eller [fagskoleloven § 1](../lover/lov-2018-06-08-28-fagskoleloven.md), herunder formålstjenlige tiltak til studentvelferd for institusjonens studenter som ikke ivaretas av [lov 14. desember 2007 nr. 116](../lover/lov-2007-12-14-116-studentsamskipnadsloven.md) om studentsamskipnader.
+
+(3) Transaksjoner skal bokføres løpende og direkte på ansvarssted. Der direkteføring ikke er mulig, skal fordelingen på ansvarssteder skje i samsvar med den reelle bruken av ressurser.
+
+(4) Alle transaksjoner som gjelder akkreditert virksomhet, skal bokføres på dette ansvarsstedet i regnskapet.
+
+(5) Kostnader i andre deler av virksomheten, skal ikke bokføres på ansvarsstedet for akkreditert virksomhet.
+
+## § 3. Krav til noter i årsregnskapet
+
+Årsregnskapet som fastsettes i henhold til [regnskapsloven § 3-1](../lover/lov-1998-07-17-56-regnskapsloven.md), skal i tillegg til de notekrav som følger av regnskapsloven, ha følgende noteopplysninger:
+
+a. segmentregnskap for hvert av ansvarsstedene pålagt etter denne forskrift [§ 2](for-2017-12-21-2383-forskrift-om-private-universiteter-hoyskoler-og-fagskoler-krav-til-regnskap-mv.md), med en inndeling som minst viser sum inntekter, sum kostnader, driftsresultat, sum netto finansposter og årsresultat.
+b. oversikt over statlige tilskudd og egenbetaling fra studenter.
+c. endring i opptjent og innskutt egenkapital, fordelt på segment.
+d. transaksjoner med nærstående parter hvor verdien av institusjonens ytelse utgjør 50 000 kroner eller mer, fordelt på segment. Opplysningene skal omfatte transaksjonenes beløp og en beskrivelse av hva slags forhold det er mellom institusjonen og den nærstående part.
+
+## § 4. Oppbevaringsplikt for regnskapsmateriale mv.
+
+(1) Institusjonene plikter å oppbevare alt regnskapsmateriale som nevnt i bokføringsloven § 13 i fem år. Tilsvarende oppbevaringsplikt gjelder for avtaler med nærstående etter [§ 5](for-2017-12-21-2383-forskrift-om-private-universiteter-hoyskoler-og-fagskoler-krav-til-regnskap-mv.md) andre ledd i denne forskrift.
+
+(2) Departementet kan gi pålegg om utvidet oppbevaringstid i forbindelse med tilsyn.
+
+## § 5. Avtaler med nærstående parter
+
+(1) Nærstående i universitets- og [høyskoleloven § 8-4](https://lovdata.no/lov/2005-04-01-15/§8-4), [fagskoleloven § 30](../lover/lov-2018-06-08-28-fagskoleloven.md) og i denne forskrift omfatter foretak og personer som nevnt i forskrift til regnskapsloven [§ 7-30b-1](for-2006-09-07-1062-forskrift-til-regnskapsloven.md). Et studieforbund er i denne forskrift å anse som et foretak.
+
+(2) Avtaler med nærstående skal dokumenteres med skriftlige avtaler. Pris og andre vilkår i avtalene skal ikke stille institusjonen dårligere enn det som ville vært inngått i avtaler mellom uavhengige parter under sammenlignbare forhold og omstendigheter, og hensett til den reelle risiko- og funksjonsfordelingen mellom partene.
+
+3) Styret skal sørge for at institusjonens avtaler med nærstående parter skjer i henhold til andre ledd og øvrige krav til disponering av offentlige tilskudd og studentenes egenbetalinger. Dette er ikke til hinder for at oppgaver kan delegeres til institusjonens daglige ledelse.
+
+4) Kravet til skriftlighet i andre ledd første punktum gjelder ikke for transaksjoner med totalbeløp mindre enn 10 000 kroner med en og samme nærstående avtalepart i ett regnskapsår.
+
+*Endret ved [forskrift 15 okt 2019 nr. 1399](https://lovdata.no/forskrift/2019-10-15-1399).*
+
+## § 6. Overføring av driftsoverskudd
+
+Institusjoner som mottar tilskudd har anledning til å se virksomheten som helhet over tid, og kan overføre overskudd fra et år til et annet. Dette skal gjøres på en slik måte at tilskudd og egenbetalinger kommer studentene til gode.
+
+## § 7. Meldeplikt
+
+(1) Institusjoner skal uten ugrunnet opphold varsle departementet når det er truffet beslutning om fusjon, fisjon, salg, omdanning eller avvikling av virksomheten. Opphør av akkreditert virksomhet, uten at selskapet, stiftelsen eller studieforbundet oppheves, omfattes også av meldeplikten.
+
+(2) I varselet skal det opplyses i overordnet form om hvilken disposisjon som skal gjennomføres, parter som er involvert og tidspunkt for gjennomføring.
+
+## § 8. Særskilt om avvikling av akkreditert virksomhet
+
+(1) Ved avvikling av akkreditert virksomhet i institusjoner som mottar tilskudd og som er organisert som aksjeselskaper, skal verdiene i selskapet tilfalle staten etter at selskapets gjeld og aksjonærenes innskutte kapital er trukket fra.
+
+(2) Innskutt kapital etter første ledd beregnes til innskuddets pålydende. Ved uttak av naturalier, skal beregningen skje til gjenstandenes virkelige verdi på dagen for uttak.
+
+(3) Bestemmelsene i [aksjeloven kapittel 16](../lover/lov-1997-06-13-44-aksjeloven.md) gjelder så langt de passer ved avvikling av akkreditert virksomhet. [Aksjeloven § 16-2](../lover/lov-1997-06-13-44-aksjeloven.md) annet ledd og [§ 16-6](../lover/lov-1997-06-13-44-aksjeloven.md) gjelder tilsvarende i tilfeller hvor akkreditert og tilskuddsberettiget virksomhet opphører uten at aksjeselskapet oppheves og avvikles.
+
+(4) Fortegnelse og balanse i revidert stand etter [aksjeloven § 16-6](../lover/lov-1997-06-13-44-aksjeloven.md) annet ledd skal sendes til departementet uten ugrunnet opphold. Avviklingsstyret i selskapet skal uten ugrunnet opphold sørge for innbetaling til staten av dens andel av selskapets verdier i henhold til første ledd.
+
+(5) Første til fjerde ledd gjelder tilsvarende for institusjoner som er organisert som studieforbund så langt de passer.
+
+(6) Ved avvikling av akkreditert virksomhet i stiftelser gjelder reglene i [lov 15. juni 2001 nr. 59](../lover/lov-2001-06-15-59-stiftelsesloven.md) om stiftelser.
+
+## § 9. Tvangsmulkt
+
+(1) Størrelsen på tvangsmulkten etter universitets- og [høyskoleloven § 8-10](https://lovdata.no/lov/2005-04-01-15/§8-10) og [fagskoleloven § 36](../lover/lov-2018-06-08-28-fagskoleloven.md) fastsettes etter departementets skjønn, men kan for samme forhold ikke overstige 10 000 kroner per dag og totalt 500 000 kroner.
+
+(2) Tidspunkt for forfall skal fastsettes i vedtaket om ileggelse av tvangsmulkt eller ved senere påkrav. Forfall kan inntreffe tidligst to uker etter at vedtak om tvangsmulkt eller påkrav om betaling er sendt til den det retter seg mot.
+
+*Endret ved [forskrift 15 okt 2019 nr. 1399](https://lovdata.no/forskrift/2019-10-15-1399).*
+
+## § 10. Overtredelsesgebyr
+
+Størrelsen på overtredelsesgebyret etter universitets- og [høyskoleloven § 8-11](https://lovdata.no/lov/2005-04-01-15/§8-11) og [fagskoleloven § 37](../lover/lov-2018-06-08-28-fagskoleloven.md) fastsettes etter departementets skjønn, men kan ikke overstige 1 500 000 kroner.
+
+*Endret ved [forskrift 15 okt 2019 nr. 1399](https://lovdata.no/forskrift/2019-10-15-1399).*
+
+## § 11. Tilbaketrekking av akkreditering og godkjenning
+
+Vedtak om tilbaketrekking av akkreditering etter universitets- og [høyskoleloven § 8-12](https://lovdata.no/lov/2005-04-01-15/§8-12) eller godkjenning etter [fagskoleloven § 38](../lover/lov-2018-06-08-28-fagskoleloven.md) skal normalt ikke iverksettes før klagefristen er ute eller klagen er avgjort. Tilsvarende gjelder når en part eller annen med rettslig klageinteresse har reist søksmål for å få vedtaket prøvd ved domstol, eller har brakt en sak inn for Stortingets ombudsmann for forvaltningen. Vedtaket kan iverksettes umiddelbart i særlige tilfeller.
+
+*Endret ved [forskrift 15 okt 2019 nr. 1399](https://lovdata.no/forskrift/2019-10-15-1399).*
+
+## § 12. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2018.

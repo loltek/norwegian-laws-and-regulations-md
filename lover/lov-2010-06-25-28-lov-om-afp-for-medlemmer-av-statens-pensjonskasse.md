@@ -1,0 +1,202 @@
+# Lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse
+
+- **Korttittel:** Lov om AFP for medlemmer av Statens pensjonskasse
+- **Datokode:** LOV-2010-06-25-28
+- **DokumentID:** NL/lov/2010-06-25-28
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Kunngjort:** 2010-06-25 15:30
+- **I kraft fra:** 2011-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** lov 10.06.2025 nr. 31 fra 2026-01-01
+- **Rettsområde:** Pensjons- og trygderett
+- **Endrer:** lov 11.06.1993 nr. 64
+- **Siste rettelse:** 2021-09-09 (faglige fotnoter fjernet, UU-tilpasset)
+- **Kilde:** <https://lovdata.no/lov/2010-06-25-28>
+
+## Kapittel 1 Avtalefestet pensjon for medlemmer født i 1962 eller tidligere (gammel ordning)
+
+*Overskrift tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 1. Omfang
+
+Kapittelet gjelder avtalefestet pensjon (AFP) til arbeidstakere i stilling som gir rett til medlemskap i Statens pensjonskasse, og som ytes i et bestemt tidsrom fram til arbeidstakeren ved fylte 65 år kan få alderspensjon etter [lov om Statens pensjonskasse § 21](lov-1949-07-28-26-statens-pensjonskasseloven.md) fjerde ledd. Bestemmelsene gjelder for arbeidstakere som er født i 1962 eller tidligere.
+
+*Endret ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 2. Vilkår for rett til avtalefestet pensjon
+
+En arbeidstaker som fratrer sin stilling etter fylte 62 år, har rett til avtalefestet pensjon når dette er bestemt i tariffavtale hvor staten er part, eller i tariffavtale godkjent av departementet, og arbeidstakeren
+
+a. er i lønnet arbeid på uttakstidspunktet,
+b. har en pensjonsgivende inntekt på uttakstidspunktet som omregnet til årsinntekt overstiger gjeldende grunnbeløp i folketrygden, og hadde en pensjonsgivende inntekt over gjennomsnittlig grunnbeløp i året før uttaksåret,
+c. er godskrevet pensjonspoeng i folketrygden for minst 10 år i perioden fra og med det år vedkommende fylte 50 år til og med året før uttaksåret, eller har minst 10 års medlemskap i Statens pensjonskasse etter fylte 50 år. Det kan bestemmes i tariffavtale at medlemskap i annen offentlig tjenestepensjonsordning er likestilt med medlemskap i Statens pensjonskasse, og
+d. har hatt en gjennomsnittlig pensjonsgivende inntekt på minst to ganger grunnbeløpet i folketrygden i de 10 beste inntektsårene etter 1966. Det gjennomsnittlige grunnbeløpet i det enkelte inntektsår legges til grunn.
+
+*Endret ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 3. Utforming av avtalefestet pensjon
+
+Pensjonen beregnes i samsvar med tariffavtale hvor staten er part eller tariffavtale godkjent av departementet. For øvrig gjelder følgende:
+
+a. Pensjonen består av grunnpensjon, tilleggspensjon og/eller særtillegg.
+b. Full pensjon tilsvarer ugradert uførepensjon som pensjonisten ville fått beregnet etter reglene i [folketrygdloven kapittel 3](lov-1997-02-28-19-folketrygdloven.md), slik de lød før [lov 16. desember 2011 nr. 59 om endringer i folketrygdloven](lov-2011-12-16-59-endringslov-til-folketrygdloven-ny-uforetrygd.md) trådte i kraft, likevel slik at grunnpensjon fastsettes etter reglene i [folketrygdloven § 3-2](lov-1997-02-28-19-folketrygdloven.md) og særtillegg fastsettes etter reglene i [folketrygdloven § 3-3](lov-1997-02-28-19-folketrygdloven.md). Det gis ikke poengtillegg etter § 7-3 nr. 3 i tidligere [lov 17. juni 1966 nr. 12](https://lovdata.no/lov/1966-06-17-12) om folketrygd. Det skal heller ikke tas hensyn til en avdød ektefelles poengopptjening eller trygdetid. Det gis et særskilt AFP-tillegg dersom dette følger av tariffavtale.
+c. Pensjon etter bokstavene a og b skal ikke overstige 70 prosent av tidligere inntekt.
+d. Dersom pensjonisten har arbeidsinntekt, skal pensjonen, med eventuelt AFP-tillegg, reduseres med samme prosent som arbeidsinntekten utgjør av tidligere inntekt. Dersom pensjonisten har fått utbetalt for lite eller for mye, skal det foretas et etteroppgjør.
+e. Det ytes ikke avtalefestet pensjon for tidsrom hvor det ytes arbeidsavklaringspenger, uføretrygd eller pensjon, overgangsstønad eller omstillingsstønad til gjenlevende ektefelle fra folketrygden. Det kan heller ikke tas ut avtalefestet pensjon samtidig med alderspensjon fra folketrygden. Er det tatt ut alderspensjon fra folketrygden, må den stanses før det gis avtalefestet pensjon. Det kan heller ikke ytes avtalefestet pensjon etter kapittelet her til en person som mottar tilsvarende avtalefestet pensjon fra annen pensjonsordning eller som mottar eller har mottatt avtalefestet pensjon som det gis statstilskott til etter [AFP-tilskottsloven](lov-2010-02-19-5-afp-tilskottsloven.md).
+f. Avtalefestet pensjon utbetales i utlandet etter reglene i [folketrygdloven § 19-3](lov-1997-02-28-19-folketrygdloven.md).
+
+*Endret ved [lover 16 des 2011 nr. 58](https://lovdata.no/lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](https://lovdata.no/lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](https://lovdata.no/forskrift/2014-06-20-799)), [17 juni 2016 nr. 25](https://lovdata.no/lov/2016-06-17-25) (ikr. 1 sep 2016), [18 des 2020 nr. 138](https://lovdata.no/lov/2020-12-18-138) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2865](https://lovdata.no/forskrift/2020-12-18-2865)), [16 juni 2023 nr. 35](https://lovdata.no/lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](https://lovdata.no/forskrift/2023-06-16-904)), [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)), [20 des 2024 nr. 81](https://lovdata.no/lov/2024-12-20-81) (i kraft 1 jan 2025).*
+
+### § 4. Regulering av pensjonen
+
+Pensjonen reguleres i samsvar med tariffavtale hvor staten er part eller tariffavtale godkjent av departementet. Reguleringen skjer årlig med virkning fra 1. mai. Pensjonen, unntatt AFP-tillegg, reguleres i samsvar med et gjennomsnitt av lønns- og prisvekst. Reguleringsfaktoren etter [folketrygdloven § 19-14](lov-1997-02-28-19-folketrygdloven.md) andre ledd legges til grunn. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april reguleres pensjonen, unntatt AFP-tillegg, med en faktor som består av lønnsvekst og av gjennomsnittlig lønns- og prisvekst, vektet ut fra når i denne perioden pensjonen ble tatt ut.
+
+*Endret ved lover [1 april 2022 nr. 17](https://lovdata.no/lov/2022-04-01-17) (ikr. 1 april 2022 iflg. [res. 1 april 2022 nr. 496](https://lovdata.no/forskrift/2022-04-01-496), se endringslovens del XII for overgangsregler), [20 des 2022 nr. 100](https://lovdata.no/lov/2022-12-20-100) (med virkning fra 1 april 2022), [20 des 2024 nr. 81](https://lovdata.no/lov/2024-12-20-81) (i kraft 1 jan 2025).*
+
+### § 5. Administrasjon og avgjørelsesmyndighet
+
+Pensjonsordningen administreres av Arbeids- og velferdsetaten for så vidt gjelder innvilgelse, beregning og utbetaling av pensjoner. For øvrig administreres pensjonsordningen av Statens pensjonskasse.
+
+Arbeids- og velferdsetaten har rett til å innhente fra arbeidsgivere og tidligere arbeidsgivere de opplysninger om arbeidstakerens eller pensjonistens arbeids- og inntektsforhold som er nødvendige for å forvalte og beregne avtalefestet pensjon. Adgangen til å innhente opplysninger omfatter også opplysninger om nåværende og tidligere ektefelle, person som er likestilt med ektefelle etter [folketrygdloven § 1-5](lov-1997-02-28-19-folketrygdloven.md), og person som arbeidstakeren eller pensjonisten har levd sammen med i 12 av de siste 18 månedene. De som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av taushetsplikt.
+
+Arbeidstakeren plikter å gi de opplysninger som er nødvendige for at Statens pensjonskasse og Arbeids- og velferdsetaten skal kunne vurdere om vedkommende har rett til avtalefestet pensjon og størrelsen av pensjonen.
+
+Vedtak fattet av Arbeids- og velferdsetaten eller Statens pensjonskasse kan ankes inn for Trygderetten.
+
+*Endret ved lover [27 mai 2016 nr. 12](https://lovdata.no/lov/2016-05-27-12), [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 6. Forskrifter
+
+Departementet kan gi forskrifter om utfylling av vilkårene i [§§ 1](lov-2010-06-25-28-lov-om-afp-for-medlemmer-av-statens-pensjonskasse.md) til [5](lov-2010-06-25-28-lov-om-afp-for-medlemmer-av-statens-pensjonskasse.md), herunder fastsetting av tidligere inntekt, nedre inntektsgrense for avkorting av pensjonen, omregning av pensjon ved endring i sivilstand mv. og om etteroppgjør ved inntektsendringer.
+
+*Endret ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209), tidligere § 7).*
+
+## Kapittel 2 Avtalefestet pensjon for medlemmer født i 1963 eller senere (ny ordning)
+
+*Overskrift tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 7. Omfang
+
+Kapittelet gjelder avtalefestet pensjon til arbeidstakere i stilling som gir rett til medlemskap i Statens pensjonskasse, når dette er bestemt i tariffavtale hvor staten er part eller i tariffavtale godkjent av departementet. Bestemmelsene gjelder for arbeidstakere som er født i 1963 eller senere. Andre ledd i paragrafen her gjelder også arbeidstakere født i 1963 eller senere som har vært omfattet av andre avtaler enn den statlige som gir rett til offentlig avtalefestet pensjon.
+
+En arbeidstaker som er født i perioden 1963 til og med 1965, og som er tilknyttet en virksomhet med avtalefestet pensjon som det ytes statstilskott til etter [AFP-tilskottsloven](lov-2010-02-19-5-afp-tilskottsloven.md), har rett til avtalefestet pensjon etter kapittelet her dersom vilkårene for privat AFP ikke er oppfylt, og arbeidstakeren har vært tilknyttet ordningen etter [AFP-tilskottsloven](lov-2010-02-19-5-afp-tilskottsloven.md) de siste tre årene før uttakstidspunktet og for øvrig oppfyller vilkårene etter kapittelet her. Vilkåret om tilknytning til ordningen etter [AFP-tilskottsloven](lov-2010-02-19-5-afp-tilskottsloven.md) i de siste tre årene før uttakstidspunktet gjelder ikke dersom arbeidstakeren i den aktuelle perioden er ansatt i en stilling som blir virksomhetsoverdratt fra offentlig til privat sektor, jf. [arbeidsmiljøloven kapittel 16](lov-2005-06-17-62-arbeidsmiljoloven.md).
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)), endret ved lover [20 des 2024 nr. 81](https://lovdata.no/lov/2024-12-20-81) (med virkning fra 1 okt 2024), [6 juni 2025 nr. 23](https://lovdata.no/lov/2025-06-06-23) (i kraft 6 juni 2025 iflg. [res. 6 juni 2025 nr. 943](https://lovdata.no/forskrift/2025-06-06-943)).*
+
+### § 8. Vilkår som må være oppfylt ved fylte 62 år for rett til avtalefestet pensjon
+
+En arbeidstaker kan gis avtalefestet pensjon dersom følgende vilkår er oppfylt ved fylte 62 år:
+
+a. Vedkommende har vært arbeidstaker i minst 7 av de siste 9 årene hos en arbeidsgiver med tariffavtale hvor staten er part eller tilsvarende avtale om avtalefestet pensjon. I denne perioden inngår også tid arbeidstakeren har vært omfattet av en avtalefestet pensjonsordning som det gis statstilskott til etter [AFP-tilskottsloven](lov-2010-02-19-5-afp-tilskottsloven.md) dersom dette gjør at ansiennitetskravet oppfylles. Stillingen må være vedkommendes hovedarbeidsforhold, og stillingsandelen må utgjøre minst 20 prosent av full stilling. Ved samtidige ansettelsesforhold kan stillingsandelene legges sammen.
+b. Vedkommende har i de samme 7 av de siste 9 årene ikke hatt annen inntekt som overstiger pensjonsgivende inntekt fra arbeidsgivere omfattet av bokstav a.
+c. Vedkommende har de siste 3 årene før fylte 62 år ikke mottatt pensjon eller annen ytelse uten motsvarende arbeidsplikt fra arbeidsforhold der den årlige verdien av ytelsene tilsvarer 1,5 ganger folketrygdens grunnbeløp eller mer. Første punktum omfatter ikke uføretrygd fra folketrygden og uførepensjon fra en privat eller offentlig tjenestepensjonsordning.
+
+En arbeidstaker som er født i 1963, og som ikke oppfyller ansiennitetskravet i første ledd bokstav a og b, kan likevel gis avtalefestet pensjon dersom vedkommende på uttakstidspunktet for avtalefestet pensjon har ti års samlet pensjonsgivende tjenestetid i Statens pensjonskasse eller pensjonsordning Statens pensjonskasse har inngått overføringsavtale med og vedkommende har vært ansatt i en virksomhet omfattet av offentlig avtalefestet pensjon i minst 3 av de siste 5 årene ved fylte 62 år. For arbeidstakere som er født i årene 1964 til 1966, gjelder tilsvarende, likevel slik at tallene «3» og «5» øker med ett år for hvert år arbeidstakeren er født etter 1963. Øvrige vilkår etter første ledd gjelder tilsvarende i den aktuelle perioden.
+
+Avtalefestet pensjon gis ikke til arbeidstakere som har mottatt uføretrygd fra folketrygden etter fylte 62 år.
+
+Departementet kan fastsette utfyllende bestemmelser i forskrift.
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)), endret ved lov [20 des 2024 nr. 81](https://lovdata.no/lov/2024-12-20-81) (med virkning fra 1 okt 2024).*
+
+### § 9. Vilkår som må være oppfylt ved uttakstidspunktet for rett til avtalefestet pensjon
+
+En arbeidstaker kan gis avtalefestet pensjon dersom følgende vilkår er oppfylt ved uttakstidspunktet:
+
+a. Vedkommende har de siste tre årene før uttakstidspunktet sammenhengende vært ansatt og reell arbeidstaker hos en arbeidsgiver med tariffavtale hvor staten er part eller med tilsvarende avtale om avtalefestet pensjon. Stillingsandelen må utgjøre minst 20 prosent av full stilling. Ved samtidige ansettelsesforhold kan stillingsandelene legges sammen.
+b. Vedkommende har en pensjonsgivende inntekt som omregnet til årsinntekt overstiger folketrygdens grunnbeløp på uttakstidspunktet, og hadde i det foregående inntektsåret en pensjonsgivende inntekt som oversteg gjennomsnittlig grunnbeløp dette året.
+c. Vedkommende verken er eller har vært mottaker av avtalefestet pensjon som det gis statstilskott til etter [AFP-tilskottsloven](lov-2010-02-19-5-afp-tilskottsloven.md), avtalefestet pensjon som en tidligpensjonsordning, uføretrygd fra folketrygden etter fylte 62 år, betinget tjenestepensjon etter [lov om Statens pensjonskasse](lov-1949-07-28-26-statens-pensjonskasseloven.md) eller tilsvarende pensjon fra en annen offentlig tjenestepensjonsordning, alderspensjon etter [lov om Statens pensjonskasse § 20 a andre ledd](lov-1949-07-28-26-statens-pensjonskasseloven.md) slik den lød før 1. januar 2026, eller tidligpensjon etter [kapittel 5 b](lov-1949-07-28-26-statens-pensjonskasseloven.md) eller tilsvarende pensjon fra en annen offentlig tjenestepensjonsordning.
+
+Som unntak fra kravet i første ledd bokstav a tillates det opptil 26 uker uten å være ansatt og reell arbeidstaker, forutsatt at arbeidstakeren på uttakstidspunktet er ansatt og reell arbeidstaker og at arbeidstakeren tre år før uttakstidspunktet er ansatt. I tillegg tillates det opptil 78 uker uten å være reell arbeidstaker ved mottak av sykepenger, arbeidsavklaringspenger eller uføretrygd fra folketrygden, uansett når i treårsperioden fraværet skjer, forutsatt at arbeidstakeren er ansatt på uttakstidspunktet og tre år før dette.
+
+Er arbeidstakeren permittert på uttakstidspunktet eller har vært permittert i løpet av de siste tre årene før uttakstidspunktet, skal vilkårene i paragrafen her anses oppfylt dersom arbeidstakeren hadde oppfylt vilkårene om permitteringen ikke var iverksatt, og permitteringen ikke overstiger rammene i [permitteringslønnsloven](lov-1988-05-06-22-permitteringslonnsloven.md). Det samme gjelder ved permisjon når retten til permisjon følger av lov eller tariffavtale.
+
+Arbeidstakere født i perioden 1963 til og med 1965 som ville oppfylt kravene i første ledd dersom stilling tilknyttet avtalefestet pensjon som det gis statstilskott til etter [AFP-tilskottsloven](lov-2010-02-19-5-afp-tilskottsloven.md) hadde blitt medregnet, kan få avtalefestet pensjon dersom de i den aktuelle perioden er ansatt i en stilling som er virksomhetsoverdratt fra privat til offentlig sektor, jf. [arbeidsmiljøloven kapittel 16](lov-2005-06-17-62-arbeidsmiljoloven.md). Dette gjelder også dem som omfattes av andre tariffområder enn det statlige som gir rett til offentlig avtalefestet pensjon.
+
+Departementet kan gi forskrift om ytterligere vilkår for rett til avtalefestet pensjon.
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)), endret ved lover [20 des 2024 nr. 81](https://lovdata.no/lov/2024-12-20-81) (med virkning fra 1 okt 2024), [10 juni 2025 nr. 31](https://lovdata.no/lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](https://lovdata.no/forskrift/2025-06-10-965)).*
+
+### § 10. Grunnlaget for beregning av avtalefestet pensjon
+
+Grunnlaget for beregning av avtalefestet pensjon skal være pensjonsbeholdningen beregnet etter [folketrygdloven § 20-4](lov-1997-02-28-19-folketrygdloven.md), omregnet til en beholdning for avtalefestet pensjon med en opptjeningssats på 4,21 prosent. Pensjonsopptjening til og med kalenderåret arbeidstakeren fylte 61 år tillegges pensjonsbeholdningen.
+
+Departementet kan gi forskrift om fastsetting av grunnlaget for avtalefestet pensjon, herunder regler om fra hvilket tidspunkt inntekt i det året arbeidstakeren fyller 61 år skal tas med i grunnlaget.
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 11. Uttak av avtalefestet pensjon
+
+Avtalefestet pensjon kan tidligst utbetales fra og med måneden etter fylte 62 år, og tidligst fra og med måneden etter den måneden da kravet ble satt fram. Årlig pensjon framkommer ved å dividere opptjeningen beregnet etter § 10 med folketrygdens delingstall på uttakstidspunktet. Pensjonsopptjening som tilføres pensjonsbeholdningen etter uttak, omregnes til pensjon på tilsvarende måte som etter [folketrygdloven § 20-17](lov-1997-02-28-19-folketrygdloven.md). Dersom uttaket skjer etter fylte 70 år, benyttes delingstallet ved fylte 70 år.
+
+Pensjonen kan ikke tas ut gradert.
+
+Pensjonen kan fritt kombineres med arbeidsinntekt uten avkorting.
+
+Arbeidstakeren må selv sette fram krav om avtalefestet pensjon. Krav om pensjon kan tidligst settes fram fire måneder før ønsket uttaksdato. Det kan ikke søkes om uttak av avtalefestet pensjon med tilbakevirkende kraft.
+
+Pensjonen utbetales i utlandet uten begrensninger.
+
+Avtalefestet pensjon ytes til og med måneden da pensjonisten dør. Pensjonen kan stanses dersom pensjonisten ber om det, men den kan da ikke gjenopptas.
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 12. Regulering av avtalefestet pensjon
+
+Regulering av avtalefestet pensjon under utbetaling skjer årlig med virkning fra 1. mai. Pensjonen reguleres i samsvar med et gjennomsnitt av lønns- og prisveksten. Reguleringsfaktoren etter [folketrygdloven § 20-18](lov-1997-02-28-19-folketrygdloven.md) andre ledd skal legges til grunn. Ved første regulering etter at uttaket startet skal pensjonen reguleres ut fra når på året pensjonen tas ut.
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 13. Saksbehandlingsregler
+
+Statens pensjonskasse administrerer ordningen med avtalefestet pensjon. Søknader om avtalefestet pensjon settes fram for Statens pensjonskasse, som skal fatte vedtak om og beregne pensjonen. Arbeids- og velferdsetaten utbetaler pensjonen.
+
+Arbeids- og velferdsetaten skal levere den samlede pensjonsbeholdningen beregnet etter [folketrygdloven § 20-4](lov-1997-02-28-19-folketrygdloven.md) og andre opplysninger som er nødvendige for premieberegningen, beregning av framtidig pensjon, vilkårsprøving og beregning av avtalefestet pensjon. Taushetsplikten etter [arbeids- og velferdsforvaltningsloven § 7](lov-2006-06-16-20-nav-loven.md) er ikke til hinder for utveksling av opplysninger mellom Arbeids- og velferdsetaten og Statens pensjonskasse i den utstrekning dette er nødvendig for å fremme oppgaver etter loven her.
+
+Statens pensjonskasse kan uten hinder av taushetsplikt innhente nødvendige lønnsopplysninger som er gitt etter [skatteforvaltningsloven § 7-2](lov-2016-05-27-14-skatteforvaltningsloven.md), og opplysninger om pensjonsgivende inntekt fra skattemyndighetene til bruk i arbeidet med avtalefestet pensjon etter denne loven.
+
+Statens pensjonskasse har rett til å innhente opplysninger fra nåværende eller tidligere arbeidsgivere om arbeidstakerens eller pensjonistens arbeids- og inntektsforhold som er nødvendige for å forvalte og beregne avtalefestet pensjon. De som pålegges å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av taushetsplikt.
+
+Ved søknad om avtalefestet pensjon plikter søkeren å gi de opplysningene som er nødvendige for at Statens pensjonskasse skal kunne vurdere om vedkommende har rett til avtalefestet pensjon. Mottakere av avtalefestet pensjon plikter å opplyse Statens pensjonskasse om endringer som kan ha betydning for pensjonens størrelse eller for om vedkommende fortsatt har rett til pensjonen.
+
+Vedtak fattet av Statens pensjonskasse, kan ankes inn for Trygderetten.
+
+Statens pensjonskasse kan inngå avtale med andre pensjonsleverandører om fordeling av kostnader for avtalefestet pensjon. Avtalen må godkjennes av departementet. Alle virksomheter med offentlig AFP skal være tilknyttet avtalen om kostnadsfordeling.
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)), endret ved lover [20 des 2024 nr. 81](https://lovdata.no/lov/2024-12-20-81) (med virkning fra 1 okt 2024), [6 juni 2025 nr. 23](https://lovdata.no/lov/2025-06-06-23) (i kraft 6 juni 2025 iflg. [res. 6 juni 2025 nr. 943](https://lovdata.no/forskrift/2025-06-06-943)).*
+
+### § 14. Forskrifter
+
+Departementet kan gi forskrifter om utfylling av bestemmelsene i kapittelet her.
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+## Kapittel 3 Forskjellige bestemmelser
+
+*Overskrift tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 15. Statsgaranti
+
+Ytelser etter denne loven er garantert av staten.
+
+*Endret ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209), tidligere § 6).*
+
+### § 16. Tilbakekreving av feilutbetalinger mv.
+
+Ved tilbakekreving av feilutbetalt avtalefestet pensjon gjelder reglene i [folketrygdloven § 22-15](lov-1997-02-28-19-folketrygdloven.md) tilsvarende for avtalefestet pensjon etter kapittel 1 og [lov om Statens pensjonskasse § 44](lov-1949-07-28-26-statens-pensjonskasseloven.md) sjette til niende ledd for avtalefestet pensjon etter kapittel 2.
+
+*Tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+## Kapittel 4 Ikrafttredelse
+
+*Overskrift tilføyd ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209)).*
+
+### § 17. Ikrafttredelse og overgangsbestemmelser
+
+Loven trer i kraft 1. januar 2011.
+
+[Lov 11. juni 1993 nr. 64](https://lovdata.no/lov/1993-06-11-64) om avtalefestet pensjon for offentlige tjenestemenn m.fl. oppheves 1. januar 2011.
+
+Bestemmelsene i loven her gjelder også for avtalefestet pensjon som er tatt ut eller tas ut med virkningstidspunkt før 1. januar 2011 i medhold av [lov 11. juni 1993 nr. 64](https://lovdata.no/lov/1993-06-11-64) om avtalefestet pensjon for offentlige tjenestemenn m.fl.
+
+*Endret ved lov [12 april 2024 nr. 14](https://lovdata.no/lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](https://lovdata.no/forskrift/2024-09-20-2209), tidligere § 8).*

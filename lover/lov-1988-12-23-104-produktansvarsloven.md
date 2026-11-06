@@ -1,0 +1,246 @@
+# Lov om produktansvar [produktansvarsloven]
+
+- **Korttittel:** Produktansvarsloven – prodansvl
+- **Datokode:** LOV-1988-12-23-104
+- **DokumentID:** NL/lov/1988-12-23-104
+- **Departement:** Justis- og beredskapsdepartementet
+- **I kraft fra:** 1989-01-01 og 1989-07-01 (kap 3)
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** lov 07.05.2026 nr. 17 fra 2026-07-01
+- **Rettsområde:** Erstatnings- og forsikringsrett > Produktansvar; EU/EØS-rett > Justis og innenriks; Forbruker-, kjøps- og konkurranserett > Forbrukerkjøp; HMS og beredskaps- og sikkerhetsrett > Samfunnssikkerhet; Næringsrett > Handel og tjenester
+- **EU/EØS-henvisning:** EØS-avtalen vedlegg III (direktiv 85/374/EØF)
+- **Siste rettelse:** 2022-04-25 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Jf. tidligere lov 9 apr 1976 nr. 18 om internasjonalprivatrettslige lovvalgsregler ved produktansvar.
+- **Kilde:** <https://lovdata.no/lov/1988-12-23-104>
+
+## Kapittel 1. Omfang og definisjoner.
+
+### § 1-1. (saklig virkeområde)
+
+(1) Loven gjelder det erstatningsansvar en produsent har for skade som voldes av produkt framstilt eller satt i omsetning som ledd i hans yrke, ervervsvirksomhet eller dermed likestilt virksomhet.
+
+(2) Loven begrenser ikke retten til å kreve erstatning på annet grunnlag.
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) – se dens II nr. 5 (ikr. 1 jan 1994).*
+
+### § 1-2. (definisjoner)
+
+(1) Med «produkt» menes alle slags varer og løsøre hva enten det er naturprodukt eller industriprodukt, råvare eller ferdigprodukt, delprodukt eller hovedprodukt, også om produktet er innføyd i annet løsøre eller i fast eiendom. «Produkt» omfatter også elektrisitet. Avfall som oppstår under produksjon omfattes dersom avfallet settes i omsetning som ledd i virksomhet som nevnt i [§ 1-1](lov-1988-12-23-104-produktansvarsloven.md). Når ikke annet framgår av sammenhengen, menes det skadevoldende eksemplar av produktet.
+
+(2) Et produkt er «gitt til forbruk» når det er overtatt eller tatt i bruk av den skadelidte eller en annen forbruker, eller anvendt på den skadelidte.
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994 s den s II).*
+
+### § 1-3. (den ansvarlige)
+
+(1) Ansvarlig som «produsent» etter loven er:
+
+a. enhver som tilvirker eller frambringer et produkt som definert i [§ 1-2](lov-1988-12-23-104-produktansvarsloven.md) nr. 1,
+b. enhver som frambyr et produkt som sitt ved å anbringe sitt navn, varemerke eller annet kjennetegn på produktet eller dets pakning,
+c. forhandler av produktet, når produsenten ikke uten vanske lar seg identifisere ut fra produktet og forhandleren heller ikke innen rimelig tid oppgir enten produsentens eller en tidligere forhandlers navn og adresse,
+d. forhandler av et ubearbeidd naturprodukt som stammer fra fiske eller fangst av ville dyr eller sanking av ville vekster, når leverandøren av slikt produkt ikke reknes som produsent etter bokstav (a),
+e. importøren av et produkt innført fra utlandet,
+f. forhandler av importert produkt, om ikke importørens eller mellomliggende salgsledds navn og adresse her i riket blir oppgitt innen rimelig tid.
+
+(2) Kongen kan ved avtale med fremmed stat bestemme at import hit fra en eller flere oppgitte stater ikke skal anses som import etter paragrafen her, og at den som har innført produktet til en av vedkommende avtalestater fra en annen stat, skal være ansvarlig som produsent.
+
+(3) Loven gjelder ikke arbeidstakers ansvar for handlinger eller unnlatelser i tjeneste for sin arbeidsgiver, [§ 3-8](lov-1988-12-23-104-produktansvarsloven.md) likevel unntatt.
+
+### § 1-4. (stedlig virkeområde)
+
+Loven får ikke anvendelse for så vidt forholdet skal avgjøres etter fremmed rett i medhold av Haag-konvensjonen 2 oktober 1973 om den lov som skal gjelde for produktansvar. Konvensjonen i norsk oversetting som den er tatt inn i Norsk Lovtidend har lovs kraft her i riket, likevel slik at artikkel 8 nr. 9 om foreldelse ikke kommer til anvendelse.
+
+### § 1-5. (unntak for atomskader)
+
+Loven gjelder ikke atomskade og annen skade som går inn under reglene om erstatningsansvar i [lov 12 mai 1972 nr 28](lov-1972-05-12-28-atomenergiloven.md) om atomenergivirksomhet eller tilsvarende fremmed lovgivning som måtte få anvendelse.
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994).*
+
+## Kapittel 2. Ansvaret.
+
+### § 2-1. (ansvarsgrunnlaget)
+
+(1) Produsenten plikter å erstatte skade som hans produkt volder og som skyldes at det ikke byr den sikkerhet som en bruker eller allmennheten med rimelighet kunne vente (heretter kalt sikkerhetsmangel). Ved vurderingen av den sikkerhet som kunne ventes, tas hensyn til alle forhold som har sammenheng med produktet, dets presentasjon, markedsføring og påreknelige bruk.
+
+(2) Ved den alminnelige vurdering av sikkerhetsnivået (sikkerhetsstandarden) legges forholdene på den tid produktet ble satt i omsetning til grunn.
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994 – se dens II).*
+
+### § 2-2. (unntak fra ansvaret)
+
+Produsenten er uten ansvar dersom han sannsynliggjør:
+
+a. at han ikke har satt produktet i omsetning som ledd i sin virksomhet, eller
+b. at sikkerhetsmangelen ikke forelå da produktet ble satt i omsetning, og mangelen eller skaden heller ikke burde vært avverget eller avhjulpet etterpå, eller
+c. at sikkerhetsmangelen skyldes at produktet er i samsvar med regler som er gitt av offentlig myndighet, og som i enhver henseende er ufravikelige.
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994 – se dens II nr. 5).*
+
+### § 2-3. (skade som omfattes)
+
+(1) Loven gjelder skade på
+
+a. person eller
+b. ting som
+   - er av et slag som normalt er bestemt for privat bruk eller forbruk, og
+   - ble brukt av skadelidte hovedsakelig til privat bruk eller forbruk.
+
+(2) Loven omfatter likevel ikke:
+
+a. skade som voldes på produktet selv,
+b. skade som et delprodukt volder på et produkt som delproduktet er innføyd i eller omdannet til før produktet er satt i omsetning til en bruker.
+
+(3) Når erstatning for skade på ting fastsettes etter denne loven, gjøres fradrag for et beløp på kr 4.000,-.
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994 – se dens II nr. 5).*
+
+### § 2-4. (delprodusent m.v.)
+
+(1) Når skaden skyldes sikkerhetsmangel ved råvare, halvfabrikat eller annet produkt (delprodukt) som på skadetiden er innføyd i et hovedprodukt, er både produsenten av delproduktet (delprodusenten) og produsenten av hovedproduktet (hovedprodusenten) ansvarlig.
+
+(2) Delprodusenten er likevel uten ansvar dersom han godtgjør at sikkerhetsmangelen ved delproduktet må tilskrives hovedprodusentens planløsning, konstruksjon eller spesifikasjon, og at han ikke kan lastes for å ha fulgt dem.
+
+### § 2-5. (utmåling, lemping)
+
+Erstatningen fastsettes, utmåles og lempes etter alminnelige erstatningsregler, jf [lov 13 juni 1969 nr. 26](lov-1969-06-13-26-skadeserstatningsloven.md) om skadeerstatning. Produsentens ansvar skal likevel ikke reduseres når skaden er forårsaket av både en sikkerhetsmangel ved produktet og en tredjepersons handling eller unnlatelse.
+
+*Endret ved lov [26 juni 1998 nr. 46](https://lovdata.no/lov/1998-06-26-46) (ikr. 1 okt 1998 iflg. [res. 26 juni 1998 nr. 600](https://lovdata.no/forskrift/1998-06-26-600)).*
+
+### § 2-6. (ansvarsfraskriving)
+
+Avtale som innskrenker eller begrenser ansvar etter loven er ugyldig.
+
+### § 2-7. (foreldelse)
+
+(1) Erstatningskrav etter dette kapitlet foreldes 3 år etter den dag da skadelidte fikk eller burde ha skaffet seg nødvendig kunnskap om skaden, sikkerhetsmangelen og hvem produsenten er.
+
+(2) Kravet foreldes likevel senest 10 år etter at produsenten har satt det skadevoldende produktet i omsetning.
+
+(3) For øvrig gjelder reglene i [lov 18 mai 1979 nr 18](lov-1979-05-18-18-foreldelsesloven.md) om foreldelse av fordringer så langt de passer.
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994 – se dens II nr. 5).*
+
+## Kapittel 3. Særregler om legemiddelansvaret.
+
+### § 3-1. (særreglenes virkeområde)
+
+(1) Personskade voldt av legemiddel (legemiddelskade) eller under utprøving av legemiddel (forsøksskade) erstattes etter bestemmelsene i kapitlet her, for så vidt norsk rett får anvendelse (jf [§ 1-4](lov-1988-12-23-104-produktansvarsloven.md)).
+
+Som forsøksskade anses enhver skade forårsaket av forsøket, f.eks. av legemidlet selv (legemiddelskade), forsøksprosedyren, særskilt prøvetaking, særskilt bruk av teknisk utstyr eller særskilt behandling i tilknytning til forsøket.
+
+(2) Dersom det skadevoldende legemiddel ikke var gitt til forbruk her i riket, gjelder bestemmelsene bare såframt den direkte skadelidte var bosatt her og samme legemiddelmerke framstilt av samme produsent på skadetiden også var satt i omsetning eller godkjent for registrering her.
+
+(3) Bestemmelsene i [kapittel 1](lov-1988-12-23-104-produktansvarsloven.md) og 2 gjelder tilsvarende for legemidler så langt de passer og ikke kommer i strid med reglene i kapitlet her.
+
+### § 3-2. (legemiddel)
+
+(1) Med «legemiddel» etter loven her menes produkt som i eller i medhold av [legemiddelloven](lov-1992-12-04-132-legemiddelloven.md) reknes som legemiddel og er bestemt til bruk for mennesker eller blir omsatt til slik bruk.
+
+(2) Som «legemiddel» reknes også andre produkter som blir anvendt i forsøk på mennesker som ledd i utviklingen av legemidler. Kongen kan gi forskrift om at produkt til spesiell medisinsk bruk eller til annen særlig bruk i helse- og sykepleie skal likestilles med legemiddel.
+
+*Endret ved lov [20 des 2018 nr. 114](https://lovdata.no/lov/2018-12-20-114).*
+
+### § 3-3. (ansvarsgrunnlag og unntak fra dekningen)
+
+(1) Legemiddelforsikringen etter [§ 3-4](lov-1988-12-23-104-produktansvarsloven.md) erstatter skade etter kapitlet her uten hensyn til om produsent, importør eller annen forsikringspliktig har skyld i skaden eller har ansvar for sikkerhetsmangel etter [kapittel 2](lov-1988-12-23-104-produktansvarsloven.md).
+
+(2) Bortsett fra tilfeller der skaden skyldes en sikkerhetsmangel ved legemidlet som medfører ansvar etter [kapittel 2](lov-1988-12-23-104-produktansvarsloven.md), gis likevel ikke erstatning i den utstrekning skaden
+
+a. er en følge av feilekspedering eller forveksling av legemiddel eller annen forsømmelse på apotek, hos lege, i sykehus eller annet omsetningsledd,
+b. er voldt på annen måte enn ved påreknelig bruk av legemidlet, herunder bruk i strid med forsvarlig og spesifisert advarsel eller uriktig bruk som skyldes forsømmelse av legen ved feilordinasjon eller mangelfull vegledning,
+c. er en følge av at legemidlet ikke har virket eller ikke har virket effektivt nok, eller
+d. skyldes bivirkning som det i skadelidtes situasjon er rimelig at han selv bærer følgene av. Ved denne vurderingen legges vekt på hans helsetilstand før bruken, legemidlets betydning for hans sykdom, legemidlets forutsatte og faktiske virkninger, skadens art og omfang og forholdene ellers.
+
+(3) Ved forsøksskader gjelder likevel ikke unntakene i nr. 2 bokstav (a) eller (b).
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994 – se dens II nr. 5).*
+
+### § 3-4.[1] (Legemiddelforsikringen)
+
+(1) Produsent av legemiddel plikter gjennom medlemskap i Legemiddelansvarsforeningen (jf [§ 3-5](lov-1988-12-23-104-produktansvarsloven.md)) å ha forsikring for legemiddelansvaret etter kapitlet her. Det samme gjelder importør av legemiddel når ikke produsenten har slik forsikring. Denne forsikring (Legemiddelforsikringen) gjelder direkte til fordel for skadelidte. Legemiddelforsikringen dekker også skade voldt av anonymt eller uforsikret legemiddel. Kongen kan tillate at det tegnes bare begrenset forsikring mot at det stilles fyllestgjørende garanti til dekning av det overskytende ansvar.
+
+(2) Den som driver forsøk på mennesker som ledd i utviklingen av legemidler, plikter å ha forsikring som omhandlet i første ledd når ikke produsent eller importør av legemidlet har slik forsikring som også dekker forsøket.
+
+(3) Legemiddelforsikringen tegnes i forsikringsselskap eller i forsikringspool av solidarisk ansvarlige forsikringsselskaper. Forsikringsselskap og forsikringsordning må godkjennes av Kongen. Kravet om godkjenning gjelder ikke for forsikringsgivere som har hovedsete i en annen stat som omfattes av Det europeiske økonomiske samarbeidsområde, og som er godkjent i sitt hjemland. Polisevilkårene må meddeles Kongen før de anvendes.
+
+(4) Kongen kan gi forskrift om forsikring ved import av visse typer legemidler, og kan gjøre unntak eller gi særregler for import i enkelttilfelle.
+
+*Endret ved lov [24 juni 1994 nr. 40](https://lovdata.no/lov/1994-06-24-40) (ikr. 1 juli 1994).*
+
+### § 3-5. (Legemiddelansvarsforeningen)
+
+(1) Produsenter og importører av legemiddel som blir omsatt i Norge, må for å kunne drive slik virksomhet være tilsluttet en forening av slike produsenter og importører (Legemiddelansvarsforeningen). Det samme gjelder andre som ved arbeid med utvikling av legemidler plikter å ha forsikring etter [§ 3-4](lov-1988-12-23-104-produktansvarsloven.md). Legemiddelansvarsforeningen skal ha vedtekter som er godkjent av Kongen.
+
+(2) Grossister som omsetter legemidler, skal forsikre seg om at produsenten eller importøren er medlem av Legemiddelansvarsforeningen. En grossist som omsetter legemidler fra en produsent eller importør som ikke er medlem av foreningen, blir ansvarlig for den premien som produsenten eller importøren skulle ha betalt for de legemidler grossisten har omsatt.
+
+(3) Legemiddelansvarsforeningen står ansvarlig for at det blir tegnet pliktig legemiddelforsikring etter [§ 3-4](lov-1988-12-23-104-produktansvarsloven.md). Den kan tegne kollektiv ansvarsforsikring på vegne av medlemmene.
+
+*Endret ved lov [24 juni 1994 nr. 40](https://lovdata.no/lov/1994-06-24-40) (ikr. 1 juli 1994).*
+
+### § 3-6. (begrensninger i legemiddelansvaret)
+
+(1) De samlete erstatninger etter kapitlet her skal ikke overstige 80 millioner kroner for skader som er konstatert i samme kalenderår. En skade anses konstatert på det første tidspunkt da skadelidte enten
+
+a. døde av skaden uten å ha søkt legehjelp,
+b. første gang søkte legehjelp for sin skade, eller
+c. første gang meldte krav til Legemiddelforsikringen på grunn av skaden.
+
+(2) De samlete erstatninger for skade som skyldes samme substans i ett eller flere legemidler (serieskader), begrenses dessuten til 100 millioner kroner. Når en serieskade er konstatert, kan Kongen bestemme hvilke erstatningsvilkår som skal gjelde for fortsatt omsetning av den skadevoldende substans eller av et legemiddel der substansen inngår.
+
+(3) Begrensningsbeløpene gjelder ikke sakskostnader og renter av krav på erstatning begrenset etter kapitlet her.
+
+### § 3-7. (forholdsmessig oppgjør)
+
+(1) Er ikke beløpene i [§ 3-6](lov-1988-12-23-104-produktansvarsloven.md) tilstrekkelige til å dekke tapet for alle som har rett til erstatning, nedsettes erstatningen forholdsmessig. Det samlete oppgjør må godkjennes ved kjennelse av Oslo tingrett. Bestemmelsene i [lov 14. juni 2019 nr. 21 om arv og dødsboskifte kapittel 17](lov-2019-06-14-21-arveloven.md) avsnitt V gjelder tilsvarende så lenge de passer for rettens avgjørelse, om ikke annet blir fastsatt i forskrift av Kongen.
+
+(2) Dersom det er grunn til å rekne med at nedsetting kan bli nødvendig, skal Legemiddelforsikringen straks gi departementet skriftlig melding om det og snarest mulig nærmere opplysninger om skadenes størrelse og omfang. Departementet kan i et slikt tilfelle treffe bestemmelse om skademeldinger, meldefrister, foreløpige utbetalinger og det endelige oppgjør.
+
+*Endret ved lover [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)), [20 des 2018 nr. 114](https://lovdata.no/lov/2018-12-20-114), [14 juni 2019 nr. 21](lov-2019-06-14-21-arveloven.md) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](https://lovdata.no/forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](https://lovdata.no/lov/2020-12-18-149)), [7 mai 2026 nr. 17](https://lovdata.no/lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](https://lovdata.no/forskrift/2026-05-07-743)).*
+
+### § 3-8. (personlig ansvar og regress)
+
+(1) Medlem av Legemiddelansvarsforeningen eller medlemmets arbeidstaker hefter overfor skadelidte bare med den erstatning Legemiddelforsikringen skal betale etter kapitlet her. [Kapittel](lov-1988-12-23-104-produktansvarsloven.md) 2 gjelder likevel for tap som ikke dekkes som følge av begrensningene i [§ 3-6](lov-1988-12-23-104-produktansvarsloven.md).
+
+(2) Legemiddelforsikringen kan kreve regress hos en forsikringspliktig som ikke er medlem av Legemiddelansvarsforeningen og ikke har godkjent forsikring, selv om han overfor skadelidte ikke har personlig ansvar for skaden.
+
+*Endret ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994 – se dens II).*
+
+### § 3-9. (diverse bestemmelser)
+
+(1) Kongen kan gi regler om behandling og avgjørelse av tvister mellom forsikringsgiver, forsikringstaker eller skadelidte, herunder om opprettelse av en egen legemiddelskadenemnd og om frist for søksmål etter nemndas avgjerd.
+
+(2) Utenlandsk produsent som eksporterer legemiddel til Norge, må være representert ved fullmektig som har full prosessfullmakt og verneting ved forretningssted her i riket. Dette gjelder ikke når importøren har legemiddelansvar og forsikringsplikt for vedkommende produkt etter [§ 3-4](lov-1988-12-23-104-produktansvarsloven.md), jf [§ 3-3](lov-1988-12-23-104-produktansvarsloven.md). Første punktum får heller ikke anvendelse for produsenter som har hovedsete i en stat som omfattes av Det europeiske økonomiske samarbeidsområde.
+
+*Endret ved lov [24 juni 1994 nr. 40](https://lovdata.no/lov/1994-06-24-40) (ikr. 1 juli 1994).*
+
+### § 3-10. (forholdet til forsikringsavtaleloven)
+
+(1) I forholdet mellom Legemiddelforsikringen og Legemiddelansvarsforeningens medlemmer, anses forsikring etter [§ 3-4](lov-1988-12-23-104-produktansvarsloven.md) som ansvarsforsikring, selv om medlemmet ikke har personlig ansvar for skaden overfor skadelidte.
+
+(2) Bestemmelsene i [lov 16. juni 1989 nr. 69 om forsikringsavtaler](lov-1989-06-16-69-forsikringsavtaleloven.md) gjelder for Legemiddelforsikringen, dersom ikke annet er bestemt i eller i medhold av reglene om legemiddelansvaret i loven her eller går fram av sammenhengen.
+
+*Endret ved lover [16 juni 1989 nr. 69](lov-1989-06-16-69-forsikringsavtaleloven.md), [18 feb 2022 nr. 5](https://lovdata.no/lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](https://lovdata.no/forskrift/2022-03-04-324)).*
+
+### § 3-11. (foreldelse av krav under legemiddelansvaret)
+
+Erstatningskrav foreldes etter reglene i [lov 18 mai 1979 nr 18](lov-1979-05-18-18-foreldelsesloven.md) om foreldelse av fordringer. [§ 9](lov-1979-05-18-18-foreldelsesloven.md) nr. 2 gjelder likevel ikke. I stedet gjelder en lengste frist på 20 år fra den dag da legemidlet ble gitt til forbruk.
+
+*Tilføyd ved lov [27 nov 1992 nr. 113](https://lovdata.no/lov/1992-11-27-113) (ikr. 1 jan 1994 – se dens II nr. 5), endret ved lov [13 juni 1997 nr. 43](https://lovdata.no/lov/1997-06-13-43).*
+
+## Kapittel 4. Ikrafttredelse m.m.
+
+### § 4-1. (ikrafttredelse)
+
+(1) Loven tar til å gjelde fra den tid Kongen bestemmer.[2] [Kapittel](lov-1988-12-23-104-produktansvarsloven.md) 3 kan settes i kraft særskilt til annen tid enn loven ellers.
+
+(2) [Lovens kapittel 1](lov-1988-12-23-104-produktansvarsloven.md) og 2 får ikke anvendelse på produkter som har forlatt produsentens kontroll (jf [§ 1-2](lov-1988-12-23-104-produktansvarsloven.md) tredje ledd) før lovens ikraftredelse. [Lovens kapittel 3](lov-1988-12-23-104-produktansvarsloven.md) får ikke anvendelse på produkter som er gitt til forbruk (jf [§ 1-2](lov-1988-12-23-104-produktansvarsloven.md) annet ledd) før lovens ikrafttredelse.
+
+### § 4-2. (endring i andre lover)
+
+Fra den tid loven trer i kraft, oppheves [lov 9 apr 1976 nr. 18](https://lovdata.no/lov/1976-04-09-18) om internasjonalprivatrettslige lovvalgregler ved produktansvar.
+
+## Fotnoter
+
+**1.** Jf. [EØS-avtalen vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9) nr. 1 (direktiv [2009/138](https://lovdata.no/eu/32009l0138) som endret ved direktiv [2013/58](https://lovdata.no/eu/32013l0058)).
+
+**2.** Loven trådte ikr. 1 jan 1989 iflg. res. 23 des 1988 nr. 1065, unntatt kapittel 3 om særregler om legemiddelansvaret, som ble satt ikr. 1 juli 1989 iflg. [res. 21 apr 1989 nr. 268](https://lovdata.no/forskrift/1989-04-21-268).

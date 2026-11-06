@@ -1,0 +1,50 @@
+# Forskrift om særskilt takst på ikke forsikret bygg eller anlegg som blir skadet ved brann eller naturkatastrofe.
+
+- **Korttittel:** Forskr. om takst ved naturkatastrofe og brann
+- **Datokode:** FOR-1972-12-08-15
+- **DokumentID:** SF/forskrift/1972-12-08-15
+- **Departement:** Finansdepartementet
+- **Etat:** Skattedir.
+- **Hjemmel:** lov 09.06.1961 nr. 24; lov 25.03.1994 nr. 7; forskrift 29.09.1972 nr. 5/§7; forskrift 29.09.1972 nr. 5/§9
+- **Publisert i:** II 1972 s 1140
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt av Skd. med hjemmel i §§ 7 og 9 i forskrift nr. 54 og §§ 7 og 11 i Fd. forskrift av 2. november 1972 om tilskott til bygg og anlegg som gjenreises etter brann og naturkatastrofe den 8. desember 1972. Endret 31. oktober 1973.
+- **Kilde:** <https://lovdata.no/forskrift/1972-12-08-15>
+
+## § 1.
+
+Når bygg eller anlegg som ikke er brannforsikret, blir skadet ved brann, og skadelidte ønsker å søke om tilskott i henhold til Finansdepartementets forskrift av 2. november 1972 eller ønsker fritak for investeringsavgift i henhold til Finansdepartementets forskrift av 29. september 1972, skal skadelidte uten ugrunnet opphold sende beskjed til fylkesskattesjefen om brannskaden.
+
+Skadelidte bør i forbindelse med meldingen eller snarest mulig deretter, meddele fylkesskattesjefen navnet på en takstmann han oppnevner.
+
+## § 2.
+
+Branntakst avholdes av den av skadelidte oppnevnte takstmann og en takstmann oppnevnt av fylkesskattesjefen. Før takstbeløpet drøftes bør de to takstmenn bli enige om en oppmann. Blir takstmennene ikke enige om oppmann og heller ikke om takstbeløpet, oppnevnes oppmann av herreds- eller byretten på det sted den brannlidte eiendom ligger.
+
+Reglene i skjønnsloven blir ellers å følge så langt de passer. I § 27 annet ledd i denne lov er uttalt: «Avgjørelserne træffes med stemmeflerhet. Er det fler end to meninger, naar pengebeløp eller andre størrelser skal fastsettes, og ingen har stemmeflerhet, lægges stemmerne for høiere beløp eller størrelser sammen med stemmerne for de nærmest følgende, til der blir flertal.» Det avgitte skjønn er endelig.
+
+## § 3.
+
+Skadelidte dekker utgiftene ved egen takstmann. Utgiftene bæres ellers av det offentlige. Fylkesskattesjefen ordner selv eller ved branntakstbestyreren på stedet med innkallelse av takstmennene.
+
+## § 4.
+
+Taksten settes til det beløp som det vil koste å gjenreise tilsvarende, eller i det vesentlige tilsvarende bygg eller anlegg, beregnet etter prisene umiddelbart før skaden inntraff, avgift ikke medregnet.
+
+Fra takstbeløpet gjøres fradrag for verdiforringelse på grunn av elde, bruk, nedsatt anvendelighet eller andre omstendigheter. Fradrag for verdiforringelse ved elde og bruk gjøres dog bare når denne verdiforringelse utgjør minst en tredjepart av takstbeløpet.
+
+## § 5.
+
+I taksten skal ikke medregnes omkostninger som gjelder:
+
+a. Gjenanskaffelse eller utbedring av maskiner og maskinelt eller elektrisk utstyr, særskilte innredninger og installasjoner m.v.
+b. Arbeider som utføres utenfor byggets grunnmur, med mindre arbeidene gjelder utbedring av skade på anlegg etter naturkatastrofe.
+c. Meromkostninger som følge av murtvang eller andre offentlige vilkår for gjenreising.
+
+## § 6.
+
+For mindre delskader kan fylkesskattesjefen samtykke i at takst ikke holdes. Den lidte skade beregnes da på grunnlag av reparasjonens kostende, med de begrensninger som følger av [§§ 4](for-1972-12-08-15-forskr-om-takst-ved-naturkatastrofe-og-brann.md) og 5.
+
+## § 7.
+
+Ved naturkatastrofe som ikke blir taksert etter reglene i lov om erstatning for naturskader av 9. juni 1961 og heller ikke dekkes av vanlig forsikring, får disse regler tilsvarende anvendelse.

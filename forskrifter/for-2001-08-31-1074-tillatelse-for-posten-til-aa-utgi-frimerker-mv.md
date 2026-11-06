@@ -1,0 +1,17 @@
+# Tillatelse for Posten Norge BA til å utgi og godta bruk av frimerker og andre frankeringsmidler der Norge eller Noreg forekommer.
+
+- **Korttittel:** Tillatelse for Posten til å utgi frimerker mv.
+- **Datokode:** FOR-2001-08-31-1074
+- **DokumentID:** SF/forskrift/2001-08-31-1074
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Post- og telekommunikasjonsavd.
+- **Hjemmel:** lov 29.11.1996 nr. 73/§7
+- **Publisert i:** I 2001 hefte 11
+- **Kunngjort:** 2001-09-21
+- **I kraft fra:** 2001-10-01
+- **Endrer:** forskrift 16.05.1997 nr. 480
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt ved kgl.res. 31. august 2001 med hjemmel i lov av 29. november 1996 nr. 73 om formidling av landsdekkende postsendinger (postloven) § 7. Fremmet av Samferdselsdepartementet.
+- **Kilde:** <https://lovdata.no/forskrift/2001-08-31-1074>
+
+Med hjemmel i [lov av 29. november 1996 nr. 73](https://lovdata.no/lov/1996-11-29-73) om formidling av landsdekkende postsendinger (postloven) [§ 7](https://lovdata.no/lov/1996-11-29-73/§7) meddeles Posten Norge BA tillatelse til å utgi og godta bruk av frimerker og andre frankeringsmidler der Norge eller Noreg forekommer. Tillatelsen trer i kraft 1. oktober 2001 og gjelder inntil videre.

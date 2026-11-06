@@ -1,0 +1,289 @@
+# Forskrift om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester
+
+- **Korttittel:** Forskrift om eksport av forsvarsmateriell mv.
+- **Datokode:** FOR-2013-06-19-718
+- **DokumentID:** SF/forskrift/2013-06-19-718
+- **Departement:** Utenriksdepartementet
+- **Etat:** Sikkerhetspolitisk avdeling
+- **Hjemmel:** lov 18.12.1987 nr. 93/§1; forskrift 18.12.1987 nr. 967
+- **Publisert i:** I 2013 hefte 9
+- **Kunngjort:** 2013-06-25 15:30
+- **I kraft fra:** 2013-06-19
+- **Siste endring i kraft:** 2026-07-13
+- **Sist endret ved:** forskrift 13.07.2026 nr. 1553
+- **Endrer:** forskrift 10.01.1989 nr. 51
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-05-18 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Utenriksdepartementet 19. juni 2013 med hjemmel i lov 18. desember 1987 nr. 93 om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. § 1, jf. delegeringsvedtak 18. desember 1987 nr. 967. EØS-henvisninger: EØS-avtalen vedlegg II kap. XIX nr. 3q (direktiv 2009/43/EF som endret ved direktiv 2019/514/EU), nr. 18 (rekommandasjon (EU) 2018/2050) og nr. 19 (rekommandasjon (EU) 2018/2051) og nr. 20 (rekommandasjon (EU) 2018/2052). Endret ved forskrifter 30 juni 2014 nr. 898, 9 sep 2014 nr. 1163, 13 feb 2015 nr. 124, 12 jan 2016 nr. 32, 21 des 2016 nr. 1831, 6 juni 2017 nr. 740, 26 jan 2018 nr. 136, 9 april 2019 nr. 494, 9 april 2019 nr. 622, 11 mai 2020 nr. 994, 6 mai 2021 nr. 1501, 27 aug 2021 nr. 2674, 26 jan 2022 nr. 304, 9 mars 2023 nr. 635, 22 jan 2024 nr. 96, 18 april 2024 nr. 686, 6 sep 2024 nr. 2089, 2 okt 2024 nr. 2386 (i kraft 1 nov 2024), 4 nov 2024 nr. 2898, 22 nov 2024 nr. 2872 (i kraft 1 jan 2025), 20 aug 2025 nr. 1674, 29 aug 2025 nr. 1757, 19 sep 2025 nr. 1883, 8 jan 2026 nr. 36, 13 juli 2026 nr. 1553. Rettelser: 24.09.2013 (EØS-henvisninger og § 2), 18.05.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2013-06-19-718>
+
+## Kap. 1. Innledende bestemmelser
+
+### § 1. Hva forskriften omfatter
+
+Forskriften gjelder eksport av nærmere angitte varer, teknologi, samt visse tjenester.
+
+Særlige bestemmelser gjelder for eksport av angitte ytelser fra en leverandør i en EØS-stat til en mottaker i en annen EØS-stat når det uttrykkelig fremgår av denne forskrift.
+
+*Endret ved forskrift [29 aug 2025 nr. 1757](https://lovdata.no/forskrift/2025-08-29-1757).*
+
+### § 2. Definisjoner
+
+(1) Med *forsvarsrelaterte varer* menes de produkter som til enhver tid er oppført på liste I som utgjør vedlegg I til denne forskrift.
+
+(2) Med *flerbruksvarer* menes de produkter som til enhver tid er oppført i [vedlegg II](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) og III til denne forskrift.
+
+(3) Med *eksport* menes enhver utførsel fra Norge av varer, tjenester og teknologi som omfattes av denne forskrift.
+
+(4) Med *overføring* menes eksport av forsvarsrelaterte varer fra en leverandør eller tollager i en EØS-stat til en mottaker i en annen EØS-stat.
+
+(5) Med *leverandør* menes enhver juridisk eller fysisk person som er rettslig ansvarlig for eksport av ytelser etter denne forskrift.
+
+(6) Med *mottaker* menes enhver juridisk eller fysisk person som er rettslig ansvarlig for mottak av ytelser etter denne forskrift.
+
+(7) Med *lisens* menes tillatelse fra Direktoratet for eksportkontroll og sanksjoner til å eksportere nærmere angitte ytelser til en juridisk eller fysisk person.
+
+(8) Med *overføringslisens* menes tillatelse fra nasjonale myndigheter i en EØS-stat, som gir leverandøren rett til å overføre forsvarsrelaterte varer til en mottaker i annen EØS-stat.
+
+(9) Med *transitt* menes transport av varer gjennom Norge uten omlasting, når avsender og mottaker befinner seg utenfor Norge.
+
+(10) Med *teknologi* som oppført i [vedlegg I](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), [II](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) og [III](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) til denne forskrift menes spesifikk informasjon nødvendig for utvikling, produksjon eller bruk av varer. Slik informasjon vil være tekniske data eller teknisk bistand. I [§ 7](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) omfatter *teknologi* i tillegg enhver annen teknisk data og teknisk bistand.
+
+*Endret ved forskrifter [6 mai 2021 nr. 1501](https://lovdata.no/forskrift/2021-05-06-1501), [2 okt 2024 nr. 2386](https://lovdata.no/forskrift/2024-10-02-2386) (i kraft 1 nov 2024), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025), [20 aug 2025 nr. 1674](https://lovdata.no/forskrift/2025-08-20-1674).*
+
+## Kap. 2. Lisens
+
+### § 3. Lisensplikt
+
+Eksport av nærmere angitte varer, teknologi, samt visse tjenester krever lisens fra Direktoratet for eksportkontroll og sanksjoner om ikke annet følger av denne forskrift. Direktoratet for eksportkontroll og sanksjoner avgjør i tvilstilfeller om en ytelse er lisenspliktig eller ikke. Lisensplikten gjelder også ved eksport av varer fra tollager.
+
+*Endret ved forskrifter [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025), [29 aug 2025 nr. 1757](https://lovdata.no/forskrift/2025-08-29-1757).*
+
+### § 4. Lisensplikt etter varelister
+
+Eksport av varer og teknologi som oppført i [vedlegg I](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), [II](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) eller [III](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) til denne forskrift, krever lisens fra Direktoratet for eksportkontroll og sanksjoner. Lisensplikten knyttet til vedlegg I gjelder også for materiell som har vært særlig konstruert eller modifisert for militært formål, uavhengig av nåværende tilstand.
+
+*Endret ved forskrifter [9 sep 2014 nr. 1163](https://lovdata.no/forskrift/2014-09-09-1163), [2 okt 2024 nr. 2386](https://lovdata.no/forskrift/2024-10-02-2386) (i kraft 1 nov 2024), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025), [29 aug 2025 nr. 1757](https://lovdata.no/forskrift/2025-08-29-1757).*
+
+### § 5. Lisensplikt for tjenester
+
+Tjenester knyttet til varer og teknologi oppført i [vedlegg I](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), [II](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), eller [III](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) til denne forskrift samt tjenester for øvrig som direkte kan tjene til å utvikle et lands militære evne, som ytes i utlandet eller her i landet for bruk i utlandet, krever lisens fra Direktoratet for eksportkontroll og sanksjoner.
+
+*Endret ved forskrifter [2 okt 2024 nr. 2386](https://lovdata.no/forskrift/2024-10-02-2386) (i kraft 1 nov 2024), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025), [29 aug 2025 nr. 1757](https://lovdata.no/forskrift/2025-08-29-1757).*
+
+### § 6. Lisensplikt for handel og formidling
+
+Handel, formidling eller annen bistand ved salg av varer og teknologi som omfattes av [vedlegg I](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) fra et fremmed land til et annet, krever lisens fra Direktoratet for eksportkontroll og sanksjoner. Tilsvarende gjelder ved formidling av varer oppført i [vedlegg II](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) og III samt tilhørende teknologi og tjenesteytelse der det er kjent eller grunn til å forstå at varen, teknologien eller tjenesten er eller kan være ment, helt eller delvis, for bruk i forbindelse med utvikling, produksjon, håndtering, drift, vedlikehold, lagring, deteksjon, identifikasjon eller spredning av kjemiske, biologiske eller kjernefysiske våpen eller andre kjernefysiske sprenglegemer, og i forbindelse med utvikling, produksjon, vedlikehold eller lagring av missiler som kan levere slike våpen.
+
+*Endret ved forskrifter [2 okt 2024 nr. 2386](https://lovdata.no/forskrift/2024-10-02-2386) (i kraft 1 nov 2024), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 7. Lisensplikt for øvrige varer, teknologi og tjenester
+
+I tillegg til vedlegg til denne forskrift er eksport av følgende varer, teknologi og tjenester lisenspliktige:
+
+a. enhver vare, teknologi og tjenesteytelse der eksportøren er kjent med eller har grunn til å forstå at varen, teknologien eller tjenesten er eller kan være ment, helt eller delvis, for bruk i forbindelse med utvikling, produksjon, håndtering, drift, vedlikehold, lagring, deteksjon, identifikasjon eller spredning av kjemiske, biologiske eller kjernefysiske våpen eller andre kjernefysiske sprengelementer. Tilsvarende regler gjelder for eksport av enhver vare, teknologi eller tjeneste som kan benyttes til utvikling, produksjon, vedlikehold eller lagring av missiler som kan levere slike våpen,
+b. enhver vare, teknologi eller tjeneste til militær bruk til områder som er underlagt våpenembargo vedtatt av FNs sikkerhetsråd med hjemmel i [FN-paktens kapittel VII](https://lovdata.no/traktat/1945-06-26-1/kapVII) eller andre tiltaksregimer Norge har sluttet seg til,
+c. enhver vare, teknologi og tjeneste til militær bruk til områder hvor det er krig, krig truer eller til land hvor det er borgerkrig.
+d. enhver vare, teknologi og tjeneste som direkte kan tjene til å utvikle en stats militære evne på en måte som ikke er forenlig med vesentlige norske sikkerhets- og forsvarsinteresser.
+
+*Endret ved forskrift [2 okt 2024 nr. 2386](https://lovdata.no/forskrift/2024-10-02-2386) (i kraft 1 nov 2024).*
+
+### § 8. Unntak fra lisensplikt
+
+Lisensplikten i [§ 3](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), jf. [§ 4](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md)–[§ 7](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), gjelder ikke for:
+
+a. varer oppført på [vedlegg II](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) og III i utenlandsk eie og som returneres til utlandet etter å ha vært midlertidig innført til Norge i forbindelse med utstilling og demonstrasjon, eller som returneres til utlandet etter å ha vært midlertidig innført til Svalbard eller Jan Mayen i forbindelse med sivil forskningsaktivitet,
+b. redningsutstyr og oljevernutstyr som utføres i forbindelse med hjelpeaksjoner,
+c. skytevåpen, våpendeler og ammunisjon som utføres i henhold til [våpenloven](https://lovdata.no/lov/2018-04-20-7), jf. [forskrift 7. mai 2021 nr. 1452 om våpen, skytevåpen, våpendelar og ammunisjon, kapittel 10](for-2021-05-07-1452-vaapenforskrifta.md),
+d. varer som utføres til den europeiske romorganisasjonen ESA, eller en representant for denne, og som er strengt nødvendig for organisasjonens offisielle virksomhet. Unntaket gjelder bare for leveranser til ESAs medlemsland,
+e. varer oppført på [vedlegg II](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) og III som utelukkende er i transitt gjennom Norge, når avsender og mottaker befinner seg utenfor Norge. Det samme gjelder varer oppført på [vedlegg I](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) dersom både avsender og mottaker befinner seg innenfor EØS,
+f. varer, teknologi og tjenester til bruk på norsk kontinentalsokkel,
+g. varer, teknologi og tjenester til bruk om bord på norskeide skip under norsk flagg og norskeide luftfartøyer, i utenriksfart,
+h. forsvarsrelaterte varer og flerbruksvarer som eies eller disponeres av norsk forsvars- eller politimyndighet når varene skal benyttes av norske styrker i utlandet. Unntaket gjelder også for slike varer når de inngår i flernasjonal logistikkstøtte som nevnte myndigheter har inngått avtale om, eller som sendes ut for reparasjon, vedlikehold, oppdatering eller lignende, med retur til Norge. Forsvars- og politimyndighetene skal hvert år, innen 15. februar, sende rapport til Direktoratet for eksportkontroll og sanksjoner om all utførsel av forsvarsrelaterte varer som nevnt ovenfor i det foregående kalenderår,
+i. forsvarsrelaterte varer og flerbruksvarer som eies eller disponeres av et NATO-lands eller en EØS-stats forsvars- eller politimyndighet som er lagret i Norge eller som returneres til utlandet etter å ha vært midlertidig innført til Norge i forbindelse med oppdrag, øvelse eller trening.
+j. offentlig tilgjengelig informasjon,
+k. det minimum av informasjon som er nødvendig for å søke om patent.
+
+Lisensplikten i [§§ 4](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) til [6](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) gjelder ikke for
+
+a. Grunnforskning.
+b. Universiteter, høyskoler, helseforetak, offentlige forskningsinstitutter og forskningsinstitutter som mottar statlig grunnbevilgning ved eksport av teknologi oppført på [vedlegg II](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) og [III](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) som ytes her i landet til statsborgere av EØS- eller NATO-land.
+
+*Endret ved forskrifter [30 juni 2014 nr. 898](https://lovdata.no/forskrift/2014-06-30-898), [11 mai 2020 nr. 994](https://lovdata.no/forskrift/2020-05-11-994), [6 mai 2021 nr. 1501](https://lovdata.no/forskrift/2021-05-06-1501), [27 aug 2021 nr. 2674](https://lovdata.no/forskrift/2021-08-27-2674), [2 okt 2024 nr. 2386](https://lovdata.no/forskrift/2024-10-02-2386) (i kraft 1 nov 2024), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025), [20 aug 2025 nr. 1674](https://lovdata.no/forskrift/2025-08-20-1674), [29 aug 2025 nr. 1757](https://lovdata.no/forskrift/2025-08-29-1757).*
+
+## Kap 3. Eksport av forsvarsrelaterte varer til mottakere i EØS
+
+### § 9. Overføringslisens
+
+Overføring av forsvarsrelaterte varer til mottakere i EØS kan kun skje på grunnlag av en generell overføringslisens, en global overføringslisens eller en individuell overføringslisens utferdiget av Direktoratet for eksportkontroll og sanksjoner. Reglene om overføringslisenser gjelder kun forsvarsrelaterte varer oppført på liste I som utgjør vedlegg til denne forskrift.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 10. Generell overføringslisens
+
+Generelle overføringslisenser for forsvarsrelaterte varer kunngjøres av Direktoratet for eksportkontroll og sanksjoner. Lisensene kan benyttes av leverandører i Norge etter forutgående registrering hos Direktoratet for eksportkontroll og sanksjoner. Generelle overføringslisenser gjelder bestemte varekategorier, til en kategori eller kategorier av mottakere i EØS og det kan settes særlige vilkår for lisensene.
+
+Generelle overføringslisenser kan benyttes dersom:
+
+a. mottakeren inngår i en EØS-stats væpnede styrker eller en offentlig oppdragsgiver på forsvarsområdet som foretar innkjøp som utelukkende skal brukes av en EØS-stats væpnede styrker eller,
+b. mottakeren er et foretak som er sertifisert i samsvar med [§ 13](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) eller,
+c. overføringen gjøres med sikte på demonstrasjon, evaluering eller utstilling eller,
+d. overføringen gjøres med sikte på vedlikehold eller reparasjon, dersom mottakeren er den opprinnelige leverandøren av de forsvarsrelaterte varene.
+
+Slike lisenser kan for tilfellene c) og d) også benyttes ved retur fra Norge av forsvarsrelaterte varer mottatt ved tilsvarende lisens fra en annen EØS-stat.
+
+*Endret ved forskrifter [30 juni 2014 nr. 898](https://lovdata.no/forskrift/2014-06-30-898), [11 mai 2020 nr. 994](https://lovdata.no/forskrift/2020-05-11-994), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 11. Global overføringslisens
+
+Ved overføring av forsvarsrelaterte varer som ikke omfattes av en generell overføringslisens, kan Direktoratet for eksportkontroll og sanksjoner, etter skriftlig søknad fra leverandør i Norge, utferdige en global overføringslisens. Lisensene gis for en periode på tre år med mulighet for forlengelse. Globale overføringslisenser gjelder bestemte forsvarsrelaterte varer eller kategorier av varer til mottakere eller kategori av mottakere i en eller flere EØS-stater. Det kan settes særlige vilkår for lisensene.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 12. Individuell overføringslisens
+
+Ved overføring av forsvarsrelaterte varer som ikke omfattes av en generell overføringslisens og en global overføringslisens ikke kan innvilges, kan Direktoratet for eksportkontroll og sanksjoner, etter skriftlig søknad fra leverandør i Norge, utferdige en individuell overføringslisens. Lisensen gjelder en spesifisert mengde forsvarsrelaterte varer til en mottaker i en EØS-stat i en eller flere sendinger.
+
+En individuell overføringslisens skal benyttes dersom:
+
+a. søknaden om overføringslisens er begrenset til en overføring,
+b. det er nødvendig for å beskytte Norges grunnleggende sikkerhetsinteresser, eller av hensyn til den offentlige orden,
+c. det er nødvendig for å overholde Norges internasjonale forpliktelser, eller
+d. det er tungtveiende grunner til å tro at leverandøren ikke vil være i stand til å oppfylle vilkårene for å få en global overføringslisens.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+## Kap. 4. Sertifisering av norske foretak som mottakere i EØS
+
+### § 13. Sertifisering av foretak i Norge
+
+Direktoratet for eksportkontroll og sanksjoner kan, etter skriftlig søknad, sertifisere foretak etablert i Norge for mottak av forsvarsrelaterte varer under generelle overføringslisenser kunngjort av andre EØS-stater.
+
+Direktoratet for eksportkontroll og sanksjoner skal gjennom sertifiseringen vurdere det mottakende foretaks pålitelighet, særlig med hensyn til foretakets evne til å overholde eksportbegrensningene for forsvarsrelaterte produkter mottatt i henhold til en generell overføringslisens fra en annen EØS-stat. Ved vurderingen vil det særlig legges vekt på følgende kriterier:
+
+a. dokumentert erfaring fra forsvarsvirksomhet, der det særlig tas hensyn til foretakets historikk med hensyn til overholdelse av eksportrestriksjoner, eventuelle rettsavgjørelser i denne forbindelse, eventuelle tillatelser til å produsere eller markedsføre forsvarsrelaterte varer, og hvorvidt foretaket har erfarent lederpersonale,
+b. relevant industriell virksomhet i forbindelse med forsvarsrelaterte varer i EØS, særlig evne til system-/delsystemintegrasjon,
+c. særskilt utpeking av en overordnet leder som skal være personlig ansvarlig for overføringer og eksport,
+d. en skriftlig erklæring fra foretaket, undertegnet av den overordnede lederen nevnt i bokstav c), om at foretaket vil iverksette alle nødvendige tiltak for å overholde og håndheve alle særlige vilkår knyttet til sluttbruk og eksport av hver bestanddel eller hver vare det har mottatt,
+e. en skriftlig erklæring fra foretaket, undertegnet av den overordnede lederen nevnt i bokstav c), om at det med behørig aktsomhet, som svar på anmodninger og forespørsler fra Direktoratet for eksportkontroll og sanksjoner, vil fremskaffe detaljerte opplysninger om sluttbrukere eller sluttbruk av alle eksporterte varer som er overført eller mottatt i henhold til en overføringslisens fra en annen EØS-stat,
+f. en beskrivelse, kontrasignert av den overordnede lederen nevnt i bokstav c., av det interne programmet for sikring av samsvar med kravene eller av foretakets ledelsessystem for overføring eller eksport. I den nevnte beskrivelsen skal det gis nærmere opplysninger om de organisasjonsmessige, menneskelige og tekniske ressursene ledelsen rår over i forbindelse med overføringer og eksport, ansvarskjeden i foretaket, internkontrollrutiner, holdningsskapende tiltak og opplæring av personalet, fysiske og tekniske sikkerhetsordninger, journalføring og sporbarhet av overføringer og eksport.
+
+*Endret ved forskrifter [30 juni 2014 nr. 898](https://lovdata.no/forskrift/2014-06-30-898), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 14. Utstedelse av sertifikat
+
+Direktoratet for eksportkontroll og sanksjoner utsteder et sertifikat til godkjente mottakende foretak i Norge. Sertifikatet skal inneholde informasjon om utstedende myndighet, foretakets navn og adresse, gyldighetstid samt en erklæring om at foretaket oppfyller kravene til sertifisering. Sertifikatet kan også inneholde vilkår knyttet til innhenting av informasjon som er nødvendig for kontroll av om kriteriene i [§ 13](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), 2. ledd er oppfylt samt suspensjon eller tilbakekalling av sertifikatet.
+
+Sertifikatets gyldighetstid fastsettes av Direktoratet for eksportkontroll og sanksjoner, men kan ikke overstige fem år.
+
+Sertifiserte foretak i Norge vil bli meldt inn til EUs sentrale register og som publiseres på EU-kommisjonens hjemmeside.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 15. Kontroll med sertifiserte foretak
+
+Direktoratet for eksportkontroll og sanksjoner vil minst hvert tredje år kontrollere at mottakende foretak oppfyller kravene for sertifisering, jf. [§ 13](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), 2. ledd, samt eventuelle vilkår fastsatt i sertifikatet, jf. [§ 14](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md). Dersom det sertifiserte foretaket ikke lenger oppfyller kravene vil Direktoratet for eksportkontroll og sanksjoner pålegge foretaket å iverksette tiltak for å sikre oppfyllelse av samtlige krav og vilkår. Direktoratet for eksportkontroll og sanksjoner kan også suspendere eller tilbakekalle sertifiseringen.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+## Kap 5. Registrering, rapportering og oppfølgning
+
+### § 16. Registrering
+
+Leverandøren skal føre et detaljert og fullstendig register over eksport av forsvarsrelaterte varer oppført på liste I som utgjør vedlegg til denne forskrift. Registeret skal inneholde dokumenter med følgende opplysninger:
+
+a. en beskrivelse av varen og dens referanse til liste I,
+b. mengde og verdi,
+c. overføringsdatoer,
+d. leverandørens og mottakerens navn og adresse,
+e. dersom det er kjent eller påkrevet etter [§ 24](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md), sluttbruken og sluttbrukeren av varen,
+f. dokumentasjon på at opplysninger vedrørende eksportbegrensninger er oversendt mottakeren,
+g. tolldeklarasjon med ekspedisjons- og løpenummer.
+
+### § 17. Rapportering
+
+Leverandøren skal rapportere til Direktoratet for eksportkontroll og sanksjoner kvartalsvis, på fastsatt skjema, om all eksport og overføring av forsvarsrelaterte varer oppført på liste I.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 18. Arkivering
+
+Leverandøren skal oppbevare registre og lisenser i minst ti år fra utløpet av det kalenderåret eksporten fant sted. Direktoratet for eksportkontroll og sanksjoner kan pålegge leverandøren å fremvise denne dokumentasjonen for kontroll.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 19. Informasjon om vilkår
+
+Leverandøren skal informere mottakerne om vilkår for lisensen, herunder begrensninger i forbindelse med sluttbruk eller re-eksport.
+
+### § 20. Oppfølging av eksport
+
+Leverandøren skal påse at forsvarsrelaterte varer, flerbruksvarer, teknologi eller tjenester som overføres eller eksporteres, er i samsvar med innvilget lisens, går til fastsatt bestemmelsessted, ikke fraviker godkjent beskrivelse eller kvantum angitt i lisensen, samt at eksporten skjer innen den gyldighetstid og på de særlige vilkår som er fastsatt i lisensen.
+
+### § 21. Kontroll ved eksport
+
+Leverandøren skal ved eksport av lisenspliktige varer og teknologi legge frem gyldig lisens for tollmyndigheten senest ved fremleggelse av tolldeklarasjon.
+
+## Kap 6. Generelle bestemmelser
+
+### § 22. Lisenssøknad
+
+Lisenssøknad skal fremmes skriftlig og på fastsatt skjema undertegnet av den som har fullmakt til å handle på leverandørens vegne. For overføringslisenser gjelder også særskilte regler i [kap. 3](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md).
+
+Leverandøren skal legge frem alle opplysninger og dokumentasjon som Direktoratet for eksportkontroll og sanksjoner finner nødvendig for behandling av søknaden.
+
+At bindende avtaler er inngått eller at betaling er mottatt vil ikke kunne legges til grunn for innvilgelse av tillatelse til utførsel. Ved avtaler om eksport av lisenspliktige varer og teknologi bør det alltid tas forbehold om at søknad om lisens innvilges.
+
+*Endret ved forskrifter [6 juni 2017 nr. 740](https://lovdata.no/forskrift/2017-06-06-740), [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025), [29 aug 2025 nr. 1757](https://lovdata.no/forskrift/2025-08-29-1757).*
+
+### § 23. Vilkår for innvilgelse av lisens
+
+Direktoratet for eksportkontroll og sanksjoner kan sette vilkår i tråd med formålet til [lov 18. desember 1987 nr. 93](../lover/lov-1987-12-18-93-eksportkontrolloven.md) for innvilgelse av lisens i medhold av denne forskrift.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 24. Sluttbrukererklæring
+
+Direktoratet for eksportkontroll og sanksjoner kan kreve at leverandøren fremlegger en sluttbrukererklæring.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 25. Tilbakekalling av lisens
+
+Lisens gitt i medhold av denne forskrift kan tilbakekalles, suspenderes eller begrenses dersom leverandøren misbruker lisensen eller misligholder vilkårene i denne. Det samme gjelder dersom leverandøren handler i strid med bestemmelser gitt i denne forskrift. Lisens kan også tilbakekalles, suspenderes eller begrenses dersom det fremkommer nye opplysninger eller de politiske eller faktiske forhold i mottakerstaten eller området endres, og dette vesentlig endrer grunnlaget for lisensen. For øvrig gjelder de alminnelige regler om omgjøring av enkeltvedtak.
+
+### § 26. Endring, forlengelse og overdragelse av lisens
+
+Leverandøren må søke Direktoratet for eksportkontroll og sanksjoner om endring eller forlengelse av innvilgede lisenser samt for å overdra slike til andre.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+### § 27. Retur av lisens
+
+Lisenser som ikke er benyttet eller ikke kan benyttes som forutsatt, returneres til Direktoratet for eksportkontroll og sanksjoner med en redegjørelse for årsaken. Det samme gjelder om en innvilget lisens har gått tapt.
+
+*Endret ved forskrift [22 nov 2024 nr. 2872](https://lovdata.no/forskrift/2024-11-22-2872) (i kraft 1 jan 2025).*
+
+## Kap 7. Sluttbestemmelser
+
+### § 28. Ikrafttreden
+
+Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 10. januar 1989 nr. 51](https://lovdata.no/forskrift/1989-01-10-51) til gjennomføring av utførselsreguleringen for strategiske varer, tjenester og teknologi.
+
+## Vedlegg I Liste I – forsvarsrelaterte varer (2026)
+
+For å lese vedlegg I se her: [pdf-fil](https://lovdata.no/static/SF/sf-20130619-0718-01-15.pdf)
+
+*Endret ved forskrifter [30 juni 2014 nr. 898](https://lovdata.no/forskrift/2014-06-30-898), [13 feb 2015 nr. 124](https://lovdata.no/forskrift/2015-02-13-124), [21 des 2016 nr. 1831](https://lovdata.no/forskrift/2016-12-21-1831), [6 juni 2017 nr. 740](https://lovdata.no/forskrift/2017-06-06-740), [26 jan 2018 nr. 136](https://lovdata.no/forskrift/2018-01-26-136), [9 april 2019 nr. 494](https://lovdata.no/forskrift/2019-04-09-494), [9 april 2019 nr. 622](https://lovdata.no/forskrift/2019-04-09-622), [11 mai 2020 nr. 994](https://lovdata.no/forskrift/2020-05-11-994), [26 jan 2022 nr. 304](https://lovdata.no/forskrift/2022-01-26-304), [9 mars 2023 nr. 635](https://lovdata.no/forskrift/2023-03-09-635), [18 april 2024 nr. 686](https://lovdata.no/forskrift/2024-04-18-686), [20 aug 2025 nr. 1674](https://lovdata.no/forskrift/2025-08-20-1674), [19 sep 2025 nr. 1883](https://lovdata.no/forskrift/2025-09-19-1883), [13 juli 2026 nr. 1553](https://lovdata.no/forskrift/2026-07-13-1553).*
+
+## Vedlegg II Liste II – nasjonal liste over flerbruksvarer (2025)
+
+For å lese vedlegg II se her: [pdf-fil](https://lovdata.no/static/SF/sf-20130619-0718-02-13.pdf).
+
+*Endret ved forskrifter [13 feb 2015 nr. 124](https://lovdata.no/forskrift/2015-02-13-124), [12 jan 2016 nr. 32](https://lovdata.no/forskrift/2016-01-12-32), [21 des 2016 nr. 1831](https://lovdata.no/forskrift/2016-12-21-1831), [26 jan 2018 nr. 136](https://lovdata.no/forskrift/2018-01-26-136), [9 april 2019 nr. 494](https://lovdata.no/forskrift/2019-04-09-494), [11 mai 2020 nr. 994](https://lovdata.no/forskrift/2020-05-11-994), [26 jan 2022 nr. 304](https://lovdata.no/forskrift/2022-01-26-304), [9 mars 2023 nr. 635](https://lovdata.no/forskrift/2023-03-09-635), [22 jan 2024 nr. 96](https://lovdata.no/forskrift/2024-01-22-96), [6 sep 2024 nr. 2089](https://lovdata.no/forskrift/2024-09-06-2089), [4 nov 2024 nr. 2898](https://lovdata.no/forskrift/2024-11-04-2898), [8 jan 2026 nr. 36](https://lovdata.no/forskrift/2026-01-08-36).*
+
+## Vedlegg III Liste III – nasjonal liste (2025)
+
+For å lese vedlegg III se her: [pdf-fil](https://lovdata.no/static/SF/sf-20130619-0718-03-03.pdf).
+
+*Tilføyd ved forskrift [2 okt 2024 nr. 2386](https://lovdata.no/forskrift/2024-10-02-2386) (i kraft 1 nov 2024), endret ved forskrifter [4 nov 2024 nr. 2898](https://lovdata.no/forskrift/2024-11-04-2898), [8 jan 2026 nr. 36](https://lovdata.no/forskrift/2026-01-08-36).*

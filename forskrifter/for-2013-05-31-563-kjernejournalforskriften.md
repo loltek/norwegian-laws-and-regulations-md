@@ -1,0 +1,185 @@
+# Forskrift om nasjonal kjernejournal (kjernejournalforskriften)
+
+- **Korttittel:** Kjernejournalforskriften
+- **Datokode:** FOR-2013-05-31-563
+- **DokumentID:** SF/forskrift/2013-05-31-563
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavdelingen
+- **Hjemmel:** lov 04.12.1992 nr. 126/§12; lov 02.07.1999 nr. 64/§37; lov 20.06.2014 nr. 42/§11; lov 20.06.2014 nr. 42/§12; lov 20.06.2014 nr. 42/§13; lov 20.06.2014 nr. 42/§25; lov 20.06.2025 nr. 96/§24
+- **Publisert i:** I 2013 hefte 7
+- **Kunngjort:** 2013-06-04 15:50
+- **I kraft fra:** 2013-05-31
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** forskrift 19.06.2026 nr. 1242 fra 2026-07-01
+- **Endrer:** forskrift 21.12.2007 nr. 1610; forskrift 07.12.2007 nr. 1389
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-09-28 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 31. mai 2013 med hjemmel i lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 6d sjette ledd og § 9, lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 37 og lov 4. desember 1992 nr. 126 om arkiv § 12. Fremmet av Helse- og omsorgsdepartementet. Tilføyd hjemmel: Lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven) § 11, § 12, § 13 og § 25. Lov 20 juni 2025 nr. 96 om dokumentasjon og arkiv (arkivlova) § 24. Endret ved forskrifter 18 des 2015 nr. 1588, 24 mars 2017 nr. 378, 15 juni 2018 nr. 876, 8 des 2017 nr. 1953 som endret ved vedtak 23 nov 2018 nr. 1906 (ikrafttredelse), 20 des 2019 nr. 1918 (i kraft 1 jan 2020), 18 juni 2021 nr. 2023 (i kraft 1 juli 2021), 24 sep 2021 nr. 2845, 18 mars 2022 nr. 417, 2 feb 2024 nr. 164 (i kraft 1 juni 2024 iflg. vedtak 29 mai 2024 nr. 861), 2 feb 2024 nr. 164 (i kraft 1 mai 2025 iflg. vedtak 11 april 2025 nr. 656), 15 mai 2025 nr. 805, 19 juni 2026 nr. 1242 (i kraft 1 juli 2026). Rettet 28.09.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2013-05-31-563>
+
+## § 1. Formål
+
+Forskriften etablerer en nasjonal kjernejournal som sammenstiller vesentlige helseopplysninger om den registrerte og gjør opplysningene tilgjengelige for helsepersonell som trenger dem for å yte forsvarlig helsehjelp.
+
+Formålet med den nasjonale kjernejournalen er å øke pasientsikkerheten ved å bidra til rask og sikker tilgang til strukturert informasjon om pasienten.
+
+## § 2. Dataansvarlig
+
+Helsedirektoratet er dataansvarlig for den nasjonale kjernejournalen.
+
+*Endret ved forskrifter [18 des 2015 nr. 1588](https://lovdata.no/forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [24 mars 2017 nr. 378](https://lovdata.no/forskrift/2017-03-24-378) (i kraft 1 juli 2017), [15 juni 2018 nr. 876](for-2018-06-15-876-forskrift-om-behandling-av-personopplysninger.md) (i kraft 20 juli 2018), [20 des 2019 nr. 1918](https://lovdata.no/forskrift/2019-12-20-1918) (i kraft 1 jan 2020), [18 juni 2021 nr. 2023](https://lovdata.no/forskrift/2021-06-18-2023) (i kraft 1 juli 2021), [2 feb 2024 nr. 164](https://lovdata.no/forskrift/2024-02-02-164) (i kraft 1 juni 2024 iflg. vedtak [29 mai 2024 nr. 861](https://lovdata.no/forskrift/2024-05-29-861)).*
+
+## § 3. Hvem som kan ha en nasjonal kjernejournal
+
+En nasjonal kjernejournal kan opprettes for alle personer som omfattes av pasient- og brukerettighetsloven § 1-2 og som har fødselsnummer eller D-nummer.
+
+Den registrerte har rett til å reservere seg mot behandling av helseopplysninger i registeret.
+
+*Endret ved forskrift [24 mars 2017 nr. 378](https://lovdata.no/forskrift/2017-03-24-378) (i kraft 1 juli 2017).*
+
+## § 4. Innholdet i en nasjonal kjernejournal
+
+Uten samtykke kan en nasjonal kjernejournal inneholde:
+
+1. navn og fødselsnummer eller D-nummer
+2. kontaktinformasjon til den registrerte
+3. kontaktinformasjon til
+   a. pårørende
+   b. fastlege eller annen lege
+   c. aktuelle kommunale helse- og omsorgstjenester
+4. en oversikt over legemidler og annet rekvirert på resept
+   a. fra Reseptformidleren som er rekvirert og/eller utlevert
+   b. ordinert internt i sykehjem
+   c. fra fastlege eller annet behandlende helsepersonell
+5. kritisk informasjon om
+   a. alvorlige allergiske reaksjoner og andre overfølsomhetsreaksjoner
+   b. implantater
+   c. helsehjelp som kan være kontraindisert
+   d. andre kritiske opplysninger, blant annet dersom vanlig behandlingsrutine ikke skal følges, komplikasjoner etter tidligere helsehjelp, medisinsk tilstand som krever særlig oppmerksomhet, pågående behandling og meldepliktige infeksjonssykdommer der sykdommen vil kunne påvirke valg av helsehjelp
+6. laboratorie- og bildediagnostiske svar om
+   a. medisinsk biokjemi
+   b. klinisk farmakologi
+   c. immunologi og transfusjonsmedisin
+   d. medisinsk mikrobiologi
+   e. medisinsk genetikk
+   f. patologi
+   g. radiologi
+   h. nukleærmedisin
+7. pasientens kontakt med helsetjenesten ved
+   a. tid og sted for kontakt med spesialisthelsetjenesten
+   b. tid og sted for kontakt med kommunal helse- og omsorgstjeneste
+8. referanse til ytterligere informasjon, herunder epikriser, prøvesvar, billedundersøkelser og henvisninger
+9. pasientens felter
+10. administrativ informasjon om
+    a. eventuell reservasjon mot at det opprettes en kjernejournal
+    b. samtykke til tilgang til journalopplysninger
+    c. tilgangsbegrensninger
+    d. krav om retting og sletting som er under behandling i primærkilden
+    e. logg over hvem som har hatt tilgang til opplysninger om pasienten.
+
+Samtykker den registrerte kan kjernejournalen inneholde:
+
+a. førstevalg behandling
+b. avtalte behandlings- og omsorgstiltak
+c. reservasjon mot behandling, jf. [pasient- og brukerrettighetsloven § 4-9](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md).
+
+Den enkelte kan reservere seg mot at det registreres informasjon som nevnt i første ledd nr. 6. Har den registrerte reservert seg mot at det opprettes en kjernejournal, skal bare opplysninger som nevnt i § 4 første ledd nr. 1 og nr. 10 bokstav a registreres.
+
+Dataansvarlig skal fastsette forhåndsdefinerte fagområder for laboratorie- og bildediagnostiske svar som nevnt i § 4 første ledd nr. 6, som ikke skal gjøres digitalt tilgjengelig for pasienten før rekvirenten eller behandlende lege har vurdert svaret. Rekvirentene skal i enkelttilfeller ha mulighet til å overstyre de forhåndsdefinerte innstillingene.
+
+*Endret ved forskrifter [24 mars 2017 nr. 378](https://lovdata.no/forskrift/2017-03-24-378) (i kraft 1 juli 2017), [2 feb 2024 nr. 164](https://lovdata.no/forskrift/2024-02-02-164) (i kraft 1 mai 2025 iflg. vedtak [11 april 2025 nr. 656](https://lovdata.no/forskrift/2025-04-11-656)).*
+
+## § 5. Melding av opplysninger til kjernejournalen
+
+Helsepersonell som yter helsehjelp kan uten hinder av taushetsplikten melde opplysninger etter [§ 4 første ledd nr. 3 bokstav b](for-2013-05-31-563-kjernejournalforskriften.md), [nr. 4 bokstav c](for-2013-05-31-563-kjernejournalforskriften.md), [nr. 5](for-2013-05-31-563-kjernejournalforskriften.md), [nr. 6](for-2013-05-31-563-kjernejournalforskriften.md), [nr. 7](for-2013-05-31-563-kjernejournalforskriften.md) og [nr. 9](for-2013-05-31-563-kjernejournalforskriften.md) til den nasjonale kjernejournalen. Virksomheten helsepersonellet er tilsatt i, har ansvar for at det er rutiner som sikrer at dette kan ivaretas.
+
+Kommunen kan uten hinder av taushetsplikten melde opplysninger som nevnt i [§ 4](for-2013-05-31-563-kjernejournalforskriften.md) første ledd nr. 3 bokstav c, nr. 4 bokstav b, nr. 6 bokstav b.
+
+Plikt til å melde informasjon som nevnt i [§ 4](for-2013-05-31-563-kjernejournalforskriften.md) nr. 5 og 6, inntrer fra det tidspunkt teknisk løsning for automatisert innmelding er tilgjengelig for den enkelte virksomheten.
+
+Opplysningene skal meldes i det formatet og etter de rutinene som er fastsatt av den dataansvarlige.
+
+Den dataansvarlige har ansvar for at bare opplysninger som nevnt i [§ 4](for-2013-05-31-563-kjernejournalforskriften.md) registreres og behandles i kjernejournalen. Opplysninger som ikke oppfyller kravene etter første og annet ledd skal avvises, og avsenderen skal varsles.
+
+*Endret ved forskrifter [24 mars 2017 nr. 378](https://lovdata.no/forskrift/2017-03-24-378) (i kraft 1 juli 2017), [15 juni 2018 nr. 876](for-2018-06-15-876-forskrift-om-behandling-av-personopplysninger.md) (i kraft 20 juli 2018), [2 feb 2024 nr. 164](https://lovdata.no/forskrift/2024-02-02-164) (endring endret ved forskrift [21 juni 2024 nr. 1104](https://lovdata.no/forskrift/2024-06-21-1104), i kraft 1 mai 2025 iflg. vedtak [11 april 2025 nr. 656](https://lovdata.no/forskrift/2025-04-11-656)), [15 mai 2025 nr. 805](for-2025-05-15-805-forskrift-om-oppheving-av-abortforskriften-og-endringer-i-medisinsk-fodselsregisterforskriften.md).*
+
+## § 6. Rett til innsyn, varsel, retting, sletting og sperring
+
+Den registrerte har rett til innsyn i egne opplysninger i den nasjonale kjernejournalen, og i opplysninger om hvem som har gjort oppslag i kjernejournalen. [Pasient- og brukerrettighetsloven § 5-1](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md), jf. [§ 3-3](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) og [§ 3-4](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) gjelder tilsvarende.
+
+Den registrerte skal informeres om oppslag i nasjonal kjernejournal. [Pasient- og brukerrettighetsloven § 3-3](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) og [§ 3-4](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) gjelder tilsvarende.
+
+Krav om retting eller sletting av opplysninger skal fremsettes overfor primærkilden for opplysningene, med mindre feilen oppstod ved registreringen i den nasjonale kjernejournalen. Den registrerte kan kreve at tilgangen til opplysningene i den nasjonale kjernejournalen blir sperret, jf. [helsepersonelloven § 29](../lover/lov-1999-07-02-64-helsepersonelloven.md) og [pasient- og brukerrettighetsloven § 5-3](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md).
+
+*Endret ved forskrift [19 juni 2026 nr. 1242](https://lovdata.no/forskrift/2026-06-19-1242) (i kraft 1 juli 2026).*
+
+## § 7. Unntak fra kravet om samtykke
+
+Kravet om samtykke etter [pasientjournalloven § 13](../lover/lov-2014-06-20-42-pasientjournalloven.md) fjerde ledd gjelder ikke i akuttsituasjoner der det er alvorlig fare for pasientens liv, når det ikke er tid til å innhente pasientens samtykke eller dersom pasienten på grunn av sin fysiske eller psykiske tilstand ikke er i stand til å samtykke. Det skal registreres i kjernejournalen hvorfor samtykke ikke er innhentet.
+
+Når det er nødvendig for å yte forsvarlig helsehjelp til pasienten, kan tilgang til helseopplysninger i den nasjonale kjernejournalen gis uten pasientens samtykke til følgende helsepersonell:
+
+a. fastlegen
+b. helsepersonell med legemiddelansvar i sykehjem og i hjemmesykepleien
+c. lege og sykepleier i spesialisthelsetjenesten
+d. helsepersonell som har oppgaver knyttet til gjennomgang, vurdering eller samstemming av en pasients legemiddelbruk i spesialisthelsetjenesten
+e. helsepersonell i den akuttmedisinske kjeden.
+
+Første og andre ledd gjelder tilsvarende for tilgjengeliggjøring av pasientens legemiddelliste, jf. [forskrift om pasientjournal § 9](for-2019-03-01-168-pasientjournalforskriften.md) og [reseptformidlerforskriften § 1-3](for-2007-12-21-1610-reseptformidlerforskriften.md) nr. 7. Pasienten kan motsette seg at pasientens legemiddelliste gjøres tilgjengelig, jf. [pasientjournalloven § 17](../lover/lov-2014-06-20-42-pasientjournalloven.md).
+
+*Endret ved forskrifter [24 mars 2017 nr. 378](https://lovdata.no/forskrift/2017-03-24-378) (i kraft 1 juli 2017), [15 juni 2018 nr. 876](for-2018-06-15-876-forskrift-om-behandling-av-personopplysninger.md) (i kraft 20 juli 2018), [8 des 2017 nr. 1953](https://lovdata.no/forskrift/2017-12-08-1953) som endret ved [vedtak 23 nov 2018 nr. 1906](https://lovdata.no/forskrift/2018-11-23-1906) (i kraft 1 jan 2019), [24 sep 2021 nr. 2845](https://lovdata.no/forskrift/2021-09-24-2845), [18 mars 2022 nr. 417](https://lovdata.no/forskrift/2022-03-18-417).*
+
+## § 8. Tilbaketrekking av samtykke
+
+Trekker den registrerte tilbake sitt samtykke om tilgang, har ikke helsepersonellet lenger den tilgangen som samtykket omfattet.
+
+Trekker den registrerte tilbake sitt samtykke om registrering av opplysninger etter [§ 4](for-2013-05-31-563-kjernejournalforskriften.md) annet ledd, skal opplysningene slettes.
+
+*Endret ved forskrift [24 mars 2017 nr. 378](https://lovdata.no/forskrift/2017-03-24-378) (i kraft 1 juli 2017).*
+
+## § 9. Tilgangsstyring
+
+Tilgang til den nasjonale kjernejournalen skal skje gjennom autorisasjons- og autentiseringsløsningen i egen virksomhet. Hver virksomhet skal etablere nødvendige organisatoriske og tekniske tiltak for tildeling, administrasjon og kontroll av autorisasjoner for tilgang til helseopplysninger i nasjonal kjernejournal. En autorisasjon skal knyttes til en entydig identifisert person i en bestemt rolle og være tidsbegrenset.
+
+Den som gis elektronisk tilgang til helseopplysninger i nasjonal kjernejournal skal autentiseres på et høyt sikkerhetsnivå.
+
+Den dataansvarlige for den nasjonale kjernejournalen kan sette vilkår for tilgang, oppbevare oversikt over utstedte autorisasjoner og føre kontroll med at tilgang skjer i samsvar med reglene for tilgangsstyring.
+
+Helsepersonell som trenger det for å yte forsvarlig helsehjelp, kan gis tilgang til pasientens legemiddelliste, jf. [pasientjournalforskriften § 9](for-2019-03-01-168-pasientjournalforskriften.md) og [reseptformidlerforskriften § 1-3](for-2007-12-21-1610-reseptformidlerforskriften.md) nr. 7, ved sin tilgang til nasjonal kjernejournal.
+
+*Endret ved forskrifter [15 juni 2018 nr. 876](for-2018-06-15-876-forskrift-om-behandling-av-personopplysninger.md) (i kraft 20 juli 2018), [8 des 2017 nr. 1953](https://lovdata.no/forskrift/2017-12-08-1953) som endret ved [vedtak 23 nov 2018 nr. 1906](https://lovdata.no/forskrift/2018-11-23-1906) (i kraft 1 jan 2019), [24 sep 2021 nr. 2845](https://lovdata.no/forskrift/2021-09-24-2845).*
+
+## § 10. Lagring av helseopplysninger
+
+Opplysninger i den nasjonale kjernejournalen skal slettes når de ikke lenger er nødvendige for formålet med behandlingen av dem.
+
+Opplysningene etter [§ 4](for-2013-05-31-563-kjernejournalforskriften.md) første ledd nr. 4 og nr. 6 bokstav b skal slettes etter tre år.
+
+Opplysninger etter [§ 4](for-2013-05-31-563-kjernejournalforskriften.md) første ledd nr. 8 og andre ledd bokstav c skal lagres inntil de endres eller slettes av pasienten selv.
+
+Opplysninger etter [§ 4](for-2013-05-31-563-kjernejournalforskriften.md) andre ledd bokstav a og b skal lagres inntil de endres eller slettes av pasienten selv, fastlegen eller annet behandlende helsepersonell.
+
+Opplysninger etter [§ 4](for-2013-05-31-563-kjernejournalforskriften.md) første ledd nr. 9 bokstav e skal slettes fem år etter at en kjernejournal er slettet.
+
+*Endret ved forskrifter [24 mars 2017 nr. 378](https://lovdata.no/forskrift/2017-03-24-378) (i kraft 1 juli 2017), [2 feb 2024 nr. 164](https://lovdata.no/forskrift/2024-02-02-164) (i kraft 1 mai 2025 iflg. vedtak [11 april 2025 nr. 656](https://lovdata.no/forskrift/2025-04-11-656)).*
+
+## § 11. Forbud mot tilgjengeliggjøring av opplysninger fra den nasjonale kjernejournalen
+
+Opplysninger om den registrerte kan ikke utleveres eller på annen måte tilgjengeliggjøres fra den nasjonale kjernejournalen til arbeidsgivere, forsikringsselskap eller påtalemyndigheten selv om den registrerte samtykker.
+
+*Endret ved forskrift [15 juni 2018 nr. 876](for-2018-06-15-876-forskrift-om-behandling-av-personopplysninger.md) (i kraft 20 juli 2018).*
+
+## § 12. (Opphevet)
+
+*Endret ved forskrift [15 juni 2018 nr. 876](for-2018-06-15-876-forskrift-om-behandling-av-personopplysninger.md) (i kraft 20 juli 2018), opphevet ved forskrift [2 feb 2024 nr. 164](https://lovdata.no/forskrift/2024-02-02-164) (i kraft 1 mai 2025 iflg. vedtak [11 april 2025 nr. 656](https://lovdata.no/forskrift/2025-04-11-656)).*
+
+## § 13. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+## § 14. Endringer i andre forskrifter
+
+Samtidig gjøres følgende endringer i andre forskrifter:
+
+1. I [forskrift 21. desember 2007 nr. 1610](for-2007-12-21-1610-reseptformidlerforskriften.md) om behandling av helseopplysninger i nasjonal database for elektroniske resepter gjøres følgende endringer: – – –
+2. I [forskrift 7. desember 2007 nr. 1389](for-2007-12-07-1389-norsk-pasientregisterforskriften-npr.md) om innsamling og behandling av helseopplysninger i Norsk pasientregister gjøres følgende endringer: – – –

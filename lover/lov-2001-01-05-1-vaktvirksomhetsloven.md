@@ -1,0 +1,236 @@
+# Lov om vaktvirksomhet (vaktvirksomhetsloven)
+
+- **Korttittel:** Vaktvirksomhetsloven – vaktl
+- **Datokode:** LOV-2001-01-05-1
+- **DokumentID:** NL/lov/2001-01-05-1
+- **Departement:** Justis- og beredskapsdepartementet
+- **I kraft fra:** 2002-01-01, 2004-07-01, 2005-01-01
+- **Siste endring i kraft:** 2023-06-02
+- **Sist endret ved:** lov 02.06.2023 nr. 19
+- **Rettsområde:** HMS og beredskaps- og sikkerhetsrett > Vakttjenester
+- **Endrer:** lov 13.05.1988 nr. 29
+- **Siste rettelse:** 2022-04-26 (rettet i historiske noter)
+- **Merknad:** Korttittel tilføyd ved lov 19 juni 2009 nr. 85 (ikr. 1 apr 2011 iflg. res. 1 apr 2011 nr. 342).
+- **Kilde:** <https://lovdata.no/lov/2001-01-05-1>
+
+## § 1. Formål
+
+Formålet med denne loven er å
+
+a. ivareta rettssikkerheten for dem som kommer i kontakt med vektere,
+b. sikre god kvalitet på vakttjenester,
+c. legge forholdene til rette for en effektiv offentlig kontroll av virksomheten, og
+d. hindre vaktvirksomhet som på grunn av sin militære eller annen sikkerhetsmessige karakter er uforenlig med vaktvirksomhet etter denne loven, eller for øvrig er ulovlig eller i strid med internasjonal rett.
+
+*Tilføyd ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342)).*
+
+## § 2. Virkeområde
+
+Loven gjelder for ervervsmessig vaktvirksomhet og egenvakthold. Med ervervsmessig vaktvirksomhet forstås i loven her virksomhet som går ut på å utføre vakttjenester mot vederlag. Med egenvakthold menes vakttjenester av egen privat eiendom og egne statlige og kommunale eiendommer, med tilliggende bygninger og ansatte, så lenge vaktholdet utføres av virksomhetens egne ansatte. Med vakttjenester forstås tjenester der det ved bruk av personer, TV-overvåking, elektronisk overvåking eller på annen måte:
+
+a. utføres tilsyn med privat område eller offentlig område,
+b. utføres kontrolltjenester,
+c. utføres verditransporter,
+d. utføres ledsagertjenester,
+e. mottas og behandles alarmsignaler fra overfalls- eller innbruddsalarmanlegg eller utrykning etter slike signaler etter avtale, eller
+f. opplæring i vakttjenester.
+
+Loven gjelder ervervsmessig vaktvirksomhet og egenvakthold som drives av private eller forvaltningsorgan. Med forvaltningsorgan forstås i loven her ethvert organ for stat eller kommune.
+
+Loven gjelder ikke for vaktoppdrag som utøves sporadisk og har lite omfang, med mindre politiet setter som vilkår at vakttjenestene av sikkerhetsmessige grunner skal utføres av godkjente vektere. Loven gjelder ikke for vaktvirksomhet som Forsvaret utfører ved bruk av eget personell, vaktvirksomhet på skip eller godsterminaler på havner eller havneterminaler som omfattes av ISPS-regelverket, eller vaktstyrken ved Norges Bank.
+
+Kongen kan gi forskrift om lovens anvendelse på Svalbard og kan fastsette særlige regler under hensyn til de stedlige forhold.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 1).*
+
+## § 3. Tillatelse
+
+For å utøve ervervsmessig vaktvirksomhet eller egenvakthold i henhold til [§ 2](lov-2001-01-05-1-vaktvirksomhetsloven.md) kreves tillatelse. Slik tillatelse kan kun gis til foretak, enpersonsforetak eller forvaltningsorgan. Det skal ikke gis tillatelse til foretak som driver virksomhet i strid med formålet med loven, eller i strid med øvrige krav til å drive næringsvirksomhet.
+
+Foretaket må være registrert i Foretaksregisteret før tillatelse gis. Foretaket må ha fast forretningssted i riket. Tillatelsen kan gis til selskap, stiftelse eller annen sammenslutning når samtlige medlemmer av styret i et aksjeselskap eller annen sammenslutning med begrenset ansvar oppfyller kravene i tredje ledd bokstav a til d, og samtlige fullt ansvarlige deltakere i ansvarlig selskap eller kommandittselskap oppfyller kravene i tredje ledd bokstav a til d.
+
+Enpersonsforetak må være registrert i Enhetsregisteret før innehaveren kan gis tillatelse. Organisasjonsnummer må oppgis i søknaden. Innehaveren må dessuten:
+
+a. være fylt 21 år,
+b. ha tilfredsstillende vandel,
+c. være statsborger i stat som er part i EØS-avtalen, og
+d. for øvrig inneha nødvendig tillit og ikke anses uskikket til å utøve vaktvirksomhet på forsvarlig måte.
+
+Dersom foretaket eller enpersonsforetaket har daglig leder, må også denne fylle vilkårene i tredje ledd bokstav a til d.
+
+Personer som har vesentlig innflytelse på virksomheten, må fylle kravet til tilfredsstillende vandel. Personer som eier en vesentlig del av virksomheten eller av foretak som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller innehar en lederfunksjon i den, vil alltid anses å ha vesentlig innflytelse på virksomheten. I vurderingen av om en person har vesentlig innflytelse på virksomheten, regnes vedkommendes eierandeler eller stemmer sammen med eierandeler eller stemmer som tilhører følgende personer:
+
+a. ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,
+b. slektninger i rett oppstigende eller nedstigende linje samt søsken,
+c. ektefelle til person som nevnt i punkt b eller personer som bor i ekteskapslignende forhold sammen med person som nevnt i punkt b.
+
+Det kan i særlige tilfeller gjøres unntak fra kravet til alder i tredje ledd bokstav a.
+
+Dersom det skjer endringer i sammensetningen av virksomhetens eierskap, styre eller deltakere, skal dette meddeles den myndighet som har gitt tillatelsen innen 1 måned etter endringen. Det samme gjelder dersom det er utpekt ny daglig leder.
+
+Del av forvaltningsorgan som utøver ervervsmessig vaktvirksomhet, må være utskilt som en egen juridisk enhet. Del av forvaltningsorgan som utøver egenvakthold må være etablert som en egen avdeling innenfor virksomheten.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 2).*
+
+## § 4. Tillatelses- og kontrollmyndighet
+
+Politiet er tillatelses- og kontrollmyndighet. Det skal foretas årlig kontroll med vaktforetakene på bakgrunn av selskapenes rapporteringsplikt etter [§ 16](lov-2001-01-05-1-vaktvirksomhetsloven.md).
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 3).*
+
+## § 5. Tillatelsens innhold
+
+Tillatelsen gis for bestemte former for vaktvirksomhet etter [§ 2](lov-2001-01-05-1-vaktvirksomhetsloven.md) første ledd bokstav a til f.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 4).*
+
+## § 6. Bortfall av tillatelse
+
+Tillatelsen bortfaller dersom foretaket som tillatelsen er gitt til tas under konkursbehandling, eller dersom innehaveren av enpersonsforetaket dør. Et konkursbo eller dødsbo har rett til å fortsette virksomheten i den utstrekning det finnes hensiktsmessig med sikte på avvikling eller overføring av virksomheten til ny eier, likevel ikke utover 6 måneder uten tillatelse fra tillatelses- og kontrollmyndigheten.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 5).*
+
+## § 7. Tilbakekall av tillatelse
+
+En tillatelse kan tilbakekalles dersom innehaveren, ledelsen, eieren eller annen person som har vesentlig innflytelse på virksomheten i foretaket som har tillatelsen, eller noen ansatte i foretaket, har gjort seg skyldig i grov eller gjentatt overtredelse av særskilte vilkår for tillatelsen eller av bestemmelser fastsatt i eller i medhold av loven. Det samme gjelder dersom vilkårene for tillatelse ikke lenger er oppfylt.
+
+Tillatelsen kan også tilbakekalles dersom det ikke har vært virksomhet i foretaket på to år, eller virksomheten ikke er startet opp innen ett år etter at tillatelse er gitt.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 6).*
+
+## § 8. Krav til ansatte mv.
+
+Den som skal tilsettes i foretak som omfattes av loven, og som enten skal utføre vakttjeneste eller ha oppgaver direkte knyttet til vakttjeneste, må ha tilfredsstillende vandel. Vandelskravet gjelder tilsvarende for lærlinger i sikkerhetsfaget og for skoleelever med faget yrkesfaglig fordypning som har praksis i foretak som omfattes av loven. Det kan kreves uttømmende og utvidet politiattest. Personer som nevnt i første punktum må være fylt 18 år. Lærlinger i sikkerhetsfaget kan likevel tilsettes i foretak som omfattes av loven og utføre vakttjeneste eller ha oppgaver direkte knyttet til vakttjeneste før de er fylt 18 år.
+
+Foretakets ledelse har plikt til å sørge for at ansatte i foretaket som skal utføre vakttjeneste eller har oppgaver direkte knyttet til vakttjeneste, oppfyller kravene i lov og forskrift.
+
+Politiet har plikt til å varsle vaktforetaket om ansatte, som skal utføre vakttjeneste eller har oppgaver direkte knyttet til vakttjeneste, som er under etterforskning for straffbare forhold av alvorlig karakter eller forhold som har betydning for tilliten i vedkommendes arbeid. Plikten gjelder såfremt opplysningene kan gis uten å skade etterforskningen.
+
+*Endret ved lover [19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 7), [2 juni 2023 nr. 19](https://lovdata.no/lov/2023-06-02-19).*
+
+## § 9. Krav til utdanning
+
+Den som skal utføre ansvarlig vakttjeneste, må ha gjennomført godkjent utdanning for vektere. Slik utdanning skal bestå av
+
+a. en teoretisk del gjennomført før ansettelse,
+b. praksisopplæring i vakttjeneste, herunder objektopplæring,
+c. oppsummerende teorikurs og avsluttende eksamen,
+d. eventuell tilleggsutdannelse for utførelse av spesialtjeneste og
+e. bestått regodkjenning hvert 4 år.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 8).*
+
+## § 10. Uniformering
+
+Den som utfører vakttjeneste skal bære uniform. Uniformen skal kun bæres i aktiv tjeneste. Tillatelses- og kontrollmyndigheten kan gjøre unntak fra kravet om bruk av uniform under utførelse av spesielle vaktoppdrag når særlige grunner tilsier det. Det skal fremgå av uniformen om personen er godkjent vekter eller under opplæring.
+
+Uniformen skal være godkjent av tillatelses- og kontrollmyndigheten. Det samme gjelder uniformering av materiell. Uniformeringen skal utformes slik at den ikke kan forveksles med politiets, Forsvarets eller tollvesenets uniformering.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 9).*
+
+## § 11. Legitimasjon
+
+Den som utfører vakttjeneste skal bære synlig ID-kort for vektere. Vekteren plikter å oppgi tjenestenummer og foretak når dette forlanges av den som tjenestehandlingen direkte angår eller av politiet.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 10).*
+
+## § 12. Bruk av makt
+
+Den som utfører vakttjeneste, har ingen adgang til bruk av fysisk makt utover den enhver har adgang til, jf. [straffeloven § 18](lov-2005-05-20-28-straffeloven.md) og [straffeprosessloven § 176](lov-1981-05-22-25-straffeprosessloven.md) første ledd, jf. [§ 170 a](lov-1981-05-22-25-straffeprosessloven.md).
+
+Vakttjeneste skal utføres ubevæpnet.
+
+*Tilføyd ved [lover 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342)), endret ved lov [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+## § 13. Bruk av hund
+
+Hund kan bare benyttes til egenbeskyttelse under utførelse av vakttjeneste. Hunden skal føres i kort line.
+
+Bruk av hund under utførelse av vakttjeneste skal være godkjent av vaktforetaket.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 11).*
+
+## § 14. Plikt til å tegne forsikring
+
+Foretak som skal utøve vaktvirksomhet må ha en forsikring som dekker det ansvar foretaket kan pådra seg under utøvelse av vaktvirksomheten. Forsikringen må tegnes før virksomheten settes i gang og opprettholdes så lenge den pågår.
+
+Departementet kan gi nærmere regler om forsikringen. Departementet kan ved forskrift frita forvaltningsorganer som driver ervervsmessig vaktvirksomhet fra plikten til å tegne ansvarsforsikring.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 12).*
+
+## § 15. Krav til kommunikasjonsutstyr
+
+Den som utfører vakttjeneste skal kunne kommunisere med betjent vakt- eller alarmsentral mens vakttjenesten utføres. Vaktforetaket er ansvarlig for at det etableres en forsvarlig kommunikasjonsordning.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 13).*
+
+## § 16. Opplysnings- og rapporteringsplikt
+
+Foretak som utøver vaktvirksomhet plikter å gi tillatelses- og kontrollmyndigheten de opplysninger og den dokumentasjon som er nødvendig for myndighetens kontroll med at virksomheten drives i samsvar med bestemmelser fastsatt i eller i medhold av loven her og på en måte som er forenlig med å utøve næringsvirksomhet.
+
+Foretak som utøver vaktvirksomhet skal hvert år innen utløpet av mars måned sende en rapport til tillatelses- og kontrollmyndigheten. I rapporten skal det redegjøres for foretakets virksomhet i foregående år og gis en liste over ansatte i foretaket som skal utføre vakttjeneste eller har oppgaver direkte knyttet til vakttjeneste.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 14).*
+
+## § 17. Andres meldeplikt
+
+Dersom skatte- og avgiftsmyndighetene, tollmyndighetene eller Arbeidstilsynet avdekker forhold som de har grunn til å anta har vesentlig betydning for vurderingen av om en tillatelse skal trekkes tilbake etter [§ 7](lov-2001-01-05-1-vaktvirksomhetsloven.md), plikter de av eget tiltak og uten hinder av taushetsplikt å informere politiet om dette.
+
+*Tilføyd ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342)).*
+
+## § 18. Vaktvirksomhetsregister
+
+Til bruk for tillatelses- og kontrollmyndigheten skal det opprettes et sentralt elektronisk register over godkjente vaktforetak. Registeret skal kun inneholde opplysninger som er nødvendige for gjennomføringen av tillatelses- og kontrollmyndigheten.
+
+Registeret kan blant annet inneholde opplysninger om de enkelte vaktforetak og gjennomførte kontroller av disse, og opplysninger om ansatte som utfører vakttjeneste eller har oppgaver direkte knyttet til vakttjeneste og de personer som omhandles i [§ 3](lov-2001-01-05-1-vaktvirksomhetsloven.md).
+
+Registeret kan kobles mot andre registre i politiet som er relevante og nødvendige for gjennomføringen av meldeplikten i [§ 8](lov-2001-01-05-1-vaktvirksomhetsloven.md) tredje ledd.
+
+Fortegnelsen over godkjente vaktforetak skal være offentlig.
+
+*Tilføyd ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342)).*
+
+## § 19. Forskrift
+
+Departementet skal gi forskrifter om egenvakthold, krav til uttømmende og utvidet politiattest for personer som nevnt i [§ 3](lov-2001-01-05-1-vaktvirksomhetsloven.md), den nærmere gjennomføringen av [§ 4](lov-2001-01-05-1-vaktvirksomhetsloven.md) første ledd annet punktum (årlig kontroll), [§ 8](lov-2001-01-05-1-vaktvirksomhetsloven.md) første ledd første og annet punktum (kravet om tilfredsstillende vandel og om politiattest), [§ 9](lov-2001-01-05-1-vaktvirksomhetsloven.md) (krav til utdanning, herunder om dispensasjon fra utdanningskravet og om godkjenning av utenlandske utdanninger), [§ 10](lov-2001-01-05-1-vaktvirksomhetsloven.md) (uniformering), [§ 11](lov-2001-01-05-1-vaktvirksomhetsloven.md) (legitimasjon), [§ 13](lov-2001-01-05-1-vaktvirksomhetsloven.md) (bruk av hund) og [§ 16](lov-2001-01-05-1-vaktvirksomhetsloven.md) (opplysnings- og rapporteringsplikt).
+
+Før en behandling etter § 18 kan iverksettes, skal departementet i forskrift fastsette nærmere bestemmelser om
+
+1. formålet med behandlingen,
+2. hvem som er behandlingsansvarlig,
+3. hvilke opplysningskategorier som skal registreres,
+4. hvem i politiet som har tilgang til opplysningene,
+5. og adgangen til å utlevere opplysningene, og
+6. de nærmere regler for retting, sperring og sletting av opplysninger.
+
+Departementet kan i forskrift gi nærmere regler om gjennomføringen av [§ 14](lov-2001-01-05-1-vaktvirksomhetsloven.md) (plikt til å tegne forsikring), herunder frita forvaltningsorganer som driver vaktvirksomhet fra plikten til å tegne ansvarsforsikring.
+
+Departementet kan i forskrift bestemme at det skal betales gebyr ved etablering, drift og kontroll av vaktvirksomhet, og gi nærmere bestemmelser om dette.
+
+Departementet kan gi nærmere forskrifter til øvrig gjennomføring av loven.
+
+*Endret ved lover [19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 15), [2 juni 2023 nr. 19](https://lovdata.no/lov/2023-06-02-19).*
+
+## § 20. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av loven, straffes med bøter eller fengsel i inntil 3 måneder.
+
+*Endret ved [lover 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342)),tidligere § 16, [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+## § 21. Ikraftsetting
+
+1. Loven trer i kraft fra den tid Kongen bestemmer.[1]
+2. Fra samme tid oppheves [lov om vaktvirksomhet av 13. mai 1988 nr. 29](https://lovdata.no/lov/1988-05-13-29).
+3. Forskrifter som er gitt med hjemmel i [lov om vaktvirksomhet av 13. mai 1988 nr. 29](https://lovdata.no/lov/1988-05-13-29) forblir gjeldende inntil departementet bestemmer noe annet.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 17).*
+
+## § 22. Overgangsbestemmelse
+
+Loven gjelder også for den som har fått tillatelse til vaktvirksomhet gitt med hjemmel i [lov om vaktvirksomhet av 13. mai 1988 nr. 29](https://lovdata.no/lov/1988-05-13-29). Vedkommende kan fortsette virksomheten uten å søke om ny tillatelse såfremt tillatelsen ikke strider mot bestemmelser i denne lov.
+
+*Endret ved [lov 19 juni 2009 nr. 85](https://lovdata.no/lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](https://lovdata.no/forskrift/2011-04-01-342), tidligere § 18).*
+
+## Fotnoter
+
+**1.** Fra 1 jan 2002 iflg. [res. 21 des 2001 nr. 1492](https://lovdata.no/forskrift/2001-12-21-1492) for så vidt gjelder ervervsmessig vaktvirksomhet som drives av private, med unntak av [§ 12](lov-2001-01-05-1-vaktvirksomhetsloven.md), [§ 13](lov-2001-01-05-1-vaktvirksomhetsloven.md) og [§ 14](lov-2001-01-05-1-vaktvirksomhetsloven.md) annet ledd. Ved [res. 30 apr 2004 nr. 680](https://lovdata.no/forskrift/2004-04-30-680) er gjenstående deler av loven satt ikr. 1 juli 2004, for så vidt gjelder ervervsmessig vaktvirksomhet som drives av private. For ervervsmessig vaktvirksomhet som drives av forvaltningsorgan, jf. loven [§ 1](lov-2001-01-05-1-vaktvirksomhetsloven.md), gjelder loven fra 1 jan 2005.

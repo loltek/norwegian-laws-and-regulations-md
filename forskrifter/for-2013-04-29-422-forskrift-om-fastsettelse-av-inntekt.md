@@ -1,0 +1,46 @@
+# Forskrift om Arbeids- og velferdsetatens kompetanse til å fastsette pensjonsgivende inntekt
+
+- **Korttittel:** Forskrift om fastsettelse av inntekt
+- **Datokode:** FOR-2013-04-29-422
+- **DokumentID:** SF/forskrift/2013-04-29-422
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavd., Skattedirektoratet
+- **Hjemmel:** lov 28.02.1997 nr. 19/§24-1; forskrift 19.10.2007 nr. 1265
+- **Publisert i:** I 2013 hefte 6
+- **Kunngjort:** 2013-04-30 14:20
+- **I kraft fra:** Fra inntektsåret 2013
+- **Siste endring i kraft:** 2022-01-01
+- **Sist endret ved:** forskrift 16.12.2021 nr. 3663 fra 2022-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 29. april 2013 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 24-1. Tilføyd hjemmel: Delegeringsvedtak 19. oktober 2007 nr. 1265. Endret ved forskrifter 30 okt 2015 nr. 1247, 21 des 2016 nr. 1798, 16 des 2021 nr. 3663 (i kraft 1 jan 2022).
+- **Kilde:** <https://lovdata.no/forskrift/2013-04-29-422>
+
+## § 1. Fastsettelse for visse grupper ved arbeid eller opphold i Norge, på norsk kontinentalsokkel og norskregistrerte skip
+
+(1) Arbeids- og velferdsetaten fastsetter pensjonsgivende inntekt for følgende medlemmer i folketrygden som ikke er skattepliktige til Norge for lønn, pensjon eller næringsinntekt:
+
+a. gjesteforelesere, forskere, lærere og studenter i Norge,
+b. personer ansatt ved internasjonale organisasjoner/skoler i Norge,
+c. personer ansatt ved utenlandske ambassader i Norge,
+d. personer som utøver næringsvirksomhet i Norge og
+e. arbeidstakere som ikke oppholder seg mer enn 183 dager i Norge og som er ansatt av en utenlandsk arbeidsgiver som ikke har fast driftssted i Norge.
+
+(2) Første ledd gjelder både når inntekten ikke er skattepliktig etter norsk intern rett, og når norsk beskatningsrett er begrenset i skatteavtale eller annen folkerettslig overenskomst.
+
+*Endret ved [forskrifter 30 okt 2015 nr. 1247](https://lovdata.no/forskrift/2015-10-30-1247) (i kraft 1 jan 2016), [21 des 2016 nr. 1798](https://lovdata.no/forskrift/2016-12-21-1798) (i kraft 1 jan 2017).*
+
+## § 2. Fastsettelse for personer ved arbeid eller opphold i utlandet
+
+(1) Arbeids- og velferdsetaten fastsetter pensjonsgivende inntekt for personer som ikke er skattepliktige som bosatt i Norge etter [skatteloven § 2-1](../lover/lov-1999-03-26-14-skatteloven.md), som er medlem av folketrygden. Ved opphør av skatteplikt som bosatt etter skatteloven skal Arbeids- og velferdsetaten fastsette pensjonsgivende inntekt fra og med det tidspunkt skatteplikten som bosatt opphører.
+
+(2) Arbeids- og velferdsetaten fastsetter pensjonsgivende inntekt for personer som er frivillige medlemmer av norsk folketrygd og som arbeider i internasjonale organisasjoner, uavhengig av om de er skattepliktig som bosatt i Norge.
+
+*Endret ved [forskrifter 21 des 2016 nr. 1798](https://lovdata.no/forskrift/2016-12-21-1798) (i kraft 1 jan 2017), [16 des 2021 nr. 3663](https://lovdata.no/forskrift/2021-12-16-3663) (i kraft 1 jan 2022).*
+
+## § 3. (Opphevet)
+
+*Opphevet ved [forskrift 21 des 2016 nr. 1798](https://lovdata.no/forskrift/2016-12-21-1798) (i kraft 1 jan 2017).*
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft straks, og gjelder fra og med inntektsåret 2013.

@@ -1,0 +1,121 @@
+# Forskrift for produksjons- og hjelpesystemer på produksjonsanlegg m.v. for utvinning av petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet.
+
+- **Korttittel:** Forskr. om prod- og hjelpesystemer, oljeutvinning
+- **Datokode:** FOR-1978-04-03-9460
+- **DokumentID:** SF/forskrift/1978-04-03-9460
+- **Departement:** Kommunal- og distriktsdepartementet
+- **Etat:** Oljedir.
+- **Hjemmel:** lov 29.11.1996 nr. 72/§12-1; lov 22.03.1985 nr. 11/§57
+- **Publisert i:** I 1978 195, ODs regelsamling
+- **I kraft fra:** 1978-04-03
+- **Siste endring i kraft:** 1992-04-03
+- **Sist endret ved:** forskrift 03.04.1992 nr. 350
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Oljedirektoratet 3. april 1978 med senere endringer, senest 1. juli 1980 i medhold av kgl.res. 9. juli 1976, jfr Industridepartementet delegasjonsvedtak 12. juli 1976. Ved ny sikkerhetsforskrift 28. juni 1985 nr. 1215 ble tilsynet etter denne forskrift av Kommunal- og arbeidsdepartementet delegert til Oljedirektoratet ved vedtak samme dag. Endret ved forskrifter 7. februar 1992 nr. 146, 7. februar 1992 nr. 150, 7. februar 1992 nr. 151, 3. april 1992 nr. 350.
+- **Kilde:** <https://lovdata.no/forskrift/1978-04-03-9460>
+
+## 1 (Opphevet)
+
+*Opphevet ved [forskrift av 7. februar 1992 nr. 151](https://lovdata.no/forskrift/1992-02-07-151).*
+
+## 2 (Opphevet)
+
+*Opphevet ved [forskrift 7. februar 1992 nr. 146](https://lovdata.no/forskrift/1992-02-07-146).*
+
+## 3 og 4 (Opphevet)
+
+*Opphevet ved [forskrift 7. februar 1992 nr. 151](https://lovdata.no/forskrift/1992-02-07-151).*
+
+## 5. Elektriske anlegg, områdeklassifisering
+
+### 5.1. Forskrifter/tilsyn
+
+**5.1.1**
+
+***Forskrifter***
+
+Utførelse, vedlikehold og drift av elektriske anlegg, samt områdeklassifisering, skal være i henhold til:
+
+Forskrifter for elektriske anlegg av 5. desember 1963 med senere endringer. Utferdiget av Det kgl. Departement for Industri og Håndverk og Norges vassdrags- og elektrisitetsvesen.
+
+**5.1.2**
+
+***Tilsyn***
+
+I henhold til delegasjonsvedtak av 12. juli 1976 er myndighet hva angår elektriske anlegg og utstyr på produksjonsanlegg som nevnt i pkt. 1.2, tillagt Oljedirektoratet. Den myndighet, plikt m v som i Forskrifter for elektriske anlegg er tillagt NVE, Elektrisitetstilsynet, Det stedlige tilsyn og Sprengstoffinspeksjonen er ved forskriftenes bruk ved elektriske anlegg på produksjonsanlegg tillagt Oljedirektoratet.
+
+### 5.2. Spesielt om elektrisk utstyr og materiell
+
+**5.2.1**
+
+***Kontrollplikt***
+
+Alt elektrisk utstyr og materiell som er underlagt kontroll i henhold til lov om tilsyn med elektriske anlegg av [24. mai 1929 nr. 4](../lover/lov-1929-05-24-4-el-tilsynsloven.md) skal være kontrollert og godkjent av akseptert prøveinstitusjon. Kravet i forskriftene som nevnt i 5.1.1 ovenfor om at vedkommende kontroll og godkjenning skal utføres av NEMKO, gjelder i den utstrekning Oljedirektoratet finner det hensiktsmessig.  
+*Kommentar:*  
+*Oljedirektoratet vil også kunne akseptere utstyr og materiell som ikke har vært forelagt NEMKO for prøving dersom det kan dokumenteres å være tilfredsstillende i henhold til aksepterte nasjonale eller internasjonale standarder.*
+
+### 5.3. Spesielt om områdeklassifisering
+
+**5.3.1**
+
+***Soneinndeling***
+
+Områder som er eksplosjonsfarlige på grunn av brennbare gasser eller damper skal inndeles i 3 soner, kalt Sone 0, Sone I og Sone 2 avhengig av sannsynlighet for at det foreligger eksplosjonsfarlige gasser og damper.
+
+**5.3.2**
+
+***Utstrekning av soner***
+
+Som retningslinjer for utstrekning av soner kan normer angitt i IEC-79-10 benyttes.
+
+**5.3.3**
+
+***Mekanisk ventilasjon***
+
+**5.3.3.1**
+
+Luftinntak til mekanisk ventilerte områder skal plasseres i sikker avstand fra eksplosjonsfarlige områder, minimum 3 meter, og slik at gassutslipp og ekshaust fra forbrenningsmotorer eller fyrte enheter o l ikke suges inn i området. Ventilasjonsutløp fra ikke eksplosjonsfarlige områder skal plasseres i ikke eksplosjonsfarlig område.
+
+**5.3.3.2**
+
+Ventilasjonsluft inntak og utløp skal plasseres slik at korrekte trykkforhold mellom ikke eksplosjonsfarlige områder og eksplosjonsfarlige områder samt korrekte gjennomstrømningsmengder, kan opprettholdes under alle vindretninger og for alle rimelige vindstyrker.
+
+**5.3.3.3**
+
+Ventilasjonssystemet skal arrangeres slik at man sikrer seg mot å få luft fra eksplosjonsfarlige områder inn i ikke eksplosjonsfarlige områder. Dette skal gjelde både med ventilasjonsanlegget i drift og under stopp av ventilasjonsanlegget.
+
+**5.3.4**
+
+***Overflatetemperaturer***
+
+De krav som gjelder for overflatetemperaturer til elektrisk utstyr i eksplosjonsfarlige områder, skal også gjelde for annet utstyr i disse områder. Ref 13.9.4.
+
+**5.3.5**
+
+***Spesielle typer utstyr***
+
+Områdeklassifisering av spesielle typer utstyr som f eks gassfyrte kjeler og turbiner vil bli behandlet særskilt, basert på utforming og plassering.
+
+## 6 (Opphevet)
+
+*Opphevet ved [forskrift 7. februar 1992 nr. 146](https://lovdata.no/forskrift/1992-02-07-146).*
+
+## 7, 8 og 9 (Opphevet)
+
+*Opphevet ved forskrift [7. februar 1992 nr. 150](https://lovdata.no/forskrift/1992-02-07-150).*
+
+## 10 (Opphevet)
+
+*Opphevet ved [forskrift 3. april 1992 nr. 350](https://lovdata.no/forskrift/1992-04-03-350).*
+
+## 11 (Opphevet)
+
+*Opphevet ved [forskrift 7. februar 1992 nr. 150](https://lovdata.no/forskrift/1992-02-07-150).*
+
+## 12 (Opphevet)
+
+*Opphevet ved [forskrift 7. februar 1992 nr. 146](https://lovdata.no/forskrift/1992-02-07-146).*
+
+## 13 og 14 (Opphevet)
+
+*Opphevet ved [forskrift 7. februar 1992 nr. 150](https://lovdata.no/forskrift/1992-02-07-150).*

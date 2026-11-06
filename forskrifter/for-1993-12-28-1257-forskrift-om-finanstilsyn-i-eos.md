@@ -1,0 +1,63 @@
+# Forskrift om tilsyn med finansforetak og forvaltningsselskap som har hovedsete i annen EØS-stat og som driver virksomhet i Norge mv.
+
+- **Korttittel:** Forskrift om finanstilsyn i EØS
+- **Datokode:** FOR-1993-12-28-1257
+- **DokumentID:** SF/forskrift/1993-12-28-1257
+- **Departement:** Finansdepartementet
+- **Etat:** Finansmarkedsavdelingen
+- **Hjemmel:** lov 07.12.1956 nr. 1/§1; lov 07.12.1956 nr. 1/§2; lov 21.06.2024 nr. 41/§7-1
+- **Publisert i:** Avd I 1993 1633
+- **I kraft fra:** 1994-01-01
+- **Siste endring i kraft:** 2023-11-03
+- **Sist endret ved:** forskrift 03.11.2023 nr. 1776
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Finans- og tolldepartementet 28. desember 1993 med hjemmel i lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. (finanstilsynsloven) § 2, jf. § 1. Tilføyd hjemmel: Lov 21 juni 2024 nr. 41 om Finanstilsynet (finanstilsynsloven) § 7-1 annet ledd. EØS-henvisninger: EØS-avtalen vedlegg IX nr. 2 (direktiv 73/239/EØF endret ved direktiv 88/357/EØF), nr. 7b (direktiv 2005/68/EF), nr. 11 (direktiv 2002/83/EF endret ved direktiv 2002/87/EF, direktiv 2004/66/EF, direktiv 2005/1/EF og direktiv 2005/68/EF), nr. 14 (direktiv 2000/12/EF endret ved direktiv 2000/28/EF, direktiv 2002/87/EF, direktiv 2004/39/EF, 2004/69/EF og direktiv 2005/1/EF), nr. 30 (direktiv 85/611/EØF), nr. 30cb (direktiv 2003/41/EF). Endret ved forskrifter 19 des 1996 nr. 1321 (bl.a. tittel), 30 juni 2006 nr. 864, 3 mai 2007 nr. 467, 8 mai 2007 nr. 498, 27 juni 2008 nr. 768, 18 des 2009 nr. 1726, 9 des 2016 nr. 1528, 15 feb 2019 nr. 147, 5 juli 2023 nr. 1244, 3 nov 2023 nr. 1776.
+- **Kilde:** <https://lovdata.no/forskrift/1993-12-28-1257>
+
+## § 1. Tilsyn fra Finanstilsynet
+
+Finanstilsynet fører tilsyn med livsforsikringsforetak, skadeforsikringsforetak, gjenforsikringsforetak, pensjonsforetak, kredittinstitusjoner, forvaltningsselskap, e-pengeforetak, betalingsforetak og opplysningsfullmektiger som har hovedsete i annen EØS-stat og driver virksomhet i Norge. Tilsynet føres i overensstemmelse med de direktiver som omfattes av EØS-avtalen vedlegg IX, direktiv (EU) [2015/2366](https://lovdata.no/eu/32015l2366*) og lovgivningen for øvrig.
+
+*Endret ved [forskrifter 19 des 1996 nr. 1321](https://lovdata.no/forskrift/1996-12-19-1321), [30 juni 2006 nr. 864](https://lovdata.no/forskrift/2006-06-30-864), [3 mai 2007 nr. 467](https://lovdata.no/forskrift/2007-05-03-467), [27 juni 2008 nr. 768](https://lovdata.no/forskrift/2008-06-27-768), [18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017), [15 feb 2019 nr. 147](https://lovdata.no/forskrift/2019-02-15-147) (i kraft 1 april 2019).*
+
+## § 2. Tilsyn fra vedkommende myndigheter i hjemlandet
+
+Vedkommende myndigheter i hjemlandet har det tilsyn med (den) virksomhet som drives i Norge av utenlandske kredittinstitusjoner, forsikringsforetak, forvaltningsselskap og e-pengeforetak som følger av de direktiver som omfattes av EØS-avtalen vedlegg IX.
+
+Hjemlandets myndigheter kan, etter forutgående melding til Finanstilsynet, foreta stedlig tilsyn i filialer eller datterselskaper omfattet av denne forskriften.
+
+Med hjemland menes i denne paragraf den stat, som er omfattet av EØS-avtalen, der en kredittinstitusjon, et forsikringsforetak, pensjonsforetak, forvaltningsselskap eller e-pengeforetak har fått tillatelse til å utøve sin virksomhet som sådan.
+
+*Endret ved [forskrifter 19 des 1996 nr. 1321](https://lovdata.no/forskrift/1996-12-19-1321), [30 juni 2006 nr. 864](https://lovdata.no/forskrift/2006-06-30-864), [3 mai 2007 nr. 467](https://lovdata.no/forskrift/2007-05-03-467), [18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+## § 3. Samarbeid mellom tilsynsmyndighetene
+
+Finanstilsynet skal utføre tilsynet i samarbeid med tilsynsmyndighetene i andre stater som er omfattet av EØS-avtalen, samt utveksle opplysninger som er nødvendige for dette samarbeidet, i den grad dette følger av EØS-avtalen vedlegg IX. I den grad det følger av EØS-avtalen vedlegg IX, kan Finanstilsynet etter avtale med vedkommende myndighet i et annet land som er omfattet av EØS-avtalen, overføre eller overta tilsynsoppgaver.
+
+*Endret ved [forskrifter 19 des 1996 nr. 1321](https://lovdata.no/forskrift/1996-12-19-1321), [18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009).*
+
+## § 4. Finanstilsynets meldeplikt
+
+Dersom en kredittinstitusjon, et forsikringsforetak, pensjonsforetak, forvaltningsselskap eller e-pengeforetak med hovedsete i Norge mister retten til å drive virksomhet, skal Finanstilsynet umiddelbart gi melding om dette til tilsynsmyndighetene i andre EØS-stater hvor institusjonen driver virksomhet.
+
+Tilsvarende gjelder også i andre tilfeller der Finanstilsynet har meldeplikt overfor tilsynsmyndigheter i andre EØS-stater i samsvar med de direktiver som omfattes av EØS-avtalens vedlegg IX.
+
+*Tilføyd ved [forskrift 19 des 1996 nr. 1321](https://lovdata.no/forskrift/1996-12-19-1321), endret ved [forskrifter 30 juni 2006 nr. 864](https://lovdata.no/forskrift/2006-06-30-864), [3 mai 2007 nr. 467](https://lovdata.no/forskrift/2007-05-03-467), [18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+## § 5. Pålegg om opphør av virksomhet
+
+Finanstilsynet kan pålegge et finansforetak å opphøre med virksomhet her i riket, dersom foretaket har gjort seg skyldig i grov eller vedvarende overtredelse av sine plikter etter andre lover og forskrifter som gjelder her i riket.
+
+*Tilføyd ved [forskrift 9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+## § 6. Forbud mot å råde over eiendeler i riket
+
+Finanstilsynet kan etter anmodning fra tilsynsmyndigheten i foretakets hjemland forby foretak som driver virksomhet her i riket i henhold til denne forskrift, å råde over dets eiendeler her i riket, eller begrense dets rådighet over disse.
+
+*Tilføyd ved [forskrift 9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+## § 7. Ikrafttredelse
+
+Denne forskriften trer i kraft samtidig med at Avtalen om Det europeiske økonomiske samarbeidsområde trer i kraft.
+
+*Endret ved [forskrifter 19 des 1996 nr. 1321](https://lovdata.no/forskrift/1996-12-19-1321) (tidligere [§ 4](https://lovdata.no/forskrift/1996-12-19-1321/§4)), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017, tidligere § 5), [5 juli 2023 nr. 1244](https://lovdata.no/forskrift/2023-07-05-1244) (tidligere § 7), [3 nov 2023 nr. 1776](https://lovdata.no/forskrift/2023-11-03-1776) (tidligere § 8).*

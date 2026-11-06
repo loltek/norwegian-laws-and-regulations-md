@@ -1,0 +1,43 @@
+# Forskrift om barn mellom 12 og 16 år sin rett til selv å samtykke til deltakelse i medisinsk og helsefaglig forskning
+
+- **Korttittel:** Forskrift om barns rett til selv å samtykke til deltakelse i forskning
+- **Datokode:** FOR-2017-06-28-1000
+- **DokumentID:** SF/forskrift/2017-06-28-1000
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavd.
+- **Hjemmel:** lov 20.06.2008 nr. 44/§10; lov 20.06.2008 nr. 44/§17
+- **Kunngjort:** 2017-06-29 14:25
+- **I kraft fra:** 2017-07-01
+- **Siste endring i kraft:** 2018-07-20
+- **Sist endret ved:** forskrift 04.07.2018 nr. 1154 fra 2018-07-20
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 28. juni 2017 med hjemmel i lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning (helseforskningsloven) § 10 fjerde ledd og § 17 syvende ledd. Endret ved forskrift 4 juli 2018 nr. 1154.
+- **Kilde:** <https://lovdata.no/forskrift/2017-06-28-1000>
+
+## § 1. Forskningsprosjekter som barn mellom 12 og 16 år selv kan samtykke til
+
+Etter godkjenning fra regional komité for medisinsk og helsefaglig forskningsetikk (REK), kan barn mellom 12 og 16 år selv samtykke til forskning på helseopplysninger i et begrenset antall, konkret angitte forskningsprosjekter.
+
+I tillegg til kravene etter helseforskningsloven, gjelder følgende vilkår:
+
+a. samfunnsnytten ved prosjektet skal klart overstige ulempene det kan medføre for det enkelte barn å delta i prosjektet,
+b. det må antas at prosjektet ikke kan gjennomføres med foreldresamtykke fordi prosjektet kan avdekke opplysninger som foreldrene, eller andre med foreldreansvar, har egeninteresse i at ikke avdekkes. Det kan blant annet omfatte opplysninger om vold, omsorgssvikt eller andre overgrep fra foreldrene, andre med foreldreansvar eller andre nærstående,
+c. prosjektleder skal på forhånd ha vurdert særskilte utfordringer knyttet til
+   1. gjennomføring av prosjektet og være forberedt på å møte og håndtere situasjoner der det viser seg at barnet han ha behov for helsehjelp, og
+   2. tillitsforholdet mellom barnet og helsetjenesten og forholdet til foreldrene.
+
+Første ledd gjelder ikke forskning som innebærer legemsinngrep eller legemiddelutprøving.
+
+## § 2. Krav til informasjon og samtykke
+
+Samtykket skal være en frivillig, spesifikk, informert og utvetydig viljesytring fra deltakeren der vedkommende ved en erklæring eller tydelig bekreftelse gir sitt samtykke til behandling av helseopplysningene, jf. [helseforskningsloven § 13](../lover/lov-2008-06-20-44-helseforskningsloven.md) flg.
+
+Informasjonen i forkant av samtykket skal skje ansikt til ansikt, være tilpasset barnets forutsetninger og mulighet til å forstå hva samtykket innebærer og omfatte hvordan barnet skal gå fram for å tilbakekalle samtykket. Informasjonen skal også omfatte behandlingen av opplysninger barnet gir til prosjektet og prosjektleders beredskapsplikt dersom det viser seg at barnet kan ha behov for helsehjelp.
+
+Samtykket skal fremkomme uten press og overtalelse. REK kan bestemme at samtykket skal dokumenteres på annen måte enn skriftlig, for eksempel ved hjelp av bilde- og lydopptak eller vitner.
+
+*Endret ved [forskrift 4 juli 2018 nr. 1154](https://lovdata.no/forskrift/2018-07-04-1154) (i kraft 20 juli 2018).*
+
+## § 3. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2017.

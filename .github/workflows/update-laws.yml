@@ -1,0 +1,92 @@
+name: Update laws
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: update-laws
+  cancel-in-progress: false
+
+jobs:
+  update:
+    # Do not run in forks; a fork's scheduled run would update the fork.
+    if: ${{ github.repository == 'loltek/norwegian-laws-and-regulations-md' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update law texts
+        run: tools/laws/update.sh
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain -- lover)" ]; then
+            echo "No changes"
+            exit 0
+          fi
+          git add lover
+          git commit -m "Update laws from Lovdata $(date -u +%F)"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              exit 0
+            fi
+            git rebase --abort || true
+            sleep $((attempt * 5))
+          done
+          exit 1
+
+      - name: Close failure issue
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue list --repo "$GITHUB_REPOSITORY" --state open --limit 100 \
+            --json number,title \
+            --jq '.[] | select(.title | startswith("Automated law update failing")) | .number' |
+          while read -r number; do
+            gh issue close "$number" --repo "$GITHUB_REPOSITORY" \
+              --comment "Update succeeded: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          done
+
+      - name: Open failure issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --limit 100 \
+            --json number,title \
+            --jq '.[] | select(.title | startswith("Automated law update failing")) | .number' |
+            head -n1)
+
+          if [ -n "$existing" ]; then
+            echo "Failure issue #$existing is already open"
+            exit 0
+          fi
+
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Automated law update failing since $(date -u +%F)" \
+            --label automation \
+            --body "The daily Lovdata law update failed.
+
+          - Run: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID
+          - First failure: $(date -u +%F)
+
+          This issue closes automatically after a successful update."

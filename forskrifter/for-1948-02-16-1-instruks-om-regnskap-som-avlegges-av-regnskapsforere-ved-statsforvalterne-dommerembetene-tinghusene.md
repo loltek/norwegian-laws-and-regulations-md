@@ -1,0 +1,20 @@
+# Instruks om regnskap som avlegges av regnskapsførere ved statsforvalterne, dommerembetene, tinghusene og politiet
+
+- **Datokode:** FOR-1948-02-16-1
+- **DokumentID:** INS/forskrift/1948-02-16-1
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Domstolavd.
+- **Hjemmel:** lov/1918-02-08/§2
+- **Publisert i:** II 1948 s 55
+- **I kraft fra:** 1947-01-01
+- **Siste endring i kraft:** 2022-01-01
+- **Sist endret ved:** forskrift 10.12.2021 nr. 3466 fra 2022-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt ved kgl.res. 16. februar 1948 med hjemmel i lov av 8. februar 1918 om statens revisjonsvesen § 2. Fremmet av Justis- og politidepartementet. Endret ved instruks 10 des 2021 nr. 3466 (i kraft 1 jan 2022, bl.a. tittel).
+- **Kilde:** <https://lovdata.no/INS/forskrift/1948-02-16-1>
+
+Regnskaper med bilag, antegnelser, besvarelser og desisjoner til regnskaper som avlegges av regnskapsførere ved statsforvalterne, dommerembetene, påtalemyndigheten, politiet og ved tinghusene, skal sendes direkte til eller fra Riksrevisjonen uten å sendes gjennom departementet. Denne ordning har i noen utstrekning allerede vært gjennomført således for politiet, jfr. regnskapsinstruksen av 21. juni 1937, men blir i framtiden å følge for alle de ekspedisjoner som er nevnt ovenfor.
+
+Riksrevisjonen har pekt på at det i de her omhandlede regnskaper ofte blir pådratt staten utgifter som departementet etter dets praksis skulle ha samtykket i på forhånd. Hvor departementet har gitt sitt skriftlige samtykke, hender det videre ofte at dette ikke blir lagt ved regnskapene hvilket leder til unødig skriftveksling og bryderi. Riksrevisjonen har derfor bedt innskjerpet at departementets samtykke blir innhentet som nevnt, og videre at departementets skriftlige samtykke blir å legge ved regnskapene som bilag til disse.
+
+*Endret ved instruks [10 des 2021 nr. 3466](https://lovdata.no/forskrift/2021-12-10-3466) (i kraft 1 jan 2022).*

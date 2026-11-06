@@ -1,0 +1,86 @@
+# Delegering av Kongens myndighet etter lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven)
+
+- **Datokode:** FOR-2026-06-19-1153
+- **DokumentID:** DEL/forskrift/2026-06-19-1153
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Avdeling for areal-, nærings- og skogpolitikk
+- **Hjemmel:** lov 20.06.2025 nr. 102/§6; lov 20.06.2025 nr. 102/§7; lov 20.06.2025 nr. 102/§8; lov 20.06.2025 nr. 102/§9; lov 20.06.2025 nr. 102/§10; lov 20.06.2025 nr. 102/§11; lov 20.06.2025 nr. 102/§12; lov 20.06.2025 nr. 102/§14; lov 20.06.2025 nr. 102/§16; lov 20.06.2025 nr. 102/§17; lov 20.06.2025 nr. 102/§19; lov 20.06.2025 nr. 102/§20; lov 20.06.2025 nr. 102/§22; lov 20.06.2025 nr. 102/§24; lov 20.06.2025 nr. 102/§25; lov 20.06.2025 nr. 102/§26; lov 20.06.2025 nr. 102/§27; lov 20.06.2025 nr. 102/§28; lov 20.06.2025 nr. 102/§30; lov 20.06.2025 nr. 102/§31; lov 20.06.2025 nr. 102/§32; lov 20.06.2025 nr. 102/§37; lov 20.06.2025 nr. 102/§39; lov 20.06.2025 nr. 102/§42; lov 20.06.2025 nr. 102/§44; lov 20.06.2025 nr. 102/§45; lov 20.06.2025 nr. 102/§46; lov 20.06.2025 nr. 102/§47; lov 20.06.2025 nr. 102/§48; lov 20.06.2025 nr. 102/§49; lov 20.06.2025 nr. 102/§50; lov 20.06.2025 nr. 102/§51; lov 20.06.2025 nr. 102/§52; lov 20.06.2025 nr. 102/§53; lov 20.06.2025 nr. 102/§54; lov 20.06.2025 nr. 102/§55; lov 20.06.2025 nr. 102/§56; lov 20.06.2025 nr. 102/§57; lov 20.06.2025 nr. 102/§58; lov 20.06.2025 nr. 102/§59
+- **Kunngjort:** 2026-06-22 13:20
+- **I kraft fra:** 2026-06-19
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 19. juni 2026 med hjemmel i lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven) § 6 andre ledd, § 7 tredje og fjerde ledd, § 8, § 9 første, andre og femte ledd, § 10 andre og fjerde ledd, § 11 andre og tredje ledd, § 12 første ledd, § 14 andre ledd, § 16 tredje ledd, § 17, § 19 første ledd, § 20, § 22 første ledd tredje punktum og syvende ledd, § 24 tredje ledd, § 25 andre og tredje ledd, § 26 andre ledd, § 27 tredje ledd, § 28 andre punktum, § 30, § 31 andre ledd, § 32 andre og tredje ledd, § 37 andre ledd, § 39 andre ledd, § 42 fjerde og femte ledd, § 44 andre ledd, § 45 tredje og fjerde ledd, § 46 andre og tredje ledd, § 47 andre og tredje ledd, § 48 første og andre ledd, § 49 andre og tredje ledd, § 50 andre ledd, § 51 femte ledd, § 52 første ledd tredje punktum, § 53 første ledd, § 54 første ledd, § 55 femte ledd, § 56, § 57, § 58 første, andre, tredje og femte ledd, § 59 første og fjerde ledd. Fremmet av Landbruks- og matdepartementet.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/2026-06-19-1153>
+
+Kongens myndighet etter [lov om jakt, fangst og felling av vilt mv. (viltressursloven)](../lover/lov-2025-06-20-102-viltressursloven.md) delegeres til Landbruks- og matdepartementet for følgende bestemmelser:
+
+- [§ 6 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) med unntak av opprettelse av regionale rovviltnemnder og særlige samarbeidsorganer knyttet til forvaltning av viltarter som ikke er høstbare og gaupe.
+- [§ 7 tredje](../lover/lov-2025-06-20-102-viltressursloven.md) og [fjerde ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 8](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 9 første](../lover/lov-2025-06-20-102-viltressursloven.md), [andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [femte ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 14 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 16 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 17](../lover/lov-2009-06-19-100-naturmangfoldloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 19 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 20](../lover/lov-2025-06-20-102-viltressursloven.md) med unntak av kompetansekrav knyttet til sanking av fugleegg og dun, samt for viltarter som ikke er høstbare og gaupe.
+- [§ 22 første ledd tredje punktum](../lover/lov-2025-06-20-102-viltressursloven.md) og [syvende ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 24 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 25 andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 26 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 27 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 28 andre punktum](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 30](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 32 andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 37 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 39 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 42 fjerde](../lover/lov-2025-06-20-102-viltressursloven.md) og [femte ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 44 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 49 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for hold av viltarter som er høstbare, unntatt gaupe. Myndigheten gjelder ikke for regler om ansvar og plikter i forbindelse med rømming.
+- [§ 51 femte ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for eiendomsretten til og inndragning av høstbare viltarter som ulovlig holdes fanget, unntatt gaupe, og for verdien av alt vilt som nevnt i [§ 51 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md), samt inndragning etter [§ 51 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 52 første ledd tredje punktum](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 55 femte ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 58 første](../lover/lov-2025-06-20-102-viltressursloven.md) og [andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 58 femte ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som er høstbare, unntatt gaupe.
+- [§ 59 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md) når det gjelder overtredelse av [§ 14 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 59 fjerde ledd](../lover/lov-2025-06-20-102-viltressursloven.md) når det gjelder [§ 14 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+
+Kongens myndighet etter [lov om jakt, fangst og felling av vilt mv. (viltressursloven)](../lover/lov-2025-06-20-102-viltressursloven.md) delegeres til Klima- og miljødepartementet for følgende bestemmelser:
+
+- [§ 6 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) når det gjelder opprettelse av regionale rovviltnemnder og særlige samarbeidsorganer knyttet til forvaltning av viltarter som ikke er høstbare og gaupe.
+- [§ 7 tredje](../lover/lov-2025-06-20-102-viltressursloven.md) og [fjerde ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 8](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 10 andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [fjerde ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 11 andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 12 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 14 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 16 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 17](../lover/lov-2009-06-19-100-naturmangfoldloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 19 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 20](../lover/lov-2025-06-20-102-viltressursloven.md) for sanking av fugleegg og dun, samt for viltarter som ikke er høstbare og gaupe.
+- [§ 22 første ledd tredje punktum](../lover/lov-2025-06-20-102-viltressursloven.md) og [syvende ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 24 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 25 andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 26 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 27 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 28 andre punktum](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 30](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 31 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 32 andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 37 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 39 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 45 tredje](../lover/lov-2025-06-20-102-viltressursloven.md) og [fjerde ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 46 andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 47 andre](../lover/lov-2025-06-20-102-viltressursloven.md) og [tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 48 første](../lover/lov-2025-06-20-102-viltressursloven.md) og [andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 49 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe. Myndigheten gjelder også for regler om ansvar og plikter i forbindelse med rømming.
+- [§ 49 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 50 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 51 femte ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for eiendomsretten til og inndragning av alle viltarter som er ulovlig felt, ulovlig innført til Norge, fallvilt, vilt som er avlivet med hjemmel i [naturmangfoldloven §§ 17](../lover/lov-2009-06-19-100-naturmangfoldloven.md), [17a](../lover/lov-2009-06-19-100-naturmangfoldloven.md) og [18](../lover/lov-2009-06-19-100-naturmangfoldloven.md), forlatte egg og egg som er oppbevart, omsatt, ervervet eller overdratt i strid med [§ 50](../lover/lov-2025-06-20-102-viltressursloven.md) og viltarter som ikke er høstbare og gaupe som ulovlig holdes fanget.
+- [§ 53 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 54 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 55 femte ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 56](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 57](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 58 første](../lover/lov-2025-06-20-102-viltressursloven.md) og [andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 58 tredje ledd](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 58 femte ledd](../lover/lov-2025-06-20-102-viltressursloven.md) for viltarter som ikke er høstbare og gaupe.
+- [§ 59 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md) når det gjelder [§ 50 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md), [§ 54 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md), [§ 56](../lover/lov-2025-06-20-102-viltressursloven.md) og [§ 57](../lover/lov-2025-06-20-102-viltressursloven.md).
+- [§ 59 fjerde ledd](../lover/lov-2025-06-20-102-viltressursloven.md) når det gjelder [§ 50 andre ledd](../lover/lov-2025-06-20-102-viltressursloven.md), [§ 54 første ledd](../lover/lov-2025-06-20-102-viltressursloven.md), [§ 56](../lover/lov-2025-06-20-102-viltressursloven.md) og [§ 57](../lover/lov-2025-06-20-102-viltressursloven.md).

@@ -1,0 +1,26 @@
+# Forskrift om internrevisjon i Arbeids- og velferdsetaten.
+
+- **Korttittel:** Forskrift om internrevisjon i NAV
+- **Datokode:** FOR-2006-06-30-745
+- **DokumentID:** SF/forskrift/2006-06-30-745
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Velferdspolitisk avd.
+- **Hjemmel:** lov 16.06.2006 nr. 20/§12
+- **Publisert i:** I 2006 hefte 9
+- **Kunngjort:** 2006-06-30
+- **I kraft fra:** 2006-07-01
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt av Arbeids- og inkluderingsdepartementet 30. juni 2006 med hjemmel i lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) § 12 første ledd.
+- **Kilde:** <https://lovdata.no/forskrift/2006-06-30-745>
+
+## § 1. Etablering av internrevisjon
+
+Det etableres en internrevisjon i Arbeids- og velferdsetaten. Internrevisjonen skal ha en uavhengig stilling og arbeide etter internasjonalt anerkjente standarder. Revisjonsdirektøren rapporterer faglig og administrativt til arbeids- og velferdsdirektøren. Denne fastsetter nærmere instruks for revisjonens virksomhet.
+
+## § 2. Arbeidsområde
+
+Internrevisjonens arbeidsområde omfatter all virksomhet i Arbeids- og velferdsetaten, herunder også den kommunale delen av NAV-kontorene, samt virksomheter som forvalter eller er mottakere av tilskudd over Arbeids- og velferdsetatens budsjett. Internrevisjonen har tilgang til informasjon, medarbeidere og lokaler så langt det er nødvendig for å vurdere Arbeids- og velferdsetatens virksomhet og ansvarsområder. Kommunale revisjonsinstanser har tilsvarende tilgang til informasjon, medarbeidere og lokaler i den statlige delen i vedkommende NAV-kontor så langt det er nødvendig for å vurdere kommunens virksomhet og ansvarsområder. Revisjonsinstansene koordinerer sin revisjonsvirksomhet på NAV-kontorene.
+
+## § 3. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2006.

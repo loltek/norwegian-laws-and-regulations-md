@@ -1,0 +1,17 @@
+# Iverksetjing av lov 9. juni 1989 nr. 32 om avleveringsplikt for allment tilgjengelege dokument. Delegering av fullmakt. Oppheving av forskrift om avlevering av trykksaker til offentlige biblioteker og kgl.res. om pliktavlevering av offentlige publikasjoner.
+
+- **Korttittel:** Delegering etter lov 9. juni 1989 nr. 32
+- **Datokode:** FOR-1990-05-25-366
+- **DokumentID:** DEL/forskrift/1990-05-25-366
+- **Departement:** Kultur- og likestillingsdepartementet
+- **Etat:** Kulturavd.
+- **Hjemmel:** lov 09.06.1989 nr. 32
+- **Publisert i:** I 1990 365
+- **I kraft fra:** 1990-07-01
+- **Gjelder for:** Norge
+- **Merknad:** Fastsett ved kgl.res. av 25. mai 1990. Fremja av Kyrkje- og kulturdepartementet.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/1990-05-25-366>
+
+I. [Lov av 9. juni 1989 nr. 32](https://lovdata.no/lov/1989-06-09-32) om avleveringsplikt for allment tilgjengelig dokument vert sett i verk frå 1. juli 1990. Frå same tidspunktet vert [lov av 9. juni 1939 nr. 2](https://lovdata.no/lov/1939-06-09-2) om avleveringsplikt av trykksaker til offentlige biblioteker med tilhøyrande forskrifter av 12. september 1940 om avlevering av trykksaker til offentlige biblioteker og kgl.res. av 8. juni 1956 om pliktavlevering av offentlige publikasjoner oppheva.
+II. Dei fullmaktene som Kongen har etter §§ 4, 5 og 7 i lova, vert delegerte til Kyrkje- og kulturdepartementet.
+III. Kyrkje- og kulturdepartementet får fullmakt til å fastsetja ein instruks for forvaltninga av det materialet som tilkjem staten etter den nye lova.

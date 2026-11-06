@@ -1,0 +1,133 @@
+# Forskrift til utfylling og gjennomføring av reglene i lov om skatt på honorar til utenlandske artister mv
+
+- **Korttittel:** Forskrift til artistsskatteloven
+- **Datokode:** FOR-1997-12-17-1400
+- **DokumentID:** SF/forskrift/1997-12-17-1400
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavd.
+- **Hjemmel:** lov 13.12.1996 nr. 87/§10
+- **Publisert i:** Avd I 1997 2431
+- **I kraft fra:** Fra og med inntektsåret 1998
+- **Siste endring i kraft:** 2017-01-01
+- **Sist endret ved:** forskrift 09.12.2016 nr. 1506 fra 2017-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Finans- og tolldepartementet (nå Finansdepartementet) 17. desember 1997 med hjemmel i lov av 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister mv (artistskatteloven) § 10. Endret ved forskrifter 26 juni 2002 nr. 747, 21 des 2007 nr. 1770, 19 des 2008 nr. 1489, 22 des 2008 nr. 1582, 18 aug 2010 nr. 1196, 9 des 2016 nr. 1506.
+- **Kilde:** <https://lovdata.no/forskrift/1997-12-17-1400>
+
+## I
+
+### Kapittel 1. Alminnelige bestemmelser
+
+#### § 1-1. Virkeområde
+
+(1) Denne forskrift gjelder utfylling og gjennomføring av reglene i [lov 13. desember 1996 nr. 87](../lover/lov-1996-12-13-87-artistskatteloven.md) om skatt på honorar til utenlandske artister m.v. (artistskatteloven).
+
+(2) Skatt etter artistskatteloven skal svares uavhengig av om artisten er engasjert av andre eller arrangerer forestillingen selv.
+
+*Endret ved [forskrift 19 des 2008 nr. 1489](https://lovdata.no/forskrift/2008-12-19-1489) (fom inntektsåret 2009 for artister som blir skattmessig bosatt i Norge i 2010 eller senere).*
+
+#### § 1-2. Skattepliktens omfang
+
+Plikten til å svare skatt av inntekt fra artistvirksomhet gjelder uavhengig av om inntekten tilfaller artisten selv, dennes representant/oppdragsgiver eller et foretak.
+
+### Kapittel 2. Skattegrunnlaget
+
+#### § 2-1. Bruttoinntekt
+
+(1) Som bruttoinntekt i [artistskatteloven § 3](../lover/lov-1996-12-13-87-artistskatteloven.md) første ledd regnes enhver skattepliktig ytelse som opptjenes i forbindelse med artistaktivitet i Norge, uten hensyn til om betalingen skjer før, under eller etter oppholdet.
+
+(2) Det skal ikke svares skatt av godtgjørelse til dekning av transport, kost og losji i forbindelse med arrangementet.
+
+(3) Når artisten arrangerer forestillingen selv, inngår billettinntektene og eventuelt annet vederlag for opptredenen i beregningsgrunnlaget for skatt.
+
+(4) Inntekt som agent mv mottar på vegne av artisten inngår i skattegrunnlaget på vanlig måte.
+
+#### § 2-2. Verdsettelse av naturalytelser
+
+(1) Verdien av skattepliktige naturalytelser medregnes i skattegrunnlaget med varens eller tjenestens normale omsetningsverdi på utbetalingstidspunktet.
+
+(2) Dersom naturalytelsens faktiske omsetningsverdi er påviselig lavere som følge av sesongsvingninger, ukurans mv, kan naturalytelsen likevel verdsettes til denne lavere verdi. Yteren må i tilfelle påvise lavere verdi på overdragelsestidspunktet.
+
+(3) Yteren plikter å vedlegge sine regnskaper all nødvendig dokumentasjon mv av betydning for verdsettelsen.
+
+#### § 2-3. Fordeling av inntekt ved kombinert virksomhet
+
+(1) Omfatter utbetaling til artist også honorar for aktivitet som faller utenfor artistskatteloven, fordeles utbetalingen forholdsmessig mellom de ulike aktivitetene. Utgifter som nevnt i [§ 2-4](for-1997-12-17-1400-forskrift-til-artistsskatteloven.md) fordeles på samme måte.
+
+(2) Når opptredenen er av dominerende art, skattlegges hele inntekten etter artistskatteloven.
+
+#### § 2-4. Fradrag for utgifter
+
+(1) Bruttoinntekten i [§ 2-1](for-1997-12-17-1400-forskrift-til-artistsskatteloven.md) reduseres med artistens utgifter til agentprovisjon samt utgifter til transport, kost og losji i forbindelse med artistaktiviteten i Norge.
+
+(2) Fradrag gis for faktiske utgifter som kan dokumenteres med originalbilag. Kan artisten ikke dokumentere hvor mye av utgiftene som knytter seg til arrangementet i Norge, er fradragsretten begrenset til 5 pst av bruttoinntektene.
+
+(3) For utgifter til kost og bruk av eget transportmiddel kan det i stedet kreves fradrag for sannsynliggjorte utgifter etter satser som fastsettes årlig av Skattedirektoratet.
+
+(4) Ved krav om fradrag for utgifter til bruk av eget transportmiddel anses ikke avskrivninger, vedlikeholdsutgifter, forsikringer og avgifter som utgifter til transport i forbindelse med artistaktiviteten i Norge.
+
+(5) Foregående ledd gjelder også for artistens dekning av utgifter til transport, kost og losji for utenlandske medarbeidere som deltar på reisen.
+
+(6) Fradragsrett for agentprovisjon omfatter vederlag til agent som har etablert direkte kontakt med arrangør av arrangementet i Norge.
+
+#### § 2-5. Skattefritak for visse typer arrangementer
+
+(1) Søknad om skattefritak etter [artistskatteloven § 5](../lover/lov-1996-12-13-87-artistskatteloven.md) skal sendes skattekontoret senest samtidig med melding som nevnt i [skatteforvaltningsforskriften § 8-8-1](for-2016-11-23-1360-skatteforvaltningsforskriften.md).
+
+(2) Dokumentasjon for at arrangementet er et ledd i en kulturutveksling med en annen stat som oppfyller vilkårene i første ledd, skal vedlegges søknaden.
+
+(3) Skatt på honorar blir å innbetale til fastsatt tid selv om søknaden ikke er avgjort innen fristen i [artistskatteloven § 9](../lover/lov-1996-12-13-87-artistskatteloven.md).
+
+*Endret ved [forskrifter 21 des 2007 nr. 1770](https://lovdata.no/forskrift/2007-12-21-1770) (i kraft 1 jan 2008), [9 des 2016 nr. 1506](https://lovdata.no/forskrift/2016-12-09-1506) (i kraft 1 jan 2017).*
+
+### Kapittel 3. Meldeplikt, oppgaveplikt og opplysningsplikt
+
+*Endret ved [forskrift 19 des 2008 nr. 1489](https://lovdata.no/forskrift/2008-12-19-1489) (fom inntektsåret 2009).*
+
+#### § 3-1. (Opphevet)
+
+*Endret ved [forskrift 21 des 2007 nr. 1770](https://lovdata.no/forskrift/2007-12-21-1770) (i kraft 1 jan 2008), opphevet ved [forskrift 9 des 2016 nr. 1506](https://lovdata.no/forskrift/2016-12-09-1506) (i kraft 1 jan 2017).*
+
+#### § 3-2. (Opphevet)
+
+*Endret ved [forskrift 21 des 2007 nr. 1770](https://lovdata.no/forskrift/2007-12-21-1770) (i kraft 1 jan 2008), opphevet ved [forskrift 9 des 2016 nr. 1506](https://lovdata.no/forskrift/2016-12-09-1506) (i kraft 1 jan 2017).*
+
+#### § 3-3. Oppgaveplikt
+
+Oppgaveplikt etter [skatteforvaltningsloven § 7-2](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) inntrer fra og med inntektsåret forut for det inntektsår da vilkårene i [skatteloven § 2-1](../lover/lov-1999-03-26-14-skatteloven.md) annet ledd for å anses som bosatt, er oppfylt. Oppgaveplikten for tiden før bosettingsvilkårene blir oppfylt gjelder bare for inntekter fra den som er arbeidsgiver når bosettingsvilkårene blir oppfylt.
+
+*Tilføyd ved [forskrift 19 des 2008 nr. 1489](https://lovdata.no/forskrift/2008-12-19-1489) (fom inntektsåret 2009), endret ved [forskrifter 18 aug 2010 nr. 1196](https://lovdata.no/forskrift/2010-08-18-1196) (fom inntektsåret 2009), [9 des 2016 nr. 1506](https://lovdata.no/forskrift/2016-12-09-1506) (i kraft 1 jan 2017).*
+
+#### § 3-4. (Opphevet)
+
+*Endret ved [forskrifter 21 des 2007 nr. 1770](https://lovdata.no/forskrift/2007-12-21-1770) (i kraft 1 jan 2008), [19 des 2008 nr. 1489](https://lovdata.no/forskrift/2008-12-19-1489) (fom inntektsåret 2009, tidligere § 3-3), opphevet ved [forskrift 9 des 2016 nr. 1506](https://lovdata.no/forskrift/2016-12-09-1506) (i kraft 1 jan 2017).*
+
+### Kapittel 4. Skatteberegning og skattetrekk
+
+#### § 4-1. Skattetrekk
+
+Den trekkpliktige skal foreta skattetrekk når han utbetaler eller på annen måte gir oppgjør for godtgjørelsen mv til artisten, eller på det tidspunkt da det oppstår adgang for artisten til å få godtgjørelsen utbetalt. Ved forskuddsutbetaling skal det foretas skattetrekk i forskuddet.
+
+*Endret ved [forskrift 22 des 2008 nr. 1582](https://lovdata.no/forskrift/2008-12-22-1582) (i kraft 1 jan 2009, tidligere § 4-3).*
+
+#### § 4-2. Regnskapsføring
+
+Regnskapspliktige skal føre skattetrekk etter artistskatteloven på egen konto i regnskapet.
+
+*Endret ved [forskrift 22 des 2008 nr. 1582](https://lovdata.no/forskrift/2008-12-22-1582) (i kraft 1 jan 2009, tidligere § 4-4).*
+
+### Kapittel 5. (Opphevet)
+
+*Kapitlet opphevet ved [forskrift 9 des 2016 nr. 1506](https://lovdata.no/forskrift/2016-12-09-1506) (i kraft 1 jan 2017).*
+
+#### § 5-1. (Opphevet)
+
+*Opphevet ved [forskrift 9 des 2016 nr. 1506](https://lovdata.no/forskrift/2016-12-09-1506) (i kraft 1 jan 2017).*
+
+#### § 5-2. (Opphevet)
+
+*Tilføyd ved [forskrift 21 des 2007 nr. 1770](https://lovdata.no/forskrift/2007-12-21-1770) (i kraft 1 jan 2008), opphevet ved [forskrift 9 des 2016 nr. 1506](https://lovdata.no/forskrift/2016-12-09-1506) (i kraft 1 jan 2017).*
+
+## II
+
+Denne forskrift trer i kraft med virkning fra og med inntektsåret 1998.

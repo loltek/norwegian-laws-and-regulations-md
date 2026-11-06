@@ -1,0 +1,181 @@
+# Forskrift om beregning av ansvarlig kapital for banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak
+
+- **Korttittel:** Forskrift om beregning av ansvarlig kapital
+- **Datokode:** FOR-1990-06-01-435
+- **DokumentID:** SF/forskrift/1990-06-01-435
+- **Departement:** Finansdepartementet
+- **Etat:** Finansmarkedsavd.
+- **Hjemmel:** lov 07.12.1956 nr. 1/§1; lov 07.12.1956 nr. 1/§4; forskrift 15.06.1990 nr. 453; lov 05.07.2002 nr. 64/§4-5; lov 10.06.2005 nr. 44/§6-3; lov 29.06.2007 nr. 75/§9-15; lov 25.11.2011 nr. 44/§2-8; lov 10.04.2015 nr. 17/§14-1; lov 10.04.2015 nr. 17/§23-2; lov 21.06.2024 nr. 41/§7-1
+- **Publisert i:** I 1990 422
+- **I kraft fra:** 1991-03-31
+- **Siste endring i kraft:** 2024-01-01
+- **Sist endret ved:** forskrift 20.12.2023 nr. 2228 fra 2024-01-01
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2019-09-24 (§ 16)
+- **Merknad:** Hjemmel: Fastsatt av Finans- og tolldepartementet 1. juni 1990 med hjemmel i lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner (finansieringsvirksomhetsloven) § 2-9 annet ledd, § 2-9a, § 2b-2 og § 3-1, lov 24. mai 1961 nr. 2 om forretningsbanker § 21, lov 24. mai 1961 nr. 1 om sparebanker § 2, lov 10. juni 1988 nr. 39 om forsikringsvirksomhet § 7-3, lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. (finanstilsynsloven) § 4, jf. § 1 annet ledd, lov 19. juni 1997 nr. 79 om verdipapirhandel § 6-2 annet ledd og § 8-10 annet ledd. Tilføyd hjemmel: Lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsvirksomhetsloven) § 6-3. Lov 25. november 2011 nr. 44 om verdipapirfond (verdipapirfondloven) § 2-8. Lov 5. juli 2002 nr. 64 om registrering av finansielle instrumenter (verdipapirregisterloven) § 4-5. Lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven) § 9-15. Lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 14-1 først ledd. Tilføyd hjemmel: Lov 21 juni 2024 nr. 41 om Finanstilsynet (finanstilsynsloven) § 7-1 annet ledd. EØS-henvisninger: EØS-avtalen vedlegg IX nr. 14 (direktiv 2006/48/EF) og nr. 31 (direktiv 2006/49/EF). Endret ved forskrifter 22 okt 1990 nr. 875 (ikrafttredelse), 26 juli 1991 nr. 525, 26 juni 1992 nr. 504, 23 des 1992 nr. 1202, 17 juli 1996 nr. 781, 28 nov 1996 nr. 1132, 7 nov 1997 nr. 1153, 10 mai 1999 nr. 562, 11 jan 2000 nr. 22, 17 mars 2000 nr. 276, 14 mai 2001 nr. 501, 28 sep 2001 nr. 1113, 22 des 2003 nr. 1770, 20 des 2005 nr. 1602, 14 des 2006 nr. 1507, 4 april 2008 nr. 339, 18 des 2009 nr. 1726, 20 des 2010 nr. 1717, 24 jan 2011 nr. 69, 21 des 2011 nr. 1467, 22 aug 2014 nr. 1103, 9 des 2016 nr. 1528, 18 des 2017 nr. 2202, 19 des 2019 nr. 2111 (i kraft 31 des 2019), 20 des 2023 nr. 2228 (i kraft 1 jan 2024). Rettelser: 05.01.2011 (hjemmelsfelt), 20.11.2014 (§ 20), 24.09.2019 (§ 16).
+- **Kilde:** <https://lovdata.no/forskrift/1990-06-01-435>
+
+## § 1. Virkeområde
+
+Del A i denne forskrift gjelder for forvaltningsselskaper for verdipapirfond og forvaltere av alternative investeringsfond som ikke har tillatelse til å drive aktiv forvaltning, oppgjørssentraler og pensjonsforetak, og angir hvordan den ansvarlige kapital i disse foretakene defineres og beregnes i samsvar med de lovmessige minstekrav og krav om forsvarlig kapitaldekning.
+
+Del B i denne forskrift gjelder for banker, kredittforetak, finansieringsforetak, holdingforetak i finanskonsern som ikke er forsikringskonsern, verdipapirforetak og forvaltningsselskaper for verdipapirfond og forvaltere av alternative investeringsfond som har tillatelse til å drive aktiv forvaltning, og angir hvordan den ansvarlige kapital i disse foretakene defineres og beregnes i samsvar med de lovmessige minstekrav og krav om forsvarlig kapitaldekning.
+
+*Endret ved [forskrifter 17 juli 1996 nr. 781](https://lovdata.no/forskrift/1996-07-17-781) (i kraft 31 des 1996), [7 nov 1997 nr. 1153](https://lovdata.no/forskrift/1997-11-07-1153) (i kraft 1 des 1997), [14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007), [22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+## Del A
+
+*Tilføyd ved [forskrift 22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014).*
+
+### § 2. Ansvarlig kapital
+
+Den ansvarlige kapitalen består av kjernekapital (§ 3) og tilleggskapital (§ 4). Kjernekapitalen består av egenkapital (ren kjernekapital) og annen godkjent kjernekapital. Ved beregningen gjelder fradrag, tillegg og begrensninger i henhold til [§ 7](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) til [§ 9](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md).
+
+*Endret ved [forskrifter 14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007), [20 des 2010 nr. 1717](https://lovdata.no/forskrift/2010-12-20-1717) (i kraft 1 jan 2011), [22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014).*
+
+### § 3. Egenkapital (ren kjernekapital)
+
+Ren kjernekapital kan bestå av følgende poster:
+
+1. Innbetalt ordinær vedtektsfestet aksjekapital.
+2. Overkursfond.
+3. Utjevningsfond.
+4. Innbetalt ordinær vedtektsfestet eierandelskapital.
+5. Annen opptjent og annen innskutt egenkapital. Utstedt kapital, herunder interessentinnskudd, omfattes ikke.
+6. Akkumulert overskudd i henhold til offentliggjort og revisorbekreftet delårsregnskap forutsatt at beløpet reduseres med påregnelig skatt og utbytte, og at tapsgjennomgang er foretatt i samsvar med forskrifter for regnskapsmessig behandling av utlån og garantier i finansinstitusjoner. Ved bruk av egenkapitalmetoden i selskapsregnskapet skal periodens overføring til fond for vurderingsforskjeller komme til fradrag ved beregning av akkumulert overskudd etter første punktum.
+7. Fond for urealiserte gevinster.
+8. Kapitalinnskudd i pensjonskasser som etter Finansdepartementets samtykke kan likestilles med kjernekapital.
+9. Andel av bufferfond i pensjonskasser tilsvarende det beløp som kunne vært inntektsført i henhold til [forsikringsvirksomhetsloven § 3-19 tredje ledd](../lover/lov-2005-06-10-44-forsikringsvirksomhetsloven.md) dersom det hadde vært et årsregnskap.
+
+Finansdepartementet kan i særlige tilfelle og for en tidsbegrenset periode samtykke i at annen kapital kan likestilles med egenkapital.
+
+*Endret ved [forskrifter 28 nov 1996 nr. 1132](https://lovdata.no/forskrift/1996-11-28-1132), [11 jan 2000 nr. 22](https://lovdata.no/forskrift/2000-01-11-22) (fom regnskapsåret 1999), [14 mai 2001 nr. 501](https://lovdata.no/forskrift/2001-05-14-501) (fom kvartalsregnskap som avlegges for 1. kvartal 2001), [28 sep 2001 nr. 1113](https://lovdata.no/forskrift/2001-09-28-1113), [14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007), [4 april 2008 nr. 339](https://lovdata.no/forskrift/2008-04-04-339), [18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009), [20 des 2010 nr. 1717](https://lovdata.no/forskrift/2010-12-20-1717) (i kraft 1 jan 2011), [24 jan 2011 nr. 69](https://lovdata.no/forskrift/2011-01-24-69), [22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017), [20 des 2023 nr. 2228](https://lovdata.no/forskrift/2023-12-20-2228) (i kraft 1 jan 2024).*
+
+### § 3a. Annen godkjent kjernekapital (hybridkapital, herunder fondsobligasjonskapital)
+
+Kapital som er godkjent i henhold til reglene nedenfor kan medregnes som annen kjernekapital. Finansdepartementet kan fastsette nærmere regler om annen kjernekapital.
+
+Typer kapital som kan medregnes er
+
+a. i) kapital uten fastsatt løpetid med moderate incentiver til tilbakebetaling, og ii) kapital uten incentiver til tilbakebetaling med fastsatt løpetid på minimum 30 år hvor kravet om tilbakebetaling kan suspenderes
+b. kapital uten fastsatt løpetid og uten incentiver til tilbakebetaling
+c. kapital som ikke kan tilbakebetales og som kan konverteres til ordinære aksjer eller egenkapitalbevis.
+
+Kapital som nevnt i foregående ledd kan medregnes som annen kjernekapital når følgende vilkår er oppfylt.
+
+a. *Generelle vilkår*
+   1. Kapitalen må være fullt innbetalt, være usikret, og stå tilbake for institusjonens ansvarlige lånekapital.
+   2. Finanstilsynet må ha gitt samtykke til opptak av kapitalen.
+b. *Løpetid og tilbakebetaling*
+   1. Kreditor kan ikke kreve førtidig innfrielse av kapitalen. Låntaker kan ikke innfri eller kjøpe tilbake hele eller deler av kapital uten samtykke fra Finanstilsynet. Finanstilsynet kan forlenge løpetiden dersom Finanstilsynet finner at dette er nødvendig av hensyn til låntakerens soliditet eller finansielle situasjon.
+   2. Låntaker skal ikke ha rett til å tilbakebetale kapitalen før 5 år etter utstedelsesdagen. For kapital med moderat incentiv til tilbakebetaling kan likevel første mulige tilbakebetalingstidspunkt tidligst være 10 år etter utstedelsesdagen. For kapital med fastsatt løpetid skal kapitalen ikke kunne tilbakebetales før fastsatt forfallstidspunkt.
+c. *Fleksibilitet med hensyn til å utbetale rente*
+   1. Låntakeren skal kunne la være å utbetale renter på annen godkjent kjernekapital. Kravet på utbetaling av renter skal bortfalle ved brudd på kapitalkrav. Renter skal ikke akkumuleres. Finanstilsynet kan pålegge låntaker å stoppe renteutbetalinger av hensyn til låntakerens soliditet eller finansielle situasjon. I tilfeller hvor Finanstilsynet stopper renteutbetaling på annen godkjent kjernekapital for en låntaker som oppfyller kapitalkravene, skal låntakeren i stedet kunne benytte aksjer eller egenkapitalbevis som betaling etter nærmere regler fastsatt av Finanstilsynet.
+   2. For annen godkjent kjernekapital der utdeling av utbytte gir plikt til utbetaling av rente, skal plikten bortfalle ved brudd på kapitalkrav eller dersom Finanstilsynet gir pålegg om stopp i utbetalingen av rente. Utdeling av utbytte til aksjonærene eller egenkapitalbeviseierne i form av aksjer eller egenkapitalbevis skal ikke gi plikt til utbetaling av rente på annen godkjent kjernekapital.
+d. *Evne til å dekke tap*
+   1. Hvis låntakers kjernekapitaldekning faller under 5 prosent, eller låntakers kapitaldekning faller under 8 prosent av risikovektet beregningsgrunnlag, eller under andre fastsatte minstekrav, skal annen godkjent kjernekapital etter [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) annet ledd bokstav a) og b) kunne skrives ned for å dekke resultatført underskudd i årsregnskapet eller annet konstatert tap under løpende drift med samme prioritet (pro rata) som nedskriving av egenkapital etter [§ 3](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) eller kunne konverteres til egenkapital. Finanstilsynet kan fastsette nærmere regler om slik nedskrivning og konvertering.
+   2. Hvis annen godkjent kjernekapital etter [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) annet ledd bokstav a) og b) skrives ned, kan den skrives opp igjen ved at den tildeles en andel av fremtidige resultater tilsvarende sin andel av kjernekapitalen etter nedskrivning. I perioden som annen godkjent kjernekapital er skrevet ned, bortfaller kravet på rente.
+   3. Annen godkjent kjernekapital etter [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) annet ledd bokstav a) og b) skrives ned med endelig virkning dersom hele den innskutte egenkapitalen er nedskrevet.
+   4. Ved brudd på kapitalkrav skal annen godkjent kjernekapital etter [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) annet ledd bokstav c) konverteres til ordinær aksjekapital eller ordinær egenkapitalbeviskapital. Finanstilsynet kan i tillegg kreve konvertering dersom dette anses nødvendig av hensyn til låntakers soliditet eller finansielle situasjon forøvrig. Konverteringskursen bestemmes av markedsverdien for aksjene eller egenkapitalbevisene på utstedelsesdagen for den aktuelle andre godkjente kjernekapitalen. Långiverne skal få færre aksjer eller egenkapitalbevis hvis aksjekursen har steget, men ikke flere aksjer eller egenkapitalbevis hvis aksjekursen er redusert.
+
+*Tilføyd ved [forskrift 20 des 2010 nr. 1717](https://lovdata.no/forskrift/2010-12-20-1717) (i kraft 1 jan 2011), endret ved [forskrift 22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014).*
+
+### § 4. Tilleggskapital
+
+Tilleggskapitalen kan bestå av følgende poster:
+
+1. Ansvarlig lånekapital uten fastsatt løpetid som oppfyller følgende vilkår:
+   a. Særskilt samtykke fra myndighetene for opptak av slik kapital må foreligge.
+   b. Midlene skal ikke kunne tilbakebetales på kreditors initiativ eller uten Finanstilsynets forhåndssamtykke.
+   c. Midlene må kunne anvendes til dekning av tap eller underskudd uten at institusjonens virksomhet opphører.
+   d. Låneavtalen skal inneholde en rett for låntaker til å utsette renteutbetalinger.
+2. Ansvarlig lånekapital med fastsatt løpetid som tilfredsstiller følgende vilkår:
+   - Særskilt samtykke fra myndighetene for opptak av lånekapitalen må foreligge.
+   - Lånekapitalen skal være usikret og skal stå tilbake for institusjonens alminnelige gjeld, samt være fullt innbetalt.
+   - Lånet må ha en løpetid på minst 5 år. I de siste 5 år før avtalt forfall av lånet, eller av deler av lånet, skal den delen av lånekapital som kan medregnes som tilleggskapital hvert år reduseres med 20 prosent av det beløp som forfaller. Siste år før forfall medregnes ikke lånet som ansvarlig kapital.
+   - Låneavtalen må ikke inneholde klausuler om at lånet på kreditors initiativ kan kreves tilbakebetalt før den avtalte forfallsdato. Tilbakebetaling av lånet før avtalt forfallsdato kan ikke foretas uten Finanstilsynets forhåndssamtykke.
+3. 45 prosent av netto urealisert gevinst på aksjer, andeler og grunnfondsbevis klassifisert som tilgjengelig for salg, jf. International Accounting Standards (IAS) 39. Bestemmelsen gjelder ikke for pensjonsforetak.
+4. 45 prosent av urealiserte gevinster på investeringseiendommer og varige driftsmidler som omfattes av [§ 7](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) første ledd bokstav i, jf. International Accounting Standards (IAS) 40 og IAS 16. Bestemmelsen gjelder ikke for pensjonsforetak.
+5. Overskytende beløp av annen godkjent kjernekapital, jf. [§ 9](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) første ledd bokstav d.
+
+*Endret ved [forskrifter 17 juli 1996 nr. 781](https://lovdata.no/forskrift/1996-07-17-781) (i kraft 31 des 1996), [11 jan 2000 nr. 22](https://lovdata.no/forskrift/2000-01-11-22) (fom regnskapsåret 1999), [14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007), [18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009), [20 des 2010 nr. 1717](https://lovdata.no/forskrift/2010-12-20-1717) (i kraft 1 jan 2011), [22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+### § 5. (Opphevet 1 jan 2007 ved [forskrift 14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507).)
+
+### § 6. (Opphevet ved [forskrift 23 des 1992 nr. 1202](https://lovdata.no/forskrift/1992-12-23-1202).)
+
+### § 7. Fradragsposter
+
+Følgende poster skal trekkes fra i kjernekapitalen:
+
+a. Akkumulert underskudd.
+b. Beholdning av egne aksjer/grunnfondsbevis.
+c. Bokført goodwill, utsatt skattefordel og andre immaterielle aktiva, herunder immaterielle eiendeler som fremkommer etter anvendelse av reglene i IFRS 4.31-4.33 og immaterielle eiendeler beregnet etter reglene i IFRS 4.31-4.33 som har kommet til fradrag i forsikringsforpliktelsene ved anvendelse av IFRS 3.
+d. Overfinansiering av pensjonsforpliktelser, hensyntatt effekten av utsatt skatt.
+e. Nettofortjenesten fra kapitaliseringen av fremtidige inntekter fra verdipapiriserte aktiva som benyttes til kredittstøtte.
+f. Utbytte og konsernbidrag avsatt til utdeling som er klassifisert som egenkapital, jf. International Accounting Standards (IAS) 10.
+g. Netto urealisert gevinst på aksjer, andeler og grunnfondsbevis klassifisert som tilgjengelig for salg hensyntatt effekten av utsatt skatt, jf. International Accounting Standards (IAS) 39. Bestemmelsen gjelder ikke pensjonsforetak.
+h. Netto urealisert gevinst på utlån, sertifikater og obligasjoner klassifisert som tilgjengelig for salg hensyntatt effekten av utsatt skatt, jf. International Accounting Standards (IAS) 39. Bestemmelsen gjelder ikke pensjonsforetak.
+i. Urealiserte gevinster på investeringseiendommer og varige driftsmidler som inngår i kjernekapitalen, jf. International Accounting Standards (IAS) 40 og IAS 16. Bestemmelsen gjelder ikke pensjonsforetak.
+j. Netto urealisert gevinst på sikringsinstrumenter ved kontantstrømssikring hensyntatt effekten av utsatt skatt, jf. International Accounting Standards (IAS) 39.
+k. Urealisert gevinst inkludert i kjernekapitalen som følge av redusert verdi av gjeld, og som skyldes en svekkelse av institusjonens egen kredittverdighet, jf. International Accounting Standards (IAS) 39.
+l. Egenkapitalkomponenter for konvertible obligasjoner som institusjonen selv har utstedt, jf. International Accounting Standards (IAS) 32.
+m. Femti prosent av bokførte verdier av ansvarlig kapital i andre finansinstitusjoner og verdipapirforetak for den del av den ansvarlige kapital i den mottakende finansinstitusjon eller verdipapirforetak som overstiger to prosent. Det skal ikke gjøres fradrag for ansvarlig kapital i andre finansinstitusjoner og verdipapirforetak som ved anvendelsen av kapitaldekningsreglene på konsolidert basis skal konsolideres med rapporterende institusjon. Bestemmelsene i første og annet punktum gjelder ikke for livsforsikring med investeringsvalg uten avkastningsgaranti.
+n. Femti prosent av bokførte verdier av ansvarlig kapital som ikke trekkes fra i henhold til første ledd bokstav m første punktum og annet ledd bokstav b første punktum, for den delen av summen av slik ansvarlig kapital som overstiger ti prosent av finansforetakets egen ansvarlige kapital. Bestemmelsene i første punktum gjelder ikke for livsforsikring med investeringsvalg uten avkastningsgaranti.
+o. (opphevet)
+p. (opphevet)
+q. (opphevet)
+r. Urealiserte kursendringer på finansielle instrumenter tilordnet selskapsporteføljen som er inkludert i kjernekapitalen og som i sum er positive. Bestemmelsen gjelder pensjonsforetak.
+s. Dersom fradragene i tilleggskapitalen i henhold til [§ 7](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) annet ledd bokstav a til og med f til sammen er høyere enn tilleggskapitalen beregnet i henhold til [§ 4](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md), skal det overskytende beløpet trekkes fra kjernekapitalen.
+
+Følgende poster skal trekkes fra i tilleggskapitalen:
+
+a. Beholdning av egne instrumenter nevnt i [§ 4](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) nr. 2 og 3.
+b. Femti prosent av bokført verdi av ansvarlig kapital i andre finansforetak og verdipapirforetak for den del av den ansvarlige kapital i det mottakende finansforetaket eller verdipapirforetaket som overstiger to prosent. Det skal ikke gjøres fradrag for ansvarlig kapital i andre finansforetak og verdipapirforetak som ved anvendelsen av kapitaldekningsreglene på konsolidert basis skal konsolideres med det rapporterende foretaket. Bestemmelsene i første og annet punktum gjelder ikke for livsforsikring med investeringsvalg uten avkastningsgaranti.
+c. Femti prosent av bokførte verdier av ansvarlig kapital som ikke trekkes fra i henhold til første ledd bokstav m første punktum og annet ledd bokstav b første punktum, for den delen av summen av slik ansvarlig kapital som overstiger ti prosent av finansforetakets egen ansvarlige kapital. Bestemmelsene i første punktum gjelder ikke for livsforsikring med investeringsvalg uten avkastningsgaranti.
+
+*Endret ved [forskrifter 17 juli 1996 nr. 781](https://lovdata.no/forskrift/1996-07-17-781) (i kraft 31 des 1996), [10 mai 1999 nr. 562](https://lovdata.no/forskrift/1999-05-10-562) (i kraft 1 juli 1999), [11 jan 2000 nr. 22](https://lovdata.no/forskrift/2000-01-11-22) (fom regnskapsåret 1999), [17 mars 2000 nr. 276](https://lovdata.no/forskrift/2000-03-17-276), [22 des 2003 nr. 1770](https://lovdata.no/forskrift/2003-12-22-1770) (i kraft 1 jan 2004), [14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007), [4 april 2008 nr. 339](https://lovdata.no/forskrift/2008-04-04-339), [20 des 2010 nr. 1717](https://lovdata.no/forskrift/2010-12-20-1717) (i kraft 1 jan 2011), [22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+### § 8. Tillegg
+
+Følgende poster skal legges til kjernekapitalen:
+
+a. Netto urealisert tap på utlån, sertifikater og obligasjoner klassifisert som tilgjengelig for salg, jf. IAS 39, med unntak for nedskrivning som følge av svekket kredittverdighet. Bestemmelsen gjelder ikke for pensjonsforetak.
+b. Netto urealisert tap på sikringsinstrumenter ved kontantstrømssikring, jf. International Accounting Standards (IAS) 39.
+c. Urealisert tap fratrukket kjernekapitalen som følge av økt verdi av gjeld og som skyldes en bedring av foretakets egen kredittverdighet, jf. International Accounting Standards (IAS) 39.
+
+*Tilføyd ved [forskrift 14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007), endret ved [forskrift 9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+### § 9. Begrensninger
+
+Følgende begrensninger skal gjelde:
+
+a. Summen av de poster som inngår i tilleggskapitalen kan ikke utgjøre mer enn 100 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e.
+b. Ansvarlig lånekapital med fastsatt løpetid kan ikke tilsvare et høyere beløp enn tilsvarende 50 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e.
+c. –
+d. Summen av annen godkjent kjernekapital i henhold til [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) første ledd bokstav a, b og c kan ikke utgjøre mer enn 50 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e. Summen av annen godkjent kjernekapital i henhold til [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) første ledd bokstav a og b kan ikke utgjøre mer enn 35 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e. Annen godkjent kjernekapital i henhold til [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) første ledd bokstav a kan ikke utgjøre mer enn 15 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i bokstav e.
+e. Fradrag av postene nevnt i [§ 7](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) første ledd bokstav a til l og r og tillegg av postene nevnt i [§ 8](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) bokstav a til c.
+
+Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at et finansforetak kan ha en sammensetning av den ansvarlige kapitalen som overskrider grensene som følger av første ledd.
+
+*Endret ved [forskrifter 14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007, tidligere § 8), [20 des 2010 nr. 1717](https://lovdata.no/forskrift/2010-12-20-1717) (i kraft 1 jan 2011), [22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+### § 11. Overgangsbestemmelser
+
+Fondsobligasjonskapital opptatt før 31. desember 2010 som teller med som kjernekapital per 31. desember 2010, men som ikke oppfyller vilkårene i [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md), skal kunne medregnes som annen godkjent kjernekapital etter [§ 3a](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) frem til 1. januar 2041, men slik at beløpet som medregnes fra 1. januar 2021 begrenses til maksimalt 20 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i [§ 9](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) bokstav e, og slik at beløpet som medregnes fra 1. januar 2031 begrenses til maksimalt 10 prosent av kjernekapitalen etter fradrag og tillegg som spesifisert i [§ 9](for-1990-06-01-435-forskrift-om-beregning-av-ansvarlig-kapital.md) bokstav e.
+
+*Endret ved [forskrifter 17 mars 2000 nr. 276](https://lovdata.no/forskrift/2000-03-17-276), [20 des 2005 nr. 1602](https://lovdata.no/forskrift/2005-12-20-1602) (i kraft 1 jan 2006 med virkning for regnskapsår som starter 1 jan 2005 eller senere), [14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007, tidligere § 10), [20 des 2010 nr. 1717](https://lovdata.no/forskrift/2010-12-20-1717) (i kraft 1 jan 2011), [22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014).*
+
+## Del B
+
+*Tilføyd ved [forskrift 22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014), opphevet ved [forskrift 19 des 2019 nr. 2111](https://lovdata.no/forskrift/2019-12-19-2111) (i kraft 31 des 2019, unntatt § 22).*
+
+**§ 12 – § 21** (Opphevet)
+
+*Tilføyd ved [forskrift 22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014), endret ved [forskrift 9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017), opphevet ved [forskrift 19 des 2019 nr. 2111](https://lovdata.no/forskrift/2019-12-19-2111) (i kraft 31 des 2019).*
+
+### § 22. Ikrafttreden
+
+Denne forskrift trer i kraft samtidig med forskrift om minstekrav til kapitaldekning i finansinstitusjoner, jf. [lov 10. juni 1988 nr. 40](https://lovdata.no/lov/1988-06-10-40) om finansieringsvirksomhet og finansinstitusjoner [§§ 2-9](https://lovdata.no/lov/1988-06-10-40/§2-9) tredje ledd og [3-17](https://lovdata.no/lov/1988-06-10-40/§3-17).
+
+*Endret ved [forskrifter 14 des 2006 nr. 1507](https://lovdata.no/forskrift/2006-12-14-1507) (i kraft 1 jan 2007, tidligere § 9), [22 aug 2014 nr. 1103](https://lovdata.no/forskrift/2014-08-22-1103) (i kraft 30 sep 2014, tidligere § 10).*

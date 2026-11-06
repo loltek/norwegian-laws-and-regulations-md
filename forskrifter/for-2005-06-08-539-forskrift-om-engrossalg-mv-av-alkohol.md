@@ -1,0 +1,372 @@
+# Forskrift om engrossalg og tilvirkning av alkoholholdig drikk mv.
+
+- **Korttittel:** Forskrift om engrossalg mv. av alkohol
+- **Datokode:** FOR-2005-06-08-539
+- **DokumentID:** SF/forskrift/2005-06-08-539
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Folkehelseavd.
+- **Hjemmel:** lov 02.06.1989 nr. 27/§1-4c; lov 02.06.1989 nr. 27/§1-14; lov 02.06.1989 nr. 27/§6-2; lov 02.06.1989 nr. 27/§6-3; lov 02.06.1989 nr. 27/§6-6; lov 02.06.1989 nr. 27/§6-9; lov 02.06.1989 nr. 27/§10-5; forskrift 17.06.2005 nr. 600
+- **Publisert i:** I 2005 hefte 8
+- **Kunngjort:** 2005-06-14
+- **I kraft fra:** 2005-07-01
+- **Siste endring i kraft:** 2024-09-17
+- **Sist endret ved:** forskrift 13.09.2024 nr. 2152 fra 2024-09-17
+- **Endrer:** forskrift 30.11.1995 nr. 937
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Arbeids- og sosialdepartementet (nå Helse- og omsorgsdepartementet) 8. juni 2005 med hjemmel i lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. § 1-4c, § 1-14, § 6-2, § 6-3, § 6-6, § 6-9 og § 10-5. Endret ved forskrifter 21 juni 2005 nr. 666, 10 jan 2006 nr. 62, 8 des 2011 nr. 1219, 20 nov 2015 nr. 1352, 8 april 2019 nr. 467, 13 sep 2024 nr. 2152 (i kraft 17 sep 2024).
+- **Kilde:** <https://lovdata.no/forskrift/2005-06-08-539>
+
+## Del I. Tilvirkning av alkoholholdig drikk
+
+### Kapittel 1. Sikkerhet for alkoholavgift
+
+#### § 1-1.
+
+Bevillingshaver har ikke adgang til å innføre, oppbevare eller ta inn på lager alkoholholdig drikk som det ikke er betalt alkoholavgift for, med mindre det er stilt tilfredsstillende sikkerhet for avgiftsbetalingen.
+
+### Kapittel 2. Sikring av varelager
+
+#### § 2-1.
+
+Lagring av alkoholholdig drikk skal skje i sikret varelager.
+
+#### § 2-2.
+
+Med varelager menes lokaler hvor det lagres alkoholholdig drikk, samt sats og gjærende væske til framstilling av slike drikkevarer.
+
+#### § 2-3.
+
+Varelageret skal til enhver tid være
+
+1. forsvarlig låst og sikret mot innbrudd,
+2. i god orden, og
+3. utilgjengelig for uvedkommende.
+
+#### § 2-4.
+
+Det må til enhver tid foreligge forsvarlige rutiner for
+
+1. å holde oversikt over hvilke varer som befinner seg på varelageret. Rutinene skal sikre oversikt over beholdningen og inn- og uttak av varer.
+2. oppfølging når det avdekkes manko i beholdningen.
+3. kontroll med at uvedkommende personer ikke har adgang til lageret og de alkoholholdige varene som oppbevares der.
+
+#### § 2-5.
+
+Varelager hvor brennevin eller sats og gjærende væske til fremstilling av brennevin oppbevares skal være sikret med forsvarlig alarmsystem. Helsedirektoratet kan i særlige tilfeller gi dispensasjon fra dette kravet dersom varelageret er forsvarlig sikret på annen måte.
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+#### § 2-6.
+
+Helsedirektoratet kan ilegge bevillingshavere som forsettlig eller uaktsomt overtrer [§ 2-1](for-2005-06-08-539-forskrift-om-engrossalg-mv-av-alkohol.md) og [§§ 2-3](for-2005-06-08-539-forskrift-om-engrossalg-mv-av-alkohol.md) til [2-5](for-2005-06-08-539-forskrift-om-engrossalg-mv-av-alkohol.md), overtredelsesgebyr. [Forskrift 13. september 2024 nr. 2149 om ileggelse og utmåling av overtredelsesgebyr etter alkoholloven](for-2024-09-13-2149-forskrift-om-ileggelse-og-utmaaling-av-overtredelsesgebyr-etter-alkoholloven.md) kommer til anvendelse.
+
+*Tilføyd ved forskrift [13 sep 2024 nr. 2152](https://lovdata.no/forskrift/2024-09-13-2152) (i kraft 17 sep 2024).*
+
+### Kapittel 3. Søknadsgebyr
+
+#### § 3-1.
+
+Ved søknad om bevilling for tilvirkning betales følgende søknadsgebyr:
+
+|  |  |
+| --- | --- |
+| – alkoholholdig drikk som ikke er brennevin: | kr 12000 |
+| – brennevin: | kr 15000 |
+| – all alkoholholdig drikk: | kr 15000 |
+
+#### § 3-2.
+
+Ved søknad om utvidelse av tidligere gitt bevilling for alkoholholdig drikk som ikke er brennevin til å omfatte all alkoholholdig drikk, betales et søknadsgebyr på kr 3600.
+
+Ved søknad om utvidelse av tidligere gitt bevilling for brennevin til å omfatte all alkoholholdig drikk, betales et søknadsgebyr på kr 1000.
+
+#### § 3-3.
+
+Søknadsgebyret må være betalt når søknaden leveres bevillingsmyndigheten. Søknaden må vedlegges tilfredsstillende dokumentasjon på at søknadsgebyret er betalt.
+
+### Kapittel 4. Bevillingsgebyr
+
+#### § 4-1. Gebyrpliktens omfang
+
+Gebyrplikten omfatter bevilling for tilvirkning av alkoholholdig drikk.
+
+#### § 4-2. Løpende gebyr
+
+Bevillingsgebyret beregnes på grunnlag av omsatt mengde tilvirket alkoholholdig drikk. Gebyret differensieres etter alkoholinnhold og alkoholtype.
+
+Med omsatt mengde menes
+
+- uttak fra lager, herunder tyveri, brann mv., med mindre varen overføres til et annet av bevillingshaverens godkjente lagre
+- salg uten at varen er innom lager
+- svinn/manko, unntatt driftsmessig svinn.
+
+Omsetningen er gebyrpliktig også om varen tidligere har gitt grunnlag for gebyrplikt.
+
+Gebyret skal betales etter en sats som fastsettes av Helse- og omsorgsdepartementet i forbindelse med det årlige statsbudsjett.
+
+*Endret ved [forskrift 10 jan 2006 nr. 62](https://lovdata.no/forskrift/2006-01-10-62).*
+
+#### § 4-3. Minstegebyr
+
+Bevillingsgebyret utgjør minimum kr 5000 pr. år.
+
+Dersom bevilling gis etter 1. juli, betales halvt minstegebyr.
+
+Løpende gebyr avregnes mot minstegebyret ved kalenderårets utløp.
+
+#### § 4-4. Oppgavefrist
+
+Bevillingshaverne skal for hver måned sende oppgave til Helsedirektoratet over månedens gebyrpliktige omsetning fordelt på kategoriene for alkoholinnhold og alkoholtype innen den 18. i påfølgende måned.
+
+Oppgaven gis på skjema fastsatt av direktoratet.
+
+Det skal sendes oppgave selv om det ikke har vært gebyrpliktig omsetning (0-oppgave).
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+#### § 4-5. Betalingsfrist
+
+Løpende gebyr betales til Helsedirektoratet innen utløpet av oppgavefristen, jf. [§ 4-4](for-2005-06-08-539-forskrift-om-engrossalg-mv-av-alkohol.md). Alternativt kan bevillingshaver betale gebyret forskuddsvis til Helsedirektoratet for ett år av gangen på grunnlag av forventet omsatt mengde tilvirket alkoholholdig drikk. Dersom gebyret betales forskuddsvis skal Helsedirektoratet ved årets slutt beregne avvik mellom forventet og faktisk omsetning og det skal foretas etteroppgjør.
+
+Helsedirektoratet kan sette kortere gebyrperiode ved forsinkelse av oppgave eller betaling, eller dersom det er opplysninger om virksomhetens forhold som gjør det overveiende sannsynlig at innbetalingen ikke vil skje rettidig.
+
+Minstegebyret betales forskuddsvis til Helsedirektoratet når bevillingen tas i bruk, og deretter innen 1. februar de påfølgende år.
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+#### § 4-6. Utfyllende bestemmelser
+
+Helsedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gjennomføring av forskriften.
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+## Del II. Engrossalg med varer som det er betalt særavgift for
+
+### Kapittel 5. Engrossalg med varer som det er betalt særavgift for
+
+#### § 5-1.
+
+Engrossalg med varer som det er betalt særavgift for kan bare skje på grunnlag av registrering hos skattekontoret.
+
+Følgende bestemmelser gjelder tilsvarende for engrossalg med varer som det er betalt særavgift for:
+
+- [forskrift 11. desember 2001 nr. 1451](for-2001-12-11-1451-forskrift-om-saeravgifter.md) om særavgifter [§ 5-3](for-2001-12-11-1451-forskrift-om-saeravgifter.md) tredje ledd, [§ 5-4](for-2001-12-11-1451-forskrift-om-saeravgifter.md), [§ 5-6](for-2001-12-11-1451-forskrift-om-saeravgifter.md) annet ledd og [§ 5-7](for-2001-12-11-1451-forskrift-om-saeravgifter.md) så langt den passer,
+- [lov 27. mai 2016 nr. 14](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) om skatteforvaltning [§ 8-13](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md), [§ 10-1](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) til [§ 10-4](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) og [§ 10-5](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) annet ledd bokstav e og
+- [forskrift 23. november 2016 nr. 1360](for-2016-11-23-1360-skatteforvaltningsforskriften.md) til skatteforvaltningsloven § 8-13-2 så langt den passer.
+
+*Endret ved [forskrifter 20 nov 2015 nr. 1352](https://lovdata.no/forskrift/2015-11-20-1352) (i kraft 1 jan 2016), [8 april 2019 nr. 467](https://lovdata.no/forskrift/2019-04-08-467).*
+
+#### § 5-2.
+
+Innehaver av tilvirkningsbevilling har rett til å drive engrossalg med den type alkoholholdig drikk bevillingen gjelder for på grunnlag av registrering hos skattekontoret etter [forskrift 11. desember 2001 nr. 1451](for-2001-12-11-1451-forskrift-om-saeravgifter.md) om særavgifter [§ 5-1](for-2001-12-11-1451-forskrift-om-saeravgifter.md) bokstav a.
+
+[Lov 27. mai 2016 nr. 14](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) om skatteforvaltning [§ 10-1](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) til [§ 10-4](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) gjelder tilsvarende for kontroll med tilvirkeres utøvelse av engrossalg med den type alkoholholdig drikk bevillingen gjelder for.
+
+*Endret ved [forskrifter 20 nov 2015 nr. 1352](https://lovdata.no/forskrift/2015-11-20-1352) (i kraft 1 jan 2016), [8 april 2019 nr. 467](https://lovdata.no/forskrift/2019-04-08-467).*
+
+## Del III. Utøvelse av tilvirkningsbevilling og rett til engrossalg
+
+### Kapittel 6. Opplysninger til statistiske formål
+
+#### § 6-1. Plikt til å avgi opplysninger til statistiske formål
+
+Bevillingshaver og den som driver engrossalg plikter etter anmodning å avgi opplysninger til statistiske formål til Helsedirektoratet.
+
+Opplysninger som kan kreves avgitt gjelder
+
+- import, herunder avgiverland, bulk- eller flaskeleveranse
+- omsetning av alkoholholdig drikk, herunder vareliter, type alkoholholdig drikk, alkoholstyrke, selgere/kjøpere
+- tilvirkning av alkoholholdig drikk, herunder omfang, type alkoholholdig drikk, alkoholstyrke, kjøpere.
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+#### § 6-2. Innhenting og bearbeiding av opplysninger
+
+Helsedirektoratet kan bestemme hvordan opplysningene skal innhentes og hvorledes statistikken skal utarbeides, herunder
+
+- definisjon av statistiske enheter, kjennemerker, klassifikasjoner mv.,
+- datainnhenting, herunder registreringsskjemaets form og innhold,
+- databearbeidingen.
+
+Det skal legges vekt på statistikkhensyn og på hensynet til de berørte parters kostnader ved innhenting av opplysninger og utarbeidelse av statistikk.
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+### Kapittel 7. Register for behandling av saker om tilvirkningsbevilling
+
+#### § 7-1. Registerets omfang og formål
+
+Registeret skal omfatte opplysninger om innehavere av tilvirkningsbevillinger.
+
+Registeret skal bare nyttes til å innhente opplysninger som er nødvendige for å kunne føre kontroll med og avgjøre søknader om bevilling til tilvirkning av alkoholholdig drikk, jf. [alkoholloven § 6-1](../lover/lov-1989-06-02-27-alkoholloven.md).
+
+#### § 7-2. Behandlingsansvarlig
+
+Helsedirektoratet er ansvarlig for registeret.
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+#### § 7-3. Føring av registeret
+
+Registeret kan føres både manuelt og ved hjelp av elektronisk databehandling (edb).
+
+Det skal legges til rette for at det kan benyttes opplysninger fra Enhetsregisteret der det er praktisk mulig, jf. [lov 3. juni 1994 nr. 15](https://lovdata.no/lov/1994-06-03-15) om Enhetsregisteret [§ 1](https://lovdata.no/lov/1994-06-03-15/§1) annet ledd tredje punktum.
+
+#### § 7-4. Registerets innhold
+
+Registeret kan inneholde følgende typer opplysninger:
+
+- bevillingshavers fødselsnummer og adresse
+- fødselsnummer og adresse for person som nevnt i [alkoholloven § 6-2](../lover/lov-1989-06-02-27-alkoholloven.md) nr. 1
+- organisasjonsnummer/foretaksnummer
+- opplysninger som kan innhentes av Enhetsregisteret, jf. [lov 3. juni 1994 nr. 15](https://lovdata.no/lov/1994-06-03-15) om Enhetsregisteret [§ 5](https://lovdata.no/lov/1994-06-03-15/§5) og [§ 6](https://lovdata.no/lov/1994-06-03-15/§6)
+- opplysninger om overdragelse av virksomheten eller av aksjer eller andeler i et selskap som eier slik virksomhet
+- opplysninger avgitt fra næringsmiddeltilsynet, tollmyndighetene, politiet og skattemyndighetene, jf. [alkoholloven § 6-5](../lover/lov-1989-06-02-27-alkoholloven.md)
+- virksomhetens kapital og omsetning
+- innbetalt og eventuelt skyldig gebyr og sikkerhetsstillelse
+- annen virksomhet foretaket driver
+- avbrudd eller nedleggelser i driften
+- lageradresse
+- sikkerhetstiltak for lager
+- distribusjonsnett og -organisering
+- omfanget av bevillingen, jf. [alkoholloven § 6-1](../lover/lov-1989-06-02-27-alkoholloven.md)
+- eventuelle andre bevillinger etter alkoholloven som virksomheten innehar.
+
+#### § 7-5. Utlevering av opplysninger fra registeret
+
+Utlevering av personopplysninger er ikke tillatt uten i følgende tilfeller:
+
+1. når den person eller foretak opplysningene gjelder har gitt skriftlig samtykke
+2. til statistisk formål, jf. [alkoholloven § 6-6](../lover/lov-1989-06-02-27-alkoholloven.md) fjerde ledd.
+
+For øvrig kan utlevering skje når lovbestemt taushetsplikt ikke er til hinder for dette.
+
+#### § 7-6. Retting og sletting av opplysninger
+
+Den behandlingsansvarlige skal slette opplysninger som ikke lenger har betydning.
+
+Den behandlingsansvarlige skal av eget tiltak eller på begjæring av den registrerte rette mangelfulle personopplysninger og slette personopplysninger som ikke lenger er nødvendige for å gjennomføre formålet med behandlingen, jf. [lov 14. april 2000 nr. 31](https://lovdata.no/lov/2000-04-14-31) om behandling av personopplysninger [§ 27](https://lovdata.no/lov/2000-04-14-31/§27) og [§ 28](https://lovdata.no/lov/2000-04-14-31/§28).
+
+#### § 7-7. Sikkerhet
+
+Den behandlingsansvarlige skal sørge for at det settes i verk sikkerhetstiltak for å hindre at uvedkommende får tilgang til registeret og at opplysninger kommer på avveie.
+
+Bare spesielt utpekte personer skal ha tilgang til personopplysninger i registeret. Utpekingen skal spesifisere hvilke typer opplysninger vedkommende kan få. Adgang til registeret skal bare gis til personer som har behov for opplysninger for å utøve pålagte oppgaver.
+
+Manuelle deler av registeret skal holdes nedlåst under den behandlingsansvarliges kontroll. Likeledes skal lagringsenheten for de edb-baserte opplysningene være betryggende sikret. Hvis opplysninger fra registeret skal overføres til datanettverk utenfor det område som virksomheten kontrollerer, skal opplysningene krypteres.
+
+Tilgangskontrollen skal avvise forsøk på tilgang fra brukere som ikke er utpekt, og begrense tilgangen for utpekte brukere. Enhver tilgang eller forsøk på tilgang til registeret skal logges.
+
+Det skal etableres rutiner for kontroll av opplysninger og relasjoner mellom opplysninger som skal sikre at data er korrekte, komplette og aktuelle i forhold til det de representerer.
+
+Det skal gjennomføres tiltak som sikrer at registeret og opplysninger er tilgjengelige når det er behov for dem. Kopier av opplysninger og annet nødvendig materiale skal sikres med tanke på rekonstruksjon av registeret etter tap. Opplysninger og registeret skal være sikret slik at de heller ikke midlertidig faller bort.
+
+Dersom det påvises et datainnbrudd i anlegget, skal Helse- og omsorgsdepartementet umiddelbart underrettes.
+
+For øvrig gjelder reglene i [lov 14. april 2000 nr. 31](https://lovdata.no/lov/2000-04-14-31) om behandling av personopplysninger [§ 13](https://lovdata.no/lov/2000-04-14-31/§13) og forskrift [15. desember 2000 nr. 1265](https://lovdata.no/forskrift/2000-12-15-1265) om behandling av personopplysninger [kapittel 2](https://lovdata.no/forskrift/2000-12-15-1265/kap2).
+
+*Endret ved [forskrift 10 jan 2006 nr. 62](https://lovdata.no/forskrift/2006-01-10-62).*
+
+#### § 7-8. Taushetsplikt/innsynsrett
+
+Ved praktiseringen av forskriften her gjelder offentlighetsloven og forvaltningslovens regler om taushetsplikt, og reglene om innsynsrett i [lov 14. april 2000 nr. 31](https://lovdata.no/lov/2000-04-14-31) om behandling av personopplysninger [§ 18](https://lovdata.no/lov/2000-04-14-31/§18).
+
+### Kapittel 8. Register med opplysninger om innehavere av tilvirkningsbevilling og den som driver engrossalg
+
+#### § 8-1. Registerets omfang og formål
+
+Registeret skal omfatte opplysninger om innehavere av tilvirkningsbevilling og registreringspliktige etter [alkoholloven § 1-4c](../lover/lov-1989-06-02-27-alkoholloven.md).
+
+Registeret skal nyttes til å holde oversikt over hvem som har tilvirkningsbevilling og rett til å drive engrossalg.
+
+#### § 8-2. Behandlingsansvarlig
+
+Helsedirektoratet er ansvarlig for registeret.
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+#### § 8-3. Føring av registeret
+
+Registeret føres ved hjelp av elektronisk databehandling (edb).
+
+Bevillingsmyndigheten og skattekontoret skal selv vedlikeholde opplysningene i registeret. Det skal legges til rette for at bevillingsmyndigheten og skattekontoret på enklest mulig måte kan registrere og endre opplysninger i registeret.
+
+Det skal legges til rette for at det kan benyttes opplysninger fra Enhetsregisteret der det er praktisk mulig, jf. [lov 3. juni 1994 nr. 15](https://lovdata.no/lov/1994-06-03-15) om Enhetsregisteret [§ 1](https://lovdata.no/lov/1994-06-03-15/§1) annet ledd tredje punktum.
+
+*Endret ved [forskrift 20 nov 2015 nr. 1352](https://lovdata.no/forskrift/2015-11-20-1352) (i kraft 1 jan 2016).*
+
+#### § 8-4. Registerets innhold
+
+Registeret skal inneholde følgende typer opplysninger:
+
+1. om virksomheten utøves på grunnlag av tilvirkningsbevilling eller registrering etter [alkoholloven § 1-4c](../lover/lov-1989-06-02-27-alkoholloven.md) og hvilke rettigheter som omfattes av tilvirkningsbevilling, jf. [alkoholloven § 6-1](../lover/lov-1989-06-02-27-alkoholloven.md) første ledd
+2. bevillingshavers eller den som driver engrossalgs firmanavn og organisasjonsnummer/foretaksnummer
+3. virksomhetens adresse og andre kontaktopplysninger
+4. bevilling gitt eller registrering foretatt (dato)
+5. bevilling inndradd eller registrering tilbakekalt (dato).
+
+#### § 8-5. Utlevering av opplysninger fra registeret
+
+Opplysningene i registeret er offentlige.
+
+#### § 8-6. Forholdet til personopplysningsloven
+
+[Lov 14. april 2000 nr. 31](https://lovdata.no/lov/2000-04-14-31) om behandling av personopplysninger (personopplysningsloven) gjelder i den grad opplysningene i registeret er personopplysninger, jf. lovens § 2.
+
+### Kapittel 9. Adgang til å benytte alkoholholdig drikk som gave, lønn eller utbytte, samt å selge alkohol til ansatte til eget bruk
+
+#### § 9-1.
+
+Det er ikke tillatt for bevillingshaver og den som driver engrossalg å gi alkoholholdig drikk som gave i markedsføringsøyemed til andre enn innehavere av bevilling til omsetning av alkohol og den som driver engrossalg.
+
+#### § 9-2.
+
+Bevillingshaver og den som driver engrossalg har ikke adgang til å benytte alkoholholdig drikk som lønn eller utbytte.
+
+#### § 9-3.
+
+Bevillingshaver og den som driver engrossalg kan selge fire kvoter alkoholholdig drikk i året til ansatte og personer som eier en vesentlig del av virksomheten eller av selskap som driver virksomheten.
+
+Som ansatt regnes person som har arbeidet i selskapets tjeneste sammenhengende i minst 3 måneder.
+
+En kvote utgjør:
+
+- alternativ 1: 24 liter drikk med høyst 4,7 volumprosent alkohol, eller
+- alternativ 2: 7,5 liter drikk med lavere alkoholinnhold enn 22 volumprosent, eller
+- alternativ 3: 1,4 liter drikk med 22 volumprosent alkohol eller mer og 3 liter flasker drikk med lavere alkoholinnhold enn 22 volumprosent.
+
+De forskjellige typene alkoholholdig drikk kan kombineres. 2,25 liter av alternativ 2 tilsvarer da 8 liter av alternativ 1 eller 0,70 liter drikk med 22 volumprosent alkohol eller mer. Det er likevel ikke tillatt å selge mer enn 1,4 liter drikk med 22 volumprosent alkohol eller mer per kvote. Det kan bare selges en kvote i løpet av tre måneder. Kvotene reduseres forholdsmessig for deltidsansatte.
+
+Prisen på varene må ikke settes lavere enn bevillingshavers eller den som driver engrossalgs salgspris inklusiv alkoholavgift.
+
+*Endret ved [forskrift 8 des 2011 nr. 1219](https://lovdata.no/forskrift/2011-12-08-1219) (i kraft 1 jan 2012).*
+
+#### § 9-4.
+
+Helsedirektoratet kan ilegge bevillingshavere som forsettlig eller uaktsomt overtrer [§§ 9-1](for-2005-06-08-539-forskrift-om-engrossalg-mv-av-alkohol.md) til [9-3](for-2005-06-08-539-forskrift-om-engrossalg-mv-av-alkohol.md), overtredelsesgebyr. [Forskrift 13. september 2024 nr. 2149 om ileggelse og utmåling av overtredelsesgebyr etter alkoholloven](for-2024-09-13-2149-forskrift-om-ileggelse-og-utmaaling-av-overtredelsesgebyr-etter-alkoholloven.md) kommer til anvendelse.
+
+*Tilføyd ved forskrift [13 sep 2024 nr. 2152](https://lovdata.no/forskrift/2024-09-13-2152) (i kraft 17 sep 2024).*
+
+## Del IV. Ikrafttredelse og overgangsbestemmelser
+
+### Kapittel 10. Ikrafttredelse og overgangsbestemmelser
+
+#### § 10-1.
+
+Denne forskrift trer i kraft 1. juli 2005.
+
+Fra samme tidspunkt oppheves [forskrift 30. november 1995 nr. 937](https://lovdata.no/forskrift/1995-11-30-937) om engrossalg og tilvirkning av alkoholholdig drikk mv.
+
+#### § 10-2.
+
+Virksomheter som har engrosbevilling ved lovens ikrafttredelse, anses uten forutgående søknad for å være registrert hos toll- og avgiftsetaten til og med 30. september etter § 5-1 i [forskrift 8. juni 2005 nr. 539](for-2005-06-08-539-forskrift-om-engrossalg-mv-av-alkohol.md) om engrossalg og tilvirkning av alkoholholdig drikk mv.
+
+Engrosbevillingen er i samme periode å anse som slik særskilt tillatelse som nevnt i [forskrift 11. desember 2001 nr. 1451](for-2001-12-11-1451-forskrift-om-saeravgifter.md) om særavgifter [§ 3-2-3](for-2001-12-11-1451-forskrift-om-saeravgifter.md), med adgang til innførsel av alkoholholdig drikk. Tillatelsen må i disse tilfellene dokumenteres på innførselstidspunktet.
+
+Dersom virksomheten etter 30. september 2005 ønsker å drive engrossalg med varer som det er betalt særavgift for, må det gis melding til toll- og avgiftsetaten om dette innen 15. august 2005.
+
+Dersom virksomheten etter 30. september 2005 ønsker å importere alkoholholdig drikk, må denne registreres som avgiftspliktig virksomhet hos toll- og avgiftsetaten. Søknad om slik registrering må sendes innen 15. august 2005.
+
+Virksomheter uten tidligere engrosbevilling må søke toll- og avgiftsetaten om den nødvendige registrering.
+
+*Tilføyd ved [forskrift 21 juni 2005 nr. 666](https://lovdata.no/forskrift/2005-06-21-666) (i kraft 1 juli 2005).*

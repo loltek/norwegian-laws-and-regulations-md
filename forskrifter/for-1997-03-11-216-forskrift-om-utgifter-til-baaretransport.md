@@ -1,0 +1,37 @@
+# Forskrift om dekning av utgifter til båretransport i Norge.
+
+- **Korttittel:** Forskrift om utgifter til båretransport
+- **Datokode:** FOR-1997-03-11-216
+- **DokumentID:** SF/forskrift/1997-03-11-216
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Velferdspolitisk avd.
+- **Hjemmel:** lov 28.02.1997 nr. 19/§7-3
+- **Publisert i:** Avd I 1997 539
+- **I kraft fra:** 1997-05-01
+- **Siste endring i kraft:** 2006-07-01
+- **Sist endret ved:** forskrift 30.06.2006 nr. 790 fra 2006-07-01
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt av Sosial- og helsedepartementet 11. mars 1997 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd § 7-3 fjerde ledd. Endret ved forskrifter 30 april 2004 nr. 677, 30 juni 2006 nr. 790.
+- **Kilde:** <https://lovdata.no/forskrift/1997-03-11-216>
+
+## § 1.
+
+Transport av båre i forbindelse med obduksjon som er krevet av Arbeids- og velferdsetaten eller er rekvirert av lege, dekkes av folketrygden.
+
+*Endret ved [forskrifter 30 april 2004 nr. 677](https://lovdata.no/forskrift/2004-04-30-677), [30 juni 2006 nr. 790](https://lovdata.no/forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).*
+
+## § 2.
+
+Transport av båre i forbindelse med obduksjon som er krevet av politi- og lensmannsetaten eller transport av båre i forbindelse med at avdøde har testamentert sitt legeme til et universitet, dekkes ikke av folketrygden.
+
+## § 3.
+
+20 kilometer-grensen i lovens § 7-3 andre ledd kan fravikes når
+
+a. nærmeste begravelsesbyrå ligger slik til at bårebilen må tilbakelegge en avstand som overstiger 20 kilometer for å nå fram til dødsstedet, eller
+b. det er nødvendig å benytte ferge og ventetiden av den grunn blir på minst 2 timer, eller
+c. ferge må chartres fordi det ikke er mulig å benytte rutegående ferge.
+
+## § 4.
+
+Forskriften trer i kraft den 1. mai 1997.

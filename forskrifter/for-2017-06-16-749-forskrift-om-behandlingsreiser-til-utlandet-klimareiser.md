@@ -1,0 +1,114 @@
+# Forskrift om behandlingsreiser til utlandet (klimareiser)
+
+- **Datokode:** FOR-2017-06-16-749
+- **DokumentID:** SF/forskrift/2017-06-16-749
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavd.
+- **Hjemmel:** lov 02.07.1999 nr. 61/§1-2; lov 02.07.1999 nr. 61/§2-1a; lov/1967-02-10/§28
+- **Kunngjort:** 2017-06-16 16:15
+- **I kraft fra:** 2018-01-01
+- **Siste endring i kraft:** 2019-01-01
+- **Sist endret ved:** forskrift 18.12.2018 nr. 2088 fra 2019-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 16. juni 2017 med hjemmel i lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 1-2 andre ledd og § 2-1 a sjuende ledd og lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 28 fjerde ledd. Fremmet av Helse- og omsorgsdepartementet. Endret ved forskrift 18 des 2018 nr. 2088.
+- **Kilde:** <https://lovdata.no/forskrift/2017-06-16-749>
+
+## § 1. Formål
+
+Formålet med forskriften er å bidra til forsvarlig og effektiv saksbehandling av søknader om behandlingsreiser.
+
+## § 2. Virkeområde
+
+Forskriften gjelder tildeling av behandlingsreise til
+
+a. pasienter med kroniske inflammatoriske revmatiske leddsykdommer
+b. pasienter med postpoliosyndrom
+c. pasienter fra 4 år med psoriasis eller barneleddgikt (juvenil idiopatisk artritt)
+d. pasienter fra 3 år til fylte 18 år med astma, kronisk lungesykdom eller atopisk eksem
+e. pasienter med amyotrofisk lateralsklerose.
+
+*Endret ved [forskrift 18 des 2018 nr. 2088](https://lovdata.no/forskrift/2018-12-18-2088) (i kraft 1 jan 2019).*
+
+## § 3. Behandlingsreise
+
+Behandlingsreise er et organisert diagnosespesifikt behandlingstilbud i land med varmt og solrikt klima som finansieres over egen post i statsbudsjettet.
+
+## § 4. Vilkår for tildeling av behandlingsreiser
+
+Behandlingsreiser kan bare tildeles søkere som
+
+a. er medlem i folketrygden med rett til stønad ved helsetjenester og som har fast bosted i riket
+b. har en diagnose som nevnt i [§ 2](for-2017-06-16-749-forskrift-om-behandlingsreiser-til-utlandet-klimareiser.md) og
+c. har behov for og forventet nytte av en behandlingsreise.
+
+Behandlingsreise kan ikke tildeles søkeren dersom det er risiko for at søkerens helsetilstand kan bli betydelig forverret eller at det kan oppstå alvorlige komplikasjoner under behandlingsreisen.
+
+## § 5. Krav om diagnose
+
+Søkerens diagnose skal være fastsatt av legespesialist med relevant spesialistkompetanse og skal bygge på internasjonalt anbefalte diagnose- eller klassifikasjonskriterier.
+
+For barn skal diagnostisering foretas av barnelege eller av lege med spesialistgodkjenning innenfor relevant fagområde.
+
+## § 6. Prioritering av søkere
+
+Prioritering av søkerne skal skje etter en samlet vurdering av
+
+a. sykdommens omfang, sykdomsaktivitet og mulige senfølger og
+b. behovet for og forventet nytte av behandlingsreisen.
+
+Dersom søkere vurderes likestilt etter første ledd, skal søkere som har liten nytte av eller begrenset tilgang til annen behandling prioriteres.
+
+Dersom søker tidligere har deltatt på behandlingsreise, kan det legges vekt på søkerens deltakelse i og nytte av behandlingsprogrammet ved tidligere reiser, samt hyppigheten av tidligere reiser.
+
+## § 7. Rett til ledsager
+
+Rett til å ha med én ledsager har
+
+a. pasienter under 14 år
+b. pasienter som på grunn av nedsatt funksjonsevne har behov for ledsager.
+
+Dersom det foreligger særskilte behov eller omstendigheter, kan pasienter mellom 14 og 18 år gis rett til å ha med én ledsager.
+
+Mindreårige søsken som reiser på samme behandlingsreise har kun rett til å ha med én ledsager for inntil tre søsken.
+
+Behovet for ledsager på grunn av nedsatt funksjonsevne skal dokumenteres og bekreftes av lege.
+
+## § 8. Krav til ledsager
+
+Pasientens ledsager må være egnet til å ivareta pasientens behov for oppfølging under behandlingsreisen.
+
+## § 9. Dekning av utgifter
+
+Staten dekker pasientens og ledsagerens utgifter til reise og opphold fratrukket en egenandel. Egenandelens størrelse fastsettes av Helse- og omsorgsdepartementet.
+
+Pasienter betaler ikke egenandel til og med det kalenderåret de fyller 19 år.
+
+## § 10. Forholdet til forvaltningsloven
+
+Forvaltningsloven gjelder med de særlige bestemmelser som er gitt i denne forskriften.
+
+## § 11. Krav til søknaden
+
+Søknad om behandlingsreise fremmes på fastsatt skjema. Legeerklæring, enten fra fastlege eller lege med relevant spesialistkompetanse, skal vedlegges. Medisinske opplysninger om diagnosen gitt av lege med relevant spesialistkompetanse skal følge vedlagt søkerens første søknad om behandlingsreise, jf. [§ 5](for-2017-06-16-749-forskrift-om-behandlingsreiser-til-utlandet-klimareiser.md). Dersom det i behandlingen av søknaden er behov for nye eller oppdaterte medisinske opplysninger, kan Oslo universitetssykehus HF kreve at søker fremlegger slike opplysninger.
+
+Dersom pasient med nedsatt funksjonsevne har behov for ledsager, skal dokumentasjon og bekreftelse fra lege følge vedlagt søknaden, jf. [§ 7](for-2017-06-16-749-forskrift-om-behandlingsreiser-til-utlandet-klimareiser.md) fjerde ledd. Søkes det om ledsager for pasienter i alderen 14 til 18 år, skal informasjon om behovet for ledsager følge vedlagt søknaden, jf. [§ 7](for-2017-06-16-749-forskrift-om-behandlingsreiser-til-utlandet-klimareiser.md) andre ledd.
+
+## § 12. Søknadsfrist
+
+Søknaden med vedlegg må være innlevert innen fristdagen som er satt i utlysningen av behandlingsreisen. Søknader som innleveres etter fristen, kan avvises.
+
+## § 13. Behandling av søknader
+
+Oslo universitetssykehus HF fatter vedtak om tildeling av behandlingsreiser til utlandet etter bestemmelsene i denne forskriften og innenfor rammene av Stortingets budsjettvedtak.
+
+## § 14. Klageadgang
+
+Nasjonalt klageorgan for helsetjenesten er klageinstans for vedtak etter denne forskriften. Det er ikke klagerett på skjønnsutøvelsen knyttet til prioriteringen etter [§ 6](for-2017-06-16-749-forskrift-om-behandlingsreiser-til-utlandet-klimareiser.md).
+
+## § 15. Endringer
+
+Departementet kan fastsette endringer i forskriften med unntak av begrensninger i klageadgangen etter [§ 14](for-2017-06-16-749-forskrift-om-behandlingsreiser-til-utlandet-klimareiser.md).
+
+## § 16. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2018.

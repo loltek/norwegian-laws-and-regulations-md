@@ -1,0 +1,48 @@
+# Forskrift om en verdig eldreomsorg (verdighetsgarantien)
+
+- **Korttittel:** Verdighetsgarantiforskriften
+- **Datokode:** FOR-2010-11-12-1426
+- **DokumentID:** SF/forskrift/2010-11-12-1426
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Kommunetjenesteavd.
+- **Hjemmel:** lov 24.06.2011 nr. 30/§3-1; lov 24.06.2011 nr. 30/§3-2
+- **Publisert i:** I 2010 hefte 12
+- **Kunngjort:** 2010-11-16 14:15
+- **I kraft fra:** 2011-01-01
+- **Siste endring i kraft:** 2020-07-01
+- **Sist endret ved:** forskrift 19.06.2020 nr. 1238 fra 2020-07-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 12. november 2010 med hjemmel i lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 3-1 tredje ledd og § 3-2 andre ledd. Fremmet av Helse- og omsorgsdepartementet. Endret ved forskrifter 17 jan 2013 nr. 61, 19 juni 2020 nr. 1238 (i kraft 1 juli 2020).
+- **Kilde:** <https://lovdata.no/forskrift/2010-11-12-1426>
+
+## § 1. Formål og virkeområde
+
+Forskriften har som formål å sikre at eldreomsorgen tilrettelegges på en slik måte at dette bidrar til en verdig, trygg og meningsfull alderdom.
+
+Forskriften gjelder den eldreomsorg som ytes i medhold av helse- og omsorgstjenesteloven. Forskriften får anvendelse uavhengig av hvor tjenesten utføres. Forskriften klargjør hvordan tjenestetilbudet skal utformes for å sikre retten til nødvendige helse- og omsorgstjenester og et verdig tjenestetilbud.
+
+*Endret ved [forskrift 17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61).*
+
+## § 2. Tjenestens verdigrunnlag
+
+De kommunale pleie- og omsorgstjenestene skal legge til rette for en eldreomsorg som sikrer den enkelte tjenestemottaker et verdig og så langt som mulig meningsfylt liv i samsvar med sine individuelle behov.
+
+## § 3. Tjenestens innhold
+
+Tjenestetilbudet skal innrettes i respekt for den enkeltes selvbestemmelsesrett, egenverd og livsførsel og sikre at medisinske behov blir ivaretatt. For å oppnå disse målsettingene skal tjenestetilbudet legge til rette for at følgende hensyn ivaretas:
+
+a. En riktig og forsvarlig boform ut fra den enkeltes behov og tilstand.
+b. Et variert og tilstrekkelig kosthold og tilpasset hjelp ved måltider.
+c. Et mest mulig normalt liv, med normal døgnrytme og adgang til å komme ut, samt nødvendig hjelp til personlig hygiene.
+d. Tilby samtaler om eksistensielle spørsmål.
+e. Lindrende behandling og en verdig død.
+f. Å bevare eller øke sin mulighet til å fungere i hverdagen. Omsorgen skal bidra til habilitering og rehabilitering.
+g. Faglig forsvarlig oppfølging av lege og annet relevant personell, som sikrer kontinuitet i behandlingen.
+h. Tilby eldre som bor på helseinstitusjon enerom.
+i. at par som ønsker det skal kunne bo sammen.
+
+*Endret ved [forskrift 19 juni 2020 nr. 1238](https://lovdata.no/forskrift/2020-06-19-1238) (i kraft 1 juli 2020).*
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2011.

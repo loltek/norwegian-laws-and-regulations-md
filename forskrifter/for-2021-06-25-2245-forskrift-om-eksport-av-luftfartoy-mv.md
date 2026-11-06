@@ -1,0 +1,74 @@
+# Forskrift om eksport av luftfartøy, flymotor og flypropell
+
+- **Korttittel:** Forskrift om eksport av luftfartøy mv.
+- **Datokode:** FOR-2021-06-25-2245
+- **DokumentID:** SF/forskrift/2021-06-25-2245
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Luftfartstilsynet
+- **Hjemmel:** lov 11.06.1993 nr. 101/§4-1; lov 11.06.1993 nr. 101/§4-3; lov 11.06.1993 nr. 101/§15-4; forskrift 06.04.2001 nr. 321; forskrift 10.12.1999 nr. 1273
+- **Kunngjort:** 2021-07-01 17:35
+- **I kraft fra:** 2021-07-01
+- **Endrer:** forskrift 24.02.2004 nr. 435
+- **Merknad:** Hjemmel: Fastsatt av Luftfartstilsynet 25. juni 2021 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart § 4-1, § 4-3 første ledd og § 15-4, jf. delegeringsvedtak 6. april 2001 nr. 321, jf. delegeringsvedtak 10. desember 1999 nr. 1273
+- **Kilde:** <https://lovdata.no/forskrift/2021-06-25-2245>
+
+## § 1. Virkeområde
+
+Forskriften gjelder for eksport av flymotor, flypropell og bemannet norskregistrert luftfartøy som skal eksporteres til et land utenfor EU-/EØS-området eller Sveits (tredjeland). Det er en forutsetning at flymotoren, flypropellen eller luftfartøyet er i henhold til typespesifikasjon.
+
+Forskriften gjelder også for eksport av flymotor, flypropell og bemannet norskregistrert luftfartøy med luftdyktighetsbevis etter [forskrift 25. juni 2021 nr. 2246 om nasjonal sertifisering av luftfartøy](for-2021-06-25-2246-forskrift-om-nasjonal-sertifisering-av-luftfartoy.md), ved eksport til et EU/EØS-land eller Sveits. Det er en forutsetning at flymotoren, flypropellen eller luftfartøyet er i henhold til typespesifikasjon.
+
+## § 2. Krav til søknad – luftfartøy, flymotor og flypropell
+
+Luftfartstilsynet behandler søknad om eksportluftdyktighetsbevis for luftfartøy, flymotor og flypropell. Det skal benyttes søknadsskjema publisert på Luftfartstilsynets internettside.
+
+I søknaden skal det oppgis hvordan luftfartøyet skal transporteres til importlandet. Ved overføringsflyging skal det oppgis om flygingen skal skje med norsk eller utenlandsk registreringsmerke.
+
+Søknad om luftdyktighetsbevis for luftfartøy skal ha vedlagt
+
+a. første side av flygehåndboka
+b. masse- og balansedokument
+c. vedlikeholdsrapport som ikke er eldre enn 30 dager
+d. oversikt over gjeldende luftdyktighetspåbud, modifikasjoner og reparasjoner samt når de er utført.
+
+Luftfartstilsynet kan kreve ytterligere dokumentasjon.
+
+## § 3. Besiktigelse, teknisk kontrollflyging og prøveflyging
+
+Luftfartstilsynet kan gjennomføre besiktigelse av luftfartøyet.
+
+Luftfartstilsynet kan kreve at det gjennomføres teknisk kontrollflyging for å verifisere luftdyktighet. Teknisk kontrollflyging skal gjennomføres av fartøysjef med erfaring fra tilsvarende operasjoner.
+
+Luftfartstilsynet kan kreve at det gjennomføres prøveflyging. Ved krav om prøveflyging gjelder bestemmelsene i [forskrift 25. juni 2021 nr. 2246 om nasjonal sertifisering av luftfartøy § 29](for-2021-06-25-2246-forskrift-om-nasjonal-sertifisering-av-luftfartoy.md)–[§ 36](for-2021-06-25-2246-forskrift-om-nasjonal-sertifisering-av-luftfartoy.md).
+
+## § 4. Eksportluftdyktighetsbevis – luftfartøy, flymotor og flypropell
+
+Luftfartstilsynet kan utstede eksportluftdyktighetsbevis for luftfartøy, flymotor og flypropell dersom luftdyktighetskravene i andre ledd er oppfylt. Et luftfartøy må være registrert i Norges luftfartøyregister.
+
+Luftfartøy, flymotor og flypropell skal være i henhold til typespesifikasjon. Luftfartøy skal ha gyldig luftdyktighetsbevis. Flymotor og flypropell må ha samsvarserklæring. Alt nødvendig vedlikehold skal være utført. Kravene trenger ikke være oppfylt dersom importstaten godtar avvik. Importstaten må bekrefte dette skriftlig overfor Luftfartstilsynet.
+
+## § 5. Avvik
+
+I eksportluftdyktighetsbeviset skal det oppgis som avvik dersom det er forskjeller i konfigurasjon mellom luftfartøyet, flymotoren eller flypropellen, og tilhørende typesertifikat. Det skal også oppgis som avvik dersom luftdyktighetskrav til luftfartøy, flymotor eller flypropell ikke er oppfylt. Dersom importstaten har gitt bekreftelse som nevnt i [§ 4](for-2021-06-25-2245-forskrift-om-eksport-av-luftfartoy-mv.md) andre ledd, må avvik ikke oppgis på dokumentet.
+
+## § 6. Spesielt utstyr for overføringsflyging
+
+Dersom det i luftfartøyet installeres spesielt utstyr for overføringsflygingen, for eksempel ekstra drivstofftanker og radioutstyr, skal dette være godkjent av Luftfartstilsynet og inngå i masse- og balansedokumentasjonen. Prosedyrer for bruken av utstyret må utarbeides og legges til grunn for flygingen.
+
+## § 7. Tilbakekall av eksportluftdyktighetsbevis
+
+Luftfartstilsynet kan endre og om nødvendig kalle tilbake eksportluftdyktighetsbevis dersom
+
+a. eier av luftfartøyet overtrer bestemmelsene i denne forskrift,
+b. eier av luftfartøyet gir uriktige opplysninger eller tilbakeholder opplysninger til Luftfartstilsynet,
+c. det ellers følger av regler om omgjøring.
+
+## § 8. Eksport uten eksportluftdyktighetsbevis
+
+Registrert eier av luftfartøyet må notifisere Luftfartstilsynet dersom det skjer eksport av luftfartøy uten at det søkes om eksportluftdyktighetsbevis.
+
+## § 9. Ikrafttredelse og oppheving av forskrift
+
+Forskriften trer i kraft 1. juli 2021.
+
+Fra samme tidspunkt oppheves [forskrift 24. februar 2004 nr. 435 om eksport av flymateriell (eksportforskriften), (BSL B 1-4)](https://lovdata.no/forskrift/2004-02-24-435).

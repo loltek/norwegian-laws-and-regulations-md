@@ -1,0 +1,103 @@
+# Forskrift om gjennomføring av De Forente Nasjoners Sikkerhetsråds resolusjoner om sanksjoner mot Irak
+
+- **Korttittel:** Forskrift om sanksjoner mot Irak
+- **Datokode:** FOR-1990-08-09-635
+- **DokumentID:** SF/forskrift/1990-08-09-635
+- **Departement:** Utenriksdepartementet
+- **Etat:** Rettsavd.
+- **Hjemmel:** lov 07.06.1968 nr. 4/§1; lov 16.04.2021 nr. 18/§1
+- **Publisert i:** I 1990 704
+- **I kraft fra:** 1990-08-09
+- **Siste endring i kraft:** 2025-01-01
+- **Sist endret ved:** forskrift 22.11.2024 nr. 2888 fra 2025-01-01
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2026-02-26 (hjemmel)
+- **Merknad:** Hjemmel: Fastsatt ved Regjeringens res. av 9. august 1990. Fremmet av Utenriksdepartementet. Tilføyd hjemmel: Lov 7. juni 1968 nr. 4 om gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd. Lov 16. april 2021 nr. 18 om om gjennomføring av internasjonale sanksjoner (sanksjonsloven) § 1. Endret ved forskrifter 15. mars 1991 nr. 145, 19. april 1991 nr. 230, 27. september 1991 nr. 631, 21 jan 2000 nr. 54, 25 mai 2003 nr. 634 (bl.a. tittel, forskriften endret i sin helhet), 19 des 2003 nr. 1752, 6 des 2007 nr. 1358, 18 juni 2008 nr. 611, 11 okt 2016 nr. 1199, 20 des 2023 nr. 2259, 22 nov 2024 nr. 2888 (i kraft 1 jan 2025). Rettet 03.07.2003 (§ 2 fotnote), 09.01.2026 (hjemmel), 26.02.2026 (hjemmel).
+- **Kilde:** <https://lovdata.no/forskrift/1990-08-09-635>
+
+Med hjemmel i [lov av 7. juni 1968 nr. 4](https://lovdata.no/lov/1968-06-07-4) om gjennomføring av bindende vedtak av De forente Nasjoners Sikkerhetsråd fastsettes følgende forskrift til gjennomføring av Sikkerhetsrådets vedtak om sanksjoner mot Irak.
+
+## § 1.
+
+Det er forbudt for enhver på norsk territorium, og for norske borgere, foretak, selskaper, stiftelser og sammenslutninger uansett hvor de befinner seg, å selge, forsyne eller formidle våpen og annet militært utstyr samt teknologi og tjenester til militære formål til Irak.
+
+Unntatt fra forbudet er leveranser av nødvendig materiell som nevnt i første ledd for stabilisering og sikkerhet i Irak i samsvar med Sikkerhetsrådets resolusjoner.
+
+## § 2.[1]
+
+Finansielle midler eller aktiva tilhørende den tidligere irakiske regjering eller dennes statsorganer, selskaper eller virksomheter, skal fryses. Dette gjelder ikke midler som ikke befant seg i Norge per 22. mai 2003.
+
+Finansielle midler eller aktiva tilhørende høytstående representanter for den tidligere irakiske regjering eller deres nære familiemedlemmer, enheter som eies eller direkte eller indirekte kontrolleres av nevnte personer eller personer som handler på deres vegne eller etter deres instruks, skal fryses.
+
+Finansielle midler eller aktiva som er frosset i henhold til første eller annet ledd, og som tilhører personer eller enheter identifisert i henhold til De Forente Nasjoners Sikkerhetsråds resolusjon nr. 1483, skal overføres til Utviklingsfondet for Irak. Opplysninger om overføringsmåte fås ved henvendelse til Direktoratet for eksportkontroll og sanksjoner.
+
+Finansielle midler eller aktiva som er omfattet av første eller annet ledd kan ikke være gjenstand for beslag eller midlertidig sikring.
+
+Den som et vedtak om frys av midler i medhold av denne paragraf retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs Sikkerhetsråds resolusjon 1730 (2006).[2]
+
+[Lov 4. august 1995 nr. 53](../lover/lov-1995-08-04-53-politiloven.md) om politiet [§ 17b](../lover/lov-1995-08-04-53-politiloven.md) nr. 4 får anvendelse.
+
+Direktoratet for eksportkontroll og sanksjoner skal underrettes om tiltak iverksatt etter denne paragraf.
+
+*Endret ved [forskrifter 19 des 2003 nr. 1752](https://lovdata.no/forskrift/2003-12-19-1752), [6 des 2007 nr. 1358](https://lovdata.no/forskrift/2007-12-06-1358), [18 juni 2008 nr. 611](https://lovdata.no/forskrift/2008-06-18-611), [11 okt 2016 nr. 1199](https://lovdata.no/forskrift/2016-10-11-1199), [22 nov 2024 nr. 2888](https://lovdata.no/forskrift/2024-11-22-2888) (i kraft 1 jan 2025).*
+
+## § 3.
+
+Bestemmelsene i [§ 2 første](for-1990-08-09-635-forskrift-om-sanksjoner-mot-irak.md) og [annet ledd](for-1990-08-09-635-forskrift-om-sanksjoner-mot-irak.md) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+a. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+b. internasjonale organisasjoner,
+c. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+d. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+e. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller
+f. andre relevante aktører som fastsatt av Sanksjonskomiteen.
+
+*Tilføyd ved forskrift [20 des 2023 nr. 2259](https://lovdata.no/forskrift/2023-12-20-2259).*
+
+## § 4.
+
+All handel med eller utførsel eller innførsel av irakiske kulturgjenstander som er eller med rimelig grunn kan antas å være ulovlig fjernet fra Irak etter 6. august 1990, er forbudt. Forbudet omfatter enhver gjenstand av arkeologisk, historisk, kulturell, vitenskapelig eller religiøs betydning.
+
+Forbudet i første ledd gjelder ikke ved tilbakeføring av gjenstander til de relevante irakiske institusjoner.
+
+*Endret ved forskrift [20 des 2023 nr. 2259](https://lovdata.no/forskrift/2023-12-20-2259) (tidligere § 3).*
+
+## § 5.
+
+Utenriksdepartementet gis fullmakt til å endre, suspendere eller oppheve denne forskrift.
+
+*Endret ved forskrift [20 des 2023 nr. 2259](https://lovdata.no/forskrift/2023-12-20-2259) (tidligere § 4).*
+
+## § 6.
+
+1. Forbudene i denne forskrift gjelder også fortsettelse av virksomhet som var påbegynt før forbudene trådte i kraft.
+2. Denne forskriften trer i kraft straks.
+
+*Endret ved forskrift [20 des 2023 nr. 2259](https://lovdata.no/forskrift/2023-12-20-2259) (tidligere § 5).*
+
+## Fotnoter
+
+**1.** Lister med personer og enheter omtalt i denne paragrafen finnes på [FNs hjemmeside](https://www.un.org/securitycouncil/sanctions/1518/materials/summaries).
+
+**2.** Resolusjon 1730 (2006)
+
+Vedtatt på Sikkerhetsrådets 5599. møte 19. desember 2006.
+
+Fremgangsmåte ved avlisting
+
+Sikkerhetsrådet ber Generalsekretæren om at det opprettes et kontaktpunkt i Sekretariatet (del av FN-sekretariatet) som kan ta imot anmodninger om avlisting. Søkere som ønsker å fremsette en anmodning om avlisting, kan gjøre dette som angitt nedenfor gjennom kontaktpunktet, eller via staten de er bosatt i eller er statsborger av.
+
+Kontaktpunktet skal ha følgende oppgaver:
+
+1. Motta anmodninger om avlisting fra søkere (enkeltperson eller -personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).
+2. Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.
+3. Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.
+4. Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.
+5. Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.
+6. a. Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.
+   b. Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.
+   c. Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.
+7. Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.
+8. Informere søker om
+   a. at Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, eller
+   b. at komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.

@@ -1,0 +1,68 @@
+# Forskrift om sosiale tjenester for personer uten fast bopel i Norge
+
+- **Korttittel:** Forskrift om sosiale tjenester, bopelsløse
+- **Datokode:** FOR-2011-12-16-1251
+- **DokumentID:** SF/forskrift/2011-12-16-1251
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Velferdspolitisk avd.
+- **Hjemmel:** lov 18.12.2009 nr. 131/§2
+- **Publisert i:** I 2011 hefte 13
+- **Kunngjort:** 2011-12-19 15:15
+- **I kraft fra:** 2012-01-01
+- **Siste endring i kraft:** 2025-03-07
+- **Sist endret ved:** forskrift 07.03.2025 nr. 381
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 16. desember 2011 med hjemmel i lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen § 2. Fremmet av Arbeidsdepartementet. Endret ved forskrifter 14 mars 2014 nr. 278, 7 mars 2025 nr. 381.
+- **Kilde:** <https://lovdata.no/forskrift/2011-12-16-1251>
+
+## § 1. Personer som har lovlig opphold, men ikke bopel i riket
+
+Personer som ikke er norske statsborgere og som ikke har bopel i riket, har ikke krav på individuelle tjenester etter loven, med unntak av opplysning, råd og veiledning.
+
+Hvis en person som nevnt i første ledd ikke kan sørge for sitt livsopphold, har vedkommende rett til økonomisk stønad og hjelp til å finne midlertidig botilbud i henhold til loven. Hjelp gis inntil vedkommende kan forventes å få bistand fra kilder i hjemlandet.
+
+Første og andre ledd gjelder ikke dersom annet følger av avtale Norge har inngått med vedkommendes hjemland, eller av multilaterale avtaler eller konvensjoner.
+
+Første og andre ledd gjelder ikke antatte ofre for menneskehandel som er innvilget begrenset oppholdstillatelse etter [utlendingsforskriften § 8-3](for-2009-10-15-1286-utlendingsforskriften.md) første og andre ledd (refleksjonsperiode mv.), eller personer som har rett til å bli i landet mens søknad om oppholdstillatelse eller klage på vedtak i sak om opphold er til behandling hos utlendingsmyndighetene, ved norsk domstol eller hos internasjonalt klageorgan som Norge har anerkjent.
+
+*Endret ved forskrift [7 mars 2025 nr. 381](https://lovdata.no/forskrift/2025-03-07-381).*
+
+## § 1a. Utlendinger som omfattes av EØS-avtalen
+
+Vilkåret om bopel i [§ 1 første ledd](for-2011-12-16-1251-forskrift-om-sosiale-tjenester-bopelslose.md) gjelder ikke for EØS-borgere og deres familiemedlemmer med lovlig opphold i Norge i henhold til [EØS-avtalen](../lover/lov-1992-11-27-109-eos-loven.md).
+
+Personer som har oppholdsrett i riket etter [utlendingsloven § 111](../lover/lov-2008-05-15-35-utlendingsloven.md), og som ikke har bopel i riket jf. [§ 1 første ledd](for-2011-12-16-1251-forskrift-om-sosiale-tjenester-bopelslose.md), har likevel ikke krav på individuelle tjenester etter loven, med unntak av opplysning, råd og veiledning.
+
+Hvis en person som nevnt i andre ledd ikke kan sørge for sitt livsopphold, har vedkommende rett til økonomisk stønad og hjelp til å finne midlertidig botilbud i henhold til loven. Hjelp gis inntil vedkommende kan forventes å få bistand fra kilder i hjemlandet.
+
+*Tilføyd ved forskrift [7 mars 2025 nr. 381](https://lovdata.no/forskrift/2025-03-07-381).*
+
+## § 2. Personer som kan få statlig innkvartering
+
+Personer som har søkt om beskyttelse, og som er i, eller kan få statlig innkvartering, har ikke krav på individuelle tjenester etter loven, med unntak av opplysning, råd og veiledning.
+
+Hvis en person med innvilget opphold i riket på eget initiativ flytter fra statlig innkvartering til en kommune og søker om sosiale tjenester, kan kommunen avslå søknaden med henvisning til det statlige tilbudet, med mindre dette er åpenbart urimelig.
+
+## § 3. Personer som er bosatt i en kommune som mottar integreringstilskudd
+
+Personer som er bosatt i en kommune som mottar integreringstilskudd for vedkommende, har rett til tjenester i denne kommunen.
+
+Flytter en person som nevnt i første ledd til en annen kommune, har vedkommende rett til tjenester der, dersom flyttingen er avtalt mellom de to kommunene.
+
+Hvis flyttingen ikke er avtalt, kan tilflyttingskommunen avslå søknaden med henvisning til bosettingskommunens ansvar, med mindre dette er åpenbart urimelig.
+
+## § 4. Personer som ikke har lovlig opphold i riket
+
+Personer som ikke har lovlig opphold i riket har ikke krav på individuelle tjenester etter loven, med unntak av opplysning, råd og veiledning.
+
+Hvis en person som nevnt i første ledd ikke kan sørge for sitt livsopphold, og heller ikke kan få statlig innkvartering, har vedkommende i en nødssituasjon rett til økonomisk stønad og hjelp til å finne midlertidig botilbud i henhold til loven i en kort periode. Hjelp gis inntil vedkommende i praksis kunne forlatt landet. Det kan stilles krav om at vedkommende aktivt bidrar til egen utreise, blant annet kan det stilles krav om å skaffe nødvendige reisedokumenter.
+
+*Endret ved [forskrift 14 mars 2014 nr. 278](https://lovdata.no/forskrift/2014-03-14-278) (i kraft 1 mai 2014).*
+
+## § 5. Dokumentasjon av lovlig opphold
+
+Kommunen i arbeids- og velferdsforvaltningen kan kreve at søker dokumenterer lovlig opphold i riket.
+
+## § 6. Ikraftsetting
+
+Forskriften settes i kraft fra 1. januar 2012.

@@ -1,0 +1,792 @@
+# Lov om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven)
+
+- **Korttittel:** Politiregisterloven
+- **Datokode:** LOV-2010-05-28-16
+- **DokumentID:** NL/lov/2010-05-28-16
+- **Departement:** Justis- og beredskapsdepartementet
+- **Kunngjort:** 2010-05-28 13:50
+- **I kraft fra:** 2014-07-01, 2013-09-13, 2013-09-27, 2016-01-01, 2018-05-06
+- **Siste endring i kraft:** 2026-10-01
+- **Sist endret ved:** lov 19.06.2026 nr. 49 fra 2026-10-01
+- **Rettsområde:** Familie-, person- og barnerett > Personrett. Personvern; Forvaltnings- og kommunalrett > Statistikk. Registrering; Forvaltnings- og kommunalrett > Politi
+- **EU/EØS-henvisning:** Direktiv (EU) 2016/680
+- **Endrer:** lov 11.06.1971 nr. 52
+- **Siste rettelse:** 2022-03-28 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Jf. tidligere lov 11 juni 1971 nr. 52.
+- **Kilde:** <https://lovdata.no/lov/2010-05-28-16>
+
+## Kapittel 1. Lovens formål, definisjoner og virkeområde
+
+### § 1. Lovens formål
+
+Formålet med loven er å bidra til effektiv løsning av politiets og påtalemyndighetens oppgaver, beskyttelse av personvernet og forutberegnlighet for den enkelte ved behandlingen av opplysninger.
+
+### § 2. Definisjoner
+
+I denne lov forstås med:
+
+1. personopplysning: opplysning og vurdering som kan knyttes til fysisk person som kan identifiseres direkte eller indirekte,
+2. behandling av opplysninger: enhver elektronisk eller manuell bruk av opplysninger, som for eksempel innsamling, registrering, systematisering, strukturering, oppbevaring, tilpasning, endring, gjenfinning, søking, videreformidling ved overføring, spredning eller andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, sperring, sletting eller tilintetgjøring eller en kombinasjon av slike bruksmåter,
+3. register: en samling av opplysninger som er lagret systematisk på en slik måte at opplysninger om den enkelte kan finnes igjen,
+4. behandlingsansvarlig: den som etter lov eller forskrift alene eller sammen med andre bestemmer formålet med behandlingen og hvilke hjelpemidler som skal brukes,
+5. databehandler: den som behandler opplysninger på vegne av den behandlingsansvarlige,
+6. registrert: fysisk eller juridisk person som en opplysning i et register eller i en behandling kan knyttes til,
+7. samtykke: en frivillig, uttrykkelig og informert erklæring fra den registrerte om at denne godtar behandlingen av opplysninger,
+8. ikke-verifisert opplysning: opplysning som ikke er avklart,
+9. merking: markering av lagrede opplysninger uten at hensikten er å begrense den fremtidige behandlingen av disse opplysningene,
+10. sperring: markering av lagrede opplysninger i den hensikt å begrense den fremtidige behandlingen av disse opplysningene,
+11. straffesak: sak som behandles etter straffeprosessloven,
+12. vandelskontroll: bruk av opplysninger for å vurdere om en fysisk eller juridisk person er egnet til en bestemt stilling, virksomhet, aktivitet eller annen funksjon,
+13. politimessige formål:
+    a. politiets kriminalitetsbekjempende virksomhet, herunder etterforskning, forebyggende arbeid og ordenstjeneste, og
+    b. politiets service- og bistandsfunksjon samt føring av vaktjournaler.
+14. brudd på personopplysningssikkerheten: et brudd på sikkerheten som fører til utilsiktet eller ulovlig tilintetgjøring, tap, endring, ulovlig spredning av eller tilgang til personopplysninger som er overført, lagret eller på annen måte behandlet,
+15. genetisk opplysning: opplysning om en fysisk persons nedarvede eller ervervede genetiske egenskaper som gir unik informasjon om den aktuelle fysiske personens fysiologi eller helse, og som særlig er framkommet etter analysering av en biologisk prøve fra den aktuelle fysiske personen,
+16. biometrisk opplysning: opplysning som stammer fra en særskilt teknisk behandling knyttet til en fysisk persons fysiske, fysiologiske eller atferdsmessige egenskaper, og som muliggjør eller bekrefter en entydig identifikasjon av nevnte fysiske person, for eksempel ansiktsbilder eller fingeravtrykksopplysninger,
+17. internasjonal organisasjon: en organisasjon og dens underordnede organer som er underlagt folkeretten, eller ethvert annet organ opprettet ved eller på grunnlag av en avtale mellom to eller flere stater.
+
+*Endret ved [lover 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)), [22 juni 2018 nr. 81](https://lovdata.no/lov/2018-06-22-81) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 949](https://lovdata.no/forskrift/2018-06-22-949)).*
+
+### § 3. Lovens virkeområde
+
+Loven gjelder for politiets og påtalemyndighetens behandling av opplysninger, med unntak av behandling av opplysninger som
+
+1. reguleres av [lov 16. juli 1999 nr. 66 om Schengen informasjonssystem (SIS)](lov-1999-07-16-66-sis-loven.md), med mindre noe annet fremgår av [SIS-loven](lov-1999-07-16-66-sis-loven.md),
+2. er del av politiets forvaltningsvirksomhet eller sivile gjøremål.
+
+Forvaltningsvirksomhet og etterretningsvirksomhet i Politiets sikkerhetstjeneste er likevel omfattet av loven.
+
+Loven gjelder for militærpolitiets behandling av opplysninger til politimessige formål.
+
+Loven gjelder elektronisk behandling av opplysninger, og manuell behandling av opplysninger når disse inngår eller skal inngå i et register.
+
+For opplysninger om gjenstand gjelder [kapittel 4](lov-2010-05-28-16-politiregisterloven.md) og reglene om taushetsplikt i den grad opplysninger omfattes av [§ 23](lov-2010-05-28-16-politiregisterloven.md).
+
+Loven gjelder også for Svalbard, Jan Mayen og de norske bilandene, med de endringer som Kongen fastsetter av hensyn til de stedlige forhold.
+
+*Endret ved lover [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 17 sep 2021 iflg. [res. 17 sep 2021 nr. 2775](https://lovdata.no/forskrift/2021-09-17-2775)), [18 feb 2022 nr. 6](https://lovdata.no/lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](https://lovdata.no/forskrift/2023-02-10-173)), [28 april 2023 nr. 11](https://lovdata.no/lov/2023-04-28-11) (i kraft 1 sep 2023 iflg. [res. 28 april 2023 nr. 614](https://lovdata.no/forskrift/2023-04-28-614)). **Endres** ved lov [19 juni 2026 nr. 46](lov-2026-06-19-46-endringslov-til-politiregisterloven-og-grenseloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+
+## Kapittel 2. Krav til behandlingen av opplysninger
+
+### § 4. Formålsbestemthet
+
+Opplysninger kan behandles til det formålet de er innhentet for eller til andre politimessige formål, med mindre det er bestemt i lov eller i medhold av lov at retten til behandling er begrenset, eller at opplysninger kan behandles til andre formål enn de politimessige.
+
+### § 5. Nødvendighetskravet
+
+Opplysninger kan bare behandles når det er nødvendig ut fra formål som nevnt i [§ 4](lov-2010-05-28-16-politiregisterloven.md). I tillegg gjelder følgende begrensninger:
+
+1. I den enkelte straffesak kan det behandles opplysninger i samsvar med reglene i straffeprosessloven.
+2. Til kriminalitetsbekjempelsen utenfor den enkelte straffesak kan det behandles opplysninger om en person som
+   a. er knyttet til et miljø hvor en vesentlig del av virksomheten består i å begå lovbrudd, eller ut fra andre objektive holdepunkter kan antas å begå slike. Dette gjelder selv om personen er under den kriminelle lavalder eller de personlige forutsetninger for straffansvar for øvrig ikke er til stede,
+   b. har særlig tilknytning til personer som nevnt i bokstav a,
+   c. er blitt, eller sannsynligvis vil bli, utsatt for et lovbrudd, eller
+   d. er informant.Bokstav d får også anvendelse i straffesaker.
+3. Til politimessige formål som nevnt i [§ 2](lov-2010-05-28-16-politiregisterloven.md) nr. 13 bokstav b kan det behandles opplysninger utover formålet med virksomheten for å ivareta den enkeltes sikkerhet, herunder opplysninger om personer som representerer en særlig sikkerhetsrisiko.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 6. Krav til opplysningenes kvalitet
+
+Opplysninger som behandles, skal
+
+1. være tilstrekkelige og relevante for formålet med behandlingen,
+2. være korrekte og oppdaterte, og
+3. ikke lagres lenger enn nødvendig ut fra formålet med behandlingen.
+
+Ikke-verifiserte opplysninger kan behandles, dersom det er nødvendig ut fra formålet med behandlingen.
+
+Når opplysninger behandles skal det så vidt mulig og dersom det er relevant fremgå hvilken kategori personer den registrerte tilhører, for eksempel om vedkommende er domfelt, mistenkt, fornærmet, vitne eller melder eller har tilknytning til personer som nevnt. På samme måte skal det så vidt mulig fremgå om opplysninger bygger på faktiske forhold eller vurderinger. I tillegg skal opplysninger som behandles etter [§ 5](lov-2010-05-28-16-politiregisterloven.md) nr. 2 markeres med kildens pålitelighet og opplysningens holdbarhet.
+
+For politiets etterforskning, føring av vaktjournal og lignende betyr kravet i første ledd nr. 2 til korrekte opplysninger at opplysningene skal være gjengitt slik kilden ga dem. Kravet i første ledd nr. 2 om at opplysningene skal være oppdatert, betyr for etterforskningen at opplysningene så vidt mulig skal oppdateres når de brukes som bevis.
+
+*Endret ved [lov 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+### § 7. Behandling av særlige kategorier av personopplysninger
+
+Behandling av personopplysninger om rasemessig eller etnisk opprinnelse, politisk, religiøs eller filosofisk overbevisning, fagforeningstilhørighet samt behandling av genetiske og biometriske opplysninger med det formål entydig å identifisere en fysisk person, eller opplysninger om helsemessige forhold, seksuelle forhold eller seksuell orientering kan bare finne sted dersom det er strengt nødvendig ut fra formålet med behandlingen. Slike opplysninger kan også behandles dersom det er strengt nødvendig for å verne den registrertes eller en annen persons vitale interesser.
+
+*Endret ved [lov 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+### § 8. Tidsbegrenset unntak fra kravene til formålsbestemthet, nødvendighet og relevans
+
+Opplysninger kan uansett behandles i 4 måneder dersom det er nødvendig for å avklare om kravene i [§ 4](lov-2010-05-28-16-politiregisterloven.md), [§ 5](lov-2010-05-28-16-politiregisterloven.md) nr. 1 og 2 og [§ 6](lov-2010-05-28-16-politiregisterloven.md) første ledd nr. 1 er oppfylt.
+
+Opplysningene skal snarest mulig underlegges kontroll, slik at de enten slettes eller behandles etter annet rettslig grunnlag enn [§ 8](lov-2010-05-28-16-politiregisterloven.md). Som ledd i kontrollen kan opplysningene gjøres kjent for andre tjenestemenn i politiet og påtalemyndigheten. Opplysningene kan også utleveres til andre dersom det er strengt nødvendig for kontrollen.
+
+Tidsbegrensningen gjelder ikke behandling av opplysninger i den enkelte straffesak.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+## Kapittel 3. Politiets registre og andre systemer
+
+### § 9. Reaksjonsregister
+
+Politiet skal føre et reaksjonsregister med opplysninger om fysiske eller juridiske personer som har vært ilagt straff eller andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd. Det skal registreres personalia, reaksjoner og tiltak. Taushetsplikten i [§ 23](lov-2010-05-28-16-politiregisterloven.md) er ikke til hinder for at opplysninger i registeret brukes til kriminalstatistikk. Kongen gir i forskrift nærmere regler om registrering av utenlandske reaksjoner og tiltak.
+
+### § 10. Vaktjournal
+
+Politiet skal føre registre som gir en fortløpende og døgnkontinuerlig oversikt over alle vesentlige opplysninger om ordning og utførelse av polititjenesten på vedkommende sted. Registeret kan brukes til politimessige, forvaltningsmessige og administrative formål.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 11. Kriminaletterretningsregister
+
+Politiet kan føre kriminaletterretningsregistre dersom vilkårene i [§ 5](lov-2010-05-28-16-politiregisterloven.md) nr. 2 og lovens øvrige vilkår er oppfylt.
+
+### § 12. DNA-register
+
+Politiet skal føre et DNA-register som består av et identitetsregister, et etterforskningsregister og et sporregister.
+
+I identitetsregisteret kan registreres den som
+
+1. er ilagt en straff som nevnt i [straffeloven § 29](lov-2005-05-20-28-straffeloven.md) for en handling som etter loven kan medføre frihetsstraff. Registrering kan først skje når avgjørelsen er rettskraftig eller saken er endelig avgjort. Handling som det er utferdiget forenklet forelegg for, gir ikke grunnlag for registrering,
+2. på grunn av reglene i [straffeloven § 20](lov-2005-05-20-28-straffeloven.md) ikke kan dømmes til straff for en handling som kvalifiserer for registrering. Det samme gjelder når tilstanden har medført at vedkommende ikke har utvist skyld,
+3. er norsk statsborger eller arbeider eller oppholder seg i Norge, og som i utlandet er ilagt en straff som svarer til dem som er nevnt i [straffeloven § 29](lov-2005-05-20-28-straffeloven.md), og den begåtte handling kunne ha medført frihetsstraff om den hadde vært begått i Norge, eller
+4. begjærer det av grunner som finnes fyllestgjørende.
+
+I etterforskningsregisteret registreres alle DNA-profiler som er fremstilt på grunnlag av biologisk materiale innhentet i medhold av [straffeprosessloven § 158](lov-1981-05-22-25-straffeprosessloven.md) første ledd. Så snart politiet har truffet vedtak om registrering i identitetsregisteret, skal vedkommendes DNA-profil overføres fra etterforskningsregisteret til identitetsregisteret.
+
+I sporregisteret kan det registreres opplysninger om personer med ukjent identitet når opplysningene antas å ha tilknytning til uoppklart straffesak.
+
+Politiet kan føre et eliminasjonsregister. I eliminasjonsregisteret kan det registreres opplysninger innhentet i medhold av [straffeprosessloven § 158](lov-1981-05-22-25-straffeprosessloven.md) annet ledd om ansatte i politiet, analyseinstitusjoner og andre med kjent identitet som regelmessig kommer i kontakt med åsteder og bevismateriale.
+
+Opplysningene i registeret skal kun brukes i strafferettspleien, med mindre annet er fastsatt i bestemmelsen her. Kongen kan i forskrift likevel bestemme at opplysningene også kan brukes i forskningsøyemed og gi nærmere regler om slik bruk.
+
+Kongen gir forskrift med nærmere bestemmelser om DNA-registrering, som for eksempel regler om registrering i henholdsvis identitetsregisteret, etterforskningsregisteret og sporregisteret, om føring og bruk av registrene, om søk i registrene og om oppbevaring av DNA-profiler.
+
+*Endret ved lover [11 des 2015 nr. 98](https://lovdata.no/lov/2015-12-11-98) (ikr. 1 jan 2016 iflg. [res. 11 des 2015 nr. 1438](https://lovdata.no/forskrift/2015-12-11-1438)), [21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)), [4 des 2020 nr. 135](https://lovdata.no/lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](https://lovdata.no/forskrift/2020-12-04-2592)), [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](https://lovdata.no/forskrift/2021-06-11-1873)).*
+
+### § 13. Fingeravtrykk- og fotoregister
+
+Politiet skal føre et register med fingeravtrykk og fotografi som er innhentet i samsvar med [straffeprosessloven § 160](lov-1981-05-22-25-straffeprosessloven.md) og bestemmelsene i [påtaleinstruksen](../forskrifter/for-1985-06-28-1679-paataleinstruksen.md). Det kan i tillegg føres et register med fingeravtrykk og fotografi av personer med ukjent identitet når opplysningene antas å ha tilknytning til uoppklart straffesak.
+
+Politiet kan føre et register med fingeravtrykk av ansatte i politiet som kan få kontakt med åsteder eller bevismateriale.
+
+*Endret ved lov [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](https://lovdata.no/forskrift/2021-06-11-1873)).*
+
+### § 14. Krav om forskriftsregulering av en behandling (register)
+
+Før etablering av et sentralt register, gir Kongen forskrift om
+
+1. hvilket rettslig grunnlag som hjemler behandlingen,
+2. formålet med behandlingen,
+3. hvem som er behandlingsansvarlig,
+4. hvilke opplysningskategorier som kan registreres,
+5. hvem i politiet og påtalemyndigheten som har tilgang til opplysningene,
+6. adgangen til å utlevere opplysningene,
+7. innsyn, retting, sperring og sletting av opplysninger, og
+8. informasjonssikkerhet og internkontroll.
+
+Krav om forskriftsregulering gjelder ikke for sammenstilling av opplysninger fra registre som er regulert i politiregisterforskriften dersom behandlingen følger reglene som gjelder for kilderegisteret.
+
+*Endret ved [lover 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)), [22 juni 2018 nr. 81](https://lovdata.no/lov/2018-06-22-81) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 949](https://lovdata.no/forskrift/2018-06-22-949)).*
+
+## Kapittel 4. Informasjonssikkerhet og internkontroll
+
+### § 15. Informasjonssikkerhet
+
+Den behandlingsansvarlige og databehandleren skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av opplysninger.
+
+For å oppnå tilfredsstillende informasjonssikkerhet skal den behandlingsansvarlige og databehandleren dokumentere informasjonssystemet og sikkerhetstiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den behandlingsansvarlige og hos databehandleren. Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.
+
+En behandlingsansvarlig som lar andre få tilgang til opplysninger, skal påse at disse oppfyller kravene i første og annet ledd.
+
+### § 16. Internkontroll
+
+Den behandlingsansvarlige skal etablere og holde ved like planlagte og systematiske tiltak som er nødvendige for å oppfylle kravene gitt i eller i medhold av denne loven, herunder sikre opplysningenes kvalitet.
+
+Den behandlingsansvarlige skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den behandlingsansvarlige og hos databehandleren. Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.
+
+### § 17. Kravet til sporbarhet
+
+Bruk av opplysninger skal kunne spores.
+
+Opplysningene om bruk av systemet kan benyttes til å
+
+1. administrere systemet,
+2. avdekke og oppklare brudd på sikkerheten i systemet, eller
+3. avdekke og sanksjonere urettmessig behandling av personopplysninger.
+
+Opplysninger om bruk av systemet skal registreres og lagres i minst 1 år og slettes senest etter 3 år.
+
+### § 18. Databehandlerens rådighet over personopplysningene
+
+En databehandler kan ikke behandle personopplysninger på annen måte enn den som følger av skriftlig avtale eller instruks. Opplysningene kan heller ikke uten slik avtale overlates til andre for lagring eller bearbeidelse.
+
+I avtalen med den behandlingsansvarlige skal det fremgå at databehandleren plikter å gjennomføre slike sikringstiltak som følger av [§ 15](lov-2010-05-28-16-politiregisterloven.md).
+
+Den som er ansatt hos, eller utfører tjeneste eller arbeid for databehandler, og som får tilgang til opplysninger som er taushetsbelagt i henhold til denne loven, skal være underlagt taushetsplikt. Omfanget av taushetsplikten skal fremgå av den behandlingsansvarliges avtale med databehandler. Det kan kreves uttømmende og utvidet politiattest av enhver som er ansatt hos eller utfører tjeneste eller arbeid for databehandler. Databehandler plikter på forespørsel å oppgi hvem som får tilgang til de taushetsbelagte opplysningene.
+
+*Endret ved lov [19 juni 2026 nr. 46](lov-2026-06-19-46-endringslov-til-politiregisterloven-og-grenseloven-mv.md) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](https://lovdata.no/forskrift/2026-06-19-1283)).*
+
+## Kapittel 5. Utlevering og tilgang til opplysninger
+
+### § 19. Generelt om utlevering av opplysninger
+
+Politiet og påtalemyndigheten kan utlevere opplysninger dersom det er adgang til dette etter reglene om taushetsplikt i [kapittel 6](lov-2010-05-28-16-politiregisterloven.md), og vilkårene for utlevering i [§ 8](lov-2010-05-28-16-politiregisterloven.md) annet ledd og [§ 20](lov-2010-05-28-16-politiregisterloven.md) er oppfylt for opplysninger som der nevnt.
+
+### § 20. Særlige regler for utlevering av ikke-verifiserte opplysninger
+
+Opplysningene skal så vidt mulig verifiseres før de utleveres. Opplysningene skal fortrinnsvis utleveres i skriftlig form, og i så fall skal det fremgå at de er ikke-verifiserte. Dersom ikke-verifiserte opplysninger utleveres muntlig, bør det gjøres oppmerksom på at opplysningene er ikke-verifiserte.
+
+Ikke-verifiserte opplysninger kan utleveres når det er nødvendig for å verifisere opplysningene.
+
+Ved utlevering til bruk i den enkelte straffesak og ved avvergende og forebyggende virksomhet, jf. [§§ 26](lov-2010-05-28-16-politiregisterloven.md) og [27](lov-2010-05-28-16-politiregisterloven.md), gjelder kun første ledd annet punktum.
+
+Bestemmelsen i [§ 53](lov-2010-05-28-16-politiregisterloven.md) gjelder tilsvarende.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 21. Tilgang til opplysninger innad i politiet og påtalemyndigheten
+
+Tjenestemenn i politiet og påtalemyndigheten kan gis tilgang (rett til direkte søk) til opplysninger, eller opplysninger kan på annen måte gjøres tilgjengelig for dem, i den utstrekning det er et tjenestemessig behov, og det er til formål som omfattes av denne loven.
+
+Opplysninger som etter sin art er sensitive, eller som er gitt av noen med særskilt beskyttelsesbehov, eller som er ikke-verifiserte, bør underlegges særskilt tilgangsbegrensning.
+
+### § 22. Utlevering av opplysninger til utlandet
+
+Opplysninger kan utleveres til utenlandske myndigheter til formål som nevnt i [§ 26](lov-2010-05-28-16-politiregisterloven.md). Opplysninger kan også utleveres til utenlandske samarbeidende politimyndigheter og sikkerhets- og etterretningstjenester for å avverge eller forebygge lovbrudd eller dersom det er nødvendig for å verifisere opplysningene. Bestemmelsene i [§ 27](lov-2010-05-28-16-politiregisterloven.md) tredje og femte ledd gjelder tilsvarende. For utlevering av opplysninger til land som ikke er forpliktet etter direktiv (EU) [2016/680](https://lovdata.no/eu/32016l0680*) og til internasjonale organisasjoner, gjelder i tillegg de vilkår som fastsettes i forskrift.
+
+Opplysninger kan for øvrig utleveres til eller på annen måte gjøres tilgjengelig for utenlandske myndigheter eller internasjonale organisasjoner når dette følger av lov eller konvensjon eller avtale som er bindende for Norge, eller av avtale inngått mellom norske og andre nordiske myndigheter.
+
+*Endret ved [lover 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)), [21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)), [29 mars 2019 nr. 9](https://lovdata.no/lov/2019-03-29-9).*
+
+## Kapittel 6. Begrensninger i taushetsplikten
+
+### § 23. Omfanget av taushetsplikten
+
+Enhver som er ansatt i eller utfører tjeneste eller arbeid for politiet eller påtalemyndigheten, plikter å hindre at andre får adgang eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om
+
+1. noens personlige forhold, eller
+2. tekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den opplysningen angår.
+
+Taushetsplikten gjelder også for opplysninger som det ut fra hensynet til etterforskningen i den enkelte sak, hensynet til spanings- og etterretningsvirksomheten eller hensynet til politiets operative virksomhet og organiseringen av denne er nødvendig å holde hemmelig. Begrensningene i taushetsplikten i [§ 22](lov-2010-05-28-16-politiregisterloven.md) og [§§ 24](lov-2010-05-28-16-politiregisterloven.md) til [34](lov-2010-05-28-16-politiregisterloven.md) kommer bare til anvendelse så langt de passer.
+
+Taushetsplikten gjelder også etter at vedkommende har avsluttet tjenesten eller arbeidet. Opplysninger som nevnt i paragrafen her kan heller ikke utnyttes i egen virksomhet eller i tjeneste eller arbeid for andre.
+
+Taushetsplikten gjelder også overfor andre i politiet og påtalemyndigheten, med mindre [§ 21](lov-2010-05-28-16-politiregisterloven.md) kommer til anvendelse.
+
+For taushetsplikt i tilknytning til kommunikasjonskontroll gjelder [straffeprosessloven kapittel 16a](lov-1981-05-22-25-straffeprosessloven.md).
+
+### § 24. Taushetsplikt når det ikke er behov for beskyttelse
+
+Taushetsplikten er ikke til hinder for at opplysningene
+
+1. gjøres kjent for andre, i den utstrekning den som har krav på taushet samtykker,
+2. brukes når behovet for beskyttelse må anses varetatt ved at de gis i statistisk form eller ved at individualiserende kjennetegn utelates på annen måte, eller
+3. brukes når ingen berettiget interesse tilsier at de holdes hemmelig, for eksempel når de er alminnelig kjent eller alminnelig tilgjengelig andre steder.
+
+### § 25. Taushetsplikt i forhold til parter eller den opplysningen gjelder, og til bruk i sak om erstatning
+
+Taushetsplikten er ikke til hinder for at opplysningene i en sak gjøres kjent for sakens parter, for fornærmede eller for etterlatte, eller deres representanter, og ellers for dem som opplysningene direkte gjelder.
+
+Taushetsplikten er heller ikke til hinder for at opplysninger brukes i sak om erstatning etter straffeforfølgning etter [straffeprosessloven kapittel 31](lov-1981-05-22-25-straffeprosessloven.md).
+
+Dette gjelder ikke for opplysninger som kan skade politiets arbeid med å forebygge eller avdekke lovbrudd eller opprettholde ro og orden dersom de blir kjent, med mindre annet følger av straffeprosesslovens regler om dokumentinnsyn.
+
+### § 26. Taushetsplikt i den enkelte straffesak
+
+Taushetsplikten er ikke til hinder for at opplysningene brukes i den enkelte straffesak, herunder til etterforskning, saksforberedelse, avgjørelse, gjennomføring av avgjørelsen, oppfølging og kontroll.
+
+### § 27. Taushetsplikt ved avvergende og forebyggende virksomhet
+
+Taushetsplikten er ikke til hinder for at politiet utleverer opplysninger, dersom det er nødvendig for å avverge et lovbrudd.
+
+Taushetsplikten er heller ikke til hinder for at opplysninger utleveres til
+
+1. offentlige organer, for å forebygge lovbrudd, eller
+2. private, dersom det er nødvendig for å forebygge lovbrudd og andre løsninger må antas å være utilstrekkelige.
+
+Utlevering må uansett være forholdsmessig i den konkrete situasjon, og det skal særlig legges vekt på om opplysningene formidles til en mottaker som er underlagt taushetsplikt, hvordan det kan forventes at mottaker benytter opplysningene og om opplysningene etter sin art eller kilde er beheftet med usikkerhet. Dersom det er mulig og hensiktsmessig å varsle den registrerte, bør dette gjøres før utlevering skjer.
+
+Taushetsplikten er heller ikke til hinder for at politiet utleverer opplysninger til andre offentlige organer og institusjoner som inngår i et kriminalitetsforebyggende samarbeid når det er nødvendig for å forebygge kriminalitet. Bestemmelsen i tredje ledd kommer til anvendelse.
+
+Utlevering av opplysninger etter annet ledd skal besluttes av den behandlingsansvarlige. Opplysningene skal fortrinnsvis utleveres i skriftlig form. Den behandlingsansvarlige skal nedtegne hvilke opplysninger som utleveres, hvem de utleveres til og årsaken til at de utleveres. Dersom opplysningene er ikke-verifisert, skal dette fremgå særskilt. Nedtegningsplikten gjelder også for utlevering av opplysninger etter første ledd.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 28. Taushetsplikt ved politiets andre oppgaver
+
+Taushetsplikten er ikke til hinder for at opplysninger utleveres til offentlige organer og private i den utstrekning det er nødvendig for utøvelsen av ordenstjenesten og politiets service- og bistandsfunksjon.
+
+Bestemmelsene i [§ 27](lov-2010-05-28-16-politiregisterloven.md) tredje ledd gjelder tilsvarende.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 29. Taushetsplikt ved utlevering til politiets forvaltningsvirksomhet mv.
+
+Taushetsplikten er ikke til hinder for at opplysninger gjøres kjent for andre tjenestemenn i politiet og påtalemyndigheten i den utstrekning det er nødvendig for utøvelsen av politiets forvaltningsvirksomhet og sivile gjøremål.
+
+Kongen gir i forskrift nærmere regler om utlevering av opplysninger til politiets forvaltningsvirksomhet og sivile gjøremål.
+
+### § 30. Taushetsplikt ved utlevering til offentlige organer i deres interesse
+
+Taushetsplikten er ikke til hinder for at opplysninger utleveres til andre offentlige organer i deres interesse, dersom dette er nødvendig for å fremme mottakerorganets oppgaver etter lov eller for å hindre at virksomhet blir utøvd på en uforsvarlig måte.
+
+Bestemmelsene i [§ 27](lov-2010-05-28-16-politiregisterloven.md) tredje ledd første punktum og femte ledd gjelder tilsvarende.
+
+Kongen gir i forskrift nærmere regler om utlevering av opplysninger til offentlige organer i deres interesse, herunder hvem det skal utleveres opplysninger til, hvilke kategorier opplysninger som kan utleveres, hva som er kriteriene for at utlevering er nødvendig, den behandlingsansvarliges informasjonsplikt etter [§ 48](lov-2010-05-28-16-politiregisterloven.md) og den registrertes innsynsrett etter [§ 49](lov-2010-05-28-16-politiregisterloven.md) første ledd.
+
+### § 31. Taushetsplikt ved utlevering til private i deres interesse
+
+Taushetsplikten er ikke til hinder for at opplysninger utleveres til private i deres interesse, dersom dette er nødvendig for å fremme mottakerens oppgaver etter lov eller for å hindre at virksomhet blir utøvd på en uforsvarlig måte.
+
+Bestemmelsene i [§ 27](lov-2010-05-28-16-politiregisterloven.md) tredje ledd første punktum og femte ledd gjelder tilsvarende.
+
+Kongen gir i forskrift nærmere regler om utlevering av opplysninger til private i deres interesse, herunder hvem det er plikt til å utlevere opplysninger til, hvilke kategorier opplysninger som kan utleveres, hva som er kriteriene for at utlevering er nødvendig, den behandlingsansvarliges informasjonsplikt etter [§ 48](lov-2010-05-28-16-politiregisterloven.md) og den registrertes innsynsrett etter [§ 49](lov-2010-05-28-16-politiregisterloven.md) første ledd.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 32. Taushetsplikt ved statistisk bearbeiding, utrednings- og planleggingsoppgaver mv.
+
+Taushetsplikten er ikke til hinder for at opplysninger brukes for statistisk bearbeiding, utrednings- og planleggingsoppgaver eller i forbindelse med revisjon eller annen form for kontroll.
+
+### § 33. Taushetsplikt ved forskning
+
+Når det finnes rimelig og ikke medfører uforholdsmessig ulempe for andre interesser, kan det bestemmes at opplysninger i det enkelte tilfelle gis til bruk for forskning uten hinder av taushetsplikten i [§ 23](lov-2010-05-28-16-politiregisterloven.md).
+
+I straffesaker treffes beslutning etter første ledd av riksadvokaten og for øvrig av Politidirektoratet, eller av Justisdepartementet for så vidt gjelder opplysninger i saker som behandles av Politiets sikkerhetstjeneste.
+
+Bestemmelsene i [forvaltningsloven § 13d](lov-1967-02-10-forvaltningsloven.md) annet og tredje ledd og [§ 13e](lov-1967-02-10-forvaltningsloven.md) kommer til anvendelse så langt de passer.
+
+*Endret ved lov [19 juni 2026 nr. 45](lov-2026-06-19-45-endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m.md) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](https://lovdata.no/forskrift/2026-06-19-1146)).*
+
+### § 34. Taushetsplikt ved utlevering til allmennheten i straffesak
+
+Taushetsplikten som nevnt i [§ 23](lov-2010-05-28-16-politiregisterloven.md) første ledd er ikke til hinder for at allmennheten gis opplysninger fra straffesak på følgende vilkår:
+
+1. Når dette er nødvendig for å ivareta straffeforfølgningens allmennpreventive virkning, for offentlig kontroll med myndighetsutøvelsen og for å gi saklig og nøktern informasjon om hendelser av allmenn interesse. Det kan også gis opplysninger med det siktemål å bidra til oppklaring av lovbrudd, jf. [§ 26](lov-2010-05-28-16-politiregisterloven.md).
+2. Opplysninger skal gis uten bruk av navn og andre identifiserende opplysninger, med mindre dette er nødvendig ut fra formålet, eller for å forhindre forveksling, eller opplysningene allerede er alminnelig kjent.
+3. Opplysninger som ikke har vært etterforsket, skal normalt ikke offentliggjøres. Bestemmelsen i [§ 20](lov-2010-05-28-16-politiregisterloven.md) første ledd første punktum gjelder tilsvarende.
+
+Kongen gir i forskrift nærmere regler om opplysninger til allmennheten i straffesak.
+
+### § 35. Pålegg om taushetsplikt
+
+Politiet eller påtalemyndigheten kan pålegge taushetsplikt når mottaker får opplysninger undergitt taushetsplikt i forbindelse med at de uttaler seg til eller på annen måte bistår politiet eller påtalemyndigheten. Det samme gjelder når fornærmede, etterlatte og deres representanter får opplysninger undergitt taushetsplikt, jf. [§ 25](lov-2010-05-28-16-politiregisterloven.md) første ledd.
+
+Politiet eller påtalemyndigheten kan pålegge enhver som utfører tjeneste eller arbeid for statlig eller kommunalt organ, taushetsplikt om opplysninger som nevnt i [§ 23](lov-2010-05-28-16-politiregisterloven.md) annet ledd når organet mottar opplysninger som er taushetsbelagt i henhold til denne loven.
+
+Brudd på taushetsplikten etter første og annet ledd straffes etter [straffeloven § 209](lov-2005-05-20-28-straffeloven.md) dersom vedkommende er gjort oppmerksom på at overtredelse kan få slik følge. Vedkommende myndighet skal sørge for at taushetsplikten og straffetrusselen blir kjent for dem den gjelder, og kan kreve skriftlig erklæring om at de kjenner og vil respektere reglene.
+
+*Endret ved [lover 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)), [11 des 2015 nr. 98](https://lovdata.no/lov/2015-12-11-98) (ikr. 1 jan 2016 iflg. [res. 11 des 2015 nr. 1438](https://lovdata.no/forskrift/2015-12-11-1438)).*
+
+## Kapittel 7. Vandelskontroll og attester
+
+### § 36. Vandelskontroll
+
+Vandelskontroll kan bare foretas når den har hjemmel i lov eller i forskrift gitt i medhold av lov. Opplysninger fra kontrollen gis på følgende måter:
+
+1. Som politiattest. Dokumentet utstedes til bruk i mottakers interesse og kan inneholde opplysninger om hvorvidt en fysisk eller juridisk person har vært ilagt straff eller andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd, eller er under straffeforfølgning. Politiattest utstedt i annet EØS-land likestilles med norsk politiattest i de tilfeller der det i lov eller i medhold av lov er hjemlet krav om botid, jf. annet ledd. For utlevering av nye eller oppdaterte opplysninger etter at politiattest er utstedt, gjelder [§ 43](lov-2010-05-28-16-politiregisterloven.md).
+2. Som vandelsvurdering. Vurderingen gis til en mottaker som har rett til å innhente opplysninger om en person, fordi denne person er eller vil bli undergitt særlige plikter etter lov. Det kan innhentes opplysninger om forhold som nevnt i første ledd nr. 1.
+3. Som straffattest. Dokumentet utstedes til bruk i straffesak og kan inneholde opplysninger om en fysisk eller juridisk person er ilagt straff eller andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd.
+
+Det kan i lov eller i forskrift gitt i medhold av lov stilles krav om inntil 5 års botid i Norge dersom det i forbindelse med vandelskontroll ikke kan fremlegges politiattest som nevnt i første ledd nr. 1, og vesentlige samfunnshensyn tilsier det. Kravet til botid kan bare overstige 5 år dersom vesentlige sikkerhetsmessige hensyn tilsier det.
+
+*Endret ved lov [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](https://lovdata.no/forskrift/2021-06-11-1873)).*
+
+### § 37. Formål som berettiger bruk av politiattest
+
+Politiattest, jf. [§ 36](lov-2010-05-28-16-politiregisterloven.md) første ledd nr. 1, kan bare brukes for å utelukke fysiske og juridiske personer fra stilling, virksomhet, aktivitet eller annen funksjon dersom
+
+1. lovbruddet gjør en person uegnet, og manglende utelukkelse vil kunne medføre betydelige skadevirkninger,
+2. manglende utelukkelse vil kunne virke støtende eller motvirke den alminnelige tillit,
+3. stillingen mv. medfører ansvar for eller krever tillit hos personer som på grunn av alder, sykdom eller funksjonshemming har reduserte muligheter til å ta vare på seg selv eller sine interesser,
+4. utelukkelse kan forhindre at personer begår overgrep mot eller har skadelig innflytelse på mindreårige, eller bidrar til å øke tilliten til at mindreårige tas hånd om av skikkede personer,
+5. den kan bidra til å sikre at en person som skal adoptere eller over tid eller jevnlig skal ha heldøgns omsorgsansvar for mindreårige, er egnet for oppgaven, eller
+6. det er fare for at en person på ny vil begå lovbrudd.
+
+Politiattest kan også brukes dersom folkerettslige forpliktelser krever dokumentasjon om forhold som nevnt i [§ 36](lov-2010-05-28-16-politiregisterloven.md) første ledd nr. 1.
+
+### § 38. Politiattest i særlige tilfeller
+
+Det kan utstedes politiattest til person som trenger politiattest for innreise, visum, arbeidstillatelse eller bosetting i et annet land, eller til andre formål der bestemmelser i andre land krever dokumentasjon om forhold som nevnt i [§ 36](lov-2010-05-28-16-politiregisterloven.md) første ledd nr. 1. Tilsvarende gjelder for person som søker om tilsetting ved utenlandsk ambassade eller lignende i Norge. Attesten kan være uttømmende og utvidet, jf. [§ 41](lov-2010-05-28-16-politiregisterloven.md), dersom det anses nødvendig og relevant ut fra de krav som er stilt i vedkommende lands nasjonale bestemmelser.
+
+Kongen kan i forskrift til denne loven bestemme at det kan brukes politiattest utenfor de lovbestemte tilfeller. Vilkårene i [§ 37](lov-2010-05-28-16-politiregisterloven.md) gjelder tilsvarende.
+
+Den Kongen bemyndiger, kan bestemme at det også i andre særlige tilfeller kan brukes politiattest. Slikt vedtak skal være tidsbegrenset og ikke overstige 15 måneder. Vedtaket kan ikke fornyes.
+
+### § 39. Politiattest for personer som skal ha omsorg for eller oppgaver knyttet til mindreårige (barneomsorgsattest)
+
+På politiattest som er begrunnet i formål som nevnt i [§ 37](lov-2010-05-28-16-politiregisterloven.md) første ledd nr. 4 skal det anmerkes om personen er siktet, tiltalt, har vedtatt forelegg eller er dømt for overtredelse av [lov 22. mai 1902 nr. 10](https://lovdata.no/lov/1902-05-22-10) Almindelig borgerlig Straffelov [§§ 162](https://lovdata.no/lov/1902-05-22-10/§162), [192](https://lovdata.no/lov/1902-05-22-10/§192), [193](https://lovdata.no/lov/1902-05-22-10/§193), [194](https://lovdata.no/lov/1902-05-22-10/§194), [195](https://lovdata.no/lov/1902-05-22-10/§195), [196](https://lovdata.no/lov/1902-05-22-10/§196), [197](https://lovdata.no/lov/1902-05-22-10/§197), [199](https://lovdata.no/lov/1902-05-22-10/§199), [§ 200](https://lovdata.no/lov/1902-05-22-10/§200) annet ledd, [§ 201](https://lovdata.no/lov/1902-05-22-10/§201) første ledd bokstav c, [§§ 201 a](https://lovdata.no/lov/1902-05-22-10/§201a), [203](https://lovdata.no/lov/1902-05-22-10/§203), [204 a](https://lovdata.no/lov/1902-05-22-10/§204a), [219](https://lovdata.no/lov/1902-05-22-10/§219), [224](https://lovdata.no/lov/1902-05-22-10/§224), [§ 229](https://lovdata.no/lov/1902-05-22-10/§229) annet og tredje straffalternativ, [§§ 231](https://lovdata.no/lov/1902-05-22-10/§231), [233](https://lovdata.no/lov/1902-05-22-10/§233) og [268](https://lovdata.no/lov/1902-05-22-10/§268) jf. [267](https://lovdata.no/lov/1902-05-22-10/§267) og [straffeloven §§ 231](lov-2005-05-20-28-straffeloven.md), [232](lov-2005-05-20-28-straffeloven.md), [257](lov-2005-05-20-28-straffeloven.md), [258](lov-2005-05-20-28-straffeloven.md), [274](lov-2005-05-20-28-straffeloven.md), [275](lov-2005-05-20-28-straffeloven.md), [282](lov-2005-05-20-28-straffeloven.md), [283](lov-2005-05-20-28-straffeloven.md), [291](lov-2005-05-20-28-straffeloven.md), [293](lov-2005-05-20-28-straffeloven.md), [294](lov-2005-05-20-28-straffeloven.md), [295](lov-2005-05-20-28-straffeloven.md), [296](lov-2005-05-20-28-straffeloven.md), [299](lov-2005-05-20-28-straffeloven.md), [301](lov-2005-05-20-28-straffeloven.md), [302](lov-2005-05-20-28-straffeloven.md), [303](lov-2005-05-20-28-straffeloven.md), [304](lov-2005-05-20-28-straffeloven.md), [305](lov-2005-05-20-28-straffeloven.md), [306](lov-2005-05-20-28-straffeloven.md), [309](lov-2005-05-20-28-straffeloven.md), [310](lov-2005-05-20-28-straffeloven.md), [311](lov-2005-05-20-28-straffeloven.md), [312](lov-2005-05-20-28-straffeloven.md), [314](lov-2005-05-20-28-straffeloven.md), [327](lov-2005-05-20-28-straffeloven.md) og [328](lov-2005-05-20-28-straffeloven.md). Overtredelse av [lov 22. mai 1902 nr. 10](https://lovdata.no/lov/1902-05-22-10) Almindelig borgerlig Straffelov [§§ 192](https://lovdata.no/lov/1902-05-22-10/§192), [193](https://lovdata.no/lov/1902-05-22-10/§193), [194](https://lovdata.no/lov/1902-05-22-10/§194), [195](https://lovdata.no/lov/1902-05-22-10/§195), [196](https://lovdata.no/lov/1902-05-22-10/§196), [197](https://lovdata.no/lov/1902-05-22-10/§197), [199](https://lovdata.no/lov/1902-05-22-10/§199), [§ 200](https://lovdata.no/lov/1902-05-22-10/§200) annet ledd, [§ 201](https://lovdata.no/lov/1902-05-22-10/§201) første ledd bokstav c, [§§ 201 a](https://lovdata.no/lov/1902-05-22-10/§201a), [204 a](https://lovdata.no/lov/1902-05-22-10/§204a) og [233](https://lovdata.no/lov/1902-05-22-10/§233) og [straffeloven §§ 275](lov-2005-05-20-28-straffeloven.md), [291](lov-2005-05-20-28-straffeloven.md), [293](lov-2005-05-20-28-straffeloven.md), [294](lov-2005-05-20-28-straffeloven.md), [295](lov-2005-05-20-28-straffeloven.md), [296](lov-2005-05-20-28-straffeloven.md), [299](lov-2005-05-20-28-straffeloven.md), [301](lov-2005-05-20-28-straffeloven.md), [302](lov-2005-05-20-28-straffeloven.md), [303](lov-2005-05-20-28-straffeloven.md), [304](lov-2005-05-20-28-straffeloven.md), [305](lov-2005-05-20-28-straffeloven.md), [306](lov-2005-05-20-28-straffeloven.md), [310](lov-2005-05-20-28-straffeloven.md), [311](lov-2005-05-20-28-straffeloven.md), [312](lov-2005-05-20-28-straffeloven.md) og [314](lov-2005-05-20-28-straffeloven.md) skal anmerkes i samsvar med [§ 41](lov-2010-05-28-16-politiregisterloven.md) nr. 1. Overtredelse av [lov 22. mai 1902 nr. 10](https://lovdata.no/lov/1902-05-22-10) Almindelig borgerlig Straffelov [§§ 162](https://lovdata.no/lov/1902-05-22-10/§162), [203](https://lovdata.no/lov/1902-05-22-10/§203), [219](https://lovdata.no/lov/1902-05-22-10/§219), [224](https://lovdata.no/lov/1902-05-22-10/§224), [§ 229](https://lovdata.no/lov/1902-05-22-10/§229) annet og tredje straffalternativ, [§§ 231](https://lovdata.no/lov/1902-05-22-10/§231) og [268](https://lovdata.no/lov/1902-05-22-10/§268) jf. [267](https://lovdata.no/lov/1902-05-22-10/§267) og [straffeloven §§ 231](lov-2005-05-20-28-straffeloven.md), [232](lov-2005-05-20-28-straffeloven.md), [257](lov-2005-05-20-28-straffeloven.md), [258](lov-2005-05-20-28-straffeloven.md), [274](lov-2005-05-20-28-straffeloven.md), [282](lov-2005-05-20-28-straffeloven.md), [283](lov-2005-05-20-28-straffeloven.md), [309](lov-2005-05-20-28-straffeloven.md), [327](lov-2005-05-20-28-straffeloven.md) og [328](lov-2005-05-20-28-straffeloven.md) skal anmerkes i samsvar med [§ 40](lov-2010-05-28-16-politiregisterloven.md).
+
+Det må foreligge særlige grunner for at det i forskrift gitt i medhold av annen lovgivning skal kunne innføres krav om flere eller færre straffebestemmelser enn de som følger av første ledd.
+
+Politiattest som er begrunnet i formål som nevnt i [§ 37](lov-2010-05-28-16-politiregisterloven.md) første ledd nr. 5 kan være uttømmende og utvidet, jf. [§ 41](lov-2010-05-28-16-politiregisterloven.md), dersom det følger av annen lovgivning.
+
+*Endret ved [lov 11 des 2015 nr. 98](https://lovdata.no/lov/2015-12-11-98) (ikr. 1 jan 2016 iflg. [res. 11 des 2015 nr. 1438](https://lovdata.no/forskrift/2015-12-11-1438)).*
+
+### § 40. Ordinær politiattest
+
+1. Med mindre annet er særskilt angitt i lov eller i forskrift gitt i medhold av lov, skal det utstedes ordinær politiattest.
+2. Med mindre annet fremgår av nr. 5, 6 eller 7, skal det i ordinær politiattest oppgis
+   a. dom på betinget og ubetinget fengsel,
+   b. dom på forvaring, eventuelt sikring,
+   c. dom på samfunnsstraff, eventuelt samfunnstjeneste,
+   d. dom på ungdomsstraff,
+   e. dom på rettighetstap,
+   f. bot for lovbrudd med øvre strafferamme på fengsel i mer enn 6 måneder, og
+   g. dom på overføring til tvungent psykisk helsevern eller tvungen omsorg, eventuelt sikring.
+3. Med unntak av tilfellene omhandlet i nr. 4, skal det i ordinær politiattest ikke oppgis
+   a. betinget dom hvor fastsetting av straff utstår,
+   b. påtaleunnlatelse etter [straffeprosessloven §§ 69](lov-1981-05-22-25-straffeprosessloven.md) og [70](lov-1981-05-22-25-straffeprosessloven.md),
+   c. bot for lovbrudd med øvre strafferamme på fengsel inntil 6 måneder,
+   d. forenklet forelegg,
+   e. overføring til behandling i konfliktråd, jf. [straffeprosessloven § 71 a](lov-1981-05-22-25-straffeprosessloven.md),
+   f. overføring til barnevernstjenesten,
+   g. dom med straffutmålingsfrafall,
+   h. tap av retten til å føre motorvogn mv., jf. [vegtrafikkloven § 24 a](lov-1965-06-18-4-vegtrafikkloven.md) annet ledd, [§ 33](lov-1965-06-18-4-vegtrafikkloven.md) nr. 1 og [2](lov-1965-06-18-4-vegtrafikkloven.md), og [§ 35](lov-1965-06-18-4-vegtrafikkloven.md) første ledd og tap av retten til å drive persontransport mot vederlag (kjøreseddel), jf. [yrkestransportloven § 37 f](https://lovdata.no/lov/2002-06-21-45/§37f) annet ledd, eller
+   i. inndragning.
+4. Er det i samme reaksjonsileggelse ilagt reaksjoner som er omhandlet både i nr. 2 og 3, kan den samlede reaksjonen angis i attesten.
+5. I ordinær politiattest skal det ikke oppgis reaksjoner som er ilagt ved dom avsagt eller forelegg vedtatt mer enn 3 år før utstedelsen, med mindre annet følger av nr. 6, 7 eller 8. Varig rettighetstap oppgis alltid.
+6. I ordinær politiattest skal det ikke oppgis dom på
+   a. betinget fengsel eller bot, dersom lovbruddet er begått av person under 18 år mer enn 2 år før utstedelsen av attesten,
+   b. ungdomsstraff eller samfunnsstraff der den subsidiære fengselsstraffen er inntil 6 måneder, dersom lovbruddet er begått av person under 18 år mer enn 2 år før utstedelsen av attesten, eller
+   c. ungdomsstraff eller samfunnsstraff der den subsidiære fengselsstraffen er over 6 måneder, dersom lovbruddet er begått av person under 18 år mer enn 5 år før utstedelsen av attesten.
+7. På ordinær politiattest skal oppgis dom på
+   a. ubetinget fengsel over 6 måneder, dersom den dømte er løslatt mindre enn 10 år før politiattesten utstedes,
+   b. forvaring, eventuelt sikring, dersom den dømte er løslatt mindre enn 10 år før politiattesten utstedes,
+   c. samfunnsstraff, eventuelt samfunnstjeneste, der den subsidiære fengselsstraff er over 6 måneder og samfunnsstraffen er gjennomført mindre enn 10 år før politiattesten utstedes,
+   d. rettighetstap, som er opphørt mindre enn 10 år før politiattesten utstedes, og
+   e. overføring til tvungent psykisk helsevern eller tvungen omsorg, eventuelt sikring, dersom reaksjonen opphørte mindre enn 10 år før politiattesten utstedes. Tilsvarende skal opphør av slik reaksjon anmerkes på attesten.
+8. Har en person flere dommer på ubetinget fengsel i 6 måneder eller mer, sikring, forvaring eller overføring til tvungent psykisk helsevern eller tvungen omsorg, tas alle dommene med i politiattesten, selv om bare en av dem skal oppgis etter tidsfristen i nr. 7.
+9. Kongen gir i forskrift nærmere regler om anmerkning av utenlandske reaksjoner og tiltak på politiattest.
+
+*Endret ved [lover 20 jan 2012 nr. 6](lov-2012-01-20-6-endringslov-til-straffeloven-mv.md) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](https://lovdata.no/forskrift/2014-06-13-721)), [22 apr 2016 nr. 3](https://lovdata.no/lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](https://lovdata.no/forskrift/2016-04-22-407)), [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](https://lovdata.no/forskrift/2021-06-11-1873)), [18 juni 2021 nr. 97](lov-2021-06-18-97-barnevernsloven.md) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](https://lovdata.no/forskrift/2022-10-14-1739)), [20 des 2023 nr. 110](lov-2023-12-20-110-endringslov-til-konfliktraadsloven-straffeloven-mv.md) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](https://lovdata.no/forskrift/2024-05-24-811)). **Endres** ved lov [19 juni 2026 nr. 46](lov-2026-06-19-46-endringslov-til-politiregisterloven-og-grenseloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+
+### § 41. Uttømmende og utvidet politiattest
+
+1. På uttømmende politiattest skal det anmerkes alle straffer, andre strafferettslige reaksjoner og andre tiltak som er registrert i reaksjonsregisteret som følge av lovbrudd. Tidsbegrensningene i [§ 40](lov-2010-05-28-16-politiregisterloven.md) gjelder ikke. På uttømmende politiattest skal det likevel ikke anmerkes
+   a. overføring til konfliktråd etter [straffeprosessloven § 71a](lov-1981-05-22-25-straffeprosessloven.md) første og annet ledd, dersom vedkommende ikke har begått nye lovbrudd 2 år etter at det er inngått godkjent avtale, ungdomsplan eller plan i konfliktrådet,
+   b. forenklet forelegg, og
+   c. reaksjon ilagt en person som var under 18 år på gjerningstidspunktet og som ikke har begått alvorlig eller gjentatte lovbrudd, og som heller ikke har begått nye lovbrudd. Kongen gir i forskrift nærmere regler om blant annet hvor lenge lovbrudd begått i ung alder skal anmerkes på uttømmende politiattest og hva som skal anses som alvorlig og gjentatte lovbrudd.
+2. På politiattest som nevnt i nr. 1 og [§ 40](lov-2010-05-28-16-politiregisterloven.md) kan verserende saker bare anmerkes dersom det følger av lov eller forskrift gitt i medhold av lov (utvidet politiattest). Anmerkes verserende saker, skal politiattesten gi en kort forklaring på hva den verserende saken gjelder, hva slags straffebud saken gjelder og hvor langt saken har kommet i den påtalemessige behandlingen.
+
+*Endret ved [lov 20 juni 2014 nr. 49](lov-2014-06-20-49-konfliktraadsloven.md) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](https://lovdata.no/forskrift/2014-06-20-795)).*
+
+### § 42. Anmerkning av færre opplysninger på politiattesten
+
+Den Kongen bemyndiger, kan beslutte at færre opplysninger skal anmerkes på politiattesten, dersom dette ikke strider mot formålet med politiattesten.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 43. Utlevering av nye eller oppdaterte opplysninger etter at politiattest er utstedt
+
+Brukeren av tidligere utstedt politiattest kan få utlevert nye opplysninger av betydning, dersom vilkårene for utstedelse av politiattest fortsatt er til stede. Det kan ikke utleveres andre opplysninger enn de som fremgår av hjemmelsgrunnlaget for utstedelse av den opprinnelige attesten.
+
+Den som har begjært utstedelse av politiattest, skal snarest mulig varsles om at nye opplysninger er utlevert til brukeren. Dersom det ikke foreligger nye opplysninger, avsluttes saken ved at brukeren gis beskjed om dette.
+
+### § 44. Saksbehandlingsregler for utstedelse av politiattest
+
+Begjæring om utstedelse av politiattest må fremsettes av den personen politiattesten gjelder. Personen må identifisere seg på en tilstrekkelig måte.
+
+Den som begjærer utstedelse, må dokumentere at han oppfyller vilkårene.
+
+Politiattesten skal utstedes snarest mulig, og sendes til den som har begjært den.
+
+### § 45. Vandelsvurdering
+
+På en vandelsvurdering skal det anmerkes reaksjoner som nevnt i [§ 41](lov-2010-05-28-16-politiregisterloven.md) nr. 1, med mindre noe annet fremgår av lov eller forskrift gitt i medhold av lov.
+
+Mottakeren kan kreve vandelsvurdering uten at den vandelsvurderingen gjelder har samtykket. Bestemmelsen i [§ 48](lov-2010-05-28-16-politiregisterloven.md) annet ledd nr. 1 gjelder tilsvarende.
+
+Kongen gir i forskrift nærmere regler om vandelsvurdering.
+
+### § 46. Straffattest
+
+Til bruk i den enkelte straffesak kan politiet, påtalemyndigheten, kriminalomsorgen og domstolene fremsette begjæring om straffattest om navngitt person.
+
+I straffattesten skal alle straffer, andre strafferettslige reaksjoner og andre tiltak som følge av lovbrudd anmerkes. Opplysninger som gjelder foretak kan bare brukes i attest som gjelder foretaket.
+
+### § 47. Taushetsplikt for mottaker av opplysninger om vandelskontroll
+
+Enhver som mottar opplysninger i vandelskontroll som nevnt i [§§ 38](lov-2010-05-28-16-politiregisterloven.md) til [45](lov-2010-05-28-16-politiregisterloven.md) skal hindre at uvedkommende får adgang eller kjennskap til opplysninger i vandelskontrollen.
+
+Brudd på taushetsplikten etter første ledd straffes etter [straffeloven § 209](lov-2005-05-20-28-straffeloven.md), dersom mottaker av opplysningene er gjort oppmerksom på at overtredelse kan få slike følger.
+
+*Endret ved [lov 11 des 2015 nr. 98](https://lovdata.no/lov/2015-12-11-98) (ikr. 1 jan 2016 iflg. [res. 11 des 2015 nr. 1438](https://lovdata.no/forskrift/2015-12-11-1438)).*
+
+## Kapittel 8. Informasjonsplikt, innsyn, retting, sperring og sletting
+
+### § 48. Plikt til å informere den registrerte
+
+Den behandlingsansvarlige har plikt til å informere den registrerte om at det er utlevert personopplysninger til offentlige organer og private i deres interesse, jf. [§§ 30](lov-2010-05-28-16-politiregisterloven.md) og [31](lov-2010-05-28-16-politiregisterloven.md).
+
+Informasjonsplikten gjelder likevel ikke
+
+1. der den behandlingsansvarlige i lov eller i medhold av lov har utleveringsplikt,
+2. der det er nødvendig å gjøre unntak av hensyn til kriminalitetsbekjempelse, nasjonal og offentlig sikkerhet, gjennomføring av strafferettslige reaksjoner, vern av andre personer enn den registrerte eller mottakerorganets lovpålagte kontrolloppgaver,
+3. der utlevering ikke er av vesentlig betydning for den registrerte, eller
+4. der det i lov eller i medhold av lov er bestemt at informasjonsplikten ikke gjelder.
+
+*Endret ved [lover 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)), [21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+### § 49. Innsyn
+
+I den enkelte straffesak har den registrerte rett til dokumentinnsyn i samsvar med straffeprosesslovens regler.
+
+Utenfor den enkelte straffesak har den registrerte rett til å få opplyst hvilke opplysninger som er registrert om seg selv.
+
+Den registrerte har, både i og utenfor den enkelte straffesak, rett til å få opplyst hvorvidt opplysninger om vedkommende er utlevert, hvem de er utlevert til og hvilke opplysninger som er utlevert.
+
+Innsyn etter annet og tredje ledd kan nektes dersom det er nødvendig av hensyn til
+
+1. kriminalitetsbekjempelsen,
+2. nasjonal og offentlig sikkerhet,
+3. gjennomføring av strafferettslige reaksjoner,
+4. vern av andre personer enn den registrerte, eller
+5. mottakerorganets lovpålagte kontrolloppgaver.
+
+### § 50. Sletting, sperring og avlevering av opplysninger som ikke lenger er nødvendige for formålet
+
+Opplysninger skal ikke lagres lenger enn det som er nødvendig for formålet med behandlingen. Opplysningene skal slettes eller sperres, med mindre de skal oppbevares i henhold til [arkivlova](https://lovdata.no/lov/2025-06-20-96) eller annen lovgivning.
+
+Den behandlingsansvarlige kan uten hinder av første ledd lagre personopplysninger for historiske, statistiske eller vitenskapelige formål, dersom samfunnets interesse i at opplysninger lagres klart overstiger de ulempene den kan medføre for den enkelte. Opplysningene skal ikke oppbevares på måter som gjør det mulig å identifisere den registrerte lenger enn nødvendig.
+
+Opplysninger innhentet ved kommunikasjonskontroll som ikke er brukt i saken, skal sperres når saken er avgjort ved rettskraftig dom eller endelig henleggelsesbeslutning. Sperrede opplysninger kan benyttes ved begjæring om gjenåpning, ved gjenopptakelse av etterforskning, eller for å ivareta siktedes legitime interesser. Opplysninger som det etter [straffeprosessloven § 216 g](lov-1981-05-22-25-straffeprosessloven.md) ikke er adgang til å beholde, skal slettes så snart som mulig. Bestemmelsen gjelder tilsvarende for opplysninger innhentet etter [straffeprosessloven §§ 216 m](lov-1981-05-22-25-straffeprosessloven.md) og [216 o](lov-1981-05-22-25-straffeprosessloven.md), og for opplysninger innhentet etter [straffeprosessloven §§ 202 c](lov-1981-05-22-25-straffeprosessloven.md), [202 e](lov-1981-05-22-25-straffeprosessloven.md) og [202 f](lov-1981-05-22-25-straffeprosessloven.md) så langt den passer. Kongen gir i forskrift nærmere regler om sletting og bruk av sperrede opplysninger fra kommunikasjonskontroll.
+
+*Endret ved lover [21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)), [24 april 2020 nr. 33](https://lovdata.no/lov/2020-04-24-33) (ikr. 1 feb 2021 iflg. res. [11 des 2020 nr. 2702](https://lovdata.no/forskrift/2020-12-11-2702)), [20 juni 2025 nr. 96](https://lovdata.no/lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](https://lovdata.no/forskrift/2025-12-12-2510)), [19 juni 2026 nr. 49](https://lovdata.no/lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](https://lovdata.no/forskrift/2026-06-19-1135)).*
+
+### § 51. Retting, sperring og sletting av opplysninger med feil eller mangler
+
+Den behandlingsansvarlige skal av eget tiltak eller på begjæring av den registrerte rette opplysninger som er mangelfulle, og om mulig eller nødvendig supplere eller oppdatere dem. Mangelfulle opplysninger som åpenbart ikke kan ha betydning som dokumentasjon, kan slettes.
+
+Opplysninger som er beheftet med en feil som ikke kan rettes, skal sperres eller slettes. Dersom det er grunn til å tro at sletting vil kunne påvirke den registrertes legitime interesser, skal opplysningene sperres.
+
+Opplysninger som er sperret i medhold av denne paragrafen kan bare brukes dersom det er nødvendig for å dokumentere hva som ble behandlet av opplysninger.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 52. Bruk av opplysninger som er sperret
+
+Opplysninger som er sperret med hjemmel i [§§ 50](lov-2010-05-28-16-politiregisterloven.md) eller [51](lov-2010-05-28-16-politiregisterloven.md) eller på annet grunnlag, kan bare brukes til de formål som gjorde at opplysningen ikke ble slettet. Kongen gir i forskrift nærmere regler om hvilke formål sperrede opplysninger kan brukes til.
+
+### § 53. Politiets handleplikt ved feil eller mangler
+
+Dersom det er behandlet mangelfulle opplysninger som nevnt i [§ 51](lov-2010-05-28-16-politiregisterloven.md) eller det er skjedd andre brudd på loven, skal den behandlingsansvarlige så langt som mulig sørge for at feilen ikke får betydning for den registrerte. Er opplysningene utlevert, skal mottaker av opplysningene varsles om feilen uten unødig opphold og anmodes om å rette, slette eller sperre opplysningene i samsvar med eget rettsgrunnlag.
+
+*Endret ved [lov 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+### § 54. Saksbehandlingsregler for innsyn, retting, sperring og sletting
+
+Begjæring om innsyn, retting, sperring eller sletting av opplysninger skal fremsettes skriftlig til politiet eller påtalemyndigheten. Begjæringen må angi hvilke behandlinger den gjelder. Den som fremsetter begjæringen må identifisere seg på en tilstrekkelig måte. Den behandlingsansvarlige avgjør om begjæringen skal tas til følge, og påser at det kun er vedkommendes opplysninger som rettes, sperres, slettes eller det gis innsyn i.
+
+Begjæringen skal besvares snarest mulig og senest innen 30 dager. Dersom begjæringen tas til følge, skal opplysningene gis skriftlig, med mindre Kongen bestemmer annet for den enkelte behandling.
+
+Dersom begjæringen ikke tas til følge, skal det gis en begrunnelse som ikke tilkjennegir at det foreligger en registrering.
+
+## Kapittel 9. Klageadgang, erstatning og rettsmidler
+
+*Overskrift endret ved [lov 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+### § 55. Klageadgang
+
+Den registrerte eller den som antar å være registrert kan påklage avgjørelser truffet i medhold av denne loven til overordnet organ, herunder avgjørelser om
+
+1. vandelskontroll,
+2. brudd på taushetsplikten,
+3. innsyn, retting, sperring og sletting, eller
+4. erstatning.
+
+Riksadvokatens avgjørelser kan ikke påklages. For øvrig gjelder bestemmelsene i [forvaltningsloven kapittel VI](lov-1967-02-10-forvaltningsloven.md) så langt de passer.
+
+Den registrertes rettigheter etter [§§ 59](lov-2010-05-28-16-politiregisterloven.md) og [68](lov-2010-05-28-16-politiregisterloven.md) berøres ikke av bestemmelsene i denne paragraf.
+
+Bestemmelsen i [§ 54](lov-2010-05-28-16-politiregisterloven.md) siste ledd gjelder tilsvarende.
+
+### § 56. Erstatning
+
+Den behandlingsansvarlige skal erstatte skade som er oppstått som følge av at opplysninger er behandlet i strid med bestemmelser gitt i eller i medhold av denne loven, selv om ingen har skyld i skaden. Ved brudd på reglene om utlevering og taushetsplikt i [§§ 19](lov-2010-05-28-16-politiregisterloven.md) til [35](lov-2010-05-28-16-politiregisterloven.md) gjelder de alminnelige erstatningsregler. Erstatningen skal svare til det økonomiske tapet som den skadelidte påføres som følge av den ulovlige behandlingen av opplysningene.
+
+Erstatningen kan også omfatte slik erstatning for skade av ikke-økonomisk art (oppreisning) som synes rimelig, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den behandlingsansvarliges side.
+
+Når krav fremsettes etter at en person har vært siktet i en straffesak, gjelder likevel behandlingsreglene i [straffeprosessloven kapittel 31](lov-1981-05-22-25-straffeprosessloven.md) så langt de passer og ikke annet er fastsatt i medhold av loven her.
+
+*Endret ved [lov 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+### § 57. Rettsmidler
+
+Den registrerte kan, uavhengig av rettighetene etter [§ 55](lov-2010-05-28-16-politiregisterloven.md) første ledd og [§ 59](lov-2010-05-28-16-politiregisterloven.md), saksøke den behandlingsansvarlige eller databehandleren dersom vedkommendes rettigheter etter loven har blitt krenket som følge av behandlingen av opplysningene om vedkommende.
+
+Den registrerte kan, uavhengig av rettigheten etter [§ 60](lov-2010-05-28-16-politiregisterloven.md) tredje ledd, saksøke Datatilsynet når Datatilsynet har truffet en avgjørelse som er rettslig bindende for den registrerte. Det samme gjelder dersom Datatilsynet ikke behandler en begjæring om kontroll innen 3 måneder, eller ikke innen 3 måneder gir opplysning om sakens fremdrift eller utfall.
+
+*Endret ved [lover 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)), [21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642), flyttet til kapittel 9, se § 70).*
+
+## Kapittel 10. Tilsyn
+
+*Overskrift endret ved [lov 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+### § 58. Datatilsynets tilsynskompetanse
+
+Datatilsynet skal føre tilsyn med at loven og forskrifter gitt i medhold av loven blir fulgt, og at feil eller mangler blir rettet. Dette gjelder ikke opplysninger som behandles av Politiets sikkerhetstjeneste, hvor Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjenesten utøver tilsyn i medhold av [§ 68](lov-2010-05-28-16-politiregisterloven.md) og [lov 3. februar 1995 nr. 7](lov-1995-02-03-7-eos-kontrolloven.md) om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste.
+
+### § 59. Datatilsynets kontroll etter begjæring fra den registrerte
+
+Datatilsynet skal etter begjæring fra den registrerte, eller den som antar å være registrert, kontrollere at opplysningene om vedkommende er behandlet i samsvar med loven og at reglene om innsyn er fulgt.
+
+Bestemmelsen i [§ 54](lov-2010-05-28-16-politiregisterloven.md) siste ledd gjelder tilsvarende.
+
+### § 60. Datatilsynets virkemidler og tvangsmulkt
+
+Datatilsynet kan gi den behandlingsansvarlige pålegg om at behandling av opplysninger i strid med [§§ 15](lov-2010-05-28-16-politiregisterloven.md) og [16](lov-2010-05-28-16-politiregisterloven.md) skal opphøre eller stille vilkår som må oppfylles for at behandlingen skal være i samsvar med disse bestemmelsene. Datatilsynet kan ved behandling av opplysninger utenfor straffesak dessuten gi den behandlingsansvarlige pålegg om at behandling i strid med denne loven skal opphøre eller stille vilkår som må oppfylles for at behandlingen skal være i samsvar med loven. Datatilsynet kan likevel ikke gi pålegg om innsyn i opplysninger som er unntatt fra innsynsrett etter [§ 49](lov-2010-05-28-16-politiregisterloven.md), eller gi pålegg om overholdelse av reglene om utlevering og taushetsplikt i [kapittel 5](lov-2010-05-28-16-politiregisterloven.md) og [6](lov-2010-05-28-16-politiregisterloven.md) eller vandelskontroll i [kapittel 7](lov-2010-05-28-16-politiregisterloven.md).
+
+Datatilsynet kan gi anmerkning dersom det finner at behandling av opplysninger i den enkelte straffesak er i strid med loven. Det samme gjelder for behandling som nevnt i første ledd siste punktum. Slik anmerkning skal meddeles den behandlingsansvarlige med gjenpart til den behandlingsansvarliges overordnete organ.
+
+Datatilsynets vedtak etter første ledd kan påklages til Personvernnemnda. Kongen gir nærmere regler i forskrift.
+
+Ved pålegg som nevnt i første ledd kan Datatilsynet fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.
+
+*Endret ved [lover 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)), [22 juni 2018 nr. 81](https://lovdata.no/lov/2018-06-22-81) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 949](https://lovdata.no/forskrift/2018-06-22-949)), [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](https://lovdata.no/forskrift/2021-06-11-1873)).*
+
+### § 61. Tilgang
+
+Datatilsynet og Personvernnemnda kan kreve de opplysninger som er nødvendige for at de kan gjennomføre sine oppgaver.
+
+Datatilsynet og Personvernnemnda kan som ledd i sine oppgaver etter loven kreve adgang til de steder der opplysninger behandles og der det finnes hjelpemidler for behandlingen. Datatilsynet kan gjennomføre prøver og kontroller som de mener er nødvendige, og kreve bistand fra personalet på stedet i den grad dette må til for å få utført prøvene eller kontrollene.
+
+Rett til å kreve opplysninger eller tilgang til lokaler og hjelpemidler i henhold til første og annet ledd er ikke begrenset av bestemmelser om taushetsplikt.
+
+### § 62. Taushetsplikt og politiattest
+
+Personer som gjennom tilsyn får tilgang til opplysninger underlagt taushetsplikt etter [§ 23](lov-2010-05-28-16-politiregisterloven.md), er underlagt samme taushetsplikt.
+
+Det skal kreves uttømmende og utvidet politiattest for personer som skal utføre tilsyn.
+
+*Endret ved [lover 20 juni 2014 nr. 47](https://lovdata.no/lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](https://lovdata.no/forskrift/2014-06-20-792)), [21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+### § 63. Personvernrådgiver
+
+Det skal etableres en ordning med personvernrådgiver.
+
+Kongen gir forskrift om det nærmere innholdet i ordningen.
+
+*Endret ved [lov 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)).*
+
+## Kapittel 11. Politiets sikkerhetstjeneste
+
+### § 64. Nødvendighetskravet for Politiets sikkerhetstjeneste
+
+Politiets sikkerhetstjeneste kan behandle opplysninger når det er nødvendig for politimessige formål, etterretningsvirksomhet og forvaltningsvirksomhet i tjenesten. I tillegg må vilkårene i annet og tredje ledd være oppfylt.
+
+I den enkelte straffesak følger adgangen til å behandle opplysninger reglene i straffeprosessloven.
+
+Utenfor den enkelte straffesak kan opplysninger bare behandles av Politiets sikkerhetstjeneste der det
+
+1. a. ved opprettelse av forebyggende sak er grunn til å undersøke om noen forbereder et lovbrudd som Politiets sikkerhetstjeneste har til oppgave å forebygge,
+   b. for øvrig anses nødvendig i forebyggende øyemed å behandle opplysninger av betydning for utførelsen av arbeidsoppgavene i [politiloven §§ 17 b](lov-1995-08-04-53-politiloven.md) eller [17 d](lov-1995-08-04-53-politiloven.md), herunder opplysninger om utlending der det etter en konkret sikkerhetsmessig vurdering anses nødvendig å behandle slike opplysninger. Ved denne nødvendighetsvurderingen må det tas i betraktning om behandlingen er forholdsmessig ut fra om utlendingen kommer fra land eller områder som det i henhold til aktuell trusselvurdering knytter seg en risiko til i forhold til oppgavene etter [politiloven §§ 17 b](lov-1995-08-04-53-politiloven.md) og [17 c](lov-1995-08-04-53-politiloven.md), eller hans bakgrunn for øvrig. Tilsvarende kan Politiets sikkerhetstjeneste også behandle opplysninger om referansepersoner i Norge for slike utlendinger, eller
+   c. er nødvendig for gjennomføring av båndlegging etter [politiloven § 17 g](lov-1995-08-04-53-politiloven.md),
+2. er nødvendig for tjenestens utarbeidelse av trusselvurderinger,
+3. er nødvendig for samarbeidet med andre lands politimyndigheter og sikkerhets- og etterretningstjenester,
+4. er nødvendig for personkontroll eller akkreditering med de begrensninger som følger av § 67,
+5. er nødvendig for å dokumentere hvilken overskuddsinformasjon som er gjort tilgjengelig for andre, eller
+6. er nødvendig for å utarbeide analyser og etterretningsvurderinger som nevnt i [politiloven § 17 a](lov-1995-08-04-53-politiloven.md).
+
+*Endret ved lover [21 juni 2019 nr. 50](https://lovdata.no/lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](https://lovdata.no/forskrift/2019-06-21-779)), [28 april 2023 nr. 11](https://lovdata.no/lov/2023-04-28-11) (i kraft 1 sep 2023 iflg. [res. 28 april 2023 nr. 614](https://lovdata.no/forskrift/2023-04-28-614)).*
+
+### § 65. Tidsbegrenset unntak fra kravene til formålsbestemthet, nødvendighet og relevans
+
+Opplysninger kan uansett behandles i 4 måneder dersom det er nødvendig for å avklare om kravene i [§ 4](lov-2010-05-28-16-politiregisterloven.md), [§ 64](lov-2010-05-28-16-politiregisterloven.md) tredje ledd og [§ 6](lov-2010-05-28-16-politiregisterloven.md) første ledd nr. 1 er oppfylt.
+
+Bestemmelsene i [§ 8](lov-2010-05-28-16-politiregisterloven.md) annet og tredje ledd gjelder tilsvarende.
+
+### § 65 a. Behandling av åpent tilgjengelig informasjon til etterretningsformål
+
+Politiets sikkerhetstjeneste kan behandle åpent tilgjengelig informasjon dersom det antas å være nødvendig for utarbeidelse av analyser og etterretningsvurderinger, jf. [politiloven § 17 a](lov-1995-08-04-53-politiloven.md). Informasjon er ikke åpent tilgjengelig dersom tilgang krever aktivt fordekt opptreden eller forsering av passord eller lignende beskyttelsesmekanismer. Behandling etter første punktum kan skje ved hjelp av automatiserte analyseverktøy. Når opplysningene etter dette leddet innhentes, lagres eller behandles ved hjelp av automatiserte analyseverktøy, kommer [§§ 6](lov-2010-05-28-16-politiregisterloven.md) og [7](lov-2010-05-28-16-politiregisterloven.md) om krav til opplysningenes kvalitet og behandling av særlige kategorier av personopplysninger ikke til anvendelse.
+
+Opplysninger som behandles etter første ledd, skal være sperret og kan bare brukes til følgende formål:
+
+1. utarbeidelse av analyser og etterretningsvurderinger, jf. [politiloven § 17 a](lov-1995-08-04-53-politiloven.md)
+2. opprettelse av eller bruk i forebyggende sak, jf. [§ 64](lov-2010-05-28-16-politiregisterloven.md) tredje ledd nr. 1 bokstav a
+3. etterforskning av lovbrudd som nevnt i [politiloven § 17 b](lov-1995-08-04-53-politiloven.md), jf. [straffeprosessloven § 224](lov-1981-05-22-25-straffeprosessloven.md).
+
+Opplysningene skal slettes senest etter 5 år. Sjefen for Politiets sikkerhetstjeneste eller den denne bemyndiger, kan beslutte at nærmere angitte opplysninger skal beholdes i ytterligere 5 år av gangen, men ikke lenger enn 15 år totalt, dersom opplysningene etter en konkret vurdering fremdeles er nødvendige for formål som nevnt i annet ledd nr. 1.
+
+Kongen gir i forskrift nærmere regler om behandling av opplysninger etter denne bestemmelsen, herunder om utlevering, utsatt sletting, tilgangsbegrensning og kontroll.
+
+*Tilføyd ved lov [28 april 2023 nr. 11](https://lovdata.no/lov/2023-04-28-11) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 961](https://lovdata.no/forskrift/2025-06-06-961)). **Endres** ved lov [19 juni 2026 nr. 46](lov-2026-06-19-46-endringslov-til-politiregisterloven-og-grenseloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+
+### § 66. Informasjonsplikt, innsyn og forholdet til offentleglova
+
+Reglene om informasjonsplikt i [§ 48](lov-2010-05-28-16-politiregisterloven.md) og innsynsrett i [§ 49](lov-2010-05-28-16-politiregisterloven.md) annet og tredje ledd gjelder ikke for Politiets sikkerhetstjeneste.
+
+[Offentleglova](https://lovdata.no/lov/2006-05-19-16) gjelder ikke for innsyn i opplysninger som behandles av Politiets sikkerhetstjeneste i medhold av denne loven. Avgjørelser om innsyn hos Politiets sikkerhetstjeneste kan heller ikke påklages etter [offentleglova](https://lovdata.no/lov/2006-05-19-16).
+
+For innsyn i opplysninger som behandles i forbindelse med klarering, gjelder bestemmelsene gitt i eller i medhold av [sikkerhetsloven](lov-2018-06-01-24-sikkerhetsloven.md).
+
+Innsyn i saksdokumenter i sak om båndlegging kan gis etter reglene i straffeprosessloven, som gjelder så langt de passer.
+
+*Endret ved [lover 21 juni 2019 nr. 50](https://lovdata.no/lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](https://lovdata.no/forskrift/2019-06-21-779)), [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](https://lovdata.no/forskrift/2021-06-11-1873)).*
+
+### § 67. Personkontroll
+
+Til bruk i en aktuell sak om personkontroll kan Politiets sikkerhetstjeneste behandle opplysninger som er av betydning for spørsmålet om klarering. Mottar Politiets sikkerhetstjeneste opplysninger som reiser tvil om en allerede sikkerhetsklarert person er sikkerhetsmessig skikket, kan opplysningene behandles og videreformidles til klareringsmyndigheten.
+
+Politiets sikkerhetstjeneste skal ikke innhente eller behandle opplysninger utelukkende fordi opplysningene kan være av betydning for en fremtidig personkontroll.
+
+Bestemmelsene i [§ 20](lov-2010-05-28-16-politiregisterloven.md) gjelder tilsvarende for utlevering av personkontrollopplysninger.
+
+### § 68. Tilsyn og den registrertes begjæring om kontroll
+
+Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjenesten utøver tilsyn i medhold av [lov 3. februar 1995 nr. 7](lov-1995-02-03-7-eos-kontrolloven.md) om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste.
+
+Utvalget skal etter begjæring fra den registrerte eller den som antar å være registrert kontrollere at opplysningene om vedkommende er behandlet i samsvar med loven. Begjæring om kontroll av behandling av opplysninger i Politiets sikkerhetstjeneste fremmes i henhold til [lov 3. februar 1995 nr. 7](lov-1995-02-03-7-eos-kontrolloven.md) om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste.
+
+Bestemmelsen i [§ 54](lov-2010-05-28-16-politiregisterloven.md) siste ledd gjelder tilsvarende.
+
+## Kapittel 12. Forskrifter
+
+### § 69. Forskrifter
+
+Kongen kan i forskrift gi nærmere regler til gjennomføring av denne lov, herunder om
+
+1. nærmere avgrensning av lovens virkeområde, jf. [§ 3](lov-2010-05-28-16-politiregisterloven.md), og at loven kan komme til anvendelse for andre enn politi og påtalemyndighet,
+2. særregler for behandling av opplysninger i straffesaker,
+3. samtykke, jf. [§ 2](lov-2010-05-28-16-politiregisterloven.md) nr. 7,
+4. hvilke opplysninger som kan behandles etter [§§ 5](lov-2010-05-28-16-politiregisterloven.md) og [64](lov-2010-05-28-16-politiregisterloven.md),
+5. gjennomføring av tidsbegrenset unntak, jf. [§§ 8](lov-2010-05-28-16-politiregisterloven.md) og [65](lov-2010-05-28-16-politiregisterloven.md),
+6. registrene som nevnt i [kapittel 3](lov-2010-05-28-16-politiregisterloven.md), herunder hvilke opplysninger som kan behandles,
+7. informasjonssikkerhet ved behandling av opplysninger etter denne lov, jf. [§ 15](lov-2010-05-28-16-politiregisterloven.md), herunder nærmere regler om organisatoriske og tekniske sikkerhetstiltak, hvem som er behandlingsansvarlig for de ulike behandlingene og hvem som skal informeres ved avvik,
+8. internkontroll, jf. [§ 16](lov-2010-05-28-16-politiregisterloven.md),
+9. tilgang, herunder til formål som nevnt i [politiregisterloven § 29](lov-2010-05-28-16-politiregisterloven.md), og hvem som har tjenestemessig behov for opplysninger, jf. [§ 21](lov-2010-05-28-16-politiregisterloven.md),
+10. utlevering av ikke-verifiserte opplysninger, jf. [§ 27](lov-2010-05-28-16-politiregisterloven.md),
+11. gjennomføring av bestemmelsene om utlevering og taushetsplikt, jf. [kapittel 5](lov-2010-05-28-16-politiregisterloven.md) og [6](lov-2010-05-28-16-politiregisterloven.md), herunder at opplysninger i nærmere bestemte registre alltid er omfattet av taushetsplikten.
+12. bruk og utstedelse av politiattest, herunder
+    a. bruk av politiattest i særlige tilfeller, jf. [§ 38](lov-2010-05-28-16-politiregisterloven.md),
+    b. anmerkning av verserende saker, jf. [§ 41](lov-2010-05-28-16-politiregisterloven.md) nr. 2,
+    c. om hvordan fornyet vandelskontroll skal gjennomføres, jf. [§ 43](lov-2010-05-28-16-politiregisterloven.md),
+    d. at politiattest kan utstedes før vilkårene for å få politiattest er oppfylt, hvordan søkere skal identifisere seg, hvor søknad om politiattest skal fremsettes, hvordan forsendelse av attester skal foregå dersom de ikke sendes direkte til søkeren, saksbehandlingstid for behandling av politiattester og krav til oppbevaring av politiattester, jf. [§§ 44](lov-2010-05-28-16-politiregisterloven.md) og [47](lov-2010-05-28-16-politiregisterloven.md),
+13. straffattest, jf. [§ 46](lov-2010-05-28-16-politiregisterloven.md), og akkreditering, jf. blant annet [§ 64](lov-2010-05-28-16-politiregisterloven.md) tredje ledd nr. 4,
+14. hvem som har rett til informasjon og hvordan informasjon skal gis, jf. [§ 48](lov-2010-05-28-16-politiregisterloven.md),
+15. hvordan innsyn skal gjennomføres og behandlingen av saker som gjelder innsyn, jf. [§§ 49](lov-2010-05-28-16-politiregisterloven.md) og [66](lov-2010-05-28-16-politiregisterloven.md),
+16. når og hvordan retting, sperring og sletting skal gjennomføres, jf. [§§ 50](lov-2010-05-28-16-politiregisterloven.md) og [51](lov-2010-05-28-16-politiregisterloven.md), herunder om at sletting av opplysninger i politiets registre kan skje når fare for liv og helse eller tungtveiende personvernhensyn tilsier det, jf. [arkivlova § 13 annet ledd](https://lovdata.no/lov/2025-06-20-96/§13/ledd/2).
+17. oppbevaring og bruk av sperrede opplysninger, jf. [§ 52](lov-2010-05-28-16-politiregisterloven.md),
+18. når skriftlig utlevering kan unntas, dersom dette antas å kunne misbrukes, jf. [§ 54](lov-2010-05-28-16-politiregisterloven.md),
+19. hvem som er klageorgan for avgjørelsene som er gjenstand for klage, jf. [§ 55](lov-2010-05-28-16-politiregisterloven.md), og nærmere regler om behandlingen av klager som gjelder brudd på taushetsplikten, jf. [§ 55](lov-2010-05-28-16-politiregisterloven.md) første ledd nr. 2,
+20. unntak fra [forvaltningsloven kapittel VI](lov-1967-02-10-forvaltningsloven.md) og saksbehandlingsregler i klagesaker, jf. § 55,
+21. anvendelsen av behandlingsreglene i straffeprosessloven kapittel 31 i saker om erstatning som nevnt i [§ 56](lov-1981-05-22-25-straffeprosessloven.md) tredje ledd,
+22. adgang for Datatilsynet til å kreve gebyr for behandling av gjentatte eller åpenbart grunnløse begjæringer
+23. ansvarsfordelingen av tilsynsmyndighet etter § 58 mellom Datatilsynet og andre kontrollorganer, som har tilsynsmyndighet fastsatt i lov eller i forskrift gitt i medhold av lov,
+24. saksbehandlingsregler i forbindelse med kontroll etter [§§ 59](lov-2010-05-28-16-politiregisterloven.md) og [60](lov-2010-05-28-16-politiregisterloven.md),
+25. saksbehandling i båndleggingssaker utenfor straffesak,
+26. særregler for militærpolitiets behandling av opplysninger.
+
+Kongen kan videre i forskrift gi nærmere regler om behandling av opplysninger som følger av konvensjoner mv. som nevnt i [§ 22](lov-2010-05-28-16-politiregisterloven.md) annet ledd.
+
+*Endret ved [lover 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)), [21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](https://lovdata.no/forskrift/2018-04-27-642)), [21 juni 2019 nr. 50](https://lovdata.no/lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](https://lovdata.no/forskrift/2019-06-21-779)), [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](https://lovdata.no/forskrift/2021-06-11-1873)), [11 juni 2021 nr. 72](https://lovdata.no/lov/2021-06-11-72) (ikr. 17 sep 2021 iflg. [res. 17 sep 2021 nr. 2775](https://lovdata.no/forskrift/2021-09-17-2775)), [29 april 2022 nr. 26](https://lovdata.no/lov/2022-04-29-26) (i kraft 1 mai 2022 iflg. [res. 29 april 2022 nr. 639](https://lovdata.no/forskrift/2022-04-29-639)), [20 juni 2025 nr. 96](https://lovdata.no/lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](https://lovdata.no/forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 46](lov-2026-06-19-46-endringslov-til-politiregisterloven-og-grenseloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+
+## Kapittel 13. Sluttbestemmelser
+
+### § 70. Ikraftsetting
+
+Loven trer i kraft fra den tid[1] Kongen bestemmer. Kongen kan bestemme at ulike bestemmelser i loven kan tre i kraft til forskjellig tid.
+
+Kongen kan gi nærmere overgangsregler.
+
+*Endret ved [lov 21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).  
+Iflg. [res. 4 des 2015 nr. 1397](https://lovdata.no/forskrift/2015-12-04-1397) trådte § 14 ikr. 1 jan 2016.*
+
+## Fotnoter
+
+**1.** Iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449) og [res. 20 juni 2014 nr. 789](https://lovdata.no/forskrift/2014-06-20-789) trådte loven ikr. 1 juli 2014, med unntak av § 14 og § 57 (som ble gitt nytt innhold ved [lov 21 juni 2017 nr. 94](https://lovdata.no/lov/2017-06-21-94) med ikr. 6 mai 2018), og § 12, som trådte ikr. 27 sep 2013 med virkning fra 13 sep 2013.  
+Iflg. [res. 4 des 2015 nr. 1397](https://lovdata.no/forskrift/2015-12-04-1397) trådte § 14 ikr. 1 jan 2016.

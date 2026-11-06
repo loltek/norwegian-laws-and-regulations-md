@@ -1,0 +1,170 @@
+# Lov om god handelsskikk i dagligvarekjeden
+
+- **Datokode:** LOV-2020-04-17-29
+- **DokumentID:** NL/lov/2020-04-17-29
+- **Departement:** Nærings- og fiskeridepartementet
+- **Kunngjort:** 2020-04-17 12:10
+- **I kraft fra:** 2021-01-01
+- **Siste endring i kraft:** 2026-04-30
+- **Sist endret ved:** lov 22.12.2025 nr. 129 fra 2026-04-30
+- **Rettsområde:** Anskaffelser, avtaler, bygg og entrepriser > Avtaler
+- **Kilde:** <https://lovdata.no/lov/2020-04-17-29>
+
+## Kapittel 1 Innledende bestemmelser
+
+### § 1. Formål
+
+Loven skal bidra til effektiv bruk av samfunnets ressurser og ivareta forbrukernes interesser ved å fremme redelighet, forutberegnelighet og lojalitet i kontraktsforhold mellom næringsdrivende i dagligvarebransjen.
+
+### § 2. Virkeområde
+
+Loven gjelder for forhandlinger og avtaler om leveranser av dagligvarer
+
+a. som er ment for videresalg til forbrukere gjennom utsalgssteder som har salg av dagligvarer som en vesentlig del av sin virksomhet, eller
+b. for salg til storhusholdning gjennom en part som også leverer dagligvarer til utsalgssteder som nevnt i bokstav a.
+
+Loven gjelder ikke salg til forbrukere. Loven gjelder heller ikke forhandlinger og avtaler mellom primærprodusenter og industriaktører.
+
+Loven gjelder for forhandlinger og avtaler som foretas, har virkning eller er egnet til å ha virkning her i riket.
+
+## Kapittel 2 God handelsskikk
+
+### § 3. God handelsskikk
+
+I forretningsforhold mellom næringsdrivende i dagligvarebransjen skal det ikke foretas handlinger som strider mot god handelsskikk. God handelsskikk skal være basert på redelighet, forutberegnelighet og lojalitet.
+
+### § 4. Krav på opplysninger
+
+Ved forhandlinger og gjennomføring av avtaler om leveranser av dagligvarer skal hver av partene legge frem opplysninger som de kjenner til, og som de har grunn til å tro er av betydning for den annen part. Dette gjelder ikke informasjon som partene har berettiget grunn til å holde hemmelig.
+
+### § 5. Beskyttelse av partenes investeringer
+
+Dersom den ene parten i god tro har foretatt investeringer eller andre tiltak i forståelse med den andre parten, må sistnevnte ikke opptre på en måte som er i strid med de berettigede forventningene som har oppstått.
+
+### § 6. Skriftlighet og klarhet
+
+Avtaler skal inngås skriftlig og klart beskrive hvilke ytelser partene er forpliktet til å levere. En part kan ikke ensidig endre avtalen.
+
+### § 7. Ansvar for svinn og kundereklamasjoner
+
+Avtalen skal regulere ansvar for svinn og kundereklamasjoner.
+
+### § 8. Delisting og oppsigelse
+
+Avtalen skal inneholde frister for varsling av delisting av produkter og for oppsigelse av avtaleforholdet. Delisting skal varsles selv om avtalen ellers fastsetter tidsrom for når delisting kan finne sted. Delisting krever saklig grunn. Delisting skal begrunnes skriftlig når en avtalepart krever det.
+
+### § 9. Vern mot etterligninger
+
+Næringsdrivende i dagligvarebransjen må ikke anvende etterlignende kjennetegn, produkter, kataloger, reklamemidler eller andre frambringelser på slik måte og under slike omstendigheter at det må anses som en urimelig utnyttelse av en annens innsats eller resultater og fører med seg fare for forveksling.
+
+### § 10. Trusler
+
+Næringsdrivende i dagligvarebransjen må ikke benytte ord og handlinger som er egnet til å fremkalle alvorlig frykt, for eksempel trusler om utilbørlige represalier eller spredning av usann informasjon.
+
+## Kapittel 3 Tilsyn, håndheving og overprøving
+
+### § 11. Konkurransetilsynets oppgaver etter loven
+
+Konkurransetilsynet fører tilsyn med at bestemmelsene i denne loven overholdes. Det gir veiledning og informasjon om loven og kontrollerer at lovens påbud og forbud overholdes.
+
+Konkurransetilsynet kan gi pålegg etter [§ 12](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) og treffe vedtak etter [§§ 15](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) til [17](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md), som kan påklages til Konkurranseklagenemnda etter [§ 18](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md).
+
+Konkurransetilsynet skal legge vekt på hensynet til forbrukerne ved håndhevingen av loven.
+
+Konkurransetilsynet kan ikke instrueres om behandlingen av enkeltsaker eller gis generelle instrukser om hvordan myndighet etter loven skal utøves.
+
+Kongen eller departementet kan ikke omgjøre Konkurransetilsynets vedtak etter loven her.
+
+*Endret ved lov [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+### § 12. Opplysningsplikt
+
+Enhver har plikt til å gi Konkurransetilsynet og Konkurranseklagenemnda de opplysninger som disse myndigheter krever for å kunne utføre sine gjøremål etter loven. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist, og kan nedtegnes og lagres som lydopptak. Konkurransetilsynet og Konkurranseklagenemnda kan også kreve utlevert alle typer informasjon og bærere av slik informasjon for gransking.
+
+Taushetsplikten som følger av lov, pålegg eller avtale, er ikke til hinder for opplysningsplikten eller retten til å foreta gransking etter første ledd. Dette gjelder likevel ikke opplysninger, informasjon eller bærere av informasjon som er omfattet av taushetsplikten som nevnt i [straffeprosessloven §§ 117](lov-1981-05-22-25-straffeprosessloven.md) til [120](lov-1981-05-22-25-straffeprosessloven.md).
+
+*Endret ved lov [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+### § 13. Taushetsplikt og beskyttelse av kilder
+
+Enhver som utfører tjeneste eller arbeid for Konkurransetilsynet eller Konkurranseklagenemnda, plikter å hindre at andre får adgang eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om identiteten til den som gir tips om overtredelse av [§§ 3](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) til [10](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) og tilhørende forskrifter.
+
+Taushetsplikten gjelder også overfor sakens parter og deres representanter.
+
+*Endret ved lov [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+### § 14. Veiledning og dialog
+
+Konkurransetilsynet skal gi informasjon om loven og veiledning i enkeltsaker.
+
+Tilsynet skal av eget tiltak, eller etter henvendelse, søke å påvirke næringsdrivende til å innrette seg etter loven.
+
+Hvis Konkurransetilsynet finner at en eller flere av bestemmelsene i [§§ 3](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) til [10](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) eller tilhørende forskrifter er overtrådt, kan det kreve en skriftlig bekreftelse på at det ulovlige forholdet skal opphøre eller treffe vedtak etter [§ 15](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md).
+
+*Endret ved lov [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+### § 15. Vedtak om overtredelse av [§§ 3](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) til [10](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md)
+
+Dersom tiltak etter [§ 14](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) annet ledd ikke er tilstrekkelig for å sikre at en eller flere av bestemmelsene i [§§ 3](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) til [10](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) overholdes, kan Konkurransetilsynet treffe vedtak om påbud og forbud som er nødvendige for å sikre overholdelse.
+
+Konkurransetilsynet kan også treffe vedtak som stadfester at det har skjedd en overtredelse av en eller flere av bestemmelsene i [§§ 3](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) til [10](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md).
+
+*Endret ved lov [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+### § 16. Tvangsmulkt
+
+For å sikre at pålegg etter [§ 12](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) eller vedtak etter [§ 15](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) første ledd overholdes, kan det fastsettes tvangsmulkt til staten inntil forholdet er rettet.
+
+Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg.
+
+*Endret ved lov [4 mars 2022 nr. 7](lov-2022-03-04-7-stotteprosessloven.md) (i kraft 22 juni 2022 iflg. [res. 22 juni 2022 nr. 1143](https://lovdata.no/forskrift/2022-06-22-1143)).*
+
+### § 17. Vedtak om overtredelsesgebyr
+
+Konkurransetilsynet kan ilegge overtredelsesgebyr ved overtredelse av vedtak etter [§ 15](lov-1979-05-18-18-foreldelsesloven.md) første ledd.
+
+Ved avgjørelsen av om det skal ilegges overtredelsesgebyr og ved utmålingen av dette, gjelder [forvaltningsloven § 46](lov-1967-02-10-forvaltningsloven.md). I tillegg skal tilsynet legge vekt på mulige skadevirkninger for forbrukerne.
+
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
+
+*Endret ved lover [4 mars 2022 nr. 7](lov-2022-03-04-7-stotteprosessloven.md) (i kraft 22 juni 2022 iflg. [res. 22 juni 2022 nr. 1143](https://lovdata.no/forskrift/2022-06-22-1143)), [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+### § 18. Konkurranseklagenemndas kompetanse etter loven
+
+Klager over vedtak etter [§§ 15](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md), [16](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) og [17](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) samt andre avgjørelser som kan påklages etter forvaltningsloven og offentleglova, behandles av Konkurranseklagenemnda.
+
+Konkurranseklagenemnda kan ikke av eget tiltak omgjøre Konkurransetilsynets vedtak. Konkurranseklagenemnda kan kun omgjøre egne vedtak som må anses ugyldige.
+
+*Endret ved lov [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+### § 19. Domstolsprøving
+
+Søksmål om Konkurransetilsynets eller Konkurranseklagenemndas vedtak etter loven her skal rettes mot staten ved Konkurransetilsynet. Søksmålet må reises innen tre måneder etter at underretning om vedtaket er mottatt eller fra vedkommende fikk eller burde ha fått kunnskap om vedtaket.
+
+*Endret ved lov [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+## Kapittel 4 Avsluttende bestemmelser
+
+### § 20. Forskrifter
+
+Kongen kan gi forskrifter om
+
+a. lovens anvendelse på Svalbard, og fastsette særlige regler av hensyn til de stedlige forholdene,
+b. avgrensning av virkeområdet og presisering av adferdsnormene i [§§ 4](lov-2020-04-17-29-lov-om-god-handelsskikk-i-dagligvarekjeden.md) til 9,
+c. dagligvaremyndighetenes organisering og saksbehandling,
+d. nærmere regler om opplysningsplikt og gransking,
+e. nærmere regler om ileggelse av tvangsmulkt,
+f. utmåling av overtredelsesgebyr, og
+g. innføring av EØS-regelverk om forretningspraksis for dagligvarebransjen.
+
+### § 21. Ikrafttredelse og overgangsregler
+
+Loven gjelder fra den tid[1] Kongen bestemmer.
+
+Konkurransetilsynet kan bare treffe vedtak om avtaler eller handlinger som har funnet sted etter at loven har trådt i kraft.
+
+*Endret ved lov [22 des 2025 nr. 129](https://lovdata.no/lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](https://lovdata.no/forskrift/2026-04-17-601)).*
+
+## Fotnoter
+
+**1.** Loven trer i kraft 1. januar 2021 iflg. res. [21 des 2020 nr. 2887](https://lovdata.no/forskrift/2020-12-21-2887).

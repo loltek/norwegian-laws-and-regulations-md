@@ -1,0 +1,989 @@
+# Forskrift om årsregnskap for banker, kredittforetak og finansieringsforetak
+
+- **Korttittel:** Forskrift om årsregnskap for banker mv
+- **Datokode:** FOR-1998-12-16-1240
+- **DokumentID:** SF/forskrift/1998-12-16-1240
+- **Departement:** Finansdepartementet
+- **Etat:** Finansmarkedsavd.
+- **Hjemmel:** lov 17.07.1998 nr. 56/§1-5; lov 17.07.1998 nr. 56/§8-1; lov 17.07.1998 nr. 56/§10-1
+- **Publisert i:** I 1998 1898
+- **I kraft fra:** 1999-01-01
+- **Siste endring i kraft:** 2024-11-01
+- **Sist endret ved:** forskrift 01.11.2024 nr. 2609
+- **Endrer:** forskrift 13.09.1996 nr. 920
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2022-09-13 (tilbakeført til versjon før endring 17 aug 2022 nr. 1453)
+- **Merknad:** Hjemmel: Fastsatt av Finans- og tolldepartementet (nå Finansdepartementet) 16. desember 1998 med hjemmel i lov av 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 1-5 trettende ledd, § 8-1 tredje ledd og § 10-1 første ledd. EØS-henvisninger: EØS-avtalen vedlegg IX nr. 21 (direktiv 2001/65/EF). Endret ved forskrifter 28 mai 1999 nr. 657, 9 mars 2000 nr. 267, 19 des 2003 nr. 1643, 20 des 2005 nr. 1597, 21 feb 2006 nr. 232, 30 mars 2007 nr. 370, 29 juni 2007 nr. 876, 13 nov 2008 nr. 1210, 12 des 2008 nr. 1323, 30 jan 2009 nr. 89, 18 des 2009 nr. 1688, 18 des 2009 nr. 1726, 25 feb 2011 nr. 198, 23 juni 2011 nr. 634, 20 des 2011 nr. 1422, 17 jan 2013 nr. 44, 19 des 2013 nr. 1680, 22 aug 2014 nr. 1098, 3 nov 2014 nr. 1415, 19 des 2013 nr. 1680, 16 des 2016 nr. 1658, 20 des 2018 nr. 2206 (i kraft 1 jan 2020, se endringsforskriften for overgangsregler, se historisk versjon av forskriften for bestemmelse om opprinnelig forskrifts ikrafttredelse), 12 feb 2021 nr. 441, 2 mars 2022 nr. 334, 17 aug 2022 nr. 1453 (i kraft 1 jan 2023), 4 juli 2023 nr. 1243, 1 nov 2024 nr. 2609. Rettelser: 01.05.2011 (§ 1-1 nr. 6), 13.09.2022 (tilbakeført til versjon før endring 17 aug 2022 nr. 1453).
+- **Kilde:** <https://lovdata.no/forskrift/1998-12-16-1240>
+
+## Kapittel 1. Alminnelige bestemmelser
+
+### § 1-1. Forskriftens virkeområde
+
+Forskriften gjelder
+
+1. banker, jf. [lov 10. april 2015 nr. 17](../lover/lov-2015-04-10-17-finansforetaksloven.md) om finansforetak og finanskonsern [§ 2-7](../lover/lov-2015-04-10-17-finansforetaksloven.md),
+2. kredittforetak, jf. [lov 10. april 2015 nr. 17](../lover/lov-2015-04-10-17-finansforetaksloven.md) om finansforetak og finanskonsern [§ 2-8](../lover/lov-2015-04-10-17-finansforetaksloven.md),
+3. finansieringsforetak, jf. [lov 10. april 2015 nr. 17](../lover/lov-2015-04-10-17-finansforetaksloven.md) om finansforetak og finanskonsern [§ 2-9](../lover/lov-2015-04-10-17-finansforetaksloven.md),
+4. morselskap som nevnt i [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 17-6](../lover/lov-2015-04-10-17-finansforetaksloven.md) annet ledd bokstav a og b som eier foretak som nevnt i punkt 1, 2 eller 3,
+5. finansstiftelser som har bestemmende innflytelse i institusjoner som nevnt i [punkt 1](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md), [2](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) eller 3, og
+6. filialer av utenlandske kredittinstitusjoner og finansieringsforetak, med unntak av [kapittel 8](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) om delårsregnskap.
+
+Regnskapslovens bestemmelser om små foretak gjelder ikke institusjoner som nevnt i første ledd. [Regnskapsloven § 3-1 fjerde ledd](../lover/lov-1998-07-17-56-regnskapsloven.md) om unntak fra bestemmelser i regnskapsloven, gjelder for alle institusjoner underlagt denne forskrift
+
+Salgsinntekter i [regnskapsloven § 1-5](../lover/lov-1998-07-17-56-regnskapsloven.md) skal, for institusjoner som nevnt i første ledd, forstås som summen av postene 1, 3, 5, 6 og 7 i [§ 4-1](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) i denne forskrift.
+
+*Endret ved [forskrifter 21 feb 2006 nr. 232](https://lovdata.no/forskrift/2006-02-21-232) (fom regnskapsår 2006), [30 jan 2009 nr. 89](https://lovdata.no/forskrift/2009-01-30-89), [25 feb 2011 nr. 198](https://lovdata.no/forskrift/2011-02-25-198) (fom regnskapsår 1 jan 2010) [23 juni 2011 nr. 634](https://lovdata.no/forskrift/2011-06-23-634) (fom tredje kvartal 2011), [17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012), [16 des 2016 nr. 1658](https://lovdata.no/forskrift/2016-12-16-1658) (med virkning fra regnskapsåret 2016), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere), [12 feb 2021 nr. 441](https://lovdata.no/forskrift/2021-02-12-441), [1 nov 2024 nr. 2609](https://lovdata.no/forskrift/2024-11-01-2609).*
+
+### § 1-2. Definisjoner
+
+Som institusjon regnes i denne forskrift foretak som nevnt i [§ 1-1](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) første ledd.
+
+Som kredittinstitusjon regnes i denne forskrift
+
+1. banker og kredittforetak,
+2. foretak med hovedsete i annen EØS-stat som er gitt tillatelse til å drive virksomhet som kredittinstitusjon og er underlagt myndighetstilsyn i slik stat, og
+3. sentralbanker og offisielle nasjonale og internasjonale institusjoner av bankmessig karakter.
+
+Som noterte institusjoner regnes i denne forskrift institusjoner som har utstedt verdipapirer på regulert marked i en EØS-stat.
+
+Med IAS og IFRS i denne forskrift menes internasjonale regnskapsstandarder inntatt som vedlegg til [forskrift 17. desember 2004 nr. 1852](for-2004-12-17-1852-forskrift-om-internasjonale-regnskapsstandarder.md) om gjennomføring av EØS-regler om vedtatte internasjonale regnskapsstandarder, jf. [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd.
+
+*Endret ved [forskrifter 17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 1-3. Regnskapsmodell noterte institusjoner
+
+Noterte institusjoner som har konsernregnskapsplikt, skal utarbeide konsernregnskap i samsvar med IFRS, jf. [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd.
+
+Selskapsregnskapet til institusjoner som nevnt i første ledd skal utarbeides:
+
+a. i samsvar med IFRS, jf. [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) tredje ledd første punktum, eller
+b. i samsvar med IFRS med mindre annet følger av denne forskrift. Bestemmelsene i kapittel 4 i denne forskrift gjelder ikke.
+
+Noterte institusjoner som ikke har konsernregnskapsplikt, skal utarbeide selskapsregnskap i samsvar med IFRS, jf. [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) tredje ledd annet punktum.
+
+*Tilføyd ved [forskrift 20 des 2005 nr. 1597](https://lovdata.no/forskrift/2005-12-20-1597) (fom regnskapsår 2005), endret ved [forskrifter 30 mars 2007 nr. 370](https://lovdata.no/forskrift/2007-03-30-370) (fom regnskapsår 2007), [18 des 2009 nr. 1688](https://lovdata.no/forskrift/2009-12-18-1688) (fom regnskapsår 2009), [17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 1-4. Regnskapsmodell øvrige institusjoner
+
+Institusjoner som ikke er noterte institusjoner skal utarbeide konsernregnskap:
+
+a. i samsvar med IFRS, jf. [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) fjerde ledd første punktum, eller
+b. i samsvar med IFRS med mindre annet følger av denne forskrift.
+
+Selskapsregnskapet til institusjoner som nevnt i første ledd skal utarbeides:
+
+a. i samsvar med IFRS, jf. [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) fjerde ledd annet punktum, eller
+b. i samsvar med IFRS med mindre annet følger av denne forskrift.
+
+*Tilføyd ved [forskrift 30 jan 2009 nr. 89](https://lovdata.no/forskrift/2009-01-30-89) (fom regnskapsår 2009), endret ved [forskrifter 17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 1-3a), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 1-5. Regnskap utarbeidet etter internasjonale regnskapsstandarder
+
+For konsernregnskap og selskapsregnskap utarbeidet i samsvar med [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) første til fjerde ledd, gjelder kun følgende bestemmelser i denne forskrift: [§ 2-1](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 2-2](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 2-4](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 2-8](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-4](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-5](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-6](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-7](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-9](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 8-1](../lover/lov-1998-07-17-56-regnskapsloven.md) og [§ 8-4](../lover/lov-1998-07-17-56-regnskapsloven.md).
+
+*Tilføyd ved [forskrift 30 mars 2007 nr. 370](https://lovdata.no/forskrift/2007-03-30-370) (fom regnskapsår 2007), endret ved [forskrifter 17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 1-4), [22 aug 2014 nr. 1098](https://lovdata.no/forskrift/2014-08-22-1098) (i kraft 30 sep 2014), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 1-6. (Opphevet)
+
+*Tilføyd ved [forskrift 30 mars 2007 nr. 370](https://lovdata.no/forskrift/2007-03-30-370) (fom regnskapsår 2007), endret ved [forskrifter 30 jan 2009 nr. 89](https://lovdata.no/forskrift/2009-01-30-89) (fom regnskapsår 2009), [17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 1-5), opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+## Kapittel 2. Årsregnskap og årsberetning
+
+### § 2-1. Plikt til å utarbeide årsregnskap og årsberetning
+
+Forslag til årsregnskap og årsberetning skal vedtas av institusjonens styre senest tre måneder etter regnskapsårets slutt. Årsregnskap og årsberetning for filialer av utenlandske foretak skal vedtas innen fem måneder etter regnskapsårets slutt.
+
+*Endret ved forskrift [2 mars 2022 nr. 334](https://lovdata.no/forskrift/2022-03-02-334).*
+
+### § 2-2. Årsberetningens innhold
+
+Dersom institusjonens kapitaldekning er under gjeldende minimumskrav skal det i årsberetningen, jf. [regnskapsloven § 2-2](../lover/lov-1998-07-17-56-regnskapsloven.md), gjøres oppmerksom på dette og redegjøres for tiltak som er truffet for å sikre institusjonens drift.
+
+Kravet i [regnskapsloven § 2-2 åttende ledd nr. 3](../lover/lov-1998-07-17-56-regnskapsloven.md) gjelder når styrets handlingsplikt utløses i henhold til [finansforetaksloven § 21-4](../lover/lov-2015-04-10-17-finansforetaksloven.md).
+
+*Endret ved [forskrifter 19 des 2003 nr. 1643](https://lovdata.no/forskrift/2003-12-19-1643) (i kraft 1 jan 2004), [20 des 2005 nr. 1597](https://lovdata.no/forskrift/2005-12-20-1597) (fom regnskapsår 2005), [17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 2-2), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 2-3), [4 juli 2023 nr. 1243](https://lovdata.no/forskrift/2023-07-04-1243), [1 nov 2024 nr. 2609](https://lovdata.no/forskrift/2024-11-01-2609).*
+
+### § 2-3. Konsernregnskap
+
+Reglene om konsernregnskap i regnskapsloven og denne forskrift gjelder tilsvarende for gjensidige foretak som gjennom samarbeidsavtaler har dannet konsernenheter basert på felles vedtektsfestede selskapsorganer. Slikt konsernregnskap skal omfatte de samarbeidende selskapene samt deres datterselskaper.
+
+*Endret ved [forskrifter 21 feb 2006 nr. 232](https://lovdata.no/forskrift/2006-02-21-232) (fom regnskapsår 2005 og 2006), [17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 2-3), [16 des 2016 nr. 1658](https://lovdata.no/forskrift/2016-12-16-1658) (med virkning fra regnskapsåret 2016), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 2-4).*
+
+### § 2-4. Begrensninger i unntak fra konsernregnskapsplikten
+
+Unntaket fra konsernregnskapsplikten etter [regnskapsloven § 3-7](../lover/lov-1998-07-17-56-regnskapsloven.md) gjelder bare der institusjonens morselskap er institusjon som nevnt i [§ 1-1](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd. Hvis institusjonens morselskap også eier datterselskap som reguleres av forskrift om årsregnskap for livsforsikringsforetak og/eller forskrift om årsregnskap for skadeforsikringsforetak, skal morselskapet i underkonsernet likevel utarbeide konsernregnskap.
+
+Finanstilsynet kan i særlige tilfeller tillate andre unntak fra konsernregnskapsplikten i samsvar med [regnskapsloven § 3-7](../lover/lov-1998-07-17-56-regnskapsloven.md).
+
+*Endret ved [forskrifter 18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009), [17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 2-4), [16 des 2016 nr. 1658](https://lovdata.no/forskrift/2016-12-16-1658) (med virkning fra regnskapsåret 2016), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 2-5).*
+
+### § 2-5. utelatelse av datterselskap fra konsolidering
+
+Dersom datterselskap som er en kredittinstitusjon skal utelates fra konsolidering etter [regnskapsloven § 3-8](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd og institusjonen har ervervet aksjene eller andelene etter en finansiell bistandstransaksjon for å reorganisere eller redde selskapet, skal årsregnskapet til datterselskapet legges ved institusjonens årsregnskap.
+
+*Endret ved [forskrifter 21 feb 2006 nr. 232](https://lovdata.no/forskrift/2006-02-21-232) (fom regnskapsår 2005 og 2006), [17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 2-5), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 2-6).*
+
+### § 2-6. Unntak fra konsernregnskapsplikten for finansstiftelser
+
+Plikten i [regnskapsloven § 3-2](../lover/lov-1998-07-17-56-regnskapsloven.md) tredje ledd til å utarbeide konsernregnskap gjelder ikke for finansstiftelser som kun har som formål å forvalte eierinteresser i kun ett datterselskap.
+
+*Opphevet ved [forskrift 30 mars 2007 nr. 370](https://lovdata.no/forskrift/2007-03-30-370), tilføyd igjen ved [forskrift 20 des 2011 nr. 1422](https://lovdata.no/forskrift/2011-12-20-1422) (fom regnskapsår 2011), endret ved [forskrifter 17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 2-6), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 2-7).*
+
+### § 2-7. Presentasjonsvaluta
+
+[Regnskapsloven § 3-4](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd gjelder ikke. Årsregnskapet skal presenteres i norske kroner.
+
+*Tilføyd ved [forskrift 21 feb 2006 nr. 232](https://lovdata.no/forskrift/2006-02-21-232) (fom regnskapsår 2005), endret ved [forskrifter 17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012, tidligere § 2-7), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 2-8).*
+
+### § 2-8. Offentlighet
+
+Årsregnskapet, årsberetningen og revisjonsberetningen skal, etter fastsetting av årsregnskapet, uten unødig opphold offentliggjøres på institusjonens hjemmeside på Internett. Institusjonen skal sørge for at årsregnskapet, årsberetningen og revisjonsberetningen forblir offentlig i minst fem år. Finanstilsynet kan pålegge institusjonen å opprette hjemmeside på Internett. For øvrig har enhver rett til å gjøre seg kjent med innholdet av dokumentene hos Regnskapsregisteret.
+
+Første ledd gjelder ikke for filialer av utenlandske institusjoner, jf. [regnskapsloven § 8-1](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1680](https://lovdata.no/forskrift/2013-12-19-1680) (fom regnskapsår 2013), endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 2-9).*
+
+## Kapittel 3. Vurderingsregler
+
+### § 3-1. Utbytte og konsernbidrag fra datterselskap
+
+Utbytte og konsernbidrag fra datterselskap kan, i mottakende og avgivende foretak, regnskapsføres i samsvar med [regnskapslovens](../lover/lov-1998-07-17-56-regnskapsloven.md) bestemmelser.
+
+*Endret ved forskrifter [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere), [12 feb 2021 nr. 441](https://lovdata.no/forskrift/2021-02-12-441).*
+
+### § 3-2. Forsikringskontrakter
+
+Forsikringskontrakter skal i konsernregnskap utarbeidet i samsvar med § 1-4 første ledd bokstav b, innregnes og måles etter samme prinsipper som anvendes i datterselskapets selskapsregnskap.
+
+*Endret ved forskrifter [19 des 2003 nr. 1643](https://lovdata.no/forskrift/2003-12-19-1643) (i kraft 1 jan 2004), [21 feb 2006 nr. 232](https://lovdata.no/forskrift/2006-02-21-232) (fom regnskapsår 2005), [13 nov 2008 nr. 1210](https://lovdata.no/forskrift/2008-11-13-1210), [12 des 2008 nr. 1323](https://lovdata.no/forskrift/2008-12-12-1323), [18 des 2009 nr. 1688](https://lovdata.no/forskrift/2009-12-18-1688) (fom regnskapsår 2009), opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere), tilføyd ved forskrift [17 aug 2022 nr. 1453](https://lovdata.no/forskrift/2022-08-17-1453) (i kraft 1 jan 2023).*
+
+### § 3-3. (Opphevet)
+
+*Endret ved [forskrifter 28 mai 1999 nr. 657](https://lovdata.no/forskrift/1999-05-28-657) (i kraft 1 juli 1999), [20 des 2011 nr. 1422](https://lovdata.no/forskrift/2011-12-20-1422) (fom regnskapsår 2011), opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 3-4. (Opphevet)
+
+*Tilføyd ved [forskrift 12 des 2008 nr. 1323](https://lovdata.no/forskrift/2008-12-12-1323), opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 3-5. (Opphevet)
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1680](https://lovdata.no/forskrift/2013-12-19-1680) (fom regnskapsåret 2015), opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+## Kapittel 4. Resultatregnskap og balanse
+
+### § 4-1. Resultatregnskap
+
+Resultatregnskapet skal ha følgende oppstillingsplan:
+
+**1**
+
+****Renteinntekter og lignende inntekter****
+
+**1.1**
+
+Renteinntekter beregnet etter effektivrentemetoden av utlån til og fordringer på kredittinstitusjoner og finansforetak
+
+**1.2**
+
+Renteinntekter beregnet etter effektivrentemetoden av utlån til og fordringer på kunder
+
+**1.3**
+
+Renteinntekter beregnet etter effektivrentemetoden av rentebærende verdipapirer
+
+**1.4**
+
+Andre renteinntekter beregnet etter effektivrentemetoden
+
+**1.5**
+
+Øvrige renteinntekter
+
+*Sum renteinntekter og lignende inntekter*
+
+**2**
+
+****Rentekostnader og lignende kostnader****
+
+**2.1**
+
+Rentekostnader beregnet etter effektivrentemetoden på gjeld til kredittinstitusjoner og finansieringsforetak
+
+**2.2**
+
+Rentekostnader beregnet etter effektivrentemetoden på innskudd fra og gjeld til kunder
+
+**2.3**
+
+Rentekostnader beregnet etter effektivrentemetoden på utstedte verdipapirer
+
+**2.4**
+
+Andre rentekostnader beregnet etter effektivrentemetoden
+
+**2.5**
+
+Øvrige rentekostnader
+
+*Sum rentekostnader og lignende kostnader*
+
+*I Netto renteinntekter*
+
+**3**
+
+****Provisjonsinntekter og inntekter fra banktjenester****
+
+**4**
+
+****Provisjonskostnader og kostnader ved banktjenester****
+
+**5**
+
+****Utbytte og andre inntekter av egenkapitalinstrumenter****
+
+**5.1**
+
+Inntekter av aksjer, andeler og andre egenkapitalinstrumenter
+
+**5.2**
+
+Inntekter av eierinteresser i tilknyttede selskaper og felleskontrollerte virksomheter
+
+**5.3**
+
+Inntekter av eierinteresser i konsernselskaper
+
+*Sum utbytte og andre inntekter av egenkapitalinstrumenter*
+
+**6**
+
+****Netto verdiendring og gevinst/tap på valuta og finansielle instrumenter****
+
+**6.1**
+
+Netto verdiendring og gevinst/tap på utlån og fordringer
+
+**6.2**
+
+Netto verdiendring og gevinst/tap på rentebærende verdipapirer
+
+**6.3**
+
+Netto verdiendring og gevinst/tap på aksjer og andre egenkapitalinstrumenter
+
+**6.4**
+
+Netto verdiendring og gevinst/tap på finansielle forpliktelser (med unntak av finansielle derivater)
+
+**6.5**
+
+Netto verdiendring og gevinst/tap på valuta og finansielle derivater
+
+**6.6**
+
+Netto verdiendring og gevinst/tap på finansielle garantier
+
+*Sum netto verdiendring og gevinst/tap på valuta og finansielle instrumenter*
+
+**7**
+
+****Andre driftsinntekter****
+
+**8**
+
+****Lønn og andre personalkostnader****
+
+**9**
+
+****Andre driftskostnader****
+
+**10**
+
+****Av-/nedskrivninger, verdiendringer og gevinst/tap på ikke-finansielle eiendeler****
+
+**10.1**
+
+Avskrivninger
+
+**10.2**
+
+Nedskrivninger
+
+**10.3**
+
+Verdiendringer
+
+**10.4**
+
+Gevinst/tap
+
+*Sum av-/nedskrivninger, verdiendringer og gevinst tap på ikke-finansielle eiendeler*
+
+**11**
+
+****Kredittap på utlån, garantier mv. og rentebærende verdipapirer****
+
+**11.1**
+
+Kredittap på utlån målt til amortisert kost eller virkelig verdi med verdiendring over andre inntekter og kostnader
+
+**11.2**
+
+Kredittap på utlån målt til virkelig verdi over resultat
+
+**11.3**
+
+Kredittap på garantier og ubenyttede rammekreditter som ikke måles til virkelig verdi over resultat
+
+**11.4**
+
+Kredittap på garantier og ubenyttede rammekreditter målt til virkelig verdi over resultat
+
+**11.5**
+
+Kredittap på rentebærende verdipapirer målt til amortisert kost eller virkelig verdi med verdiendring over andre inntekter og kostnader
+
+**11.6**
+
+Kredittap på rentebærende verdipapirer målt til virkelig verdi over resultat
+
+*Sum kredittap på utlån, garantier og rentebærende verdipapirer*
+
+*II Resultat for skatt fra videreført virksomhet*
+
+**12**
+
+****Skatt på resultat fra videreført virksomhet****
+
+*III Resultat etter skatt fra videreført virksomhet*
+
+**13**
+
+****Resultat fra virksomhet under avvikling etter skatt****
+
+*IV Resultat før andre inntekter og kostnader*
+
+**14**
+
+****Andre inntekter og kostnader****
+
+**14.1**
+
+Andre inntekter og kostnader som ikke blir omklassifisert til resultatet
+
+**14.1.1**
+
+Andre inntekter og kostnader knyttet til investeringer i egenkapitalinstrumenter
+
+**14.1.2**
+
+Estimatendringer knyttet til ytelsesbaserte pensjonsordninger
+
+**14.1.3**
+
+Endringer i virkelig verdi på finansielle forpliktelser som skyldes egen kredittrisiko
+
+**14.1.4**
+
+Øvrige andre inntekter og kostnader
+
+**14.1.5**
+
+Skatt på andre inntekter og kostnader som ikke blir omklassifisert til resultatet
+
+**14.2**
+
+Andre inntekter og kostnader som kan bli omklassifisert til resultatet
+
+**14.2.1**
+
+Andre inntekter og kostnader knyttet til investeringer i rentebærende verdipapirer
+
+**14.2.2**
+
+Effektiv andel av gevinster og tap på sikringsinstrumenter i kontantstrømsikring
+
+**14.2.3**
+
+Øvrige andre inntekter og kostnader
+
+**14.2.4**
+
+Skatt på andre inntekter og kostnader som kan bli omklassifisert til resultatet
+
+*Sum andre inntekter og kostnader*
+
+**15**
+
+****Totalresultat for regnskapsåret****
+
+*Endret ved [forskrifter 28 mai 1999 nr. 657](https://lovdata.no/forskrift/1999-05-28-657) (i kraft 1 juli 1999), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 4-2. Balanse
+
+Balansen skal ha følgende oppstillingsplan:
+
+EIENDELER
+
+**1**
+
+****Kontanter og kontantekvivalenter****
+
+**2**
+
+****Utlån til og fordringer på kredittinstitusjoner og finansieringsforetak****
+
+**2.1**
+
+Utlån og fordringer på kredittinstitusjoner og finansieringsforetak til virkelig verdi
+
+**2.2**
+
+Utlån og fordringer på kredittinstitusjoner og finansieringsforetak til amortisert kost
+
+*Sum utlån og fordringer på kredittinstitusjoner og finansieringsforetak*
+
+**3**
+
+****Utlån til og fordringer på kunder****
+
+**3.1**
+
+Utlån og fordringer på kunder til virkelig verdi
+
+**3.2**
+
+Utlån og fordringer på kunder til amortisert kost
+
+*Sum utlån og fordringer på kunder*
+
+**4**
+
+****Rentebærende verdipapirer****
+
+**4.1**
+
+Rentebærende verdipapirer til virkelig verdi
+
+**4.2**
+
+Rentebærende verdipapirer til amortisert kost
+
+*Sum rentebærende verdipapirer*
+
+**5**
+
+****Finansielle derivater****
+
+**6**
+
+****Aksjer, andeler og andre egenkapitalinstrumenter****
+
+**7**
+
+****Eierinteresser i tilknyttede selskaper og felleskontrollerte virksomheter****
+
+**8**
+
+****Eierinteresser i konsernselskaper****
+
+**9**
+
+****Immaterielle eiendeler****
+
+**10**
+
+****Investeringseiendom****
+
+**11**
+
+****Varige driftsmidler****
+
+**11.1**
+
+Eierbenyttet eiendom
+
+**11.2**
+
+Andre varige driftsmidler
+
+*Sum varige driftsmidler*
+
+**12**
+
+****Andre eiendeler****
+
+**12.1**
+
+Eiendeler ved utsatt skatt
+
+**12.2**
+
+Andre eiendeler
+
+*Sum andre eiendeler*
+
+**13**
+
+****Anleggsmidler og avhendingsgrupper holdt for salg****
+
+SUM EIENDELER
+
+GJELD OG EGENKAPITAL
+
+GJELD
+
+**14**
+
+****Innlån fra kredittinstitusjoner og finansieringsforetak****
+
+**14.1**
+
+Innlån fra kredittinstitusjoner og finansieringsforetak til virkelig verdi
+
+**14.2**
+
+Innlån fra kredittinstitusjoner og finansieringsforetak til amortisert kost
+
+*Sum innlån fra kredittinstitusjoner og finansieringsforetak*
+
+**15**
+
+****Innskudd og andre innlån fra kunder****
+
+**15.1**
+
+Innskudd og andre innlån fra kunder til virkelig verdi
+
+**15.2**
+
+Innskudd og andre innlån fra kunder til amortisert kost
+
+*Sum innskudd og andre innlån fra kunder*
+
+**16**
+
+****Gjeld stiftet ved utstedelse av verdipapirer****
+
+**16.1**
+
+Gjeld stiftet ved utstedelse av verdipapirer til virkelig verdi
+
+**16.2**
+
+Gjeld stiftet ved utstedelse av verdipapirer til amortisert kost
+
+*Sum gjeld stiftet ved utstedelse av verdipapirer*
+
+**17**
+
+****Finansielle derivater****
+
+**18**
+
+****Annen gjeld****
+
+**19**
+
+****Avsetninger****
+
+**19.1**
+
+Pensjonsforpliktelser
+
+**19.2**
+
+Forpliktelser ved skatt
+
+**19.2.1**
+
+Forpliktelser ved periodeskatt
+
+**19.2.2**
+
+Forpliktelser ved utsatt skatt
+
+**19.3**
+
+Avsetninger på garantier og ubenyttede rammekreditter
+
+**19.4**
+
+Andre avsetninger
+
+*Sum avsetninger*
+
+**20**
+
+****Ansvarlig lånekapital****
+
+**20.1**
+
+Ansvarlig lånekapital til virkelig verdi
+
+**20.2**
+
+Ansvarlig lånekapital til amortisert kost
+
+*Sum ansvarlig lånekapital*
+
+**21**
+
+****Fondsobligasjonskapital****
+
+**21.1**
+
+Fondsobligasjonskapital til virkelig verdi
+
+**21.2**
+
+Fondsobligasjonskapital til amortisert kost
+
+*Sum fondsobligasjonskapital*
+
+**22**
+
+****Forpliktelser inkludert i avhendingsgrupper klassifisert som holdt for salg****
+
+SUM GJELD
+
+EGENKAPITAL
+
+**23**
+
+****Innskutt egenkapital****
+
+**23.1**
+
+Selskapskapital
+
+**23.1.1**
+
+Preferanseaksjekapital
+
+**23.1.2**
+
+Aksjekapital/eierandelskapital
+
+**23.1.3**
+
+Beholdning av egne aksjer/egenkapitalbevis
+
+**23.2**
+
+Overkursfond
+
+**23.3**
+
+Kompensasjonsfond
+
+**23.4**
+
+Fondsobligasjonskapital
+
+**23.5**
+
+Annen innskutt egenkapital
+
+*Sum innskutt egenkapital*
+
+**24**
+
+****Opptjent egenkapital****
+
+**24.1**
+
+Fond for vurderingsforskjeller
+
+**24.2**
+
+Fond for urealiserte gevinster
+
+**24.3**
+
+Sparebankens fond
+
+**24.4**
+
+Gavefond
+
+**24.5**
+
+Utjevningsfond
+
+**24.6**
+
+Annen egenkapital
+
+*Sum opptjent egenkapital*
+
+SUM EGENKAPITAL
+
+SUM GJELD OG EGENKAPITAL
+
+*Endret ved [forskrifter 19 des 2003 nr. 1643](https://lovdata.no/forskrift/2003-12-19-1643) (i kraft 1 jan 2004), [21 feb 2006 nr. 232](https://lovdata.no/forskrift/2006-02-21-232) (fom regnskapsår 2006), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 4-3. Oppdeling eller sammenslåing av poster
+
+Når institusjonens forhold tilsier det, skal det i resultatregnskap og balanse foretas en ytterligere oppdeling i underposter. Det kan ikke tilføyes nye hovedposter eller foretas endringer av rekkefølgen av hovedpostene.
+
+Hovedposter kan ikke slås sammen. Underposter skal slås sammen dersom sammenslåingen fører til et mer oversiktlig årsregnskap. Underposter kan bare slås sammen innenfor samme hovedpost. Poster i oppstillingsplanene som er slått sammen skal spesifiseres i noter.
+
+Underposter i resultatregnskapet som gjelder andre inntekter og kostnader (post 14) kan ikke slås sammen.
+
+Underposter i balansen som gjelder egenkapital (post 23 og 24) kan ikke slås sammen.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 4-4. Konsernregnskapets oppstillingsplan
+
+[§§ 4-1](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) og [4-2](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) gjelder så langt de passer på konsernregnskapets oppstillingsplan.
+
+### § 4-5. (Opphevet)
+
+*Opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+## Kapittel 5. Nærmere om postene i resultatregnskapet
+
+### § 5-1. Renteinntekter og lignende inntekter – Resultatpost 1
+
+Under resultatpost 1 føres alle renteinntekter fra eiendeler ført under eiendelspostene 1, 2, 3 og 4. Rentelignende inntekter i forbindelse med dekkede termintransaksjoner fordelt over transaksjonens reelle løpetid og rentelignende provisjoner utregnet på grunnlag av fordringens varighet eller størrelse føres også her.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 5-2. Rentekostnader og lignende kostnader – Resultatpost 2
+
+Under resultatpost 2 føres alle kostnader i forbindelse med forpliktelsene ført under gjeldspostene 14, 15, 16 og 20, med mindre annet følger av denne forskrift. Kostnadene omfatter periodiserte kostnader for gjeld utstedt til en pris under/over innløsningsverdien. Rentelignende kostnader i forbindelse med dekkede termintransaksjoner fordelt over transaksjonens reelle løpetid og rentelignende provisjoner utregnet på grunnlag av gjeldens varighet eller størrelse føres også her. Det samme gjelder kostnader knyttet til Bankenes sikringsfond.
+
+*Endret ved forskrift [4 juli 2023 nr. 1243](https://lovdata.no/forskrift/2023-07-04-1243).*
+
+### § 5-3. Provisjonsinntekter og inntekter fra banktjenester – Resultatpost 3
+
+Under resultatpost 3 føres garantiprovisjonsinntekter, gebyrer og provisjonsinntekter ved blant annet handel med verdipapirer og valuta, forsikringstjenester, mottatte formidlingsprovisjoner i forbindelse med forvaltning av lån for andre långiveres regning og formidling av lån, gebyrer ved betalingsformidling og depot- og forvaltningsgebyrer.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 5-4. Provisjonskostnader og kostnader ved banktjenester – Resultatpost 4
+
+Under resultatpost 4 føres garantiprovisjonskostnader, gebyrer og provisjonskostnader ved blant annet handel med verdipapirer og valuta og gebyr for betalingsformidling.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 5-5. Netto verdiendring og gevinst/tap på valuta og finansielle instrumenter – Resultatpost 6
+
+Resultatpost 6 omfatter gevinst/tap på transaksjoner med finansielle instrumenter og verdiendringer av disse.
+
+Netto verdiendring i resultatpost 6.1 og 6.2 omfatter annet enn verdiendringer som føres som renteinntekter og tap i resultatpost 1 og 11.
+
+Netto verdiendring i resultatpost 6.4 omfatter annet enn verdiendringer som føres som rentekostnader i resultatpost 2.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 5-6. Kredittap på utlån, garantier mv. og rentebærende verdipapirer – Resultatpost 11
+
+Kredittap på utlån, garantier mv. og rentebærende verdipapirer som måles til virkelig verdi over resultat, skal resultatføres på resultatpost 11 dersom det er relevant for forståelsen av institusjonens finansielle stilling, jf. IAS 1.85.
+
+Resultatpost 11 omfatter innbetalinger på tidligere konstaterte tap.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 5-7).*
+
+### § 5-7. Andre inntekter og kostnader – Resultatpost 14
+
+Andre inntekter og kostnader omfatter inntekts- og kostnadsposter som ikke blir innregnet i resultatet slik det kreves eller tillates i IFRS, jf. IAS 1.7. Resultatpost 14.1 omfatter andre inntekter og kostnader som etter IFRS ikke vil bli omklassifisert til resultatet, jf. IAS 1.82A litra a). Resultatpost 14.1.1 omfatter verdiendringer på egenkapitalinstrumenter som regnskapsføres etter IFRS 9.5.7.5. Resultatpost 14.1.2 omfatter estimatendringer på ytelsesbaserte pensjonsordninger som regnskapsføres etter IAS 19.120 litra c). Resultatpost 14.1.3 omfatter verdiendringer på finansielle forpliktelser som skyldes egen kredittrisiko, jf. IFRS 9.5.7.7.
+
+Resultatpost 14.2 omfatter andre inntekter og kostnader som etter IFRS kan bli omklassifisert til resultatet, jf. IAS 1.82A litra b). Resultatpost 14.2.1 omfatter verdiendringer på renteinstrumenter som regnskapsføres etter IFRS 9.4.1.2A. Resultatpost 14.2.2 omfatter gevinster og tap på sikringsinstrumenter i kontantstrømsikring som regnskapsføres etter IFRS 9.6.5.11 litra b).
+
+*Tilføyd ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 5-8. (Opphevet)
+
+*Endret ved [forskrift 28 mai 1999 nr. 657](https://lovdata.no/forskrift/1999-05-28-657) (i kraft 1 juli 1999), opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+## Kapittel 6. Nærmere om poster i balansen
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020).*
+
+### § 6-1. Kontanter og kontantekvivalenter – Eiendelspost 1
+
+Med kontantekvivalenter menes kortsiktige, svært likvide investeringer som lett kan omgjøres i kjente kontantbeløp og som har ubetydelig risiko for verdiendringer.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 6-2. Utlån til og fordringer på kunder – Eiendelspost 3
+
+Eiendelspost 3 omfatter utlån til og fordringer på kunder som ikke er kredittinstitusjoner.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 6-4).*
+
+### § 6-3. Innlån fra kredittinstitusjoner og finansieringsforetak – Gjeldspost 14
+
+Gjeldspost 14 omfatter enhver form for gjeld til kredittinstitusjoner og finansieringsforetak som ikke skal føres under gjeldspost 16, 20 eller 21.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 6-7).*
+
+### § 6-4. Innskudd og andre innlån fra kunder – Gjeldspost 15
+
+Gjeldspost 15 omfatter enhver form for gjeld til kunder som ikke skal føres under gjeldspost 14, 16, 20 eller 21.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 6-8).*
+
+### § 6-5. Gjeld stiftet ved utstedelse av verdipapirer – Gjeldspost 16
+
+Gjeldspost 16 omfatter all gjeld stiftet ved utstedelse av verdipapirer som ikke er ansvarlig lånekapital eller fondsobligasjonskapital.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 6-9).*
+
+### § 6-6. Annen gjeld – Gjeldspost 18
+
+Gjeldspost 18 omfatter skattetrekk, skyldig merverdiavgift og skyldig lønn og arbeidsgiveravgift.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 6-10).*
+
+### § 6-7. Avsetninger – Gjeldspost 19
+
+Gjeldspost 19.4 omfatter avsetninger beregnet i samsvar med IAS 37.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 6-12).*
+
+### § 6-8. Innskutt egenkapital – Egenkapitalpost 23
+
+Egne aksjer/egenkapitalbevis føres på egenkapitalpost 23.1.3 til pålydende verdi.
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 6-13).*
+
+### § 6-14. (Opphevet)
+
+*Opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 6-15. (Opphevet)
+
+*Opphevet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+## Kapittel 7. Noteopplysninger
+
+*Kapitlet endret i sin helhet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere kapittel 8).*
+
+### § 7-1. Alminnelig opplysningsplikt
+
+[Regnskapsloven § 7-15](../lover/lov-1998-07-17-56-regnskapsloven.md) første til tredje ledd, [§ 7-26](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-27 annet ledd](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-30](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-30a](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-31](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-31a](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 7-31b](../lover/lov-1998-07-17-56-regnskapsloven.md) og [§ 7-32](../lover/lov-1998-07-17-56-regnskapsloven.md) gjelder med de unntak og tillegg som følger av bestemmelsene i dette kapittel. Opplysninger som nevnt i dette kapittel kan utelates når de ikke er av betydning for å bedømme institusjonens eller konsernets stilling og resultat. Det skal likevel alltid gis opplysninger som nevnt i [§ 7-5](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) og [§ 7-7](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md).
+
+*Endret ved [forskrifter 30 mars 2007 nr. 370](https://lovdata.no/forskrift/2007-03-30-370) (fom regnskapsår 2007), [30 jan 2009 nr. 89](https://lovdata.no/forskrift/2009-01-30-89), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 8-1), [1 nov 2024 nr. 2609](https://lovdata.no/forskrift/2024-11-01-2609).*
+
+### § 7-2. Noteopplysninger i samsvar med IFRS
+
+Det skal gis opplysninger i noter i samsvar med krav i IFRS. Følgende krav etter IFRS om opplysninger i noter til årsregnskapet kan likevel fravikes:
+
+1. IFRS 13 under forutsetning av det gis opplysninger om virkelig verdi i samsvar med [§ 7-3](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md)
+2. IFRS 15.113–128
+3. IAS 19.135 litra c og IAS 19.145–147.
+
+Dersom adgangen i første ledd om å fravike enkelte notekrav i IFRS benyttes, skal det gis opplysninger om hvilke IFRS-krav som fravikes.
+
+*Tilføyd ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 7-3. Opplysninger om virkelig verdi
+
+For eiendeler og forpliktelser som måles til virkelig verdi skal det opplyses om:
+
+1. De verdsettingsmetodene og inndata som ble benyttet,
+2. Det nivået innenfor hierarkiet for virkelig verdi der målingen av virkelig verdi i sin helhet er kategorisert,
+3. Der målingen av virkelig verdi er kategorisert i nivå 2 eller 3, gi en beskrivelse av de verdsettingsmetodene og inndata som er benyttet. Dersom det foreligger en endring i verdsettingsmetode, skal foretaket opplyse om dette og begrunne endringen.
+
+*Tilføyd ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 7-4. Aksjer, andeler og andre egenkapitalinstrumenter
+
+Aksjer, egenkapitalbevis og andeler i andre foretak ført under eiendelspost 6 skal spesifiseres etter foretak. Norske foretak skal angis med organisasjonsnummer. Spesifikasjonen skal omfatte de største postene og minst utgjøre 90 % av institusjonens beholdning av henholdsvis aksjer, egenkapitalbevis og andeler. Det skal opplyses om balanseført verdi, eierandel og antall aksjer i hvert foretak. Aksjer og egenkapitalbevis i finansforetak skal spesifiseres.
+
+*Endret ved [forskrifter 19 des 2003 nr. 1643](https://lovdata.no/forskrift/2003-12-19-1643) (i kraft 1 jan 2004), [17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 8-10).*
+
+### § 7-5. Egenkapital
+
+[Regnskapsloven § 7-26](../lover/lov-1998-07-17-56-regnskapsloven.md) gjelder tilsvarende for institusjoner som har utstedt egenkapitalbevis.
+
+Opplysninger som nevnt i [regnskapsloven § 7-26](../lover/lov-1998-07-17-56-regnskapsloven.md) tredje ledd skal omfatte egenkapitalbevis eller aksjer som innehas av medlem av generalforsamling og foretaksforsamling.
+
+I tillegg til opplysninger som nevnt i [regnskapsloven § 7-27](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd skal institusjoner som er morselskap opplyse om datterselskapers beholdning av aksjer og egenkapitalbevis utstedt av morselskapet.
+
+*Endret ved [forskrifter 28 mai 1999 nr. 657](https://lovdata.no/forskrift/1999-05-28-657) (i kraft 1 juli 1999), [21 feb 2006 nr. 232](https://lovdata.no/forskrift/2006-02-21-232) (fom regnskapsår 2006), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 8-20).*
+
+### § 7-6. Kapitaldekning
+
+Det skal opplyses om institusjonens kapitaldekning. [Regnskapsloven § 6-6](../lover/lov-1998-07-17-56-regnskapsloven.md) om sammenligningstall gjelder tilsvarende
+
+Ansvarlig kapital, jf. [finansforetaksloven § 14-1](../lover/lov-2015-04-10-17-finansforetaksloven.md), skal spesifiseres på egenkapital (ren kjernekapital), annen godkjent kjernekapital, ansvarlig lånekapital, annen tilleggskapital, samt på fradrag og tillegg.
+
+Institusjonen skal offentliggjøre beregningsgrunnlaget, jf. [finansforetaksloven § 14-2](../lover/lov-2015-04-10-17-finansforetaksloven.md), for kredittrisiko fordelt på engasjementkategori, samt for markedsrisiko og operasjonell risiko.
+
+*Endret ved [forskrifter 17 jan 2013 nr. 44](https://lovdata.no/forskrift/2013-01-17-44) (fom regnskapsår 2012), [22 aug 2014 nr. 1098](https://lovdata.no/forskrift/2014-08-22-1098) (i kraft 30 sep 2014), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 8-21).*
+
+### § 7-7. Ytelser og lån til ledende personer m.v.
+
+Kravene i [regnskapsloven § 7-32](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd til opplysninger om lån eller sikkerhetsstillelse til fordel for aksjeeiere og nærstående til aksjeeiere gjelder ikke.
+
+Plikten til å opplyse om vilkår for lån og sikkerhetsstillelse i [regnskapsloven § 7-31b](../lover/lov-1998-07-17-56-regnskapsloven.md) niende ledd og [§ 7-32](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd gjelder bare der vilkårene avviker fra de generelle vilkår som gjelder for ansatte.
+
+[Regnskapsloven § 7-31b](../lover/lov-1998-07-17-56-regnskapsloven.md) trettende ledd om adgang til å gi opplysninger i rapport etter [allmennaksjeloven § 6-16b](../lover/lov-1997-06-13-45-allmennaksjeloven.md), gjelder tilsvarende for sparebanker.
+
+*Endret ved [forskrifter 28 mai 1999 nr. 657](https://lovdata.no/forskrift/1999-05-28-657) (i kraft 1 juli 1999), [21 feb 2006 nr. 232](https://lovdata.no/forskrift/2006-02-21-232) (fom regnskapsår 2006), [20 des 2011 nr. 1422](https://lovdata.no/forskrift/2011-12-20-1422) (fom regnskapsår 2011), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 8-28), [4 juli 2023 nr. 1243](https://lovdata.no/forskrift/2023-07-04-1243).*
+
+### § 7-8. Sammenslåing av poster i oppstillingsplanen
+
+Poster i oppstillingsplanen som er slått sammen etter [§ 4-3](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md), skal spesifiseres. Det skal gis sammenligningsinformasjon i samsvar med kravene i IAS 1.
+
+*Tilføyd ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 7-9. Nøkkeltall
+
+Det skal opplyses om resultat før andre inntekter og kostnader som prosent av forvaltningskapitalen.
+
+*Tilføyd ved [forskrift 22 aug 2014 nr. 1098](https://lovdata.no/forskrift/2014-08-22-1098) (i kraft 30 sep 2014), endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 8-30).*
+
+## Kapittel 8. Delårsregnskap
+
+*Kapitlet endret i sin helhet ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere kapittel 9).*
+
+### § 8-1. Plikt til å utarbeide delårsregnskap
+
+Det skal utarbeides delårsregnskap for hvert kvartal. Institusjoner som ikke er noterte institusjoner, jf. [§ 1-2](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) annet ledd, kan unnlate å utarbeide delårsregnskap for fjerde kvartal. For morselskap består delårsregnskapet av selskapsregnskap og konsernregnskap.
+
+*Endret ved [forskrifter 30 jan 2009 nr. 89](https://lovdata.no/forskrift/2009-01-30-89), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 9-1).*
+
+### § 8-2. Innhold i delårsregnskap
+
+Delårsregnskapet skal utarbeides i samsvar med IAS 34. Det er likevel ikke krav til å utarbeide kontantstrømoppstilling. Resultatregnskap og balanse skal minst angi hovedpostene i oppstillingsplanene, jf. [§ 4-1](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) og [§ 4-2](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md). Kravet i IAS 34.16A litra j) om å gi opplysninger om virkelig verdi på finansielle instrumenter, kan fravikes under forutsetning av at det gis opplysninger i samsvar med [§ 7-3](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md).
+
+*Tilføyd ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*
+
+### § 8-3. Tilleggsopplysninger
+
+Det skal gis opplysninger om institusjonens kapitaldekning.
+
+*Endret ved [forskrifter 20 des 2011 nr. 1422](https://lovdata.no/forskrift/2011-12-20-1422) (fom regnskapsår 2011). [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 9-3).*
+
+### § 8-4. Offentlighet m.v.
+
+Delårsregnskapet skal vedtas av institusjonenes styre innen 45 dager etter regnskapsperiodens slutt, og uten unødig opphold offentliggjøres på institusjonens hjemmeside på Internett. Institusjonen skal sørge for at delårsregnskapet forblir offentlig i minst fem år. Finanstilsynet kan pålegge institusjonen å opprette hjemmeside på Internett. Det skal gis opplysninger om hvilke deler av delårsregnskapet som er revidert.
+
+*Endret ved [forskrifter 23 juni 2011 nr. 634](https://lovdata.no/forskrift/2011-06-23-634) (fom delårsregnskapet for tredje kvartal 2011), [19 des 2013 nr. 1680](https://lovdata.no/forskrift/2013-12-19-1680) (fom regnskapsår påbegynt 1 jan 2014 eller senere), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 9-4).*
+
+## Kapittel 9. Avsluttende bestemmelser
+
+*Endret ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere kapittel 10).*
+
+### § 9-1. Dispensasjon
+
+Finanstilsynet kan i det enkelte tilfelle dispensere fra bestemmelsene i denne forskrift.
+
+*Endret ved [forskrifter 18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009), [20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere, tidligere § 10-1).*
+
+### § 9-2. Overgangsregler
+
+For regnskapsåret 2020 kan institusjoner som utarbeider konsernregnskap etter denne forskrift [§ 1-4](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) første ledd bokstav b unnlate å omarbeide sammenligningstall. Tilsvarende gjelder institusjoner som utarbeider selskapsregnskap etter denne forskrift [§ 1-4](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) annet ledd bokstav b.
+
+Institusjoner som utarbeider konsernregnskap etter denne forskrift [§ 1-4](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) første ledd bokstav b og/eller selskapsregnskap etter denne forskrift [§ 1-4](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) annet ledd bokstav b skal ved førstegangs anvendelse av krav i IFRS gi opplysninger som følger av overgangsreglene i den enkelte IFRS-standard. I tillegg skal det i noter forklares hvordan overgangen fra tidligere anvendte prinsipper har påvirket institusjonens rapporterte finansielle stilling. Det skal gis en avstemming av institusjonens egenkapital pr. 31. desember 2019 mot institusjonens egenkapital 1. januar 2020 som setter brukere i stand til å forstå de vesentligste justeringene i balanseoppstillingen.
+
+For regnskapsåret 2020 kan institusjoner som utarbeider konsernregnskap etter denne forskrift [§ 1-4](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) første ledd bokstav b og/eller selskapsregnskap etter denne forskrift [§ 1-4](for-1998-12-16-1240-forskrift-om-aarsregnskap-for-banker-mv.md) annet ledd bokstav b, unnlate å anvende IFRS 16 Leieavtaler og i stedet anvende tidligere anvendte prinsipper.
+
+*Tilføyd ved [forskrift 20 des 2018 nr. 2206](https://lovdata.no/forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).*

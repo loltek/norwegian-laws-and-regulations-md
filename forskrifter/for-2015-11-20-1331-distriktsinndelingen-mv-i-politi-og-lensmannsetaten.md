@@ -1,0 +1,103 @@
+# Endringer i distriktsinndelingen mv. i politi- og lensmannsetaten
+
+- **Korttittel:** Distriktsinndelingen mv. i politi- og lensmannsetaten
+- **Datokode:** FOR-2015-11-20-1331
+- **DokumentID:** INS/forskrift/2015-11-20-1331
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Politiavd.
+- **Hjemmel:** lov 04.08.1995 nr. 53/§16
+- **Publisert i:** I 2015 hefte 13
+- **Kunngjort:** 2015-11-20 14:15
+- **I kraft fra:** 2016-01-01
+- **Siste endring i kraft:** 2017-06-01
+- **Sist endret ved:** forskrift 22.05.2017 nr. 620 fra 2017-06-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 20. november 2015 med hjemmel i lov 4. august 1995 nr. 53 om politiet (politiloven) § 16 første ledd. Fremmet av Justis- og beredskapsdepartementet. Endret ved vedtak 22 jan 2016 nr. 45, 22 mai 2017 nr. 620. Se også vedtak 15 juni 2018 nr. 1074 om justeringer av distriktsinndelingen mv. i politi- og lensmannsetaten som følge av kommunereformen og vedtak 24 aug 2018 nr. 1267 om justering av distriktsinndelingen mv. i politi- og lensmannsetaten som følge av kommune- og regionreformen.
+- **Kilde:** <https://lovdata.no/INS/forskrift/2015-11-20-1331>
+
+## I
+
+1. Følgende 24 politidistrikter med politimesterembeter nedlegges:
+
+   Asker og Bærum, Østfold, Follo, Romerike, Hedmark, Gudbrandsdal, Vestoppland, Nordre Buskerud, Søndre Buskerud, Vestfold, Telemark, Rogaland, Haugaland og Sunnhordland, Hordaland, Sogn og Fjordane, Sunnmøre, Nordmøre og Romsdal, Sør-Trøndelag, Nord-Trøndelag, Helgeland, Salten, Midtre Hålogaland, Vestfinnmark og Østfinnmark.
+2. Politimestere som er utnevnt på åremål i embete som nedlegges, løses fra sine embetsfunksjoner. Dette gjelder i følgende politidistrikter: Østfinnmark, Salten, Rogaland, Nordre Buskerud, Telemark, Follo, Vestoppland og Hedmark.
+
+   Politimestere som er konstituerte fratrer ved konstitusjonens utløp 31. desember 2015. Dette gjelder konstituerte politimestere i følgende politidistrikter: Vestfinnmark, Midtre Hålogaland, Helgeland, Nord-Trøndelag, Sør-Trøndelag, Nordmøre og Romsdal, Sunnmøre, Sogn og Fjordane, Hordaland, Haugaland og Sunnhordland, Asker og Bærum, Søndre Buskerud, Vestfold, Romerike, Østfold og Gudbrandsdal.
+
+## II
+
+Følgende ni nye politidistrikter med politimesterembeter opprettes:
+
+1. *Øst* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Aremark, Askim, Aurskog-Høland, Eidsberg, Eidsvoll, Enebakk, Fet, Fredrikstad, Frogn, Gjerdrum, Halden, Hobøl, Hurdal, Hvaler, Lørenskog, Marker, Moss, Nannestad, Nes, Nesodden, Nittedal, Oppegård, Rakkestad, Rygge, Rælingen, Rømskog, Råde, Sarpsborg, Skedsmo, Ski, Skiptvet, Spydeberg, Sørum, Trøgstad, Ullensaker, Vestby, Våler og Ås.
+2. *Innlandet* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Alvdal, Dovre, Eidskog, Elverum, Engerdal, Etnedal, Folldal, Gausdal, Gjøvik, Gran, Grue, Hamar, Kongsvinger, Lesja, Lillehammer, Lom, Lunner, Løten, Nord-Aurdal, Nord-Fron, Nord-Odal, Nordre Land, Os, Rendalen, Ringebu, Ringsaker, Sel, Skjåk, Stange, Stor-Elvdal, Søndre Land, Sør-Aurdal, Sør-Fron, Sør-Odal, Tolga, Trysil, Tynset, Vang, Vestre Slidre, Vestre Toten, Vågå, Våler, Østre Toten, Øyer, Øystre Slidre, Åmot og Åsnes.
+3. *Sør-Øst* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Andebu, Bamble, Bø, Drammen, Drangedal, Flesberg, Flå, Fyresdal, Gol, Hemsedal, Hjartdal, Hof, Hol, Hole, Holmestrand, Horten, Hurum, Jevnaker, Kongsberg, Kragerø, Krødsherad, Kviteseid, Lardal, Larvik, Lier, Modum, Nedre Eiker, Nes, Nissedal, Nome, Nore og Uvdal, Notodden, Nøtterøy, Porsgrunn, Re, Ringerike, Rollag, Røyken, Sande, Sandefjord, Sauherad, Seljord, Sigdal, Siljan, Skien, Stokke, Svelvik, Tinn, Tjøme, Tokke, Tønsberg, Vinje, Øvre Eiker og Ål.
+4. *Sør-Vest* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Bjerkreim, Bokn, Bømlo, Eigersund, Etne, Finnøy, Fitjar, Forsand, Gjesdal, Haugesund, Hjelmeland, Hå, Karmøy, Klepp, Kvitsøy, Lund, Randaberg, Rennesøy, Sandnes, Sauda, Sirdal, Sokndal, Sola, Stavanger, Stord, Strand, Suldal, Sveio, Time, Tysvær, Utsira og Vindafjord.
+5. *Vest* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Askvoll, Askøy, Aurland, Austevoll, Austrheim, Balestrand, Bergen, Bremanger, Eid, Eidfjord, Fedje, Fjaler, Fjell, Flora, Fusa, Førde, Gaular, Gloppen, Granvin, Gulen, Hornindal, Hyllestad, Høyanger, Jondal, Jølster, Kvam, Kvinnherad, Leikanger, Lindås, Luster, Lærdal, Masfjorden, Meland, Modalen, Naustdal, Odda, Os, Osterøy, Radøy, Samnanger, Selje, Sogndal, Solund, Stryn, Sund, Tysnes, Ullensvang, Ulvik, Vaksdal, Vanylven,[1] Vik, Voss, Vågsøy, Øygarden og Årdal.
+6. *Møre og Romsdal* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Aukra, Aure, Averøy, Eide, Fræna, Giske, Gjemnes, Halsa, Haram, Hareid, Herøy, Kristiansund, Midsund, Molde, Nesset, Norddal, Rauma, Rindal,[2] Sande, Sandøy, Skodje, Smøla, Stordal, Stranda, Sula, Sunndal, Surnadal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørskog, Ørsta og Ålesund.
+7. *Trøndelag* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Agdenes, Bindal, Bjugn, Flatanger, Fosnes, Frosta, Frøya, Grong, Hemne, Hitra, Holtålen, Høylandet, Inderøy, Klæbu, Leka, Leksvik, Levanger, Lierne, Malvik, Meldal, Melhus, Meråker, Midtre Gauldal, Namdalseid, Namsos, Namsskogan, Nærøy, Oppdal, Orkdal, Osen, Overhalla, Raarvihke Røyrvik, Rennebu, Rissa, Roan, Røros, Selbu, Skaun, Snillfjord, Snåase Snåsa, Steinkjer, Stjørdal, Trondheim, Tydal, Verdal, Verran, Vikna, Ørland og Åfjord.
+8. *Nordland* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Alstahaug, Andøy, Ballangen, Beiarn, Bodø, Brønnøy, Bø, Divtasvuodna Tysfjord, Dønna, Evenes, Fauske, Flakstad, Gildeskål, Grane, Gratangen, Hábmer Hamarøy, Hadsel, Harstad, Hattfjelldal, Hemnes, Herøy, Ibestad, Kvæfjord, Lavangen, Leirfjord, Lurøy, Lødingen, Meløy, Moskenes, Narvik, Nesna, Rana, Rødøy, Røst, Salangen, Saltdal, Skånland, Sortland, Steigen, Sømna, Sørfold, Tjeldsund, Træna, Vefsn, Vega, Vestvågøy, Vevelstad, Værøy, Vågan og Øksnes.
+9. *Finnmark* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+   Alta, Berlevåg, Båtsfjord, Deatnu Tana, Gamvik, Hammerfest, Hasvik, Kárásjohka Karasjok, Kautokeino, Kvalsund, Lebesby, Loppa, Måsøy, Nordkapp, Porsanger, Sør-Varanger, Unjárga Nesseby, Vadsø og Vardø.
+
+*Endret ved [vedtak 22 jan 2016 nr. 45](https://lovdata.no/forskrift/2016-01-22-45), [22 mai 2017 nr. 620](https://lovdata.no/forskrift/2017-05-22-620) (i kraft 1 juni 2017).  
+Se også [vedtak 15 juni 2018 nr. 1074](https://lovdata.no/forskrift/2018-06-15-1074) om justeringer av distriktsinndelingen mv. i politi- og lensmannsetaten som følge av kommunereformen (i kraft 1 jan 2020).*
+
+## III
+
+I ett politidistrikt gjøres noen endringer i det geografiske ansvarsområdet:
+
+- *Oslo* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+
+  Asker, Bærum og Oslo.
+
+## IV
+
+Følgende politidistrikter består uendret:
+
+- *Agder* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+- Arendal, Audnedal, Birkenes, Bygland, Bykle, Evje og Hornnes, Farsund, Flekkefjord, Froland, Gjerstad, Grimstad, Hægebostad, Iveland, Kristiansand, Kvinesdal, Lillesand, Lindesnes, Lyngdal, Mandal, Marnardal, Risør, Songdalen, Søgne, Tvedestrand, Valle, Vegårshei, Vennesla, Åmli og Åseral.
+- *Troms* politidistrikt med geografisk ansvarsområde for følgende kommuner:
+- Balsfjord, Bardu, Berg, Dyrøy, Harstad, Ibestad, Karlsøy, Kvæfjord, Kvænangen, Kåfjord, Lavangen, Lenvik, Lyngen, Målselv, Nordreisa, Salangen, Skjervøy, Skånland, Storfjord, Sørreisa, Torsken, Tranøy og Tromsø.
+
+*Endret ved [vedtak 22 mai 2017 nr. 620](https://lovdata.no/forskrift/2017-05-22-620) (i kraft 1 juni 2017).  
+Se også [vedtak 15 juni 2018 nr. 1074](https://lovdata.no/forskrift/2018-06-15-1074) om justeringer av distriktsinndelingen mv. i politi- og lensmannsetaten som følge av kommunereformen (i kraft 1 jan 2020).*
+
+## V
+
+Ansvaret for kontinentalsokkelen skal fortsatt deles mellom fire politidistrikter. Dagens geografiske ansvarsgrenser opprettholdes. jf. kongelig [resolusjon av 17. desember 1999 nr. 1391](for-1999-12-17-1391-forskrift-om-utovelse-av-myndighet-i-havomraadene.md) vedrørende forskrift om politidistrikt, namsmannsdistrikt, lagdømme og domssogn for utøvelse av politimyndighet, namsmannsmyndighet og domsmyndighet på kontinentalsokkelen og i norsk økonomisk sone, samt politimyndighet i havområdet utenfor Svalbards territorialfarvann.
+
+De nye politidistriktene tillegges ansvar etter følgende inndeling:
+
+- Sør-Vest politidistrikt overtar for Rogaland politidistrikt.
+- Møre og Romsdal politidistrikt overtar for Nordmøre og Romsdal politidistrikt.
+- Nordland politidistrikt overtar for Helgeland politidistrikt.
+- Troms politidistrikt opprettholdes som i dag.[3]
+
+## VI
+
+Vedtakene i den kongelige resolusjonen her trer i kraft 1. januar 2016.
+
+## Fotnoter
+
+**1.** Vanylven ble lagt til Møre og Romsdal politidistrikt ved [vedtak 22 mai 2017 nr. 620](https://lovdata.no/forskrift/2017-05-22-620), Lovdatas anm.
+
+**2.** Rindal legges til Trøndelag politidistrikt ved [vedtak 24 aug 2018 nr. 1267](https://lovdata.no/forskrift/2018-08-24-1267) som trer i kraft når departementet bestemmer ifølge [vedtak 12 okt 2018 nr. 1575](https://lovdata.no/forskrift/2018-10-12-1575), Lovdatas anm.
+
+**3.** Geografisk område endret ved [vedtak 22 mai 2017 nr. 620](https://lovdata.no/forskrift/2017-05-22-620), Lovdatas anm.

@@ -1,0 +1,83 @@
+# Forskrift til tjenestepensjonsloven
+
+- **Datokode:** FOR-2014-06-27-885
+- **DokumentID:** SF/forskrift/2014-06-27-885
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavdelingen
+- **Hjemmel:** lov 13.12.2013 nr. 106/§1-3; lov 13.12.2013 nr. 106/§3-2; lov 13.12.2013 nr. 106/§4-6; lov 13.12.2013 nr. 106/§4-9; lov 13.12.2013 nr. 106/§4-15; lov 13.12.2013 nr. 106/§5-4; lov 13.12.2013 nr. 106/§6-4; lov 13.12.2013 nr. 106/§6-10; lov 13.12.2013 nr. 106/§8-7; forskrift 13.12.2013 nr. 1445
+- **Publisert i:** I 2014 hefte 9
+- **Kunngjort:** 2014-06-30 15:30
+- **I kraft fra:** 2014-09-01
+- **Siste endring i kraft:** 2024-12-20
+- **Sist endret ved:** forskrift 20.12.2024 nr. 3412
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 27. juni 2014 med hjemmel i lov 13. desember 2013 nr. 106 om tjenestepensjon (tjenestepensjonsloven) § 1-3, § 3-2, § 4-6 femte ledd, § 4-9 første ledd, § 4-15 fjerde ledd, § 5-4 fjerde ledd, § 6-4 fjerde ledd, § 6-10 fjerde og sjette ledd og § 8-7 femte ledd, jf. delegeringsvedtak 13. desember 2013 nr. 1445. Endret ved forskrifter 9 okt 2015 nr. 1177, 15 des 2015 nr. 1640, 11 mai 2016 nr. 488, 28 feb 2022 nr. 306 (i kraft 1 mars 2022), 20 des 2024 nr. 3412 (i kraft straks med virkning fra inntektsåret 2025).
+- **Kilde:** <https://lovdata.no/forskrift/2014-06-27-885>
+
+## § 1. Alder ved uttak av alderspensjon
+
+(1) Alderspensjon kan tas ut ved fylte 55 år for følgende yrker:
+
+a. Flypiloter.
+b. Dykkere.
+c. Redningspersonell som tjenestegjør på helikoptre på oljeinstallasjon til havs.
+
+(2) Andre flybesetningsmedlemmer enn piloter kan ta ut alderspensjon ved fylte 60 år.
+
+## § 2. Beregning og utbetaling av alderspensjon
+
+(1) Pensjonsinnretningen kan benytte en teknisk rente i beregningen av alderspensjonsutbetalinger for å endre utbetalingsprofilen dersom utbetalingsprofilen ellers ville blitt uhensiktsmessig sterkt stigende for alderspensjonistene. Bruk av en teknisk rente innebærer ingen garanti fra pensjonsinnretningen.
+
+(2) Den tekniske renten skal settes til et forsvarlig nivå, og herunder være tilpasset risikoprofil og forventet avkastning i kapitalforvaltningen. Nivået på den tekniske renten skal bidra til at:
+
+a. alderspensjonen ikke får en sterkt økende regulering ut over alminnelig lønnsvekst og prisstigning,
+b. alderspensjonen sikres i hele utbetalingsperioden og
+c. at det ikke skjer urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+
+(3) Den tekniske renten kan ikke settes høyere enn den høyeste tillatte avkastningsgaranti etter [tjenestepensjonsloven § 5-7](../lover/lov-2013-12-13-106-tjenestepensjonsloven.md) annet ledd annet punktum eller forskrift fastsatt av Finanstilsynet med hjemmel i [tjenestepensjonsloven § 5-7](../lover/lov-2013-12-13-106-tjenestepensjonsloven.md) annet ledd tredje punktum.
+
+(4) Pensjonsinnretningen skal skriftlig opplyse alderspensjonistene om hva en teknisk rente er og om virkningen av at pensjonsutbetalingene beregnes med utgangspunkt i en teknisk rente. Herunder skal det informeres om risikoen for at pensjonsutbetalingene reduseres eller blir lavere enn det som følger av den beregnede utbetalingsprofilen. Ved endring av den tekniske renten skal pensjonsinnretningen skriftlig opplyse alderspensjonistene om nye, beregnede pensjonsutbetalinger og øvrige virkninger av endringen.
+
+## § 3. Kontoinformasjon til innehaver av pensjonsbevis
+
+(1) Årlig kontoinformasjon skal omfatte opplysning om årets belastning av pensjonsbevisets administrasjonsreserve.
+
+## § 4. Opplysninger for avtale om pensjonsbevis tilordnet egen investeringsportefølje
+
+(1) Før det inngås avtale om utstedelse av pensjonsbevis tilordnet egen investeringsportefølje, skal pensjonsinnretningen gi pensjonsbevisinnehaveren skriftlige eksempler som viser hvor stor årlig avkastning en gitt investeringsportefølje minst må ha for å oppnå bestemte pensjonsytelser, og hvor sannsynlige og usikre de ulike utfallene er. Det skal tas hensyn til pensjonsbevisinnehaverens alder og kjønn, pensjonsinnretningens vederlag, dødelighetsarv og engangspremie ved overføring til alminnelig forvaltning ved uttak av alderspensjon. Eksemplene skal være relevante, realistiske og ikke villedende. Risiko og usikkerhet skal komme klart frem i presentasjonen av eksemplene.
+
+(2) Finanstilsynet kan gi nærmere regler og retningslinjer om utforming og presentasjon av de opplysninger og eksempler som skal gis etter første ledd og [tjenestepensjonsloven § 6-10](../lover/lov-2013-12-13-106-tjenestepensjonsloven.md).
+
+## § 5. Øvre grense for størrelsen på reguleringsfondet
+
+Øvre grense for størrelsen på reguleringsfondet kan settes til fem prosent av pensjonsbeholdningen for aktive medlemmer for den eller de pensjonsordninger foretaket har. Det kan avtales en høyere grense.
+
+*Tilføyd ved [forskrift 11 mai 2016 nr. 488](https://lovdata.no/forskrift/2016-05-11-488).*
+
+## § 6. Beregning av uførepensjon og overføring til foretakets premiefond
+
+Midler som ikke kommer til utbetaling som følge av reduksjon av uførepensjonen i medhold av [tjenestepensjonsloven § 8-7](../lover/lov-2013-12-13-106-tjenestepensjonsloven.md) annet ledd første punktum, skal tilføres foretakets premiefond. Tilsvarende gjelder midler som tilbakeføres som ledd i etteroppgjør, jf. [tjenestepensjonsloven § 8-7](../lover/lov-2013-12-13-106-tjenestepensjonsloven.md) annet ledd tredje punktum.
+
+*Tilføyd ved [forskrift 15 des 2015 nr. 1640](https://lovdata.no/forskrift/2015-12-15-1640) (i kraft 1 jan 2016), endret ved [forskrift 11 mai 2016 nr. 488](https://lovdata.no/forskrift/2016-05-11-488) (tidligere § 5).*
+
+## § 7. Unntak fra medlemskap i tjenestepensjonsordning
+
+Arbeidstaker kan velge å stå utenfor tjenestepensjonsordning dersom vedkommende er medlem av en utenlandsk pensjonsordning som oppfyller vilkårene i [skatteloven § 6-72](../lover/lov-1999-03-26-14-skatteloven.md), og som foretaket betaler premie eller avgift til.
+
+*Tilføyd ved [forskrift 9 okt 2015 nr. 1177](https://lovdata.no/forskrift/2015-10-09-1177), endret ved [forskrifter 15 des 2015 nr. 1640](https://lovdata.no/forskrift/2015-12-15-1640) (i kraft 1 jan 2016, tidligere § 5), [11 mai 2016 nr. 488](https://lovdata.no/forskrift/2016-05-11-488) (tidligere § 6), [20 des 2024 nr. 3412](https://lovdata.no/forskrift/2024-12-20-3412) (i kraft straks med virkning fra inntektsåret 2025).*
+
+## § 8. Adgang til fortsatt medlemskap i pensjonsordningen for permitterte arbeidstakere
+
+(1) Foretak som ikke har bestemmelser i regelverket som nevnt i [tjenestepensjonsloven § 3-5](../lover/lov-2013-12-13-106-tjenestepensjonsloven.md) tredje ledd, kan beslutte at arbeidstakere likevel skal være medlem av pensjonsordningen under permitteringen. Foretaket har ikke plikt til å betale innskudd til pensjonssparing, forsikring som gir rett til innskuddsfritak ved uførhet, eller eventuelle uføre- og etterlatteforsikringer for de permitterte arbeidstakerne.
+
+(2) Adgangen til å beholde medlemskap under permittering som nevnt i første ledd, gjelder så lenge arbeidstaker er lovlig permittert fra foretaket. Arbeidstaker som blir sykemeldt under permittering og fortsatt er sykemeldt når permitteringsperioden avsluttes, skal likevel beholde medlemskapet i pensjonsordningen frem til vedkommende gjeninntrer i arbeidsforholdet eller arbeidsforholdet opphører. Arbeidstakeren skal beholde medlemskapet i pensjonsordningen under permittering selv om arbeidstakeren meldes inn i ny pensjonsordning hos annen arbeidsgiver.
+
+(3) For arbeidstaker som er medlem av foretakets pensjonsordning under permittering etter første ledd, gjelder retten til å fortsette forsikringsforholdet etter [forsikringsavtaleloven § 19-7](../lover/lov-1989-06-16-69-forsikringsavtaleloven.md) første ledd tilsvarende. Forsikringsselskapet skal sende melding som nevnt i [forsikringsavtaleloven § 19-7](../lover/lov-1989-06-16-69-forsikringsavtaleloven.md) første ledd tredje punktum til medlemmene. Fristen i [forsikringsavtaleloven § 19-7](../lover/lov-1989-06-16-69-forsikringsavtaleloven.md) første ledd siste punktum gjelder tilsvarende. Ved gjeninntreden i arbeidsforholdet etter permittering har medlemmet rett til å avslutte forsikringsforholdet og få tilbakebetalt uavløpt premie. Det skal ikke stilles krav om ny egenerklæring, arbeidsdyktighetserklæring eller karensperiode ved gjeninntreden i arbeidsforholdet.
+
+*Tilføyd ved forskrift [28 feb 2022 nr. 306](https://lovdata.no/forskrift/2022-02-28-306) (i kraft 1 mars 2022, se endringsforskriftens del II for overgangsregler).*
+
+## § 9. Ikrafttredelse
+
+(1) Forskriften trer i kraft 1. september 2014.
+
+*Endret ved [forskrifter 9 okt 2015 nr. 1177](https://lovdata.no/forskrift/2015-10-09-1177) (tidligere § 5), [15 des 2015 nr. 1640](https://lovdata.no/forskrift/2015-12-15-1640) (i kraft 1 jan 2016, tidligere § 6), [11 mai 2016 nr. 488](https://lovdata.no/forskrift/2016-05-11-488) (tidligere § 7), [28 feb 2022 nr. 306](https://lovdata.no/forskrift/2022-02-28-306) (i kraft 1 mars 2022, tidligere § 8).*

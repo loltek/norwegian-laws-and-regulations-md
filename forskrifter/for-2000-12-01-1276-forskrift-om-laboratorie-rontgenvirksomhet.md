@@ -1,0 +1,85 @@
+# Forskrift om medisinsk laboratorie- og røntgenvirksomhet
+
+- **Korttittel:** Forskrift om laboratorie-/røntgenvirksomhet
+- **Datokode:** FOR-2000-12-01-1276
+- **DokumentID:** SF/forskrift/2000-12-01-1276
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Sykehusavd.
+- **Hjemmel:** lov 02.07.1999 nr. 61/§2-1a; lov 02.07.1999 nr. 61/§4-1; lov 02.07.1999 nr. 61/§5-2
+- **Publisert i:** I 2000 2766
+- **I kraft fra:** 2001-01-01
+- **Siste endring i kraft:** 2016-01-01
+- **Sist endret ved:** forskrift 18.12.2015 nr. 1740 fra 2016-01-01
+- **Endrer:** forskrift 07.02.1996 nr. 357; forskrift 10.08.1984 nr. 1557
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2002-09-11 (Kap. 3 overskriften)
+- **Merknad:** Hjemmel: Fastsatt av Sosial- og helsedepartementet (nå Helse- og omsorgsdepartementet) 1. desember 2000 med hjemmel i lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 2-1 a fjerde ledd, § 4-1 annet ledd og § 5-2 fjerde ledd. Endret ved forskrifter 18 des 2001 nr. 1577 (bl.a hjemmel), 23 april 2008 nr. 443, 17 jan 2013 nr. 61, 18 des 2015 nr. 1740.
+- **Kilde:** <https://lovdata.no/forskrift/2000-12-01-1276>
+
+## Kapittel 1. Formål, virkeområde og definisjoner
+
+### § 1. Formål
+
+Forskriften skal bidra til forsvarlige helsetjenester.
+
+*Endret ved [forskrift 23 april 2008 nr. 443](https://lovdata.no/forskrift/2008-04-23-443) (i kraft 1 juni 2008).*
+
+### § 2. Virkeområde
+
+Forskriften gjelder frittstående medisinsk laboratorie- og røntgenvirksomhet.
+
+Forskriften omfatter ikke virksomhet der laboratorie- eller røntgenvirksomheten utgjør en lite vesentlig del av virksomhetens totale tjenesteytelse og virksomheten ikke er basert på henvisning fra annen lege eller tannlege når det gjelder laboratorievirksomhet eller annen lege, tannlege eller kiropraktor når det gjelder røntgenvirksomhet.
+
+*Endret ved [forskrifter 18 des 2001 nr. 1577](https://lovdata.no/forskrift/2001-12-18-1577) (i kraft 1 jan 2002), [23 april 2008 nr. 443](https://lovdata.no/forskrift/2008-04-23-443) (i kraft 1 juni 2008).*
+
+### § 3. Definisjoner
+
+Med medisinsk laboratorievirksomhet menes medisinsk virksomhet som analyserer og diagnostiserer prøver og som gir pasienter undersøkelse og behandling som krever spesialistkompetanse innen det relevante medisinske laboratoriefag.
+
+Med medisinsk røntgenvirksomhet menes medisinsk virksomhet som gir pasienter undersøkelse, diagnostikk og behandling som krever spesialistkompetanse i medisinsk radiologi.
+
+Med frittstående virksomhet menes virksomhet som ikke er en organisatorisk del av et sykehus.
+
+Med offentlig virksomhet menes offentlig eid virksomhet.
+
+*Endret ved [forskrift 18 des 2001 nr. 1577](https://lovdata.no/forskrift/2001-12-18-1577) (i kraft 1 jan 2002).*
+
+## Kapittel 2. Generelle krav til tjenesten. Godkjenning
+
+### § 4. Oppgaver
+
+Medisinske laboratorier og røntgeninstitutt skal gi råd og veiledning til rekvirenten om diagnostisk nytte av ulike undersøkelser og delta i befolkningsundersøkelser som er satt i gang av sentrale helsemyndigheter.
+
+I tillegg til de oppgaver som er nevnt i første ledd skal alle offentlige medisinske laboratorier og røntgeninstitutt delta i forebyggende arbeid. Offentlige medisinske laboratorier skal også avgi uttalelse i spørsmål som gjelder hygiene eller infeksjonsmedisin på anmodning fra lokale eller sentrale helsemyndigheter.
+
+### § 5. Kompetansekrav
+
+I virksomhet som omfattes av dette kapittel skal det være ansatt legespesialist innen det relevante fagområdet.
+
+*Endret ved [forskrift 18 des 2001 nr. 1577](https://lovdata.no/forskrift/2001-12-18-1577) (i kraft 1 jan 2002, tidligere § 6).*
+
+### § 6. Krav til godkjenning
+
+Helsedirektoratet godkjenner etablering av medisinsk laboratorium og røntgeninstitutt og endringer i virksomheten som nevnt i annet ledd, som anses faglig forsvarlig. Helsedirektoratets vedtak kan påklages til Nasjonalt klageorgan for helsetjenesten.
+
+Godkjent privat medisinsk laboratorium eller røntgeninstitutt skal søke om ny godkjenning ved endringer i virksomheten som innebærer utvidelse av tjenestetilbudet til å omfatte nye medisinske fagområder.
+
+Medisinsk laboratorium eller røntgeninstitutt kan ikke yte helsetjenester før etableringen av virksomheten er godkjent av Helsedirektoratet. Endringer i virksomheten etter bestemmelsene i annet og tredje ledd kan ikke gjennomføres før godkjenning foreligger.
+
+Godkjenningen kan trekkes tilbake dersom virksomheten ikke drives forsvarlig.
+
+Medisinsk laboratorium og røntgeninstitutt som var i drift før 1. april 1984, er å anse som godkjent virksomhet. Medisinsk laboratorium og røntgeninstitutt som er blitt godkjent før denne forskriftens ikrafttreden, skal fremdeles anses som godkjent.
+
+*Endret ved [forskrifter 18 des 2001 nr. 1577](https://lovdata.no/forskrift/2001-12-18-1577) (i kraft 1 jan 2002, tidligere § 7), [23 april 2008 nr. 443](https://lovdata.no/forskrift/2008-04-23-443) (i kraft 1 juni 2008), [18 des 2015 nr. 1740](https://lovdata.no/forskrift/2015-12-18-1740) (i kraft 1 jan 2016).*
+
+### § 7. Krav til søknaden
+
+Søknaden skal inneholde alle nødvendige opplysninger for at Helsedirektoratet skal kunne vurdere om godkjenning bør gis, jf. [§ 1](for-2000-12-01-1276-forskrift-om-laboratorie-rontgenvirksomhet.md).
+
+*Endret ved [forskrifter 18 des 2001 nr. 1577](https://lovdata.no/forskrift/2001-12-18-1577) (i kraft 1 jan 2002, tidligere § 8), [23 april 2008 nr. 443](https://lovdata.no/forskrift/2008-04-23-443) (i kraft 1 juni 2008).*
+
+### § 8. Ikrafttreden
+
+Denne forskriften trer i kraft 1. januar 2001. Fra samme tidspunkt oppheves [forskrift av 7. februar 1996 nr. 357](https://lovdata.no/forskrift/1996-02-07-357) om finansiering av private medisinske laboratorier og røntgeninstitutt og [forskrift av 10. august 1984 nr. 1557](https://lovdata.no/forskrift/1984-08-10-1557) om medisinsk laboratorium og røntgeninstitutt, delegering av myndighet.
+
+*Endret ved [forskrifter 18 des 2001 nr. 1577](https://lovdata.no/forskrift/2001-12-18-1577) (i kraft 1 jan 2002, tidligere § 12), [23 april 2008 nr. 443](https://lovdata.no/forskrift/2008-04-23-443) (i kraft 1 juni 2008, tidligere § 11).*

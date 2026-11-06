@@ -1,0 +1,258 @@
+# Forskrift om AS Vinmonopolets innkjøpsvirksomhet mv.
+
+- **Korttittel:** Forskrift om Vinmonopolets innkjøp
+- **Datokode:** FOR-1995-11-30-938
+- **DokumentID:** SF/forskrift/1995-11-30-938
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Folkehelseavd.
+- **Hjemmel:** lov 02.06.1989 nr. 27/§3-1
+- **Publisert i:** I 1995 1541
+- **I kraft fra:** 1996-01-01
+- **Siste endring i kraft:** 2018-01-01
+- **Sist endret ved:** forskrift 19.12.2017 nr. 2289 fra 2018-01-01
+- **Endrer:** forskrift 21.12.1993 nr. 1218
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2006-12-01 (§ 8-1 annet ledd tilbakeført)
+- **Merknad:** Hjemmel: Fastsatt av Sosial- og helsedepartementet (nå Helse- og omsorgsdepartementet) 30. november 1995 med hjemmel i lov av 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. (alkoholloven) § 3-1 femte ledd med endringer vedtatt i lov av 23. juni 1995 nr. 42. Endret ved forskrifter 22 sept 2000 nr. 967, 10 jan 2006 nr. 62, 24 mars 2006 nr. 376, 8 des 2011 nr. 1220, 24 juni 2016 nr. 817, 19 des 2017 nr. 2289. Rettelser: 01.12.2006 (§ 8-1 annet ledd tilbakeført).
+- **Kilde:** <https://lovdata.no/forskrift/1995-11-30-938>
+
+## Kapittel 1. Alminnelige bestemmelser
+
+### § 1-1. Formål
+
+Vinmonopolets innkjøp og salg av alkoholholdig drikk skal innenfor alkoholpolitiske rammevilkår skje på vanlige forretningsmessige betingelser, tilpasses etterspørselen og sikre likebehandling.
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 1-2. Definisjoner
+
+Med grossist menes i denne forskrift person eller selskap som kan drive engrossalg, jf. [lov 2. juni 1989 nr. 27](../lover/lov-1989-06-02-27-alkoholloven.md) om omsetning av alkoholholdig drikk m.v. [§ 1-4c](../lover/lov-1989-06-02-27-alkoholloven.md).
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 1-3. Virkeområde
+
+Forskriften gjelder for Vinmonopolets innkjøp, salg og auksjon av alkoholholdig drikk som omfattes av selskapets enerett i henhold til [lov 2. juni 1989 nr. 27](../lover/lov-1989-06-02-27-alkoholloven.md) om omsetning av alkoholholdig drikk m.v. [§ 3-1](../lover/lov-1989-06-02-27-alkoholloven.md) første og femte ledd.
+
+*Endret ved [forskrifter 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006), [8 des 2011 nr. 1220](https://lovdata.no/forskrift/2011-12-08-1220) (i kraft 1 jan 2012), [24 juni 2016 nr. 817](https://lovdata.no/forskrift/2016-06-24-817) (i kraft 1 juli 2016).*
+
+### § 1-4. Vinmonopolets produktutvalg
+
+Vinmonopolets produktutvalg omfatter et basisutvalg, et partiutvalg, et tilleggsutvalg, et testutvalg og et bestillingsutvalg.
+
+Salg fra basis-, parti-, tilleggs- og bestillingsutvalg skjer for Vinmonopolets regning og risiko. Salg fra testutvalget skjer for grossistens regning og risiko, jf. [§ 5-4](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md) og [§ 5-5](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md).
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+## Kapittel 2. Vinmonopolets basis- og partiutvalg
+
+### § 2-1. Definisjon
+
+Med Vinmonopolets basisutvalg forstås i denne forskrift produkter som følger retningslinjene for gjenkjøp i [§ 2-2](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md). Med partiutvalg forstås produkter som det kjøpes inn et begrenset parti av.
+
+### § 2-2. Retningslinjer
+
+Vinmonopolets basis- og partiutvalg skal være sammensatt ut fra en vurdering av faktisk og forventet etterspørsel. Vareutvalget i de enkelte utsalg skal tilpasses etterspørselen i utsalgenes salgsområder. Andre produkter fra basis- og partiutvalget som utsalget ikke lagerfører, skal kunne leveres etter bestilling.
+
+Basisutvalget inndeles i produktgrupper. For hver produktgruppe fastsettes et maksimalt antall produkter. Produktgruppene skal bestå av produktene med høyest salgsvolum på landsbasis målt i en nærmere bestemt periode. Dersom et produkt ikke har solgt tilstrekkelig til å opprettholde plassen i produktgruppen, skal videre innkjøp av produktet stanses.
+
+Produktgruppenes antall, størrelse og målegrunnlag for salgsvolum fastsettes av Vinmonopolet ut fra hensynet til markedstilpasning, effektiv konkurranse og størrelsen av basisutvalget.
+
+Ett nytt parti av en partivare kan kjøpes inn innen 6 måneder etter første innkjøp.
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 2-3. Markeds- og produktplan
+
+Vinmonopolet skal utarbeide en årlig markeds- og produktplan som skal redegjøre for hovedtrekkene i sammensetningen av basis- og partiutvalget.
+
+Markeds- og produktplanen er offentlig.
+
+## Kapittel 3. Innkjøpsprosedyrer for basis- og partiutvalg
+
+### § 3-1. Generelt
+
+Vinmonopolet skal behandle tilbud om kjøp på like vilkår.
+
+### § 3-2. Innkjøp etter innhenting av konkurrerende tilbud
+
+Innkjøp foretas etter innhenting av et så stort antall tilbud at reell konkurranse oppnås, med mindre vilkårene for kjøp etter [§ 3-3](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md) er oppfylt.
+
+Ved beslutning om hvilket tilbud som er best, skal det foruten på pris, legges særlig vekt på kvalitet og leveringsdyktighet.
+
+Tilbydere som har fått avslag, skal underrettes skriftlig om dette.
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 3-3. Innkjøp uten innhenting av konkurrerende tilbud
+
+Innkjøp uten innhenting av konkurrerende tilbud kan benyttes når
+
+1. produktet på grunnlag av oppnådd salg i testutvalget eller bestillingsutvalget kvalifiserer for listeføring i basisutvalget, jf. [§ 5-5](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md) og [§ 6-2](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md),
+2. produktet bare kan skaffes fra en grossist, eller
+3. innkjøpet på grunn av uforutsette omstendigheter ikke kan utsettes.
+
+Vinmonopolet kan fastsette en grense for innkjøp av produkter fra bestillingsutvalget dersom det er nødvendig for å opprettholde en rimelig balanse mellom produkter innkjøpt etter første ledd nr. 1 og [§ 3-2](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md).
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 3-4. Sensorisk prøveinstans
+
+Vinmonopolet kan bestemme at en sensorisk produktbedømmelse inngår i innkjøpsvurderingen. Denne foretas av Vinmonopolets sensoriske prøveinstans.
+
+Prøveprosedyrene skal kunne dokumenteres. Det føres prøveprotokoll over resultatene av prøvingene. Prøveprotokollen er offentlig.
+
+Nærmere regler for den sensoriske prøveinstansen fastsettes av Vinmonopolet.
+
+### § 3-5. Tilbudsprotokoll
+
+Alle tilbud om innkjøp føres inn i en tilbudsprotokoll. Av tilbudsprotokollen skal fremgå hvilke tilbud som er valgt og begrunnelsen for valget. De tilbudte priser føres ikke inn i protokollen.
+
+Tilbudsprotokollen er offentlig.
+
+## Kapittel 4. Tilleggsutvalg
+
+### § 4-1. Opprettelse
+
+Hvert utsalg skal ha et lokalt tilleggsutvalg. Utvalget skal ha et rimelig omfang, og sammensetningen skal ta hensyn til lokal etterspørsel. Hvert utsalg skal ha tilgjengelig informasjon om eget tilleggsutvalg.
+
+Produkter til det lokale tilleggsutvalget kan enten velges fra Vinmonopolets liste for produkter til tilleggsutvalg, jf. [§ 4-2](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md) annet ledd, eller fra bestillingsutvalget, jf. [kapittel 6](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md).
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 4-2. Retningslinjer
+
+Interesserte grossister må gi skriftlig melding til Vinmonopolet om produkter som ønskes ført i lokale tilleggsutvalg, med angivelse av pris og kvantum som kan leveres.
+
+Listen over produkter som er meldt forelegges alle Vinmonopolets utsalg. Med listen skal det følge en kort produktomtale fra grossisten.
+
+Nærmere retningslinjer for tilleggsutvalg fastsettes av Vinmonopolet.
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+## Kapittel 5. Testutvalg
+
+### § 5-1. Opprettelse
+
+Vinmonopolet skal ha et testutvalg. Testutvalget har til formål å sikre markedsadgang for produkter som ikke er tatt inn i Vinmonopolets basis- eller partiutvalg.
+
+### § 5-2. Opptak
+
+Grossister som retter skriftlig henvendelse til Vinmonopolet om opptak har rett til å få et bestemt antall produkter inn i testutvalget. Vinmonopolet bestemmer antallet produkter per grossist ut fra hensynet til likebehandling og størrelsen på testutvalget.
+
+Produkter grossisten melder på til opptak i testutvalget må ha vært i bestillingsutvalget i minst 12 måneder før første fastsatte lanseringstidspunkt etter påmelding til testutvalget, og i samme periode
+
+a. ha fått avslag på tilbud til basis- eller partiutvalget, eller
+b. ikke ha oppfylt spesifikasjonskravene i noen av tilbudsforespørslene til basis- eller partiutvalget.
+
+Når et produkt er lansert i testutvalget, kan grossisten melde inn et nytt produkt innenfor rammen av den til enhver tid fastsatte kvote per grossist.
+
+Vinmonopolet kan bestemme at det skal betales et gebyr til dekning av kostnadene forbundet med lansering av produktet i testutvalget. Nærmere regler om gebyrets størrelse og innbetaling fastsettes av Vinmonopolet.
+
+*Endret ved [forskrifter 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006), [19 des 2017 nr. 2289](https://lovdata.no/forskrift/2017-12-19-2289) (i kraft 1 jan 2018).*
+
+### § 5-3. (Opphevet fra 1 juli 2006, jf. [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376).)
+
+### § 5-4. Salg fra testutvalget
+
+Produktene fra testutvalget føres for salg i en representativ andel av Vinmonopolets utsalg. Antallet utsalg med testutvalg og deres beliggenhet fastsettes av Vinmonopolet. Grossisten mottar oppgjør periodevis etterhvert som produktene blir solgt. Nærmere vilkår fastsettes av Vinmonopolet.
+
+### § 5-5. Testperiode
+
+Testutvalget inndeles i de samme produktgrupper som gjelder for basisutvalget. Oppnådd salgsvolum på landsbasis måles i en nærmere bestemt testperiode, og justeres i forhold til salgsvolumet i utsalg med testutvalg, jf. [§ 5-4](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md). Målegrunnlag for salgsvolum fastsettes av Vinmonopolet ut fra hensynet til markedstilpasning, effektiv konkurranse og størrelsen av basisutvalget.
+
+Dersom et produkt i testutvalget oppnår et tilstrekkelig høyt salgsvolum, jf. [§ 2-2](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md) annet ledd, kjøpes produktet inn til Vinmonopolets basisutvalg etter utløpet av testperioden.
+
+Dersom salget av et produkt i testutvalget blir lavere enn nødvendig for å kvalifisere til innkjøp til basisutvalget, returneres usolgt restlager av produktet til grossisten for hans regning og risiko.
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 5-6. Pris
+
+Grossistens pris for produktene i testutvalget legges til grunn for Vinmonopolets fastsetting av utsalgsprisen. Prisen fra grossisten skal være fast og kan ikke endres i testperioden. Ved eventuell overføring av produktet til basisutvalget etter testperiodens utløp, skal grossistens pris som gjaldt i testperioden, opprettholdes uendret i 6 måneder.
+
+## Kapittel 6. Bestillingsutvalg
+
+### § 6-1. Registrering – vilkår
+
+Grossistene har rett til å få produkter registrert i en spesiell prisliste for et bestillingsutvalg, som er tilgjengelig i alle utsalg. Grossisten må gi Vinmonopolet skriftlig melding om produktets navn med produktomtale og pris.
+
+Bestillingsutvalget skal være tilgjengelig på grossistens lager og med samme leveringsvilkår som for produkter i basis- og partiutvalg.
+
+Vinmonopolet kan kreve at en bestilling av produkter fra dette utvalget forskuddsbetales.
+
+### § 6-2. Inndeling i produktgrupper
+
+Bestillingsutvalget inndeles i tilsvarende produktgrupper som gjelder for basisutvalget. Oppnådd salgsvolum på landsbasis måles i en nærmere bestemt periode. Målegrunnlag for salgsvolum fastsettes av Vinmonopolet ut fra hensynet til markedstilpasning, effektiv konkurranse og størrelsen av basisutvalget.
+
+Dersom et produkt i bestillingsutvalget oppnår et tilstrekkelig høyt salgsvolum, jf. [§ 2-2](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md) annet ledd, kjøpes produktet inn til Vinmonopolets basisutvalg etter utløpet av måleperioden.
+
+*Tilføyd ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+## Kapittel 7. Bestilling av produkter utenfor produktutvalget
+
+### § 7-1. Omfang
+
+Vinmonopolet er overfor forbrukere forpliktet til å levere på bestilling alle produkter som ikke er representert i produktutvalget, jf. [§ 1-4](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md), men som kan leveres av en grossist.
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 7-2. Bestillingen
+
+Bestillingen skal være skriftlig og inneholde produktbetegnelse og grossistens navn og adresse.
+
+Vinmonopolet kan kreve at bestilling av produkter utenfor produktutvalget forskuddsbetales.
+
+## Kapittel 7A. Auksjon
+
+*Kapitlet tilføyd ved [forskrift 8 des 2011 nr. 1220](https://lovdata.no/forskrift/2011-12-08-1220) (i kraft 1 jan 2012).*
+
+### § 7A-1. Omfang
+
+AS Vinmonopolet kan besørge auksjon av alkoholholdig drikk gruppe 2 og 3 mellom personer uten rett til omsetning av alkoholholdig drikk. Selskapet kan la seg bistå av auksjonshus for å gjennomføre slik auksjon.
+
+*Tilføyd ved [forskrift 8 des 2011 nr. 1220](https://lovdata.no/forskrift/2011-12-08-1220) (i kraft 1 jan 2012).*
+
+### § 7A-2. Gebyr
+
+AS Vinmonopolet kan kreve gebyr for å besørge auksjon.
+
+*Tilføyd ved [forskrift 8 des 2011 nr. 1220](https://lovdata.no/forskrift/2011-12-08-1220) (i kraft 1 jan 2012).*
+
+## Kapittel 8. Prisfastsetting og innsyn
+
+### § 8-1. Prisfastsetting
+
+Vinmonopolets salgspris skal beregnes med utgangspunkt i grossistens leveringspris tillagt påslag for inndekning av kostnader og fortjeneste. Priskalkylen må være bygget opp slik at det enkelte produkt i produktutvalget, jf. [§ 1-4](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md), selges til samme pris over hele landet.
+
+Vinmonopolets målsetting skal være at utsalgsprisen for halvflasker skal utgjøre halvparten av prisen for standard helflaske av samme produkt. Hvis innkjøpsprisen betinger en høyere utsalgspris, skal prisen for halvflasker maksimalt utgjøre 60% av prisen for standard helflasker av samme produkt.
+
+*Endret ved [forskrifter 22 sept 2000 nr. 967](https://lovdata.no/forskrift/2000-09-22-967) (i kraft 1 jan 2001), [24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 8-2. Innsyn
+
+Enhver har rett til innsyn i prisfastsettelsen for produkter omsatt gjennom Vinmonopolet.
+
+## Kapittel 9. Leveringsbetingelser
+
+### § 9-1. Grossistens leveringsplikt
+
+Vinmonopolet kan kreve at grossisten skal levere produktet til samtlige utsalg i landet og til samme pris.
+
+## Kapittel 10. Diverse bestemmelser
+
+### § 10-1. Tungtveiende alkoholpolitiske grunner
+
+Vinmonopolet kan vedta å unnlate å ta inn et produkt i produktutvalget, jf. [§ 1-4](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md), eller unnlate å kjøpe inn et produkt dersom tungtveiende alkoholpolitiske grunner tilsier det, jf. [§ 1-1](for-1995-11-30-938-forskrift-om-vinmonopolets-innkjop.md).
+
+*Endret ved [forskrift 24 mars 2006 nr. 376](https://lovdata.no/forskrift/2006-03-24-376) (i kraft 1 juli 2006).*
+
+### § 10-2. Habilitet
+
+Ved behandling av innkjøpssaker gjelder reglene om habilitet i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker [kap. II](../lover/lov-1967-02-10-forvaltningsloven.md) tilsvarende.
+
+### § 10-3. Ikrafttredelse
+
+Denne forskrift trer i kraft fra 1. januar 1996.
+
+Fra samme tidspunkt oppheves [forskrift av 21. desember 1993 nr. 1218](https://lovdata.no/forskrift/1993-12-21-1218) om Vinmonopolets innkjøp og produktutvalg av brennevin, vin og sterkøl gitt med hjemmel i [alkoholloven av 2. juni 1989 nr. 27 § 2-3](../lover/lov-1989-06-02-27-alkoholloven.md).

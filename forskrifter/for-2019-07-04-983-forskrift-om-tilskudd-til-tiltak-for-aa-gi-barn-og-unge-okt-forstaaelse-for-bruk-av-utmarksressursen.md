@@ -1,0 +1,72 @@
+# Forskrift om tilskudd til tiltak for å gi barn og unge økt forståelse for bruk av utmarksressursene
+
+- **Datokode:** FOR-2019-07-04-983
+- **DokumentID:** SF/forskrift/2019-07-04-983
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Avd. for skog- og ressurspolitikk
+- **Kunngjort:** 2019-07-08 14:30
+- **I kraft fra:** 2019-07-04
+- **Siste endring i kraft:** 2024-11-12
+- **Sist endret ved:** forskrift 12.11.2024 nr. 2738
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-01-26 (hjemmel)
+- **Merknad:** Hjemmel: Fastsatt av Landbruks- og matdepartementet 4. juli 2019 med hjemmel i Stortingets årlige budsjettvedtak jf. kapittel 1141 post 75. Endret ved forskrift 12 nov 2024 nr. 2738. Rettet 26.10.2021 (hjemmel).
+- **Kilde:** <https://lovdata.no/forskrift/2019-07-04-983>
+
+## § 1. Formålet med ordningen
+
+Tilskuddsordningen skal bidra til å gi barn og unge økt forståelse for bærekraftig bruk av utmarksressursene. Ordningen skal herunder legge vekt på å fremme jaktbasert friluftsliv og vilt som en høstbar ressurs.
+
+## § 2. Tilskuddsberettigete
+
+Sentral- eller fylkesleddet i frivillige organisasjoner eller sentrale institusjoner for barn og unge som er registrert i Enhetsregisteret kan søke og motta tilskudd etter denne ordningen.
+
+## § 3. Tildelingskriterier
+
+Det vil primært gis tilskudd til tiltak som;
+
+a. fremmer jakt og fangst som friluftsaktivitet
+b. bidrar til økt forståelse av høstbart vilt som en utmarksressurs
+c. bidrar til økt interesse, deltakelse og rekruttering til det høstingsbaserte friluftslivet.
+
+Det kan også gis tilskudd til tiltak som kan bidra til å øke forståelsen for bruk av øvrige utmarksressurser hos barn og unge.
+
+Mindre deler av tilskuddet kan benyttes til innkjøp av enkelt utstyr og materiell i tråd med formålet med ordningen. Det vil ikke bli gitt tilskudd til innkjøp av kostnadskrevende utstyr.
+
+Søknader om tilskudd til aktiviteter som er lite ressurskrevende og lett tilgjengelig for flest mulig, samt tiltak for barn og unge med nedsatt funksjonsevne vil bli prioritert.
+
+## § 4. Kunngjøring
+
+Landbruksdirektoratet kunngjør årlig en søknadsfrist på sine nettsider.
+
+*Endret ved forskrift [12 nov 2024 nr. 2738](https://lovdata.no/forskrift/2024-11-12-2738).*
+
+## § 5. Krav til søknaden
+
+Søknad om tilskudd skal sendes til Landbruksdirektoratet innen fastsatt søknadsfrist. Landbruksdirektoratet kan be om utfyllende opplysninger som er nødvendige for å behandle søknaden.
+
+Dersom søknaden inneholder flere prosjekter må hvert av disse spesifiseres.
+
+*Endret ved forskrift [12 nov 2024 nr. 2738](https://lovdata.no/forskrift/2024-11-12-2738).*
+
+## § 5a. Vedtak
+
+Landbruksdirektoratet fatter vedtak om tilskudd.
+
+*Tilføyd ved forskrift [12 nov 2024 nr. 2738](https://lovdata.no/forskrift/2024-11-12-2738).*
+
+## § 6. Krav om rapportering
+
+Mottaker av tilskudd skal levere sluttrapport og sluttregnskap til Landbruksdirektoratet innen fristen fastsatt i vedtaksbrevet om tildeling av tilskudd.
+
+Nærmere krav om rapportering kan gis i vedtaksbrevet.
+
+*Endret ved forskrift [12 nov 2024 nr. 2738](https://lovdata.no/forskrift/2024-11-12-2738).*
+
+## § 7. Omgjøring og tilbakebetaling
+
+Endringer i bestemmelsene kan foretas av Landbruks- og matdepartementet. Tilskudd som ikke er brukt i samsvar med vilkårene i tildelingsvedtaket kan kreves tilbakebetalt.
+
+## § 8. Ikrafttredelse
+
+Forskriften trer i kraft 4. juli 2019.

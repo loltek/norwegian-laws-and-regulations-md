@@ -1,0 +1,96 @@
+# Lov om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterloven)
+
+- **Korttittel:** Valutaregisterloven – valregl
+- **Datokode:** LOV-2004-05-28-29
+- **DokumentID:** NL/lov/2004-05-28-29
+- **Departement:** Finansdepartementet
+- **Kunngjort:** 2004-05-28
+- **I kraft fra:** 2005-01-01
+- **Siste endring i kraft:** 2021-04-16
+- **Sist endret ved:** lov 16.04.2021 nr. 18
+- **Rettsområde:** Bank, finans og regnskapsrett > Banker; Bank, finans og regnskapsrett > Valuta; Forvaltnings- og kommunalrett > Statistikk. Registrering; Internasjonal rett > Internasjonale organisasjoner
+- **Siste rettelse:** 2021-04-19 (struktur § 2, faglige noter fjernet)
+- **Kilde:** <https://lovdata.no/lov/2004-05-28-29>
+
+## § 1. Formål
+
+Formålet med loven er å forebygge og bekjempe kriminalitet og å bidra til riktig skatte- og avgiftsbetaling, ved at kontroll- og etterforskningsorganene får tilgang til opplysninger om valutavekslinger og fysisk eller elektronisk overføringer av betalingsmidler inn og ut av Norge.
+
+Opplysningene i registeret skal også kunne brukes til ivaretakelse av Norges Banks oppgaver etter [sentralbankloven](lov-2019-06-21-31-sentralbankloven.md), Finanstilsynets oppgaver etter [finanstilsynsloven](lov-2024-06-21-41-finanstilsynsloven.md) og i forbindelse med kontroll av gjennomføring av internasjonale sanksjoner etter [sanksjonsloven](lov-2021-04-16-18-sanksjonsloven.md).
+
+*Endret ved [lover 19 juni 2009 nr. 48](https://lovdata.no/lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](https://lovdata.no/forskrift/2009-12-18-1603)), [16 april 2021 nr. 18](lov-2021-04-16-18-sanksjonsloven.md) (ikr. 16 april 2021 iflg. [res. 16 april 2021 nr. 1182](https://lovdata.no/forskrift/2021-04-16-1182)).*
+
+## § 2. Begreper
+
+I denne lov forstås med:
+
+1. Betalingsmidler:  
+   Norske og utenlandske pengesedler, mynter, veksler, sjekker og andre anvisninger eller akkreditiver som gir rett til betaling i norske eller utenlandske pengesedler og mynter.
+2. Valutaveksling:  
+   Kjøp og salg av utenlandske betalingsmidler.
+3. Behandlingsansvarlig:  
+   Den enhet som er gitt i ansvar å samle inn opplysninger samt vedlikeholde og drifte registeret.
+4. Norge:  
+   Det norske fastland og alt område innenfor territorialgrensen.
+
+## § 3. Register over valutaveksling og overføring av betalingsmidler inn og ut av Norge
+
+Det skal føres et sentralt elektronisk register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge.
+
+Departementet kan gi forskrifter om registerets organisasjon og om føringen av registeret.
+
+## § 4. Rapporteringspliktige
+
+Foretak som kan drive valutavirksomhet etter [lov 10. april 2015 nr. 17](lov-2015-04-10-17-finansforetaksloven.md) om finansforetak og finanskonsern (finansforetaksloven) skal rapportere til registeret om valutaveksling og om overføring av betalingsmidler inn og ut av Norge.
+
+Toll- og avgiftsetaten skal rapportere til registeret deklareringspliktig inn- og utførsel av betalingsmidler.
+
+*Endret ved [lov 20 des 2016 nr. 113](https://lovdata.no/lov/2016-12-20-113).*
+
+## § 5. Rapporteringsplikten
+
+Rapport om valutaveksling og om overføring av betalingsmidler inn og ut av Norge skal leveres elektronisk og inneholde opplysninger som identifiserer person eller foretak som mottar og sender, eller fører betalingsmidler inn eller ut av Norge, samt opplysninger om transaksjonen og betalingsmiddelet.
+
+Departementet kan gi forskrifter om rapporteringspliktens innhold, herunder fastsette særskilte beløpsgrenser for rapportering.
+
+## § 6. Tilgang til opplysningene i registeret
+
+Politiet, skatteetaten, toll- og avgiftsetaten, Arbeids- og velferdsdirektoratet og Finanstilsynet skal ha elektronisk tilgang til opplysningene i registeret. Søk i registeret skal kun skje ut fra disse etatenes behov for opplysninger i forbindelse med forebygging og bekjempelse av kriminalitet, kontrollvirksomhet og tilsyn.
+
+Norges Bank og Utenriksdepartementet skal ha tilgang til opplysningene i registeret, jf. [§ 1](lov-2004-05-28-29-valutaregisterloven.md) annet ledd. Bostyrer i konkursbo skal ha tilgang til opplysningene i registeret for å ivareta sine oppgaver etter konkursloven.
+
+Departementet kan bestemme at andre skal ha tilgang til opplysninger fra registeret.
+
+Departementet kan gi forskrifter om at bare nærmere definerte brukergrupper i etatene nevnt i første ledd skal ha elektronisk tilgang til opplysningene i registeret.
+
+*Endret ved [lover 16 juni 2006 nr. 20](lov-2006-06-16-20-nav-loven.md) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](https://lovdata.no/forskrift/2006-06-16-631)), [15 des 2006 nr. 84](https://lovdata.no/lov/2006-12-15-84), [19 juni 2009 nr. 48](https://lovdata.no/lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](https://lovdata.no/forskrift/2009-12-18-1603)).*
+
+## § 7. Plikt til å slette opplysninger
+
+Opplysninger i registeret skal slettes senest fem år etter utløpet av registreringsåret.
+
+## § 8. Sanksjoner
+
+Finanstilsynet kan gi rapporteringspliktige pålegg om at forhold i strid med denne loven eller forskrift gitt i medhold av loven skal opphøre. Finanstilsynet kan sette en frist for at forholdene bringes i samsvar med pålegget.
+
+Finanstilsynet kan ilegge den som ikke etterkommer pålegg etter første ledd tvangsmulkt til staten i form av engangsmulkt eller løpende mulkt. Pålegg om mulkt er tvangsgrunnlag for utlegg.
+
+*Endret ved [lov 19 juni 2009 nr. 48](https://lovdata.no/lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](https://lovdata.no/forskrift/2009-12-18-1603)).*
+
+## § 9. Forskrifter
+
+Departementet kan i forskrift fastsette regler til utfylling og gjennomføring av bestemmelsene i loven. Departementet kan i forskrif også fastsette unntak fra enkelte eller flere av bestemmelsene i loven.
+
+## § 10. Ikrafttredelse og overgangsbestemmelser
+
+Loven trer i kraft fra det tidspunkt Kongen bestemmer.[1]
+
+Opplysninger fra Kontrolloppgaven fra kortselskapene, BRAVO-registeret og register over inn- og utførsel av sedler og mynt innhentet med hjemmel i [lov 14. juli 1950 nr. 10](https://lovdata.no/lov/1950-07-14-10) om valutaregulering, kan overføres til registeret som opprettes med hjemmel i denne lov.
+
+## § 11. Endringer i andre lover
+
+Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Fra 1 jan 2005 iflg. [res. 28 mai 2004 nr. 791](https://lovdata.no/forskrift/2004-05-28-791).

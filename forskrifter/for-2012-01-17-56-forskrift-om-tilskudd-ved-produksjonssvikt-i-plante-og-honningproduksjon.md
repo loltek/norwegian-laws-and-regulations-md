@@ -1,0 +1,127 @@
+# Forskrift om tilskudd ved produksjonssvikt i plante- og honningproduksjon
+
+- **Datokode:** FOR-2012-01-17-56
+- **DokumentID:** SF/forskrift/2012-01-17-56
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Landbrukspolitisk avdeling
+- **Hjemmel:** lov 12.05.1995 nr. 23/§3; lov 12.05.1995 nr. 23/§18; forskrift 12.05.1995 nr. 413
+- **Publisert i:** I 2012 hefte 2
+- **Kunngjort:** 2012-01-27 12:20
+- **I kraft fra:** 2012-02-01
+- **Siste endring i kraft:** 2025-05-27
+- **Sist endret ved:** forskrift 27.05.2025 nr. 895
+- **Endrer:** forskrift 21.07.2004 nr. 1130
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Landbruks- og matdepartementet 17. januar 2012 med hjemmel i lov 12. mai 1995 nr. 23 om jord (jordlova) § 3 og § 18, jf. delegeringsvedtak 12. mai 1995 nr. 413. Endret ved forskrifter 5 juli 2013 nr. 868, 3 sep 2014 nr. 1144, 19 des 2014 nr. 1817, 15 jan 2016 nr. 28, 22 nov 2018 nr. 1738, 7 mai 2020 nr. 962 (bl.a. tittel), 21 des 2020 nr. 3044 (i kraft 1 jan 2021), 13 april 2021 nr. 1140, 30 aug 2021 nr. 2629 (i kraft 15 sep 2021, tittel), 21 sep 2022 nr. 1622, 11 okt 2023 nr. 1608, 20 des 2023 nr. 2239, 27 mai 2025 nr. 895.
+- **Kilde:** <https://lovdata.no/forskrift/2012-01-17-56>
+
+## § 1. Formål
+
+Formålet med forskriften er å redusere økonomiske tap som oppstår ved produksjonssvikt forårsaket av klimatiske forhold det ikke er mulig å sikre seg mot. Formålet er også å redusere tap som følge av mangel på sesongarbeidskraft i forbindelse med koronapandemien.
+
+*Endret ved [forskrift 7 mai 2020 nr. 962](https://lovdata.no/forskrift/2020-05-07-962).*
+
+## § 2. Vilkår
+
+Tilskudd etter denne forskriften kan gis til foretak som
+
+1. har hatt svikt i plante- eller honningproduksjonen forårsaket av klimatiske forhold,
+2. på skadetidspunktet oppfyller vilkårene for å kunne motta produksjonstilskudd etter [forskrift 19. desember 2014 nr. 1817](for-2014-12-19-1817-forskrift-om-produksjonstilskudd-og-avlosertilskudd-i-jordbruket.md) om produksjonstilskudd og avløsertilskudd i jordbruket,
+3. ikke kan få dekket tapet gjennom en allment tilgjengelig forsikringsordning eller på annen måte, og
+4. uten ugrunnet opphold har gitt melding til kommunen om at skade har oppstått, eller vil kunne oppstå.
+
+*Endret ved [forskrifter 19 des 2014 nr. 1817](for-2014-12-19-1817-forskrift-om-produksjonstilskudd-og-avlosertilskudd-i-jordbruket.md) (i kraft 1 jan 2015), [15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622).*
+
+## § 2a. Særlige vilkår for tap forårsaket av mangel på arbeidskraft på grunn av koronapandemien
+
+Tilskudd etter denne forskriften kan for vekstsesongene 2020 og 2021 gis til foretak som ikke har kunnet høste frukt, bær, grønnsaker og poteter som følge av mangel på arbeidskraft på grunn av restriksjoner i flyten av arbeidskraft forårsaket av koronapandemien.
+
+Vilkårene i [§ 2](for-2012-01-17-56-forskrift-om-tilskudd-ved-produksjonssvikt-i-plante-og-honningproduksjon.md) nr. 2 t.o.m. nr. 4 gjelder tilsvarende etter paragrafen her.
+
+*Tilføyd ved [forskrift 7 mai 2020 nr. 962](https://lovdata.no/forskrift/2020-05-07-962), endret ved forskrifter [13 april 2021 nr. 1140](https://lovdata.no/forskrift/2021-04-13-1140), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622).*
+
+## § 3. Tilskudd
+
+Tilskudd kan gis for
+
+1. svikt i avling på rot av mat- og fôrvekster i forhold til gjennomsnittsavling i vekstgruppen, og
+2. svikt i honningmengde i forhold til gjennomsnittsproduksjon i kg per bikube i produksjon.
+
+I vekstsesongen 2023 kan det gis tilskudd for korn som blir avvist av kornmottak eller resulterer i et nulloppgjør.
+
+*Endret ved [forskrifter 15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622), [11 okt 2023 nr. 1608](https://lovdata.no/forskrift/2023-10-11-1608).*
+
+## § 4. (Opphevet)
+
+*Opphevet ved [forskrift 15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28).*
+
+## § 5. Søknad mv.
+
+Søknad om tilskudd må sendes kommunen innen frister og på søknadsskjema fastsatt av Landbruksdirektoratet.
+
+Krav på tilskudd kan ikke overdras eller pantsettes.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622).*
+
+## § 6. Egenrisiko, minsteutbetaling og toppavgrensning
+
+Tilskudd etter [§ 3](for-2012-01-17-56-forskrift-om-tilskudd-ved-produksjonssvikt-i-plante-og-honningproduksjon.md) kan bare gis for produksjonssvikt ut over 30 prosent av
+
+1. gjennomsnittsproduksjon per vekstgruppe ved avlingssvikt i planteproduksjon, og
+2. gjennomsnittsproduksjon ved svikt i honningproduksjon.
+
+For vekstgruppene grovfôr og korn og annet frø til modning utbetales ikke beregnet tilskudd ut over 900 000 kroner per vekstgruppe. For vekstgruppene frukt, bær, grønnsaker og poteter utbetales ikke beregnet tilskudd ut over 1 800 000 kroner per vekstgruppe. For honningproduksjon utbetales ikke beregnet tilskudd ut over 900 000 kr. For skadeåret 2023 kan det likevel utbetales inntil 1 800 000 kroner i tilskudd innenfor hver enkelt av vekstgruppene grovfôr og korn og annet frø til modning.
+
+Beregnet tilskudd under 5 000 kroner utbetales ikke.
+
+*Endret ved [forskrifter 5 juli 2013 nr. 868](https://lovdata.no/forskrift/2013-07-05-868), [15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [22 nov 2018 nr. 1738](https://lovdata.no/forskrift/2018-11-22-1738), [7 mai 2020 nr. 962](https://lovdata.no/forskrift/2020-05-07-962), [13 april 2021 nr. 1140](https://lovdata.no/forskrift/2021-04-13-1140), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622), [20 des 2023 nr. 2239](https://lovdata.no/forskrift/2023-12-20-2239), [27 mai 2025 nr. 895](https://lovdata.no/forskrift/2025-05-27-895).*
+
+## § 7. Opplysningsplikt og kontroll
+
+Søkere av tilskudd plikter å gi alle opplysninger som kommunen, statsforvalteren og Landbruksdirektoratet finner nødvendig for å kunne forvalte ordningen.
+
+Kommunen, statsforvalteren og Landbruksdirektoratet fører tilsyn med at utbetalinger av tilskudd er riktig og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer disse. Det kan kreves at opplysningene bekreftes av revisor.
+
+Kommunen, statsforvalteren og Landbruksdirektoratet kan foreta stedlig kontroll hos foretaket.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622).*
+
+## § 8. Retting av feilutbetalinger
+
+Statsforvalteren og Landbruksdirektoratet kan rette feil i utbetalt tilskudd, enten ved etterbetaling eller krav om tilbakebetaling fra mottaker.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622).*
+
+## § 9. Avkorting
+
+Hele eller deler av tilskuddet kan avkortes dersom foretaket
+
+1. ikke har drevet på en faglig forsvarlig måte og har gjort det som normalt kan forventes for å forebygge tap, eller
+2. i henhold til forvaltningsvedtak eller dom driver eller har drevet sin virksomhet i strid med regelverk for jord- og hagebruksvirksomhet eller birøkt, og det er utvist uaktsomhet eller forsett, eller
+3. uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet.
+
+*Endret ved [forskrifter 15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622).*
+
+## § 10. Innkreving av tilbakebetalings- eller avkortingsbeløp mv.
+
+Differansen mellom utbetalt beløp og berettiget tilskudd som følge av vedtak om tilbakebetaling jf. [§ 8](for-2012-01-17-56-forskrift-om-tilskudd-ved-produksjonssvikt-i-plante-og-honningproduksjon.md) eller avkorting etter [§ 9](for-2012-01-17-56-forskrift-om-tilskudd-ved-produksjonssvikt-i-plante-og-honningproduksjon.md), kan kreves tilbakebetalt fra foretaket eller motregnes i senere utbetalinger. Krav fra offentlig myndighet som utspringer av regelverk for jordbruksvirksomhet kan motregnes i tilskuddsutbetalinger til foretaket.
+
+For tilbakebetalingskrav kan det kreves renter når kravet ikke innfris ved forfall. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av den urettmessige tilskuddet. Størrelsen på renten følger rentesatsen fastsatt med hjemmel i [lov 17. desember 1976 nr. 100](../lover/lov-1976-12-17-100-forsinkelsesrenteloven.md) om renter ved forsinket betaling m.m.
+
+*Endret ved [forskrifter 15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622).*
+
+## § 11. Administrasjon, klage og dispensasjon
+
+Vedtak om tilskudd fattes av statsforvalteren. Kommunen skal gi en uttalelse til søknaden før saken oversendes statsforvalteren.
+
+Statsforvalterens vedtak kan påklages til Landbruksdirektoratet etter [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker kapittel VI](../lover/lov-1967-02-10-forvaltningsloven.md). Klagen skal sendes kommunen. Kommunen skal uttale seg om klagen og videresende den til statsforvalteren.
+
+Landbruksdirektoratet kan i særlige tilfeller dispensere fra forskriften [§ 2](for-2012-01-17-56-forskrift-om-tilskudd-ved-produksjonssvikt-i-plante-og-honningproduksjon.md), [§ 2](for-2012-01-17-56-forskrift-om-tilskudd-ved-produksjonssvikt-i-plante-og-honningproduksjon.md)a og [§ 5](for-2012-01-17-56-forskrift-om-tilskudd-ved-produksjonssvikt-i-plante-og-honningproduksjon.md).
+
+Landbruksdirektoratet gir nærmere regler for utmåling av tilskudd.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [15 jan 2016 nr. 28](https://lovdata.no/forskrift/2016-01-15-28), [7 mai 2020 nr. 962](https://lovdata.no/forskrift/2020-05-07-962), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [21 sep 2022 nr. 1622](https://lovdata.no/forskrift/2022-09-21-1622).*
+
+## § 12. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. februar 2012. Fra samme tid oppheves [forskrift 21. juli 2004 nr. 1130](https://lovdata.no/forskrift/2004-07-21-1130) om erstatning ved klimabetingede skader i plante- og honningproduksjon.

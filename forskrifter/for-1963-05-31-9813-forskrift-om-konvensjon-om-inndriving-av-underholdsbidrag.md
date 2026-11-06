@@ -1,0 +1,65 @@
+# Forskrift til gjennomføring av konvensjonen av 23. mars 1962 mellom Norge, Danmark, Finland, Island og Sverige om inndriving av underholdsbidrag
+
+- **Korttittel:** Forskrift om konvensjon om inndriving av underholdsbidrag
+- **Datokode:** FOR-1963-05-31-9813
+- **DokumentID:** SF/forskrift/1963-05-31-9813
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Pensjonsavdelingen
+- **Hjemmel:** lov 09.12.1955 nr. 5/§25; lov 09.12.1955 nr. 5/§6; lov 29.04.2005 nr. 20
+- **Publisert i:** II 1963 s 275
+- **I kraft fra:** 1965-07-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 11.09.2025 nr. 1815 fra 2026-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 31. mai 1963 med hjemmel i lov av 9. desember 1955 nr. 5 om innkreving av underholdsbidrag m.v. (bidragsinnkrevingsloven) § 6 og lov 29. april 2005 nr. 20 om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven). Fremmet av Sosialdepartementet. Endret ved forskrifter 10 aug 1979, 17 des 1991 nr. 816, 20 april 2001 nr. 415 som endret 1 juli 2002 nr. 693 og satt i kraft 1 juli 2002 nr. 694, 3 juli 2002 nr. 794 (bl.a hjemmelsfelt), 8 okt 2004 nr. 1395, 16 des 2005 nr. 1563 (hjemmel), 13 mars 2018 nr. 339, 11 sep 2025 nr. 1815 (i kraft 1 jan 2026).
+- **Kilde:** <https://lovdata.no/forskrift/1963-05-31-9813>
+
+## § 1.
+
+Rettskraftig dom, forvaltningsavgjørelse eller skriftlig avtale om underholdsbidrag til ektefelle, tidligere ektefelle, barn, stebarn eller barnets mor, som er godkjent og tvangskraftig i et annet nordisk land, skal umiddelbart anerkjennes og på begjæring fullbyrdes i Norge uten særskilt stadfesting. Det samme gjelder dommer som ennå ikke er rettskraftige, rettslige kjennelser og beslutninger forutsatt at fullbyrdelse kan skje etter vedkommende lands egen lovgivning.
+
+## § 2.
+
+En bidragsberettiget som oppholder seg her i riket, kan rette begjæring om innkreving av underholdsbidrag i et annet nordisk land til Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer, som sender begjæringen til den kompetente myndighet i innkrevende land. Begjæringen kan også rettes direkte til kompetent myndighet i det land hvor dommen, kjennelsen, beslutningen eller avgjørelsen er truffet eller avtalen er inngått.
+
+Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer skal påse at vilkårene for anerkjennelse og fullbyrdelse etter konvensjonen artikkel 1 er oppfylt, og skal etter anmodning fra kompetent myndighet i innkrevende land godtgjøre dette, jf. konvensjonen artikkel 3 første ledd.
+
+Fullbyrdelse i Norge etter begjæring fra et annet nordisk land kan bare skje når begjæringen er mottatt av Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer.
+
+Dokumenter som er skrevet på finsk eller islandsk, skal ha vedlagt oversettelse til dansk, norsk eller svensk i den utstrekning dette er nødvendig.
+
+*Endret ved [forskrift 13 mars 2018 nr. 339](https://lovdata.no/forskrift/2018-03-13-339) (i kraft 1 april 2018).*
+
+## § 3.
+
+Dersom Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer er i tvil om dommen, kjennelsen, beslutningen, avgjørelsen eller avtalen som ligger til grunn for begjæring om innkreving i Norge fyller vilkårene om tvangskraft etter [§ 1](for-1963-05-31-9813-forskrift-om-konvensjon-om-inndriving-av-underholdsbidrag.md), skal Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer kreve at den kompetente myndighet i landet hvor dommen, kjennelsen, beslutningen eller avgjørelsen er truffet eller den skriftlige avtalen er inngått, gir slik dokumentasjon som er nødvendig for å godtgjøre at vilkårene for tvangskraft er oppfylt. På samme måte skal det om nødvendig kreves bevis for bidragets størrelse når dette ikke er fastsatt til et bestemt beløp eller fullbyrdelse kreves for et høyere beløp enn fastsatt.
+
+*Endret ved [forskrift 13 mars 2018 nr. 339](https://lovdata.no/forskrift/2018-03-13-339) (i kraft 1 april 2018).*
+
+## § 4.
+
+Beløp som kommer inn til Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer eller Innkrevingsmyndigheten, sendes til den kompetente myndighet i det landet som har begjært fullbyrdingen eller til annen mottaker etter anvisning av sist nevnte myndighet.
+
+*Endret ved [forskrifter 13 mars 2018 nr. 339](https://lovdata.no/forskrift/2018-03-13-339) (i kraft 1 april 2018), [11 sep 2025 nr. 1815](https://lovdata.no/forskrift/2025-09-11-1815) (i kraft 1 jan 2026).*
+
+## § 5. (Opphevet)
+
+*Opphevet fra 1 juli 2002, jf. [forskrift 20 april 2001 nr. 415](https://lovdata.no/forskrift/2001-04-20-415) og [1 juli 2002 nr. 694](https://lovdata.no/forskrift/2002-07-01-694).*
+
+## § 6. (Opphevet)
+
+*Opphevet fra 1 juli 2002, jf. [forskrift 20 april 2001 nr. 415](https://lovdata.no/forskrift/2001-04-20-415) og [1 juli 2002 nr. 694](https://lovdata.no/forskrift/2002-07-01-694).*
+
+## § 7. (Opphevet)
+
+*Opphevet fra 1 juli 2002, jf. [forskrift 20 april 2001 nr. 415](https://lovdata.no/forskrift/2001-04-20-415) og [1 juli 2002 nr. 694](https://lovdata.no/forskrift/2002-07-01-694).*
+
+## § 8.
+
+Disse forskrifter trer i kraft 1. juli 1963.
+
+Samtidig oppheves forskrifter av 11. desember 1931, endret 29. januar 1954 og 10. mai 1957, til gjennomføring av konvensjon av 10. februar 1931 mellom Norge, Danmark, Island og Sverige angående inndriving av underholdsbidrag.
+
+## § 9. (Opphevet)
+
+*Endret ved [forskrifter 3 juli 2002 nr. 794](https://lovdata.no/forskrift/2002-07-03-794), [8 okt 2004 nr. 1395](https://lovdata.no/forskrift/2004-10-08-1395), opphevet ved forskrift [11 sep 2025 nr. 1815](https://lovdata.no/forskrift/2025-09-11-1815) (i kraft 1 jan 2026).*

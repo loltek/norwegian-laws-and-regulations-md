@@ -1,0 +1,134 @@
+# Forskrift om tilskudd til tiltak i statlig sikrede friluftslivsområder og områder vernet som friluftslivsområder etter markaloven
+
+- **Datokode:** FOR-2023-11-15-1848
+- **DokumentID:** SF/forskrift/2023-11-15-1848
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Naturforvaltningsavdelingen
+- **Kunngjort:** 2023-11-16 14:45
+- **I kraft fra:** 2024-07-01
+- **Endrer:** forskrift 25.11.2014 nr. 1538
+- **Merknad:** Hjemmel: Fastsatt av Klima- og miljødepartementet 15. november 2023 til oppfølging av Stortingets budsjettvedtak under kap. 1420 post 78. Endres ved forskrift 30 okt 2026 nr. 2220 (i kraft 15 nov 2026).
+- **Kilde:** <https://lovdata.no/forskrift/2023-11-15-1848>
+
+## § 1. Formål
+
+Tilskuddsordningen skal bidra til å fremme friluftslivsaktivitet i statlig sikrede friluftslivsområder og områder vernet som friluftslivsområder etter [markaloven](../lover/lov-2009-06-05-35-markaloven.md). Gjennom naturvennlig tilrettelegging og skjøtsel skal områdene gjøres lett tilgjengelige og attraktive for allment friluftsliv.
+
+## § 2. Kriterier for måloppnåelse
+
+Måloppnåelse vurderes med utgangspunkt i om tildelt tilskudd bidrar til tilrettelegging og skjøtsel i samsvar med godkjente forvaltningsplaner i de statlig sikrede friluftslivsområdene og områder vernet som friluftslivsområder etter [markaloven](../lover/lov-2009-06-05-35-markaloven.md).
+
+***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+
+## § 3. Hvem som kan søke om tilskudd
+
+Kommuner og interkommunale friluftsråd med forvaltningsansvar for statlig sikrede friluftslivsområder og forvaltningsansvarlig for friluftslivsområder vernet etter [markaloven](../lover/lov-2009-06-05-35-markaloven.md), kan søke om tilskudd.
+
+## § 4. Hva det kan tildeles tilskudd til
+
+Det kan gis tilskudd til tilretteleggingstiltak og skjøtselstiltak på statlig sikrede friluftslivsområder og i områder vernet som friluftslivsområder etter [markaloven](../lover/lov-2009-06-05-35-markaloven.md). Det gis ikke tilskudd til ordinære driftsoppgaver.
+
+Det kan gis tilskudd til tilrettelegging som har til formål å
+
+a. minske de fysiske hindringene for friluftsliv og legge til rette for økt friluftslivsaktivitet for alle, blant annet til opparbeiding av atkomstvei og parkeringsplass, turvei eller sti, badeplass og brygge, toalett, søppelstativ og tiltak for økt tilgjengelighet for personer med nedsatt funksjonsevne
+b. ivareta opplevelseskvalitetene i området og legge til rette for gode naturopplevelser, blant annet gjennom informasjon og formidling av naturmangfold og kulturmiljø
+c. hindre at friluftsliv fører til unødige inngrep, slitasje og forstyrring av plante- og dyreliv og ødelegging av kulturminner og kulturmiljø, for eksempel gjennom kanaliserende tiltak og skjøtsel.
+
+## § 5. Krav for å kunne tildeles tilskudd
+
+Tilskudd kan bare gis når tiltaket inngår i gjeldende og godkjent forvaltningsplan for det statlig sikrede friluftslivsområdet. Tilskuddsforvalter kan vurdere unntak fra dette dersom det foreligger særskilte grunner.
+
+For områder vernet som friluftslivsområde etter [markaloven](../lover/lov-2009-06-05-35-markaloven.md) kan tilskudd bare gis til tiltak som er i samsvar med [markaloven](../lover/lov-2009-06-05-35-markaloven.md), verneforskrift og eventuell forvaltningsplan for området.
+
+## § 6. Prioriteringer for tilskuddordningen
+
+Tilskuddsordningen prioriterer friluftslivsområder som
+
+a. ligger i eller ved byer og tettsteder
+b. blir eller har potensial for å bli mye brukt
+c. ligger i områder med lite tilgjengelig strandsone og stort press på arealene
+d. ligger i tilknytning til innlandsvassdrag.
+
+Tiltak som også finansieres gjennom egenfinansiering eller egen arbeidsinnsats (dugnad) blir prioritert.
+
+## § 7. Krav til søknaden
+
+Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
+
+Søknaden skal inneholde informasjon om:
+
+a. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
+b. hva det søkes om tilskudd til, nøyaktig stedfestelse og om tiltaket inngår i forvaltningsplan eller er i samsvar med [markaloven](../lover/lov-2009-06-05-35-markaloven.md) og verneforskrift
+c. hvilke naturverdier som blir berørt og om tiltaket/tiltakene påvirker naturmangfold
+d. søknadsbeløp
+e. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem
+f. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
+g. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 11](for-2023-11-15-1848-forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsomraader-og-omraader-vernet-som-frilu.md)
+h. om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket.
+
+Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
+
+***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+
+## § 8. Tilleggsopplysninger, kontroll og befaring (før vedtak)
+
+Miljødirektoratet og fylkeskommunen kan
+
+a. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+b. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+c. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+
+## § 9. Søkers opplysningsplikt
+
+Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen dersom
+
+a. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+b. uberettiget tilskudd er utbetalt.
+
+***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+
+## § 10. Behandling av søknad om tilskudd
+
+Miljødirektoratet og fylkeskommunen gir tilskudd etter en skjønnsmessig vurdering av søknadene. I vurderingen legges det vekt på prioriteringene i [§ 6](for-2023-11-15-1848-forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsomraader-og-omraader-vernet-som-frilu.md) og formålet i [§ 1](for-2023-11-15-1848-forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsomraader-og-omraader-vernet-som-frilu.md).
+
+***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+
+## § 11. Tilskuddsmottakere som driver økonomisk aktivitet
+
+Tilskudd utbetalt etter denne forskrift skal ikke kryssubsidiere økonomisk aktivitet eller vri eller true med å vri konkurransen eller påvirke samhandelen i EØS-området. Begrepet økonomisk aktivitet skal fortolkes i samsvar med foretaksdefinisjonen etter [EØS-avtalens](../lover/lov-1992-11-27-109-eos-loven.md) regler om offentlig støtte.
+
+Tilskuddsmottakere som har både økonomisk og ikke-økonomisk aktivitet skal ha adskilte regnskap for disse. Mottakerne må ha interne retningslinjer som sikrer at felleskostnader fordeles på en forholdsmessig måte mellom den økonomiske aktiviteten og den ikke-økonomiske aktiviteten.
+
+## § 12. Rapporteringsplikter
+
+Alle mottakere av tilskudd skal rapportere faglig på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tilskuddsbrevet ved å beskrive oppnådde resultater opp mot formålet i tilskuddsbrevet.
+
+Tilskuddsmottaker skal i tillegg oversende regnskap for bruken av tilskuddet til Miljødirektoratet innen fristen fastsatt i tilskuddsbrevet. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører. Når tilskuddet er 400 000 kroner eller høyere skal delregnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 mill. kroner. For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap undertegnet av organisasjonens leder, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene.
+
+Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
+
+***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+
+## § 13. Oppfølging og kontroll
+
+Miljødirektoratet kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, at opplysningene i søknaden er riktige og at organisasjonen drives i henhold til sine vedtekter.
+
+Miljødirektoratet har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
+
+Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
+
+***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+
+## § 14. Stans og tilbakebetaling av tilskudd
+
+Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren ikke anvender tilskuddet i samsvar med kravene i forskriften og tilskuddsvedtaket, kan vedtak om tilskudd omgjøres. Det uriktig utbetalte beløpet kan kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
+
+Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som er for mye utbetalt kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
+
+Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
+
+***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+
+## § 15. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2024. Samtidig oppheves [forskrift 25. november 2014 nr. 1538 om tilskudd til tiltak i statlig sikrede friluftslivsområder](https://lovdata.no/forskrift/2014-11-25-1538).

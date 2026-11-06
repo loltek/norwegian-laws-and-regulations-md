@@ -1,0 +1,154 @@
+# Forskrift om stønad til beboere i asylmottak
+
+- **Datokode:** FOR-2022-05-31-948
+- **DokumentID:** SF/forskrift/2022-05-31-948
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Innvandringsavdelingen
+- **Hjemmel:** lov 15.05.2008 nr. 35/§95; forskrift 09.10.2009 nr. 1260; forskrift 18.12.2009 nr. 1582
+- **Kunngjort:** 2022-06-01 14:45
+- **I kraft fra:** 2022-06-01
+- **Siste endring i kraft:** 2026-01-27
+- **Sist endret ved:** forskrift 27.01.2026 nr. 94
+- **Merknad:** Hjemmel: Fastsatt av Justis- og beredskapsdepartementet 31. mai 2022 med hjemmel i lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven) § 95, jf. delegeringsvedtak 9. oktober 2009 nr. 1260 og omorganiseringsvedtak 18. desember 2009 nr. 1582. Endret ved forskrifter 12 aug 2022 nr. 1436, 14 aug 2024 nr. 1981, 18 sep 2024 nr. 2186, 27 jan 2026 nr. 94.
+- **Kilde:** <https://lovdata.no/forskrift/2022-05-31-948>
+
+## § 1. Formål
+
+Stønaden skal, sammen med innkvarteringstilbudet for øvrig, dekke de grunnleggende behovene en beboer i asylmottak har. Stønaden skal bidra til å gi beboeren en forsvarlig levestandard i en særskilt livssituasjon under oppholdet i asylmottaket.
+
+Stønad skal bare utbetales dersom beboeren ikke har mulighet til å dekke sine grunnleggende behov gjennom lønnsinntekter, annen inntekt eller formue.
+
+## § 2. Hvem som har rett til stønad
+
+Den som er registrert som beboer i et asylmottak etter [utlendingsloven § 95](../lover/lov-2008-05-15-35-utlendingsloven.md), og som har sitt daglige opphold i asylmottaket, har rett til stønad.
+
+Blir en søknad om beskyttelse behandlet etter 48-timersprosedyren, der Utlendingsdirektoratet fatter vedtak og tar stilling til eventuell begjæring om utsatt iverksettelse innen 48 timer etter registrering av asylsøknad, har personen ikke rett til stønad.
+
+En person som ikke har sitt daglige opphold i et asylmottak, men som midlertidig oppholder seg på sykehus, godkjent opptreningsinstitusjon, krisesenter eller fengsel, og ikke mottar ytelser ved det midlertidige oppholdsstedet, har rett til stønad etter første ledd dersom Utlendingsdirektoratet godkjenner fraværet fra asylmottaket.
+
+## § 3. Definisjoner
+
+I forskriften menes med
+
+a. *asylmottak:* den innkvarteringen etter [utlendingsloven § 95](../lover/lov-2008-05-15-35-utlendingsloven.md) som blir tilbudt en utlending som har søkt om beskyttelse
+b. *enslig mindreårig:* person under 18 år som søker om beskyttelse, og som ikke har foreldre eller andre med foreldreansvar i Norge
+c. *familie:* ektepar som bor sammen på asylmottaket, og samboere, med eller uten barn under 18 år, og enslige forsørgere med barn under 18 år
+d. *enslig forsørger:* en forelder eller annen voksen som bor alene med barn under 18 år
+e. *lønnsinntekt:* lønnsinntekt, lønn for kursdeltagelse eller omsorgslønn, dagpenger, uføretrygd og tilbakebetalt skatt, som en person eller familie mottar, fratrukket skatt og betalt fagforeningskontingent
+f. *annen inntekt:* kapitalinntekt, kontantstøtte, fødselspenger, engangsstønad ved fødsel eller annen trygd eller stønad, forsørgerfradrag, underholdsbidrag og bidragsforskudd
+g. *formue:* midler eller realiserbare eiendeler som overskrider et fastsatt beløp, unntatt eiendeler med affeksjonsverdi eller til personlig bruk, og voldsoffererstatning.
+
+## § 4. Stønadsreduksjon på grunn av inntekt og formue
+
+For en beboer over 18 år skal stønaden reduseres krone for krone med beboerens lønnsinntekt, annen inntekt eller formue. Ved beregningen av reduksjonen trekkes det likevel et fribeløp på minst 1 000 kr eller 30 prosent fra lønnsinntekt og engangsstønad ved fødsel etter [folketrygdloven § 14-17](../lover/lov-1997-02-28-19-folketrygdloven.md).
+
+Mottar den stønadsberettigede barnetrygd etter [barnetrygdloven § 4](../lover/lov-2002-03-08-4-barnetrygdloven.md), reduseres stønaden for barnet krone for krone fra første utbetaling etter at retten til barnetrygd inntreffer.
+
+*Endret ved forskrift [14 aug 2024 nr. 1981](https://lovdata.no/forskrift/2024-08-14-1981).*
+
+## § 5. Beboerens opplysningsplikt
+
+Beboeren skal gi Utlendingsdirektoratet opplysninger av betydning for utbetalingen av stønad. Beboeren skal signere en egenerklæring om inntekts- og formuesforhold før første utbetaling av basisstønad og ved senere økonomikontroller pålagt av Utlendingsdirektoratet.
+
+Beboeren skal rapportere til Utlendingsdirektoratet om endringer som kan få betydning for utbetalingen av stønad.
+
+Utlendingsdirektoratet kan når som helst kontrollere opplysningene om beboerens inntekt og formue og be beboeren legge frem kontoutskrifter, skatteattester eller annen dokumentasjon av betydning for stønadsvedtaket og utbetalingen.
+
+En beboer som ikke signerer egenerklæringen eller ikke legger frem etterspurt dokumentasjon, kan nektes stønad.
+
+## § 6. Beregningen av basisstønaden
+
+Justis- og beredskapsdepartementet fastsetter hvert år satsene i tråd med Stortingets budsjettvedtak som skal dekke nødvendige utgifter til livsopphold.
+
+Satsene for basisstønaden fastsettes på grunnlag av typen asylmottak beboeren er innkvartert i, om asylmottaket har kantine eller selvhushold, beboerens alder, familiesammensetningen beboeren inngår i, beboerens forsørgelsesbyrde og hvilken fase av asylprosessen beboeren er i.
+
+En beboers basisstønad beregnes ut fra opplysningene som er registrert i Utlendingsdirektoratets saksbehandlingssystem.
+
+En beboer over 18 år får redusert basisstønad dersom utreisefristen i det endelige avslaget er oversittet og iverksettingen ikke er utsatt eller suspendert etter [utlendingsloven § 90 tiende ledd](../lover/lov-2008-05-15-35-utlendingsloven.md), eller dersom søknaden nektes realitetsbehandling etter [utlendingsloven § 32 første ledd bokstav a](../lover/lov-2008-05-15-35-utlendingsloven.md), [b](../lover/lov-2008-05-15-35-utlendingsloven.md) eller [d](../lover/lov-2008-05-15-35-utlendingsloven.md). Basisstønaden reduseres fra og med den første utbetalingen etter utreisefristen.
+
+En beboer som gjennomfører straff eller varetekt, og som mottar dagpenger i fengsel etter [straffegjennomføringsloven § 19](../lover/lov-2001-05-18-21-straffegjennomforingsloven.md), har ikke rett til stønad etter bestemmelsen her.
+
+*Endret ved forskrift [14 aug 2024 nr. 1981](https://lovdata.no/forskrift/2024-08-14-1981).*
+
+## § 7. Tilleggsstønad uten søknad
+
+Uten forutgående søknad skal det gis tilleggsstønad som dekker
+
+a. utgifter til egenandeler, akutt og skadeforebyggende tannbehandling og transport i forbindelse med nødvendig helsehjelp til beboere på ankomstsenter eller transittmottak
+b. utgifter til egenandeler til psykolog, psykiater og fysioterapi når det er en del av en psykisk behandling, inkludert medisiner og nødvendig transport
+c. engangsstønad etter fastsatte satser til kjøp av utstyr ved første oppstart i barnehage og ved første oppstart i ordinært grunnskoletilbud etter [opplæringslova](https://lovdata.no/lov/1998-07-17-61)
+d. utgifter til månedskort til beboere i integreringsmottak som deltar på integreringsrettede tiltak
+e. engangsstønad ved fødsel etter en fastsatt sats for beboere som ikke har krav på engangsstønad etter [folketrygdloven § 4-17](../lover/lov-1997-02-28-19-folketrygdloven.md).
+
+*Endret ved forskrift [27 jan 2026 nr. 94](https://lovdata.no/forskrift/2026-01-27-94).*
+
+## § 8. Tilleggsstønad etter søknad
+
+En beboer kan få tilleggsstønad til dekning av nødvendige utgifter som ikke dekkes av basisstønaden eller andre offentlige stønader. Det gis bare tilleggsstønad dersom rettigheter etter [folketrygdloven](../lover/lov-1997-02-28-19-folketrygdloven.md) er utnyttet fullt ut, herunder frikort etter [folketrygdloven § 5-3](../lover/lov-1997-02-28-19-folketrygdloven.md).
+
+Som nødvendige utgifter kan regnes
+
+a. utgifter til godkjente egenandeler for helse- og omsorgstjenester
+b. utgifter til tannbehandling
+c. utstyr, inkludert konsultasjon, for å opprettholde funksjonsevnen i dagliglivet
+d. legemidler utskrevet av lege og medisinsk utstyr
+e. utgifter til fordyret kosthold tilsvarende [folketrygdloven § 6-3 bokstav f](../lover/lov-1997-02-28-19-folketrygdloven.md)
+f. reiseutgifter
+g. utgifter til å skaffe identitetsdokumenter for personer med begrenset oppholdstillatelse etter [utlendingsloven § 38 femte ledd](../lover/lov-2008-05-15-35-utlendingsloven.md)
+h. utgifter til ekstra klær og utstyr når det foreligger et særlig behov, dersom Utlendingsdirektoratet ikke har ekstra klær og utstyr tilgjengelig som naturalytelse
+i. gjenanskaffelse av personlige eiendeler som beboeren har tapt, opp til et fastsatt beløp
+j. utgifter til gravferd for nære familiemedlemmer i Norge og utgifter til å sende urnen til avdødes hjemsted, dersom den skal sendes, alternativt kisten med samme beløp
+k. stønad tilsvarende satsene som Statens lånekasse for utdanning gir etter [forskrift om utdanningsstøtte](for-2020-04-15-798-forskrift-om-utdanningsstotte.md), til individuelt utstyr til en beboer i videregående opplæring etter [opplæringslova § 5-1](https://lovdata.no/lov/2023-06-09-30/§5-1), som ikke har slik rett til utdanningsstøtte
+l. stønad til læremidler ved utdanning på høyskole eller universitet som tilsvarer satsen for stønad til læremidler for enslig mor eller far etter [folketrygdloven § 15-11](../lover/lov-1997-02-28-19-folketrygdloven.md).
+
+Tilleggsstønad etter annet ledd kan gis som engangsbeløp eller som løpende utbetalinger.
+
+For tilleggsstønad etter bokstav a, b, c, d og e, og reiseutgifter etter bokstav f når de er knyttet til helsetjenester, må beboeren selv dekke utgifter inntil en fastsatt beløpsgrense. Beløpsgrensen gjelder ikke for beboere med redusert basisstønad etter [§ 6](for-2022-05-31-948-forskrift-om-stonad-til-beboere-i-asylmottak.md) fjerde ledd og beboere i ankomstsenter og transittmottak.
+
+Beboere med redusert basisstønad etter [§ 6](for-2022-05-31-948-forskrift-om-stonad-til-beboere-i-asylmottak.md) fjerde ledd kan ikke innvilges tilleggsstønad etter annet ledd bokstav g, k og l. Tilleggsstønad etter bokstav a, b, c, d og e innvilges kun dersom det er akutt betinget.
+
+*Endret ved forskrifter [12 aug 2022 nr. 1436](https://lovdata.no/forskrift/2022-08-12-1436), [18 sep 2024 nr. 2186](https://lovdata.no/forskrift/2024-09-18-2186), [27 jan 2026 nr. 94](https://lovdata.no/forskrift/2026-01-27-94).*
+
+## § 9. Forskudd på stønad
+
+En beboer kan få forskudd på stønad etter [§ 6](for-2022-05-31-948-forskrift-om-stonad-til-beboere-i-asylmottak.md) til dekning av
+
+a. reiseutgifter for å flytte til asylmottaket
+b. sengetøy og kjøkkenutstyr
+c. et beløp tilsvarende barnetrygd frem til Arbeids- og velferdsdirektoratet har ferdigbehandlet søknad om barnetrygd
+d. utgifter opp til beløpsgrensen i [§ 8](for-2022-05-31-948-forskrift-om-stonad-til-beboere-i-asylmottak.md) fjerde ledd ved søknad om tilleggsstønad
+e. andre utgifter dersom særlig tungtveiende grunner tilsier det.
+
+Utbetales basisstønaden på forskudd, reduseres den fremtidige basisstønaden til forskuddet er tilbakebetalt. Utbetales barnetrygd på forskudd, skal beboeren tilbakebetale det forskutterte beløpet til Utlendingsdirektoratet.
+
+## § 10. Husleie
+
+En beboer over 18 år skal betale husleie til Utlendingsdirektoratet for innkvarteringen dersom beboeren har inntektsgivende arbeid, arbeidsforholdet har vart i mer enn én måned og inntekten overstiger basisstønaden etter [§ 6](for-2022-05-31-948-forskrift-om-stonad-til-beboere-i-asylmottak.md).
+
+Husleien skal betales måneden etter første lønnsutbetaling, til og med måneden etter siste lønnsutbetaling. Husleien er 40 prosent av netto lønnsinntekt, minus beboerens eller, dersom beboeren har familie, familiens beregnede basisstønad. Husleien skal ikke overstige 70 prosent av beboerens eller, dersom beboeren har familie, familiens basisstønad.
+
+*Endret ved forskrift [27 jan 2026 nr. 94](https://lovdata.no/forskrift/2026-01-27-94).*
+
+## § 11. Tilbakebetaling av stønad
+
+Utlendingsdirektoratet kan kreve uriktig utbetalt stønad tilbakebetalt dersom en beboer har fått utbetalt stønad fordi beboeren eller noen som har handlet på beboerens vegne, forsettlig eller grovt uaktsomt har gitt uriktige opplysninger eller har fortiet forhold av vesentlig betydning for stønadsberegningen og utbetalingen.
+
+## § 12. Trekk i stønaden
+
+Har en beboer fravær fra obligatoriske tiltak uten tillatelse eller bryter gjeldende husordensregler, kan Utlendingsdirektoratet trekke beboeren i stønad med inntil kr 100 per brudd. Er beboeren enslig mindreårig uten følgeperson, kan Utlendingsdirektoratet bare trekke beboeren i stønad med inntil kr 50 per brudd.
+
+Dersom en beboer utfører skadeverk på asylmottakets eiendom, kan Utlendingsdirektoratet trekke beboeren i stønad til kostnadene som følge av skadeverket er tilbakebetalt. Blir nøkler borte for beboeren, kan Utlendingsdirektoratet trekke beboeren i stønad til kostnadene med å erstatte nøkkelen er tilbakebetalt.
+
+Utlendingsdirektoratet kan trekke en beboer i stønad for dekning av Utlendingsdirektoratets utestående krav etter [§ 11](for-2022-05-31-948-forskrift-om-stonad-til-beboere-i-asylmottak.md).
+
+Utlendingsdirektoratet kan ikke fastsette et større trekk i stønaden enn at beboeren vil få dekket sine grunnleggende behov etter at trekket er gjennomført.
+
+## § 13. Vedtaksmyndighet og klageadgang
+
+Justis- og beredskapsdepartementet har delegert til Utlendingsdirektoratet å forvalte stønadsordningen og fatte vedtak etter forskriften.
+
+Vedtak etter forskriften fattes av Utlendingsdirektoratets regionkontor. Vedtak kan påklages til Utlendingsdirektoratets direktør, som kan gi denne myndigheten videre i Utlendingsdirektoratet.
+
+## § 14. Ikrafttredelse
+
+Forskriften trer i kraft 1. juni 2022.

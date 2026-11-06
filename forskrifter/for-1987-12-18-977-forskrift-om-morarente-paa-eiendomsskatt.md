@@ -1,0 +1,44 @@
+# Forskrift om rentegodtgjersle når eigedomsskatt vert innbetalt for seint eller betalt attende
+
+- **Korttittel:** Forskrift om morarente på eiendomsskatt
+- **Datokode:** FOR-1987-12-18-977
+- **DokumentID:** SF/forskrift/1987-12-18-977
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavd.
+- **Hjemmel:** lov 06.06.1975 nr. 29/§26
+- **Publisert i:** I 1987 s 1003
+- **I kraft fra:** 1988-01-01
+- **Siste endring i kraft:** 2017-01-01
+- **Sist endret ved:** forskrift 21.12.2016 nr. 1795 fra 2017-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Heimel: Fastsett ved kgl.res. av 18. desember 1987 med heimel i lov av 6 juni 1975 nr. 29 om eigedomsskatt til kommunane § 26. Fremja av Finans- og tolldepartementet (nå Finansdepartementet). Endra ved forskrifter 16 feb 1990 nr. 115, 21 des 1990 nr. 1024, 10 jan 1992 nr. 11, 15 juli 1994 nr. 680, 28 feb 1997 nr. 151, 21 des 2016 nr. 1795.
+- **Kilde:** <https://lovdata.no/forskrift/1987-12-18-977>
+
+## I
+
+### § 1.
+
+Av eigedomsskatt til kommunane som ikkje er oppgjord seinast rette betalingsdagen, skal det svarast rente der rentesatsen er lik den til ein kvar tid gjeldande rente fastsett i forskrift gitt med heimel i [lov av 17. desember 1976 nr. 100](../lover/lov-1976-12-17-100-forsinkelsesrenteloven.md) om renter ved forsinket betaling m.m. [§ 3](../lover/lov-1976-12-17-100-forsinkelsesrenteloven.md) første ledd første punktum, rekna frå rette innbetalingsdagen og til skatten vert betalt.
+
+*Endra ved [forskrifter 15 juli 1994 nr. 680](https://lovdata.no/forskrift/1994-07-15-680) (se II for overgangsregler), [28 feb 1997 nr. 151](https://lovdata.no/forskrift/1997-02-28-151).*
+
+### § 2.
+
+Av eigedomsskatt til kommunane som vert betalt attende, skal det svarast rente rekna frå betalingsdagen og til skatten vert betalt attende. Rentesatsen skal svare til den pengepolitiske styringsrenta slik denne er fastsetje av Norges Bank per 1. januar det aktuelle året.
+
+*Endra ved [forskrifter 15 juli 1994 nr. 680](https://lovdata.no/forskrift/1994-07-15-680) (se II for overgangsregler), [21 des 2016 nr. 1795](https://lovdata.no/forskrift/2016-12-21-1795) (i kraft 1 jan 2017).*
+
+### § 3.
+
+Skyldnaden til å svara rente gjeld berre for eigedomsskatt som er på kr 200 eller meir. Renta skal utreknast etter at skatten er avrunda nedetter til næraste 100 kr. Samla rente på under kr 10 skal ikkje innkrevast eller betalast attende.
+
+## II
+
+Reglane under I tek til å gjelda 1. januar 1988 og får verknad første gongen for oppgjerd av eigedomsskatt som vert innkravd eller betalt attende etter 31. desember 1987. Frå same tid held kgl.res. 28. mai 1978 med føresegner om renteplikt ved for sein innbetaling av eigedomsskatt, opp å gjelda.
+
+Endringane av 15 juli 1994 nr. 680 tek til å gjelda for rente som påløpar frå og med 1. september 1994.
+
+For krav kor rente svarast for kvar månad etter tidlegare reglar, gjeld følgjande:
+
+a. På beløp som ikkje er betalt til rett tid, vert renter for påbyrja og ikkje utløpt månad innan 1. september å frafalle.
+b. På beløp som ikkje er betalt attende til rett tid, skal det svarast rente for heil månad av månad som er påbyrja og ikkje utløpt innan 1. september 1994. Deretter regnes renter etter dei nye reglane.

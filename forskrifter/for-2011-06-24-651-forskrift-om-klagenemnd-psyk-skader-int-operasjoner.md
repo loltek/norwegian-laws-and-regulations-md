@@ -1,0 +1,141 @@
+# Forskrift om klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner
+
+- **Korttittel:** Forskrift om klagenemnd, psyk. skader, int. operasjoner
+- **Datokode:** FOR-2011-06-24-651
+- **DokumentID:** SF/forskrift/2011-06-24-651
+- **Departement:** Forsvarsdepartementet
+- **Etat:** Avdeling for personellpolitikk, kompetanse, integritet og felles juridiske tjenester
+- **Hjemmel:** lov/1967-02-10/§28; lov/1967-02-10/§36; lov 12.08.2016 nr. 77/§55
+- **Publisert i:** I 2011 hefte 6
+- **Kunngjort:** 2011-06-28 15:15
+- **I kraft fra:** 2011-06-24
+- **Siste endring i kraft:** 2022-04-01
+- **Sist endret ved:** forskrift 01.04.2022 nr. 500
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-07-01 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 24. juni 2011 med hjemmel i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 28 fjerde ledd og § 36 tredje ledd. Fremmet av Forsvarsdepartementet. Tilføyd hjemmel: Lov 12. august 2016 nr. 77 om verneplikt og tjeneste i Forsvaret m.m. (forsvarsloven) § 55 første ledd. Fremmet av Forsvarsdepartementet. Endret ved forskrifter 18 juni 2021 nr. 1981 (i kraft 1 juli 2021, bl.a tittel), 1 april 2022 nr. 500. Rettet 01.07.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2011-06-24-651>
+
+## § 1. Klagenemndas kompetanse
+
+Klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner behandler klager over enkeltvedtak fattet av Statens pensjonskasse etter
+
+a. [Forskrift 22. desember 2009 nr. 1768 om særskilt kompensasjonsordning for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner](for-2009-12-22-1768-forskrift-om-kompensasjon-for-psykisk-belastning.md),
+b. [Forsvarstilsatteforskriften kapittel 10](for-2017-06-24-997-forsvarstilsatteforskriften.md) om billighetserstatning, og
+c. [Forsvarsloven § 55](../lover/lov-2016-08-12-77-forsvarsloven.md) første ledd, som omhandler krav som følge av psykiske belastningsskader.
+
+*Endret ved forskrift [18 juni 2021 nr. 1981](https://lovdata.no/forskrift/2021-06-18-1981) (i kraft 1 juli 2021).*
+
+## § 2. Forholdet til forvaltningsloven m.m.
+
+Forvaltningsloven gjelder for nemndas virksomhet, med de særlige regler som følger av denne forskriften.
+
+Innenfor rammene av forvaltningsloven og denne forskriften kan nemnda fastsette nærmere retningslinjer for sin saksbehandling.
+
+## § 2a. Behandling av spesialisterklæringer
+
+Dersom det er innhentet en spesialisterklæring etter særskilt mandat i anledning saken, og nemnda vurderer å fatte vedtak som strider med den sakkyndiges konklusjon om årsakssammenheng mellom tjenesten og anførte psykiske plager, skal nemnda sende saken tilbake til Statens pensjonskasse for ny behandling etter gjeldende regler. Første punktum gjelder ikke dersom mer enn én erklæring allerede er innhentet i saken.
+
+*Tilføyd ved forskrift [1 april 2022 nr. 500](https://lovdata.no/forskrift/2022-04-01-500).*
+
+## § 3. Frist for fremsettelse av klage
+
+Begrunnet klage må være skriftlig og fremsendes Statens pensjonskasse senest seks uker fra det tidspunkt underretning om vedtaket er kommet frem til vedkommende part.
+
+## § 4. Forholdet mellom nemnda og Forsvarsdepartementet
+
+Nemnda er administrativt underlagt Forsvarsdepartementet. Departementet kan ikke instruere nemnda om behandlingen av enkeltsaker som nevnt i [§ 1](for-2011-06-24-651-forskrift-om-klagenemnd-psyk-skader-int-operasjoner.md) eller omgjøre nemndas vedtak i slike saker.
+
+## § 5. Sammensetning og oppnevning
+
+Nemnda oppnevnes av Forsvarsdepartementet og skal bestå av fire medlemmer med personlige varamedlemmer. Leder og ett av medlemmene skal være jurister uten tilknytning til Forsvaret.
+
+Av de øvrige to medlemmer skal ett medlem med varamedlem oppnevnes etter forslag fra Veteranforbundet SIOPS, Norges Veteranforbund for Internasjonale Operasjoner og Norske Reserveoffiserers Forbund og ett medlem med varamedlem skal oppnevnes etter forslag fra Befalets Fellesorganisasjon, Norges offisers- og spesialistforbund, Norsk Tjenestemannslag, Krigsskoleutdannede offiserers landsforening og Personellforbundet.
+
+*Endret ved forskrift [1 april 2022 nr. 500](https://lovdata.no/forskrift/2022-04-01-500).*
+
+## § 6. Fungeringsperiode
+
+Nemndas leder og leders varamedlem oppnevnes for en periode på tre år. De øvrige medlemmer og varamedlemmer oppnevnes for en periode på fire år.
+
+Det er adgang til å gjenoppnevne medlemmer og varamedlemmer. Dette gjelder også leder og leders varamedlem. Finner oppnevningen sted i løpet av en periode, gjelder oppnevningen likevel bare til hovedperiodens slutt.
+
+*Endret ved forskrift [1 april 2022 nr. 500](https://lovdata.no/forskrift/2022-04-01-500).*
+
+## § 7. Sekretariat
+
+Statens sivilrettsforvaltning stiller sekretariat for nemnda.
+
+*Endret ved forskrift [1 april 2022 nr. 500](https://lovdata.no/forskrift/2022-04-01-500).*
+
+## § 8. Nemndas sammensetning i den enkelte sak
+
+Nemnda skal i hver sak settes med alle fire medlemmer. Dersom en eller flere ikke kan møte, skal det innkalles varamedlemmer i henhold til [§ 4](for-2011-06-24-651-forskrift-om-klagenemnd-psyk-skader-int-operasjoner.md).
+
+Dersom ett av medlemmene i nemnda får uventet forfall og man ikke rekker å innkalle varamedlem, kan nemnda være beslutningsdyktig dersom nemndsleder, eller den nemndsleder utpeker, finner det ubetenkelig at saken behandles.
+
+*Endret ved forskrift [1 april 2022 nr. 500](https://lovdata.no/forskrift/2022-04-01-500).*
+
+## § 9. Møterett
+
+Skadelidte kan etter eget ønske møte personlig i nemnda for å avklare uklarheter og gi tilleggsopplysninger i saken. Skadelidte har rett til å la seg bistå av en advokat eller annen fullmektig.
+
+Dersom nemnda anser det som nødvendig for sakens opplysning kan saksbehandler fra Statens pensjonskasse gis adgang til ytterligere å kommentere saken i nemndsmøte.
+
+## § 10. Nemndas vedtak
+
+Nemndas vedtak skal treffes i møte og skal begrunnes.
+
+Nemnda treffer vedtak med alminnelig flertall. Ved stemmelikhet er lederens stemme avgjørende.
+
+Vedtak fattes på bakgrunn av den skriftlige saksfremstilling, nemndas møte og etter muntlige drøftelser mellom medlemmene i nemnda.
+
+Når særlige forhold tilsier det, kan vedtak treffes ved skriftlig saksbehandling, uten at nemnda møtes. Ved skriftlig saksbehandling gis nemndas medlemmer ved påtegning uttrykk for voteringen og begrunnelsen for den.
+
+Nemndas vedtak protokollføres. Eventuelle tilleggsopplysninger av betydning for avgjørelsen, fremført i møtet, skal tas inn i protokollen.
+
+Vedtak skal godkjennes av møtende medlemmer. Vedtaket sendes Statens pensjonskasse og part i saken.
+
+Nemndas vedtak kan ikke påklages.
+
+*Endret ved forskrift [1 april 2022 nr. 500](https://lovdata.no/forskrift/2022-04-01-500).*
+
+## § 11. Anmodning om å overta behandlingen av en sak
+
+Nemnda kan etter anmodning fra skadelidte, beslutte å overta behandlingen av en sak som ikke er ferdigbehandlet hos Statens pensjonskasse. For at slik overtakelse skal kunne besluttes, må det ha gått minst to år siden Statens pensjonskasse mottok skadelidtes krav. Nemndas beslutning kan ikke påklages.
+
+Før nemnda beslutter å overta behandlingen av en sak i medhold av første ledd, skal nemnda informere skadelidte skriftlig om at det ikke er klagerett over nemndas vedtak i saken. Skadelidte skal samtidig gis en frist på tre uker til å trekke sin anmodning om at nemnda overtar behandlingen av saken.
+
+Varsel som nevnt i andre ledd kan unnlates dersom det klart framgår av skadelidtes anmodning at han eller hun er innforstått med at det ikke er klagerett over nemndas vedtak i saken.
+
+Nemndsvedtaket kan ikke påklages.
+
+## § 12. Godtgjørelse
+
+Nemndas medlemmer tilkommer utvalgsgodtgjørelse fastsatt av Forsvarsdepartementet.
+
+## § 13. Sakskostnader
+
+Rimelige og nødvendige utgifter til juridisk bistand og til utarbeidelse av spesialisterklæring i anledning klagebehandlingen dekkes i den utstrekning skadelidte kan dokumentere psykisk belastningsskade og tjeneste i internasjonal operasjon. Første punktum gjelder tilsvarende for rimelige og nødvendige utgifter skadelidte pådrar seg i forbindelse med reise til og fra møte i klagenemnda. For øvrig gjelder [forvaltningsloven § 36](../lover/lov-1967-02-10-forvaltningsloven.md).
+
+Nemndas avgjørelser om sakskostnader kan ikke påklages.
+
+*Endret ved forskrift [1 april 2022 nr. 500](https://lovdata.no/forskrift/2022-04-01-500).*
+
+## § 14. Partsoffentlighet
+
+Skadelidte har krav på innsyn i nemndas dokumenter i den utstreknings som følger av forvaltningslovens bestemmelser om partsinnsyn. Krav om innsyn kan avgjøres av nemndas sekretariat. Forsvarsdepartementet er klageinstans.
+
+Nemnda er ikke klageinstans i saker om partsinnsyn hos Statens pensjonskasse.
+
+## § 15. Dokumentoffentlighet
+
+Offentleglova gjelder for nemndas virksomhet. Krav om innsyn kan avgjøres av nemndas sekretariat. Forsvarsdepartementet er klageinstans.
+
+Nemndas vedtak skal være offentlig tilgjengelig i anonymisert form. Offentliggjøring skal likevel unnlates dersom det ikke er mulig å sikre full anonymitet for den avgjørelsen angår eller andre som har krav på taushet.
+
+Nemnda er ikke klageinstans i saker om innsyn etter offentleglova hos Statens pensjonskasse.
+
+## § 16. Ikrafttredelse
+
+Forskriften trer i kraft straks.

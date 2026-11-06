@@ -1,0 +1,115 @@
+# Forskrift om regulering av fiske i Grønlands økonomiske sone i 2026
+
+- **Datokode:** FOR-2025-12-29-2899
+- **DokumentID:** SF/forskrift/2025-12-29-2899
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Fiskeridirektoratet
+- **Hjemmel:** lov 06.06.2008 nr. 37/§11; lov 06.06.2008 nr. 37/§12; lov 06.06.2008 nr. 37/§16; lov 06.06.2008 nr. 37/§36; lov 26.03.1999 nr. 15/§20; lov 26.03.1999 nr. 15/§21; forskrift 11.02.2000 nr. 99; forskrift 16.10.2001 nr. 4686; forskrift 19.12.2025 nr. 2811/§1; forskrift 19.12.2025 nr. 2811/§40; forskrift 19.12.2025 nr. 2811/§41
+- **Kunngjort:** 2025-12-29 14:40
+- **I kraft fra:** 2026-01-01 – 2026-12-31
+- **Siste endring i kraft:** 2026-06-12
+- **Sist endret ved:** forskrift 12.06.2026 nr. 1083
+- **Merknad:** Hjemmel: Fastsatt av Fiskeridirektoratet 29. desember 2025 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) §§ 11, 12, 16 og 36, lov 26. mars 1999 nr. 15 om retten til å delta i fiske og fangst (deltakerloven) §§ 20 og 21, jf. delegeringsvedtak 11. februar 2000 nr. 99 og delegeringsvedtak 16. oktober 2001 nr. 4686, og forskrift 19. desember 2025 nr. 2811 om adgang til å delta i kystfartøygruppens fiske og enkelte andre fiskerier i 2026 § 1 bokstav o, § 40 og § 41. Endret ved forskrifter 22 jan 2026 nr. 73, 18 feb 2026 nr. 234, 12 juni 2026 nr. 1083.
+- **Kilde:** <https://lovdata.no/forskrift/2025-12-29-2899>
+
+## § 1. Generelt forbud
+
+Det er forbudt for norske fartøy å fiske og lande fisk i Grønlands økonomiske sone.
+
+## § 2. Totalkvoter
+
+Uten hensyn til forbudet i [§ 1](for-2025-12-29-2899-forskrift-om-regulering-av-fiske-i-gronlands-okonomiske-sone-i-2026.md) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i ICES’ statistikkområde 14 (Sydøstgrønland):
+
+a. 720 tonn torsk, hvorav 360 tonn må fiskes i forvaltningsområde Sydøstgrønland og 360 tonn må fiskes i forvaltningsområde Dohrn Banke.
+
+Uten hensyn til forbudet i [§ 1](for-2025-12-29-2899-forskrift-om-regulering-av-fiske-i-gronlands-okonomiske-sone-i-2026.md) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i NAFO-område 1 (Vest-Grønland):
+
+a. 875 tonn blåkveite
+b. 55 tonn skolest.
+
+Uten hensyn til forbudet i [§ 1](for-2025-12-29-2899-forskrift-om-regulering-av-fiske-i-gronlands-okonomiske-sone-i-2026.md) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i ICES’ statistikkområde 5a, 12 og 14:
+
+a. 900 tonn blåkveite
+b. 1 300 tonn bunnlevende uer
+c. 15 tonn kveite
+d. 360 tonn brosme
+e. 140 tonn skolest
+f. 325 tonn bifangst av andre arter.
+
+Uten hensyn til forbudet i [§ 1](for-2025-12-29-2899-forskrift-om-regulering-av-fiske-i-gronlands-okonomiske-sone-i-2026.md) kan norske fartøy fiske og lande 1 500 tonn reker i Grønlands økonomiske sone i ICES’ statistikkområde 5a og 14.
+
+*Endret ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73).*
+
+## § 3. Gruppekvoter
+
+Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy kan totalt fiske og lande inntil 720 tonn torsk.
+
+Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy kan fiske og lande inntil 430 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+Fartøy med torsketråltillatelse kan fiske og lande inntil 470 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+Fartøy med torsketråltillatelse kan fiske og lande inntil 875 tonn blåkveite i NAFO-område 1 (Vest-Grønland).
+
+Fartøy med torsketråltillatelse kan fiske og lande inntil 1 300 tonn bunnlevende uer i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+*Tilføyd ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73).*
+
+## § 4. Fartøykvoter
+
+Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy tildeles fartøykvote på 360 tonn torsk.
+
+Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy tildeles fartøykvote på 215 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+Fartøy med torsketråltillatelse tildeles fartøykvote på 235 tonn blåkveite i ICES' statistikkområde 5a og 14 (Øst-Grønland). Fartøykvotene oppheves fra og med 12. juni 2026 for fartøy med torsketråltillatelse.
+
+Fartøy med torsketråltillatelse tildeles fartøykvote på 437,5 tonn blåkveite i NAFO-område 1 (Vest-Grønland).
+
+Fartøy med torsketråltillatelse som deltar i fisket etter blåkveite i ICES' statistikkområde 5a og 14 (Øst-Grønland), tildeles fartøykvote på 650 tonn bunnlevende uer i ICES' statistikkområde 5a og 14 (Øst-Grønland). Fartøykvotene oppheves fra og med 12. juni 2026 for fartøy med torsketråltillatelse.
+
+Fartøy som har adgang til å delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone tildeles fartøykvote på 500 tonn reker i ICES’ statistikkområde 5a og 14. Fartøykvotene oppheves fra og med 20. februar 2026 for fartøy med adgang til å delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone.
+
+*Tilføyd ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73), endret ved forskrifter [18 feb 2026 nr. 234](https://lovdata.no/forskrift/2026-02-18-234), [12 juni 2026 nr. 1083](https://lovdata.no/forskrift/2026-06-12-1083).*
+
+## § 5. Bifangst
+
+For norske fartøy som har adgang til å delta i fisket i Grønlands økonomiske sone, er det tillatt å ha inntil 10 % bifangst av hver art fartøyet ikke har lisens for i de enkelte fangster og ved landing.
+
+*Tilføyd ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73).*
+
+## § 6. Påmelding og tillatelse
+
+Fartøy som har adgang til å delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone må være skriftlig påmeldt til Fiskeridirektoratet før fisket kan ta til.
+
+Ingen fartøy må delta i fisket uten tillatelse fra Fiskeridirektoratet. Det kan stilles vilkår om at fartøy som deltar i fisket skal samle biologiske data etter nærmere angitte retningslinjer.
+
+*Endret ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73) (tidligere § 4).*
+
+## § 7. Tids- og områdebegrensning
+
+Fisket etter torsk kan bare foregå på de vilkårene og innenfor de tidsrom og områder som bestemmes av grønlandske myndigheter.
+
+*Endret ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73) (tidligere § 5).*
+
+## § 8. Refordeling
+
+Fartøykvotene kan endres eller oppheves dersom en rasjonell utøvelse av fisket tilsier det.
+
+*Endret ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73) (tidligere § 6).*
+
+## § 9. Stopp i fisket
+
+Fiskeriene vil bli stoppet når totalkvotene eller gruppekvotene er beregnet oppfisket.
+
+*Endret ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73) (tidligere § 7).*
+
+## § 10. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften straffes i henhold til [havressurslova §§ 60](https://lovdata.no/lov/2008-06-06-37/§60), [61](https://lovdata.no/lov/2008-06-06-37/§61), [62](https://lovdata.no/lov/2008-06-06-37/§62), [64](https://lovdata.no/lov/2008-06-06-37/§64) og [65](https://lovdata.no/lov/2008-06-06-37/§65) og [deltakerloven § 31](../lover/lov-1999-03-26-15-deltakerloven.md). På samme måte straffes medvirkning og forsøk.
+
+*Endret ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73) (tidligere § 8).*
+
+## § 11. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2026 og gjelder til og med 31. desember 2026.
+
+*Endret ved forskrift [22 jan 2026 nr. 73](https://lovdata.no/forskrift/2026-01-22-73) (tidligere § 9).*

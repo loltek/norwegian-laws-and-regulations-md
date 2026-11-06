@@ -1,0 +1,123 @@
+# Forskrift om behandling av saker om straff for personer mistenkt for piratvirksomhet i Det indiske hav
+
+- **Korttittel:** Forskrift om piratvirksomhet i Det indiske hav
+- **Datokode:** FOR-2013-06-14-622
+- **DokumentID:** SF/forskrift/2013-06-14-622
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Lovavd.
+- **Hjemmel:** lov 22.05.1981 nr. 25/§4
+- **Publisert i:** I 2013 hefte 8
+- **Kunngjort:** 2013-06-17 12:40
+- **I kraft fra:** 2013-06-14
+- **Siste endring i kraft:** 2015-10-01
+- **Sist endret ved:** forskrift 18.09.2015 nr. 1064 fra 2015-10-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 14. juni 2013 med hjemmel i lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven) § 4 annet ledd. Fremmet av Justis- og beredskapsdepartementet. Endret ved forskrift 18 sep 2015 nr. 1064.
+- **Kilde:** <https://lovdata.no/forskrift/2013-06-14-622>
+
+## § 1.
+
+Formålet med forskriften er å gi regler for behandling av saker om straff mot personer som er mistenkt for piratvirksomhet i Det indiske hav.
+
+Straffeprosessloven gjelder i den utstrekning det følger særskilt av denne forskriften.
+
+## § 2.
+
+Forskriften gjelder for norske militære fartøy som brukes til å bekjempe piratvirksomhet på det åpne hav og utenfor en kyststats territorialfarvann i Det indiske hav. Forskriften gjelder også i territorialfarvannet til Somalia.
+
+Med piratvirksomhet forstås de handlinger som omfattes av definisjonen av sjørøveri i FNs [havrettskonvensjon 10.](https://lovdata.no/traktat/1982-12-10-1) desember 1982 artikkel 101.
+
+Skipssjefens beslutninger etter forskriften skal tas i samråd med militærjuristen om bord. Han er ved etterforskning og anvendelse av tvangsmidler etter forskriften, underlagt påtalemyndigheten.
+
+## § 3.
+
+Ved behandling av saker etter denne forskriften gjelder [straffeprosessloven § 60](../lover/lov-1981-05-22-25-straffeprosessloven.md) til [§ 61](../lover/lov-1981-05-22-25-straffeprosessloven.md) og [politiregisterloven § 22](../lover/lov-2010-05-28-16-politiregisterloven.md) og [kapittel 6](../lover/lov-2010-05-28-16-politiregisterloven.md) tilsvarende for enhver som er ansatt på eller utfører tjeneste eller arbeid om bord på fartøyet.
+
+[Straffeprosessloven § 170a](../lover/lov-1981-05-22-25-straffeprosessloven.md) gjelder tilsvarende ved bruk av tvangsmidler etter denne forskriften.
+
+*Endret ved [forskrift 18 sep 2015 nr. 1064](https://lovdata.no/forskrift/2015-09-18-1064) (i kraft 1 okt 2015).*
+
+## § 4.
+
+Ved skjellig grunn til mistanke om piratvirksomhet kan skipssjefen beslutte at fartøyet skal gripe inn for å avverge eller stanse slike lovbrudd.
+
+Skipssjefen kan dessuten treffe beslutning om å pågripe
+
+a. den som treffes på eller ved et sted der det skjer eller umiddelbart har skjedd en slik handling, eller
+b. den som med skjellig grunn mistenkes for piratvirksomhet.
+
+Beslutningen skal nedtegnes snarest mulig og inneholde en kort begrunnelse for pågripelsen, samt det faktiske forholdet saken gjelder.
+
+Skipssjefen skal umiddelbart informere Det nasjonale statsadvokatembetet om pågripelsen. Det nasjonale statsadvokatembetet skal snarest mulig informere Utenriksdepartementet om saken.
+
+## § 5.
+
+Pågripelsen skal foretas så skånsomt som forholdene tillater. Det skal utarbeides en skriftlig rapport som redegjør for hvem som er pågrepet og nærmere opplysninger om den enkelte. Når det anses nødvendig for å identifisere den som pågripes eller for å kontrollere opplysninger om identiteten til vedkommende, kan det tas fingeravtrykk, fotografi, samt innhentes biologisk materiale med sikte på å gjennomføre en DNA-analyse av vedkommende. [Straffeprosessloven § 157](../lover/lov-1981-05-22-25-straffeprosessloven.md) annet ledd, [§ 158](../lover/lov-1981-05-22-25-straffeprosessloven.md) annet ledd annet og tredje punktum, og femte ledd samt [§ 159](../lover/lov-1981-05-22-25-straffeprosessloven.md) første ledd gjelder tilsvarende.
+
+Det kan besluttes at vedkommende skal utelukkes fra fellesskap med andre pågrepne personer dersom samkvem antas å være særlig skadelig for etterforskningen.
+
+## § 6.
+
+I etterforskningsøyemed kan det foretas ransaking av fartøy og personer som med skjellig grunn mistenkes for piratvirksomhet. Beslutningen skal nedtegnes snarest mulig og inneholde en kort begrunnelse.
+
+Personer som er pågrepet, kan fratas alle gjenstander som er egnet til å skade vedkommende selv eller andre. Det skal føres en nøyaktig fortegnelse over fratatte gjenstander. [§ 7](for-2013-06-14-622-forskrift-om-piratvirksomhet-i-det-indiske-hav.md) og [§ 8](for-2013-06-14-622-forskrift-om-piratvirksomhet-i-det-indiske-hav.md) gjelder tilsvarende for fratatte gjenstander.
+
+## § 7.
+
+Den pågrepne skal informeres om begrunnelsen for pågripelsen på et språk vedkommende forstår. Vedkommende skal snarest mulig gis anledning til å forklare seg. Forklaringen skal skrives ned og følge saken.
+
+Når pågripelsen er foretatt, skal skipssjefen så langt mulig sørge for at det gis underretning til den pågrepnes husstand eller annen person han utpeker. Dersom den pågrepne ikke ønsker det, gis ikke underretning med mindre særlige grunner taler for det.
+
+Underretning kan unnlates såfremt det antas at den vil være til vesentlig skade for etterforskningen.
+
+## § 8.
+
+Ting som antas å ha betydning som bevis, kan beslaglegges. Det skal settes opp en nøyaktig fortegnelse over beslaglagte ting.
+
+## § 9.
+
+Beslaget faller bort når saken er endelig avgjort. Skipssjefen kan beslutte at beslaget skal opprettholdes også etter dette tidspunktet dersom det er grunn til å regne med at beslaget har betydning som bevis i en annen, beslektet sak, eller andre særlige forhold tilsier det.
+
+Beslaglagte ting skal utleveres til den de er beslaglagt hos, eventuelt til rette eier dersom de er fravendt vedkommende ved piratvirksomhet.
+
+Ting som antas å ha vært brukt til eller er egnet til å brukes ved piratvirksomhet, kan likevel tilintetgjøres såfremt det finnes påkrevd for å bekjempe piratvirksomhet og for øvrig er et forholdsmessig tiltak. Det samme gjelder ting som det på grunn av dens art og forholdene for øvrig, er fare for at vil bli brukt til piratvirksomhet.
+
+Beslutningen skal være skriftlig, begrunnet og følge saken.
+
+## § 10.
+
+Snarest mulig og senest innen 72 timer etter at beslutningen om pågripelse er truffet, skal påtalemyndigheten
+
+a. anmode om at det tas kontakt med en annen stat med sikte på overføring av den pågrepne for videre strafforfølgning der,
+b. beslutte at den pågrepne skal strafforfølges i Norge, eller
+c. beslutte at den pågrepne skal løslates.
+
+Myndigheten etter første ledd ligger til Det nasjonale statsadvokatembetet. [Straffeprosessloven § 59a](../lover/lov-1981-05-22-25-straffeprosessloven.md) om klage til Riksadvokaten gjelder tilsvarende så langt den passer.
+
+## § 11.
+
+Hvis påtalemyndigheten fremmer en anmodning som nevnt i [§ 10](for-2013-06-14-622-forskrift-om-piratvirksomhet-i-det-indiske-hav.md) første ledd bokstav a, skal Utenriksdepartementet snarest mulig vurdere om anmodningen bør etterkommes.
+
+Det nasjonale statsadvokatembetet kan treffe beslutning om overføring av pågrepne personer til videre strafforfølgning i en annen stat. Det kan samtidig treffes beslutning om overføring av beslaglagte ting, sakens dokumenter og eventuelle andre bevismidler til bruk under strafforfølgningen der. Beslutningen skal være skriftlig, og den skal dateres og underskrives av rette vedkommende. [Straffeprosessloven § 59a](../lover/lov-1981-05-22-25-straffeprosessloven.md) om klage til Riksadvokaten gjelder tilsvarende så langt den passer.
+
+*Endret ved [forskrift 18 sep 2015 nr. 1064](https://lovdata.no/forskrift/2015-09-18-1064) (i kraft 1 okt 2015).*
+
+## § 12.
+
+Den pågrepne skal fortløpende orienteres om sakens videre utvikling på et språk vedkommende forstår. Han skal gis anledning til å legge frem sitt syn. Forklaringen skal skrives ned og følge saken.
+
+## § 13.
+
+Senest etter utløpet av 14 dager etter at beslutning om pågripelse ble truffet, skal det være iverksatt et tiltak etter [§ 10](for-2013-06-14-622-forskrift-om-piratvirksomhet-i-det-indiske-hav.md) første ledd.
+
+I særlige tilfeller der den pågrepne med skjellig grunn mistenkes for en straffbar handling som etter norsk lov kan medføre straff av fengsel i 10 år eller mer, og tungtveiende interesser gjør det nødvendig, kan Det nasjonale statsadvokatembetet beslutte at den frist som følger av første ledd skal forlenges med inntil 14 dager.
+
+*Endret ved [forskrift 18 sep 2015 nr. 1064](https://lovdata.no/forskrift/2015-09-18-1064) (i kraft 1 okt 2015).*
+
+## § 14.
+
+Ved ankomst til norsk territorium gjelder straffeprosessloven.
+
+## § 15.
+
+Forskriften trer i kraft straks.

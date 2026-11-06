@@ -1,0 +1,265 @@
+# Lov om behandling av forbrukerklager i Forbrukertilsynet og Forbrukerklageutvalget (forbrukerklageloven)
+
+- **Korttittel:** Forbrukerklageloven
+- **Datokode:** LOV-2020-06-23-98
+- **DokumentID:** NL/lov/2020-06-23-98
+- **Departement:** Barne- og familiedepartementet
+- **Kunngjort:** 2020-06-23 12:20
+- **I kraft fra:** 2021-01-01
+- **Siste endring i kraft:** 2025-01-01
+- **Sist endret ved:** lov 25.06.2024 nr. 56 fra 2025-01-01
+- **Rettsområde:** Forbruker-, kjøps- og konkurranserett > Forbrukerkjøp; Næringsrett > Handel og tjenester; Næringsrett > Håndverk; Næringsrett > Reiseliv; Sivil- og straffeprosess > Sivilprosess/tvisteloven
+- **Endrer:** lov 17.02.2017 nr. 7
+- **Siste rettelse:** 2022-03-10 (tegnsetting i lister tilpasset universell utforming)
+- **Kilde:** <https://lovdata.no/lov/2020-06-23-98>
+
+## Kapittel 1 Innledende bestemmelser
+
+### § 1. Virkeområde
+
+Loven gjelder Forbrukertilsynets og Forbrukerklageutvalgets behandling av klager på kjøp av varer og tjenester, dersom avtalen er inngått mellom en forbruker og en næringsdrivende som er etablert i Norge eller retter sin virksomhet mot forbrukere i Norge. Med forbruker menes en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.
+
+Departementet kan i forskrift fastsette hvilke klager Forbrukertilsynet og Forbrukerklageutvalget skal behandle, herunder verdigrenser. Departementet kan i forskrift fastsette at loven også gjelder klager på kjøp av fast eiendom og klager mellom to forbrukere.
+
+Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen og kan fastsette særlige regler under hensyn til de stedlige forhold.
+
+### § 2. Om Forbrukertilsynet
+
+Forbrukertilsynet mekler i klagesaker etter [§ 1](lov-2020-06-23-98-forbrukerklageloven.md) for å oppnå en minnelig løsning mellom parter. Forbrukertilsynet forbereder også klagesaker som bringes inn for Forbrukerklageutvalget, jf. [§ 13](lov-2020-06-23-98-forbrukerklageloven.md) første ledd.
+
+Forbrukertilsynet er et faglig uavhengig forvaltningsorgan som ikke kan instrueres om behandlingen av den enkelte klagesaken etter denne loven eller om den faglige virksomheten for øvrig.
+
+Departementet kan i forskrift fastsette kompetansekrav for meklere og andre i Forbrukertilsynet som behandler eller har ansvar for saker etter denne loven.
+
+### § 3. Om Forbrukerklageutvalget
+
+Forbrukerklageutvalget treffer vedtak etter [§ 1](lov-2020-06-23-98-forbrukerklageloven.md) i klagesaker som har vært meklet i Forbrukertilsynet.
+
+Forbrukerklageutvalget er et faglig uavhengig forvaltningsorgan som ikke kan instrueres om behandlingen av den enkelte klagesaken eller om den faglige virksomheten for øvrig.
+
+Forbrukerklageutvalget skal bestå av en leder og så mange nestledere og øvrige medlemmer som til enhver tid er nødvendig for å utføre utvalgets oppgaver.
+
+Departementet fastsetter i forskrift bestemmelser om Forbrukerklageutvalgets sammensetning ved avgjørelse av saker, kompetansekrav til medlemmene og Forbrukerklageutvalgets organisering.
+
+### § 4. Forholdet til forvaltningsloven
+
+Forvaltningsloven gjelder når annet ikke følger av loven her eller av forskrift til loven.
+
+### § 5. Upartiskhet
+
+Forbrukertilsynet og Forbrukerklageutvalget skal opptre upartisk ved behandling av klager etter denne loven.
+
+### § 6. Rettshjelp
+
+Klagebehandling skal tilbys også der partene får rettshjelp av en tredjepart. Forbrukertilsynet skal informere partene om dette før klagebehandlingen begynner.
+
+### § 7. Gebyr
+
+Departementet kan i forskrift fastsette bestemmelser om gebyr for behandling av klager.
+
+## Kapittel 2 Forbrukertilsynets mekling
+
+### § 8. Klage til Forbrukertilsynet
+
+Forbrukertilsynet skal legge til rette for at forbrukeren eller den næringsdrivende kan inngi klage og saksdokumenter både elektronisk og på papir. Etter anmodning skal tilsynet gi klageren bistand med å sette opp klagen.
+
+Forbrukertilsynet avgjør med endelig virkning om en klage hører under dets saksområde etter [§ 1](lov-2020-06-23-98-forbrukerklageloven.md).
+
+Forbrukertilsynet skal kunne motta og behandle klager gjennom EUs nettbaserte klageportal i henhold til kravene i forordning om nettbasert tvisteløsning i forbrukersaker, jf. [godkjenningsloven § 26](lov-2016-06-17-29-godkjenningsloven.md).
+
+Departementet kan i forskrift fastsette frist for å bringe en sak inn for Forbrukertilsynet.
+
+### § 9. Forbrukertilsynets avvisning
+
+Forbrukertilsynet kan avvise en klage fra mekling dersom
+
+a. klageren ikke har forsøkt å løse saken direkte med motparten,
+b. klagen er useriøs eller grunnløs,
+c. klagen er under behandling eller har blitt behandlet av et innmeldt klageorgan, jf. [godkjenningsloven § 25](lov-2016-06-17-29-godkjenningsloven.md), av Forbrukerklageutvalget eller av en domstol,
+d. verdien av kravet er under eller over grense fastsatt i forskrift, jf. [§ 1](lov-2020-06-23-98-forbrukerklageloven.md) annet ledd,
+e. fristen for å klage er oversittet, jf. [§ 8](lov-2020-06-23-98-forbrukerklageloven.md) fjerde ledd,
+f. klagen ikke lar seg behandle uten at behandlingen i særlig grad går utover Forbrukertilsynets effektivitet,
+g. klageren ikke har et reelt behov for å få avgjort kravet i forhold til motparten, jf. [tvisteloven § 1-3](lov-2005-06-17-90-tvisteloven.md) annet ledd.
+
+Forbrukertilsynet skal avvise en klage fra mekling dersom gebyr fastsatt i forskrift etter [§ 7](lov-2020-06-23-98-forbrukerklageloven.md) ikke er innbetalt.
+
+Vedtak om avvisning skal være begrunnet. Vedtaket skal meddeles partene innen tre uker fra Forbrukertilsynet mottok klagen eller fra det tidspunktet Forbrukertilsynet mottok nødvendig dokumentasjon for å kunne ta stilling til om saken kan avvises.
+
+Forbrukertilsynets vedtak om avvisning kan ikke påklages.
+
+*Endret ved lov [25 juni 2024 nr. 56](lov-2024-06-25-56-endringslov-til-gjeldsordningsloven-mv.md) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](https://lovdata.no/forskrift/2024-10-11-2455)).*
+
+### § 10. Utveksling av informasjon
+
+Forbrukertilsynet skal oversende klagen, saksdokumenter, argumenter, bevis og fakta som motparten har fremlagt, samt eventuelle erklæringer og uttalelser fra sakkyndige, til partene. Forbrukertilsynet skal anbefale partene å innhente sakkyndige uttalelser i den utstrekning dette anses nødvendig for å opplyse saken.
+
+Partene skal holdes orientert om sakens gang og gis adgang til å uttale seg om sakens faktiske og rettslige sider og opplysningene som er fremlagt av motparten. Forbrukertilsynet skal sette rimelige frister for uttalelsene.
+
+Forbrukertilsynet skal sørge for at partene kan utveksle informasjon om saken elektronisk eller per post.
+
+### § 11. Meklingen
+
+Så snart Forbrukertilsynet har mottatt nødvendige og relevante dokumenter fra begge parter og meklingen kan begynne, skal Forbrukertilsynet informere partene om dette.
+
+Forbrukertilsynet skal informere partene om de prinsippene som saksbehandlingen er basert på, og at Forbrukertilsynet mekler som et nøytralt og partsuavhengig organ.
+
+Forbrukertilsynet skal gjennom skriftlig eller muntlig veiledning og rådgivning søke å finne frem til løsninger som partene kan godta.
+
+Forbrukertilsynet kan på ethvert trinn av saksbehandlingen fremme forslag til løsning av saken. Dersom det blir fremsatt et forslag til løsning, skal partene gis en rimelig betenkningstid for å vurdere resultatet. Før partene godtar en foreslått løsning skal partene informeres om
+
+a. at muligheten til å fremme søksmål ved domstolene ikke bortfaller ved bruk av Forbrukertilsynets meklingstilbud,
+b. at den foreslåtte løsningen kan avvike fra en domstolsavgjørelse,
+c. at de kan velge om de vil følge forslaget,
+d. rettsvirkningen av å akseptere eller følge forslaget.
+
+Dersom partene ikke kommer til enighet under meklingen, skal Forbrukertilsynet informere partene skriftlig om at saken avsluttes, og om adgangen til og fristen for å få klagen behandlet av Forbrukerklageutvalget, jf. [§ 13](lov-2020-06-23-98-forbrukerklageloven.md).
+
+Departementet kan i forskrift gi nærmere bestemmelser om Forbrukertilsynets mekling og informasjonen som skal gis til partene.
+
+### § 12. Saksbehandlingsfrist mv.
+
+Resultatet av meklingen skal gjøres tilgjengelig for partene innen 90 dager fra partene ble informert om at meklingen kunne begynne, jf. [§ 11](lov-2020-06-23-98-forbrukerklageloven.md) første ledd. I særlig komplekse saker kan fristen forlenges. Partene skal informeres om forlengelsen og om ny frist.
+
+Partene skal informeres skriftlig eller på et varig medium om resultatet av meklingen og begrunnelsen. Med varig medium menes enhver innretning som gjør partene i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelig i uendret form.
+
+## Kapittel 3 Forbrukerklageutvalgets klagebehandling
+
+### § 13. Klage til Forbrukerklageutvalget
+
+Hver av partene kan klage saken inn for Forbrukerklageutvalget. Klagen må sendes innen én måned fra partene ble underrettet av Forbrukertilsynet om at meklingen er avsluttet. Forbrukerklageutvalget kan gi oppfriskning for oversittelse av fristen.
+
+Klagen og relevante dokumenter som ikke er sendt inn tidligere, sendes til Forbrukertilsynet. Forbrukertilsynet skal legge til rette for at klage og saksdokumenter kan sendes både elektronisk og på papir. Etter anmodning skal tilsynet gi klageren bistand med å sette opp klagen.
+
+Departementet kan i forskrift gi bestemmelser om krav til klagen.
+
+### § 14. Forbrukerklageutvalgets avvisning
+
+Forbrukerklageutvalget kan avvise en klage dersom
+
+a. klageren ikke har forsøkt å løse saken direkte med motparten,
+b. klagen er avgjort eller er under behandling ved en domstol, ved Forbrukerklageutvalget eller ved et annet innmeldt klageorgan enn Forbrukertilsynet, jf. [godkjenningsloven § 25](lov-2016-06-17-29-godkjenningsloven.md) første ledd,
+c. klageren åpenbart ikke kan gis medhold på bakgrunn av Forbrukerklageutvalgets tidligere praksis,
+d. verdien av kravet er under eller over en grense fastsatt i forskrift, jf. [§ 1](lov-2020-06-23-98-forbrukerklageloven.md) annet ledd,
+e. klagen er grunnløs eller useriøs,
+f. klagen reiser bevisspørsmål som ikke egner seg for skriftlig behandling,
+g. klagen ikke lar seg behandle uten at behandlingen i særlig grad går utover Forbrukerklageutvalgets effektivitet,
+h. fristen for å klage er oversittet, jf. [§ 13](lov-2020-06-23-98-forbrukerklageloven.md) første ledd annet punktum.
+
+Forbrukerklageutvalget skal avvise en klage dersom
+
+a. den ikke hører under Forbrukerklageutvalgets virkeområde etter [§ 1](lov-2020-06-23-98-forbrukerklageloven.md),
+b. klagen ikke har vært behandlet av Forbrukertilsynet,
+c. eventuelt saksbehandlingsgebyr fastsatt i forskrift ikke er innbetalt, jf. [§ 7](lov-2020-06-23-98-forbrukerklageloven.md),
+d. klageren ikke har et reelt behov for å få avgjort kravet i forhold til motparten, jf. [tvisteloven § 1-3](lov-2005-06-17-90-tvisteloven.md) annet ledd,
+e. en av partene ikke er prosessdyktig og ikke har lovlig stedfortreder, jf. [tvisteloven kapittel 2](lov-2005-06-17-90-tvisteloven.md),
+f. motparten ikke kan saksøkes ved norske domstoler.
+
+Vedtak om avvisning skal treffes senest tre uker fra klagen og øvrige saksdokumenter fra klageren ble mottatt av Forbrukertilsynet.
+
+### § 15. Forkynning av klage og saksforberedelse for Forbrukerklageutvalget
+
+Forbrukertilsynet forkynner klagen for motparten som skal gis adgang til å uttale seg om klagen. Motparten skal samtidig gis informasjon om virkningen av unnlatt svar.
+
+Forkynning skal skje ved direkte oversendelse, enten elektronisk ved bruk av en betryggende teknisk løsning som gir bevis for at dokumentet er mottatt av rette vedkommende, ved vanlig brev vedlagt mottakskvittering eller ved rekommandert brev. Dokumentet skal likevel regnes som forkynt dersom det er sannsynliggjort at motparten har mottatt dokumentet, for eksempel ved bekreftelse på telefon, e-post eller lignende, og det ikke er grunn til å tvile på at vedkommende er rett person. For øvrig gjelder reglene i [domstolloven kapittel 9](lov-1915-08-13-5-domstolloven.md).
+
+Forbrukertilsynet kan be partene fremlegge ytterligere dokumentasjon og sakkyndige uttalelser. Partene skal gis adgang til å uttale seg om sakens faktiske og rettslige sider og opplysninger som er fremlagt av motparten. Forbrukertilsynet skal sette rimelige frister for uttalelsene. Forbrukertilsynet skal holde partene orientert om sakens gang.
+
+Departementet kan i forskrift gi nærmere bestemmelser om Forbrukertilsynets saksforberedelse for Forbrukerklageutvalget.
+
+### § 16. Forbrukerklageutvalgets saksbehandling
+
+Forbrukerklageutvalget skal behandle klagen på grunnlag av partenes skriftlige fremstilling og det øvrige skriftlige materialet som er fremlagt. Forbrukerklageutvalget behandler sakene for lukkede dører, og partene har ikke møterett. Dersom Forbrukerklageutvalget finner at saken ikke er tilstrekkelig opplyst, kan utvalget be Forbrukertilsynet om å innhente ytterligere informasjon fra partene, jf. [§ 15](lov-2020-06-23-98-forbrukerklageloven.md) tredje ledd. Forbrukerklageutvalget er bundet av partenes krav, påstander og påstandsgrunnlag.
+
+Departementet kan i forskrift gi nærmere bestemmelser om Forbrukerklageutvalgets saksbehandling.
+
+### § 17. Forbrukerklageutvalgets vedtak
+
+Vedtaket fra Forbrukerklageutvalget skal være skriftlig eller på et varig medium, jf. [§ 12](lov-2020-06-23-98-forbrukerklageloven.md) annet ledd annet punktum. Vedtaket skal være begrunnet. Det skal fremgå av vedtaket om det er enstemmig. Dersom vedtaket ikke er enstemmig, skal også mindretallets syn og begrunnelse fremgå.
+
+Vedtaket forkynnes for partene som samtidig skal gjøres kjent med vedtakets virkning, adgangen til å bringe vedtaket inn for tingretten og hvor stevning kan sendes. [§ 15](lov-2020-06-23-98-forbrukerklageloven.md) annet ledd gjelder tilsvarende.
+
+Vedtaket kan ikke påklages. [Forvaltningsloven § 35](lov-1967-02-10-forvaltningsloven.md) gjelder ikke.
+
+Vedtak som ikke blir brakt inn for tingretten etter [§ 22](lov-2020-06-23-98-forbrukerklageloven.md), får virkning som rettskraftig dom, og kan fullbyrdes etter reglene for dommer.
+
+Dersom saken tidligere er brakt inn for retten, men stanset i medhold av [§ 23](lov-2020-06-23-98-forbrukerklageloven.md), skal kopi av Forbrukerklageutvalgets vedtak sendes vedkommende domstol.
+
+### § 18. Vedtak der motparten ikke har uttalt seg
+
+Dersom motparten ikke har uttalt seg i saken innen en rimelig frist fastsatt av Forbrukertilsynet, jf. [§ 15](lov-2020-06-23-98-forbrukerklageloven.md) første ledd, jf. tredje ledd, og det ikke er grunn til å tro at unnlatelsen skyldes gyldig fravær, kan Forbrukerklageutvalget avgjøre saken på grunnlag av klagerens saksfremstilling, med mindre denne strider mot vitterlige kjensgjerninger. Slikt vedtak kan bare treffes når motparten ved forkynning er gjort kjent med virkningen av ikke å uttale seg, og kan angripes ved begjæring om oppfriskning. Oppfriskning kan bare gis dersom unnlatelsen skyldes gyldig fravær. For øvrig gjelder reglene for oppfriskning i [tvisteloven § 16-6](lov-2005-06-17-90-tvisteloven.md) første og annet ledd, [§ 16-12](lov-2005-06-17-90-tvisteloven.md) første ledd første punktum og annet ledd og [§ 16-13](lov-2005-06-17-90-tvisteloven.md) så langt de passer.
+
+### § 19. Kostnader til rettshjelp
+
+Forbrukerklageutvalget skal ikke ilegge en part ansvar for motpartens kostnader til rettshjelp.
+
+Hvis noen av partene har nedlagt påstand eller på annen måte fremsatt krav som Forbrukerklageutvalget finner at åpenbart ikke kan føre frem, kan utvalget likevel bestemme at parten helt eller delvis skal bære kostnadene til rettshjelp som saken har medført for motparten.
+
+### § 20. Gjenåpning
+
+Forbrukerklageutvalgets rettskraftige vedtak kan gjenåpnes etter begjæring fra en part. Begjæringen skal sendes til Forbrukertilsynet. Gjenåpning kan begjæres dersom
+
+a. det foreligger brudd på habilitetskrav, jf. [forvaltningsloven § 6](lov-1967-02-10-forvaltningsloven.md),
+b. det foreligger andre saksbehandlingsfeil, og det ikke kan utelukkes at feilen var bestemmende for vedtakets innhold,
+c. opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at vedtaket høyst sannsynlig ville blitt et annet.
+
+Gjenåpning kan ikke begjæres
+
+a. av en grunn som ble forkastet ved sakens behandling,
+b. av en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning,
+c. dersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.
+
+Avslag på begjæring om gjenåpning kan bringes inn for tingretten. For øvrig gjelder bestemmelsene om gjenåpning i [tvisteloven §§ 31-6](lov-2005-06-17-90-tvisteloven.md) til [31-9](lov-2005-06-17-90-tvisteloven.md) så langt de passer.
+
+### § 21. Retting og tilleggsavgjørelse
+
+Forbrukerklageutvalget kan rette et vedtak som på grunn av skrive- eller regnefeil, misforståelse, forglemmelse eller annen åpenbar feil har fått en utforming som ikke stemte med Forbrukerklageutvalgets mening.
+
+Er det ikke truffet avgjørelse om noe som skulle vært avgjort, kan Forbrukerklageutvalget avsi tilleggsavgjørelse dersom det fremmes begjæring om dette innen fristen for å bringe saken inn for tingretten etter [§ 22](lov-2020-06-23-98-forbrukerklageloven.md) første ledd.
+
+For øvrig gjelder reglene om retting og tilleggsavgjørelse i [tvisteloven §§ 19-8](lov-2005-06-17-90-tvisteloven.md) og [19-9](lov-2005-06-17-90-tvisteloven.md).
+
+### § 22. Domstolsbehandling
+
+Vedtak som avgjør sakens realitet, kan overprøves ved søksmål for tingretten. Stevning må sendes innen én måned etter at vedtaket er forkynt for partene. Er en sak for domstolene stanset etter [§ 23](lov-2020-06-23-98-forbrukerklageloven.md) annet ledd, må prosesskriv med begjæring om fortsettelse avgis innen samme frist. Stevning eller prosesskriv kan sendes til Forbrukertilsynet eller direkte til tingretten, jf. [tvisteloven § 9-2](lov-2005-06-17-90-tvisteloven.md) fjerde ledd.
+
+Fristen i første ledd løper ikke i rettsferier, jf. [domstolloven § 140](lov-1915-08-13-5-domstolloven.md), og beregnes etter reglene i domstolloven kapittel 8.
+
+Forbrukerklageutvalget kan gi oppfriskning for oversittelse av fristen i første ledd etter reglene i [tvisteloven §§ 16-12](lov-2005-06-17-90-tvisteloven.md) til [16-14](lov-2005-06-17-90-tvisteloven.md). Vedtak om oppfriskning kan bringes inn for tingretten.
+
+## Kapittel 4 Forskjellige bestemmelser
+
+### § 23. Forholdet til de alminnelige domstoler
+
+Så lenge en sak er til behandling i Forbrukertilsynet eller Forbrukerklageutvalget, kan sakens parter ikke bringe saken inn for de alminnelige domstolene. Saken regnes for å være under behandling fra Forbrukertilsynet mottok klagen til fristen for å klage saken til Forbrukerklageutvalget er utløpt, jf. [§ 13](lov-2020-06-23-98-forbrukerklageloven.md) første ledd, eller til Forbrukerklageutvalget har truffet vedtak i saken.
+
+Om en sak er brakt inn for de alminnelige domstoler, og en part ønsker saken behandlet av Forbrukertilsynet eller Forbrukerklageutvalget, kan retten stanse den videre behandlingen etter begjæring fra parten. Reglene i [tvisteloven § 16-15](lov-2005-06-17-90-tvisteloven.md), [§ 16-18](lov-2005-06-17-90-tvisteloven.md) tredje og fjerde ledd og [§ 16-19](lov-2005-06-17-90-tvisteloven.md) gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av Forbrukertilsynets og Forbrukerklageutvalgets behandling når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing.
+
+Saken bringes i gang igjen i de alminnelige domstolene etter begjæring fra en av partene, tidligst når saken ikke lenger er under behandling i Forbrukertilsynet og Forbrukerklageutvalget, og senest innen én måned etter at utvalgets vedtak er forkynt.
+
+### § 24. Avtaler om voldgift
+
+Avtale om at en sak som omfattes av denne loven, skal avgjøres ved voldgift er ikke til hinder for at saken bringes inn for Forbrukertilsynet og Forbrukerklageutvalget.
+
+### § 25. Offentlig informasjon og nettside
+
+Forbrukertilsynet skal ha en nettside med oppdatert og lett tilgjengelig informasjon om Forbrukertilsynet og Forbrukerklageutvalget og klagebehandlingen i disse organene. Etter anmodning skal de samme opplysningene gis på varig medium, jf. [§ 12](lov-2020-06-23-98-forbrukerklageloven.md) annet ledd annet punktum.
+
+Forbrukerklageutvalgets vedtak skal gjøres tilgjengelige for allmennheten.
+
+Forbrukertilsynet skal utarbeide årsrapport om klagebehandlingen i Forbrukertilsynet og Forbrukerklageutvalget. Rapporten skal oversendes departementet innen 1. mars hvert år. Departementet kan i forskrift fastsette hvilken informasjon som skal gis i årsrapporten og på nettsiden.
+
+## Kapittel 5 Ikrafttredelse, overgangsregler og endringer i andre lover
+
+### § 26. Ikrafttredelse og overgangsregler
+
+Loven gjelder fra den tid[1] Kongen bestemmer. Fra samme tid oppheves [lov 17. februar 2017 nr. 7](https://lovdata.no/lov/2017-02-17-7) om Forbrukerklageutvalget.
+
+Departementet kan fastsette overgangsregler.
+
+### § 27. Endringer i andre lover
+
+Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Fra 1 jan 2021 iflg. res. [23 juni 2020 nr. 1285](https://lovdata.no/forskrift/2020-06-23-1285).

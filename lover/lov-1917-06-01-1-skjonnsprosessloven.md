@@ -1,0 +1,500 @@
+# Lov om skjønn og ekspropriasjonssaker [skjønnsprosessloven]
+
+- **Korttittel:** Skjønnsprosessloven – skjl
+- **Datokode:** LOV-1917-06-01-1
+- **DokumentID:** NL/lov/1917-06-01-1
+- **Departement:** Justis- og beredskapsdepartementet
+- **I kraft fra:** 1927-07-01
+- **Siste endring i kraft:** 2026-10-01
+- **Sist endret ved:** lov 20.06.2025 nr. 82 fra 2026-10-01, lov 19.06.2026 nr. 45 fra 2026-07-01
+- **Rettsområde:** Fast eiendoms rettsforhold > Ekspropriasjon; Fast eiendoms rettsforhold > Skjønn
+- **Siste rettelse:** 2021-07-01 (faglige fotnoter fjernet, struktur, UU-tilpasset)
+- **Merknad:** Lovens tittel endret ved lov 19 des 1975 nr. 70, som også opphevet lovens kap. 3.
+- **Kilde:** <https://lovdata.no/lov/1917-06-01-1>
+
+## 1ste kapitel. Skjøn.
+
+### § 1.
+
+Bestemmelsene i dette kapittel kommer til anvendelse på skjønn som styres av tingretten, samt på skjønn som styres av jordskifteretten i den utstrekning det følger av [jordskiftelova § 5-7](https://lovdata.no/lov/2013-06-21-100/§5-7).
+
+*Endret ved [lover 8 juni 1973 nr. 50](https://lovdata.no/lov/1973-06-08-50), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 2.
+
+De bestemmelser, som er git i tvisteloven første, annen, fjerde, femte og sjette del, med unntak for kapittel 6 og 16 III, samt § 9-6, faar tilsvarende anvendelse paa skjønssaker, forsaavidt dertil er anledning og ikke andet er bestemt ved lov.
+
+Det samme gjælder bestemmelserne i [lov om domstolene §§ 145](lov-1915-08-13-5-domstolloven.md) og [187](lov-1915-08-13-5-domstolloven.md).
+
+*Endret ved [lov 17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 3. (Opphevet)
+
+*Opphevet ved [lov 17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 4.
+
+Skjøn eller takst kan forlanges, naar dette er hjemlet ved lov eller overenskomst.
+
+Er eiendom eller rettighet som ledd i en ekspropriasjon, jfr. [§ 46](lov-1917-06-01-1-skjonnsprosessloven.md), tatt i besittelse uten at erstatningsspørsmålet i sin helhet er avgjort, kan vedkommende eier eller rettighetshaver ved skjønnsbegjæring kreve skjønn til fastsetting av ekspropriasjonserstatningen. Eksproprianten blir i så fall å anse som saksøker.
+
+*Endret ved [lov 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3).*
+
+### § 5.
+
+Når ikke annet er bestemt ved lov, skal skjønnsforretninger holdes av tingretten som herunder tiltres av skjønnsmedlemmer.
+
+En dommerfullmektig kan ikke styre skjønnsforretning uten etter særskilt bemyndigelse eller i uforutsette forfallstilfelle. Bemyndigelse gis av domstoladministrasjonen eller av domstolens leder etter bestemmelser gitt av domstoladministrasjonen.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [16 juni 1989 nr. 64](https://lovdata.no/lov/1989-06-16-64), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](https://lovdata.no/lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](https://lovdata.no/forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 6.
+
+Skjønnsforretningen holdes i den rettskrets hvor gjenstanden for skjønnet befinner seg.
+
+Ligger en fast eiendom eller den del, forretningen gjælder, i flere kredser, eller gjælder forretningen flere sammenstøtende eiendomme i forskjellige kredser, eller er det usikkert, hvilken kreds eiendommen ligger i, fordi grænserne er omtvistet, har saksøkeren valget mellem disse kredser.
+
+Gjælder forretningen ikke en bestemt ting, holdes den i den kreds, hvor saksøkte har sit almindelige verneting. Som saksøkt betragtes den eller de, mot hvem en paastand agtes bygget paa forretningen, eller mot hvem den ellers antages at kunne faa umiddelbar betydning.
+
+*Endret ved [lover 25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 7. (Opphevet)
+
+*Endret ved [lov 25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), opphevet ved [lov 11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 8.
+
+Begjæring om en skjønnsforretning fremsettes ved prosesskriv eller muntlig for den rett som skal styre forretningen.
+
+Begjæringen må oppgi forretningens gjenstand og øyemed og redegjøre for det som trengs for å bedømme om det er adgang til å holde forretningen. Videre bør opplyses om det kreves skjønnsmedlemmer med særlige kvalifikasjoner og i tilfelle hvilke. Motpart oppgis om det kan gjøres.
+
+Kart, tegninger og andre dokumenter som det må antas å være av betydning å få framlagt på et tidlig tidspunkt, skal så vidt mulig følge som vedlegg til skjønnsbegjæringen, eller i tilfelle skjønn er begjært etter [§ 4](lov-1917-06-01-1-skjonnsprosessloven.md) annet ledd, som vedlegg til ekspropriantens uttalelse, jfr. [§ 21](lov-1917-06-01-1-skjonnsprosessloven.md) første ledd. Det samme gjelder utkast til skjønnsforutsetninger dersom det antas nødvendig å oppstille slike.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 9.
+
+Negter en ret at ta begjæringen til følge, træffes avgjørelsen ved kjendelse.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 10.
+
+Blir begjæringen tatt til følge, foretar skjønnsstyreren av eget tiltak de videre skritt til å fremme forretningen, jfr. [§ 21](lov-1917-06-01-1-skjonnsprosessloven.md).
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 11.
+
+Antall skjønnsmedlemmer skal være fire dersom ikke annet er bestemt ved lov. Skjønnet settes med to skjønnsmedlemmer dersom en av partene krever det og skjønnsstyreren finner det ubetenkelig. I særlig vanskelige og omfattende saker settes retten med seks skjønnsmedlemmer dersom partene krever det og skjønnsstyreren finner det påkrevet.
+
+I vidtløftige saker kan skjønnsstyreren bestemme at en eller to varamedlemmer skal følge forhandlingene for å tre inn i retten om noen av skjønnsmedlemmene får forfall.
+
+Får høyst et skjønnsmedlem forfall etter at forhandlingene er begynt i sak, hvor antallet skjønnsmedlemmer er minst 4, kan de gjenværende medlemmer av retten ved enstemmig kjennelse beslutte at behandlingen av saken skal fortsette. Slik beslutning kan bare treffes når det ikke finnes betenkelig av omsyn til rettens sammensetning, jfr. [§ 12](lov-1917-06-01-1-skjonnsprosessloven.md). Kjennelsen kan omgjøres dersom det senere likevel finnes betenkelig av omsyn som nevnt.
+
+Kjennelse etter tredje ledd første punktum kan bare angripes ved anke som erklæres innen tre dager. Anken har oppsettende virkning.
+
+*Endret ved lover 29 mai 1928 nr. 2, 17 juni 1966 nr. 8, [26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), 13 feb 1976 nr. 2, [1 juni 1979 nr. 24](https://lovdata.no/lov/1979-06-01-24), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)), [20 des 2023 nr. 110](lov-2023-12-20-110-endringslov-til-konfliktraadsloven-straffeloven-mv.md) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](https://lovdata.no/forskrift/2024-05-24-811)).*
+
+### § 12.
+
+Skjønnsmedlemmer tas av det utvalg som omhandles i [§ 14](lov-1917-06-01-1-skjonnsprosessloven.md) første ledd. Oppnevnelsen foretas av skjønnsstyreren.
+
+Skjønnsmedlemmer oppnevnes blant dem som har kyndighet i det skjønnet gjelder, med sikte på å få en sammensetning som sikrer en allsidig vurdering og tilstrekkelig kjennskap til lokale forhold.
+
+Er det nødvendig for å få skjønnsmedlemmer med særlig kyndighet på et eller flere områder, kan det oppnevnes medlemmer fra utvalg i andre fylker eller utenfor utvalgene.
+
+Er partene blitt enige om hvilke skjønnsmedlemmer de vil ha, skal som regel disse oppnevnes.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 13.
+
+Når det etter [domstolloven § 20](lov-1915-08-13-5-domstolloven.md) er oppnevnt en særskilt skjønnsstyrer for en forretning som strekker seg gjennom flere kretser, skal de samme skjønnsmedlemmer gjøre tjeneste i alle kretser. Skjønnsmedlemmer oppnevnes av skjønnsstyreren.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 14.
+
+I hvert fylke skal det være et utvalg av skjønnsmedlemmer som oppnevnes av fylkestinget etter forslag fra tingrettene og fra kommunestyrene. Oppnevningen foretas innen 15. oktober året etter hvert kommunestyrevalg, og gjelder for fire år fra 1. januar det påfølgende år. Utvalget skal ha så mange medlemmer fra hvert domssogn som departementet fastsetter. Ved fastsettingen av antallet tas hensyn til hvor mange skjønnssaker det vanligvis er i domssognet.
+
+Ved oppnevningen skal det tas sikte på at utvalget får en allsidig sammensetning, og at de som oppnevnes har kyndighet på et eller flere områder som vanligvis berøres ved skjønn. Reglene i [domstolloven § 70](lov-1915-08-13-5-domstolloven.md), unntatt annet ledd nr. 1 om en øvre aldersgrense, [§§ 71](lov-1915-08-13-5-domstolloven.md) til [74](lov-1915-08-13-5-domstolloven.md) og [§ 79](lov-1915-08-13-5-domstolloven.md) gjelder tilsvarende. Det samme gjelder retten til fritak på grunn av utført tjeneste etter [domstolloven § 90](lov-1915-08-13-5-domstolloven.md) første ledd annet punktum.
+
+Fylkesrådmannen skal innen 1. november året etter hvert kommunestyrevalg sende oppgave over alle skjønnsmedlemmer i det fylkesvise utvalg til tingrettene og jordskifterettene i fylket og til vedkommende lagmannsrett. Oppgaven skal inneholde fullt navn, adresse, fødselsnummer, eventuell telefon til arbeidsted og privat, stilling og yrke, samt angivelse av hva vedkommende er særlig kyndig i.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [22 mai 1981 nr. 24](https://lovdata.no/lov/1981-05-22-24), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [13 mars 1987 nr. 14](https://lovdata.no/lov/1987-03-13-14), [6 des 1991 nr. 80](https://lovdata.no/lov/1991-12-06-80), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [15 juni 2007 nr. 38](https://lovdata.no/lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](https://lovdata.no/forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [25 juni 2010 nr. 47](https://lovdata.no/lov/2010-06-25-47), [21 juni 2013 nr. 82](https://lovdata.no/lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](https://lovdata.no/forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](https://lovdata.no/forskrift/2013-12-13-1449)).*
+
+### § 15.
+
+Sletting av skjønnsmedlemmer fra utvalget, jf [§ 14](lov-1917-06-01-1-skjonnsprosessloven.md), foretas av fylkesrådmannen når et skjønnsmedlem flytter fra fylket eller for øvrig vilkårene for sletting foreligger etter reglene i [domstolloven § 76](lov-1915-08-13-5-domstolloven.md) første eller annet ledd. Før avgjørelse treffes, skal vedkommende skjønnsmedlem så vidt mulig få høve til å uttale seg, og han skal om mulig gis meddelelse om resultatet. Reglene i [domstolloven § 76](lov-1915-08-13-5-domstolloven.md) tredje ledd om klage gjelder tilsvarende. Klagen går til lagmannsretten. Istedenfor et skjønnsmedlem som er slettet, oppnevner fylkesrådmannen en annen.
+
+Beslutning om endringer i skjønnsmedlemutvalget meddeles tingrettene og jordskifterettene i fylket og vedkommende lagmannsrett.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [15 juni 2007 nr. 38](https://lovdata.no/lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](https://lovdata.no/forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [22 apr 2016 nr. 3](https://lovdata.no/lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](https://lovdata.no/forskrift/2016-04-22-407)).*
+
+### § 16.
+
+Ektefeller, foreldre og barn, søsken eller noen, som er i like så nært svogerskap, må ikke ta del i samme forretning som bestyrer eller skjønnsmedlemmer.
+
+*Endret ved [lover 21 juni 1963 nr. 5](https://lovdata.no/lov/1963-06-21-5), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 17.
+
+Om ugildhet for skjønsbestyrere og skjønnsmedlemmer gjælder de samme regler som for dommere.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 18.
+
+Bestyreren sørger for, at de skjønnsmedlemmer, som skal gjøre tjeneste, faar meddelelse om det.
+
+Så vidt mulig bør skjønnsmedlemmene få tre dagers varsel hvis de bor i den by hvor forretningen holdes, og ellers en ukes varsel. I innkallingen skal de gjøres kjent med hvor lang tid forretningen med skjønnskonferansen kan antas å ville ta. Skjønnskonferansene bør holdes i umiddelbar tilknytning til skjønnsforretningen.
+
+Varamedlemmer kan efter omstændighetene tilsiges til at møte eller til at holde sig færdige til at møte. Møter alle skjønnsmedlemmene, kan varamedlemmene straks fritages for at være tilstede.
+
+Uteblir et skjønnsmedlem, eller maa medlemmet fratræde, kan bestyreren i ethvert tilfælde tilkalde et av de skjønnsmedlemmene, som bor nærmest forretningsstedet.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 19.
+
+Hvis et skjønnsmedlem har gyldig fravær, pligter vedkommende at melde det i tide.
+
+Til gyldig fravær medregnes saadanne omstændigheter som, at skjønnsmedlemmet ikke uten fare for helbred eller velfærd eller uten at forsømme vigtige og uopsættelige forretninger eller pligter kunde ha møtt. Av offentlige hverv regnes bare hvervet som medlem av fylkesting samt militær tjeneste og tjeneste ved høiere ret som gyldig fravær.
+
+*Endret ved [lov 17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 20.
+
+Første gang nogen gjør tjeneste som skjønnsmedlem, skal bestyreren foreholde medlemmet de pligter, som paahviler et skjønnsmedlem, og ta imot medlemmets forsikring om, at medlemmet saavel i denne sak som i alle fremtidige saker vil utføre sit hverv som skjønnsmedlem samvittighetsfuldt og efter bedste overbevisning.
+
+*Endret ved [lov 17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 20 a.
+
+Godtgjørelse til skjønnsmedlemmer fastsettes av skjønnsstyreren etter forskrifter gitt av Kongen. Fastsettingen kan ankes etter reglene i [rettshjelpsloven § 27](lov-1980-06-13-35-rettshjelpsloven.md).
+
+*Tilføyd ved [lov 17 des 1982 nr. 86](lov-1982-12-17-86-rettsgebyrloven.md), endret ved [lover 29 juni 1990 nr. 47](https://lovdata.no/lov/1990-06-29-47), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [15 apr 2005 nr. 17](https://lovdata.no/lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](https://lovdata.no/forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)), [20 juni 2025 nr. 82](lov-2025-06-20-82-endringslov-til-rettshjelpsloven-mv.md) (i kraft 1 okt 2026 iflg. [res. 11 sep 2026 nr. 1775](https://lovdata.no/forskrift/2026-09-11-1775)).*
+
+### § 21.
+
+En skjønnsbegjæring som er tatt til følge, skal straks sendes til forkynning for den annen part med en kort frist for å gi uttalelse. Retten skal aktivt styre saksforberedelsen for å oppnå en rask, prosessøkonomisk og forsvarlig saksbehandling ved å ha kontakt med partene og gi nødvendig veiledning. Det skal særlig legges vekt på om det er grunnlag for en minnelig ordning. Etter utløpet av fristen etter første punktum oppnevnes skjønnsmedlemmer. Innen en måned etter fristen skal skjønnsstyreren fastsette tid og sted for hovedforhandling eller et møte til muntlig saksforberedelse. Hovedforhandlingen eller saksforberedelsesmøtet skal holdes så snart som mulig, likevel slik at det som regel gis minst to ukers frist. Omberammelse som medfører utsetting, kan bare finne sted når det foreligger særlige grunner. Etter forhandlinger under muntlig saksforberedelse kan retten avsi skjønn eller avgjøre tvist som nevnt i [§ 26](lov-1917-06-01-1-skjonnsprosessloven.md) dersom den har forsvarlig grunnlag for det og partene har samtykket i slik behandling. Retten kan i samsvar med [tvisteloven § 9-9](lov-2005-06-17-90-tvisteloven.md) tredje og fjerde ledd pålegge partene å avgi skriftlige redegjørelser som inngår i avgjørelsesgrunnlaget.
+
+Fører ikke saksforberedelsesmøtet til at saken i sin helhet blir avgjort eller hevet, fastsettes snarest og senest en måned deretter tid og sted for hovedforhandling. Retten kan fastsette et tidspunkt for avslutning av saksforberedelsen.
+
+Forretningen kan fremmes uten varsel til saksøkte, hvis den ellers vilde bli frugtesløs eller mangelfuld, fordi gjenstanden er utsat for forandring, eller hvis det særlig er bestemt ved lov. Har saksøkte en fuldmægtig paa stedet eller i nærheten, skal dog han om mulig indkaldes. I ethvert fald skal saksøkte eller hans fuldmægtig snarest mulig underrettes om forretningen.
+
+*Endret ved [lover 23 okt 1959 nr. 3](https://lovdata.no/lov/1959-10-23-3), [26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [28 apr 2000 nr. 34](https://lovdata.no/lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](https://lovdata.no/forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 22.
+
+Under skjønnsforretningen skal skjønnsstyreren avklare skjønnsforutsetningene og partenes standpunkter om verdsettingen, og partene skal gjøre rede for sitt syn og føre bevis. Saksøkeren gis som regel ordet før saksøkte. For skjønnsforretningen får [tvisteloven §§ 9-11](lov-2005-06-17-90-tvisteloven.md), [9-13](lov-2005-06-17-90-tvisteloven.md) og [9-14](lov-2005-06-17-90-tvisteloven.md) tilsvarende anvendelse. Om innføring i rettsbok og opptak av forklaringer gjelder tvistelovens regler for hovedforhandling tilsvarende under skjønnsforretningen. Etter avsluttet saksforberedelse gjelder reglene i [tvisteloven § 9-16](lov-2005-06-17-90-tvisteloven.md) for tilbud av nye bevis.
+
+Saksøkte bør gi spesifisert oppgave over hva han krever erstatning for.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 23.
+
+Har en part fravær i saken, og det er oplyst eller sandsynlig, at han har gyldig fravær, skal forretningen utsættes, enten motparten møter eller ikke møter. Dog skal den fremmes, hvis der er fare eller uforholdsmæssig ulempe ved ophold, eller hvis motparten møter, og den som ikke møter har samtykket i, at forretningen fremmes.
+
+Har saksøkeren fravær i saken, uten at det er oplyst eller sandsynlig, at han har gyldig fravær, skal saken avvises, dersom ikke saksøkte møter og kræver saken fremmet.
+
+Har saksøkte fravær i saken, uten at det er oplyst eller sandsynlig, at han har gyldig fravær, men saksøkeren møter, skal forretningen efter hans forlangende fremmes eller utsættes.
+
+*Endret ved [lov 17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 24. (Opphevet)
+
+*Endret ved [lover 14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), opphevet ved [lov 11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 25. (Opphevet)
+
+*Endret ved [lover 14 juni 1985 nr. 71](https://lovdata.no/lov/1985-06-14-71), [7 apr 1995 nr. 15](https://lovdata.no/lov/1995-04-07-15), opphevet ved [lov 11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 26.
+
+Tvist om retten til og betingelserne for skjønsforretningens fremme eller om, hvad der skal være gjenstand for skjøn, avgjøres under forretningen.
+
+### § 27.
+
+I alle avgjørelser under forretningen tar saavel bestyreren som skjønnsmedlemmene del.
+
+Avgjørelsene treffes med stemmeflerhet når ikke annet er bestemt ved lov. Er der fler end to meninger, naar pengebeløp eller andre størrelser skal fastsættes, og ingen har stemmeflerhet, legges stemmerne for høiere beløp eller størrelser sammen med stemmerne for de nærmest følgende, til der blir flertal.
+
+*Endret ved lover 13 feb 1976 nr. 2, [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 28.
+
+I skjønnsgrunnene skal det gjøres greie for det rettslige grunnlag skjønnet er bygd på og faktiske omstendigheter og andre forhold av vesentlig betydning for avgjørelsen.
+
+Skjønsgrundene skal i alle tilfælde oplyse, om skjønnet er enstemmig, eller, hvis det ikke er tilfældet, hvilke av skjønsmyndighetens medlemmer er uenige i skjønsresultatet, og hvilke punkter uenigheten gjælder.
+
+Det eller de medlemmer, som ikke er enige i skjønsresultatet eller skjønsgrundene, kan kræve indtat i disse en redegjørelse for sin mening.
+
+*Endret ved [lov 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3).*
+
+### § 29.
+
+Bestyreren sørger for at skjønnet, så vel dets slutning som grunnene, snarest mulig blir forkynt for parterne. Angår skjønnet flere saksøkere eller flere saksøkte, er det tilstrekkelig å forkynne for hver enkelt part den del av skjønnets slutning og av skjønnsgrunnene som kan ha betydning for hans rettsstilling.
+
+Forkynnelsen kan foregå gjennom rekommandert brev.
+
+*Endret ved lover 20 juni 1952 nr. 6, [9 jan 1998 nr. 5](https://lovdata.no/lov/1998-01-09-5).*
+
+### § 30.
+
+Kjendelser og beslutninger som træffes under en retslig skjønsforretning kan ikke ankes av parterne uten i følgende tilfælde:
+
+1. naar de avviser saken eller hæver, stanser eller utsætter den, eller naar de forkaster en avvisningspaastand i tilfælde, hvor retsmøtet paa forhaand er begrænset til avvisningsspørsmaalet;
+2. naar de angaar straf-, omkostnings- eller erstatningsansvar eller tredjemands pligt til at avgi forklaring eller forsikring, at gi tilgang til realbevis eller at gjøre tjeneste som sakkyndig.
+3. Når kjennelsen tillater fortsatt behandling av saken i forfallstilfelle, jfr. [§ 11](lov-1917-06-01-1-skjonnsprosessloven.md) tredje og fjerde ledd.
+
+*Endret ved lover 13 feb 1976 nr. 2, [14 juni 1985 nr. 71](https://lovdata.no/lov/1985-06-14-71), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 31. (Opphevet)
+
+*Endret ved lover 29 mai 1928 nr. 2, [18 juni 1965 nr. 5](https://lovdata.no/lov/1965-06-18-5), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [28 apr 2000 nr. 34](https://lovdata.no/lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](https://lovdata.no/forskrift/2000-04-28-366)), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), opphevet ved [lov 11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 32.
+
+Skjønn kan overprøves ved overskjønn når ikke annet er bestemt ved lov.
+
+Selvstendige deler av et skjønn kan overprøves særskilt.
+
+For samtykke til fremme av overskjønn for lagmannsretten gjelder bestemmelsene i [tvisteloven § 29-13](lov-2005-06-17-90-tvisteloven.md) første, tredje og femte ledd jf. [kapittel 17](lov-2005-06-17-90-tvisteloven.md) tilsvarende så langt de passer.
+
+Når den ene part begjærer overskjønn over deler av et skjønn, får også den annen part rett til å begjære overskjønn, selv om kravet til ankegjenstandens verdi ikke er oppfylt eller fristen til å begjære overskjønn er oversittet. Slik aksessorisk begjæring må framsettes innen den frist som fastsettes etter [§ 33 a](lov-1917-06-01-1-skjonnsprosessloven.md) første ledd. Bestemmelsene i [tvisteloven § 29-7](lov-2005-06-17-90-tvisteloven.md) tredje og fjerde ledd gjelder tilsvarende så langt de passer.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88). Endret ved [lover 27 juni 1986 nr. 48](https://lovdata.no/lov/1986-06-27-48), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 33.
+
+Begjæring om overskjønn må nevne:
+
+1. den rett overskjønnet hører under, partene i overskjønnssaken og i tilfelle deres lovlige stedfortredere,
+2. det underskjønn som kreves overprøvd,
+3. om det er hele underskjønnets avgjørelse eller bare deler av den som kreves overprøvd,
+4. de feil ved avgjørelsen som begjæringen om overskjønn grunnes på, og
+5. de omstendigheter som er avgjørende for retten til å kreve overskjønn.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), endret ved [lover 28 apr 2000 nr. 34](https://lovdata.no/lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](https://lovdata.no/forskrift/2000-04-28-366)), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 33 a.
+
+Begjæring om overskjønn framsettes for den retten som har avsagt underskjønnet. Begjæringen forkynnes for motparten, og det settes samtidig frist for uttalelse. Fristen bør normalt være tre uker.
+
+Etter utløpet av fristen sendes sakens dokumenter til lagmannsretten når overskjønnet hører under denne rett. Er det kommet inn uttalelse fra den annen part, skal denne meddeles den som har begjært overskjønn.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), endret ved [lover 28 apr 2000 nr. 34](https://lovdata.no/lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](https://lovdata.no/forskrift/2000-04-28-366)), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 34.
+
+Overskjønn over rettslig skjønn hører under lagmannsretten, som settes med en av rettens dommere hvis ikke førstelagmannen av særlige grunner finner det nødvendig at tre dommere deltar.
+
+Førstelagmannen kan bestemme at en jordskiftelagdommer kan delta og styre overskjønn etter første ledd når skjønnet er behandlet av jordskifteretten. Det samme gjelder når skjønnet er behandlet av tingretten med unntak av skjønn etter
+
+1. [lov 22. mars 2019 nr. 7 om mineralvirksomhet på kontinentalsokkelen § 5-6](lov-2019-03-22-7-havbunnsmineralloven.md)
+2. [lov 16. desember 2011 nr. 65 om næringsberedskap § 18](lov-2011-12-16-65-naeringsberedskapsloven.md)
+3. [lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret § 27](lov-2010-06-25-45-sivilbeskyttelsesloven.md)
+4. [lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap § 3-3](lov-2000-06-23-56-helseberedskapsloven.md)
+5. [lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 5-6](lov-1996-11-29-72-petroleumsloven.md)
+6. [lov 24. juni 1994 nr. 39 om sjøfarten kapittel 18](lov-1994-06-24-39-sjoloven.md) III, og
+7. [lov 26. juni 1953 nr. 8 om oppfinnelser av betydning for rikets forsvar § 9](lov-1953-06-26-8-lov-om-forsvarsviktige-oppfinnelser.md).
+
+Under skjønnsforretningen tiltrer skjønnsmedlemmer i samme antall som ved underskjønnet. Når en part krever det og rettens leder finner det påkrevet, kan antallet skjønnsmedlemmer økes til fire ved overskjønn over skjønn med to skjønnsmedlemmer og til seks ved overskjønn over skjønn med fire skjønnsmedlemmer. Når tre dommere deltar, avgjør rettens leder om det skal være med to eller fire skjønnsmedlemmer.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), endret ved [lover 2 juni 1995 nr. 26](https://lovdata.no/lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](https://lovdata.no/forskrift/1995-06-02-514)), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)), [9 juni 2023 nr. 32](https://lovdata.no/lov/2023-06-09-32) (i kraft 1 juli 2023 iflg. [res. 9 juni 2023 nr. 829](https://lovdata.no/forskrift/2023-06-09-829)).*
+
+### § 35.
+
+Under overskjønnet kan hver av partene inndra nye skjønnskrav som står i sammenheng med et tidligere innbragt skjønnskrav:
+
+1. når det gjøres sannsynlig at utvidelsen har sin grunn i omstendigheter som først senere er inntrådt eller blitt parten bekjent; eller
+2. når motparten samtykker; eller
+3. når motpartens stilling ikke vil bli vesentlig vanskeliggjort ved forandringen.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88).*
+
+### § 36.
+
+For øvrig får de regler som foran er gitt om rettslig skjønn, også anvendelse på overskjønn så langt de passer. Tvistelovens bestemmelser om anke i [§§ 29-6](lov-2005-06-17-90-tvisteloven.md), [29-10](lov-2005-06-17-90-tvisteloven.md) første ledd, [29-16](lov-2005-06-17-90-tvisteloven.md) annet til fjerde ledd og [29-19](lov-2005-06-17-90-tvisteloven.md) gjelder tilsvarende så langt de passer.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), endret ved [lov 17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 37.
+
+Underskjønnet faller bort så langt overskjønn blir avsagt.
+
+Er underskjønnet avsagt av feil skjønnsmyndighet, kan saken fremmes til avgjørelse dersom retten er rett domstol for overprøving og hensynet til partene ikke tilsier ny prøving av rett skjønnsmyndighet. Ellers skal skjønnet oppheves på grunn av feilen. Etterpå sendes da saken til rett skjønnsmyndighet, eller skjønnet avvises dersom det ikke er adgang til fortsatt behandling.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), endret ved [lover 30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 38.
+
+Et overskjønn kan bare ankes på grunn av feil i rettsanvendelsen eller den saksbehandling som ligger til grunn for avgjørelsen. Anken behandles etter reglene om anke over dommer i [tvisteloven kapittel 29](lov-2005-06-17-90-tvisteloven.md) eller [30](lov-2005-06-17-90-tvisteloven.md).
+
+*Endret ved lover 25 feb 1927, [26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 39.
+
+Ved fortsatt behandling av et opphevet skjønn skal skjønnsmyndigheten sammensettes med annen skjønnsstyrer og andre skjønnsmedlemmer med mindre partene erklærer at de ikke ønsker dette. Statsforvalteren oppnevner om nødvendig den nye skjønnsstyrer.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), endret ved [lover 17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+### § 40.
+
+En skjønsforretning kan forlanges gjenåpnet efter reglerne i [tvisteloven kapittel 31](lov-2005-06-17-90-tvisteloven.md).
+
+Det, som der er bestemt om dommere og domme, faar tilsvarende anvendelse paa skjønsmedlemmer og skjøn.
+
+*Endret ved [lover 17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 41.
+
+En avgjørelse truffet i en skjønnsforretning har virkning som en dom. [Tvisteloven § 19-13](lov-2005-06-17-90-tvisteloven.md) tredje og fjerde ledd gjelder tilsvarende.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [26 juni 1992 nr. 86](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 42.
+
+Ved skjønn i forbindelse med at det gjøres gjeldende rett til forkjøp, innløsning, avløsning eller lignende inngrep, skal den som har interesse av inngrepet erstatte motparten hans nødvendige utgifter i anledning saken. Det samme gjelder saker om erstatning for innskrenkninger i rådigheten over fast eiendom og saker om grunneierens krav på å få slik eiendom innløst.
+
+Retten kan helt eller delvis gjøre unntak fra bestemmelsene i første ledd når den som utsettes for inngrepet har avslått et rimelig forlikstilbud eller begjært skjønn uten rimelig grunn.
+
+For øvrig gjelder [§§ 54 a](lov-1917-06-01-1-skjonnsprosessloven.md) og [54 b](lov-1917-06-01-1-skjonnsprosessloven.md) tilsvarende så langt de passer.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88).*
+
+### § 43.
+
+I andre saker enn de som er nevnt i [§ 42](lov-1917-06-01-1-skjonnsprosessloven.md), avgjøres spørsmålet om dekning av omkostningene etter reglene i [tvisteloven kapittel 20](lov-2005-06-17-90-tvisteloven.md).
+
+I saker hvor ingen av partene etter rettens mening kan sies å ha vunnet, avgjør retten i hvilken utstrekning den ene parten helt eller delvis skal erstatte motparten hans nødvendige utgifter i anledning skjønnssaken. Det skal her særlig legges vekt på om parten har avslått et rimelig forlikstilbud og om han ellers har forlangt skjønn uten rimelig grunn.
+
+*Endret ved [lover 4 des 1964 nr. 2](https://lovdata.no/lov/1964-12-04-2), [26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [19 juni 2026 nr. 45](lov-2026-06-19-45-endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m.md) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](https://lovdata.no/forskrift/2026-06-19-1146)).*
+
+### § 44. (Opphevet)
+
+*Opphevet ved [lov 26 juni 1992 nr. 86](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md).*
+
+### § 45. (Opphevet)
+
+*Endret ved [lover 14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), opphevet ved [lov 11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+## 2net kapitel. Ekspropriationssaker.
+
+### § 46.
+
+Naar ekspropriation kræves i henhold til lov eller en tilladelse, som er git av Kongen eller en anden myndighet, indledes ekspropriationssaken med et skjøn, som fastsætter erstatningen, hvis ikke andet er bestemt ved lov eller avtalt mellem parterne.
+
+I de tilfælde, hvor retten til ekspropriation eller dennes utstrækning er avhængig av skjøn over forhold, som staar i forbindelse med foretagendet, fastsættes ogsaa erstatningen under dette skjøn, hvis ikke andet er bestemt ved lov eller avtalt mellem parterne.
+
+### § 47.
+
+Skjønnet fremmes efter de bestemmelser, som er gitt i første kapitel, hvis ikke andet er bestemt ved lov. Kongen kan fastsette at skjønn i ekspropriasjonssaker skal høre under en annen tingrett i fylket enn den ellers kompetente.
+
+*Endret ved [lover 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)).*
+
+### § 48.
+
+Oppstår det under en skjønnsforretning som styres av en dommer, tvist om retten til og betingelsene for ekspropriasjon eller om hva som er gjenstand for ekspropriasjon, avgjøres tvisten under skjønnsforretningen.
+
+En kjennelse hvorved saken som følge av en slik tvist nektes fremmet, er gjenstand for anke etter reglene for anke over dommer.
+
+*Endret ved [lover 23 okt 1959 nr. 3](https://lovdata.no/lov/1959-10-23-3), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)).*
+
+### § 49. (Opphevet)
+
+*Endret ved [lover 23 okt 1959 nr. 3](https://lovdata.no/lov/1959-10-23-3), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), opphevet ved [lov 11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 50.
+
+Avgjørelse av tvist etter [§ 48](lov-1917-06-01-1-skjonnsprosessloven.md) kan bare angripes ved begjæring om overskjønn når avgjørelsen går ut på å fremme saken.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), endret ved [lov 11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 51. (Opphevet)
+
+*Endret ved lov 23 okt 1959 nr. 16, opphevet ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88).*
+
+### § 52.
+
+Oppstår det slik tvist som nevnt i [§ 48](lov-1917-06-01-1-skjonnsprosessloven.md) og skjønnet blir fremmet, kan hver part kreve at det blir gitt alternative takster på grunnlag av forskjellige påstander. Selv om det ikke oppstår tvist etter [§ 48](lov-1917-06-01-1-skjonnsprosessloven.md), kan det avgis alternative takster, når en part begjærer det og retten samtykker.
+
+*Endret ved [lover 23 okt 1959 nr. 3](https://lovdata.no/lov/1959-10-23-3), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 53.
+
+Når et skjønn er blitt endelig, kan eksproprianten kreve å bli satt i besittelse av tingen mot å utbetale erstatningsbeløpet.
+
+Kan erstatningsbeløpet ikke utbetales, fordi tingen er beheftet eller beslaglagt eller av andre grunner, skal beløpet deponeres i Norges Bank. [Lov 17 februar 1939 nr 2](https://lovdata.no/lov/1939-02-17-2) om deponering i gjeldshøve gjelder tilsvarende så langt den passer. Er staten saksøker, behøver den ikke å gi beløpet i forvaring. Ved utbetaling av beløpet legges da til en rente på 10 pst p.a., dog ikke lenger enn i 10 år. Kongen kan fastsette en høyere eller lavere rente.
+
+*Endret ved lover 29 mai 1928 nr. 2, [21 juni 1935 nr. 8](https://lovdata.no/lov/1935-06-21-8), [23 okt 1959 nr. 3](https://lovdata.no/lov/1959-10-23-3), [26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 des 1976 nr. 100](lov-1976-12-17-100-forsinkelsesrenteloven.md), [12 juni 1981 nr. 67](https://lovdata.no/lov/1981-06-12-67), [26 juni 1992 nr. 86](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md).*
+
+### § 54.
+
+Saksøkeren skal erstatte saksøkte nødvendige utgifter i anledning av skjønnssaken.
+
+Ved avgjørelsen av spørsmålet om utgiftene har vært nødvendige, skal retten blant annet ha for øye at de saksøkte til varetakelse av likeartede interesser som ikke står i strid, bør nytte samme juridiske og tekniske bistand. Vil saksøkeren pårope denne bestemmelse, må han ta spørsmålet opp snarest mulig under saken.
+
+Saksøkte kan kreve at saksøkeren under saken betaler saksøktes nødvendige utgifter i anledning saken etter reglene i [lov om oreigning av fast eigedom § 15](https://lovdata.no/lov/1959-10-23-3/§15) tredje og fjerde ledd. Rettens avgjørelse om dette treffes ved kjennelse.
+
+*Endret ved lover 20 juni 1952 nr. 6, [23 okt 1959 nr. 3](https://lovdata.no/lov/1959-10-23-3), [26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3), [17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)).*
+
+### § 54 a.
+
+Ved overskjønn som alene er begjært av saksøkte, gjelder bestemmelsene i [§ 54](lov-1917-06-01-1-skjonnsprosessloven.md) første ledd bare
+
+a. når han ved overskjønnet oppnår en bedre avgjørelse enn ved underskjønnet, eller
+b. når retten finner at underskjønnet lider av slike feil eller avgjørelsen er så tvilsom at han hadde rimelig grunn til å begjære overskjønn.
+
+Ved avgjørelsen av om saksøkte har oppnådd en bedre avgjørelse skal det foretas en totalvurdering hvor det blant annet tas hensyn til eventuelle endringer i inngrepets karakter og omfang. Det skal ses bort fra økning i erstatningen som bare skyldes alminnelig prisstigning på fast eiendom.
+
+Finner retten at det var åpenbart urimelig av saksøkte å begjære overskjønn, kan den pålegge ham helt eller delvis å erstatte saksøkerens saksomkostninger.
+
+Er overskjønn begjært av begge parter, gjelder bestemmelsene i første til tredje ledd for den del av overskjønnet som er fremmet bare etter begjæring av saksøkte.
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88).*
+
+### § 54 b.
+
+Ved anke fra saksøkerens side gjelder bestemmelsene i [§ 54](lov-1917-06-01-1-skjonnsprosessloven.md). Tilsvarende gjelder når det er saksøkte som anker, dersom han helt eller i det vesentlige får medhold. Ellers avgjøres spørsmålet om erstatning av saksomkostninger etter reglene i [tvisteloven kapittel 20](lov-2005-06-17-90-tvisteloven.md).
+
+*Tilføyd ved [lov 17 des 1982 nr. 88](https://lovdata.no/lov/1982-12-17-88), endret ved [lover 14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+### § 55.
+
+Når den ekspropriasjonsberettigede i henhold til særskilt lovbestemmelse kan kreve å bli satt i besittelse av tingen før erstatningen er bestemt, er fravikelseskravet særlig tvangsgrunnlag for fullbyrding gjennom namsmyndighetene etter [tvangsfullbyrdelsesloven kapittel 13](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md).
+
+*Endret ved [lov 26 juni 1992 nr. 86](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md).*
+
+### § 56. (Opphevet)
+
+*Opphevet ved [lov 26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3).*
+
+### § 57.
+
+Begjæring om fullbyrding av et skjønn etter [§ 53](lov-1917-06-01-1-skjonnsprosessloven.md) må framsettes innen ett år etter at det er avgitt, dog slik at begjæringen om fullbyrding alltid kan framsettes innen tre måneder etter at skjønnet er blitt endelig, om ikke en annen frist er fastsatt ved lov. Ellers kan ekspropriasjonen ikke foretas uten etter nytt skjønn i henhold til ny ekspropriasjonstillatelse.
+
+*Endret ved lover 20 juni 1952 nr. 6, [23 okt 1959 nr. 3](https://lovdata.no/lov/1959-10-23-3), [26 jan 1973 nr. 3](https://lovdata.no/lov/1973-01-26-3).*
+
+### § 58.
+
+Iverksættes ikke ekspropriation efter et optat ekspropriationsskjøn, skal saksøkeren i alle tilfælde erstatte saksøkte de utgifter, som har været nødvændige til varetagelse av hans tarv under saken, naar begjæring derom fremsættes inden tre maaneder, efterat han har faat meddelelse om frafaldelsen av ekspropriationen, eller senest innen tre maaneder efter utløpet av fristen for begjæring om fuldbyrdelse av en ekspropriation.
+
+Erstatningen fastsettes av skjønnsstyreren ved kjennelse.
+
+*Endret ved [lover 14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov-2005-06-17-90-tvisteloven.md) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](https://lovdata.no/forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](https://lovdata.no/lov/2007-01-26-3)), [11 mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](https://lovdata.no/forskrift/2017-05-11-563)).*
+
+## 3dje kapitel. Odelsløsning.
+
+*Opphevet ved [lov 19 des 1975 nr. 70](https://lovdata.no/lov/1975-12-19-70).*
+
+## Slutningsbestemmelse.
+
+Tiden for denne lovs ikraftræden[1] fastsættes ved særskilt lov.
+
+## Fotnoter
+
+**1.** Fra 1 juli 1927, ved lov 25 feb 1927 nr. 4 avsnitt VII.

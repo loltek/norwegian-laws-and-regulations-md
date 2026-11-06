@@ -1,0 +1,63 @@
+# Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold
+
+- **Datokode:** LOV-2026-06-12-25
+- **DokumentID:** NL/lov/2026-06-12-25
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Kunngjort:** 2026-06-12 11:55
+- **I kraft fra:** 2026-07-01
+- **Rettsområde:** Familie-, person- og barnerett > Personrett. Personvern; Pensjons- og trygderett > Utenfor folketrygdloven > Sosiale tjenester; Strafferett > Vold
+- **Merknad:** Prop. 69 L (2025–2026), Innst. 307 L (2025–2026), Lovvedtak 49 (2025–2026). Stortingets første og andre gangs behandling hhv. 28. mai og 2. juni 2026. Fremmet av Arbeids- og inkluderingsdepartementet.
+- **Kilde:** <https://lovdata.no/lov/2026-06-12-25>
+
+## § 1. Formål
+
+Formålet med loven er å forebygge og hindre at personer blir utsatt for negativ sosial kontroll og æresmotivert vold, og sørge for at utsatte personer får nødvendig bistand.
+
+Loven skal også sikre kvaliteten i den særskilte innsatsen mot negativ sosial kontroll og æresmotivert vold nevnt i denne loven og ivareta personvern.
+
+## § 2. Definisjoner
+
+Med negativ sosial kontroll menes i denne loven bruk av press, oppsyn, trusler, tvang eller annet som systematisk begrenser noen i sin livsutfoldelse eller gjentatte ganger hindrer personer i å ta selvstendige valg om eget liv og egen fremtid.
+
+Med æresmotivert vold menes i denne loven vold i nære relasjoner, frihetsberøvelse, trusler, psykisk vold eller mishandling og drap utført med sikte på å forebygge tap av ære eller gjenopprette ære i en familie eller gruppe samt tvangsekteskap og kjønnslemlestelse.
+
+## § 3. Særskilt innsats mot negativ sosial kontroll og æresmotivert vold
+
+Følgende grupper kan yte en særskilt innsats for å forebygge og hindre negativ sosial kontroll og æresmotivert vold og gi bistand til utsatte personer:
+
+a. et nasjonalt tverretatlig kompetanseteam som
+   1. gir veiledning til ansatte i tjenesteapparatet, frivillige organisasjoner og andre aktører
+   2. gir veiledning og annen bistand til personer som er, eller står i fare for å bli, utsatt for negativ sosial kontroll eller æresmotivert vold
+   3. administrerer og koordinerer tilskuddsordninger og støttetilbud for personer som nevnt i nr. 2.
+b. rådgivere som har særlig kompetanse om negativ sosial kontroll og æresmotivert vold, og som er utplassert ved skoler eller andre opplæringssentre og som gir råd, veiledning og bistand til personer som er, eller står i fare for å bli, utsatt for negativ sosial kontroll eller æresmotivert vold.
+c. spesialutsendinger for integreringssaker ved utvalgte norske utenriksstasjoner som gir råd, veiledning og bistand i saker om negativ sosial kontroll eller æresmotivert vold.
+
+Departementet kan gi forskrift om oppgavene som nevnt i første ledd og hvilke offentlige organer som utfører oppgavene, og om tilskuddsordninger, støttetilbud og annen bistand for personer i målgruppen for den særskilte innsatsen.
+
+## § 4. Behandling av personopplysninger
+
+Offentlige organer som utfører oppgaver etter [§ 3](lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md) første eller andre ledd, kan behandle personopplysninger, også personopplysninger nevnt i [personvernforordningen artikkel 9](lov-2018-06-15-38-personopplysningsloven.md) og [10](lov-2018-06-15-38-personopplysningsloven.md), når det er nødvendig for å utføre oppgavene.
+
+Personopplysninger skal så langt som mulig innhentes i samarbeid med personen som ber om bistand, eller slik at personen har kjennskap til innhentingen.
+
+Innsamlede personopplysninger kan benyttes til utarbeidelse av analyser for innsikt og utvikling når det er nødvendig og formålet ikke kan oppnås ved bruk av anonymiserte opplysninger.
+
+Departementet kan gi forskrift om behandlingen av personopplysninger etter denne loven, blant annet om krav til behandlingen, hvilke offentlige organer som kan behandle personopplysninger etter første ledd, hvilke personopplysninger som kan behandles, og om bruk av personopplysninger til analyser og statistikk.
+
+## § 5. Deling av taushetsbelagte opplysninger
+
+Offentlige organer som utfører oppgaver etter [§ 3](lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md) første eller andre ledd, kan uten hinder av lovbestemt taushetsplikt dele opplysninger med hverandre, og med offentlige organer som ikke har oppgaver etter denne loven, når det er nødvendig for å utføre oppgavene.
+
+Private som utfører oppgaver for staten, fylkeskommune eller kommune, og privatskoler godkjent etter [privatskolelova](https://lovdata.no/lov/2003-07-04-84) eller [opplæringslova § 22-1](https://lovdata.no/lov/2023-06-09-30/§22-1) skal regnes som offentlige organer etter første ledd.
+
+Dersom det er tilstrekkelig for å oppnå formålet, skal individualiserende kjennetegn utelates ved deling av personopplysninger.
+
+Departementet kan gi forskrift om deling av personopplysninger etter denne loven, blant annet om ytterligere vilkår for deling av opplysninger etter første ledd og hvilke offentlige organer det kan deles opplysninger til.
+
+## § 6. Ikrafttredelse
+
+Loven trer i kraft fra det tidspunktet[1] Kongen bestemmer.
+
+## Fotnoter
+
+**1.** Fra 1. juli 2026 iflg. [res. 12 juni 2026 nr. 1075](https://lovdata.no/forskrift/2026-06-12-1075).

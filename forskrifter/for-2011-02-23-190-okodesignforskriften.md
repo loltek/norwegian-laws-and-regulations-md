@@ -1,0 +1,485 @@
+# Forskrift om miljøvennlig utforming av energirelaterte produkter (økodesignforskriften)
+
+- **Korttittel:** Økodesignforskriften
+- **Datokode:** FOR-2011-02-23-190
+- **DokumentID:** SF/forskrift/2011-02-23-190
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Norges vassdrags- og energidirektorat (NVE), Energi- og vannressursavdelingen, Forurensningsavdelingen
+- **Hjemmel:** lov 11.06.1976 nr. 79/§4; lov 11.06.1976 nr. 79/§4a; lov 11.06.1976 nr. 79/§8; lov 25.06.2024 nr. 69/§3; lov 25.06.2024 nr. 69/§5; forskrift 20.08.1999 nr. 949; forskrift 12.10.2010 nr. 1894; forskrift 20.12.2024 nr. 3500
+- **Publisert i:** I 2011 hefte 2
+- **Kunngjort:** 2011-02-25 14:40
+- **I kraft fra:** 2011-03-01
+- **Siste endring i kraft:** 2026-07-24
+- **Sist endret ved:** forskrift 05.03.2026 nr. 354 fra 2026-07-24
+- **Endrer:** forskrift 20.08.1999 nr. 956; forskrift 12.03.2002 nr. 259
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2018-05-09 (to forordninger tilføyd)
+- **Merknad:** Hjemmel: Fastsatt av Norges vassdrags- og energidirektorat 23. februar 2011 med hjemmel i lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4a, § 4 og § 8. jf. delegeringsvedtak 20. august 1999 nr. 949, jf. delegeringsvedtak 12. oktober 2010 nr. 1894. Tilføyd hjemmel: Lov 25. juni 2024 nr. 69 om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven) § 3, § 5, delegeringsvedtak 20. desember 2024 nr. 3500. EØS-henvisninger: EØS-avtalen vedlegg IV nr. 26 (direktiv 2009/125/EF), nr. 26b (forordning (EU) nr. 206/2012 som endret ved forordning (EU) 2016/2282), nr. 26c (forordning (EU) 2019/2023 som endret ved forordning (EU) 2021/341), nr. 26d (forordning (EU) 2019/2022, som endret ved forordning (EU) 2021/341), nr. 37 (forordning (EF) nr. 641/2009 som endret ved forordning (EU) nr. 622/2012, forordning (EU) 2016/2282 og forordning (EU) 2019/1781), nr. 26g (forordning (EU) nr. 547/2012 som endret ved forordning (EU) 2016/2282), nr. 26f (forordning (EU) nr. 932/2012 som endret ved forordning (EU) 2016/2282), nr. 26h (forordning (EU) 2019/2020, som endret ved forordning (EU) 2021/341), nr. 26i (forordning (EU) nr. 548/2014 som endret ved forordning (EU) 2016/2282 og forordning (EU) 2019/1783), nr. 26j (forordning (EU) nr. 617/2013 som endret ved forordning (EU) 2016/2282 og forordning (EU) 2019/424), nr. 26k (forordning (EU) nr. 666/2013 som endret ved forordning (EU) 2016/2282), nr. 26l (forordning (EU) nr. 66/2014 som endret ved forordning (EU) 2016/2282), nr. 26m (forordning (EU) nr. 1253/2014 som endret ved forordning (EU) 2016/2282 og som rettet ved forordning (EU) 2020/1000), nr. 26n (forordning (EU) 2015/1185 som endret ved forordning (EU) 2016/2282), nr. 26o (forordning (EU) 2015/1189 som endret ved forordning (EU) 2016/2282), nr. 26p (forordning (EU) 2015/1095 som endret ved forordning (EU) 2016/2282), nr. 26r (forordning (EU) 2016/2281, som endret ved forordning (EU) 2016/2282), nr. 26s (forordning (EU) nr. 813/2013, som endret ved forordning (EU) 2016/2282), nr. 26t (forordning (EU) 2019/1781, som endret ved forordning (EU) 2021/341), 26u (forordning (EU) 2019/1782), nr. 26v (forordning (EU) 2019/424, som endret ved forordning (EU) 2021/341), nr. 26w (forordning (EU) 2019/2019, som endret ved forordning (EU) 2021/341), nr. 26x (forordning (EU) 2019/2021, som endret ved forordning (EU) 2021/341), nr. 26y (forordning (EU) 2019/2024, som endret ved forordning (EU) 2021/341), nr. 26z (forordning (EU) 2019/1784) og EØS-avtalen vedlegg II kap. IV nr. 6za, jf. vedlegg IV nr. 26zb (forordning (EU) 2023/826), nr. 6zb, jf. vedlegg IV nr. 26zc (forordning (EU) 2023/1670), nr. 6zc, jf. vedlegg IV nr. 26zd (forordning (EU) 2024/1103, vedlegg IV nr. 26za (forordning (EU) 2024/1834) og vedlegg II kapittel IV nr. 6z (forordning (EU) 2024/1834). Endret ved forskrifter 21 des 2011 nr. 1476, 20 des 2012 nr. 1389, 7 feb 2013 nr. 152, 31 mai 2013 nr. 557, 5 sep 2013 nr. 1061, 28 mai 2014 nr. 683, 22 juni 2015 nr. 749, 18 des 2015 nr. 1781, 2 mars 2016 nr. 231, 24 april 2016 nr. 438, 20 juni 2016 nr. 738, 2 nov 2017 nr. 1710, 21 aug 2018 nr. 1258, 6 okt 2020 nr. 1977, 12 feb 2025 nr. 231, 19 des 2025 nr. 2799 (i kraft 1 jan 2026, bl.a EØS-henvisninger), 5 mars 2026 nr. 354 (i kraft 24 juli 2026). Rettelser: 15.04.2011 (forordning (EU) 1275/2008), 01.04.2013 (forordninger i pdf tilføyd), 10.10.2013 (forordninger i pdf tilføyd), 01.09.2015 (forordninger i pdf tilføyd), 11.02.2016 (forordninger i pdf tilføyd), 23.03.2016 (forordninger i pdf tilføyd eller erstattet), 01.07.2016 (forordninger tilføyd), 01.10.2016 (overskrifter til forordninger slettet), 25.08.2017 (to forordninger oppdatert til off. versjon), 09.05.2018 (to forordninger tilføyd).
+- **Kilde:** <https://lovdata.no/forskrift/2011-02-23-190>
+
+## Kapittel 1. Formål, definisjoner, anvendelsesområde mv.
+
+### § 1. Forskriftens formål
+
+Forskriften skal fremme utvikling og anvendelse av energieffektive og miljøvennlige energirelaterte produkter for å bidra til å begrense energibruken og belastningen på miljøet i hele produktenes livssyklus.
+
+Forskriften fastsetter rammene for fastleggelsen av de produktspesifikke regler for miljøvennlig utforming av energirelaterte produkter og har som tilleggsformål å sikre den frie bevegelighet av energirelaterte produkter innenfor EØS.
+
+### § 2. Virkeområde
+
+Forskriften får anvendelse på energirelaterte produkter med tilhørende komponenter og delkomponenter.
+
+Med komponenter og delkomponenter menes deler hvis miljøvirkning ikke kan vurderes selvstendig, samt deler som er beregnet for å inngå i produkter og som ikke kan bringes i omsetning eller tas i bruk som særskilte deler til sluttbrukere.
+
+Forskriften får ikke anvendelse på transportmidler til befordring av personer eller varer.
+
+### § 3. Definisjoner
+
+I forskriften forstås med:
+
+1. *energirelatert produkt:* ethvert produkt som bringes i omsetning eller tas i bruk og som ved anvendelse innvirker på energibruken, herunder deler som har miljøvirkning som kan vurderes selvstendig og som er beregnet til å inngå i energirelaterte produkter som bringes i omsetning som individuelle deler for og/eller tas i bruk som individuelle deler av sluttbrukere,
+2. *produktspesifikke regler:* regler inntatt i [kapittel 3](for-2011-02-23-190-okodesignforskriften.md), som fastsetter krav til miljøvennlig utforming av bestemte energirelaterte produkter eller for miljøaspekter ved de samme produkter,
+3. *bringe i omsetning:* å gjøre et produkt tilgjengelig for første gang på EØS-markedet med henblikk på distribusjon eller anvendelse innenfor EØS enten mot betaling eller gratis og uansett salgsmetode,
+4. *ta i bruk:* en sluttbrukers første anvendelse innenfor EØS av et energirelatert produkt i tråd med produktets formål,
+5. *produsent:* den fysiske eller juridiske person som produserer produkter som er omfattet av forskriften, og som etter [§ 4](for-2011-02-23-190-okodesignforskriften.md) kan være ansvarlig for at produktene er i samsvar med forskriften, ved omsetning og/eller ved at sluttbruker tar det i bruk under produsentens eget navn eller varemerke eller ved produsentens egen anvendelse,
+6. *representant:* enhver fysisk eller juridisk person som er etablert innenfor EØS, og som har fått skriftlig mandat fra den ansvarlige til i dennes navn å oppfylle alle eller deler av de forpliktelser og formaliteter som er fastsatt i forskriften,
+7. *importør:* enhver fysisk eller juridisk person som er etablert innenfor EØS, som bringer et produkt fra et tredjeland i omsetning på EØS-markedet som ledd i sin næringsvirksomhet, og som etter [§ 4](for-2011-02-23-190-okodesignforskriften.md) kan være ansvarlig for at produktene er i samsvar med forskriften,
+8. *miljøaspekt:* et element eller en funksjon ved et produkt som kan inngå i et samspill med miljøet i løpet av dets livssyklus,
+9. *livssyklus:* et produkts fortløpende og innbyrdes forbundne faser fra dets anvendelse som råmateriale til endelig fjerning,
+10. *et produkts miljøvirkning:* resultatene av produsentenes håndtering av produktets miljøaspekter, slik det fremkommer i produktets tekniske dokumentasjon,
+11. *forbedring av miljøvirkning:* prosessen til forbedring av et produkts miljøvirkning i løpet av en rekke produktgenerasjoner, men ikke nødvendigvis av alle produktets miljøaspekter samtidig,
+12. *miljøvennlig utforming:* integrasjonen av miljøaspekter i produktutformingen med henblikk på å forbedre produktets miljøvirkning i hele dets livssyklus,
+13. *krav til miljøvennlig utforming:* ethvert krav i tilknytning til et produkt eller til produktets utforming som har til formål å forbedre dets miljøvirkning eller ethvert krav om levering av opplysninger om et produkts miljøegenskaper,
+14. *harmonisert standard:* en teknisk spesifikasjon vedtatt av et anerkjent standardiseringsorgan i henhold til et mandat fra EU-kommisjonen etter prosedyren fastsatt i europaparlaments- og rådsdirektiv [98/34/EF](https://lovdata.no/eu/31998l0034) med det formål å fastlegge et europeisk krav som det ikke er obligatorisk å oppfylle.
+
+### § 4. Den ansvarlige
+
+Ansvaret for at et energirelatert produkt er i samsvar med bestemmelser fastsatt i eller i medhold av forskriften påhviler produsenten av det energirelaterte produktet eller dennes representant.
+
+Dersom produsenten ikke er etablert innenfor EØS, og det ikke finnes noen representant, påhviler ansvaret importøren av det energirelaterte produktet.
+
+Dersom importøren ikke er etablert innenfor EØS, påhviler ansvaret enhver fysisk eller juridisk person som bringer produktet i omsetning eller tar produktet i bruk i næringsvirksomhet.
+
+## Kapittel 2. Krav til energirelaterte produkter
+
+### § 5. Krav til energirelaterte produkter
+
+Et energirelatert produkt som er omfattet av de produktspesifikke reglene i [kapittel 3](for-2011-02-23-190-okodesignforskriften.md), kan kun bringes i omsetning eller tas i bruk i næringsvirksomhet dersom det er i samsvar med de produktspesifikke regler, er utstyrt med CE-merking etter [§ 6](for-2011-02-23-190-okodesignforskriften.md), har samsvarserklæring etter [§ 7](for-2011-02-23-190-okodesignforskriften.md) og det er foretatt en samsvarsvurdering etter [§ 8](for-2011-02-23-190-okodesignforskriften.md). Den ansvarlige skal sikre at vilkårene er oppfylt før produktet bringes i omsetning eller tas i bruk i næringsvirksomhet.
+
+### § 6. CE-merking
+
+CE-merkingen skal bestå av bokstavene «CE» og skal utformes slik:
+
+![](https://lovdata.no/static/SF/sf-20110223-0190-01-01.gif)
+
+CE-merkingen skal være minst 5 mm høy. Dersom CE-merkingen forminskes eller forstørres, skal modellens størrelsesforhold være som angitt i figuren inntatt i første ledd.
+
+CE-merkingen skal påføres produktet. Dersom dette ikke er mulig, skal den påføres emballasjen og de medfølgende dokumenter.
+
+Produktet må ikke være forsynt med merker som kan virke villedende om betydningen eller formen av CE-merket.
+
+### § 7. Samsvarserklæring
+
+Den ansvarlige skal gjennom samsvarserklæringen sikre at produktet oppfyller alle relevante og produktspesifikke bestemmelser, og henvise til disse.
+
+I tillegg skal samsvarserklæringen inneholde følgende opplysninger:
+
+1. navn og adresse på den ansvarlige,
+2. en beskrivelse av modellen som er egnet til entydig å identifisere denne,
+3. dersom relevant, referanser til de anvendte harmoniserte standarder,
+4. dersom relevant, de øvrige anvendte tekniske og andre standarder og spesifikasjoner,
+5. dersom relevant, henvisninger til annet regelverk som inneholder bestemmelser om den anvendte CE-merking, og
+6. navn på og underskriften til den person som har rett til å forplikte den ansvarlige.
+
+Den ansvarlige skal oppbevare alle utstedte samsvarserklæringer i 10 år etter fremstillingen av det siste produkt som samsvarserklæringen gjelder.
+
+### § 8. Samsvarsvurdering
+
+Samsvarsvurderingen skal utføres i henhold til bestemmelser om dette i de relevante produktspesifikke regler, samt i henhold til én av de to prosedyrene som beskrives henholdsvis i bilag IV og bilag V til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125). Dersom det er behørig begrunnet og står i forhold til risikoen, kan prosedyre for samsvarsvurdering i stedet utvelges blant de relevante moduler som er beskrevet i bilag II til rådet for den europeiske unions beslutning 768/2008/EF.
+
+Dersom et produkt er utformet av en organisasjon som er EMAS-registrert i medhold av [forurensningsforskriften kapittel 38](for-2004-06-01-931-forurensningsforskriften.md), og organisasjonens utformingsfunksjon er omfattet av EMAS-registreringen, antas det at vilkåret i første ledd er oppfylt.
+
+Den ansvarlige skal oppbevare alle relevante dokumenter om den gjennomførte samsvarsvurdering i 10 år etter fremstillingen av det siste produkt som samsvarsvurderingen gjelder.
+
+*Endret ved [forskrifter 21 des 2011 nr. 1476](https://lovdata.no/forskrift/2011-12-21-1476) (i kraft 1 jan 2012), [20 des 2012 nr. 1389](https://lovdata.no/forskrift/2012-12-20-1389) (i kraft 1 jan 2013).*
+
+### § 9. Samsvarsformodning
+
+Et produkt som er CE-merket etter [§ 6](for-2011-02-23-190-okodesignforskriften.md), antas å være i samsvar med de relevante produktspesifikke regler.
+
+Et produkt som er utformet i tråd med harmoniserte standarder, hvis referansenumre er offentliggjort i Den Europeiske Unions Tidende, antas å være i samsvar med de krav i relevante produktspesifikke regler som omfattes av de anvendte harmoniserte standarder.
+
+Et produkt som er miljømerket i tråd med [lov 18. desember 1981 nr. 90](../lover/lov-1981-12-18-90-forbrukermerkeloven.md) om merking av forbruksvarer m.v. [§ 6](../lover/lov-1981-12-18-90-forbrukermerkeloven.md)b om EØS-ordning for frivillig miljømerking antas å være i samsvar med de relevante produktspesifikke regler.
+
+## Kapittel 3. Produktspesifikke regler
+
+### § 10. Elektriske og elektroniske husholdningsapparater og kontorutstyr med hensyn til energiforbruk i hviletilstand og avslått tilstand
+
+Forordning [(EU) 2023/826](https://lovdata.no/eu/32023r0826) om krav til miljøvennlig utforming av elektriske og elektroniske husholdningsapparater og kontorutstyr med hensyn til effektforbruk i avslått tilstand, hviletilstand og nettverkstilkoblet hviletilstand (hviletilstandsforordningen) i henhold til direktiv [2009/125/EF](https://lovdata.no/eu/32009l0125), som inntatt i [EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 6za, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning [(EU) 2023/1670](https://lovdata.no/eu/32023r1670).
+
+*Endret ved [forskrifter 18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231), [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026).*
+
+### § 11. (Opphevet)
+
+*Endret ved [forskrift 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), opphevet ved forskrift [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026).*
+
+### § 12. (Opphevet)
+
+*Endret ved [forskrift 18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), opphevet ved forskrift [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 13. (Opphevet)
+
+*Endret ved [forskrifter 21 des 2011 nr. 1476](https://lovdata.no/forskrift/2011-12-21-1476) (i kraft 1 jan 2012), [18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), opphevet ved forskrift [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 14. Lyskilder og separat forkoplingsutstyr
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26h (forordning [(EU) 2019/2020](https://lovdata.no/eu/32019r2020), som endret ved forordning [(EU) 2021/341](https://lovdata.no/eu/32021r0341)) om fastsettelse av krav til miljøvennlig utforming av lyskilder og separat forkoplingsutstyr i henhold til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), og om oppheving av kommisjonsforordning [(EF) nr. 244/2009](https://lovdata.no/eu/32009r0244), [(EF) nr. 245/2009](https://lovdata.no/eu/32009r0245) og [(EU) nr. 1194/2012](https://lovdata.no/eu/32012r1194), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061), endret ved forskrifter [18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 15. Eksterne strømkilder
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26u (forordning [(EU) 2019/1782](https://lovdata.no/eu/32019r1782)) om fastsettelse av krav til miljøvennlig utforming av eksterne strømkilder i henhold til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), og om oppheving av kommisjonsforordning [(EF) nr. 278/2009](https://lovdata.no/eu/32009r0278), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 14), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [6 okt 2020 nr. 1977](https://lovdata.no/forskrift/2020-10-06-1977), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 16. Elektriske motorer og turtallsregulatorer
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26t (forordning [(EU) 2019/1781](https://lovdata.no/eu/32019r1781), som endret ved forordning [(EU) 2021/341](https://lovdata.no/eu/32021r0341)) om fastsettelse av krav til miljøvennlig utforming av elektriske motorer og turtallsregulatorer i henhold til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), om endring av forordning [(EF) nr. 641/2009](https://lovdata.no/eu/32009r0641) med hensyn til krav til miljøvennlig utforming av frittstående sirkulasjonspumper uten pakkboks og produktintegrerte sirkulasjonspumper uten pakkboks, og om oppheving av kommisjonsforordning [(EF) nr. 640/2009](https://lovdata.no/eu/32009r0640), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 15), [28 mai 2014 nr. 683](https://lovdata.no/forskrift/2014-05-28-683), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [6 okt 2020 nr. 1977](https://lovdata.no/forskrift/2020-10-06-1977), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 17. Frittstående sirkulasjonspumper uten pakkboks og produktintegrerte sirkulasjonspumper uten pakkboks
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 37 (forordning [(EF) nr. 641/2009](https://lovdata.no/eu/32009r0641) som endret ved forordning [(EU) nr. 622/2012](https://lovdata.no/eu/32012r0622), forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282) og forordning [(EU) 2019/1781](https://lovdata.no/eu/32019r1781)) om gjennomføring av europaparlaments- og rådsdirektiv [2005/32/EF](https://lovdata.no/eu/32005l0032) når det gjelder krav til miljøvennlig utforming av frittstående sirkulasjonspumper uten pakkboks og produktintegrerte sirkulasjonspumper uten pakkboks gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 31 mai 2013 nr. 557](https://lovdata.no/forskrift/2013-05-31-557) (i kraft 1 juli 2013), [5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 16), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 18. Elektroniske skjermer
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26x (forordning [(EU) 2019/2021](https://lovdata.no/eu/32019r2021), som endret ved forordning [(EU) 2021/341](https://lovdata.no/eu/32021r0341)) om fastsettelse av krav til miljøvennlig utforming av elektroniske skjermer i samsvar med europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), om endring av kommisjonsforordning [(EF) nr. 1275/2008](https://lovdata.no/eu/32008r1275), og om oppheving av kommisjonsforordning [(EF) nr. 642/2009](https://lovdata.no/eu/32009r0642), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 17), [18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 19. Kjøle-/fryseapparater
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26w (forordning [(EU) 2019/2019](https://lovdata.no/eu/32019r2019), som endret ved forordning [(EU) 2021/341](https://lovdata.no/eu/32021r0341)) om fastsettelse av krav til miljøvennlig utforming av kjøle-/fryseapparater i henhold til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), og om oppheving av kommisjonsforordning [(EF) nr. 643/2009](https://lovdata.no/eu/32009r0643), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 18), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 20. Klimaanlegg og komfortvifter
+
+EØS-avtalen vedlegg IV nr. 26b (forordning [(EU) nr. 206/2012](https://lovdata.no/eu/32012r0206), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av klimaanlegg og komfortvifter gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 20 des 2012 nr. 1389](https://lovdata.no/forskrift/2012-12-20-1389) (i kraft 1 jan 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 19), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 21. Husholdningsvaskemaskiner og kombinerte husholdningsvaskemaskiner/-tørketromler
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26c (forordning [(EU) 2019/2023](https://lovdata.no/eu/32019r2023), som endret ved forordning [(EU) 2021/341](https://lovdata.no/eu/32021r0341)) om fastsettelse av krav til miljøvennlig utforming av husholdningsvaskemaskiner og kombinerte husholdningsvaskemaskiner/-tørketromler i samsvar med europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), om endring av kommisjonsforordning [(EF) nr. 1275/2008](https://lovdata.no/eu/32008r1275), og om oppheving av kommisjonsforordning [(EU) nr. 1015/2010](https://lovdata.no/eu/32010r1015), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 7 feb 2013 nr. 152](https://lovdata.no/forskrift/2013-02-07-152) (i kraft 11 feb 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 20), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 22. Husholdningsoppvaskmaskiner
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26d (forordning [(EU) 2019/2022](https://lovdata.no/eu/32019r2022), som endret ved forordning [(EU) 2021/341](https://lovdata.no/eu/32021r0341), om fastsettelse av krav til miljøvennlig utforming av husholdningsoppvaskmaskiner i henhold til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), om endring av kommisjonsforordning [(EF) nr. 1275/2008](https://lovdata.no/eu/32008r1275) og om oppheving av kommisjonsforordning [(EU) nr. 1016/2010](https://lovdata.no/eu/32010r1016)), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 7 feb 2013 nr. 152](https://lovdata.no/forskrift/2013-02-07-152) (i kraft 11 feb 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 21), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 23. Vifter som drives av motorer med en elektrisk inngangseffekt på mellom 125 W og 500 kW
+
+Forordning [(EU) 2024/1834](https://lovdata.no/eu/32024r1834) om vifter som drives av motorer med en elektrisk inngangseffekt på mellom 125 W og 500 kW, som inntatt i [EØS-avtalen vedlegg II kapittel IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 6z og vedlegg IV nr. 26za, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II, vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 7 feb 2013 nr. 152](https://lovdata.no/forskrift/2013-02-07-152) (i kraft 11 feb 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 22), [18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [5 mars 2026 nr. 354](https://lovdata.no/forskrift/2026-03-05-354) (i kraft 24 juli 2026).*
+
+### § 24. Vannpumper
+
+EØS-avtalen vedlegg IV nr. 26g (forordning [(EU) nr. 547/2012](https://lovdata.no/eu/32012r0547), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av vannpumper gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 31 mai 2013 nr. 557](https://lovdata.no/forskrift/2013-05-31-557) (i kraft 1 juli 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 23), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 25. Tørketromler
+
+EØS-avtalen vedlegg IV nr. 26f (forordning [(EU) nr. 932/2012](https://lovdata.no/eu/32012r0932), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av tørketromler gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 31 mai 2013 nr. 557](https://lovdata.no/forskrift/2013-05-31-557) (i kraft 1 juli 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 24), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 26. Krafttransformatorer
+
+EØS-avtalen vedlegg IV nr. 26i (forordning [(EU) nr. 548/2014](https://lovdata.no/eu/32014r0548), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282) og forordning [(EU) 2019/1783](https://lovdata.no/eu/32019r1783)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av små, mellomstore og store krafttransformatorer gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 22 juni 2015 nr. 749](https://lovdata.no/forskrift/2015-06-22-749), endret ved [forskrifter 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [6 okt 2020 nr. 1977](https://lovdata.no/forskrift/2020-10-06-1977).*
+
+### § 27. Datamaskiner og datatjenere
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26j (forordning [(EU) nr. 617/2013](https://lovdata.no/eu/32013r0617), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282) og forordning [(EU) 2019/424](https://lovdata.no/eu/32019r0424)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av datamaskiner og datatjenere gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), endret ved [forskrifter 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 28. Støvsugere
+
+EØS-avtalen vedlegg IV nr. 26k (forordning [(EU) nr. 666/2013](https://lovdata.no/eu/32013r0666), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av støvsugere gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), endret ved [forskrift 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 29. Stekeovner, kokeplater og avtrekkshetter til husholdningsbruk
+
+EØS-avtalen vedlegg IV nr. 26l (forordning [(EU) nr. 66/2014](https://lovdata.no/eu/32014r0066), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av stekeovner, kokeplater og avtrekkshetter til husholdningsbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), endret ved [forskrift 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 30. Ventilasjonsaggregater
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26m (forordning [(EU) nr. 1253/2014](https://lovdata.no/eu/32014r1253), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282) og som rettet ved forordning [(EU) 2020/1000](https://lovdata.no/eu/32020r1000)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av ventilasjonsaggregater gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781), endret ved [forskrifter 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 31. Varmeovner fyrt med fast brensel
+
+EØS-avtalen vedlegg IV nr. 26n (forordning [(EU) 2015/1185](https://lovdata.no/eu/32015r1185), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av varmeovner fyrt med fast brensel gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 2 mars 2016 nr. 231](https://lovdata.no/forskrift/2016-03-02-231), endret ved [forskrift 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 32. Kjeler for fast brensel
+
+EØS-avtalen vedlegg IV nr. 26o (forordning [(EU) 2015/1189](https://lovdata.no/eu/32015r1189), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av kjeler for fast brensel, gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 2 mars 2016 nr. 231](https://lovdata.no/forskrift/2016-03-02-231), endret ved [forskrift 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 33. Kjøleskap og fryseskap til yrkesbruk, blåsekjølere og -frysere, kondenseringsaggregater og prosesskjølere
+
+EØS-avtalen vedlegg IV nr. 26p (forordning [(EU) 2015/1095](https://lovdata.no/eu/32015r1095), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av kjøleskap og fryseskap til yrkesbruk, blåsekjølere og -frysere, kondenseringsaggregater og prosesskjølere gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 24 april 2016 nr. 438](https://lovdata.no/forskrift/2016-04-24-438), endret ved [forskrift 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 34. Varmeovner
+
+Forordning [(EU) 2024/1103](https://lovdata.no/eu/32024r1103) om gjennomføring av direktiv [2009/125/EF](https://lovdata.no/eu/32009l0125) om krav til miljøvennlig utforming av produkter til lokal romoppvarming og separate tilhørende styringsenheter, som inntatt i [EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 6zc, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 20 juni 2016 nr. 738](https://lovdata.no/forskrift/2016-06-20-738), endret ved [forskrifter 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710), [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026).*
+
+### § 35. Luftbaserte sentralvarmeprodukter, kjøleprodukter, høytemperatur prosesskjølere og viftekonvektorer
+
+EØS-avtalen vedlegg IV nr. 26r (forordning [(EU) 2016/2281](https://lovdata.no/eu/32016r2281), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av luftbaserte sentralvarmeprodukter, kjøleprodukter, høytemperatur prosesskjølere og viftekonvektorer gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710).*
+
+### § 36. Anlegg for romoppvarming og anlegg for rom- og tappevannoppvarming
+
+EØS-avtalen vedlegg IV nr. 26s (forordning [(EU) nr. 813/2013](https://lovdata.no/eu/32013r0813), som endret ved forordning [(EU) 2016/2282](https://lovdata.no/eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) når det gjelder krav til miljøvennlig utforming av anlegg for romoppvarming og anlegg for rom- og tappevannoppvarming, gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 21 aug 2018 nr. 1258](https://lovdata.no/forskrift/2018-08-21-1258).*
+
+### § 37. Tjenere og datalagringsprodukter
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26v (forordning [(EU) 2019/424](https://lovdata.no/eu/32019r0424), som endret ved forordning [(EU) 2021/341](https://lovdata.no/eu/32021r0341)) om fastsettelse av krav til miljøvennlig utforming av tjenere og datalagringsprodukter i henhold til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125) og om endring av kommisjonsforordning [(EU) nr. 617/2013](https://lovdata.no/eu/32013r0617), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 38. Kjøle-/fryseapparater til bruk ved direktesalg
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26y (forordning [(EU) 2019/2024](https://lovdata.no/eu/32024r2019), som endret ved forordning [(EU) 2021/341](https://lovdata.no/eu/32021r0341)) om fastsettelse av krav til miljøvennlig utforming av kjøle-/fryseapparater til bruk ved direktesalg i henhold til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 39. Sveiseutstyr
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 26z (forordning [(EU) 2019/1784](https://lovdata.no/eu/32019r1784)) om fastsettelse av krav til miljøvennlig utforming av sveiseutstyr i henhold til europaparlaments- og rådsdirektiv [2009/125/EF](https://lovdata.no/eu/32009l0125), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231).*
+
+### § 40. Mobiltelefoner, trådløse telefoner og nettbrett
+
+Forordning [(EU) 2023/1670](https://lovdata.no/eu/32023r1670) om krav til miljøvennlig utforming av mobiltelefoner, trådløse telefoner og nettbrett i henhold til direktiv [2009/125/EF](https://lovdata.no/eu/32009l0125), som inntatt i [EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 6zb, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026).*
+
+## Kapittel 4. Diverse bestemmelser
+
+### § 41. Tilsyn og kontroll
+
+Norges vassdrags- og energidirektorat og Miljødirektoratet fører tilsyn med at bestemmelser fastsatt i eller med hjemmel i forskriften blir oppfylt.
+
+Produsent og importør av et energirelatert produkt og enhver fysisk eller juridisk person som bringer et energirelatert produkt i omsetning eller tar produktet i bruk i næringsvirksomhet, samt de forannevntes representanter, plikter å medvirke til gjennomføring av tilsyn. Dette omfatter blant annet å fremskaffe opplysninger og dokumentasjon som er nødvendig for å gjennomføre tilsynet.
+
+*Endret ved [forskrifter 20 des 2012 nr. 1389](https://lovdata.no/forskrift/2012-12-20-1389) (i kraft 1 jan 2013, tidligere § 19), [7 feb 2013 nr. 152](https://lovdata.no/forskrift/2013-02-07-152) (i kraft 11 feb 2013, tidligere § 20), [31 mai 2013 nr. 557](https://lovdata.no/forskrift/2013-05-31-557) (i kraft 1 juli 2013, tidligere § 23), [5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 25), [22 juni 2015 nr. 749](https://lovdata.no/forskrift/2015-06-22-749) (tidligere § 26), [18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781) (tidligere § 27), [2 mars 2016 nr. 231](https://lovdata.no/forskrift/2016-03-02-231) (tidligere § 31), [24 april 2016 nr. 438](https://lovdata.no/forskrift/2016-04-24-438) (tidligere § 33), [20 juni 2016 nr. 738](https://lovdata.no/forskrift/2016-06-20-738) (tidligere § 34), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710) (tidligere § 35), [21 aug 2018 nr. 1258](https://lovdata.no/forskrift/2018-08-21-1258) (tidligere § 36), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231) (tidligere § 37), [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026, tidligere § 40).*
+
+### § 42. Pålegg og øvrige vedtak
+
+Norges vassdrags- og energidirektorat og Miljødirektoratet kan gi de pålegg og treffe de øvrige vedtak som er nødvendige for gjennomføring av forskriften og vedtak fastsatt med hjemmel i forskriften.
+
+Vedtak etter første ledd kan blant annet gå ut på
+
+1. å bringe et energirelatert produkt i samsvar med denne forskriften,
+2. innen 10 dager etter mottakelse av pålegg eller vedtak å stille til rådighet slik dokumentasjon som den ansvarlige er pliktig å oppbevare etter [§ 7](for-2011-02-23-190-okodesignforskriften.md) og [§ 8](for-2011-02-23-190-okodesignforskriften.md),
+3. vederlagsfri avståelse av prøver på eller fra energirelaterte produkter,
+4. begrensning av eller forbud mot omsetning av eller adgangen til å ta i bruk et energirelatert produkt.
+
+*Endret ved [forskrifter 21 des 2011 nr. 1476](https://lovdata.no/forskrift/2011-12-21-1476) (i kraft 1 jan 2012), [20 des 2012 nr. 1389](https://lovdata.no/forskrift/2012-12-20-1389) (i kraft 1 jan 2013, tidligere § 20), [7 feb 2013 nr. 152](https://lovdata.no/forskrift/2013-02-07-152) (i kraft 11 feb 2013, tidligere § 21), [31 mai 2013 nr. 557](https://lovdata.no/forskrift/2013-05-31-557) (i kraft 1 juli 2013, tidligere § 24), [5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 26), [22 juni 2015 nr. 749](https://lovdata.no/forskrift/2015-06-22-749) (tidligere § 27), [18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781) (tidligere § 28), [2 mars 2016 nr. 231](https://lovdata.no/forskrift/2016-03-02-231) (tidligere § 32), [24 april 2016 nr. 438](https://lovdata.no/forskrift/2016-04-24-438) (tidligere § 34), [20 juni 2016 nr. 738](https://lovdata.no/forskrift/2016-06-20-738) (tidligere § 35), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710) (tidligere § 36), [21 aug 2018 nr. 1258](https://lovdata.no/forskrift/2018-08-21-1258) (tidligere § 37), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231) (tidligere § 38). [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026, tidligere § 41).*
+
+### § 43. Tvangsmulkt
+
+Ved overtredelse av vedtak gitt med hjemmel i forskriften kan Norges vassdrags- og energidirektorat og Miljødirektoratet ilegge tvangsmulkt. Pålegg om tvangsmulkt er tvangsgrunnlag for utlegg. Tvangsmulkt tilfaller statskassen.
+
+Den tilsynsmyndigheten som har ilagt tvangsmulkt etter første ledd bestemmer når mulkten begynner å løpe og kan helt eller delvis frafalle kravet om påløpt mulkt.
+
+*Endret ved [forskrifter 20 des 2012 nr. 1389](https://lovdata.no/forskrift/2012-12-20-1389) (i kraft 1 jan 2013, tidligere § 21), [7 feb 2013 nr. 152](https://lovdata.no/forskrift/2013-02-07-152) (i kraft 11 feb 2013, tidligere § 22), [31 mai 2013 nr. 557](https://lovdata.no/forskrift/2013-05-31-557) (i kraft 1 juli 2013, tidligere § 25), [5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 27), [22 juni 2015 nr. 749](https://lovdata.no/forskrift/2015-06-22-749) (tidligere § 28), [18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781) (tidligere § 29), [2 mars 2016 nr. 231](https://lovdata.no/forskrift/2016-03-02-231) (tidligere § 33), [24 april 2016 nr. 438](https://lovdata.no/forskrift/2016-04-24-438) (tidligere § 35), [20 juni 2016 nr. 738](https://lovdata.no/forskrift/2016-06-20-738) (tidligere § 36), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710) (tidligere § 37), [21 aug 2018 nr. 1258](https://lovdata.no/forskrift/2018-08-21-1258) (tidligere § 38), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231) (tidligere § 39). [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026, tidligere § 42).*
+
+### § 44. Ikrafttredelse
+
+Forskriften trer i kraft 1. mars 2011. Fra samme tidspunkt oppheves [forskrift 20. august 1999 nr. 956](https://lovdata.no/forskrift/1999-08-20-956) om energieffektivitetskrav til elektriske hushaldskjøleskap og -frysarar og kombinasjonar av slike og [forskrift 12. mars 2002 nr. 259](https://lovdata.no/forskrift/2002-03-12-259) om energieffektivitetskrav til strømbegrensere i lysstoffrør.
+
+*Endret ved [forskrifter 20 des 2012 nr. 1389](https://lovdata.no/forskrift/2012-12-20-1389) (i kraft 1 jan 2013, tidligere § 22), [7 feb 2013 nr. 152](https://lovdata.no/forskrift/2013-02-07-152) (i kraft 11 feb 2013, tidligere § 23), [31 mai 2013 nr. 557](https://lovdata.no/forskrift/2013-05-31-557) (i kraft 1 juli 2013, tidligere § 26), [5 sep 2013 nr. 1061](https://lovdata.no/forskrift/2013-09-05-1061) (tidligere § 28), [22 juni 2015 nr. 749](https://lovdata.no/forskrift/2015-06-22-749) (tidligere § 29), [18 des 2015 nr. 1781](https://lovdata.no/forskrift/2015-12-18-1781) (tidligere § 30), [2 mars 2016 nr. 231](https://lovdata.no/forskrift/2016-03-02-231) (tidligere § 34), [24 april 2016 nr. 438](https://lovdata.no/forskrift/2016-04-24-438) (tidligere § 36), [20 juni 2016 nr. 738](https://lovdata.no/forskrift/2016-06-20-738) (tidligere § 37), [2 nov 2017 nr. 1710](https://lovdata.no/forskrift/2017-11-02-1710) (tidligere § 38), [21 aug 2018 nr. 1258](https://lovdata.no/forskrift/2018-08-21-1258) (tidligere § 39), [12 feb 2025 nr. 231](https://lovdata.no/forskrift/2025-02-12-231) (tidligere § 40), [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026, tidligere § 43).*
+
+## Forordninger
+
+**Forordningene er ikke konsoliderte versjoner.**
+
+For å lese forordning [(EF) nr. 1275/2008 i](https://lovdata.no/eu/32008r1275) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32008r1275o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 107/2009 i](https://lovdata.no/eu/32009r0107) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0107o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 244/2009 i](https://lovdata.no/eu/32009r0244) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0244o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 245/2009 i](https://lovdata.no/eu/32009r0245) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0245o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 278/2009 i](https://lovdata.no/eu/32009r0278) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0278o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 640/2009 i](https://lovdata.no/eu/32009r0640*) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0640o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 641/2009 i](https://lovdata.no/eu/32009r0641) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0641o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 642/2009 i](https://lovdata.no/eu/32009r0642) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0642o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 643/2009 i](https://lovdata.no/eu/32009r0643*) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0643o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 859/2009 i](https://lovdata.no/eu/32009r0859) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32009r0859o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EF) nr. 347/2010 i](https://lovdata.no/eu/32010r0347) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32010r0347o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1015/2010 i](https://lovdata.no/eu/32010r1015*) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32010r1015o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1016/2010 i](https://lovdata.no/eu/32010r1016*) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32010r1016o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 327/2011 i](https://lovdata.no/eu/32011r0327) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32011r0327o-01.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 206/2012 i](https://lovdata.no/eu/32012r0206) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32012r0206o-01.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 547/2012 i](https://lovdata.no/eu/32012r0547) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32012r0547o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 622/2012 i](https://lovdata.no/eu/32012r0622) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32012r0622u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 932/2012 i](https://lovdata.no/eu/32012r0932) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32012r0932o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1194/2012 i](https://lovdata.no/eu/32012r1194) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32012r1194o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 617/2013 i](https://lovdata.no/eu/32013r0617) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32013r0617u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 666/2013 i](https://lovdata.no/eu/32013r0666) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32013r0666u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 801/2013 i](https://lovdata.no/eu/32013r0801) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32013r0801u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 4/2014 i](https://lovdata.no/eu/32014r0004) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32014r0004o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 66/2014 i](https://lovdata.no/eu/32014r0066) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32014r0066u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 548/2014 i](https://lovdata.no/eu/32014r0548) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32014r0548o.pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1253/2014 i](https://lovdata.no/eu/32014r1253) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32014r1253u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1095 i](https://lovdata.no/eu/32015r1095) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32015r1095u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1185 i](https://lovdata.no/eu/32015r1185) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32015r1185u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1188 i](https://lovdata.no/eu/32015r1188) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32015r1188u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1189 i](https://lovdata.no/eu/32015r1189) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32015r1189u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1428 i](https://lovdata.no/eu/32015r1428) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32015r1428u.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2016/2281 i](https://lovdata.no/eu/32016r2281) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32016r2281u-01.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2016/2282 i](https://lovdata.no/eu/32016r2282) pdf se her: [pdf-fil](https://lovdata.no/static/SF/32016r2282u-01.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2023/826](https://lovdata.no/eu/32023r0826) se her: [pdf-fil](https://lovdata.no/static/SF/32023r0826u-01.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2023/1670](https://lovdata.no/eu/32023r1670) se her: [pdf-fil](https://lovdata.no/static/SF/32023r1670u-01.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2024/1103](https://lovdata.no/eu/32024r1103) se her: [pdf-fil](https://lovdata.no/static/SF/32024r1103u-01.pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2024/1834](https://lovdata.no/eu/32024r1834) se her: [pdf-fil](https://lovdata.no/static/SF/32024r1834u-01.pdf)
+
+Uoffisiell norsk oversettelse.
+
+*Forordninger tilføyd uten kunngjøring 1 april 2013, 10 okt 2013, 1 sept 2015, 11 feb 2016, tilføyd eller erstattet 23 mars 2016, tilføyd 1 juli 2016, forklarende overskrifter til forordninger fjernet 1 okt 2016, oppdatert med to off. versjoner 25 aug 2017, forordninger tilføyd uten kunngjøring 8 mai 2018. Endret ved forskrifter [19 des 2025 nr. 2799](https://lovdata.no/forskrift/2025-12-19-2799) (i kraft 1 jan 2026), [5 mars 2026 nr. 354](https://lovdata.no/forskrift/2026-03-05-354) (i kraft 24 juli 2026).*

@@ -1,0 +1,392 @@
+# Forskrift til lov om felles regler for det indre marked for naturgass (naturgassforskriften)
+
+- **Korttittel:** Naturgassforskriften
+- **Datokode:** FOR-2003-11-14-1342
+- **DokumentID:** SF/forskrift/2003-11-14-1342
+- **Departement:** Energidepartementet
+- **Etat:** Energi- og vannressursavd.
+- **Hjemmel:** lov 28.06.2002 nr. 61/§4; lov 28.06.2002 nr. 61/§13
+- **Publisert i:** I 2003 hefte 15
+- **Kunngjort:** 2003-11-14
+- **I kraft fra:** 2004-01-01
+- **Siste endring i kraft:** 2021-06-07
+- **Sist endret ved:** forskrift 07.06.2021 nr. 1796
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 14. november 2003 med hjemmel i lov av 28. juni 2002 nr. 61 om felles regler for det indre marked for naturgass (naturgassloven) § 4 og § 13. Fremmet av Olje- og energidepartementet. EØS-henvisninger: EØS-avtalen vedlegg IV nr. 23 (direktiv 2009/73/EF) og nr. 27 (forordning (EF) nr. 715/2009 som endret ved beslutning 2010/685/EU, beslutning 2012/490/EU) og beslutning (EU) 2015/715). Endret ved forskrifter 1 feb 2008 nr. 87, 4 sep 2009 nr. 1156, 5 feb 2010 nr. 114, 25 feb 2011 nr. 195, 24 okt 2019 nr. 1435 (i kraft 1 nov 2019), 7 juni 2021 nr. 1796.
+- **Kilde:** <https://lovdata.no/forskrift/2003-11-14-1342>
+
+## Kapittel 1. Alminnelige bestemmelser
+
+### § 1-1. Formål
+
+Forskriften skal sikre at naturgassvirksomhet foregår på en samfunnsmessig rasjonell måte. Det skal tas hensyn til allmenne og private interesser som blir berørt.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 1-2. Virkeområde
+
+Forskriften gjelder naturgassvirksomhet som ikke omfattes av [lov 29. november 1996 nr. 72](../lover/lov-1996-11-29-72-petroleumsloven.md) om petroleumsvirksomhet.
+
+Forskriften kommer til anvendelse på biogass, gass fra biomasse og andre typer gass, så langt slike gasser teknisk og sikkerhetsmessig kan injiseres i og transporteres gjennom et system for naturgass.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 1-1).*
+
+### § 1-3. Definisjoner
+
+I denne forskriften forstås med
+
+a. *loven:* [lov 28. juni 2002 nr. 61](../lover/lov-2002-06-28-61-naturgassloven.md) om felles regler for det indre marked for naturgass
+b. *lageranlegg:* et anlegg som brukes til lagring av naturgass, og som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](https://lovdata.no/eu/32009l0073)) og eies eller drives av et naturgassforetak. De delene av et LNG-anlegg som brukes til lagring, omfattes også
+c. *LNG-anlegg:* en terminal som brukes til omdanning av naturgass til væske eller import, lossing og regassifisering av LNG, og som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](https://lovdata.no/eu/32009l0073)), også tilleggstjenester og midlertidig lagring som er nødvendig for regassifiseringen og den påfølgende levering til transmisjonsnettet. De delene av et LNG-anlegg som brukes til lagring, omfattes ikke
+d. *transmisjon:* transport av naturgass gjennom et høytrykksrørledningsnett med sikte på levering til kunder. Transport gjennom et oppstrøms gassrørledningsnett eller et høytrykksrørledningsnett som hovedsakelig anvendes i forbindelse med lokal distribusjon av naturgass, omfattes ikke
+e. *distribusjon:* transport av naturgass gjennom lokale eller regionale gassrørledningsnett med sikte på levering til kunder
+f. *forsyning:* levering eller salg av naturgass, også LNG, til kunder
+g. *systemoperatør:* et foretak som er utpekt som transmisjons-, distribusjons-, lager- eller LNG-systemoperatører i henhold til [naturgassloven § 5](../lover/lov-2002-06-28-61-naturgassloven.md)
+h. *system:* ethvert transmisjons- eller distribusjonsnett, LNG-anlegg eller lageranlegg som eies eller drives av et naturgassforetak, lagring i rørledning og foretakets anlegg som yter tilknyttede tjenester, samt tilknyttede foretaks anlegg som er nødvendige for å gi adgang til transmisjon, distribusjon og LNG
+i. *systembruker:* enhver fysisk eller juridisk person som forsyner eller forsynes fra et system
+j. *sikkerhet:* både forsyningssikkerhet og teknisk sikkerhet
+k. *naturgassforetak:* enhver fysisk eller juridisk person som ivaretar minst en av følgende funksjoner som omfattes av EØS-avtalen vedlegg IV nr. 23 (direktiv [2009/73/EF](https://lovdata.no/eu/32009l0073)): produksjon, transmisjon, distribusjon, forsyning, innkjøp eller lagring av naturgass, også nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige eller tekniske oppgavene eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder
+l. *kunder:* naturgassforetak som kjøper naturgass, grossister eller sluttkunder av naturgass
+m. *forbrukere:* fysiske personer som ikke hovedsakelig handler som ledd i næringsvirksomhet
+n. *adgang:* mulighet til å bruke systemet til å distribuere naturgass og nødvendig tilknytning for slik distribusjon
+o. *tariffer:* alle priser og annet økonomisk vederlag som systemoperatøren fastsetter for adgang til systemet.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 1-2).*
+
+### § 1-4. Reguleringsmyndighet og klagenemnd
+
+Reguleringsmyndigheten for energi (RME) er reguleringsmyndighet for omsetning av naturgass, jf. [naturgassloven § 4](../lover/lov-2002-06-28-61-naturgassloven.md).
+
+[Forskrift om nettregulering og energimarkedet kapittel 1](for-2019-10-24-1413-nem.md) og [2](for-2019-10-24-1413-nem.md) gjelder for oppgaver som er tillagt reguleringsmyndigheten etter denne forskrift.
+
+Enkeltvedtak som er truffet av Reguleringsmyndigheten for energi med hjemmel i naturgassloven kan påklages til Energiklagenemnda, jf. [forskrift om Energiklagenemnda § 1](for-2019-10-24-1420-forskrift-om-energiklagenemnda.md).
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 1-5. Tvisteløsning
+
+Tvist mellom systemoperatøren og en systembruker om vilkår og tariffer etter [§ 3-1](for-2003-11-14-1342-naturgassforskriften.md) eller andre plikter systemoperatøren har etter denne forskriften, kan bringes inn til reguleringsmyndigheten, som skal fatte vedtak i saken innen to måneder etter at klagen ble mottatt. Fristen kan forlenges med to måneder hvis reguleringsmyndigheten trenger ytterligere opplysninger. Fristen kan forlenges ytterligere hvis klager aksepterer dette.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+## Kapittel 2. Konsekvensutredning og konsesjon mv.
+
+### § 2-1. Konsekvensutredning
+
+For anlegg som er konsesjonspliktige etter [§ 2-3](for-2003-11-14-1342-naturgassforskriften.md) og som omfattes av plan- og [bygningsloven kapittel 14](../lover/lov-2008-06-27-71-plan-og-bygningsloven.md) skal konsekvensutredninger vedlegges søknad etter [§ 2-2](../lover/lov-2008-06-27-71-plan-og-bygningsloven.md).
+
+For prosjekter som gjelder transport av gass i rørledning med en diameter på mer enn 800 mm og en lengde på mer enn 40 km eller som antas å ha vesentlige næringsmessige eller miljømessige virkninger, får bestemmelsene om konsekvensutredninger i kapittel 4 i forskrift til [lov om petroleumsvirksomhet](../lover/lov-1996-11-29-72-petroleumsloven.md) tilsvarende anvendelse så langt de passer for så vidt rørledningen går i sjø. Konsekvensutredninger skal vedlegges søknad etter [§ 2-2](for-2003-11-14-1342-naturgassforskriften.md).
+
+*Endret ved [forskrifter 5 feb 2010 nr. 114](https://lovdata.no/forskrift/2010-02-05-114), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 2-2. Søknad
+
+Søknad om konsesjon med tilhørende anleggsplan sendes departementet og skal inneholde
+
+a. en beskrivelse av søkeren og dennes virksomhet
+b. planlagt tidspunkt for påbegynnelse og fullførelse av anlegget
+c. en teknisk beskrivelse av anlegget med kartvedlegg
+d. en begrunnelse for tiltaket
+e. en vurdering av økonomiske forhold og en redegjørelse for areal- og miljøvirkninger av tiltaket
+f. en beskrivelse av behov for tillatelser etter annen lov, herunder forholdet til kommunale planer etter plan- og bygningsloven
+g. en redegjørelse for forholdet til energiutredninger utarbeidet i henhold til forskrift om energiutredninger
+h. øvrige opplysninger som er nødvendig for å vurdere om tillatelse bør gis. Departementet kan fastsette nærmere hvilke opplysninger eller undersøkelser søkeren må sørge for.
+
+Kunngjøring av søknaden, en kort beskrivelse av planene, opplysninger om hvor søknaden er utlagt og fristen for å gi uttalelse skal rykkes inn i Norsk lysingsblad og i en eller flere aviser alminnelig lest i distriktet. Søkeren betaler utgiftene ved utleggelse og kunngjøring. Kunngjøring kan unnlates når det finnes ubetenkelig.
+
+Offentlige organer og andre som tiltaket direkte gjelder, skal få søknaden tilsendt til uttalelse. Ved utsendelse fastsettes en frist for å avgi uttalelse til departementet. Høring kan unnlates når det finnes ubetenkelig.
+
+*Endret ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 2-3. Konsesjonsplikt
+
+Anlegg for transmisjon av naturgass, LNG-anlegg og andre anlegg som i det vesentligste skal levere naturgass til naturgassforetak i en annen region kan ikke bygges eller drives uten etter konsesjon fra departementet.
+
+Mindre anlegg for transmisjon av naturgass, mindre LNG-anlegg, andre mindre naturgassanlegg og anlegg for distribusjon av naturgass krever ikke konsesjon.
+
+Departementet avgjør nærmere hva som er konsesjonspliktig etter første ledd og hva som er unntatt fra konsesjonsplikt etter annet ledd.
+
+Konsesjon skal gis på grunnlag av ikke-diskriminerende, saklige og objektive kriterier. Ved vurderingen av om konsesjon etter første ledd skal gis, skal det blant annet legges vekt på å legge til rette for et samfunnsmessig rasjonelt energisystem, herunder skal det søkes å oppnå miljømessig gode løsninger for energisystemet og det konkrete anlegget.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 2-4. Vilkår for konsesjon
+
+For konsesjoner etter [§ 2-3](for-2003-11-14-1342-naturgassforskriften.md) kan det fastsettes vilkår om:
+
+a. konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og om bortsettelse av drift,
+b. nedleggelse og rydding av anlegg, herunder om frister og dekning av utgifter,
+c. tekniske forhold,
+d. beredskapsmessige forhold,
+e. trasévalg,
+f. tilrettelegging for eller tilkobling av andre anlegg eller systemer,
+g. dimensjonering,
+h. tiltak for å redusere skader eller ulemper av anlegget for miljø og annen arealbruk,
+i. deltagelse i energiplanlegging etter [energiloven § 7-1](../lover/lov-1990-06-29-50-energiloven.md).
+
+Departementet kan stille som vilkår for konsesjon etter [§ 2-3](for-2003-11-14-1342-naturgassforskriften.md) at konsesjonæren forplikter seg til å yte nærmere definerte offentlige tjenester som kan vedrøre sikkerhet, herunder forsyningssikkerhet, regelmessighet, kvaliteten på og prisen for forsyningene, samt miljøvern, herunder energieffektivitet og klimabeskyttelse.
+
+Departementet kan i forbindelse med den enkelte konsesjon fastsette ytterligere vilkår dersom det finnes påkrevet av hensyn til allmenne eller private interesser.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87), [5 feb 2010 nr. 114](https://lovdata.no/forskrift/2010-02-05-114), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 2-5. Konsesjon, tilbakekall mv.
+
+Konsesjon gis til juridisk person som er stiftet i overensstemmelse med norsk lovgivning og er registrert i Foretaksregisteret, når annet ikke følger av internasjonale avtaler. Konsesjon kan også tildeles fysisk person hjemmehørende i en EØS-stat.
+
+Konsesjon gis for inntil 30 år. Konsesjonstiden kan forlenges etter søknad fra konsesjonæren. Søknad om forlengelse av konsesjon skal sendes senest 1 år før utløpet av konsesjonstiden, med mindre departementet bestemmer noe annet.
+
+Konsesjonen skal omfatte en beskrivelse av anlegget med tilhørende kart. Det kan gis tidsfrister for seneste oppstart av anleggsarbeider, idriftsettelse av anlegget eller deler av dette.
+
+Dersom konsesjon etter [§ 2-3](for-2003-11-14-1342-naturgassforskriften.md) ikke gis til en søker, skal begrunnelse for avslaget oversendes EFTAs overvåkingsorgan til underretning.
+
+Dersom konsesjon etter denne forskrift er gitt på grunnlag av uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning, eller konsesjonæren grovt eller gjentatte ganger overtrer loven, denne forskrift eller bestemmelser eller pålegg gitt i medhold av loven eller denne forskrift, kan konsesjonen trekkes tilbake. Tilbakekall av konsesjon fritar ikke for forpliktelser som følger av forskrift eller konsesjonsvilkår.
+
+*Endret ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+## Kapittel 3. Vilkår og tariffer for adgang til systemet og balansering
+
+### § 3-1. Godkjenning eller fastsettelse av vilkår og tariffer
+
+Reguleringsmyndigheten skal i enkeltvedtak fastsette eller godkjenne vilkår for adgang til systemet etter [§ 5-1](for-2003-11-14-1342-naturgassforskriften.md), vilkår om balansering av systemet etter [§ 6-2](for-2003-11-14-1342-naturgassforskriften.md) og tariffer eller metoder for tariffer etter [§ 7-1](for-2003-11-14-1342-naturgassforskriften.md) og [§ 7-2](for-2003-11-14-1342-naturgassforskriften.md). Vilkårene, tariffene og metodene skal være godkjent eller fastsatt av reguleringsmyndigheten før de trer i kraft, og de skal være saklige, objektive og ikke-diskriminerende.
+
+Systemoperatøren skal utarbeide et begrunnet forslag til vilkår, tariffer eller metoder for tariffer som nevnt i første ledd og gi berørte parter mulighet til å uttale seg. Systemoperatøren skal sende forslaget, uttalelsene og vurderingen sin av uttalelsene til reguleringsmyndigheten senest 6 måneder før vilkår og tariffer gjøres gjeldende. Systemoperatøren skal gi reguleringsmyndigheten tilstrekkelige opplysninger til å vurdere om forslaget oppfyller forskriftens krav, jf. tredje ledd.
+
+Dersom systemoperatørens forslag oppfyller kravene etter første ledd og [§ 6-2](for-2003-11-14-1342-naturgassforskriften.md), [§ 7-1](for-2003-11-14-1342-naturgassforskriften.md) og [§ 7-2](for-2003-11-14-1342-naturgassforskriften.md), skal reguleringsmyndigheten ved enkeltvedtak godkjenne vilkår, tariffer eller metoder for tariffer senest en måned før de gjøres gjeldende. Vedtaket skal publiseres på reguleringsmyndighetens og systemoperatørens hjemmeside. Dersom reguleringsmyndigheten har godkjent eller fastsatt metoder for tariffer, skal systemoperatøren også publisere tariffene på sin hjemmeside.
+
+Dersom forslaget ikke er tilstrekkelig begrunnet, eller reguleringsmyndigheten av andre grunner ikke godkjenner systemoperatørens forslag, kan reguleringsmyndigheten kreve at systemoperatøren legger frem et nytt forslag eller selv fastsette vilkårene, tariffene eller metodene nevnt i første ledd.
+
+Vedtaket skal ha varighet på inntil 5 år. Reguleringsmyndigheten kan gi systemoperatøren pålegg om å justere vilkår, tariffer og metoder for tariffer for å sikre at disse er forholdsmessige og anvendes på en ikke-diskriminerende måte. Reguleringsmyndigheten kan endre et vedtak før det utløper dersom det er basert på uriktige opplysninger eller forhold av vesentlig betydning for vedtaket har endret seg. Berørte parter skal gis anledning til å uttale seg om endringer i vilkår, tariffer og metoder for tariffer.
+
+Systemoperatøren skal sende reguleringsmyndigheten et nytt forslag til vilkår, tariffer eller metoder for tariffer innen seks måneder før et eksisterende vedtak utløper.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+## Kapittel 4. Regnskap og krav til systemoperatøren
+
+### § 4-1. Regnskap
+
+Systemoperatøren skal føre regnskap, som skal være i samsvar med kravene i regnskapsloven. Systemoperatøren skal oppbevare en kopi av årsregnskapet som gjøres tilgjengelig for allmennheten på systemoperatørens hovedkontor, selv om denne ikke har plikt til å offentliggjøre sitt årsregnskap etter regnskapsloven.
+
+Systemoperatøren skal i sitt internregnskap føre atskilte regnskaper for virksomhetsområdene transmisjon, distribusjon, LNG- og lageranlegg på samme måte som om den aktuelle virksomheten hadde blitt utøvet av atskilte foretak. Kryss-subsidiering skal ikke forekomme. Differanse mellom internregnskap og årsregnskap skal avstemmes og forklares. Internregnskapet skal inneholde en balanse og et resultatregnskap for hvert virksomhetsområde.
+
+Prinsipper og regler som benyttes i utarbeidelsen av internregnskapene, skal komme klart frem og kan bare endres i særskilte tilfeller. Slike endringer skal angis og være behørig begrunnet.
+
+Systemoperatøren skal sørge for at revisor attesterer at systemoperatørens internregnskap er presentert i henhold til kravene i annet ledd.
+
+I notene til årsregnskapet skal alle transaksjoner som er gjennomført med tilknyttede foretak, angis.
+
+Reguleringsmyndigheten kan i enkeltvedtak fastsette krav til ytterligere spesifikasjoner, herunder krav om oppbevaring av regnskapsdata og hvordan regnskapet skal rapporteres til reguleringsmyndigheten.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87) (tidligere § 3-3), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 3-1).*
+
+### § 4-2. Forbud mot forskjellsbehandling
+
+Systemoperatøren skal ikke forskjellsbehandle systembrukere eller grupper av systembrukere.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87) (tidligere § 3-4), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 3-2).*
+
+### § 4-3. Informasjon
+
+Systemoperatøren skal uten ugrunnet opphold og på en effektiv måte gi systembrukere nødvendige opplysninger for adgang til systemet og opplysninger som er nødvendig for at disse kan oppfylle sine plikter etter forskriften.
+
+Systemoperatøren skal bevare taushet om opplysninger som nevnt i [forvaltningsloven § 13](../lover/lov-1967-02-10-forvaltningsloven.md) første ledd nr. 2 som mottas i forbindelse med utøvelsen av virksomheten, med mindre annet følger av § 9-2 eller lovbestemt opplysningsplikt.
+
+I forbindelse med systemoperatørens salg eller kjøp av naturgass, enten selv eller gjennom et tilknyttet foretak, skal systemoperatøren ikke misbruke opplysninger som nevnt i [forvaltningsloven § 13](../lover/lov-1967-02-10-forvaltningsloven.md) første ledd nr. 2, og som er mottatt fra tredjepart i forbindelse med tildeling av eller forhandling om adgang til systemet.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87) (tidligere § 3-6), [4 sep 2009 nr. 1156](https://lovdata.no/forskrift/2009-09-04-1156), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 3-4).*
+
+### § 4-4. Drift, vedlikehold og utvikling av anlegg
+
+Systemoperatøren skal drive, vedlikeholde og utvikle sikre, pålitelige og effektive anlegg og systemer for transmisjon, lagring, distribusjon eller LNG. Miljøhensyn skal ivaretas.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87) (tidligere § 3-5), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 3-3).*
+
+### § 4-5. Måling
+
+Systemoperatøren skal sørge for at innmating og uttak av naturgass i systemet blir målt.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+## Kapittel 5. Adgang til systemet
+
+### § 5-1. Adgang til system
+
+Systemoperatøren skal gi adgang til systemet etter anmodning fra et naturgassforetak i samsvar med vilkår fastsatt etter [§ 3-1](for-2003-11-14-1342-naturgassforskriften.md).
+
+Systemoperatøren kan nekte adgang til systemet dersom
+
+a. det ikke er kapasitet i systemet
+b. reguleringsmyndigheten har fattet et vedtak om unntak etter [§ 5-2](for-2003-11-14-1342-naturgassforskriften.md) eller [§ 5-3](for-2003-11-14-1342-naturgassforskriften.md).
+
+Systemoperatøren skal gi skriftlig begrunnelse for et avslag på en anmodning om adgang til systemet etter første ledd.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 5-2. Unntak for Jæren og Ryfylke
+
+Systemoperatør for distribusjonssystemet i områdene Jæren og Ryfylke er unntatt fra [§ 4-1](for-2003-11-14-1342-naturgassforskriften.md) fjerde ledd, [§ 5-1](for-2003-11-14-1342-naturgassforskriften.md) og [kapitlene 3](for-2003-11-14-1342-naturgassforskriften.md), [6](for-2003-11-14-1342-naturgassforskriften.md) og 7. Unntaket gjelder inntil 5 år etter ikrafttredelsen av [EØS-komiteens beslutning nr. 93/2017](https://lovdata.no/eu/22017d0093) av 5. mai 2017. Tilsvarende gjelder dersom det utpekes systemoperatør for distribusjonssystem i Hordaland.
+
+Reguleringsmyndigheten skal innen utløpet av tidsfristen i første ledd fatte vedtak om eventuell forlengelse av unntaket for en ny periode på fem år. Slik unntak kan deretter fornyes hvert femte år, maksimalt inntil 20 år etter ikrafttredelsen av [EØS-komiteens beslutning nr. 93/2017](https://lovdata.no/eu/22017d0093) av 5. mai 2017.
+
+Unntaket etter første ledd kan forlenges dersom krav om adgang til systemet vil skape betydelige problemer, særlig for utvikling av og investeringer i systemet. I vurderingen skal reguleringsmyndigheten vektlegge
+
+a. behovet for investeringer i systemet som ikke vil være lønnsomme med tredjepartsadgang
+b. omfanget av nødvendige investeringer og mulighetene til å tjene inn investeringene
+c. størrelsen på systemet og utbyggingsgrad
+d. hvordan markedet er ventet å utvikle seg videre
+e. den geografiske størrelsen og særtrekk ved området, inkludert samfunnsøkonomiske og demografiske faktorer.
+
+Før reguleringsmyndigheten fatter et vedtak skal den oversende et begrunnet forslag til EFTAs overvåkningsorgan for konsultasjon.
+
+EFTAs overvåkningsorgan kan innen to måneder etter at reguleringsmyndigheten har underrettet om forslaget til vedtak, kreve at reguleringsmyndigheten gjør endringer i vedtaket. Tidsfristen kan forlenges dersom reguleringsmyndigheten og EFTAs overvåkningsorgan er enige om dette. Reguleringsmyndigheten skal informere EØS-komiteen og EFTAs overvåkningsorgan når det vedtaket er fattet.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 5-3. Unntak knyttet til avtaler med faste betalingsforpliktelser
+
+Systemoperatøren kan søke reguleringsmyndigheten om midlertidig unntak fra [§ 5-1](for-2003-11-14-1342-naturgassforskriften.md) første ledd dersom adgang til systemet vil skape betydelige økonomiske problemer for systemoperatøren på grunn av avtaler om kjøp av gass med faste betalingsforpliktelser. I vurderingen av om søknaden skal innvilges, skal reguleringsmyndigheten vektlegge:
+
+a. målet om å skape et konkurransebasert gassmarked
+b. om unntak er nødvendig for å oppfylle forpliktelser til å yte offentlige tjenester og garantere forsyningssikkerheten
+c. systemoperatørens stilling i gassmarkedet og den faktiske konkurransen i dette markedet
+d. omfanget av de økonomiske problemene til systemoperatøren som oppstår som følge av avtaler med faste betalingsforpliktelser
+e. tidspunktet avtalen ble inngått, innholdet i avtalevilkårene og i hvor stor grad avtalevilkårene er tilpasset markedsutviklingen
+f. hvilke tiltak som er forsøkt for å overvinne de økonomiske problemene som betalingsforpliktelsene fører til
+g. om foretaket, da det forpliktet seg, med rimelighet kunne ha forutsett at de økonomiske problemene kunne oppstå
+h. om systemet er koplet sammen med andre nett, og i hvilken grad nettene har evne til å virke sammen
+i. hvordan et unntak kan påvirke formålet med tredjepartsadgang og hensynet til det indre markedet.
+
+Før reguleringsmyndigheten fatter enkeltvedtak etter første ledd, skal den oversende et begrunnet forslag til vedtak til EFTAs overvåkningsorgan for konsultasjon.
+
+EFTAs overvåkningsorgan kan innen to måneder etter at reguleringsmyndigheten har underrettet om forslaget til vedtak, kreve at reguleringsmyndigheten gjør endringer i forslaget til vedtak. Tidsfristen kan forlenges dersom reguleringsmyndigheten og EFTAs overvåkningsorgan er enige i dette. Reguleringsmyndigheten skal informere EØS-komiteen og EFTAs overvåkningsorgan når det endelige vedtaket er fattet.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+## Kapittel 6. Balansering av systemet
+
+### § 6-1. Ansvaret for balansering av systemet
+
+Systemoperatøren skal sørge for å opprettholde balanse i systemet for gass på en kostnadseffektiv måte.
+
+Systemoperatøren skal tilrettelegge for at kapasiteten i systemet utnyttes på en effektiv måte. Ved mangel på kapasitet i systemet, skal kapasiteten fordeles etter en mekanisme som er objektiv og ikke-diskriminerende mellom naturgassforetak med adgang til systemet.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 6-2. Vilkår for balansering av systemet
+
+Vilkårene som systemoperatøren utarbeider i samsvar med [§ 3-1](for-2003-11-14-1342-naturgassforskriften.md) for balansering, skal være nødvendige for å sikre balanse i systemet. Naturgassforetak skal overholde vilkårene.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+## Kapittel 7. Tariffer
+
+### § 7-1. Tariffer for adgang til systemet
+
+Beregningsgrunnlaget for tariffer for adgang til systemet skal omfatte relevante fremtidige kostnader til drift, vedlikehold og investeringer for distribusjon, samt en rimelig avkastning på investert kapital gitt effektiv drift, utnyttelse og utvikling av slik infrastruktur.
+
+Ved godkjenningen eller fastsettelsen skal reguleringsmyndigheten ta hensyn til urimelig høy avkastning i foregående tariffperioder (meravkastning). Reguleringsmyndigheten kan ta hensyn til urimelig lav avkastning i foregående tariffperioder (mindreavkastning).
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 7-2. Tariff for tilknytning til systemet
+
+Systemoperatøren kan kreve et tilknytningsgebyr eller anleggsbidrag ved nye tilknytninger av systembrukere eller ved oppdimensjonering av en eksisterende tilknytning. Dersom systemoperatøren benytter seg av et tilknytningsgebyr eller anleggsbidrag, skal dette pålegges alle nye tilknytninger og oppdimensjoneringer i systemet.
+
+Et tilknytningsgebyr skal være standardisert etter objektive kriterier. Et anleggsbidrag kan dekke hele eller deler av nødvendige kostnader som oppstår som følge av ny tilknytning, eller oppgradering av eksisterende tilknytning.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+## Kapittel 8. Kundeforhold og forbrukerrettigheter
+
+### § 8-1. Informasjonsplikt overfor kunder
+
+Et naturgassforetak som forsyner kunder med naturgass, skal sikre at kunden får tydelig informasjon om sitt uttak av naturgass, gjeldende priser og øvrig fakturagrunnlag, slik at kunden får et grunnlag for å styre eget gassforbruk. Naturgassforetaket skal gjøre slik informasjon tilgjengelig senest ved hvert faktureringstidspunkt, og kan ikke kreve vederlag for å gi kunden denne informasjonen.
+
+Naturgassforetak skal gi kundene tydelig informasjon om tariffer, avtalevilkår og forbrukernes rettigheter. Dette omfatter informasjon om hvilke opplysninger kunden må oppgi for å skifte gassleverandør.
+
+*Endret ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 3-6).*
+
+### § 8-2. Fakturering av forbrukere
+
+Naturgassforetak skal avregne og fakturere forbrukere minst hver tredje måned.
+
+Dersom naturgassforetaket fakturerer en forbruker forskuddsvis, skal forskuddsfaktureringen avspeile forventet bruk.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 8-3. Endring i avtale med forbruker
+
+Naturgassforetak skal varsle forbrukeren to måneder før en endring av kontraktsvilkårene, herunder om hevingsretten i annet ledd.
+
+Dersom forbrukeren ikke aksepterer de nye vilkårene naturgassforetaket har underrettet om, har forbrukeren rett til å heve kontrakten.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 8-4. Avslutning av kundeavtale
+
+Dersom en kunde avslutter et avtaleforhold om gassforsyning, skal naturgassforetaket som forsyner kunden, avvikle avtaleforholdet uten ugrunnet opphold og senest innen tre uker. Sluttfaktura skal sendes kunden senest innen 6 uker etter opphøret av avtaleforholdet. Første og annet punktum gjelder likevel ikke hvis kunden og naturgassforetaket har avtalt annen bindingstid.
+
+Naturgassforetak kan ikke ta betalt av kunden for å gjennomføre et skifte av gassleverandør.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+## Kapittel 9. Gasstransmisjonsforordningen
+
+### § 9-1. Gjennomføring av gasstransmisjonsforordningen og tilhørende kommisjonsbeslutninger
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 27 (forordning [(EF) nr. 715/2009](https://lovdata.no/eu/32009r0715) om vilkår for tilgang til overføringsnett for naturgass og om oppheving av forordning [(EF) nr. 1775/2005](https://lovdata.no/eu/32005r1775), som endret ved kommisjonsbeslutning [2010/685/EU](https://lovdata.no/eu/32010d0685) 10. november 2010, kommisjonsbeslutning [2012/490/EU](https://lovdata.no/eu/32012d0490) 24. august 2012) og kommisjonsbeslutning [(EU) 2015/715](https://lovdata.no/eu/32015d0715) gjelder som forskrift med de endringene og tilleggene som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+«Reguleringsmyndighet» skal i forordning [(EF) nr. 715/2009](https://lovdata.no/eu/32009r0715*) om vilkår for tilgang til overføringsnett for naturgass forstås som Reguleringsmyndigheten for energi.
+
+Enhver plikter på anmodning, og innen fastsatt tidsfrist, å gi Reguleringsmyndigheten for energi opplysninger som nevnt i forordning [(EF) nr. 715/2009](https://lovdata.no/eu/32009r0715*) artikkel 25.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019), endret ved [forskrift 7 juni 2021 nr. 1796](https://lovdata.no/forskrift/2021-06-07-1796).*
+
+## Kapittel 10. Diverse bestemmelser
+
+### § 10-1. Kontroll
+
+Reguleringsmyndigheten fører kontroll med at bestemmelsene i [kapitlene 3](for-2003-11-14-1342-naturgassforskriften.md)–[8](for-2003-11-14-1342-naturgassforskriften.md) blir overholdt. Departementet fører kontroll med at bestemmelsene i [kapittel 2](for-2003-11-14-1342-naturgassforskriften.md) blir overholdt.
+
+*Endret ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 4-1).*
+
+### § 10-2. Informasjon
+
+Enhver plikter å gi departementet eller reguleringsmyndigheten nødvendige opplysninger for utøvelse av myndighet etter denne forskriften. Det kan gis nødvendige pålegg for å gjennomføre opplysningsplikten etter første punktum.
+
+*Endret ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 4-2).*
+
+### § 10-3. Dispensasjon
+
+Departementet kan i særlige tilfeller dispensere fra denne forskriften, bestemmelser gitt i medhold av forskriften og vilkår satt i konsesjoner gitt i medhold av forskriften, innenfor rammen av Norges forpliktelser etter EØS-avtalen.
+
+*Endret ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 4-3).*
+
+### § 10-4. Pålegg
+
+Reguleringsmyndigheten kan gi nødvendige pålegg for gjennomføringen av bestemmelsene i [§ 3-1](for-2003-11-14-1342-naturgassforskriften.md) og [kapitlene 4](for-2003-11-14-1342-naturgassforskriften.md)–[8](for-2003-11-14-1342-naturgassforskriften.md) og for gjennomføringen av enkeltvedtak etter [§ 3-1](for-2003-11-14-1342-naturgassforskriften.md).
+
+Departementet kan gi nødvendige pålegg for gjennomføringen av bestemmelsene i [kapittel 2](for-2003-11-14-1342-naturgassforskriften.md) og [§ 10-2](for-2003-11-14-1342-naturgassforskriften.md).
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87) (tidligere § 4-5), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 4-4).*
+
+### § 10-5. Tvangsmulkt
+
+Reguleringsmyndigheten kan ilegge tvangsmulkt ved overtredelse av enkeltvedtak etter [§ 3-1](for-2003-11-14-1342-naturgassforskriften.md), jf. [§ 5-1](for-2003-11-14-1342-naturgassforskriften.md), [§ 6-2](for-2003-11-14-1342-naturgassforskriften.md), [§ 7-1](for-2003-11-14-1342-naturgassforskriften.md) og [§ 7-2](for-2003-11-14-1342-naturgassforskriften.md). Det samme gjelder ved manglende oppfyllelse av pålegg hjemlet i [§ 10-4](for-2003-11-14-1342-naturgassforskriften.md) første ledd og [§ 10-2](for-2003-11-14-1342-naturgassforskriften.md) annet punktum.
+
+Departementet kan ilegge tvangsmulkt ved manglende oppfyllelse av pålegg etter [§ 10-4](for-2003-11-14-1342-naturgassforskriften.md) annet ledd og [§ 10-2](for-2003-11-14-1342-naturgassforskriften.md) annet punktum.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 10-6. Straff
+
+Den som forsettlig eller grovt uaktsomt overtrer [§ 4-4](for-2003-11-14-1342-naturgassforskriften.md) annet eller tredje ledd, straffes med bøter eller fengsel i inntil ett år eller begge deler.
+
+*Tilføyd ved [forskrift 24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019).*
+
+### § 10-7. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2004.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 87](https://lovdata.no/forskrift/2008-02-01-87) (tidligere § 4-7), [24 okt 2019 nr. 1435](https://lovdata.no/forskrift/2019-10-24-1435) (i kraft 1 nov 2019, tidligere § 4-6).*

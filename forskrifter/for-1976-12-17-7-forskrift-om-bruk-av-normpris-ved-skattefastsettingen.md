@@ -1,0 +1,56 @@
+# Forskrift om bruk av normpris ved skattefastsettingen (Undersjøiske naturforekomster mv.)
+
+- **Korttittel:** Forskrift om bruk av normpris ved skattefastsettingen
+- **Datokode:** FOR-1976-12-17-7
+- **DokumentID:** SF/forskrift/1976-12-17-7
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavd.
+- **Hjemmel:** lov 13.06.1975 nr. 35/§4; lov 13.06.1975 nr. 35/§8
+- **Publisert i:** I 1976 974
+- **Siste endring i kraft:** 2017-01-01
+- **Sist endret ved:** forskrift 09.12.2016 nr. 1473 fra 2017-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt med hjemmel i lov om skattelegging av undersjøiske petroleumsforekomster m.v. av 13. juni 1975 § 4, § 7 og § 8. Endret ved forskrifter 26 nov 1982 nr. 1632, 11 sep 1987 nr. 746, 15 sep 2004 nr. 1265, 14 mars 2006 nr. 305, 9 des 2016 nr. 1473.
+- **Kilde:** <https://lovdata.no/forskrift/1976-12-17-7>
+
+## § 1. Bruk av normpriser
+
+Til bruk ved formues- og inntektsfastsettingen, herunder fastsetting av særskatt, ansettes solgt petroleum, petroleum uttatt til egen bruk og lagerbeholdning av petroleum til normpris.
+
+*Endret ved [forskrift 9 des 2016 nr. 1473](https://lovdata.no/forskrift/2016-12-09-1473) (i kraft 1 jan 2017).*
+
+## § 2. Tidspunktet for beskatning.
+
+Ved ansettelsen nyttes den normpris som gjaldt da petroleumen passerte det sted som det enkelte normprisvedtak forutsetter som leveringssted.
+
+Ved lasting eller lossing av skip på det leveringssted som normprisvedtaket forutsetter, anses petroleumen passert idet innlastingen eller utlossingen av hele skipslasten er fullført.
+
+## § 3. For meget eller for lite uttatt petroleum.
+
+Drives produksjonen av flere produsenter i fellesskap, skal det kvantum den enkelte faktisk uttar, legges til grunn ved beregning av inntekt etter normpris.
+
+Forpliktelser eller tilgodehavender som skyldes at dette kvantum avviker fra det han har dekket tilvirkningskostnadene for, skal ansettes til tilvirkningskost.
+
+## § 4. Regulering av normpris ved avvikende betalingsvilkår.
+
+Er det for det enkelte salg innrømmet lengre kredittid enn den som er lagt til grunn ved normprisfastsettelsen, skal den fastsatte normpris økes med en rente for hver overskytende dag. Renten fastsettes til (r + 0,5) dividert med 365, hvor r representerer renten for statskasseveksler med 12 måneders løpetid for vedkommende år. Det skal gjøres en tilsvarende reduksjon i normprisen når den faktiske kredittid er kortere, dog slik at innrømmet kredittid aldri regnes å være kortere enn 30 dager. Ved uttak til egen bruk og ved salg på vilkår om kontant betaling forholdes som om 30 dagers kredittid er innrømmet.
+
+*Endret ved [forskrifter 15 sep 2004 nr. 1265](https://lovdata.no/forskrift/2004-09-15-1265) (fom inntektsåret 2004), [14 mars 2006 nr. 305](https://lovdata.no/forskrift/2006-03-14-305) (fom inntektsåret 2006).*
+
+## § 5. Tillegg til normprisinntekten for kostnader som ikke er forutsatt fratrukket.
+
+Andre fradragsførte kostnader enn de som skyldes avvikende betalingsvilkår, skal tillegges den skattepliktige inntekt når det ved normprisfastsettelsen er lagt til grunn at de ikke skal være fradragsberettiget.
+
+## § 6. Lagerbeholdning av petroleum.
+
+Med lagerbeholdning av petroleum forstås i disse forskrifter petroleum som har passert det sted som det enkelte normprisvedtak forutsetter som leveringssted, uten å være bokført som solgt eller uttatt til egen bruk.
+
+Beholdning av petroleum som det fastsettes normpris for kan ansettes til 0 ved fastsettingen for så vidt petroleumen ikke har passert det punkt som i det enkelte normprisvedtak er forutsatt som leveringssted. Annen petroleum kan verdsettes til 0 for så vidt den befinner seg i rørledning.
+
+*Endret ved [forskrift 9 des 2016 nr. 1473](https://lovdata.no/forskrift/2016-12-09-1473) (i kraft 1 jan 2017).*
+
+## § 7. Ikrafttreden.
+
+Disse forskrifter gjelder første gang ved ligningen for inntektsåret 1976 eller for avvikende regnskapsår som utløper i 1976.
+
+[§ 4](for-1976-12-17-7-forskrift-om-bruk-av-normpris-ved-skattefastsettingen.md) gjelder likevel første gang for inntektsåret 1977.

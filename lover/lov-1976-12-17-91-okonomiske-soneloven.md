@@ -1,0 +1,126 @@
+# Lov om Norges økonomiske sone [økonomiske soneloven]
+
+- **Korttittel:** Økonomiske soneloven – øksonl
+- **Datokode:** LOV-1976-12-17-91
+- **DokumentID:** NL/lov/1976-12-17-91
+- **Departement:** Nærings- og fiskeridepartementet
+- **I kraft fra:** 1976-12-17
+- **Siste endring i kraft:** 2017-07-01
+- **Sist endret ved:** lov 16.06.2017 nr. 73 fra 2017-07-01
+- **Rettsområde:** Fiskeri- og fangstrett og havbruk > Fiskeri; Internasjonal rett > Havrett; Stats-, statsforfatnings- og statsborgerrett > Grenser; Svalbard og biland > Fiske
+- **Siste rettelse:** 2021-08-27 (faglige fotnoter fjernet, struktur, UU-tilpasset)
+- **Merknad:** Jf. lover 6 juni 2008 nr. 37 § 20, 24 juni 2011 nr. 39 § 2 (2).
+- **Kilde:** <https://lovdata.no/lov/1976-12-17-91>
+
+## § 1.
+
+Det opprettes en økonomisk sone i havområdene utenfor Kongeriket Norge. Kongen fastsetter tidspunktet for opprettelsen av den økonomiske sone, og hvilke havområder den skal omfatte.
+
+Yttergrensen for den økonomiske sone trekkes i en avstand av 200 nautiske mil (én nautisk mil = 1852 meter) fra de grunnlinjer som til enhver tid er fastsatt, likevel ikke ut over midtlinjen i forhold til andre stater med mindre annet følger av overenskomst med vedkommende stat.
+
+Opprettelsen av økonomisk sone medfører ingen endring i reglene for Norges sjøterritorium.
+
+*Endret ved [lov 30 juni 2006 nr. 60](https://lovdata.no/lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](https://lovdata.no/forskrift/2006-06-30-741)).*
+
+## § 2.
+
+Opprettelse av den økonomiske sone berører ikke retten til skipsfart i eller overflyging over vedkommende havområder eller retten til å legge undersjøiske kabler og rørledninger.
+
+Opprettelse av den økonomiske sone endrer ikke innholdet i eller anvendelsesområdet for [lov 21. juni 1963 nr. 12](lov-1963-06-21-12-lov-om-andre-undersjoiske-naturforekomster.md) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og [lov 29. november 1996 nr. 72](lov-1996-11-29-72-petroleumsloven.md) om petroleumsvirksomhet eller forskrifter gitt i medhold av disse lover.
+
+*Endret ved [lover 22 mars 1985 nr. 11](https://lovdata.no/lov/1985-03-22-11), [30 juni 2006 nr. 60](https://lovdata.no/lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](https://lovdata.no/forskrift/2006-06-30-741)).*
+
+## § 3.
+
+Det er forbudt å drive fiske eller fangst eller annen utnyttelse av viltlevende marine ressurser innenfor den økonomiske sonen for den som ikke faller inn under [deltakerloven § 5](lov-1999-03-26-15-deltakerloven.md). Bestemmelsene i [havressurslova kapittel 4 a](https://lovdata.no/lov/2008-06-06-37/kap4a) gjelder tilsvarende i den økonomiske sone.
+
+Bestemmelsene i første ledd gjelder med mindre annet følger av forskrifter gitt med hjemmel i paragrafene 4 eller 6 i denne lov.
+
+*Endret ved [lover 27 juni 2003 nr. 57](lov-2003-06-27-57-territorialfarvannsloven.md) (ikr. 1 jan 2004 iflg. [res. 27 juni 2003 nr. 798](https://lovdata.no/forskrift/2003-06-27-798)), [6 juni 2008 nr. 37](https://lovdata.no/lov/2008-06-06-37) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](https://lovdata.no/forskrift/2008-12-12-1355)), [31 mai 2013 nr. 24](https://lovdata.no/lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](https://lovdata.no/forskrift/2013-05-31-540)), [16 juni 2017 nr. 73](https://lovdata.no/lov/2017-06-16-73) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 747](https://lovdata.no/forskrift/2017-06-16-747)).*
+
+## § 4.
+
+Kongen kan gi forskrifter om fiske og fangst og annen utnyttelse av viltlevende marine ressurser i den økonomiske sone, herunder om
+
+a. største tillatte fangstmengde og fangstinnsats, samlet og for bestemte fiskeslag og bestemte områder,
+b. adgang for fiskere fra andre stater til å fiske andeler av tillatte fangstkvanta, og om vilkårene for slikt fiske,
+c. tiltak for å sikre en rasjonell og forsvarlig utøving av fisket, herunder bestemmelser om antall fartøyer, fartøystørrelse, redskapsbruk, redskapsbegrensninger, fredningstider, samt trålfrie soner og andre områdebegrensninger,
+d. andre tiltak til vern og fremme av bestander av fisk, skalldyr og de levende ressurser for øvrig.
+
+*Endret ved [lov 6 juni 2008 nr. 37](https://lovdata.no/lov/2008-06-06-37) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](https://lovdata.no/forskrift/2008-12-12-1355)).*
+
+## § 5.
+
+Inntil den økonomiske sone er iverksatt, kan Kongen for de områder som er nevnt i [§ 1](lov-1976-12-17-91-okonomiske-soneloven.md), fastsette midlertidige bestemmelser til vern om fiskebestanden, begrensning av utenlandsk fiske og sikring av en rasjonell og forsvarlig utøving av fisket.
+
+## § 6.
+
+Kongen kan gjøre unntak fra bestemmelsene i [§§ 3](lov-1976-12-17-91-okonomiske-soneloven.md), [4](lov-1976-12-17-91-okonomiske-soneloven.md) og [5](lov-1976-12-17-91-okonomiske-soneloven.md) eller forskrift gitt i medhold av disse i området mellom 12 nautiske mil og 200 nautiske mil når dette er nødvendig av hensyn til overenskomst med fremmed stat eller hvor særlige hensyn tilsier det. Slike unntak kan også gjøres gjeldende innenfor 12 nautiske mil for så vidt angår områder der bestemmelsene i [havressurslova kapittel 4 a](https://lovdata.no/lov/2008-06-06-37/kap4a) ikke er iverksatt.
+
+*Endret ved [lover 27 juni 2003 nr. 57](lov-2003-06-27-57-territorialfarvannsloven.md) (ikr. 1 jan 2004 iflg. [res. 27 juni 2003 nr. 798](https://lovdata.no/forskrift/2003-06-27-798)), [31 mai 2013 nr. 24](https://lovdata.no/lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](https://lovdata.no/forskrift/2013-05-31-540)), [16 juni 2017 nr. 73](https://lovdata.no/lov/2017-06-16-73) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 747](https://lovdata.no/forskrift/2017-06-16-747)).*
+
+## § 7.
+
+Kongen kan innen folkerettens grenser fastsette nærmere bestemmelser for sonen, herunder om
+
+a. miljøvern,
+b. vitenskapelige undersøkelser,
+c. faste eller midlertidige kunstige øyer, installasjoner, herunder kunstige havneanlegg, og andre konstruksjoner,
+d. kabler og rørledninger,
+e. utforskning og utnytting av sonen for andre økonomiske formål, herunder produksjon av energi.
+
+## § 7 a.
+
+Ved forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne loven, kan det ilegges overtredelsesgebyr. Ved overtredelse av bestemmelser gitt i medhold av denne loven, kan det bare ilegges overtredelsesgebyr når dette går fram av forskriften.
+
+Hvis noen som handler på vegne av et foretak har overtrådt en bestemmelse gitt i eller i medhold av denne loven, kan foretaket ilegges et overtredelsesgebyr. Det gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr.
+
+Overtredelsesgebyret kan ilegges etter faste satser eller utmåles i hvert enkelt tilfelle. Ved fastsettelsen av gebyret kan det blant annet tas hensyn til fortjenesten eller den potensielle fortjenesten som den ansvarlige har hatt ved overtredelsen, hvor alvorlig overtredelsen er og ekstra kostnader som kontrolltiltak og behandling av saken har medført.
+
+Kongen kan i forskrift gi nærmere regler om fastsettelse av overtredelsesgebyr og bestemmelser om renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall.
+
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Overtredelsesgebyr kan også kreves inn gjennom salgslaget ved motregning i fangstoppgjør. Domstolene kan prøve størrelsen på gebyret.
+
+*Tilføyd ved [lov 31 mai 2013 nr. 24](https://lovdata.no/lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](https://lovdata.no/forskrift/2013-05-31-540)).*
+
+## § 7 b.
+
+For å sikre at bestemmelser gitt i eller i medhold av denne loven, eller plikt fastsatt i medhold av denne loven, blir oppfylt, kan det ilegges tvangsmulkt.
+
+Tvangsmulkten er en løpende mulkt som går fra en særskilt fastsatt frist for oppfyllelse av et pålegg, dersom denne fristen er utløpt uten at pålegget er oppfylt. Departementet kan i særlige tilfeller redusere eller frafalle påløpt mulkt.
+
+Kongen kan i forskrift gi nærmere regler om fastsettelse, gjennomføring og tidsrom tvangsmulkten skal gjelde for, og bestemmelser om rente og tilleggsgebyr dersom tvangsmulkten ikke blir betalt ved forfall.
+
+Tvangsmulkt kan kreves inn gjennom salgslaget ved motregning i fangstoppgjør.
+
+*Tilføyd ved [lov 31 mai 2013 nr. 24](https://lovdata.no/lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](https://lovdata.no/forskrift/2013-05-31-540)).*
+
+## § 8.
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter.
+
+Forsøk straffes på samme måte som fullbyrdet overtredelse.
+
+Fartøyføreren kan vedta forelegg på oppdragsgiverens vegne. Oppdragsgiveren kan også ilegges straff i sak som reises mot fartøyføreren.
+
+Når straffansvar kan gjøres gjeldende mot fartøyføreren for en handling noen av mannskapet på et fartøy har begått, kan den underordnede bare straffes for forsettlig overtredelse. Ved avgjørelsen av om den underordnede skal straffes, skal det særlig tas hensyn til den preventive virkningen av straffen, hvor grov overtredelsen er, og om vedkommende har hatt eller kunne ha oppnådd fordel ved overtredelsen.
+
+*Endret ved [lover 3 juni 1983 nr. 40](https://lovdata.no/lov/1983-06-03-40), [20 juli 1991 nr. 66](https://lovdata.no/lov/1991-07-20-66), [13 juni 1997 nr. 42](lov-1997-06-13-42-kystvaktloven.md) (ikr. 5 nov 1999 iflg. [res. 5 nov 1999 nr. 1143](https://lovdata.no/forskrift/1999-11-05-1143)), [6 juni 2008 nr. 37](https://lovdata.no/lov/2008-06-06-37) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](https://lovdata.no/forskrift/2008-12-12-1355)), [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+## § 9.
+
+Ved overtredelse av bestemmelser gitt i eller i medhold av denne lov kan inndras fartøy som er brukt ved overtredelsen, og tilbehør, fangst og redskap som er om bord, uansett hvem som er eier. I stedet for tingen kan verdien helt eller delvis inndras hos den skyldige eller hos den han har handlet på vegne av, eller hos eieren. Det kan bestemmes at panterett og andre rettigheter i ting som inndras helt eller delvis faller bort. Bestemmelsene i [straffelovens § 74](lov-2005-05-20-28-straffeloven.md) får tilsvarende anvendelse. Når lovlig eller ulovlig fangst er blandet sammen, kan hele fangsten inndras.
+
+*Tilføyd ved [lov 3 juni 1983 nr. 40](https://lovdata.no/lov/1983-06-03-40), endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+## § 10.
+
+Kongen kan for en overgangsperiode eller etter avtale med fremmed stat fastsette begrensninger i anvendelsen av [§ 8](lov-1976-12-17-91-okonomiske-soneloven.md) og [§ 9](lov-1976-12-17-91-okonomiske-soneloven.md).
+
+*Tilføyd ved [lov 3 juni 1983 nr. 40](https://lovdata.no/lov/1983-06-03-40).*
+
+## § 11.
+
+Denne lov trer i kraft straks.
+
+*Endret ved [lov 3 juni 1983 nr. 40](https://lovdata.no/lov/1983-06-03-40).*

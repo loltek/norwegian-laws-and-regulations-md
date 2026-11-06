@@ -1,0 +1,63 @@
+# Forskrift om tilskudd til tiltak mot marin forsøpling
+
+- **Datokode:** FOR-2018-12-05-1812
+- **DokumentID:** SF/forskrift/2018-12-05-1812
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Hav- og forurensningsavdelingen
+- **Kunngjort:** 2018-12-07 14:20
+- **I kraft fra:** 2019-01-01
+- **Siste endring i kraft:** 2024-02-06
+- **Sist endret ved:** forskrift 06.02.2024 nr. 693
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2022-01-01 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Klima- og miljødepartementet 5. desember 2018 med hjemmel i Stortingets årlige budsjettvedtak. Endret ved forskrifter 13 jan 2020 nr. 43, 3 des 2021 nr. 3478 (i kraft 1 jan 2022), 6 feb 2024 nr. 693. Rettelser: 01.01.2022 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2018-12-05-1812>
+
+## § 1. Formålet med ordningen
+
+Tilskuddsordningen skal bidra til gjennomføring av tiltak for å redusere marin forsøpling i Norge, både opprydding og forebyggende tiltak. Hovedmålet med ordningen er opprydding i strandsonen. Det kan også gis tilskudd til tilsvarende tiltak langs eller ved elver, vann og innsjøer.
+
+Sjø/havbunn frem til marbakken, eller til 5 m dyp, regnes også som strandsonen. I særskilte tilfeller kan det også gis støtte til rydding ned til større dyp.
+
+## § 2. Målgruppe
+
+Tilskudd fra ordningen kan tildeles frivillige og ideelle organisasjoner og stiftelser registrert i Enhetsregisteret. Tilskudd kan også tildeles private bedrifter, og selvstendige kommunale og interkommunale selskaper og samarbeidsorganer, slik som avfallsselskap og friluftsråd.
+
+## § 3. Tildelingskriterier
+
+Følgende tiltak kan støttes:
+
+1. Opprydding av marin forsøpling, og koordinering av slike prosjekter og
+2. Prosjekter med hensikt å forebygge marin forsøpling.
+
+Tiltaket skal videre oppfylle følgende tildelingskriterier:
+
+a. Tiltaket skal bidra til å redusere marin forsøpling,
+b. Tiltaket skal skje i norske områder, inkludert Svalbard,
+c. Prinsippet om at forurenser betaler skal ligge til grunn,
+d. Søker og deltakere i prosjektet skal bidra med egeninnsats og
+e. Søker må ha tilstrekkelig kompetanse til å gjennomføre tiltaket.
+
+Årlige satsingsområder og prioriteringer for tilskuddsordningen kunngjøres i utlysningen.
+
+*Endret ved [forskrift 13 jan 2020 nr. 43](https://lovdata.no/forskrift/2020-01-13-43).*
+
+## § 4. Krav til søknaden
+
+Søknad om tilskudd skal sendes til Miljødirektoratet gjennom Miljødirektoratets elektroniske søknadssenter innen søknadsfristen, som blir kunngjort på Miljødirektoratets nettsider. Miljødirektoratet kan be om utfyllende opplysninger som er nødvendige for å behandle søknaden.
+
+*Endret ved forskrifter [3 des 2021 nr. 3478](https://lovdata.no/forskrift/2021-12-03-3478) (i kraft 1 jan 2022), [6 feb 2024 nr. 693](https://lovdata.no/forskrift/2024-02-06-693).*
+
+## § 5. Krav til rapportering
+
+Mottaker av tilskudd skal levere sluttrapport og sluttregnskap til Miljødirektoratet gjennom Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tildelingsvedtaket. Miljødirektoratet kan fastsette nærmere krav til rapporteringen i tildelingsvedtaket.
+
+*Endret ved forskrifter [3 des 2021 nr. 3478](https://lovdata.no/forskrift/2021-12-03-3478) (i kraft 1 jan 2022), [6 feb 2024 nr. 693](https://lovdata.no/forskrift/2024-02-06-693).*
+
+## § 6. Omgjøring og tilbakebetaling
+
+Tilskudd som ikke er brukt i samsvar med vilkårene i tildelingsvedtaket kan kreves tilbakebetalt.
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2019.

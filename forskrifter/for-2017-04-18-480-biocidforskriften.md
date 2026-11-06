@@ -1,0 +1,1576 @@
+# Forskrift om biocider (Biocidforskriften)
+
+- **Korttittel:** Biocidforskriften
+- **Datokode:** FOR-2017-04-18-480
+- **DokumentID:** SF/forskrift/2017-04-18-480
+- **Departement:** Arbeids- og inkluderingsdepartementet; Klima- og miljødepartementet
+- **Etat:** Hav- og forurensningsavdelingen, Miljødirektoratet, Arbeidstilsynet
+- **Hjemmel:** lov 11.06.1976 nr. 79/§4; lov 11.06.1976 nr. 79/§8a; forskrift 05.08.1977 nr. 2; forskrift 07.09.1990 nr. 730; lov 17.06.2005 nr. 62/§4-5; lov 17.06.2005 nr. 62/§5-4; forskrift 30.06.2017 nr. 1126; forskrift 30.11.2017 nr. 1863
+- **Kunngjort:** 2017-04-21 15:10
+- **I kraft fra:** 2017-04-18
+- **Siste endring i kraft:** 2026-10-09
+- **Sist endret ved:** forskrift 09.10.2026 nr. 2041
+- **Endrer:** forskrift 10.04.2014 nr. 548
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2024-05-08 (rettelse i tabell i vedlegg 3)
+- **Merknad:** Hjemmel: Fastsatt av Klima- og miljødepartementet og Arbeids- og sosialdepartementet 18. april 2017 med hjemmel i lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4 og § 8a, jf. forskrift 5. august 1977 nr. 2 om gjennomføring av lov om kontroll med produkter og forbrukertjenester og delegeringsvedtak 7. september 1990 nr. 730 og lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 4-5 syvende ledd og § 5-4 tredje ledd. Tilføyd hjemmel: Delegeringsvedtak 30. juni 2017 nr. 1126, delegeringsvedtak 30. november 2017 nr. 1863. EØS-henvisninger: EØS-avtalen vedlegg II kap. XV nr. 12n (forordning (EU) nr. 528/2012, forordning (EU) nr. 736/2013, forordning (EU) nr. 837/2013, forordning (EU) nr. 334/2014, forordning (EU) 2019/1819, forordning (EU) 2019/1820, forordning (EU) 2019/1821, forordning (EU) 2019/1822, forordning (EU) 2019/1823, forordning (EU) 2019/1824, forordning (EU) 2019/1825, forordning (EU) 2021/407, forordning (EU) 2021/525), forordning (EU) 2021/806, forordning (EU) 2021/807, forordning (EU) 2024/1290, forordning (EU) 2024/1398 og forordning (EU) 2026/1165), nr. 12na (forordning (EU) nr. 945/2013), nr. 12nb (forordning (EU) nr. 955/2013), nr. 12nc (forordning (EU) nr. 1032/2013), nr. 12nd (forordning (EU) nr. 1033/2013), nr. 12ne (forordning (EU) nr. 1034/2013), nr. 12nf (forordning (EU) nr. 1035/2013), nr. 12ng (forordning (EU) nr. 1036/2013), nr. 12nh (forordning (EU) nr. 1037/2013), 12ni (forordning (EU) nr. 1038/2013), nr. 12nj (forordning (EU) nr. 1039/2013), nr. 12nk (forordning (EU) nr. 354/2013), nr. 12nl (forordning (EU) nr. 564/2013 og forordning (EU) 2025/1490), nr. 12nm (forordning (EU) nr. 88/2014), nr. 12nn (forordning (EU) nr. 89/2014), nr. 12no (forordning (EU) nr. 90/2014), nr. 12np (forordning (EU) nr. 91/2014), nr. 12nq (forordning (EU) nr. 92/2014), nr. 12nr (forordning (EU) nr. 93/2014), nr. 12ns (forordning (EU) nr. 94/2014), nr. 12nt (forordning (EU) nr. 405/2014), nr. 12nu (forordning (EU) nr. 406/2014), nr. 12nv (forordning (EU) nr. 407/2014), nr. 12nw (forordning (EU) nr. 408/2014), nr. 12nx (beslutning 2014/227/EU), nr. 12ny (forordning (EU) nr. 437/2014), nr. 12nz (forordning (EU) nr. 438/2014), nr. 12nza (forordning (EU) nr. 1062/2014, forordning (EU) 2017/698, forordning (EU) 2019/157, forordning (EU) 2019/227), forordning (EU) 2022/825, nr. 12nzb (forordning (EU) nr. 1090/2014), nr. 12nzc (forordning (EU) nr. 1091/2014), nr. 12nna (forordning (EU) nr. 492/2014), nr. 12nnb (beslutning 2014/397/EU), nr. 12nnc (beslutning 2014/402/EU), nr. 12nnd (beslutning (EU) 2015/646), nr. 12nne (beslutning (EU) 2015/655), nr. 12nnf (forordning (EU) 2015/1609), nr. 12nng (forordning (EU) 2015/1610), nr. 12nnh (forordning (EU) 2015/1726), nr. 12nni (forordning (EU) 2015/1727), nr. 12nnj (forordning (EU) 2015/1728), nr. 12nnk (forordning (EU) 2015/1729), nr. 12nnl (forordning (EU) 2015/1730), nr. 12nnm (forordning (EU) 2015/1731), nr. 12nnn (beslutning (EU) 2015/1736), nr. 12nnna (beslutning (EU) 2024/816), nr. 12nnnb (forordning (EU) 2025/2345), nr. 12nnnc (beslutning (EU) 2025/2279), nr. 12nnnd (beslutning (EU) 2025/2280), nr. 12nnne (beslutning (EU) 2025/2282), nr. 12nnnf (beslutning (EU) 2025/2283), nr. 12nnng (beslutning (EU) 2025/2284), nr. 12nnnh (beslutning (EU) 2025/2297), nr. 12nnni (beslutning (EU) 2025/2309), nr. 12nnnj (beslutning (EU) 2025/2299), nr. 12nnnk (beslutning (EU) 2025/2301), nr. 12nnnm (forordning (EU) 2026/373), nr. 12nnnn (forordning (EU) 2026/385), nr. 12nnno (beslutning (EU) 2026/377), nr. 12nnnp (beslutning (EU) 2026/576), nr. 12nnnq (forordning (EU) 2026/577), nr. 12nnnr (beslutning (EU) 2026/578), nr. 12nnns (beslutning (EU) 2026/579), nr. 12nnnt (beslutning (EU) 2026/619), nr. 12nnnu (beslutning (EU) 2026/1109), nr. 12nno (beslutning (EU) 2015/1737), nr. 12nnp (beslutning (EU) 2015/1751), nr. 12nnq (forordning (EU) 2015/1757), nr. 12nnr (forordning (EU) 2015/1758), nr. 12nns (forordning (EU) 2015/1759), nr. 12nnt (forordning (EU) 2015/1981), nr. 12nnu (forordning (EU) 2015/1982), nr. 12nnv (beslutning (EU) 2015/1985), nr. 12nnw (beslutning (EU) 2016/903), nr. 12nnx (beslutning (EU) 2016/904), nr. 12nny (beslutning (EU) 2016/1174), nr. 12nnz (beslutning (EU) 2016/1175), nr. 12z (vedtak 2007/597/EF), nr. 12zb (vedtak 2007/565/EF), nr. 12zi (vedtak 2008/809/EF), nr. 12zk (vedtak 2008/681/EF), nr. 12zq (vedtak 2009/322/EF), nr. 12zr (vedtak 2009/324/EF), nr. 12zu (beslutning 2010/71/EU), nr. 12zv (beslutning 2010/72/EU), nr. 12zy (beslutning 2010/675/EU), nr. 12zzc (beslutning 2011/391/EU), nr. 12zzg (beslutning 2012/77/EU), nr. 12zzh (beslutning 2012/78/EU), nr. 12zzj (beslutning 2012/254/EU), nr. 12zzk (beslutning 2012/257/EU), nr. 12zzl (beslutning 2012/483/EU), nr. 12zzm (beslutning 2012/728/EU), nr. 12zzn (beslutning 2013/85/EU), nr. 12zzo (beslutning 2013/204/EU), nr. 12zzp (forordning (EU) nr. 414/2013, forordning (EU) 2016/1802), nr. 12zzr (forordning (EU) 2015/292), nr. 12zzs (forordning (EU) 2015/405), nr. 12zzt (forordning (EU) 2015/406), nr. 12zzu (forordning (EU) 2015/407), nr. 12zzv (beslutning (EU) 2015/411), nr. 12zzw (forordning (EU) 2015/416), nr. 12zzx (forordning (EU) 2015/417), nr. 12zzy (forordning (EU) 2015/419), nr. 12zzza (forordning (EU) 2015/984), nr. 12zzzb (forordning (EU) 2015/985), nr. 12zzzc (forordning (EU) 2016/105), nr. 12zzzd (beslutning (EU) 2016/107), nr. 12zzze (beslutning (EU) 2016/108), nr. 12zzzf (beslutning (EU) 2016/109), nr. 12zzzg (beslutning (EU) 2016/110), nr. 12zzzh (forordning (EU) 2016/124), nr. 12zzzi (forordning (EU) 2016/125), nr. 12zzzj (forordning (EU) 2016/131) og nr. 12zzzk (beslutning (EU) 2016/135), nr. 12zzzl (forordning (EU) 2016/1068), nr. 12zzzm (forordning (EU) 2016/1083), nr. 12zzzn (forordning (EU) 2016/1084), nr. 12zzzo (forordning (EU) 2016/1085), nr. 12zzzp (forordning (EU) 2016/1086), nr. 12zzzq (forordning (EU) 2022/1990), nr. 12zzzr (forordning (EU) 2016/1088), nr. 12zzzs (forordning (EU) 2016/1089), nr. 12zzzt (forordning (EU) 2016/1090), nr. 12zzzu (forordning (EU) 2016/1093), nr. 12zzzv (forordning (EU) 2016/1094), nr. 12zzzw (forordning (EU) 2016/1929), nr. 12zzzx (forordning (EU) 2016/1930), nr. 12zzzy (forordning (EU) 2016/1931), nr. 12zzzz (forordning (EU) 2016/1932), nr. 12zzzza (forordning (EU) 2016/1933), nr. 12zzzzb (forordning (EU) 2016/1934), nr. 12zzzzc (forordning (EU) 2016/1935), nr. 12zzzzd (forordning (EU) 2016/1937), nr. 12zzzze (forordning (EU) 2016/1938), nr. 12zzzzf (beslutning (EU) 2016/1943), nr. 12zzzzg (beslutning (EU) 2016/1950), nr. 12zzzzh (forordning (EU) 2016/1936), nr. 12zzzzi (forordning (EU) 2016/2288), nr. 12zzzzj (forordning (EU) 2016/2289), nr. 12zzzzk (forordning (EU) 2016/2290), nr. 12zzzzl (forordning (EU) 2016/2291), nr. 12zzzzm (forordning (EU) 2017/794), nr. 12zzzzn (forordning (EU) 2017/795), nr. 12zzzzo (forordning (EU) 2017/796), nr. 12zzzzp (beslutning (EU) 2017/802), nr. 12zzzzq (forordning (EU) 2017/1273), nr. 12zzzzr (forordning (EU) 2017/1274), nr. 12zzzzs (forordning (EU) 2017/1275), nr. 12zzzzt (forordning (EU) 2017/1276), nr. 12zzzzu (forordning (EU) 2017/1277), nr. 12zzzzv (forordning (EU) 2017/1278), nr. 12zzzzw (beslutning (EU) 2017/1282), nr. 12zzzzx (forordning (EU) 2017/1376), nr. 12zzzzy (forordning (EU) 2017/1377), nr. 12zzzzz (forordning (EU) 2017/1378), nr. 12zzzzza (forordning (EU) 2017/1379), nr. 12zzzzzb (forordning (EU) 2017/1380), nr. 12zzzzzc (forordning (EU) 2017/1381), nr. 12zzzzzd (forordning (EU) 2017/1382), nr. 12zzzzze (forordning (EU) 2017/1383), nr. 12zzzzzf (forordning (EU) 2017/2326), nr. 12zzzzzg (forordning (EU) 2017/2327), nr. 12zzzzzh (beslutning (EU) 2017/2334), nr. 12zzzzzi (beslutning (EU) 2018/622), nr. 12zzzzzj (forordning (EU) 2018/613), nr. 12zzzzzk (forordning (EU) 2018/614), nr. 12zzzzzl (beslutning (EU) 2018/619), nr. 12zzzzzm (forordning (EU) 2018/1129), nr. 12zzzzzn (forordning (EU) 2018/1130), nr. 12zzzzzo (forordning (EU) 2018/1131), nr. 12zzzzzp (beslutning (EU) 2018/1477), nr. 12zzzzzq (beslutning (EU) 2018/1479), nr. 12zzzzzr (beslutning (EU) 2018/1622), nr. 12zzzzzs (beslutning (EU) 2018/1623), nr. 12zzzzzt (forordning (EU) 2018/1292), nr. 12zzzzzu (beslutning (EU) 2018/1305), nr. 12zzzzzv (beslutning (EU) 2018/1985), nr. 12zzzzzw (beslutning (EU) 2018/1251), nr. 12zzzzzx (forordning (EU) 2019/637), nr. 12zzzzzy (beslutning (EU) 2019/641), nr. 12zzzzzz (beslutning (EU) 2019/994), nr. 12zzzzzza (beslutning (EU) 2019/1030), nr. 12zzzzzzb (beslutning (EU) 2019/1331), nr. 12zzzzzzd (beslutning (EU) 2019/1942), nr. 12zzzzzze (beslutning (EU) 2019/1950), nr. 12zzzzzzf (beslutning (EU) 2019/1951), nr. 12zzzzzzg (beslutning (EU) 2019/1959), nr. 12zzzzzzh (beslutning (EU) 2019/1960), nr. 12zzzzzzi (beslutning (EU) 2019/1969), nr. 12zzzzzzj (beslutning (EU) 2019/1973), nr. 12zzzzzzk (beslutning (EU) 2020/27), nr. 12zzzzzzm (beslutning (EU) 2020/1036), nr. 12zzzzzzn (beslutning (EU) 2020/1037) nr. 12zzzzzzo (beslutning (EU) 2020/1038), nr. 12zzzzzzp (forordning (EU) 2020/1086), nr. 12zzzzzzq (forordning (EU) 2020/1771), nr. 12zzzzzzr (beslutning (EU) 2020/1765), nr. 12zzzzzzs (beslutning (EU) 2021/98), nr. 12zzzzzzt (beslutning (EU) 2021/103), nr. 12zzzzzzu (forordning (EU) 2020/1763), nr. 12zzzzzzv (forordning (EU) 2021/345), nr. 12zzzzzzw (forordning (EU) 2021/347), nr. 12zzzzzzx (forordning (EU) 2021/348), nr. 12zzzzzzy (beslutning (EU) 2021/327), nr. 12zzzzzzz (beslutning (EU) 2021/333), nr. 12zzzzzzza (beslutning (EU) 2021/354), nr. 12zzzzzzzb (forordning (EU) 2021/364), nr. 12zzzzzzzc (forordning (EU) 2021/365), nr. 12zzzzzzzd (beslutning (EU) 2021/713), nr. 12zzzzzzze (forordning (EU) 2021/1045), nr. 12zzzzzzzf (forordning (EU) 2021/1063), nr. 12zzzzzzzg (beslutning (EU) 2021/1287), nr. 12zzzzzzzh (beslutning (EU) 2021/1283), nr. 12zzzzzzzi (beslutning (EU) 2021/1285), nr. 12zzzzzzzj (beslutning (EU) 2021/1286), nr. 12zzzzzzzk (beslutning (EU) 2021/1288), nr. 12zzzzzzzl (beslutning (EU) 2021/1289), nr. 12zzzzzzzm (beslutning (EU) 2021/1290), nr. 12zzzzzzzn (beslutning (EU) 2021/1299), nr. 12zzzzzzzo (beslutning (EU) 2021/1284), nr. 12zzzzzzzp (forordning (EU) 2022/1950), nr. 12zzzzzzzq (beslutning (EU) 2021/2146), nr. 12zzzzzzzr (beslutning (EU) 2021/2148), nr. 12zzzzzzzs (beslutning (EU) 2021/2149), nr. 12zzzzzzzt (beslutning (EU) 2021/2174), nr. 12zzzzzzzu (beslutning (EU) 2021/2166), nr. 12zzzzzzzv (beslutning (EU) 2022/146), nr. 12zzzzzzzw (beslutning (EU) 2022/986), nr. 12zzzzzzzx (beslutning (EU) 2022/1005), nr. 12zzzzzzzy (beslutning (EU) 2022/1006), nr. 12zzzzzzzz (beslutning (EU) 2022/323), nr. 12zzzzzzzza (beslutning (EU) 2022/1388), 12zzzzzzzzb (beslutning (EU) 2022/835), nr. 12zzzzzzzzc (beslutning (EU) 2022/866) nr. 12zzzzzzzzd (beslutning (EU) 2022/874), nr. 12zzzzzzzze (beslutning (EU) 2022/1484), nr. 12zzzzzzzzh (beslutning (EU) 2022/1488), nr. 12zzzzzzzzi (beslutning (EU) 2022/1489), nr. 12zzzzzzzzj (beslutning (EU) 2022/1494), nr. 12zzzzzzzzk (beslutning (EU) 2022/1495), nr. 12zzzzzzzzl (beslutning (EU) 2022/1496), nr. 12zzzzzzzzm (beslutning (EU) 2022/1497), nr. 12zzzzzzzzn (beslutning (EU) 2022/1515), nr. 12zzzzzzzzo (beslutning (EU) 2022/1485), nr. 12zzzzzzzzp (beslutning (EU) 2022/2325), nr. 12zzzzzzzzq (beslutning (EU) 2022/2326), nr. 12zzzzzzzzr (beslutning (EU) 2022/2327), nr. 12zzzzzzzzs (forordning (EU) 2022/1992), nr. 12zzzzzzzzt (forordning (EU) 2022/1993), nr. 12zzzzzzzzu (beslutning (EU) 2022/2005), nr. 12zzzzzzzzv (forordning (EU) 2022/2048), nr. 12zzzzzzzzw (beslutning (EU) 2022/2054), nr. 12zzzzzzzzx (beslutning (EU) 2022/2570), nr. 12zzzzzzzzy (beslutning (EU) 2022/2298), nr. 12zzzzzzzzz (forordning (EU) 2022/1991), nr. 12zzzzzzzzza (beslutning (EU) 2023/458), nr. 12zzzzzzzzzb (beslutning (EU) 2023/459), nr. 12zzzzzzzzzc (beslutning (EU) 2023/460), nr. 12zzzzzzzzzd (forordning (EU) 2023/680), nr. 12zzzzzzzzze (forordning (EU) 2023/1078), nr. 12zzzzzzzzzf (forordning (EU) 2023/1079), nr. 12zzzzzzzzzg (beslutning (EU) 2023/1084), nr. 12zzzzzzzzzh (beslutning (EU) 2023/1085), nr. 12zzzzzzzzzi (beslutning (EU) 2023/1086), nr. 12zzzzzzzzzj (beslutning (EU) 2023/1087), nr. 12zzzzzzzzzk (beslutning (EU) 2023/1088), nr. 12zzzzzzzzzl (beslutning (EU) 2023/1097), nr. 12zzzzzzzzzm (beslutning (EU) 2023/470), nr. 12zzzzzzzzzn (beslutning (EU) 2023/471), nr. 12zzzzzzzzzo (forordning (EU) 2023/2089), nr. 12zzzzzzzzzp (beslutning (EU) 2023/2100), nr. 12zzzzzzzzzr (beslutning (EU) 2023/2377), nr. 12zzzzzzzzzs (beslutning (EU) 2023/2378), nr. 12zzzzzzzzzt (beslutning (EU) 2023/2380), nr. 12zzzzzzzzzu (beslutning (EU) 2023/2386), nr. 12zzzzzzzzzv (forordning (EU) 2023/2088), nr. 12zzzzzzzzzw (forordning (EU) 2023/2596), nr. 12zzzzzzzzzx (forordning (EU) 2023/2620), nr. 12zzzzzzzzzy (beslutning (EU) 2023/2622), nr. 12zzzzzzzzzz (beslutning (EU) 2023/2630), nr. 12zzzzzzzzzza (forordning (EU) 2023/2643), nr. 12zzzzzzzzzzb (beslutning (EU) 2023/2648), nr. 12zzzzzzzzzzc (beslutning (EU) 2023/2672, nr. 12zzzzzzzzzzd (beslutning (EU) 2023/2619), nr. 12zzzzzzzzzze (forordning (EU) 2023/1530), nr. 12zzzzzzzzzzf (beslutning (EU) 2023/1155), nr. 12zzzzzzzzzzg (beslutning (EU) 2023/1157), nr. 12zzzzzzzzzzh (beslutning (EU) 2023/2052), nr. 12zzzzzzzzzzi (beslutning (EU) 2024/208), nr. 12zzzzzzzzzzj (beslutning (EU) 2024/222), nr. 12zzzzzzzzzzk (forordning (EU) 2024/235), nr. 12zzzzzzzzzzl (beslutning (EU) 2024/241), nr. 12zzzzzzzzzzm (forordning (EU) 2024/893), nr. 12zzzzzzzzzzn (beslutning (EU) 2024/734), nr. 12zzzzzzzzzzo (beslutning (EU) 2024/731), nr. 12zzzzzzzzzzp (beslutning (EU) 2024/732), nr. 12zzzzzzzzzzq (beslutning (EU) 2024/733), nr. 12zzzzzzzzzzr (beslutning (EU) 2024/787), nr. 12zzzzzzzzzzs (beslutning (EU) 2024/888), nr. 12zzzzzzzzzzt (beslutning (EU) 2024/1278), nr. 12zzzzzzzzzzu (beslutning (EU) 2024/1286), nr. 12zzzzzzzzzzv (beslutning (EU) 2024/1305), nr. 12zzzzzzzzzzw (beslutning (EU) 2024/1283), nr. 12zzzzzzzzzzx (beslutning (EU) 2024/1285), nr. 12zzzzzzzzzzy (forordning (EU) 2024/247), nr. 12zzzzzzzzzzzc (beslutning (EU) 2024/2411), nr. 12zzzzzzzzzzzd (forordning (EU) 2024/2576), nr. 12zzzzzzzzzzze (forordning (EU) 2024/2635), nr. 12zzzzzzzzzzzg (beslutning (EU) 2024/2416), nr. 12zzzzzzzzzzzh (beslutning (EU) 2024/2417), nr. 12zzzzzzzzzzzi (beslutning (EU) 2024/2421), nr. 12zzzzzzzzzzzj (beslutning (EU) 2024/2460), nr. 12zzzzzzzzzzzk (beslutning (EU) 2024/2712), nr. 12zzzzzzzzzzzl (forordning (EU) 2024/2964), nr. 12zzzzzzzzzzzm (beslutning (EU) 2024/2402), nr. 12zzzzzzzzzzzo (beslutning (EU) 2024/2945), nr. 12zzzzzzzzzzzp (beslutning (EU) 2024/2948), nr. 12zzzzzzzzzzzq (beslutning (EU) 2025/349), nr. 12zzzzzzzzzzzr (beslutning (EU) 2025/357), nr. 12zzzzzzzzzzzs (beslutning (EU) 2025/360), nr. 12zzzzzzzzzzzu (beslutning (EU) 2025/432), nr. 12zzzzzzzzzzzw (beslutning (EU) 2025/444), nr. 12zzzzzzzzzzzx (beslutning (EU) 2025/450), nr. 12zzzzzzzzzzzy (forordning (EU) 2025/457), nr. 12zzzzzzzzzzzz (beslutning (EU) 2025/461), nr. 12zzzzzzzzzzzza (beslutning (EU) 2024/2950), nr. 12zzzzzzzzzzzzb (beslutning (EU) 2025/946), nr. 12zzzzzzzzzzzzc (beslutning (EU) 2025/1791), nr. 12zzzzzzzzzzzzd (beslutning (EU) 2025/1792), nr. 12zzzzzzzzzzzze (beslutning (EU) 2025/1778), nr. 12zzzzzzzzzzzzf (beslutning (EU) 2025/1779), nr. 12zzzzzzzzzzzzg (beslutning (EU) 2025/1806). nr. 12zzzzzzzzzzzzh (beslutning (EU) 2025/1809), nr. 12zzzzzzzzzzzzi (beslutning (EU) 2025/1811), nr. 12zzzzzzzzzzzzj (beslutning (EU) 2025/1814), nr. 12zzzzzzzzzzzzk (beslutning (EU) 2025/1807), nr. 12zzzzzzzzzzzzl (beslutning (EU) 2025/1812), nr. 12zzzzzzzzzzzzm (forordning (EU) 2025/929), nr. 12zzzzzzzzzzzzn (forordning (EU) 2025/937), nr. 12zzzzzzzzzzzzo (forordning (EU) 2025/1043), nr. 12zzzzzzzzzzzzp (beslutning (EU) 2025/944), nr. 12zzzzzzzzzzzzq (beslutning (EU) 2025/945), nr. 12zzzzzzzzzzzzr (beslutning (EU) 2025/947), nr. 12zzzzzzzzzzzzs (beslutning (EU) 2025/949), nr. 12zzzzzzzzzzzzt (beslutning (EU) 2025/950), nr. 12zzzzzzzzzzzzu (beslutning (EU) 2025/951), nr. 12zzzzzzzzzzzzv (beslutning (EU) 2025/952), nr. 12zzzzzzzzzzzzw (beslutning (EU) 2025/953), nr. 12zzzzzzzzzzzzx (beslutning (EU) 2025/970), nr. 12zzzzzzzzzzzzy (beslutning (EU) 2025/998), nr. 12zzzzzzzzzzzzz (beslutning (EU) 2025/1074), nr. 12zzzzzzzzzzzzza (forordning (EU) 2025/1248), nr. 12zzzzzzzzzzzzzb (forordning (EU) 2025/1257), nr. 12zzzzzzzzzzzzzc (forordning (EU) 2025/1260), nr. 12zzzzzzzzzzzzzd (forordning (EU) 2025/1282), nr. 12zzzzzzzzzzzzze (beslutning (EU) 2025/1262), nr. 13zzzzzzzzzzzzzc (beslutning (EU) 2023/1424), nr. 13zzzzzzzzzzzzzd (forordning (EU) 2023/1421), nr. 13zzzzzzzzzzzzze (forordning (EU) 2023/1429), nr. 12zzzzzzzzzzzzzf (beslutning (EU) 2025/1808), nr. 12zzzzzzzzzzzzzg (beslutning (EU) 2026/336), nr. 12zzzzzzzzzzzzzh (beslutning (EU) 2026/337), nr. 12zzzzzzzzzzzzzi (beslutning (EU) 2026/378), nr. 12zzzzzzzzzzzzzj (beslutning (EU) 2026/380), nr. 12zzzzzzzzzzzzzk (beslutning (EU) 2026/381), nr. 12zzzzzzzzzzzzzl (beslutning (EU) 2026/599), nr. 12zzzzzzzzzzzzzm (beslutning (EU) 2026/1089), nr. 12zzzzzzzzzzzzzn (beslutning (EU) 2026/1103), nr. 12zzzzzzzzzzzzzo (beslutning (EU) 2026/1111), nr. 12zzzzzzzzzzzzzp (beslutning (EU) 2026/1112), nr. 12zzzzzzzzzzzzzq (beslutning (EU) 2026/1128), nr. 12zzzzzzzzzzzzzr (beslutning (EU) 2026/1129), nr. 14 (beslutning 2014/756/EU), nr. 15 (beslutning 2014/757/EU), nr. 16 (beslutning 2014/758/EU), nr. 18 (forordning (EU) 2016/672), nr. 19 (beslutning (EU) 2016/678) nr. 20 (beslutning (EU) 2017/1532), nr. 21 (forordning (EU) 2017/2001), nr. 22 (forordning (EU) 2017/2002), nr. 23 (forordning (EU) 2017/2003), nr. 24 (forordning (EU) 2017/2004), nr. 25 (forordning (EU) 2017/2005) og nr. 26 (forordning (EU) 2017/2100). Endret ved forskrifter 29 sep 2017 nr. 1574, 21 des 2017 nr. 2363, 4 jan 2018 nr. 15, 15 feb 2018 nr. 217, 23 mars 2018 nr. 506, 21 sep 2018 nr. 1402, 27 aug 2018 nr. 1274, 5 des 2018 nr. 1808, 8 feb 2019 nr. 90, 29 mars 2019 nr. 438, 8 mai 2019 nr. 589, 14 juni 2019 nr. 747, 14 juni 2019 nr. 948, 27 sep 2019 nr. 1327, 13 des 2019 nr. 2133, 7 feb 2020 nr. 120, 30 april 2020 nr. 939, 23 okt 2020 nr. 2228, 5 feb 2021 nr. 478, 19 mars 2021 nr. 998, 23 april 2021 nr. 1393, 9 juli 2021 nr. 2409, 29 okt 2021 nr. 3146, 10 des 2021 nr. 3650, 10 feb 2022 nr. 234, 18 mars 2022 nr. 425, 29 april 2022 nr. 811, 10 juni 2022 nr. 1052, 28 okt 2022 nr. 1911, 9 des 2022 nr. 2228, 3 feb 2023 nr. 177, 28 april 2023 nr. 650, 13 juni 2023 nr. 858, 5 juli 2023 nr. 1251, 22 sep 2023 nr. 1485, 27 okt 2023 nr. 1775, 8 des 2023 nr. 1990, 2 feb 2024 nr. 206, 15 mars 2024 nr. 495, 22 april 2024 nr. 652, 26 april 2024 nr. 719, 12 juni 2024 nr. 1107, 23 sep 2024 nr. 2372, 7 feb 2025 nr. 281, 14 mars 2025 nr. 627, 13 juni 2025 nr. 1255, 6 aug 2025 nr. 1598, 5 des 2025 nr. 2963, 6 feb 2026 nr. 226, 20 mars 2026 nr. 595, 26 juni 2026 nr. 1448, 16 juli 2026 nr. 1575, 9 okt 2026 nr. 2041. Rettelser: 10.01.2018 (ortografiske feil i EØS-henvisninger), 19.06.2016 (EØS-henvisningsfeltet), 16.07.2021 (korttittelfelt), 20.10.2021 (teksten under siste del «Rettsakter» endret i sin helhet), 04.07.2023 (plassering av overskrifter i Vedlegg 1), 09.11.2023 (rettelse i tabell i vedlegg 3), 15.12.2023 (rettelse i tabell i vedlegg 3), 15.02.2024 (rettelse i tabell i vedlegg 3), 08.05.2024 (rettelse i tabell i vedlegg 3)
+- **Kilde:** <https://lovdata.no/forskrift/2017-04-18-480>
+
+## Kapittel 1. Gjennomføring av EØS-rettsakter
+
+### § 1-1. Biocidforordningen
+
+Forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528) om tilgjengeliggjøring på markedet og bruk av biocidprodukter (biocidforordningen), som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12n, gjelder som forskrift, med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig. Forordningen gjelder med endringene som følger av
+
+a. forordning [(EU) nr. 736/2013](https://lovdata.no/eu/32013r0736)
+b. forordning [(EU) nr. 837/2013](https://lovdata.no/eu/32013r0837)
+c. forordning [(EU) nr. 334/2014](https://lovdata.no/eu/32014r0334)
+d. forordning [(EU) 2019/1819](https://lovdata.no/eu/32019r1819)
+e. forordning [(EU) 2019/1820](https://lovdata.no/eu/32019r1820)
+f. forordning [(EU) 2019/1821](https://lovdata.no/eu/32019r1821)
+g. forordning [(EU) 2019/1822](https://lovdata.no/eu/32019r1822)
+h. forordning [(EU) 2019/1823](https://lovdata.no/eu/32019r1823)
+i. forordning [(EU) 2019/1824](https://lovdata.no/eu/32019r1824)
+j. forordning [(EU) 2019/1825](https://lovdata.no/eu/32019r1825)
+k. forordning [(EU) 2021/407](https://lovdata.no/eu/32021r0407)
+l. forordning [(EU) 2021/806](https://lovdata.no/eu/32021r0806)
+m. forordning [(EU) 2021/807](https://lovdata.no/eu/32021r0807)
+n. forordning [(EU) 2021/525](https://lovdata.no/eu/32021r0525)
+o. forordning [(EU) 2024/1290](https://lovdata.no/eu/32024r1290)
+p. forordning [(EU) 2024/1398](https://lovdata.no/eu/32024r1398)
+q. forordning [(EU) 2026/1165](https://lovdata.no/eu/32026r1165)
+
+*Endret ved [forskrifter 7 feb 2020 nr. 120](https://lovdata.no/forskrift/2020-02-07-120), [9 juli 2021 nr. 2409](https://lovdata.no/forskrift/2021-07-09-2409), [29 okt 2021 nr. 3146](https://lovdata.no/forskrift/2021-10-29-3146), [29 april 2022 nr. 811](https://lovdata.no/forskrift/2022-04-29-811), [23 sep 2024 nr. 2372](https://lovdata.no/forskrift/2024-09-23-2372), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255), [9 okt 2026 nr. 2041](https://lovdata.no/forskrift/2026-10-09-2041).*
+
+### § 1-2. Rettsakter om at aktive stoffer godkjennes eller ikke godkjennes
+
+Rettsaktene om å godkjenne eller ikke godkjenne aktive stoffer, som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV), og som er listet opp i vedlegg 2 og 3 i denne forskriften, gjelder som forskrift. Rettsaktene gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-3. Forordning om biocidprogrammet
+
+Forordning [(EU) nr. 1062/2014](https://lovdata.no/eu/32014r1062) om arbeidsprogrammet for systematisk undersøkelse av alle eksisterende aktive stoffer i biocidprodukter, som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nza, gjelder som forskrift, med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+Forordningen gjelder med endringene som følger av
+
+a. forordning [(EU) 2017/698](https://lovdata.no/eu/32017r0698)
+b. forordning [(EU) 2019/157](https://lovdata.no/eu/32019r0157)
+c. forordning [(EU) 2019/227](https://lovdata.no/eu/32019r0227)
+d. forordning [(EU) 2022/825](https://lovdata.no/eu/32022r0825)
+
+*Endret ved [forskrifter 29 sep 2017 nr. 1574](https://lovdata.no/forskrift/2017-09-29-1574), [8 mai 2019 nr. 589](https://lovdata.no/forskrift/2019-05-08-589) (i kraft 1 juni 2019), [14 juni 2019 nr. 948](https://lovdata.no/forskrift/2019-06-14-948), [9 des 2022 nr. 2228](https://lovdata.no/forskrift/2022-12-09-2228), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-4. Beslutninger om utsatt frist
+
+Følgende beslutninger inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) gjelder som forskrift:
+
+a. beslutning [2014/397/EU](https://lovdata.no/eu/32014d0397) om forlengelse av godkjenning av difetialon og difenakum til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnb
+b. beslutning [(EU) 2015/1737](https://lovdata.no/eu/32015d1737) om forlengelse av godkjenning av bromadiolon, klorfacinon og kumatetralyl til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nno
+c. beslutning [(EU) 2016/135](https://lovdata.no/eu/32016d0135) om forlengelse av godkjenning av flokumafen, brodifakum og warfarin til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzk
+d. beslutning [(EU) 2017/2334](https://lovdata.no/eu/32017d2334) om forlengelse av godkjenning av kreosot til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzh
+e. beslutning [(EU) 2018/1479](https://lovdata.no/eu/32018d1479) om utsettelse av utløpsdatoen for godkjenningen av sulfurylfluorid til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzq
+f. beslutning [(EU) 2019/994](https://lovdata.no/eu/32019d0994) om utsettelse av utløpsdatoen for godkjenningen av etofenproks til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzz
+g. beslutning [(EU) 2019/1030](https://lovdata.no/eu/32019d1030) om utsettelse av utløpsdatoen for godkjenningen av indoksakarb til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzza
+h. beslutning [(EU) 2020/1037](https://lovdata.no/eu/32020d1037) om utsettelse av utløpsdatoen for godkjenningen av akrolein til bruk i biocidprodukter i produkttype 12, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzn
+i. beslutning [(EU) 2020/1038](https://lovdata.no/eu/32020d1038) om utsettelse av utløpsdatoen for godkjenningen av kreosot til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzo
+j. beslutning [(EU) 2021/327](https://lovdata.no/eu/32021d0327) om utsettelse av utløpsdatoen for godkjenningen av metoflutrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzy
+k. beslutning [(EU) 2021/333](https://lovdata.no/eu/32021d0333) om utsettelse av utløpsdatoen for godkjenningen av alfakloralose til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzz
+l. beslutning [(EU) 2021/354](https://lovdata.no/eu/32021d0354) om utsettelse av utløpsdatoen for godkjenningen av propikonazol til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzza
+m. beslutning [(EU) 2021/713](https://lovdata.no/eu/32021d0713) om utsettelse av utløpsdatoen for godkjenningen av sulfurylfluorid til bruk i biocidprodukter i produkttype 8 og 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzd
+n. beslutning [(EU) 2021/1287](https://lovdata.no/eu/32021d1287) om utsettelse av utløpsdatoen for godkjenningen av indoksakarb til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzg
+o. beslutning [(EU) 2021/1285](https://lovdata.no/eu/32021d1285) om utsettelse av utløpsdatoen for godkjenningen av magnesiumfosfid til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzi
+p. beslutning [(EU) 2021/1286](https://lovdata.no/eu/32021d1286) om utsettelse av utløpsdatoen for godkjenningen av dinotefuran til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzj
+q. beslutning [(EU) 2021/1288](https://lovdata.no/eu/32021d1288) om utsettelse av utløpsdatoen for godkjenningen av borsyre til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzk
+r. beslutning [(EU) 2021/1289](https://lovdata.no/eu/32021d1289) om utsettelse av utløpsdatoen for godkjenningen av dazomet til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzl
+s. beslutning [(EU) 2021/1290](https://lovdata.no/eu/32021d1290) om utsettelse av utløpsdatoen for godkjenningen av dinatriumtetraborat til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzm
+t. beslutning [(EU) 2021/1299](https://lovdata.no/eu/32021d1299) om utsettelse av utløpsdatoen for godkjenningen av heksaflumuron til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzn
+u. beslutning [(EU) 2021/1284](https://lovdata.no/eu/32021d1284) om utsettelse av utløpsdatoen for godkjenningen av aluminiumfosfid til bruk i biocidprodukter i produkttype 14 og 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzo
+v. beslutning [(EU) 2021/2146](https://lovdata.no/eu/32021d2146) om utsettelse av utløpsdatoen for godkjenningen av N,N'-dietyl-meta-toluamid til bruk i biocidprodukter i produkttype 19, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzq
+w. beslutning [(EU) 2022/1484](https://lovdata.no/eu/32022d1484) om utsettelse av utløpsdatoen for godkjenningen av DDA-karbonat til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzze
+x. beslutning [(EU) 2022/1485](https://lovdata.no/eu/32022d1485) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzo
+y. beslutning [(EU) 2022/1488](https://lovdata.no/eu/32022d1488) om utsettelse av utløpsdatoen for godkjenningen av K-HDO til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzh
+z. beslutning [(EU) 2022/1489](https://lovdata.no/eu/32022d1489) om utsettelse av utløpsdatoen for godkjenningen av spinosad til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzi
+{. beslutning [(EU) 2022/1495](https://lovdata.no/eu/32022d1495) om utsettelse av utløpsdatoen for godkjenningen av medetomidin til bruk i biocidprodukter i produkttype 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzk
+|. beslutning [(EU) 2022/1496](https://lovdata.no/eu/32022d1496) om utsettelse av utløpsdatoen for godkjenningen av tebukonazol til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzl
+}. beslutning [(EU) 2022/2298](https://lovdata.no/eu/32022d2298) om utsettelse av utløpsdatoen for godkjenningen av propikonazol til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzy
+~. beslutning [(EU) 2023/460](https://lovdata.no/eu/32023d0460) om utsettelse av utløpsdatoen for godkjenningen av imidakloprid til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzc
+. beslutning [(EU) 2023/1085](https://lovdata.no/eu/32023d1085) om utsettelse av utløpsdatoen for godkjenningen av *Bacillus thuringiensis* subsp. *israelensis* Serotype H14, Strain AM65-52 til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzh
+. beslutning [(EU) 2023/1086](https://lovdata.no/eu/32023d1086) om utsettelse av utløpsdatoen for godkjenningen av metoflutrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzi
+. beslutning [(EU) 2023/1087](https://lovdata.no/eu/32023d1087) om utsettelse av utløpsdatoen for godkjenningen av lambda-cyhalotrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzj
+. beslutning [(EU) 2023/1088](https://lovdata.no/eu/32023d1088) om utsettelse av utløpsdatoen for godkjenningen av deltametrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzj
+. beslutning [(EU) 2023/471](https://lovdata.no/eu/32023d0471) om utsettelse av utløpsdatoen for godkjenningen av DCOIT til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzn
+. beslutning [(EU) 2023/2100](https://lovdata.no/eu/32023d2100) om utsettelse av utløpsdatoen for godkjenningen av kobber(II)oksid til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzp
+
+. beslutning [(EU) 2023/2378](https://lovdata.no/eu/32023d2378) om utsettelse av utløpsdatoen for godkjenningen av alfakloralose til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzs
+. beslutning [(EU) 2023/2380](https://lovdata.no/eu/32023d2380) om utsettelse av utløpsdatoen for godkjenningen av basisk kobberkarbonat til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzt
+. beslutning [(EU) 2023/2386](https://lovdata.no/eu/32023d2386) om utsettelse av utløpsdatoen for godkjenningen av kobberhydroksid til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzu
+. beslutning [(EU) 2023/2619](https://lovdata.no/eu/32023d2619) om utsettelse av utløpsdatoen for godkjenningen av saltsyre til bruk som aktivt stoff i produkttype 2, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzd
+. beslutning [(EU) 2024/208](https://lovdata.no/eu/32024d0208) om utsettelse av utløpsdatoen for godkjenningen av dinatriumtetraborat til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzi
+. beslutning [(EU) 2024/222](https://lovdata.no/eu/32024d0222) om utsettelse av utløpsdatoen for godkjenningen av borsyre til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzj
+. beslutning [(EU) 2024/734](https://lovdata.no/eu/32024d0734) om utsettelse av utløpsdatoen for godkjenningen av brodifakum, bromadiolon, klorfacinon, kumatetralyl, difenakum, difetialon, flokumafen til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzn
+. beslutning [(EU) 2024/731](https://lovdata.no/eu/32024d0731) om utsettelse av utløpsdatoen for godkjenningen av indoksakarb til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzo
+. beslutning [(EU) 2024/732](https://lovdata.no/eu/32024d0732) om utsettelse av utløpsdatoen for godkjenningen av aluminiumfosfid til bruk i biocidprodukter i produkttype 14 og 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzp
+. beslutning [(EU) 2024/733](https://lovdata.no/eu/32024d0733) om utsettelse av utløpsdatoen for godkjenningen av kolekalsiferol til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzq
+. beslutning [(EU) 2024/787](https://lovdata.no/eu/32024d0787) om utsettelse av utløpsdatoen for godkjenningen av magnesiumfosfid til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzr
+. beslutning [(EU) 2024/1278](https://lovdata.no/eu/32024d1278) om utsettelse av utløpsdatoen for godkjenningen av hydrogencyanid til bruk i biocidprodukter i produkttype 8, 14 og 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzt
+. beslutning [(EU) 2024/1283](https://lovdata.no/eu/32024d1283) om utsettelse av utløpsdatoen for godkjenningen av cis-trikos-9-en til bruk i biocidprodukter i produkttype 19, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzw
+. beslutning [(EU) 2024/1285](https://lovdata.no/eu/32024d1285) om utsettelse av utløpsdatoen for godkjenningen av heksaflumuron til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzx
+. beslutning [(EU) 2024/2411](https://lovdata.no/eu/32024d2411) om utsettelse av utløpsdatoen for godkjenningen av didecyldimetylammoniumklorid til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzc
+. beslutning [(EU) 2024/2416](https://lovdata.no/eu/32024d2416) om utsettelse av utløpsdatoen for godkjenningen av pyriproksyfen til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzg
+. beslutning [(EU) 2024/2417](https://lovdata.no/eu/32024d2417) om utsettelse av utløpsdatoen for godkjenningen av alkyl(C12-16)dimetylbenzylammoniumklorid til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzh
+. beslutning [(EU) 2024/2421](https://lovdata.no/eu/32024d2421) om utsettelse av utløpsdatoen for godkjenningen av formaldehyd til bruk i biocidprodukter i produkttype 2 og 3, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzi
+. beslutning [(EU) 2024/2945](https://lovdata.no/eu/32024d2945) om utsettelse av utløpsdatoen for godkjenningen av tralopyril til bruk i biocidprodukter i produkttype 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzo
+. beslutning [(EU) 2025/349](https://lovdata.no/eu/32025d0349) om utsettelse av utløpsdatoen for godkjenningen av spinosad til bruk i biocidprodukter i produkttype 19, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzq
+. beslutning [(EU) 2025/360](https://lovdata.no/eu/32025d0360) om utsettelse av utløpsdatoen for godkjenningen av bromeddiksyre til bruk i biocidprodukter i type 4, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzs
+. beslutning [(EU) 2025/432](https://lovdata.no/eu/32025d0432) om utsettelse av utløpsdatoen for godkjenningen av kobbersulfatpentahydrat til bruk i biocidprodukter i produkttype 2, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzu
+. beslutning [(EU) 2025/444](https://lovdata.no/eu/32025d0444) om utsettelse av utløpsdatoen for godkjenningen av benzosyre til bruk i biocidprodukter i produkttype 3 og 4, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzw
+. beslutning [(EU) 2025/450](https://lovdata.no/eu/32025d0450) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter i produkttype 6, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzx
+. beslutning [(EU) 2025/461](https://lovdata.no/eu/32025d0461) om utsettelse av utløpsdatoen for godkjenningen av aluminiumfosfid til bruk i biocidprodukter i produkttype 20, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzz
+. beslutning [(EU) 2024/2950](https://lovdata.no/eu/32024d2950) om utsettelse av utløpsdatoen for godkjenningen av N,N-dietyl-meta-toluamid til bruk i biocidprodukter i produkttype 19, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzza
+. beslutning [(EU) 2025/946](https://lovdata.no/eu/32025d0946) om utsettelse av utløpsdatoen for godkjenningen av kaprylsyre til bruk i biocidprodukter i produkttype 4, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzb
+ . beslutning [(EU) 2025/1791](https://lovdata.no/eu/32025d1791) om utsettelse av utløpsdatoen for godkjenningen av imidakloprid til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzc
+¡. beslutning [(EU) 2025/1792](https://lovdata.no/eu/32025d1792) om utsettelse av utløpsdatoen for godkjenningen av etylbutylacetylaminopropionat til bruk i biocidprodukter i produkttype 19, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzd
+¢. beslutning [(EU) 2025/1778](https://lovdata.no/eu/32025d1778) om utsettelse av utløpsdatoen for godkjenningen av kobberpyrition til bruk i biocidprodukter i produkttype 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzze
+£. beslutning [(EU) 2025/1779](https://lovdata.no/eu/32025d1779) om utsettelse av utløpsdatoen for godkjenningen av azoksystrobin til bruk i biocidprodukter i produkttype 7, 9 og 10, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzf
+¤. beslutning [(EU) 2025/1806](https://lovdata.no/eu/32025d1806) om utsettelse av utløpsdatoen for godkjenningen av transflutrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzg
+¥. beslutning [(EU) 2025/1809](https://lovdata.no/eu/32025d1809) om utsettelse av utløpsdatoen for godkjenningen av zineb til bruk i biocidprodukter i produkttype 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzh
+¦. beslutning [(EU) 2025/1811](https://lovdata.no/eu/32025d1811) om utsettelse av utløpsdatoen for godkjenningen av 4,5-diklor-2-oktyl-2H-isotiazol-3-on til bruk i biocidprodukter i produkttype 8 og 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzi
+§. beslutning [(EU) 2025/1814](https://lovdata.no/eu/32025d1814) om utsettelse av utløpsdatoen for godkjenningen av laurinsyre til bruk i biocidprodukter i produkttype 19, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzj
+¨. beslutning [(EU) 2025/1807](https://lovdata.no/eu/32025d1807) om utsettelse av utløpsdatoen for godkjenningen av kobbertiocyanat til bruk i biocidprodukter i produkttype 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzk
+©. beslutning [(EU) 2025/1812](https://lovdata.no/eu/32025d1812) om utsettelse av utløpsdatoen for godkjenningen av dikobberoksid til bruk i biocidprodukter i produkttype 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzl
+ª. beslutning [(EU) 2025/944](https://lovdata.no/eu/32025d0944) om utsettelse av utløpsdatoen for godkjenningen av DDA-karbonat til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzp
+«. beslutning [(EU) 2025/945](https://lovdata.no/eu/32025d0945) om utsettelse av utløpsdatoen for godkjenningen av nonansyre til bruk i biocidprodukter i produkttype 2, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzq
+¬. beslutning [(EU) 2025/947](https://lovdata.no/eu/32025d0947) om utsettelse av utløpsdatoen for godkjenningen av jod til bruk i biocidprodukter i produkttype 3, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzr
+­. beslutning [(EU) 2025/949](https://lovdata.no/eu/32025d0949) om utsettelse av utløpsdatoen for godkjenningen av dekansyre til bruk i biocidprodukter i produkttype 4, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzs
+®. beslutning [(EU) 2025/950](https://lovdata.no/eu/32025d0950) om utsettelse av utløpsdatoen for godkjenningen av 1R-transfenotrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzt
+¯. beslutning [(EU) 2025/951](https://lovdata.no/eu/32025d0951) om utsettelse av utløpsdatoen for godkjenningen av polyvinylpyrrolidon-jod til bruk i biocidprodukter i produkttype 1 og 3, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzu
+°. beslutning [(EU) 2025/952](https://lovdata.no/eu/32025d0952) om utsettelse av utløpsdatoen for godkjenningen av S-metopren til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzv
+±. beslutning [(EU) 2025/953](https://lovdata.no/eu/32025d0953) om utsettelse av utløpsdatoen for godkjenningen av medetomidin til bruk i biocidprodukter i produkttype 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzw
+². beslutning [(EU) 2025/970](https://lovdata.no/eu/32025d0970) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzx
+³. beslutning [(EU) 2025/998](https://lovdata.no/eu/32025d0998) om utsettelse av utløpsdatoen for godkjenningen av bis(N-sykloheksyldiazeniumdioksy)-kobber (Cu-HDO) til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzy
+´. beslutning [(EU) 2025/1808](https://lovdata.no/eu/32025d1808) om utsettelse av utløpsdatoen for godkjenningen av *Pythium oligandrum* stamme M1 til bruk i biocidprodukter i produkttype 10, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzf
+µ. beslutning [(EU) 2025/2279](https://lovdata.no/eu/32025d2279) om utsettelse av utløpsdatoen for godkjenningen av aluminiumfosfid som frigir fosfin til bruk i biocidprodukter i produkttype 14, 18 og 20, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnc
+¶. beslutning [(EU) 2025/2282](https://lovdata.no/eu/32025d2282) om utsettelse av utløpsdatoen for godkjenningen av kolekalsiferol til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnne
+·. beslutning [(EU) 2025/2283](https://lovdata.no/eu/32025d2283) om utsettelse av utløpsdatoen for godkjenningen av lambda-cyhalotrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnf
+¸. beslutning [(EU) 2025/2284](https://lovdata.no/eu/32025d2284) om utsettelse av utløpsdatoen for godkjenningen av magnesiumfosfid som frigir fosfin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnng
+¹. beslutning [(EU) 2025/2299](https://lovdata.no/eu/32025d2299) om utsettelse av utløpsdatoen for godkjenningen av Bacillus thuringiensis subsp. israelensis serotype H14, stamme AM65-52 til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnj
+º. beslutning [(EU) 2025/2301](https://lovdata.no/eu/32025d2301) om utsettelse av utløpsdatoen for godkjenningen av deltametrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnk
+». beslutning [(EU) 2026/377](https://lovdata.no/eu/32026d0377) om utsettelse av utløpsdatoen for godkjenningen av Bacillus sphaericus 2362 serotype H5a5b, stamme ABTS1743 til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnno
+¼. beslutning [(EU) 2026/336](https://lovdata.no/eu/32026d0336) om utsettelse av utløpsdatoen for godkjenningen av permetrin til bruk i biocidprodukter i produkttype 8 og 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzg
+½. beslutning [(EU) 2026/337](https://lovdata.no/eu/32026d0337) om utsettelse av utløpsdatoen for godkjenningen av alfacypermetrin til bruk i biocidprodukter i produkttype 18, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzh
+¾. beslutning [(EU) 2026/380](https://lovdata.no/eu/32026d0380) om utsettelse av utløpsdatoen for godkjenningen av propan-2-ol til bruk i biocidprodukter i produkttype 1, 2 og 4, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzj
+¿. beslutning [(EU) 2026/381](https://lovdata.no/eu/32026d0381) om utsettelse av utløpsdatoen for godkjenningen av tebukonazol til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzk
+À. beslutning [(EU) 2026/576](https://lovdata.no/eu/32026d0576) om utsettelse av utløpsdatoen for godkjenningen av basisk kobberkarbonat til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnp
+Á. beslutning [(EU) 2026/578](https://lovdata.no/eu/32026d0578) om utsettelse av utløpsdatoen for godkjenningen av alfakloralose til bruk i biocidprodukter i produkttype 14, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnr
+Â. beslutning [(EU) 2026/579](https://lovdata.no/eu/32026d0579) om utsettelse av utløpsdatoen for godkjenningen av kobberhydroksid til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnns
+Ã. beslutning [(EU) 2026/619](https://lovdata.no/eu/32026d0619) om utsettelse av utløpsdatoen for godkjenningen av kobber(II)oksid til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnt
+Ä. beslutning [(EU) 2026/1109](https://lovdata.no/eu/32026d1109) om utsettelse av utløpsdatoen for godkjenningen av glutaraldehyd til bruk i biocidprodukter i produkttype 2, 3, 4, 6, 11 og 12, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnu
+Å. beslutning [(EU) 2026/1089](https://lovdata.no/eu/32026d1089) om utsettelse av utløpsdatoen for godkjenningen av medetomidin til bruk i biocidprodukter i produkttype 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzm
+Æ. beslutning [(EU) 2026/1103](https://lovdata.no/eu/32026d1103) om utsettelse av utløpsdatoen for godkjenningen av PHMB (1415; 4.7) til bruk i biocidprodukter i produkttype 2 og 4, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzn
+Ç. beslutning [(EU) 2026/1111](https://lovdata.no/eu/32026d1111) om utsettelse av utløpsdatoen for godkjenningen av dinatriumtetraborat til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzo
+È. beslutning [(EU) 2026/1128](https://lovdata.no/eu/32026d1128) om utsettelse av utløpsdatoen for godkjenningen av borsyre til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzq
+É. beslutning [(EU) 2026/1129](https://lovdata.no/eu/32026d1129) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter i produkttype 8, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzzr
+
+Beslutningene gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 23 mars 2018 nr. 506](https://lovdata.no/forskrift/2018-03-23-506), [8 feb 2019 nr. 90](https://lovdata.no/forskrift/2019-02-08-90), [27 sep 2019 nr. 1327](https://lovdata.no/forskrift/2019-09-27-1327), [30 april 2020 nr. 939](https://lovdata.no/forskrift/2020-04-30-939), [23 okt 2020 nr. 2228](https://lovdata.no/forskrift/2020-10-23-2228), [5 feb 2021 nr. 478](https://lovdata.no/forskrift/2021-02-05-478), [29 okt 2021 nr. 3146](https://lovdata.no/forskrift/2021-10-29-3146), [10 des 2021 nr. 3650](https://lovdata.no/forskrift/2021-12-10-3650), [18 mars 2022 nr. 425](https://lovdata.no/forskrift/2022-03-18-425), [29 april 2022 nr. 811](https://lovdata.no/forskrift/2022-04-29-811), [28 april 2023 nr. 650](https://lovdata.no/forskrift/2023-04-28-650), [5 juli 2023 nr. 1251](https://lovdata.no/forskrift/2023-07-05-1251), [22 sep 2023 nr. 1485](https://lovdata.no/forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](https://lovdata.no/forskrift/2023-10-27-1775), [8 des 2023 nr. 1990](https://lovdata.no/forskrift/2023-12-08-1990), [2 feb 2024 nr. 206](https://lovdata.no/forskrift/2024-02-02-206), [15 mars 2024 nr. 495](https://lovdata.no/forskrift/2024-03-15-495), [26 april 2024 nr. 719](https://lovdata.no/forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](https://lovdata.no/forskrift/2024-09-23-2372), [7 feb 2025 nr. 281](https://lovdata.no/forskrift/2025-02-07-281), [14 mars 2025 nr. 627](https://lovdata.no/forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](https://lovdata.no/forskrift/2025-12-05-2963), [6 feb 2026 nr. 226](https://lovdata.no/forskrift/2026-02-06-226), [20 mars 2026 nr. 595](https://lovdata.no/forskrift/2026-03-20-595), [26 juni 2026 nr. 1448](https://lovdata.no/forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](https://lovdata.no/forskrift/2026-07-16-1575), [9 okt 2026 nr. 2041](https://lovdata.no/forskrift/2026-10-09-2041).*
+
+### § 1-5. Forordning om prosedyre for endring av vedlegg I til biocidforordningen
+
+Forordning [(EU) nr. 88/2014](https://lovdata.no/eu/32014r0088) om fastsettelse av en prosedyre for endring av vedlegg I til biocidforordningen som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nm, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-6. Forordning om endringer av godkjenninger
+
+Forordning [(EU) nr. 354/2013](https://lovdata.no/eu/32013r0354) om endringer av biocidprodukter som er godkjent i henhold til biocidforordningen, som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nk, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-7. Forordning om fornyelse av godkjenninger
+
+Forordning [(EU) nr. 492/2014](https://lovdata.no/eu/32014r0492) om utfylling av reglene om fornyelse av godkjenning av biocidprodukter som er omfattet av gjensidig anerkjennelse, som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nna, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 21 des 2017 nr. 2363](https://lovdata.no/forskrift/2017-12-21-2363), [23 sep 2024 nr. 2372](https://lovdata.no/forskrift/2024-09-23-2372), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-8. Forordning om samme produkt
+
+Forordning [(EU) nr. 414/2013](https://lovdata.no/eu/32013r0414) om spesifisering av prosedyre for godkjenning av samme biocidprodukt, som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzp, gjelder som forskrift. Forordningen gjelder med endringene som følger av forordning [(EU) 2016/1802](https://lovdata.no/eu/32016r1802), og med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrift [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-9. Rettsakter om tolkning av definisjoner
+
+Følgende beslutninger inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) gjelder som forskrift:
+
+a. beslutning [(EU) 2015/646](https://lovdata.no/eu/32015d0646) om bakteriekulturer som har til formål å redusere fast organisk materiale og som bringes i omsetning med dette formål i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnd
+b. beslutning [(EU) 2015/655](https://lovdata.no/eu/32015d0655) om polydimetylsiloksanbasert formulering til myggbekjempelse i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nne
+c. beslutning [(EU) 2015/1985](https://lovdata.no/eu/32015d1985) om et anti-virus lommetørkle impregnert med sitronsyre i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnv
+d. beslutning [(EU) 2015/411](https://lovdata.no/eu/32015d0411) om kationiske polymere bindemidler med kvartære ammoniumforbindelser til bruk i maling og overflatefilmer i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzv
+e. beslutning [(EU) 2016/903](https://lovdata.no/eu/32016d0903) om et hestedekken impregnert med permetrin benyttet i den hensikt å kontrollere plagende insekter i hestens omgivelser i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnw
+f. beslutning [(EU) 2016/904](https://lovdata.no/eu/32016d0904) om produkter brukt til hånddesinfisering som inneholder propan-2-ol i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnx
+g. beslutning [(EU) 2016/1943](https://lovdata.no/eu/32016d1943) om bruk av parafinolje som belegg på egg for å kontrollere bestander av rugende fugl i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzf
+h. beslutning [(EU) 2018/1623](https://lovdata.no/eu/32018d1623) om mygg som på ikke-naturlig måte er blitt smittet med Wolbachia og brukt til bekjempelse av smittebærere i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzs
+i. beslutning [(EU) 2022/146](https://lovdata.no/eu/32022d0146) om et produkt som inneholder alkyl(C12-16) dimetylbenzylammoniumklorid er et biocidprodukt i henhold til artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzv
+j. beslutning [(EU) 2022/1497](https://lovdata.no/eu/32022d1497) om et produkt som inneholder ekspellerpresset oleoresin av Capsicum er et biocidprodukt i henhold til artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzm
+k. beslutning [(EU) 2016/678](https://lovdata.no/eu/32016d0678) om et produkt bestående av tørkede lavendelblomster i pose som markedsføres til bekjempelse av møll i medhold av artikkel 3(3) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 19
+
+Beslutningene gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 23 mars 2018 nr. 506](https://lovdata.no/forskrift/2018-03-23-506), [8 feb 2019 nr. 90](https://lovdata.no/forskrift/2019-02-08-90), [10 juni 2022 nr. 1052](https://lovdata.no/forskrift/2022-06-10-1052), [28 april 2023 nr. 650](https://lovdata.no/forskrift/2023-04-28-650), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-10. Beslutninger om uenigheter ved gjensidige godkjenninger
+
+Følgende beslutninger inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) gjelder som forskrift:
+
+a. beslutning [2014/402/EU](https://lovdata.no/eu/32014d0402) om begrensning av godkjenninger av biocidprodukter som inneholder IPBC, meldt av Tyskland i samsvar med direktiv [98/8/EF](https://lovdata.no/eu/31998l0008), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnc
+b. beslutning [(EU) 2015/1751](https://lovdata.no/eu/32015d1751) om vilkårene for godkjenning av et biocidprodukt som inneholder bromadiolon forelagt av Det forente kongerike i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnp
+c. beslutning [(EU) 2016/1174](https://lovdata.no/eu/32016d1174) om vilkårene for godkjenning av et biocidprodukt som inneholder difenakum, forelagt av Spania i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nny
+d. beslutning [(EU) 2016/1175](https://lovdata.no/eu/32016d1175) om vilkårene for godkjenning av et biocidprodukt som inneholder spinosad, forelagt av Det forente kongerike i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnz
+e. beslutning [(EU) 2018/1477](https://lovdata.no/eu/32018d1477) om vilkårene for godkjenning av biocidprodukter som inneholder etylbutylacetylaminopropionat, forelagt av Belgia i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzp
+f. beslutning [(EU) 2018/1305](https://lovdata.no/eu/32018d1305) om vilkårene for godkjenning av en biocidproduktfamilie som inneholder deltametrin, forelagt av Sverige i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzu
+g. beslutning [(EU) 2019/641](https://lovdata.no/eu/32019d0641) om vilkårene for godkjenning av en biocidproduktfamilie som inneholder 1R-transfenotrin, forelagt av Irland i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzy
+h. beslutning [(EU) 2019/1331](https://lovdata.no/eu/32019d1331) om vilkårene for godkjenning av et biocidprodukt som inneholder peppermynteolje og sitronellal, forelagt av Det forente kongerike i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzb
+i. beslutning [(EU) 2021/2148](https://lovdata.no/eu/32021d2148) om vilkårene for godkjenning av biocidproduktfamilien Oxybio som inneholder hydrogenperoksid i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzr
+j. beslutning [(EU) 2021/2149](https://lovdata.no/eu/32021d2149) om vilkårene for godkjenning av et biocidprodukt som inneholder 5-klor-2-metyl-2H-isotiasol-3-on (C(M)IT) i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzs
+k. beslutning [(EU) 2021/2174](https://lovdata.no/eu/32021d2174) om vilkårene for godkjenning av biocidproduktet Konservan P40 som inneholder permetrin i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzt
+l. beslutning [(EU) 2021/2166](https://lovdata.no/eu/32021d2166) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Teknol Aqua 1411-01 i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzu
+m. beslutning [(EU) 2022/1005](https://lovdata.no/eu/32022d1005) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktfamilien Alphachloralose Grain forelagt av Frankrike og Sverige i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzw
+n. beslutning [(EU) 2022/1006](https://lovdata.no/eu/32022d1006) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktfamilien Alphachloralose Pasta forelagt av Frankrike og Sverige i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzy
+o. beslutning [(EU) 2022/323](https://lovdata.no/eu/32022d0323) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Sojet i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzz
+p. beslutning [(EU) 2022/1388](https://lovdata.no/eu/32022d1388) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Pat'Appât Souricide Canadien Foudroyant forelagt av Frankrike og Sverige i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzza
+q. beslutning [(EU) 2022/835](https://lovdata.no/eu/32022d0835) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Primer Stain TIP i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzb
+r. beslutning [(EU) 2022/866](https://lovdata.no/eu/32022d0866) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Primer PIP i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzc
+s. beslutning [(EU) 2022/874](https://lovdata.no/eu/32022d0874) om vilkårene for godkjenning av et biocidprodukt som inneholder N-(triklormetyltio)ftalimid (folpet) forelagt av Nederland i samsvar med artikkel 36 (1) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzd
+t. beslutning [(EU) 2022/1494](https://lovdata.no/eu/32022d1494) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Mouskito Spray i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzj
+u. beslutning [(EU) 2022/1515](https://lovdata.no/eu/32022d1515) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Mouskito Junior Lotion i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzn
+v. beslutning [(EU) 2022/2054](https://lovdata.no/eu/32022d2054) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Preventol A 12 TK 50 i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzw
+w. beslutning [(EU) 2023/1084](https://lovdata.no/eu/32023d1084) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet A-Quasan i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzg
+x. beslutning [(EU) 2023/2630](https://lovdata.no/eu/32023d2630) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Procalx i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzz
+y. beslutning [(EU) 2023/2672](https://lovdata.no/eu/32023d2672) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet INTEROX Biocidal Product Family 2 i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzc
+z. beslutning [(EU) 2023/1155](https://lovdata.no/eu/32023d1155) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Rapid Pro forelagt av Frankrike i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzf
+{. beslutning [(EU) 2023/1157](https://lovdata.no/eu/32023d1157) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Virazan forelagt av Frankrike i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzg
+|. beslutning [(EU) 2024/1286](https://lovdata.no/eu/32024d1286) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet BOMBEX® PEBBYS® CS i samsvar med artikkel 36 i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzu
+}. beslutning [(EU) 2024/1305](https://lovdata.no/eu/32024d1305) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Elector i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzv
+~. beslutning [(EU) 2024/2712](https://lovdata.no/eu/32024d2712) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Phenogen i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzk
+. beslutning [2014/756/EU](https://lovdata.no/eu/32014d0756) om begrensning av godkjenninger av biocidprodukter som inneholder IPBC og propikonazol, meldt av Tyskland i samsvar med direktiv [98/8/EF](https://lovdata.no/eu/31998l0008), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 14
+. beslutning [2014/757/EU](https://lovdata.no/eu/32014d0757) om begrensning av godkjenningen av et biocidprodukt som inneholder IPBC, meldt av Tyskland i samsvar med direktiv [98/8/EF](https://lovdata.no/eu/31998l0008), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 15
+. beslutning [2014/758/EU](https://lovdata.no/eu/32014d0758) om avvisning av avslaget på godkjenningen av et biocidprodukt meldt av Tyskland i samsvar med direktiv [98/8/EF](https://lovdata.no/eu/31998l0008), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 16
+. beslutning [(EU) 2025/2280](https://lovdata.no/eu/32025d2280) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Speed Easy Clean i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnd
+. beslutning [(EU) 2025/2297](https://lovdata.no/eu/32025d2297) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Saltidin 20 % Outdoor i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnnh
+. beslutning [(EU) 2025/2309](https://lovdata.no/eu/32025d2309) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet ERO MP i samsvar med forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528), jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnni
+
+Beslutningene gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 8 feb 2019 nr. 90](https://lovdata.no/forskrift/2019-02-08-90), [29 mars 2019 nr. 438](https://lovdata.no/forskrift/2019-03-29-438), [27 sep 2019 nr. 1327](https://lovdata.no/forskrift/2019-09-27-1327), [13 des 2019 nr. 2133](https://lovdata.no/forskrift/2019-12-13-2133), [29 april 2022 nr. 811](https://lovdata.no/forskrift/2022-04-29-811), [10 juni 2022 nr. 1052](https://lovdata.no/forskrift/2022-06-10-1052), [28 okt 2022 nr. 1911](https://lovdata.no/forskrift/2022-10-28-1911), [9 des 2022 nr. 2228](https://lovdata.no/forskrift/2022-12-09-2228), [3 feb 2023 nr. 177](https://lovdata.no/forskrift/2023-02-03-177), [28 april 2023 nr. 650](https://lovdata.no/forskrift/2023-04-28-650), [27 okt 2023 nr. 1775](https://lovdata.no/forskrift/2023-10-27-1775), [15 mars 2024 nr. 495](https://lovdata.no/forskrift/2024-03-15-495), [26 april 2024 nr. 719](https://lovdata.no/forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](https://lovdata.no/forskrift/2024-09-23-2372), [7 feb 2025 nr. 281](https://lovdata.no/forskrift/2025-02-07-281), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255), [20 mars 2026 nr. 595](https://lovdata.no/forskrift/2026-03-20-595).*
+
+### § 1-11. Forordning om vitenskapelige kriterier til identifisering av hormonforstyrrende stoffer
+
+Forordning [(EU) 2017/2100](https://lovdata.no/eu/32017r2100) om vitenskapelige kriterier til identifisering av hormonforstyrrende stoffer, som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 26, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-12. Beslutninger om sammenlignende vurdering av biocidprodukter
+
+Følgende beslutninger inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) gjelder som forskrift:
+
+a. beslutning [(EU) 2017/1532](https://lovdata.no/eu/32017d1532) om spørsmål knyttet til sammenlignende vurdering av antikoagulerende muse- og rottemidler, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 20
+b. beslutning [(EU) 2024/816](https://lovdata.no/eu/32024d0816) om spørsmål knyttet til den andre sammenlignende vurderingen av antikoagulerende muse- og rottemidler, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nnna
+
+Beslutningene gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255).*
+
+### § 1-13. Forordning om gebyrer og avgifter som skal betales til ECHA
+
+Forordning [EU) nr. 564/2013](https://lovdata.no/eu/32013r0564) om gebyrer og avgifter til det europeiske kjemikalibyrået, som inntatt i [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12nl, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning [(EU) 2025/1490](https://lovdata.no/eu/32025r1490).
+
+*Endret ved forskrifter [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255) (tidligere § 1-11), [5 des 2025 nr. 2963](https://lovdata.no/forskrift/2025-12-05-2963).*
+
+## Kapittel 2. Nasjonale krav
+
+### § 2-1. Emballering, merking og bruksanvisning
+
+Biocidprodukter skal være merket på norsk. Informasjon om bruksområde og beskrivelse av tiltenkt bruk skal også være på norsk.
+
+Biocidprodukter som kan forveksles med mat, drikke eller fôr skal emballeres slik at forvekslingsfare unngås.
+
+Etiketten for et biocidprodukt må ikke være misvisende, og det skal aldri benyttes «lavrisikoprodukt», «giftfritt», «uskadelig», «naturlig», «miljøvennlig» eller liknende uttrykk på etiketten.
+
+### § 2-2. Registrering i produktregisteret
+
+Alle tillatte biocidprodukter som inneholder aktive stoffer, jf. forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528*) artikkel 3 bokstav c, skal meldes til produktregisteret ved innførsel, omsetning eller bruk på det norske markedet. Meldeplikten gjelder også produkter som ikke er deklarasjonspliktige i henhold til [forskrift 19. mai 2015 nr. 541](for-2015-05-19-541-deklareringsforskriften.md) om deklarering av kjemikalier til produktregisteret (deklareringsforskriften). Meldingen skal sendes gjennom Miljødirektoratets løsning for elektronisk deklarering, Kjemikaliedeklarering til produktregisteret.
+
+Meldingen skal alltid opplyse om produktnavn, angi produkttype og de aktive stoffene i produktet og oppgi produktansvarlig. Ved senere endringer i disse opplysningene eller dersom produktet trekkes fra markedet skal Miljødirektoratet gis særskilt melding. Kravene i paragrafen her gjelder i tillegg til kravene til melding i [forskrift 19. mai 2015 nr. 541](for-2015-05-19-541-deklareringsforskriften.md) om deklarering av kjemikalier til produktregisteret (deklareringsforskriften).
+
+*Endret ved [forskrift 27 aug 2018 nr. 1274](https://lovdata.no/forskrift/2018-08-27-1274) (i kraft 1 okt 2018).*
+
+### § 2-3. Nasjonale gebyrer
+
+Den som søker godkjenning av et aktivt stoff, eller godkjenning eller registrering av et biocidprodukt, skal betale et gebyr som dekker kostnadene for behandlingen av søknaden. Innehaver av en slik godkjenning eller registrering skal i tillegg betale et årsgebyr som skal dekke kostnadene ved gjennomføring av tilsyn og kontroll med at forskriften her eller vedtak gjort i medhold av forskriften blir overholdt.
+
+Gebyrsatsene samt nærmere regler om gebyrer er fastsatt i vedlegg 1. Miljødirektoratet kan endre gebyrsatsene i samsvar med endringene i kostnadene nevnt i første ledd.
+
+Miljødirektoratet kan årlig endre gebyrsatsene i [vedlegg 1](for-2017-04-18-480-biocidforskriften.md) i samsvar med endring i konsumprisindeksen beregnet for perioden 1. oktober til 30. september. Endringen trer i kraft den påfølgende 1. januar.
+
+Når særlige grunner foreligger, kan Miljødirektoratet gjøre unntak fra reglene om gebyrer, herunder gebyrsatsene.
+
+*Endret ved forskrift [22 april 2024 nr. 652](https://lovdata.no/forskrift/2024-04-22-652).*
+
+## Kapittel 3. Avsluttende bestemmelser
+
+### § 3-1. Ansvarlig myndighet
+
+Miljødirektoratet er ansvarlig myndighet etter rettsakter nevnt i denne forskriften og fatter vedtak etter biocidforordningen, herunder godkjenninger eller avslag som svarer til Kommisjonens vedtak etter artikkel 44(5) og vedtak som svarer til Kommisjonens vedtak om å endre eller tilbakekalle disse godkjenningene etter artikkel 48, 49 og 50.
+
+*Endret ved [forskrift 4 jan 2018 nr. 15](https://lovdata.no/forskrift/2018-01-04-15).*
+
+### § 3-2. Tilsyn m.m.
+
+Miljødirektoratet og Arbeidstilsynet eller den Klima- og miljødepartementet eller Arbeids- og sosialdepartementet bemyndiger, fører tilsyn med at denne forskriften overholdes innenfor sine respektive myndighetsområder.
+
+### § 3-3. Ikrafttredelse og opphevelse av forskrifter
+
+Denne forskrift gjelder fra 18. april 2017. Fra samme tidspunkt oppheves [forskrift 10. april 2014 nr. 548](https://lovdata.no/forskrift/2014-04-10-548) om biocider (biocidforskriften).
+
+## Vedlegg 1. Gebyrer for biocider og biocidprodukter
+
+*Endret ved forskrifter [10 feb 2022 nr. 234](https://lovdata.no/forskrift/2022-02-10-234), [22 april 2024 nr. 652](https://lovdata.no/forskrift/2024-04-22-652), [6 aug 2025 nr. 1598](https://lovdata.no/forskrift/2025-08-06-1598).*
+
+### A. Gebyrer for søknadsvurdering[1]
+
+Før Miljødirektoratet påbegynner behandling av en søknad eller notifisering, skal det betales et gebyr. Gebyret kreves inn av Miljødirektoratet ved at det sendes en faktura pålydende det aktuelle beløpet.
+
+Dersom gebyret overstiger kostnadene ved endt søknadsbehandling, inkludert eventuell klagebehandling, skal det overskytende beløpet tilbakebetales til søkeren for følgende typer søknader:
+
+a. Alle typer søknader om godkjenning av aktivt stoff,
+b. Søknad om godkjenning av produkt/produktfamilie med Norge som referanseland,
+c. Søknad om unionsgodkjenning,
+d. Tillegg til produktsøknader dersom dokumentasjonen inneholder ny full datapakke for aktivt stoff,
+e. Søknad om unntak for essensiell bruk i 180 dager (artikkel 55(1)), eller
+f. Søknad om midlertidig produktgodkjenning av produkt med nytt aktivt stoff (artikkel 55(2)).
+
+Miljødirektoratet kan ilegge et tilleggsgebyr for behandling av søknader nevnt i annet ledd dersom kostnadene klart overstiger tidligere ilagt gebyr.
+
+*Aktive stoffer – gebyrer*
+
+| *Type søknad* | *Kjemisk aktivt stoff, gebyr i NOK* | *Mikroorganisme som aktivt stoff, gebyr i NOK* |
+| --- | --- | --- |
+| *Godkjenning av aktivt stoff* | 7 333 248 | 3 666 624 |
+| – Tillegg per ekstra produkttype | 3 666 624 | 1 833 312 |
+| *Oppføring i vedlegg I i BPR* (forenklet prosedyre) | 3 666 624 | 1 833 312 |
+| *Fornyet godkjenning – full vurdering* | 7 333 248 | 3 666 624 |
+| – Tillegg per ekstra produkttype | 3 666 624 | 1 833 312 |
+| *Fornyet godkjenning – begrenset vurdering* | 3 666 624 | 1 833 312 |
+| – Tillegg per ekstra produkttype | 1 833 312 | 915 034 |
+
+*Biocidprodukter – gebyrer ved godkjenning/notifisering*
+
+| *Type søknad* | *Enkeltprodukt, gebyr i NOK* | *Produktfamilie, gebyr i NOK* |
+| --- | --- | --- |
+| *Produktgodkjenning* – referanseland | 900 000 | 1 800 000 |
+| – Tillegg hvis ny full dokumentasjonspakke for aktivt stoff fra ny aktør | 3 666 624 | 3 666 624 |
+| – Tillegg per ekstra aktivt stoff | 72 000 | 144 000 |
+| – Tillegg for hvert formuleringsstoff som gir grunn til bekymring («Substance of concern») | 72 000 | 144 000 |
+| – Tillegg per ekstra produkttype | 72 000 | 144 000 |
+| – Tillegg per ekstra brukerkategori | 72 000 | 144 000 |
+| – Tillegg for komparativ vurdering | 90 000 | 180 000 |
+| – Tillegg for vurdering av MRL (akseptable restnivåer i mat) | 45 000 | 90 000 |
+| *Unionsgodkjenning* – referanseland | 1 100 000 | Etter avtale |
+| – Tillegg per ekstra aktivt stoff | 72 000 | 144 000 |
+| – Tillegg for hvert formuleringsstoff som gir grunn til bekymring («Substance of concern») | 72 000 | 144 000 |
+| – Tillegg per ekstra produkttype | 72 000 | 144 000 |
+| – Tillegg per ekstra brukerkategori | 72 000 | 144 000 |
+| – Tillegg for komparativ vurdering | 90 000 | 180 000 |
+| – Tillegg for vurdering av MRL (akseptable restnivåer i mat) | 45 000 | 90 000 |
+| *Gjensidig godkjenning* | 81 120 | 162 240 |
+| – Tillegg per ekstra aktivt stoff | 14 710 | 29 420 |
+| – Tillegg for hvert formuleringsstoff som gir grunn til bekymring («Substance of concern») | 14 710 | 29 420 |
+| – Tillegg per ekstra produkttype | 14 710 | 29 420 |
+| – Tillegg per ekstra brukerkategori | 14 710 | 29 420 |
+| – Tillegg for komparativ vurdering | 18 333 | 36 666 |
+| *Godkjenning av samme biocidprodukt* | 29 420 | 58 839 |
+| *Produktvurdering etter forenklet prosedyre* |  |  |
+| – Produktgodkjenning – referanseland (artikkel 25) | 180 000 | 360 000 |
+| – Notifisering av produkt på markedet (artikkel 27) | 16 224 | 32 448 |
+| *Notifisering av hvert nytt produkt i en produktfamilie* | 16 224 | – |
+
+*Biocidprodukter – gebyrer ved fornyet godkjenning*
+
+| *Type søknad* | *Enkeltprodukt, gebyr i NOK* | *Produktfamilie, gebyr i NOK* |
+| --- | --- | --- |
+| *Full vurdering* – referanseland | 900 000 | 1 800 000 |
+| – Tillegg per ekstra aktivt stoff | 72 000 | 144 000 |
+| – Tillegg for hvert formuleringsstoff som gir grunn til bekymring («Substance of concern») | 72 000 | 144 000 |
+| – Tillegg per ekstra produkttype | 72 000 | 144 000 |
+| – Tillegg per ekstra brukerkategori | 72 000 | 144 000 |
+| – Tillegg for komparativ vurdering | 90 000 | 180 000 |
+| – Tillegg for vurdering av MRL (akseptable restnivåer i mat) | 45 000 | 90 000 |
+| *Full vurdering* – gjensidig godkjenning | 81 120 | 162 240 |
+| – Tillegg per ekstra aktivt stoff | 14 710 | 29 420 |
+| – Tillegg for hvert formuleringsstoff som gir grunn til bekymring («Substance of concern») | 14 710 | 29 420 |
+| – Tillegg per ekstra produkttype | 14 710 | 29 420 |
+| – Tillegg per ekstra brukerkategori | 14 710 | 29 420 |
+| – Tillegg for komparativ vurdering | 18 333 | 36 666 |
+| *Begrenset vurdering* – referanseland | 300 000 | 600 000 |
+| – Tillegg for komparativ vurdering | 90 000 | 180 000 |
+| – Tillegg for vurdering av MRL (akseptable restnivåer i mat) | 45 000 | 90 000 |
+| *Begrenset vurdering* – gjensidig godkjenning | 45 860 | 91 720 |
+| – Tillegg for komparativ vurdering | 18 333 | 36 666 |
+
+*Biocidprodukter – gebyrer ved endringer*
+
+| *Type søknad* | *Enkeltprodukt, gebyr i NOK* | *Produktfamilie, gebyr i NOK* |
+| --- | --- | --- |
+| Større *endring* av produktgodkjenning – referanseland | 300 000 | 600 000 |
+| – Gjensidig godkjenning | 73 441 | 146 881 |
+| *Mindre endring* av produktgodkjenning – referanseland | 87 934 | 175 868 |
+| – Gjensidig godkjenning | 29 203 | 58 406 |
+| *Administrativ endring* av produktgodkjenning | 14 602 | 29 203 |
+
+*Biocidprodukter – andre gebyrer*
+
+| *Type søknad* | *Enkeltprodukt, gebyr i NOK* | *Produktfamilie, gebyr i NOK* |
+| --- | --- | --- |
+| *Parallell handelstillatelse* (artikkel 53) | 58 731 | – |
+| *Forskning og utvikling* (artikkel 56) | 40 560 | – |
+| *Essensiell bruk i 180 dager* (artikkel 55(1)) | 81 120 | – |
+| *Midlertidig godkjenning av produkt med nytt aktivt stoff* (artikkel 55(2)) | 146 665 | 293 330 |
+| – Gjensidig godkjenning | 18 387 | 36 774 |
+
+### B. Årsgebyr
+
+Årsgebyret består av et fast årlig beløp som er knyttet til godkjente biocidprodukter og biocidproduktfamilier på det norske markedet.
+
+Årsgebyr etter [biocidforskriften](for-2017-04-18-480-biocidforskriften.md) kreves årlig inn av Miljødirektoratet.
+
+| *Fast årsgebyr* | *Gebyr i NOK* |
+| --- | --- |
+| Per godkjent produkt | 3 120 |
+| Per godkjent produktfamilie | 6 240 |
+
+## Vedlegg 2. Aktive stoffer som er godkjent for bruk i angitt(e) produkttype(r)
+
+| *Aktivt stoff* | *CAS-nr.* | *Produkttype(r)* | *Frist for søknad om produkt-* *godkjenning*[2] | *Godkjennings-* *vedtak*[3] | *Inntatt i EØS-avtalen vedlegg II kapittel XV* |
+| --- | --- | --- | --- | --- | --- |
+| Diklofluanid | 1085-98-9 | 8 | 1.3.2009 | [2007/20/EF](https://lovdata.no/eu/32007l0020) | Nr. 12n |
+| Karbondioksid | 124-38-9 | 14 | 1.11.2009 | [2007/70/EF](https://lovdata.no/eu/32007l0070) | Nr. 12n |
+| Klotianidin | 210880-92-5 | 8 | 1.2.2010 | [2008/15/EF](https://lovdata.no/eu/32008l0015) | Nr. 12n |
+| Karbondioksid | 124-38-9 | 14 | 1.11.2009 | [2008/75/EF](https://lovdata.no/eu/32008l0075) | Nr. 12n |
+| Tiametoksam | 153719-23-4 | 8 | 1.7.2010 | [2008/77/EF](https://lovdata.no/eu/32008*0077) | Nr. 12n |
+| IPBC | 55406-53-6 | 8 | 1.7.2010 | [2008/79/EF](https://lovdata.no/eu/32008l0079) | Nr. 12n |
+| K-HDO | 66603-10-9 | 8 | 1.7.2010 | [2008/80/EF](https://lovdata.no/eu/32008l0080) | Nr. 12n |
+| Tiabendazol | 148-79-8 | 8 | 1.7.2010 | [2008/85/EF](https://lovdata.no/eu/32008l0085) | Nr. 12n |
+| Tebukonazol | 107534-96-3 | 8 | 1.4.2010 | [2008/86/EF](https://lovdata.no/eu/32008*0086) | Nr. 12n |
+| Fenpropimorf | 67564-91-4 | 8 | 1.7.2011 | [2009/86/EF](https://lovdata.no/eu/32009l0086) | Nr. 12n |
+| Indoksakarb | 173584-44-6 | 18 | [4] | [2009/87/EF](https://lovdata.no/eu/32009l0087) | Nr. 12n |
+| Tiakloprid | 111988-49-9 | 8 | [4] | [2009/88/EF](https://lovdata.no/eu/32009l0088) | Nr. 12n |
+| Nitrogen | 7727-37-9 | 18 | 1.9.2011 | [2009/89/EF](https://lovdata.no/eu/32009l0089) | Nr. 12n |
+| Dinatriumtetraborat, vannfritt | 1330-43-4 | 8 | 1.9.2011 | [2009/91/EF](https://lovdata.no/eu/32009l0091) | Nr. 12n |
+| Kloralose | 15879-93-3 | 14 | 1.7.2011 | [2009/93/EF](https://lovdata.no/eu/32009l0093) | Nr. 12n |
+| Borsyre | 10043-35-3 | 8 | 1.9.2011 | [2009/94/EF](https://lovdata.no/eu/32009l0094) | Nr. 12n |
+| Aluminiumfosfid | 20859-73-8 | 14 | 1.9.2011 | [2009/95/EF](https://lovdata.no/eu/32009l0095) | Nr. 12n |
+| Dinatriumoktaborat tetrahydrat | 12280-03-4 | 8 | 1.9.2011 | [2009/96/EF](https://lovdata.no/eu/32009l0096) | Nr. 12n |
+| Boroksid | 1303-86-2 | 8 | 1.9.2011 | [2009/98/EF](https://lovdata.no/eu/32009l0098) | Nr. 12n |
+| Tolylfluanid | 731-27-1 | 8 | 1.10.2011 | [2009/151/EF](https://lovdata.no/eu/32009*0151) | Nr. 12n |
+| Magnesiumfosfid | 12057-74-8 | 18 | 1.10.2011 | [2010/7/EU](https://lovdata.no/eu/32010l0007) | Nr. 12n |
+| Warfarin natrium | 129-06-6 | 14 | 1.2.2012 | [2010/8/EU](https://lovdata.no/eu/32010*0008) | Nr. 12n |
+| Aluminiumfosfid | 20859-73-8 | 18 | 30.9.2013 | [2010/9/EU](https://lovdata.no/eu/32010*0009) | Nr. 12n |
+| DEET | 134-62-3 | 19 | 1.8.2012 | [2010/51/EU](https://lovdata.no/eu/32010l0051) | Nr. 12n |
+| Spinosad | 168316-95-8 | 18 | 1.11.2012 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12n |
+| Karbondioksid | 124-38-9 | 18 | 1.11.2010 | [2010/74/EU](https://lovdata.no/eu/32010l0074) | Nr. 12n |
+| Bifentrin | 82657-04-3 | 8 | 1.2.2013 | [2011/10/EF](https://lovdata.no/eu/32011*0010) | Nr. 12n |
+| (Z,E)-Tetradeka-9,12-dienyl acetat (ZE-TDA) | 30507-70-1 | 19 | 1.2.2013 | [2011/11/EF](https://lovdata.no/eu/32011l0011) | Nr. 12n |
+| Fenoksykarb | 72490-01-8 | 8 | 1.2.2013 | [2011/12/EF](https://lovdata.no/eu/32011l0012) | Nr. 12n |
+| Nonansyre | 112-05-0 | 19 | 1.2.2013 | [2011/13/EF](https://lovdata.no/eu/32011*0013) | Nr. 12n |
+| DCOIT | 64359-81-5 | 8 | 1.7.2013 | [2011/66/EF](https://lovdata.no/eu/32011l0066) | Nr. 12n |
+| Abamektin (blanding av avermectin B1a og avermectin B1b) | 71751-41-2 B1a: 65195-55-3 B1b: 65195-56-4 | 18 | 1.7.2013 | [2011/67/EF](https://lovdata.no/eu/32011l0067) | Nr. 12n |
+| Imidakloprid | 138261-41-3 | 18 | 1.7.2013 | [2011/69/EF](https://lovdata.no/eu/32011l0069) | Nr. 12n |
+| *Bacillus thuringiensis* subsp. *israelensis* Serotype H14, Strain AM65-52 |  | 18 | 1.10.2013 | [2011/78/EF](https://lovdata.no/eu/32011*0078) | Nr. 12n |
+| Fipronil | 120068-37-3 | 18 | 1.10.2013 | [2011/79/EF](https://lovdata.no/eu/32011l0079) | Nr. 12n |
+| Lamda-cyhalotrin (blanding) | 91465-08-6 | 18 | 1.10.2013 | [2011/80/EF](https://lovdata.no/eu/32011l0080) | Nr. 12n |
+| Deltametrin | 52918-63-5 | 18 | 1.10.2013 | [2011/81/EF](https://lovdata.no/eu/32011l0081) | Nr. 12n |
+| Kobberhydroksid | 20427-59-2 | 8 | 1.2.2014 | [2012/2/EF](https://lovdata.no/eu/32012l0002) | Nr. 12n |
+| Kobber(II)oksid | 1317-38-0 | 8 | 1.2.2014 | [2012/2/EF](https://lovdata.no/eu/32012l0002) | Nr. 12n |
+| Kobber(II)karbonat-kobber(II)hydroksid (1:1) | 12069-69-1 | 8 | 1.2.2014 | [2012/2/EF](https://lovdata.no/eu/32012l0002) | Nr. 12n |
+| Bendiokarb | 22781-23-3 | 18 | 1.2.2014 | [2012/3/EF](https://lovdata.no/eu/32012l0003) | Nr. 12n |
+| Metylnonylketon | 112-12-9 | 19 | 1.05.2014 | [2012/14/EU](https://lovdata.no/eu/32012l0014) | Nr. 12n |
+| Margosa-ekstrakt | 84696-25-3 | 18 | 1.05.2014 | [2012/15/EU](https://lovdata.no/eu/32012l0015) | Nr. 12n |
+| Hydrogenklorid |  | 2 | 1.05.2014 | [2012/16/EU](https://lovdata.no/eu/32012*0016) | Nr. 12n |
+| Flufenoksuron | 101463-69-8 | 8 | 1.02.2014 | [2012/20/EU](https://lovdata.no/eu/32012l0020) | Nr. 12n |
+| DDA-karbon | 894406-76-9 | 8 | [4] | [2012/22/EU](https://lovdata.no/eu/32012l0022) | Nr. 12n |
+| Cis-Tricos-9-ene | 27519-02-4 | 19 | 1.10.2014 | [2012/38/EU](https://lovdata.no/eu/32012l0038) | Nr. 12n |
+| Dinatriumtetraborat[5] | 1330-43-4, 12179-04-3, 1303-96-4 | 8 | 1.9.2011 | [2012/40/EU](https://lovdata.no/eu/32012*0040) | Nr. 12n |
+| Nonansyre | 112-05-0 | 2 | 1.10.2014 | [2012/41/EU](https://lovdata.no/eu/32012l0041) | Nr. 12n |
+| Hydrogencyanid, blåsyre | 74-90-8 | 8, 14, 18 | 1.10.2014 | [2012/42/EU](https://lovdata.no/eu/32012l0042) | Nr. 12n |
+| Tiametoksam | 153719-23-4 | 18 | 1.02.2015 | [2013/03/EU](https://lovdata.no/eu/32013l0003) | Nr. 12n |
+| Didecyldimetylammoniumklorid | 7173-51-5 | 8 | 1.02.2015 | [2013/04/EU](https://lovdata.no/eu/32013l0004) | Nr. 12n |
+| Pyriproksyfen | 95737-68-1 | 18 | 1.02.2015 | [2013/05/EU](https://lovdata.no/eu/32013l0005) | Nr. 12n |
+| Diflubenzuron | 35367-38-5 | 18 | 1.02.2015 | [2013/06/EU](https://lovdata.no/eu/32013*0006) | Nr. 12n |
+| Alkyl (C12-16)dimetylbenzyl ammoniumklorid | 68424-85-1 | 8 | 1.02.2015 | [2013/07/EU](https://lovdata.no/eu/32013*0007) | Nr. 12n |
+| Klorfenapyr | 122453-73-0 | 8 | 1.05.2015 | [2013/27/EU](https://lovdata.no/eu/32013l0027) | Nr. 12n |
+| 1R-transfenotrin | 26046-85-5, 26002-80-2 | 18 | 31.08.2015 | [2013/41/EU](https://lovdata.no/eu/32013*0041) | – |
+| Maiskolbemel | – | 14 | 01.02.2015 | [2013/44/EU](https://lovdata.no/eu/32013*0044) | – |
+| Cypermetrin | 52315-07-8 | 8 | 01.06.2015 | (EU) [nr. 945/2013](https://lovdata.no/eu/32013r0945) | Nr. 12na |
+| Propikonazol | 60207-90-1 | 9 | 01.06.2015 | (EU) [nr. 955/2013](https://lovdata.no/eu/32013r0955) | Nr. 12nb |
+| Bromeddiksyre | 79-08-3 | 4 | 01.07.2015 | (EU) [nr. 1032/2013](https://lovdata.no/eu/32013r1032) | Nr. 12nc |
+| Kobbersulfatpentahydrat | 7758-99-8 | 2 | 01.07.2015 | (EU) [nr. 1033/2013](https://lovdata.no/eu/32013r1033) | Nr. 12nd |
+| Aluminiumfosfid | 20859-73-8 | 20 | 01.07.2015 | (EU) [nr. 1034/2013](https://lovdata.no/eu/32013r1034) | Nr. 12ne |
+| Benzosyre | 65-85-0 | 3,4 | 01.07.2015 | (EU) [nr. 1035/2013](https://lovdata.no/eu/32013r1035) | Nr. 12nf |
+| 3-jod-2-propynyl-butylkarbamat (IPBC) | 55406-53-6 | 6 | 01.07.2015 | (EU) [nr. 1037/2013](https://lovdata.no/eu/32013r1037) | Nr. 12nh |
+| Tebukonazol | 107534-96-3 | 7, 10 | 01.07.2015 | (EU) [nr. 1038/2013](https://lovdata.no/eu/32013r1038) | Nr. 12ni |
+| Nonansyre | 112-05-0 | 2 | 01.07.2015 | (EU) [nr. 1039/2013](https://lovdata.no/eu/32013r1039) | Nr. 12nj |
+| Bis-(N-sykloheksyl-diazenium-dioksy)kobber; (Cu-HDO) | 312600-89-8 | 8 | 01.09.2015 | [2014/89/EU](https://lovdata.no/eu/32014*0089) | Nr. 12nn |
+| Dekansyre | 334-48-5 | 4, 18, 19 | 01.09.2015 | [2014/90/EU](https://lovdata.no/eu/32014*0090) | Nr. 12no |
+| S-metopren | 65733-16-6 | 18 | 01.09.2015 | [2014/91/EU](https://lovdata.no/eu/32014*0091) | Nr. 12np |
+| Zineb | 12122-67-7 | 21 | 01.01.2016 | [2014/92/EU](https://lovdata.no/eu/32014*0092) | Nr. 12nq |
+| Oktansyre | 124-07-2 | 4, 18 | 01.09.2015 | [2014/93/EU](https://lovdata.no/eu/32014*0093) | Nr. 12nr |
+| Jod Polyvinylpyrrolidonjod | 7553-56-2 25655-41-8 | 1,3,4,22 | 01.09.2015 | [2014/94/EU](https://lovdata.no/eu/32014*0094) | Nr. 12ns |
+| Laurinsyre | 143-07-7 | 19 | 01.11.2015 | [2014/405/EU](https://lovdata.no/eu/32014r0405) | Nr. 12nt |
+| Etylbutylacetyl-aminoproponiat | 52304-36-6 | 19 | 01.11.2015 | [2014/406/EU](https://lovdata.no/eu/32014r0406) | Nr. 12nu |
+| Transflutrin | 118712-89-3 | 18 | 01.11.2015 | [2014/407/EU](https://lovdata.no/eu/32014r0407) | Nr. 12nv |
+| Silisiumdioksid | 112926-00-8 | 18 | 01.11.2015 | [2014/408/EU](https://lovdata.no/eu/32014r0408) | Nr. 12nw |
+| DCOIT | 64359-81-5 | 21 | 01.01.2016 | [2014/437/EU](https://lovdata.no/eu/32014r0437) | Nr. 12ny |
+| Cyprokonazol | 94361-06-5 | 8 | 01.11.2015 | [2014/438/EU](https://lovdata.no/eu/32014r0438) | Nr. 12nz |
+| Permetrin | 52645-53-1 | 8, 18 | 01.05.2016 | (EU) [nr. 1090/2014](https://lovdata.no/eu/32014r1090) | Nr. 12nzb |
+| Tralopyril | 122454-29-9 | 21 | [4] | (EU) [nr. 1091/2014](https://lovdata.no/eu/32014r1091) | Nr. 12nzc |
+| Karbondioksid | 124-38-9 | 15 | [4] | (EU) [2015/292](https://lovdata.no/eu/32015r0292) | Nr. 12zzr |
+| Alfacypermetrin | 67375-30-8 | 18 | 01.07.2016 | (EU) [2015/405](https://lovdata.no/eu/32015r0405) | Nr. 12zzs |
+| *Bacillus thuringiensis* subsp. israelensis, strain SA3A | – | 18 | 01.07.2016 | (EU) [2015/406](https://lovdata.no/eu/32015r0406) | Nr. 12zzt |
+| Propan-2-ol | 67-63-0 | 1, 2, 4 | 01.07.2016 | (EU) [2015/407](https://lovdata.no/eu/32015r0407) | Nr. 12zzu |
+| *Bacillus sphaericus* 2362, strain ABTS-1743 | – | 18 | 01.07.2016 | (EU) [2015/417](https://lovdata.no/eu/32015r0417) | Nr. 12zzx |
+| Tolylfluanid | 731-27-1 | 21 | 01.07.2016 | (EU) [2015/419](https://lovdata.no/eu/32015r0419) | Nr. 12zzy |
+| Kobberpyrition | 14915-37-8 | 21 | 01.10.2016 | (EU) [2015/984](https://lovdata.no/eu/32015r0984) | Nr. 12zzza |
+| Klotianidin | 210880-92-5 | 18 | 01.10.2016 | (EU) [2015/985](https://lovdata.no/eu/32015r0985) | Nr. 12zzzb |
+| Propikonazol | 60207-90-1 | 7 | 1.12.2016 | (EU) [2015/1609](https://lovdata.no/eu/32015r1609) | Nr. 12nnf |
+| *Pythium oligandrum*, stamme M1 | – | 10 | [4] | (EU) [2015/1610](https://lovdata.no/eu/32015r1610) | Nr. 12nng |
+| 2-metyl-2H-isotiazol-3-on (MIT) | 2682-20-4 | 13 | 1.10.2016 | (EU) [2015/1726](https://lovdata.no/eu/32015r1726) | Nr. 12nnh |
+| 5-klor-2-(4-klorfenoksy)fenol (DCPP) | 3380-30-1 | 1, 2, 4 | 1.12.2016 | (EU) [2015/1727](https://lovdata.no/eu/32015r1727) | Nr. 12nni |
+| IPBC | 55406-53-6 | 13 | 1.12.2016 | (EU) [2015/1728](https://lovdata.no/eu/32015r1728) | Nr. 12nnj |
+| Kaliumsorbat | 24634-61-5 | 8 | 1.12.2016 | (EU) [2015/1729](https://lovdata.no/eu/32015r1729) | Nr. 12nnk |
+| Hydrogenperoksid | 7722-84-1 | 1, 2, 3, 4, 5, 6 | 1.2.2017 | (EU) [2015/1730](https://lovdata.no/eu/32015r1730) | Nr. 12nnl |
+| Medetomidin | 86347-14-0 | 21 | [4] | (EU) [2015/1731](https://lovdata.no/eu/32015r1731) | Nr. 12nnm |
+| Folpet | 133-07-3 | 6 | [4] | (EU) [2015/1757](https://lovdata.no/eu/32015r1757) | Nr. 12nnq |
+| Folpet | 133-07-3 | 7, 9 | 1.10.2016 | (EU) [2015/1758](https://lovdata.no/eu/32015r1758) | Nr. 12nnr |
+| Glutaraldehyd | 111-30-8 | 2, 3, 4, 6, 11, 12 | 1.10.2016 | (EU) [2015/1759](https://lovdata.no/eu/32015r1759) | Nr. 12nns |
+| Formaldehyd frigitt fra N,N'- metylenbismorfolin (MBM) | 5625-90-1 | 6, 13 | 1.04.2017 | (EU) [2015/1981](https://lovdata.no/eu/32015r1981) | Nr. 12nnt |
+| Heksaflumuron | 86479-06-3 | 18 | 1.04.2017 | (EU) [2015/1982](https://lovdata.no/eu/32015r1982) | Nr. 12nnu |
+| Bifenyl-2-ol | 90-43-7 | 1, 2, 4, 6, 13 | 01.07.2017 | (EU) [2016/105](https://lovdata.no/eu/32016r0105) | Nr. 12zzzc |
+| PHMB (1600; 1.8) | 27083-27-8 | 4 | 01.07.2017 | (EU) [2016/124](https://lovdata.no/eu/32016r0124) | Nr. 12zzzh |
+| PHMB (1600; 1.8) | 27083-27-8 | 2, 3, 11 | 01.07.2017 | (EU) [2016/125](https://lovdata.no/eu/32016r0125) | Nr. 12zzzi |
+| C(M)IT/MIT (3:1) | 55965-84-9 | 2, 4, 6, 11, 12, 13 | 01.07.2017 | (EU) [2016/131](https://lovdata.no/eu/32016r0131) | Nr. 12zzzj |
+| Pereddiksyre | 79-21-0 | 1, 2, 3, 4, 5, 6 | 01.10.2017 | (EU) [2016/672](https://lovdata.no/eu/32016r0672) | Nr. 18 |
+| N-cyclopropyl-1,3,5-triazin-2,4,6-triamin (cyromazin) | 66215-27-8 | 18 | 01.01.2018 | (EU) [2016/1068](https://lovdata.no/eu/32016r1068) | Nr. 12zzzl |
+| Aminer, N-C10-C16-alkyltrimetylendi-, reaksjonsprodukter med kloreddiksyre | 139734-65-9 | 2, 3, 4 | 01.01.2018 | (EU) [2016/1083](https://lovdata.no/eu/32016r1083) | Nr. 12zzzm |
+| Bifenyl-2-ol | 90-43-7 | 3 | 01.01.2018 | (EU) [2016/1084](https://lovdata.no/eu/32016r1084) | Nr. 12zzzn |
+| *Bacillus amyloliquefaciens* stamme ISB06 | – | 3 | 01.01.2018 | (EU) [2016/1085](https://lovdata.no/eu/32016r1085) | Nr. 12zzzo |
+| 2-brom-2-(brommetyl) pentandinitril (DBDCB) | 35691-65-7 | 6 | 01.01.2018 | (EU) [2016/1086](https://lovdata.no/eu/32016r1086) | Nr. 12zzzp |
+| Kobberflak (med et ytre lag av alifatisk syre) | 7440-50-8 | 21 | 01.01.2018 | (EU) [2016/1088](https://lovdata.no/eu/32016r1088) | Nr. 12zzzr |
+| Dikobberoksid | 1317-39-1 | 21 | 01.01.2018 | (EU) [2016/1089](https://lovdata.no/eu/32016r1089) | Nr. 12zzzs |
+| Kobbertiocyanat | 1111-67-7 | 21 | 01.01.2018 | (EU) [2016/1090](https://lovdata.no/eu/32016r1090) | Nr. 12zzzt |
+| Didecylmetylpoly (oksyetyl) ammoniumpropionat | 94667-33-1 | 8 | 01.01.2018 | (EU) [2016/1093](https://lovdata.no/eu/32016r1093) | Nr. 12zzzu |
+| Granulert kobber | 7440-50-8 | 8 | 01.01.2017 | (EU) [2016/1094](https://lovdata.no/eu/32016r1094) | Nr. 12zzzv |
+| *Bacillus thuringiensis* subsp. kurstaki, serotype 3a3b, strain ABTS-351 | – | 18 | 01.03.2017 | (EU) [2016/1929](https://lovdata.no/eu/32016r1929) | Nr. 12zzzw |
+| Klorkresol | 59-50-7 | 1, 2, 3, 6, 9 | 01.05.2018 | (EU) [2016/1930](https://lovdata.no/eu/32016r1930) | Nr. 12zzzx |
+| Klorkresol | 59-50-7 | 13 | 01.05.2018 | (EU) [2016/1931](https://lovdata.no/eu/32016r1931) | Nr. 12zzzy |
+| Kalsiummagnesiumoksid (brent dolomittkalk) | 37247-91-9 | 2, 3 | 01.05.2018 | (EU) [2016/1932](https://lovdata.no/eu/32016r1932) | Nr. 12zzzz |
+| Kalsiummagnesium-tetrahydroksid (hydrert dolomittkalk) | 39445-23-3 | 2, 3 | 01.05.2018 | (EU) [2016/1933](https://lovdata.no/eu/32016r1933) | Nr. 12zzzza |
+| Kokos-alkyltrimetyl-ammoniumklorid (ATMAC/TMAC) | 61789-18-2 | 8 | 01.05.2018 | (EU) [2016/1934](https://lovdata.no/eu/32016r1934) | Nr. 12zzzzb |
+| Kalsiumdihydroksid (hydrert kalk) | 1305-62-0 | 2, 3 | 01.05.2018 | (EU) [2016/1935](https://lovdata.no/eu/32016r1935) | Nr. 12zzzzc |
+| Cyflutrin | 68359-37-5 | 18 | 01.03.2018 | (EU) [2016/1937](https://lovdata.no/eu/32016r1937) | Nr. 12zzzzd |
+| Sitronsyre | 77-92-9 | 2 | 01.03.2018 | (EU) [2016/1938](https://lovdata.no/eu/32016r1938) | Nr. 12zzzze |
+| Kalsiumoksid (brent kalk) | 1305-78-8 | 2, 3 | 01.05.2018 | (EU) [2016/1936](https://lovdata.no/eu/32016r1936) | Nr. 12zzzzh |
+| Piperonylbutoksid | 51-03-6 | 18 | 01.07.2018 | (EU) [2016/2288](https://lovdata.no/eu/32016r2288) | Nr. 12zzzzi |
+| *epsilon*-Momfluortrin | Alle isomerer: 609346-29-4 RTZ-isomer: 1065124-65-3 | 18 | 01.07.2017 | (EU) [2016/2289](https://lovdata.no/eu/32016r2289) | Nr. 12zzzzj |
+| Pereddiksyre | 79-21-0 | 11, 12 | 01.07.2018 | (EU) [2016/2290](https://lovdata.no/eu/32016r2290) | Nr. 12zzzzk |
+| L(+)melkesyre | 79-33-4 | 1 | 01.07.2017 | (EU) [2016/2291](https://lovdata.no/eu/32016r2291) | Nr. 12zzzzl |
+| Silisiumdioksid kiselgur | 61790-53-2 | 18 | 01.11.2018 | (EU) [2017/794](https://lovdata.no/eu/32017r0794) | Nr. 12zzzzm |
+| Pyrogen, syntetisk amorf silisiumdioksid, nano, overflatebehandlet | 68909-20-6 | 18 | 01.11.2018 | (EU) [2017/795](https://lovdata.no/eu/32017r0795) | Nr. 12zzzzn |
+| Diklofluanid | 1085-98-9 | 21 | 01.11.2018 | (EU) [2017/796](https://lovdata.no/eu/32017r0796) | Nr. 12zzzzo |
+| Aktivt klor frigitt fra natriumhypokloritt | 7681-52-9 | 1, 2, 3, 4, 5 | 01.01.2019 | (EU) [2017/1273](https://lovdata.no/eu/32017r1273) | Nr. 12zzzzq |
+| Aktivt klor frigitt fra kalsiumhypokloritt | 7778-54-3 | 2, 3, 4, 5 | 01.01.2019 | (EU) [2017/1274](https://lovdata.no/eu/32017r1274) | Nr. 12zzzzr |
+| Aktivt klor frigitt fra klor | 7782-50-5 | 2, 5 | 01.01.2019 | (EU) [2017/1275](https://lovdata.no/eu/32017r1275) | Nr. 12zzzzs |
+| Pereddiksyre generert fra tetraacetyletylendiamin (TAED) og natriumperkarbonat | – | 2, 3, 4 | 01.01.2019 | (EU) [2017/1276](https://lovdata.no/eu/32017r1276) | Nr. 12zzzzt |
+| 2-oktyl-isotiazol-3(2H)-on (OIT) | 26530-20-1 | 8 | 01.01.2018 | (EU) [2017/1277](https://lovdata.no/eu/32017r1277) | Nr. 12zzzzu |
+| 2-metylisotiazol-3(2H)-on (MIT) | 2682-20-4 | 11 | 01.01.2019 | (EU) [2017/1278](https://lovdata.no/eu/32017r1278) | Nr. 12zzzzv |
+| Warfarin | 81-81-2 | 14 | 01.02.2010 | [2010/11/EU](https://lovdata.no/eu/32010*0011) (EU) [2017/1376](https://lovdata.no/eu/32017r1376) | Nr. 12n Nr. 12zzzzx |
+| Klorfacinon | 3691-35-8 | 14 | 01.07.2011 | [2009/99/EF](https://lovdata.no/eu/32009l0099) (EU) [2017/1377](https://lovdata.no/eu/32017r1377) | Nr. 12n Nr. 12zzzzy |
+| Kumatetralyl | 5836-29-3 | 14 | 01.07.2011 | [2009/85/EF](https://lovdata.no/eu/32009l0085) (EU) [2017/1378](https://lovdata.no/eu/32017r1378) | Nr. 12n Nr. 12zzzzz |
+| Difenakum | 56073-07-5 | 14 | 01.04.2010 | [2008/81/EF](https://lovdata.no/eu/32008l0081) (EU) [2017/1379](https://lovdata.no/eu/32017r1379) | Nr. 12n Nr. 12zzzzza |
+| Bromadiolon | 28772-56-7 | 14 | 01.07.2011 | [2009/92/EF](https://lovdata.no/eu/32009l0092) (EU) [2017/1380](https://lovdata.no/eu/32017r1380) | Nr. 12n Nr. 12zzzzzb |
+| Brodifakum | 56073-10-0 | 14 | 01.07.2011 | [2010/10/EU](https://lovdata.no/eu/32010l0010) (EU) [2017/1381](https://lovdata.no/eu/32017r1381) | Nr. 12n Nr. 12zzzzzc |
+| Difetialon | 104653-34-1 | 14 | 01.11.2009 | [2007/69/EF](https://lovdata.no/eu/32007*0069) (EU) [2017/1382](https://lovdata.no/eu/32017r1382) | Nr. 12n Nr. 12zzzzzd |
+| Flokumafen | 90035-08-8 | 14 | 01.10.2011 | [2009/150/EF](https://lovdata.no/eu/32009l0150) (EU) [2017/1383](https://lovdata.no/eu/32017r1383) | Nr. 12n Nr. 12zzzzze |
+| Propan-1-ol | 71-23-8 | 1, 2, 4 | 01.05.2019 | (EU) [2017/2001](https://lovdata.no/eu/32017r2001) | Nr. 21 |
+| L(+)-melkesyre | 79-33-4 | 2, 3, 4 | 01.05.2019 | (EU) [2017/2002](https://lovdata.no/eu/32017r2002) | Nr. 22 |
+| Fludioksonil | 131341-86-1 | 7, 9, 10 | 01.04.2018 | (EU) [2017/2003](https://lovdata.no/eu/32017r2003) | Nr. 23 |
+| 2-metylisotiazol-3(2H)-on (MIT) | 2682-20-4 | 12 | 01.04.2019 | (EU) [2017/2004](https://lovdata.no/eu/32017r2004) | Nr. 24 |
+| Margosa-ekstrakt, kaldpresset olje av *Azadirachta indica*-frø uten skall ekstrahert med superkritisk karbondioksid | 84696-25-3 | 19 | 01.04.2019 | (EU) [2017/2005](https://lovdata.no/eu/32017r2005) | Nr. 25 |
+| Imiprotrin | 72963-72-5 | 18 | 01.07.2019 | (EU) [2017/2326](https://lovdata.no/eu/32017r2326) | Nr. 12zzzzzf |
+| 2-metyl-1,2-benzisotiazol-3(2H)-on (MBIT) | 2527-66-4 | 6 | 01.07.2018 | (EU) [2017/2327](https://lovdata.no/eu/32017r2327) | Nr. 12zzzzzg |
+| PHMB (1415; 4,7) | 32289-58-0 og 1802181-67-4 | 2, 4 | 01.11.2019 | (EU) [2018/613](https://lovdata.no/eu/32018r0613) | Nr. 12zzzzzj |
+| Azoksystrobin | 131860-33-8 | 7, 9, 10 | 01.11.2018 | (EU) [2018/614](https://lovdata.no/eu/32018r0614) | Nr. 12zzzzzk |
+| Acetamiprid | 135410-20-7 | 18 | 01.02.2020 | (EU) [2018/1129](https://lovdata.no/eu/32018r1129) | Nr. 12zzzzzm |
+| Cypermetrin | 52315-07-8 | 18 | 01.06.2020 | (EU) [2018/1130](https://lovdata.no/eu/32018r1130) | Nr. 12zzzzzn |
+| Penflufen | 494793-67-8 | 8 | 01.02.2019 | (EU) [2018/1131](https://lovdata.no/eu/32018r1131) | Nr. 12zzzzzo |
+| Cyfenotrin | 39515-40-7 | 18 | 01.02.2020 | (EU) [2018/1292](https://lovdata.no/eu/32018r1292) | Nr. 12zzzzzt |
+| Kolekalsiferol | 67-97-0 | 14 | 01.07.2019 | (EU) [2019/637](https://lovdata.no/eu/32019r0637) | Nr. 12zzzzzx |
+| Ikaridin | 119515-38-7 | 19 | 01.02.2022 | (EU) [2020/1086](https://lovdata.no/eu/32020r1086) | Nr. 12zzzzzzp |
+| Reaksjonsmassen til pereddiksyre (PAA) og peroksyotansyre (POOA) | 79-21-0 og 33734-57-5 | 2, 3, 4 | 01.04.2022 | [(EU) 2020/1771](https://lovdata.no/eu/32020r1771) | Nr. 12zzzzzzq |
+| Formaldehyd | 50-00-0 | 2, 3 | 01.02.2022 | [(EU) 2020/1763](https://lovdata.no/eu/32020r1763) | Nr. 12zzzzzzu |
+| Aktivt klor generert fra natriumklorid ved elektrolyse | 7647-14-5 | 2, 3, 4, 5 | 01.07.2022 | [(EU) 2021/345](https://lovdata.no/eu/32021r0345) | Nr. 12zzzzzzv |
+| Aktivt klor frigjort fra hypoklorsyre | 7790-92-3 | 2, 3, 4, 5 | 01.07.2022 | [(EU) 2021/347](https://lovdata.no/eu/32021r0347) | Nr. 12zzzzzzw |
+| Karbendazim | 10605-21-7 | 7, 10 | 01.02.2022 | [(EU) 2021/348](https://lovdata.no/eu/32021r0348) | Nr. 12zzzzzzx |
+| Aktivt klor generert fra natriumklorid ved elektrolyse | 7647-14-5 | 1 | 01.07.2021 | [(EU) 2021/364](https://lovdata.no/eu/32021r0364) | Nr. 12zzzzzzzb |
+| Aktivt klor frigjort fra hypoklorsyre | 7790-92-3 | 1 | [4] | [(EU) 2021/365](https://lovdata.no/eu/32021r0365) | Nr. 12zzzzzzzc |
+| didecyldimetylammoniumklorid | 7173-51-5 | 3, 4 | 01.11.2022 | 2021/1045 | 12zzzzzzze |
+| alkyl (C12-16) dimetylbenzylammoniumklorid | 68424-85-1 | 3, 4 | 01.11.2022 | 2021/1063 | 12zzzzzzzf |
+| Kreosot | 8001-58-9 | 8 | 01.05.2013 | [2011/71/EF](https://lovdata.no/eu/32011l0071) [(EU) 2022/1950](https://lovdata.no/eu/32022r1950) | Nr. 12n Nr. 12zzzzzzzp |
+| *Chrysanthemum cinerariaefolium* ekstrakt fra åpne og modne blomster av *Tanacetum cinerariifolium* fremstilt med hydrokarbonløsningsmidler | 89997-63-7 | 19 | 01.02.2024 | [(EU) 2022/1992](https://lovdata.no/eu/31992r2022) | Nr. 12zzzzzzzzs |
+| *Chrysanthemum cinerariaefolium* ekstrakt fra åpne og modne blomster av *Tanacetum cinerariifolium* fremstilt med superkritisk karbondioksid | 89997-63-7 | 19 | 01.02.2024 | [(EU) 2022/1993](https://lovdata.no/eu/31993r2022) | Nr. 12zzzzzzzzt |
+| L-(+)-melkesyre | 79-33-4 | 6 | 01.11.2023 | [(EU) 2022/2048](https://lovdata.no/eu/32022r2048) | Nr. 12zzzzzzzzv |
+| Didecyldimetylammoniumklorid | 7173-51-5 | 1, 2 | 01.02.2024 | [(EU) 2022/1991](https://lovdata.no/eu/31991r2022) | Nr. 12zzzzzzzzz |
+| Alkyl (C12-16) dimetylbenzylammoniumklorid (ADBAC/BKC (C12-C16)) | 68424-85-1 | 1 | 01.07.2024 | [(EU) 2023/680](https://lovdata.no/eu/32023r0680) | Nr. 12zzzzzzzzzd |
+| Ozon generert fra oksygen | – | 2, 4, 5, 11 | 01.07.2024 | [(EU) 2023/1078](https://lovdata.no/eu/32023r1078) | Nr. 12zzzzzzzzze |
+| (13Z)-heksadek-13-en-11-yn-1-yl acetat | 78617-58-0 | 19 | 01.06.2023 | [(EU) 2023/1079](https://lovdata.no/eu/32023r1079) | Nr. 12zzzzzzzzzf |
+| Svoveldioksid frigjort fra natrium metabisulfitt | 7681-57-4 | 9 | 01.08.2023 | [(EU) 2023/1421](https://lovdata.no/eu/32023r1421) | Nr. 13zzzzzzzzzzzzzd |
+| *Chrysanthemum cinerariaefolium* ekstrakt fra åpne og modne blomster av *Tanacetum cinerariifolium* fremstilt med superkritisk karbondioksid | 89997-63-7 | 18 | 01.02.2025 | [(EU) 2023/1429](https://lovdata.no/eu/32023r1429) | Nr. 13zzzzzzzzzzzzze |
+| Reaksjonsmassen av N,N-didecyl-N-(2-hydroksyetyl)-N-metylammoniumpropionat og N,N-didecyl-N-(2-(2-hydroksyetoksy)etyl)-N-metylammoniumpropionat og N,N-didecyl-N-(2-(2-(2-hydroksyetoksy)etoksy)- etyl)-N-metylammonium- propionat | – | 2,4 | 01.02.2025 | [(EU) 2023/2089](https://lovdata.no/eu/32023r2089) | Nr. 12zzzzzzzzzo |
+| Reaksjonsmassen av N,N-didecyl-N-(2-hydroksyetyl)-N-metylammoniumpropionat og N,N-didecyl-N-(2-(2-hydroksyetoksy)etyl)-N-metylammoniumpropionat og N,N-didecyl-N-(2-(2-(2-hydroksyetoksy)etoksy)etyl)-N-metylammoniumpropionat | – | 8 | 01.01.2018 | [(EU) 2023/2088](https://lovdata.no/eu/32023r2088) | Nr. 12zzzzzzzzzv |
+| Propikonazol | 60207-90-1 | 8 | 01.04.2010 | [2008/78/EF](https://lovdata.no/eu/32008l0078) [(EU) 2023/2596](https://lovdata.no/eu/32023r2596) | Nr. 12n Nr. 12zzzzzzzzzw |
+| Svoveldioksid generert fra svovel ved forbrenning | 7446-09-5 | 4 | 01.10.2024 | [(EU) 2023/2620](https://lovdata.no/eu/32023r2620) | Nr. 12zzzzzzzzzx |
+| Maursyre | 64-18-6 | 2, 3, 4, 5 | 01.11.2024 | [(EU) 2023/2643](https://lovdata.no/eu/32023r2643) | Nr. 12zzzzzzzzzza |
+| *Chrysanthemum cinerariaefolium*-ekstrakt fra åpne og modne blomster av *Tanacetum cinerariifolium* framstilt med hydrokarbonløsemidler | – | 18 | 01.02.2025 | [(EU) 2023/1530](https://lovdata.no/eu/32023r1530) | Nr. 12zzzzzzzzzze |
+| Alkyl (C12-16) dimetyl- benzylammoniumklorid (ADBAC/BKC (C12-C16)) | 68424-85-1 | 2 | 01.07.2025 | [(EU) 2024/235](https://lovdata.no/eu/32024r0235) | Nr. 12zzzzzzzzzzk |
+| Varmebehandlet hvitløksjuice | – | 19 | 01.07.2025 | [(EU) 2024/893](https://lovdata.no/eu/32024r0893) | Nr. 12zzzzzzzzzzm |
+| trihydrogenpentakalium di(peroksomonosulfat) di(sulfat) | 70693-62-8 | 2, 3, 4, 5 | 01.07.2025 | [(EU) 2024/247](https://lovdata.no/eu/32024r0247) | Nr. 12zzzzzzzzzzy |
+| Pralletrin | 23031-36-9 | 18 | 01.03.2026 | [(EU) 2024/2576](https://lovdata.no/eu/32024*2576) | Nr. 12zzzzzzzzzzzd |
+| Sølvsinkzeolitt | 130328-20-0 | 2, 7, 9 | 01.03.2026 | [(EU) 2024/2635](https://lovdata.no/eu/32024*2635) | Nr. 12zzzzzzzzzzze |
+| Reaksjonsprodukter av borsyre med didecylamin og etylenoksid (polymer betain) | 214710-34-6 | 8 | 01.06.2026 | [(EU) 2024/2964](https://lovdata.no/eu/32024r2964) | Nr. 12zzzzzzzzzzzl |
+| Dinotefuran | 165252-70-0 | 18 | [4] | [(EU) 2015/416](https://lovdata.no/eu/32015r0416) [(EU) 2025/457](https://lovdata.no/eu/32025r0457) | Nr. 12zzw Nr. 12zzzzzzzzzzzy |
+| 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 6, 13 | 01.10.2026 | [(EU) 2025/929](https://lovdata.no/eu/32025r0929) | Nr. 12zzzzzzzzzzzzm |
+| 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 6 | 01.11.2026 | [(EU) 2025/937](https://lovdata.no/eu/32025r0937) | Nr. 12zzzzzzzzzzzzn |
+| Maursyre | 64-18-6 | 6 | 01.10.2026 | [(EU) 2025/1043](https://lovdata.no/eu/32025r1043) | Nr. 12zzzzzzzzzzzzo |
+| Epsilon-metoflutrin | 240494-71-7 | 18 | 01.05.2011 | [2010/71/EU](https://lovdata.no/eu/32010l0071) [(EU) 2025/1248](https://lovdata.no/eu/32025r1248) | Nr. 12n Nr. 12zzzzzzzzzzzzza |
+| 2-metyl-3-isotiazol-3-on (MIT) | 2682-20-4 | 6 | 01.02.2027 | [(EU) 2025/1257](https://lovdata.no/eu/32025r1257) | Nr. 12zzzzzzzzzzzzzb |
+| Pereddiksyre framstilt av 1,3-diacetyloksypropan-2-yl-acetat og hydrogenperoksid | – | 2 | 01.02.2027 | [(EU) 2025/1260](https://lovdata.no/eu/32025r1260) | Nr. 12zzzzzzzzzzzzzc |
+| 2-metyl-2,3-dihydro-1,2-tiazol-3-on-hydroklorid | 26172-54-3 | 6 | 3 | [(EU) 2025/1282](https://lovdata.no/eu/32025r1282) | Nr. 12zzzzzzzzzzzzzd |
+| Dazomet | 533-74-4 | 8 | 01.08.2012 | [2010/50/EU](https://lovdata.no/eu/32010l0050) [(EU) 2025/2345](https://lovdata.no/eu/32025r2345) | Nr. 12n Nr. 12nnnb |
+| Formaldehyd som frigjøres fra reaksjonsproduktene av paraformaldehyd og 2-hydroksypropylamin (forhold 1:1) | – | 2, 11, 13 | 01.06.2027 | [(EU) 2026/373](https://lovdata.no/eu/32026r0373) | Nr. 12nnnm |
+| Formaldehyd som frigjøres fra reaksjonsproduktene av paraformaldehyd og 2-hydroksypropylamin (forhold 3:2) | – | 2, 6, 11, 12, 13 | 01.06.2027 | [(EU) 2026/385](https://lovdata.no/eu/32026r0385) | Nr. 12nnnn |
+| 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 11 | 01.07.2027 | [(EU) 2026/577](https://lovdata.no/eu/32026r0577) | Nr. 12nnnq |
+
+*Endret ved [forskrifter 29 sep 2017 nr. 1574](https://lovdata.no/forskrift/2017-09-29-1574), [21 des 2017 nr. 2363](https://lovdata.no/forskrift/2017-12-21-2363), [15 feb 2018 nr. 217](https://lovdata.no/forskrift/2018-02-15-217), [23 mars 2018 nr. 506](https://lovdata.no/forskrift/2018-03-23-506), [21 sep 2018 nr. 1402](https://lovdata.no/forskrift/2018-09-21-1402), [5 des 2018 nr. 1808](https://lovdata.no/forskrift/2018-12-05-1808), [29 mars 2019 nr. 438](https://lovdata.no/forskrift/2019-03-29-438), [27 sep 2019 nr. 1327](https://lovdata.no/forskrift/2019-09-27-1327), [19 mars 2021 nr. 998](https://lovdata.no/forskrift/2021-03-19-998), [23 april 2021 nr. 1393](https://lovdata.no/forskrift/2021-04-23-1393), [29 okt 2021 nr. 3146](https://lovdata.no/forskrift/2021-10-29-3146), [10 des 2021 nr. 3650](https://lovdata.no/forskrift/2021-12-10-3650), [28 april 2023 nr. 650](https://lovdata.no/forskrift/2023-04-28-650), [22 sep 2023 nr. 1485](https://lovdata.no/forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](https://lovdata.no/forskrift/2023-10-27-1775), [2 feb 2024 nr. 206](https://lovdata.no/forskrift/2024-02-02-206), [15 mars 2024 nr. 495](https://lovdata.no/forskrift/2024-03-15-495), [26 april 2024 nr. 719](https://lovdata.no/forskrift/2024-04-26-719), [12 juni 2024 nr. 1107](https://lovdata.no/forskrift/2024-06-12-1107), [23 sep 2024 nr. 2372](https://lovdata.no/forskrift/2024-09-23-2372), [7 feb 2025 nr. 281](https://lovdata.no/forskrift/2025-02-07-281), [14 mars 2025 nr. 627](https://lovdata.no/forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](https://lovdata.no/forskrift/2025-12-05-2963), [20 mars 2026 nr. 595](https://lovdata.no/forskrift/2026-03-20-595), [26 juni 2026 nr. 1448](https://lovdata.no/forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](https://lovdata.no/forskrift/2026-07-16-1575).*
+
+## Vedlegg 3. Aktive stoffer som ikke er godkjent for bruk i angitt(e) produkttype(r)
+
+| *Aktivt stoff* | *CAS-nr.* | *Produkttype(r)* | *Forbudt å omsette og bruke etter* | *Kommisjons-* *vedtak* | *Inntatt i EØS-avtalen vedlegg II kapittel XV* |
+| --- | --- | --- | --- | --- | --- |
+| Bis[1-cykloheksyl-1,2-di(hydroksy-.kappa.O)diazeniumat(2-)]-kobber | 312600-89-8 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Maursyre | 64-18-6 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Propan-2-ol | 67-63-0 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| L(+)-melkesyre | 79-33-4 | 1, 13 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Antrakinon | 84-65-1 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| 1,4-diklorbenzen | 106-46-7 | 18, 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| N-(2-etylheksyl)-8,9,10-trinorborn-5-en-2,3-dikarboksimid | 113-48-4 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Benzylbenzoat | 120-51-4 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Malation | 121-75-5 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Kaprylsyre | 124-07-2 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Captan | 133-06-2 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| N-(triklormetyltio)ftalimid/folpet | 133-07-3 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Ziram | 137-30-4 | 19, 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Tiabendazol | 148-79-8 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Diuron | 330-54-1 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| (RS)-3-allyl-2-metyl-4-oksocyklopent-2-enyl- (1RS,3RS;1RS,3SR)-2,2-dimetyl-3-(2-metylprop-1-enyl)-cyklopropankarboksy (alle isomere; forhold:1:1:1:1:1:1:1:1)/alletrin | 584-79-2 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Sinksulfid | 1314-98-3 | 18, 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Dinatriumtetraborat, vannfritt | 1330-43-4 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Naftensyrer, kobbersalter | 1338-02-9 | 8 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Klortalonil | 1897-45-6 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Fluometuron | 2164-17-2 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Klorpyrifos | 2921-88-2 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Klorpyrifosmetyl | 5598-13-0 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| (R)-p-menta-1,8-dien/d-limonen | 5989-27-5 | 18, 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Prometryn | 7287-19-6 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Silikondioksid – amorf | 7631-86-9 | 16, 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Beinolje/dyreolje (dippelsolje) | 8001-85-2 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Rapsolje | 8002-13-9 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Lignin | 9005-53-2 | 19, 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Oksinkobber | 10380-28-6 | 8 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Dinatriumoktaborat, tetrahydrat | 12280-03-4 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Dodecylguanidinmonohydroklorid | 13590-97-1 | 16, 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Foxim | 14816-18-3 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Klortoluron | 15545-48-9 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Metomyl | 16752-77-5 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Dimetyloktadekyl[3-(trimetoksysilyl)propyl]ammoniumklorid | 27668-52-6 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| (S)-3-allyl-2-metyl-4-oksocyklopent-2-enyl((1R,3R)-2,2- dimetyl-3-(2-metylprop-1-enyl)-cyklopropankarboksylat (bare 1R-trans, 1S-isomer)/S-bioalletrin | 28434-00-6 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Bioresmetrin | 28434-01-7 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| O-etyl-O-[(2-isopropoksykarbonyl)-1-metyl]vinyl(etylamido)tiofosfat | 31218-83-4 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Amitraz | 33089-61-1 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| 3-(4-isopropylfenyl)1,1-dimetylurea/isoproturon | 34123-59-6 | 18, 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| m-fenoksybenzyl-3-(2,2-diklorvinyl)-2,2-dimetylcyklopropankarboksylat/permetrin | 52645-53-1 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| 3-jod-2-propynylbutylkarbamat | 55406-53-6 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Cis-4-[3-(p-tert-butylfenyl)-2-metylpropyl]-2,6-dimetylmorfolin/Fenpropimorf | 67564-91-4 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Kvaternære ammoniumforbindelser, benzyl-C12-18-alkyldimetyl, klorider | 68391-01-5 | 16 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Kvaternære ammoniumforbindelser, benzyl-C12-18-alkyldimetyl, klorider | 68391-01-5 | 18, 19, 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Kvaternære ammoniumforbindelser, di-C8-10-alkyldimetyl, klorider | 68424-95-3 | 16 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| *Melaleuca alternifolia*, ekstrakt/australsk tetreolje | 85085-48-9 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| 2,4,8,10-tetra(tert-butyl)-6-hydroksy-12H-dibenzo[d,g][1,3,2]dioksafosfosin-6-oksid, natriumsalt | 85209-91-2 | 1 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Kvaternære ammoniumforbindelser, benzyl-C12-14-alkyldimetyl, klorider | 85409-22-9 | 16, 18, 19, 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Kvaternære ammoniumforbindelser, C12-14-alkyl[(etylfenyl)metyl]dimetyl, klorider | 85409-23-0 | 16, 18, 19, 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| .alfa.-cyano-4-fluor-3-fenoksybenzyl-[1.alfa.(S*),3.alfa.]-( ± )-3-(2,2-diklorvinyl)-2,2-dimetylcyklopropankarboksylat | 86560-93-2 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Chrysanthemum cinerariaefolium, ekstrakt | 89997-63-7 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Einebær, Juniperus mexicana, ekstrakt | 91722-61-1 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Lavendel, Lavandula hybrida, ekstrakt/lavandinolje | 91722-69-9 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| 3-benzo(b)tien-2-yl-5,6-dihydro-1,4,2-oksatiazin,4-oksid | 163269-30-5 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Klormetyl-oktyldisulfid | 180128-56-7 | 21 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Kaliumsalter av fettsyrer (C15-21) | – | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| (E)-2-oktadecenal | 51534-37-3 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| (E,Z)-2,13-oktadekadienal | 99577-57-8 | 19 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| S-Hydropren/etyl-(S-(E,E))-3,7,11-trimetyldodeka-2,4-dienoat | 65733-18-8 | 18 | 22/08/2008 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| 4-brom-2-(4-klorofenyl)-1-(etoksymetyl)-5-(trifluormetyl)-1H-pyrrol-3-karbonitrilonitril/klorfenapyr | 122453-73-0 | 21 | 22/08/200 8 | [2007/565/EF](https://lovdata.no/eu/32007d0565) | Nr. 12zb |
+| Guazatintriacetat | 115044-19-4 | 8 | 02/09/2008 | [2007/597/EF](https://lovdata.no/eu/32007d0597) | Nr. 12z |
+| Formaldehyd | 50-00-0 | 11, 12, 13 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| 2-(2-butoksyetoksy)etyl-6-propylpiperonyleter/piperonylbutoksid | 51-03-6 | 19 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| 1,3-dibrom-5,5-dimetylhydantoin | 77-48-5 | 2, 11, 12 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| Naftalen | 91-20-3 | 19 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| m-Kresol | 108-39-4 | 2, 3 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| 2,4-heksadiensyre/sorbinsyre | 110-44-1 | 8 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| Benzylbenzoat | 120-51-4 | 18 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| Benzotiazol-2-tiol | 149-30-4 | 2, 7, 9, 12, 13 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| 2-hydroksy-4-isopropyl-2,4,6-cykloheptatrien-1-on | 499-44-5 | 10 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| Natriumbromid | 7647-15-6 | 4, 6, 13 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| Borsyre | 10043-35-3 | 18 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| Ammoniumbromid | 12124-97-9 | 2, 4, 6 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| 9-trikosen | 27519-02-4 | 18 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| 3-fenoksybenzyl-2-(4-etoksyfenyl)-2-metylpropyleter/etofenproks | 80844-07-1 | 2, 3 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| (RS)-3-allyl-2-metyl-4-oksocyklopent-2-enyl(1R,3R)-2,2- dimetyl-3-(2-metylprop-1-enyl)-cyklopropankarboksylat (blanding av 2 isomerer: 1RS 1:1)/bioalletrin/d-trans-alletrin | – | 18 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| Spinosad: Gjæringsprodukt av mikroorganismer fra jorden som inneholder spinosyn A og spinosyn D | – | 3 | 21/8/2009 | [2008/681/EF](https://lovdata.no/eu/32008d0681) | Nr. 12zk |
+| Bis[1-cykloheksyl-1,2-di(hydroksy-.kappa.O)diazeniumat(2-)]-kobber | 312600-89-8 | 2,6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Bronopol | 52-51-7 | 1, 3, 4, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Klorkresol | 59-50-7 | 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Maursyre | 64-18-6 | 1, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Benzosyre | 65-85-0 | 1, 2, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Propan-2-ol | 67-63-0 | 3, 5, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Salisylsyre | 69-72-7 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Propan-1-ol | 71-23-8 | 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Sitronsyre | 77-92-9 | 2, 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Symclosen | 87-90-1 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Klorxylenol | 88-04-0 | 1, 2, 3, 4, 5, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Diklorofen | 97-23-4 | 2, 3, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Triklorkarbanilid | 101-20-2 | 1, 2, 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Glyoksal | 107-22-2 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 2,4-heksadiensyre/sorbinsyre | 110-44-1 | 1, 2, 3, 4, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 1,3-diklor-5,5-dimetylhydantoin | 118-52-5 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Klorofen | 120-32-1 | 1, 4, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Benzylbenzoat | 120-51-4 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Benzetoniumklorid | 121-54-0 | 1 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Cetylpyridinklorid | 123-03-5 | 1, 3, 4, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Nitrometylidyntrimetanol | 126-11-4 | 2, 3, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumtosylkloramid/kloramin T | 127-65-1 | 1, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kaliumdimetylditiokarbamat | 128-03-0 | 2, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumdimetylditiokarbamat | 128-04-1 | 2, 3, 4, 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Captan | 133-06-2 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Tiram | 137-26-8 | 2, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Ziram | 137-30-4 | 2, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kaliummetylditiokarbamat | 137-41-7 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Metam-Na | 137-42-8 | 2, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Dinatriumcyanditiokarbamat | 138-93-2 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 1,3-bis(hydroksymetyl)urea | 140-95-4 | 2, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Nabam | 142-59-6 | 2, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Tiabendazol | 148-79-8 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Diuron | 330-54-1 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumbenzoat | 532-32-1 | 1, 2, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Hydroksyl-2-pyridon | 822-89-9 | 2, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 2,6-dimetyl-1,3-dioksan-4-ylacetat | 828-00-2 | 2, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Tetradoniumbromid | 1119-97-7 | 1 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 4,5-diklor-3H-1,2-ditiol-3-on | 1192-52-5 | 2, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Dinatriumtetraborat, vannfritt | 1330-43-4 | 1, 2, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 2,4-diklorbenzylalkohol | 1777-82-8 | 2, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Klortalonil | 1897-45-6 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| N-(3-aminopropyl)-N-dodecylpropan-1,3-diamin | 2372-82-9 | 1 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 2-metyl-2H-isotiazol-3-on | 2682-20-4 | 2, 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Troclosennatrium, dihydrat | 51580-86-0 | 1, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Troclosennatrium | 2893-78-9 | 1, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Mecetroniumetylsulfat | 3006-10-8 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Bis(triklormetyl)sulfon | 3064-70-8 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| (Etylendioksy)dimetanol | 3586-55-8 | 3, 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natrium-2.4,6-triklorofenolat | 3784-03-0 | 2, 3, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Pyridin-2-tiol 1-oksid, natriumsalt | 3811-73-2 | 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 2,2',2'-(heksahydro-1,3,5-triazin-1,3,5-triyl)trietanol | 4719-04-4 | 2, 3, 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Tetrahydro-1,3,4,6-tetrakis(hydroksymetyl)imidazo[4,5-d]imidazol-2,5(1H,3H)-dion | 5395-50-6 | 3, 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Terbutylazin | 5915-41-3 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Metylenditiocyanat | 6317-18-6 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 1,3-bis(hydroksymetyl)-5,5-dimetylimidazolidin-2,4-dion | 6440-58-0 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| (2-bromo-2-nitrovinyl)benzen | 7166-19-0 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Didecyldimetylammoniumklorid | 7173-51-5 | 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Prometryn | 7287-19-6 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kalsiumdiheksa-2,4-dienoat | 7492-55-9 | 1, 3, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Jod | 7553-56-2 | 2, 4, 5, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumhydrogensulfitt | 7631-90-5 | 1, 2, 4, 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumklorid | 7647-14-5 | 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Ortofosforsyre | 7664-38-2 | 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumhypokloritt | 7681-52-9 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Dinatriumdisulfitt | 7681-57-4 | 1, 2, 4, 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kaliumpermanganat | 7722-64-7 | 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumsulfitt | 7757-83-7 | 1, 2, 4, 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumkloritt | 7758-19-2 | 2, 3, 4, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumklorat | 7775-09-9 | 2, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Hvitløkekstrakt | 8008-99-9 | 3, 4, 5, 18, 19 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Borsyre | 10043-35-3 | 1, 2, 3, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kaliumsulfitt | 10117-38-1 | 1, 2, 4, 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natriumhydrogen 2,2′metylenbis[4-klorfenolat] | 10187-52-7 | 2, 3, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 2,2-dibrom-2-cyanoacetamid | 10222-01-2 | 1, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Karbendazim | 10605-21-7 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Dinatriumoktaborat, tetrahydrat | 12280-03-4 | 1, 2, 3, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Sinkpyrition | 13463-41-7 | 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Dodecylguanidinmonohydroklorid | 13590-97-1 | 1, 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Bromklorid | 13863-41-7 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| (Benzyloksy)metanol | 14548-60-8 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Klortoluron | 15545-48-9 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Natrium-p-klor-m-kresolat | 15733-22-9 | 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Dikaliumdisulfitt | 16731-55-8 | 1, 2, 4, 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| D-glukonsyre, forbindelse med N,N′-bis((4-klorfenyl)-3,12-diimino-2,4,11,13-tetraazatetradekandiamidin (2:1) | 18472-51-0 | 4, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Benzoksoniumklorid | 19379-90-9 | 1 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| p-[(dijodmetyl)sulfonyl]toluen | 20018-09-1 | 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| (Benzotiazol-2-yltio)metyltiocyanat | 21564-17-0 | 2, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kalium-(E,E)-heksa-2,4-dienoat | 24634-61-5 | 1, 2, 3, 4, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 2-oktyl-2H-isotiazol-3-on | 26530-20-1 | 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Bromklor-5,5-dimetylimidazolidin-2,4-dion | 32718-18-6 | 3, 4, 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 3-(4-isopropylfenyl)1,1-dimetylurea/isoproturon | 34123-59-6 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 1-[2-(allyloksy)-2-(2,4-diklorfenyl)etyl]-1H-imidazol/imazalil | 35554-44-0 | 2, 4, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 2-brom-2-(brommetyl)pentandinitril | 35691-65-7 | 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| m-fenoksybenzyl-3-((2,2-diklorvinyl)-2,2-dimetylcyklopropankarboksylat/ permetrin | 52645-53-1 | 2, 3, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 1-[[2-(2,4-diklorfenyl)-4-propyl-1,3-dioksolan-2-yl]metyl]-1H-1,2,4-triazol / propikonazol | 60207-90-1 | 1, 2, 4, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 4,5-diklor-2-oktyl-2H-isotiazol-3-on | 64359-81-5 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Cis-4-[3-(p-tert-butylfenyl)-2-metylpropyl]-2,6-dimetylmorfolin/ fenpropimorf | 67564-91-4 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternære ammoniumforbindelser, benzyl-C12-18-alkyldimetyl, klorider | 68391-01-5 | 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternære ammoniumforbindelser, benzyl-C12-16-alkyldimetyl, klorider | 68424-85-1 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternære ammoniumforbindelser, di-C8-10-alkyldimetyl, klorider | 68424-95-3 | 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Fettsyrer, kokos, reaksjonsprodukter med dietanolamin | 68440-04-0 | 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Aminer, C10-16-alkyldimetyl, N-oksider | 70592-80-2 | 1 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Pentakalium-bis-(peroksymonosulfat)-bis-(sulfat) | 70693-62-8 | 1 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 1,3-didecyl-2-metyl-1H-imidazoliumklorid | 70862-65-6 | 2, 3, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 1-[1,3-bis(hydroksymetyl)-2,5-dioksoimidazolidin-4-yl]-1,3-bis(hydroksymetyl)urea / diazolidinylurea | 78491-02-8 | 6, 7 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Magnesium-monoperoksyftalat-heksahydrat | 84665-66-7 | 3, 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Tributyltetradecylfosfoniumklorid | 81741-28-8 | 2, 4 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Tjæresyrer, polyalkylfenolfraksjon | 84989-05-9 | 2, 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Melaleuca alternifolia, ekstrakt/australsk tetreolje | 85085-48-9 | 1, 2, 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternære ammoniumforbindelser, benzyl-C12-14-alkyldimetyl, klorider | 85409-22-9 | 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternære ammoniumforbindelser, C12-14-alkyl[(etylfenyl)metyl]dimetyl, klorider | 85409-23-0 | 5, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Urea, N,N′-bis(hydroksymetyl)-, reaksjonsprodukter med 2-(2-butoksyetoksy)etanol, etylenglykol og formaldehyd | 90604-54-9 | 2, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternære ammoniumforbindelser, [2-[[2-[(2-karboksyetyl)(2-hydroksyetyl)amino]etyl]amino]-2-oksoetyl]kokosalkyldimetyl, hydroksider, indre salter | 100085-64-1 | 1, 2, 3, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 1,3-diklor-5-etyl-5-metylimidazolidin-2,4-dion | 89415-87-2 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Reaksjonsprodukter av: Glutaminsyre og N-(C12-14-alkyl)propylendiamin | 164907-72-6 | 1, 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| (C8-18)alkylbis(2-hydroksyetyl)ammonium-bis(2-etylhelsyl)fosfat; (C8-18)alkylbis((2-hydroksyetyl)ammonium-2-etylheksylhydrogenfosfat | 68132-19-4 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 5-klor-2-(4-klorfenoksy)fenol | 3380-30-1 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 3-benzo(b)tien-2-yl-5,6-dihydro-1,4,2-oksatiazin,4-oksid | 163269-30-5 | 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Reaksjonsprodukter av diisopropanolamin med formaldehyd (1:4) | 220444-73-5 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Reaksjonsprodukt av dimetyladipat, dimetylglutarat, dimetylsuksinat med hydrogenperoksid/perestan | – | 1, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Bis(3-aminopropyl)oktylamin | 86423-37-2 | 2, 3, 4, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| (E)-1-((2-klor-1,3-tiazol-5-ylmetyl)-3-metyl-2-nitroguanidin/klotianidin | 210880-92-5 | 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Bacillus sphaericus | 143447-72-7 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Bacillus thuringiensis var. israelensis serotype H14 | – | 2, 5 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Aminer, n-C10-16-alkyltrimetylendi-, reaksjonsprodukter med kloreddisksyre | 139734-65-9 | 1, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Blanding av 1-fenoksypropan-2-ol (EINECS 212-222-7) og 2-fenoksypropan (EINECS 224-027-4) | – | 1, 2, 3, 4, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Blanding av 5-klor-2-metyl-2H-isotiazol-3-on (EINECS 247-500-7) og 2-metyl-2H-isotiazol-3-on (EINECS 220-239-6) | 55965-84-9 | 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kaliumsalter av fettsyrer (C15-21) | – | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternært ammoniumjodid | 308074-50-2 | 1, 2, 3, 4, 5, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternære ammoniumforbindelser (benzylalkyldimetyl (alkyl fra C8-C22, mettet og umettet, talgalkyl, kokosalkyl og soyaalkyl) klorider, bromider eller hydroksider)/BKC | – | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kvaternære ammoniumforbindelser (dialkyldimetyl (alkyl fra C6-C18, mettet og umettet, og talgalkyl, kokosalkyl og soyaalkyl) klorider, bromider eller metylsulfater)/DDAC | – | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Sølvnatriumhydrogenzirkoniumfosfat | – | 3 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Sølv-sink-aluminium-borfosfatglass/glassoksid, sølv- og sinkholdig | 398477-47-9 | 1, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| (±)-1-(.beta.-allyloksy-2,4-diklorfenyletyl)imidazol/teknisk imazalil | 73790-28-0 | 2, 4, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| [1.alfa.(S*),3.alfa.]-(.alfa.)-cyano-(3-fenoksyfenyl)metyl-3-(2,2-dikloretenyl)-2,2-diklorvinyl )-2,2-dimetylcyklopropankarboksylat/alfa-cypermetrin | 67375-30-8 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| 4-brom-2-(4-klorofenyl)-1-(etoksymetyl) -5-(trifluormetyl)-1H-pyrrol-3-karbonitril / klorfenapyr | 122453-73-0 | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Aluminiumnatriumsilikat-sølv-kompleks/sølvzeolitt | 130328-18-6 | 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Aluminiumnatriumsilikat-sølv-kompleks/sølvzeolitt | 130328-18-6 | 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Aluminiumnatriumsilikat-sølv-sink-kompleks/sølvsinkzeolitt | 130328-20-0 | 1, 6 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Guazatintriacetat | 115044-19-4 | 2 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Blanding av 5-hydroksymetoksymetyl-1-aza-3,7-dioksabicyklo(3.3.0)oktan (CAS 59720-42-2, 16,0 %) og 5-hydroksy-1-aza-3,7-diokaabicyklo(3.3.0)oktan (EINECS 229-457-6, 28,8 %), og 5-hydroksypoly[metylenoksy]metyl-1-aza-3,7-dioksabicyklo(3.3.0)oktan (CAS 56709-13-8; 5,2 %) i vann (50 %) | – | 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Kopolymer av 2-propenal og propan-1,2-diol | 191546-07-3 | 6, 7, 10, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| N,N,N′,N′-tetrametyletylendiamin-bis(2-kloretyl)eter kopolymer | 31075-24-8 | 2, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Poly(oksy-1,2-etandiyl), .alfa.-[2-(didecylmetylammonio)etyl]- .omega.-hydroksy-, propanoat (salt) | 94667-33-1 | 3, 6, 13 | 25/10/09 | [2008/809/EF](https://lovdata.no/eu/32008d0809) | Nr. 12zi |
+| Etanol | 64-17-5 | 3 | 28/02/2010 | [2009/322/EF](https://lovdata.no/eu/32009*0322) | Nr. 12zq |
+| N-(triklormetyltio)ftalimid/Folpet | 133-07-3 | 6 | 28/02/2010 | [2009/322/EF](https://lovdata.no/eu/32009*0322) | Nr. 12zq |
+| Fluometuron | 2164-17-2 | 6,13 | 28/02/2010 | [2009/322/EF](https://lovdata.no/eu/32009*0322) | Nr. 12zq |
+| Lignin | 9005-53-2 | 1,2,3,4,6,13 | 28/02/2010 | [2009/322/EF](https://lovdata.no/eu/32009*0322) | Nr. 12zq |
+| Reaksjonsprodukt av dimetyladipat, dimetylglutarat, dimetylsuksinat med hydrogenperoksid/Perestan | – | 3 | 28/02/2010 | [2009/322/EF](https://lovdata.no/eu/32009*0322) | Nr. 12zq |
+| N-didecyl-N-dipolyetoksiammoniumborat/ didecylpolyoksoetylammonium borat | 214710-34-6 | 2,6,13 | 28/02/2010 | [2009/322/EF](https://lovdata.no/eu/32009*0322) | Nr. 12zq |
+| Polyvinylpyrrolidon-jod | 25655-41-8 | 2,4,5,6 | 28/02/2010 | [2009/322/EF](https://lovdata.no/eu/32009*0322) | Nr. 12zq |
+| Linalool | 78-70-6 | 19 | 31/05/2010 | [2009/324/EF](https://lovdata.no/eu/32009d0324) | Nr. 12zr |
+| Propoxur | 114-26-1 | 18 | 31/05/2010 | [2009/324/EF](https://lovdata.no/eu/32009d0324) | Nr. 12zr |
+| Fenitrotion | 122-14-5 | 18 | 31/05/2010 | [2009/324/EF](https://lovdata.no/eu/32009d0324) | Nr. 12zr |
+| Metylantranilat | 134-20-3 | 19 | 31/05/2010 | [2009/324/EF](https://lovdata.no/eu/32009d0324) | Nr. 12zr |
+| Okt-1-en-3-ol | 339-86-4 | 19 | 31/05/2010 | [2009/324/EF](https://lovdata.no/eu/32009d0324) | Nr. 12zr |
+| 5,5-dimetyl-perhydro-pyrimidin-2-on.alfa.- (4-trifluormetylstyryl)-alfa.-(4-trifluormetyl) cinnamylidenhydrazon/Hydrametylnon | 67485-29-4 | 18 | 31/05/2010 | [2009/324/EF](https://lovdata.no/eu/32009d0324) | Nr. 12zr |
+| Diazinon | 333-41-5 | 18 | 03/03/2011 | [2010/71/EU](https://lovdata.no/eu/32010*0071) | Nr. 12zu |
+| Bis[1-cyclohexyl-1,2-di(hydroxy-.kappa.O)diazeniumato(2-)]-copper | 312600-89-8 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Cyclohexylhydroxydiazene 1-oxide, potassium salt | 66603-10-9 | 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Peroxyoctanoic acid | 33734-57-5 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Bronopol | 52-51-7 | 7, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Chlorocresol | 59-50-7 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Formic acid | 64-18-6 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Benzoic acid | 65-85-0 | 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Propan-2-ol | 67-63-0 | 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Etylenoksid | 75-21-8 | 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2-chloroacetamide | 79-07-2 | 7, 9, 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Glycollic acid | 79-14-1 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| L-(+)-lactic acid | 79-33-4 | 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Symclosene | 87-90-1 | 7, 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Diklorofen | 97-23-4 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Hexa-2,4-dienoic acid/Sorbic acid | 110-44-1 | 7, 9, 10, | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Glutaral | 111-30-8 | 7, 9, 10, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2-Phenoxyethanol | 122-99-6 | 7, 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Cetylpyridinium chloride | 123-03-5 | 6, 7, 9, 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Karbondioksid | 124-38-9 | 15, 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Nitromethylidynetrimethanol | 126-11-4 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Tosylchloramide sodium | 127-65-1 | 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Potassium dimethyldithiocarbamate | 128-03-0 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium dimethyldithiocarbamate | 128-04-1 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Captan | 133-06-2 | 7, 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| N-(trichloromethylthio)phthalimide/Folpet | 133-07-3 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| N,N-diethyl-m-toluamide | 134-62-3 | 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Thiram | 137-26-8 | 7, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Ziram | 137-30-4 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Potassium methyldithiocarbamate | 137-41-7 | 9, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Metam-sodium | 137-42-8 | 12, 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Disodium cyanodithiocarbamate | 138-93-2 | 9, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 1,3-bis(hydroxymethyl)urea | 140-95-4 | 9, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Nabam | 142-59-6 | 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Thiabendazole | 148-79-8 | 11, 12, 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Dazomet | 533-74-4 | 7, 9, 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Dichloro-N-[(dimethylamino)sulphonyl]fluoro-N-(p-tolyl)methanesulphenamide / Tolylfluanid | 731-27-1 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | N r. 12zv |
+| Hydroxyl-2-pyridone | 822-89-9 | 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2,6-dimethyl-1,3-dioxan-4-yl acetate | 828-00-2 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Dichlofluanid | 1085-98-9 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 4,5-dichloro-3H-1,2-dithiol-3-one | 1192-52-5 | 9, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Zinc sulphide | 1314-98-3 | 7, 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Disodium tetraborate, anhydrous | 1330-43-4 | 7, 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2,4-dichlorobenzyl alcohol | 1777-82-8 | 7, 9, 10, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Chlorothalonil | 1897-45-6 | 7, 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Fluometuron | 2164-17-2 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| N-(3-aminopropyl)-N-dodecylpropane-1,3-diamine | 2372-82-9 | 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2,2'-dithiobis[N-methylbenzamide] | 2527-58-4 | 7, 9, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 1,2-benzisothiazol-3(2H)-one | 2634-33-5 | 7, 10, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2-methyl-2H-isothiazol-3-one | 2682-20-4 | 7, 9, 10, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium dichloroisocyanurate dihydrate | 51580-86-0 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Troclosene sodium | 2893-78-9 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Bis(trichloromethyl) sulphone | 3064-70-8 | 9, 10, 11, 12, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| (ethylenedioxy)dimethanol | 3586-55-8 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Dipyrithione | 3696-28-4 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium 2,4,6-trichlorophenolate | 3784-03-0 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Pyridine-2-thiol 1-oxide, sodium salt | 3811-73-2 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Methenamine 3-chloroallylochloride | 4080-31-3 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2,2',2''-(hexahydro-1,3,5-triazine-1,3,5-triyl)triethanol | 4719-04-4 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Tetrahydro-1,3,4,6-tetrakis(hydroxymethyl)imidazo[4,5-d]imidazole-2,5(1H,3H)-dione | 5395-50-6 | 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| N,N'-methylenebismorpholine | 5625-90-1 | 9, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Terbuthylazine | 5915-41-3 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| (R)-p-mentha-1,8-diene | 5989-27-5 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Methylene dithiocyanate | 6317-18-6 | 7, 9, 10, 11, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 1,3-bis(hydroxymethyl)-5,5-dimethylimidazolidine-2,4-dione | 6440-58-0 | 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 1,3-bis(hydroxymethyl)-5,5-dimethylimidazolidine-2,4-dione | 6440-58-0 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| (2-bromo-2-nitrovinyl)benzene | 7166-19-0 | 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| (2-bromo-2-nitrovinyl)benzene | 7166-19-0 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Didecyldimethylammonium chloride | 7173-51-5 | 7, 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Prometryn | 7287-19-6 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sulphur dioxide | 7446-09-5 | 9, 11, 12, 20, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Calcium dihexa-2,4-dienoate | 7492-55-9 | 7, 9, 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Iodine | 7553-56-2 | 7, 9, 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Silicon dioxide – amorphous | 7631-86-9 | 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium hydrogensulphite | 7631-90-5 | 9, 11, 12, 20, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium bromide | 7647-15-6 | 7, 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Disodium disulphite | 7681-57-4 | 9, 11, 12, 20, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 7a-ethyldihydro-1H,3H,5H-oxazolo[3,4-c]oxazole | 7747-35-5 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium sulphite | 7757-83-7 | 9, 11, 12, 20, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium chlorite | 7758-19-2 | 11, 12, 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium chlorate | 7775-09-9 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Lignin | 9005-53-2 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Boric acid | 10043-35-3 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Chlorine dioxide | 10049-04-4 | 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Potassium sulphite | 10117-38-1 | 9, 11, 12, 20, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium hydrogen 2,2'methylenebis[4-chlorophenolate] | 10187-52-7 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2,2-dibromo-2-cyanoacetamide | 10222-01-2 | 3, 7, 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Carbendazim | 10605-21-7 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Disodium octaborate tetrahydrate | 12280-03-4 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Trimagnesium diphosphide | 12057-74-8 | 23 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Ammonium bromide | 12124-97-9 | 7, 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Hexaboron dizinc undecaoxide/Zinc borate | 12767-90-7 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Dodecylguanidine monohydrochloride | 13590-97-1 | 7, 9, 10, 12, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Bromine chloride | 13863-41-7 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| (benzyloxy)methanol | 14548-60-8 | 9, 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Bis(1-hydroxy-1H-pyridine-2-thionato-O,S)copper | 14915-37-8 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Chlorotoluron | 15545-48-9 | 7, 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium p-chloro-m-cresolate | 15733-22-9 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Dipotassium disulphite | 16731-55-8 | 9, 11, 12, 20, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Benzoxonium chloride | 19379-90-9 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| p-[(diiodomethyl)sulphonyl]toluene | 20018-09-1 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| (benzothiazol-2-ylthio)methyl thiocyanate | 21564-17-0 | 7, 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Potassium (E,E)-hexa-2,4-dienoate | 24634-61-5 | 7, 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| .alpha.,.alpha.',.alpha.''-trimethyl-1,3,5-triazine-1,3,5(2H,4H,6H)-triethanol | 25254-50-6 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2-octyl-2H-isothiazol-3-one | 26530-20-1 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Dimethyloctadecyl[3-(trimethoxysilyl)propyl]ammonium chloride | 27668-52-6 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| N'-tert-butyl-N-cyclopropyl-6-(methylthio)-1,3,5-triazine-2,4-diamine | 28159-98-0 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Bromochloro-5,5-dimethylimidazolidine-2,4-dione | 32718-18-6 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 3-(4-isopropylphenyl)-1,1-dimethylurea/Isoproturon | 34123-59-6 | 9, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 1-[2-(allyloxy)-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole/Imazalil | 35554-44-0 | 20 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 2-bromo-2-(bromomethyl)pentanedinitrile | 35691-65-7 | 7, 9, 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 4,4-dimethyloxazolidine | 51200-87-4 | 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| .alpha.-cyano-3-phenoxybenzyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate/Cypermethrin | 52315-07-8 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| m-phenoxybenzyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate/Permethrin | 52645-53-1 | 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 3-iodo-2-propynyl butylcarbamate | 55406-53-6 | 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Tetrakis(hydroxymethyl)phosphonium sulphate(2:1) | 55566-30-8 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole / Propiconazole | 60207-90-1 | 10, 12, 20 | 09/02/2011 | 2010/72/E C | Nr. 12zv |
+| 4,5-dichloro-2-octyl-2H-isothiazol-3-one | 64359-81-5 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 3,3'-methylenebis[5-methyloxazolidine]/Oxazolidin | 66204-44-2 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Cis-4-[3-(p-tert-butylphenyl)-2-methylpropyl]-2,6-dimethylmorpholine / Fenpropimorf | 67564-91-4 | 7, 9, 10, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds, benzyl-C12-18-alkyldimethyl, chlorides | 68391-01-5 | 7, 9, 17 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds, benzyl-C12-16-alkyldimethyl, chlorides | 68424-85-1 | 7, 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds, di-C8-10-alkyldimethyl, chlorides | 68424-95-3 | 7, 9, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds, benzyl-C12-18-alkyldimethyl, salts with 1,2-benzisothiazol-3(2H)-one 1,1-dioxide (1:1) | 68989-01-5 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium N-(hydroxymethyl)glycinate | 70161-44-3 | 7 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Pentapotassium bis(peroxymonosulphate) bis(sulphate) | 70693-62-8 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 1,3-didecyl-2-methyl-1H-imidazolium chloride | 70862-65-6 | 7, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Tributyltetradecylphosphonium chloride | 81741-28-8 | 9, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds, benzyl-C12-14-alkyldimethyl, chlorides | 85409-22-9 | 7, 9, 17 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds, C12-14-alkyl[(ethylphenyl)methyl]dimethyl, chlorides | 85409-23-0 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds, C12-14-alkyl[(ethylphenyl)methyl]dimethyl, chlorides | 85409-23-0 | 17 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Urea, N,N'-bis(hydroxymethyl)-, reaction products with 2-(2-butoxyethoxy)ethanol, ethylene glycol and formaldehyde | 90604-54-9 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds, [2-[[2-[((2-carboxyethyl)(2-hydroxyethyl)amino]ethyl]amino]-2-oxoethyl]coco alkyldimethyl, hydroxides, inner salts | 100085-64-1 | 7, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Mixture of: (C8-18)alkylbis(2-hydroxyethyl)ammonium bis(2-ethylhexyl)phosphate;(C8-18)alkylbis(2-hydroxyethyl)ammonium 2-ethylhexylhydrogenphosphate | 68132-19-4 | 7, 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 6-(phthalimido)peroxyhexanoic acid | 128275-31-0 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Tetrachlorodecaoxide complex | 92047-76-2 | 3 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| cis-1-(3-chloroallyl)-3,5,7-triaza-1-azoniaadamantane chloride | 51229-78-8 | 9, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Thiamethoxam | 153719-23-4 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 5-chloro-2-(4-chlorphenoxy)phenol | 3380-30-1 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 3-benzo(b)thien-2-yl-5,6-dihydro-1,4,2-oxathiazine,4-oxide | 163269-30-5 | 7, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Reaction product of dimethyl adipate, dimethyl glutarate, dimethyl succinate with hydrogen peroxide/Perestane | – | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Bis(3-aminopropyl)octylamine | 86423-37-2 | 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Amines, n-C10-16-alkyltrimethylenedi-, reaction products with chloroacetic acid | 139734-65-9 | 7, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Mixture of 1-phenoxypropan-2-ol (EINECS 212-222-7) and 2-phenoxypropanol (EINECS 224-027-4) | – | 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Mixture of 5-chloro-2-methyl-2H-isothiazol-3-one (EINECS 247-500-7) and 2-methyl-2H-isothiazol-3-one (EINECS 220-239-6) | 55965-84-9 | 7, 9, 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium iodides | 308074-50-2 | 7 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds (benzylalkyldimethyl (alkyl from C8-C22, saturated and unsaturated, tallow alkyl, coco alkyl, and soya alkyl) chlorides, bromides, or hydroxides)/BKC | – | 7 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds (dialkyldimethyl (alkyl from C6-C18, saturated and unsaturated, and tallow alkyl, coco alkyl, and soya alkyl) chlorides, bromides, or methylsulphates)/DDAC | – | 7, 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Quaternary ammonium compounds (benzylalkyldimethyl (alkyl from C8-C22, saturated and unsaturated, tallow alkyl, coco alkyl, and soya alkyl) chlorides, bromides, or hydroxides)/BKC | – | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Sodium lignosulfonate | 8061-51-6 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Silver sodium hydrogen zirconium phosphate | 422-570-3 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| [1.alpha.(S*),3.alpha.]-(.alpha.)-cyano-(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2.2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate / alfa-cypermetrin | 67375-30-8 | 9 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| 4-Bromo-2-(4-chlorophenyl) -1-(ethoxymethyl)-5-(trifluoromethyl)-1H-pyrrole-3-carbonitrile / Klorfenapyr | 122453-73-0 | 7, 9, 10, 12 | 0 9/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Aluminium sodium silicate-silver complex/Silver zeolite | 130328-18-6 | 7 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Monohydro chloride of polymer of N,N'''-1,6-hexanediylbis[N'-cyanoguanidine] (EINECS 240-032-4) and hexamethylenediamine (EINECS 204-679-6)/Polyhexamethylene biguanide (monomer: 1,5-bis(trimethylen)-guanylguanidinium monohydrochloride) | 27083-27-8/32289-58-0 | 12, 22 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| N,N,N',N'-Tetrametyletylendiaminbis(2-kloretyl)eter kopolymer | 31075-24-8 | 9, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| N-Didecyl-N-dipolyetoksyammoniumborat/ Didecylpolyoksetylammoniumborat | 214710-34-6 | 9, 10, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Poly(heksametylenbiguanid) | 91403-50-8 | 10 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Poly(oksy-1,2-etanediyl), .alfa.-[2-(didecylmetylammonio)etyl]- .omega.-hydroksy-, propanoat (salt) | 94667-33-1 | 9, 11, 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Polymer av N-Metylmetanamin (EINECS 204-697-4 med (klormetyl)oksiran (EINECS 203-439-8)/ Polymert kvartært ammoniumklorid | 25988-97-0 | 12 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Polyvinylpyrrolidon jod | 25655-41-8 | 7, 9, 10, 11 | 09/02/2011 | [2010/72/EU](https://lovdata.no/eu/32010*0072) | Nr. 12zv |
+| Formaldehyd | 50-00-0 | 4, 6 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| Benzosyre | 65-85-0 | 20 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| Natriumbenzoat | 532-32-1 | 11, 20 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| 2-butanon, peroksid | 1338-23-4 | 9, 22 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| Tolnaftat | 2398-96-1 | 9 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| Triklosan | 3380-34-5 | 3 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| Silisiumdioksid, amorft | 7631-86-9 | 3 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| N'-tert-butyl-N-cyclopropyl-6-(metyltio)-1,3,5-triazin-2,4-diamin | 28159-98-0 | 7, 10 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| Blanding av cis- og trans-p-mentan-3,8 diol/ Citriodiol | 42822-86-6 | 2 | 01/11/2011 | [2010/675/EU](https://lovdata.no/eu/32010d0675) | Nr. 12zy |
+| Formaldehyd | 50-00-0 | 1, 5, 9, 23 | 01/07/2012 | [2011/391/EU](https://lovdata.no/eu/32011d0391) | Nr. 12zzc |
+| 2-kloracetamid | 79-07-2 | 3, 6, 13 | 01/07/2012 | [2011/391/EU](https://lovdata.no/eu/32011d0391) | Nr. 12zzc |
+| Tiabendazol | 148-79-8 | 2, 13 | 01/07/2012 | [2011/391/EU](https://lovdata.no/eu/32011d0391) | Nr. 12zzc |
+| 2,2'-ditiobis(N-metylbenzamid) | 2527-58-4 | 13 | 01/07/2012 | [2011/391/EU](https://lovdata.no/eu/32011d0391) | Nr. 12zzc |
+| Svoveldioksid | 7446-09-5 | 1, 2, 5, 6, 13 | 01/07/2012 | [2011/391/EU](https://lovdata.no/eu/32011d0391) | Nr. 12zzc |
+| Perestane | – | 4 | 01/07/2012 | [2011/391/EU](https://lovdata.no/eu/32011d0391) | Nr. 12zzc |
+| Oligo(2-(2-etoksy)etoksyetylguanidiniumklorid) | 374572-91-5 | 1, 5, 6, 13 | 01/07/2012 | [2011/391/EU](https://lovdata.no/eu/32011d0391) | Nr. 12zzc |
+| Poly(heksametylendiamin guanidiniumklorid) | 57028-96-3 | 1, 5, 6, 13 | 01/07/2012 | [2011/391/EU](https://lovdata.no/eu/32011d0391) | Nr. 12zzc |
+| Flufenoksuron | 101463-69-8 | 18 | 01/08/2012 | [2012/77/EU](https://lovdata.no/eu/32012d0077) | Nr. 12zzg |
+| Cykloheksylhydroksydiazen-1-oksid, kaliumsalt | 66603-10-9 | 6, 7,9,10, 12, 13 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Difenoksarsin-10-yloksid | 58-36-6 | 9 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Glyoksal | 107-22-2 | 12 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| 1,3-diklor-5,5-dimetylhydantoin | 118-52-5 | 12 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Natriumtosylkloramid | 127-65-1 | 11 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Dinatriumtetraborat, vannfritt | 1330-43-4 | 11 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Kobber | 7440-50-8 | 2, 4, 5, 11 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Kobbersulfat | 7758-98-7 | 1, 4 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Kalsiumhypokloritt | 7778-54-3 | 1 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Borsyre | 10043-35-3 | 22 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Magnesiumfosfid | 12057-74-8 | 20 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Kloralose | 15879-93-3 | 15, 23 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Aluminiumfosfid | 20859-73-8 | 20 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| 1,3-diklor-5-etyl-5-metylimidazolidin-2,4-dion | 89415-87-2 | 12 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Metylneodekanamid | 105726-67-8 | 19 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Tetraklordekaoksidkompleks | 92047-76-2 | 5 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| 3-benzo(b)tien-2-yl-5,6-dihydro-1,4,2-oksatiazin,4-oksid | 163269-30-5 | 9 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Oligo((2-(2-etoksy)-etoksyetyl-guanidiniumklorid) | 374572-91-5 | 2, 3, 4, 7, 9, 10, 11, 12, 20 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Poly(heksametylendiamin-guanidiniumklorid) | 57028-96-3 | 2, 3, 4, 7, 9, 10, 11, 12, 20 | 01/02/2013 | [2012/78/EU](https://lovdata.no/eu/32012d0078) | Nr. 12zzh |
+| Diklorvos | 62-73-7 | 18 | 01/11/2012 | [2012/254/EU](https://lovdata.no/eu/32012d0254) | Nr. 12zzj |
+| Naled | 300-76-5 | 18 | 01/11/2012 | [2012/257/EU](https://lovdata.no/eu/32012d0257) | Nr. 12zzk |
+| Bifentrin | 82657-04-3 | 18 | 01/05/2013 | [2012/728/EU](https://lovdata.no/eu/32012d0728) | Nr. 12zzm |
+| Glutaral | 111-30-8 | 5 | 01/02/2014 | [2013/85/EU](https://lovdata.no/eu/32013d0085) | Nr. 12zzn |
+| 4-(2-nitrobutyl)morfolin | 2224-44-4 | 6 | 01/02/2014 | [2013/85/EU](https://lovdata.no/eu/32013d0085) | Nr. 12zzn |
+| 4-(2-nitrobutyl)morfolin | 2224-44-4 | 13 | 01/02/2014 | [2013/85/EU](https://lovdata.no/eu/32013d0085) | Nr. 12zzn |
+| N,N-(decan-1,10-diydi-1(4H)-pyridyl-4-yliden)bis (oktylammonium)diklorid | 70775-75-6 | 1 | 01/02/2014 | [2013/85/EU](https://lovdata.no/eu/32013d0085) | Nr. 12zzn |
+| Salicylsyre | 69-72-7 | 1 | 01/02/2014 | [2013/85/EU](https://lovdata.no/eu/32013d0085) | Nr. 12zzn |
+| Formaldehyd | 50-00-0 | 20 | 01/07/2015 | [2013/204/EU](https://lovdata.no/eu/32013d0204) | Nr. 12zzo |
+| Bis[1-cyclohexyl-1,2-di(hydroksy-kappa.O) diazeniumato(2-)]-kobber | 312600-89-8 | 7, 9, 10 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| Nonansyre | 112-05-0 | 10 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| Glutaral | 111-30-8 | 1, 13 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| Disølvoksid | 20667-12-3 | 11 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| 4,4-demetyloksazolidin | 51200-87-4 | 6, 12, 13 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| 2-butanon, peroksid | 1338-23-4 | 3, 6 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| Polymer av formaldehyd og akrolein | 26781-23-7 | 3 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| Sølvklorid | 7783-90-6 | 3, 4, 5, 13 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| Furutre, ekstrakt | 94266-48-5 | 10 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| Triklosan | 3380-34-5 | 2, 7, 9 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| 2-fenoksyetanol | 122-99-6 | 3 | 15.05.2015[6] | [2014/227/EU](https://lovdata.no/eu/32014d0227) | Nr. 12nx |
+| Triflumuron | 64628-44-0 | 18 | 28.09.2016[6] | (EU) [2015/1736](https://lovdata.no/eu/32015d1736) | Nr. 12nnn |
+| Cybutryn | 28159-98-0 | 21 | 17.02.2017[6] | (EU) [2016/107](https://lovdata.no/eu/32016d0107) | Nr. 12zzzd |
+| 2-butanon, peroksid | 1338-23-4 | 1, 2 | 17.02.2017[6] | (EU) [2016/108](https://lovdata.no/eu/32016d0108) | Nr. 12zzze |
+| PHMB (1600; 1.8) | 27083-27-8 | 1, 6, 9 | 17.02.2017[6] | (EU) [2016/109](https://lovdata.no/eu/32016d0109) | Nr. 12zzzf |
+| Triklosan | 3380-34-5 | 1 | 17.02.2017[6] | (EU) [2016/110](https://lovdata.no/eu/32016d0110) | Nr. 12zzzg |
+| 1,3-diklor-5,5-dimetylhydantoin (omdefinert i hht. post 152)[7] | 118-52-5 | 11 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Cetalkoniumklorid (se post 948)[7] | 122-18-9 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Benzyldimetyl(oktadecyl)ammoniumklorid (se post 948)[7] | 122-19-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Benzododeciniumklorid (se post 948)[7] | 139-07-1 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Miristalkoniumklorid (se post 948)[7] | 139-08-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Didecyldimetylammoniumbromid (se post 949)[7] | 2390-68-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Dimetyldioktylammoniumklorid (se post 949)[7] | 5538-94-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Benzyldodecyldimetylammonium bromid (se post 948)[7] | 7281-04-1 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Silisiumdioksid – amorft | 7631-86-9 | 18 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kobbersulfat | 7758-98-7 | 2 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| p-[(dijodmetyl)sulfonyl]toluen | 20018-09-1 | 2 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Decyldimetyloktylammoniumklorid (se post 949)[7] | 32426-11-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Benzyldimetyloleylammonium chloride (se post 948)[7] | 37139-99-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| 3-fenoksybenzyl (1RS,3RS;1RS,3SR)-3-(2,2-diklorvinyl)-2,2-dimetylsyklopropankarboksylat (Permetrin) | 52645-53-1 | 9 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzylkokosalkyldimetyl, klorider (se post 948)[7] | 61789-71-7 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, dikokosalkyldimetyl, klorider (se post 949)[7] | 61789-77-3 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, bis(hydrogenert talgalkyl)dimetyl, klorider (se post 949)[7] | 61789-80-8 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C8-18-alkyldimetyl, klorider (se post 948)[7] | 63449-41-2 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, di-C6-12-alkyldimetyl, klorider (se post 949)[7] | 68391-06-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C8-16-alkyldimetyl, klorider (se post 948)[7] | 68424-84-0 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C10-16-alkyldimetyl, klorider (se post 948)[7] | 68989-00-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Aminer, C10-16-alkyldimetyl, N-oksider | 70592-80-2 | 2 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, di-C8-18-alkyldimetyl, klorider (se post 949)[7] | 73398-64-8 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Dihydrogenbis[monoperoksyftalato(2-)-O1,OO1]magnesat(2-) heksahydrat | 14915-85-4 | 2 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Margosaekstrakt som ikke er fra kjerner av Azadirachta indica ekstrahert med vann og videre bearbeidet med organiske løsemidler og ikke fra kaldpresset olje fra kjerner av Azadirachta Indica ekstrahert med superkritisk karbondioksid | 84696-25-3 | 18 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C8-18-alkyldimetyl, bromider (se post 948)[7] | 91080-29-4 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| 1,3-diklor-5-etyl-5-metylimidazolidin-2,4-dion (omdefinert i hht. post 777)[7] | 89415-87-2 | 11 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| 1-(4-klorfenyl)-4,4-dimetyl-3-(1,2,4-triazol-1-ylmetyl)pentan-3-ol (tebukonazol) | 107534-96-3 | 9 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Reaksjonsprodukt av dimetyladipat, dimetylglutarat, dimetylsuksinat med hydrogenperoksid (perestan) | – | 2 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Alkyl-benzyl-dimetylammoniumklorid/ benzalkoniumklorid (se post 948)[7] | 8001-54-5 | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser (dialkyldimetyl (alkyl fra C6-C18, mettet og umettet, og talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller metylsulfater) (DDAC) | – | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser (alkyltrimetyl (alkyl fra C8-C18, mettet og umettet, og talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller metylsulfater) (TMAC) | – | 8 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser (benzylalkyldimetyl (alkyl fra C8-C22, mettet og umettet, talgalkyl, kokosalkyl, og soyaalkyl) klorider, bromider, eller hydroksider) (BKC) | – | 1, 2, 3, 4, 8, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| 3-fenoksybenzyl (1R)-cis,trans-2,2-dimetyl-3-(2-metylprop-1-enyl)syklopropankarboksylat (d-fenotrin) | 188023-86-1 | 18 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C12-16-alkyldimetyl, klorider (andre enn stoffet omfattet av post 671)[7] | – | 1, 2, 3, 4, 8, 10, 11, 12, 22 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C12-18-alkyldimetyl, klorider (andre enn stoffet omfattet av post 667)[7] | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, C12-14-alkyl[(etylfenyl)metyl]dimetyl, klorider (andre enn stoffet omfattet av post 725)[7] | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, benzyl-C12-14-alkyldimetyl, klorider (andre enn stoffet omfattet av post 724)[7] | – | 1, 2, 3, 4, 10, 11, 12, 22 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Sølv-sink-aluminium-boronfosfatglass/glassoksid, med sølv- og sinkinnhold | 398477-47-9 | 2, 7, 9 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, di-C8-10-alkyldimetyl, klorider (andre enn stoffet omfattet av post 673)[7] | – | 1, 2, 3, 4, 5, 6, 10, 11, 12 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Kvartære ammoniumforbindelser, kokosalkyltrimetyl, klorider (andre enn stoffet omfattet av post 635)[7] | – | 8 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| Aluminiumnatriumsilikat-sølv-sink kompleks/sølvsinkzeolitt | 130328-20-0 | 2, 7, 9 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| (±)-1-(.beta.-allyloksy-2,4-diklorfenyletyl)imidazol (teknisk imazalil) | 73790-28-0 | 3 | 28.11.2017[6] | (EU) [2016/1950](https://lovdata.no/eu/32016d1950) | Nr. 12zzzzg |
+| PHMB (1600; 1.8) | 27083-27-8 og 32289-58-0 | 5 | 31.05.2018[6] | (EU) [2017/802](https://lovdata.no/eu/32017d0802*) | Nr. 12zzzzp |
+| 2-metyl-1,2-benzisotiazol-3(2H)-on (MBIT) | 2527-66-4 | 13 | 04.08.2018[6] | (EU) [2017/1282](https://lovdata.no/eu/32017d1282) | Nr. 12zzzzw |
+| PHMB (1415; 4,7) | 32289-58-0 og 1802181-67-4 | 1, 5, 6 | 13.05.2019[6] | (EU) [2018/619](https://lovdata.no/eu/32018d0619) | Nr. 12zzzzzl |
+| Klorofen | 120-32-1 | 3 | 13.05.2019[6] | (EU) [2018/622](https://lovdata.no/eu/32018d0622) | Nr. 12zzzzzi |
+| Sitronsyre | 77-92-9 | 1 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Cetylpyridinklorid | 123-03-5 | 2 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Karbondioksid | 124-38-9 | 19 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Natrium-2-bifenylat | 132-27-4 | 1, 2, 3 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| N-(diklorfluormetyltio)-N',N'-dimetyl-N-fenylsulfamid (diklofluanid) | 1085-98-9 | 7 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Pyridin-2-tiol-1-oksid, natriumsalt (natriumpyrition) | 3811-73-2 | 3 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Sølv | 7440-22-4 | 9 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Svoveldioksid | 7446-09-5 | 4 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Natriumbromid | 7647-15-6 | 2, 11, 12 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Ammoniumsulfat | 7783-20-2 | 11,12 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Sølvklorid | 7783-90-6 | 10, 11 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Ammoniumbromid | 12124-97-9 | 11, 12 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Kalium-2-bifenylat | 13707-65-8 | 6, 9, 10, 13 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Bromklorid | 13863-41-7 | 11 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Natrium-p-klor-m-kresolat | 15733-22-9 | 1, 2, 3, 6, 9, 13 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Blanding av cis- og trans-p-mentan-3,8 diol (citriodiol) | - | 19 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Tetrakis(hydroksymetyl)fosfoniumsulfat(2:1) (THPS) | 55566-30-8 | 2 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Didecyldimetylammoniumklorid (DDAC (C8-10)) | 68424-95-3 | 5 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| 6-(ftalimid)peroksyheksansyre (PAP) | 128275-31-0 | 3, 4 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Tetraklordekaoksidkompleks (TCDO) | 92047-76-2 | 1 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| *Bacillus sphaericus* med unntak av *Bacillus sphaericus* 2362, stamme ABTS-1743 | 143447-72-7 | 18 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| *Bacillus thuringiensis subsp.israelensis* Serotype H14, med unntak av stamme AM65-52 og stamme SA3A | - | 18 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| *Bacillus subtilis* | - | 3 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Aktivt klor: dannet ved reaksjon av hypoklorsyre og natriumhypokloritt produsert *in situ* | - | 2, 3, 4, 5 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Søvsinkzeolitt | 130328-20-0 | 5 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Sølvkobberzeolitt | 130328-19-7 | 5 | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Esfenvalerat/(S)-alfa-cyano-3-fenoksybenzyl (S)-2-(4-klorfenyl)-3-metylbutyrat (esfenvalerat) | 66230-04-4 | 18ø | 30.10.2019[6] | (EU) [2018/1622](https://lovdata.no/eu/32018d1622*) | Nr. 12zzzzzr |
+| Willaertia magna c2c maky | - | 11 | 03.01.2020[6] | (EU) [2018/1985](https://lovdata.no/eu/32018d1985) | Nr. 12zzzzzv |
+| Empentrin | 54406-48-3 | 18 | 09.10.2019[6] | (EU) [2018/1251](https://lovdata.no/eu/32018d1251) | Nr. 12zzzzzw |
+| Karbendazim | 10605-21-7 | 9 | 15.12.2020[6] | (EU) [2019/1942](https://lovdata.no/eu/32019d1942) | 12zzzzzzd |
+| Sølvnatrium hydrogen zirkoniumfosfat | 265647-11-8 | 2, 7 | 17.12.2020[6] | (EU) [2019/1959](https://lovdata.no/eu/32019d1959) | 12zzzzzzg |
+| Sølvzeolitt | 130328-18-6 | 2, 7 | 17.12.2020[6] | (EU) [2019/1960](https://lovdata.no/eu/32019d1960) | 12zzzzzzh |
+| Sølvkobberzeolitt | 130328-19-7 | 2, 7 | 18.12.2020[6] | (EU) [2019/1973](https://lovdata.no/eu/32019d1973) | 12zzzzzzj |
+| Maursyre | 64-18-6 | 11, 12 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Permaursyre framstilt av maursyre og hydrogenperoksid | – | 3, 5, 6 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Pereddiksyre framstilt av 1,3-diacetyloksypropan-2-ylacetat og hydrogenperoksid | – | 4 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Pereddiksyre framstilt av tetraacetyletylendiamin (TAED) og natriumperboratmonohydrat | – | 3 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Pereddiksyre framstilt ved perhydrolyse av N-acetylkaprolaktam med hydrogenperoksid i basisk miljø | – | 2 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Triklorisocyanursyre (symklosen) | 87-90-1 | 12 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Natrium-2-bifenylat | 132-27-4 | 4, 6, 7, 9, 10, 13 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Tetrahydro-3,5-dimetyl-1,3,5-tiadiasin-2-tion (dazomet) | 533-74-4 | 6, 12 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Natriumdiklorisocyanuratdi-hydrat | 51580-86-0 | 12 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Troclosennatrium | 2893-78-9 | 12 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Formaldehyd avgitt fra (etylen-dioksy)dimetanol (reaksjonsprodukter av etylenglykol og paraformaldehyd (EGForm)) | 3586-55-8 | 2 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Tetrahydro-1,3,4,6-te-tra-kis(hydroksymetyl)imidazo[4,5-d]imidazol-2,5(1H,3H)-dion (TMAD) | 5395-50-6 | 2 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Aktivt brom framstilt av ozon og bromid av naturlig vann og natriumbromid | – | 2 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Hydrogenperoksid avgitt fra natriumperkarbonat | – | 5 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Pyretriner og pyretroider | 8003-34-7 | 18, 19 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Klordioksid framstilt av natriumklorid ved elektrolyse | – | 2, 3, 4, 5, 11, 12 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Klordioksid framstilt av fra natriumkloritt og natriumpersulfat | – | 12 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| 1-[2-(Allyloksy)-2-(2,4-diklorofenyl)etyl]-1H-imidasol (imazalil) | 35554-44-0 | 3 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Aktivt klor framstilt av natriumklorid ved elektrolyse | n/a | 12 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Aktivt klor framstilt av magnesiumkloridheksahydrat ved elektrolyse | – | 2 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Aktivt klor framstilt av kaliumklorid ved elektrolyse | – | 2, 4 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Aktivt klor framstilt av natriumklorid og pentakaliumbis(peroksymonosulfat)bis(sulfat)(KPMS) og sulfaminsyre | – | 2, 3 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Aktivt klor framstilt av saltsyre ved elektrolyse | – | 2, 4, 5 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| *Chrysanthemum cinerariaefolium* (ekstrakt) | 89997-63-7 | 18 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Sølvnatriumhydrogenzirkoniumfosfat | 265647-11-8 | 1 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Sølvzeolitt | – | 5 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Polyheksametylbiguanidhydroklorid med gjennomsnittlig molekylvekt (Mn) på 1415 og et gjennomsnittlig polydispersitet (PDI) på 4,7 (PHMB (1415; 4,7)) | 1802181-67-4 og 32289-58-0 | 3, 9, 11 | 05.08.2021 | [(EU) 2020/1036](https://lovdata.no/eu/32020d1036) | Nr. 12zzzzzzm |
+| Klorofen | 120-32-1 | 2 | 16.12.2021[6] | [(EU) 2020/1765](https://lovdata.no/eu/32020d1765) | Nr. 12zzzzzzr |
+| Esbiotrin | 260359-57-7 | 18 | 18.02.2022[6] | [(EU) 2021/98](https://lovdata.no/eu/32021d0098) | 12zzzzzzs |
+| Karbondioksid | 124-38-9 | 19 | 21.02.2022[6] | [(EU) 2021/103](https://lovdata.no/eu/32021d0103) | 12zzzzzzt |
+| Bronopol | 52-51-7 | 9 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| Tiram | 137-26-8 | 9 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| Metam-natrium | 137-42-8 | 9, 11 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| Sølv, som nanomateriale | 7440-22-4 | 2, 4, 9 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 13 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| *Eukalyptus citriodora* olje og sitronellal, hydratert, syklisert | – | 19 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| 2-Hydroksy-α,α,4-trimetylsykloheksanmetanol | 42822-86-6 | 19 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| Peroksyoktansyre | 33734-57-5 | 2, 3, 4 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| Klordioksid generert fra natriumkloritt og natriumpersulfat | – | 2, 3, 4, 5, 11 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| Malt, ekst. Ekstrakter og deres fysisk modifiserte derivater som tinkturer, konkreter, absolutter, essensielle oljer, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Hordeum, Gramineae* | 8002-48-0 | 19 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| Aminer, C10-16-alkyldimetyl, N-oksider | 70592-80-2 | 4 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| *Capsicum oleoresin* Ekstrakter og deres fysiske modifiserte derivater. Det er et produkt som kan inneholde harpikssyrer og deres estere, terpener og oksidasjons- eller polymeriseringsprodukter av disse terpenene (*Capsicum frutescens, Solanaceae*) | 8023-77-6 | 19 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| *Capsicum annuum*, ekst. Ekstrakter og deres fysiske modifiserte derivater som tinkturer, konkreter, absolutter, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Capsicum annuum, Solanaceae*. | 84625-29-6 | 19 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| Reaksjonsmasse av (6E)-N-(4-hydroksy-3-metoksy-2-metylfenyl)-8-metylnon-6-enamid og N-(4-hydroksy-3- metoksy-2-metylfenyl)-8-metylnonanamid | – | 19 | 23.08.2021[6] | [(EU) 2021/1283](https://lovdata.no/eu/32021d1283) | Nr. 12zzzzzzzh |
+| N-(3-aminopropyl)-N-dodecylpropan-1,3-diamin | 2372-82-9 | 8 | 14.07.2022 | [(EU) 2022/986](https://lovdata.no/eu/32022d0986) | Nr. 12zzzzzzzw |
+| Tolylfluanid | 731-27-1 | 7 | 10.11.2022 | [(EU) 2022/1990](https://lovdata.no/eu/31990r2022) | Nr. 12zzzq |
+| 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 10 | 18.12.2023[6] | [(EU) 2022/2325](https://lovdata.no/eu/32022d2325) | Nr. 12zzzzzzzzp |
+| Epsilon-metoflutrin | 240494-71-7 | 19 | 18.12.2023[6] | [(EU) 2022/2326](https://lovdata.no/eu/32022d2326) | Nr. 12zzzzzzzzq |
+| Kloramin B | 127-52-6 | 2, 3, 4, 5 | 18.12.2023[6] | [(EU) 2022/2327](https://lovdata.no/eu/32022d2327) | Nr. 12zzzzzzzzr |
+| Metylenditiocyanat | 6317-18-6 | 12 | 13.11.2023[6] | [(EU) 2022/2005](https://lovdata.no/eu/32022d2005) | Nr. 12zzzzzzzzu |
+| Sølvnitrat | 7761-88-8 | 7 | 12.01.2023[6] | [(EU) 2022/2570](https://lovdata.no/eu/32022d2570) | Nr. 12zzzzzzzzx |
+| Dialuminiumkloridpentahydroksid | 12042-91-0 | 2 | 22.04.2024 | [(EU) 2023/458](https://lovdata.no/eu/32023d0458) | Nr. 12zzzzzzzzza |
+| Natrium N-(hydroksymetyl)glysinat | 70161-44-3 | 6 | 22.04.2024 | [(EU) 2023/458](https://lovdata.no/eu/32023d0458) | Nr. 12zzzzzzzzza |
+| Reaksjonsmasse av titaniumdioksid og sølvklorid | – | 1, 2, 6, 7, 9, 10, 11 | 22.04.2024 | [(EU) 2023/458](https://lovdata.no/eu/32023d0458) | Nr. 12zzzzzzzzza |
+| (benzyloksy)metanol | 14548-60-8 | 13 | 22.04.2024 | [(EU) 2023/458](https://lovdata.no/eu/32023d0458) | Nr. 12zzzzzzzzza |
+| Sølvklorid | 7783-90-6 | 1 | 22.04.2024 | [(EU) 2023/458](https://lovdata.no/eu/32023d0458) | Nr. 12zzzzzzzzza |
+| 7a-etyldihydro-1H,3H,5H-oksazol[3,4-c]oxazol (EDHO) | 7747-35-5 | 6, 13 | 22.04.2024 | [(EU) 2023/458](https://lovdata.no/eu/32023d0458) | Nr. 12zzzzzzzzza |
+| Cis-1-(3-klorallyl)-3,5,7-triaza-1-azoniaadamantan klorid (cis CTAC) | 51229-78-8 | 6, 13 | 22.04.2024 | [(EU) 2023/458](https://lovdata.no/eu/32023d0458) | Nr. 12zzzzzzzzza |
+| Metenamin 3-klorallyloklorid (CTAC) | 4080-31-3 | 6, 12, 13 | 22.04.2024 | [(EU) 2023/458](https://lovdata.no/eu/32023d0458) | Nr. 12zzzzzzzzza |
+| 2,2-Dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 4 | 22.04.2024 | [(EU) 2023/459](https://lovdata.no/eu/32023d0459) | Nr. 12zzzzzzzzzb |
+| Akrolein | 107-02-8 | 12 | 27.07.2024[6] | [(EU) 2023/1424](https://lovdata.no/eu/32023d1424) | Nr. 13zzzzzzzzzzzzzc |
+| Cyanamid | 420-04-2 | 1, 18 | 26.06.2024[6] | [(EU) 2023/1097](https://lovdata.no/eu/32023d1097) | Nr. 12zzzzzzzzzl |
+| D-alletrin | 231937-89-6 | 8 | 25.03.2024 | [(EU) 2023/470](https://lovdata.no/eu/32023d0470) | Nr. 12zzzzzzzzzm |
+| Sølvkobberzeolitt | 130328-19-7 | 4 | 22.10.2024[6] | [(EU) 2023/2377](https://lovdata.no/eu/32023d2377) | Nr. 12zzzzzzzzzr |
+| Sølvsinkzeolitt | 130328-20-0 | 4 | 17.12.2024[6] | [(EU) 2023/2622](https://lovdata.no/eu/32023d2622) | Nr. 12zzzzzzzzzy |
+| Sølvzeolitt | 7446-09-5 | 4 | 18.12.2024[6] | [(EU) 2023/2648](https://lovdata.no/eu/32023d2648) | Nr. 12zzzzzzzzzzb |
+| Sølvnatriumhydrogenzirkoniumfosfat | 155925-27- 2 | 4 | 15.10.2024[6] | [(EU) 2023/2052](https://lovdata.no/eu/32023d2052) | Nr. 12zzzzzzzzzzh |
+| *Willaertia magna c2c maky* | – | 11 | 05.02.2025[6] | [(EU) 2024/241](https://lovdata.no/eu/32024d0241) | Nr. 12zzzzzzzzzzl |
+| Bifenyl-2-ol | 90-43-7 | 7 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Kaliumdimetylditiokarbamat | 128-03-0 | 9, 11, 12 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Sølvpolyetyleniminklorid | – | 1, 2, 9 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| 2,2-dibrom-2-cyanoacetamid (DBNPA) | 10222-01-2 | 2 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Aktiv klor generert fra magnesiumklorheksahydrat og kaliumklorid ved elektrolyse | – | 2 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Reaksjonsprodukt av glutaminsyre og N-(C12-C14-alkyl)propylendiamin (Glukoprotamin) | 164907-72-6 | 2, 4 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Poly(oksy-1,2-etandiyl),.alfa.-[2-(didecylmetylammonio)etyl]-.omega.-hydroksy, propanoat (salt) (Bardap 26) | 94667-33-1 | 2, 4, 10 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Hvitløk, ekst. Ekstrakter og deres fysisk modifiserte derivater som tinkturer, konkreter, absolutter, essensielle oljer, oleoresiner, terpener, terpen-frie fraksjoner, destillater, rester etc., hentet fra *Allium sativum, Liliaceae* | 8008-99-9 | 19 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Brandy | – | 19 | 15.04.2025[6] | [(EU) 2024/888](https://lovdata.no/eu/32024d0888) | Nr. 12zzzzzzzzzzs |
+| Sulfurylfluorid | 2699-79-8 | 8, 18 | 03.10.2025 | [(EU) 2024/2402](https://lovdata.no/eu/32024d2402) | Nr. 12zzzzzzzzzzzm |
+| Sølv adsorbert på silisiumdioksid (som et nanomateriale i form av et stabilt aggregat med primærpartikler av nanostørrelse) | – | 9 | 23.12.2025 | [(EU) 2024/2948](https://lovdata.no/eu/32024d2948) | Nr. 12zzzzzzzzzzzp |
+| p-[(Dijodmetyl)sulfonyl]toluen | 20018-09-1 | 6, 7, 9, 10 | 23.12.2025 | [(EU) 2024/2948](https://lovdata.no/eu/32024d2948) | Nr. 12zzzzzzzzzzzp |
+| 5-kloro-2-metyl-2H-isotiazol-3-on (CIT) | 247-500-7 | 6 | 16.03.2026[6] | [(EU) 2025/357](https://lovdata.no/eu/32025d0357) | Nr. 12zzzzzzzzzzzr |
+| Etylenoksid | 75-21-8 | 2 | 23.06.2026[6] | [(EU) 2025/1074](https://lovdata.no/eu/32025d1074) | Nr. 12zzzzzzzzzzzzz |
+| 1,2-benzisotiazol-3(2H)-on (BIT) | 2634-33-5 | 2 | 21.07.2026[6] | [(EU) 2025/1262](https://lovdata.no/eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Klordioksid | 10049-04-4 | 12 | 21.07.2026[6] | [(EU) 2025/1262](https://lovdata.no/eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Sinkpyrition | 13463-41-7 | 2, 10 | 21.07.2026[6] | [(EU) 2025/1262](https://lovdata.no/eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Reaksjonsprodukter av 5,5-dimetylhydantoin, 5-etyl-5-metylhydantoin med brom og klor (DCDMH) | – | 11 | 21.07.2026[6] | [(EU) 2025/1262](https://lovdata.no/eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Reaksjonsprodukter av 5,5-dimetylhydantoin, 5-etyl-5-metylhydantoin med klor (DCEMH) | – | 11 | 21.07.2026[6] | [(EU) 2025/1262](https://lovdata.no/eu/32025d1262) | Nr. 12zzzzzzzzzzzzze |
+| Etofenproks | 80844-07-1 | 8, 18 | 11.09.2026[6] | [(EU) 2026/378](https://lovdata.no/eu/32026*0378) | Nr. 12zzzzzzzzzzzzzi |
+| Formaldehyd som frigjøres fra reaksjonsproduktene av paraformaldehyd og 2-hydroksypropylamin (forhold 1:1) | – | 6 | 09.04.2027[6] | [(EU) 2026/599](https://lovdata.no/eu/32026*0599) | Nr. 12zzzzzzzzzzzzzl |
+| Cypermetrin | 52315-07-8 | 8 | 15.06.20271 | [(EU) 2026/1112](https://lovdata.no/eu/32026d1112) | Nr. 12zzzzzzzzzzzzzp |
+
+*Endret ved [forskrifter 29 sep 2017 nr. 1574](https://lovdata.no/forskrift/2017-09-29-1574), [21 des 2017 nr. 2363](https://lovdata.no/forskrift/2017-12-21-2363), [21 sep 2018 nr. 1402](https://lovdata.no/forskrift/2018-09-21-1402), [8 feb 2019 nr. 90](https://lovdata.no/forskrift/2019-02-08-90), [8 mai 2019 nr. 589](https://lovdata.no/forskrift/2019-05-08-589) (i kraft 1 juni 2019), [14 juni 2019 nr. 747](https://lovdata.no/forskrift/2019-06-14-747), [30 april 2020 nr. 939](https://lovdata.no/forskrift/2020-04-30-939), [5 feb 2021 nr. 478](https://lovdata.no/forskrift/2021-02-05-478), [23 april 2021 nr. 1393](https://lovdata.no/forskrift/2021-04-23-1393), [9 juli 2021 nr. 2409](https://lovdata.no/forskrift/2021-07-09-2409), [18 mars 2022 nr. 425](https://lovdata.no/forskrift/2022-03-18-425), [28 okt 2022 nr. 1911](https://lovdata.no/forskrift/2022-10-28-1911), [28 april 2023 nr. 650](https://lovdata.no/forskrift/2023-04-28-650), [13 juni 2023 nr. 858](https://lovdata.no/forskrift/2023-06-13-858), [22 sep 2023 nr. 1485](https://lovdata.no/forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](https://lovdata.no/forskrift/2023-10-27-1775), [8 des 2023 nr. 1990](https://lovdata.no/forskrift/2023-12-08-1990), [2 feb 2024 nr. 206](https://lovdata.no/forskrift/2024-02-02-206), [15 mars 2024 nr. 495](https://lovdata.no/forskrift/2024-03-15-495), [26 april 2024 nr. 719](https://lovdata.no/forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](https://lovdata.no/forskrift/2024-09-23-2372), [14 mars 2025 nr. 627](https://lovdata.no/forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](https://lovdata.no/forskrift/2025-12-05-2963), [26 juni 2026 nr. 1448](https://lovdata.no/forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](https://lovdata.no/forskrift/2026-07-16-1575), [9 okt 2026 nr. 2041](https://lovdata.no/forskrift/2026-10-09-2041).*
+
+## Rettsakter
+
+*Endret ved [forskrifter 29 sep 2017 nr. 1574](https://lovdata.no/forskrift/2017-09-29-1574), [21 des 2017 nr. 2363](https://lovdata.no/forskrift/2017-12-21-2363), [23 mars 2018 nr. 506](https://lovdata.no/forskrift/2018-03-23-506), [8 feb 2019 nr. 90](https://lovdata.no/forskrift/2019-02-08-90), [29 mars 2019 nr. 438](https://lovdata.no/forskrift/2019-03-29-438), [8 mai 2019 nr. 589](https://lovdata.no/forskrift/2019-05-08-589) (i kraft 1 juni 2019), [14 juni 2019 nr. 948](https://lovdata.no/forskrift/2019-06-14-948), [27 sep 2019 nr. 1327](https://lovdata.no/forskrift/2019-09-27-1327), [13 des 2019 nr. 2133](https://lovdata.no/forskrift/2019-12-13-2133), [7 feb 2020 nr. 120](https://lovdata.no/forskrift/2020-02-07-120), [30 april 2020 nr. 939](https://lovdata.no/forskrift/2020-04-30-939), [23 okt 2020 nr. 2228](https://lovdata.no/forskrift/2020-10-23-2228), [5 feb 2021 nr. 478](https://lovdata.no/forskrift/2021-02-05-478), [9 juli 2021 nr. 2409](https://lovdata.no/forskrift/2021-07-09-2409). Endret i sin helhet 20 okt 2021 uten kunngjøring i Norsk Lovtidend. Endret ved forskrifter [29 okt 2021 nr. 3146](https://lovdata.no/forskrift/2021-10-29-3146), [10 des 2021 nr. 3650](https://lovdata.no/forskrift/2021-12-10-3650), [18 mars 2022 nr. 425](https://lovdata.no/forskrift/2022-03-18-425), [29 april 2022 nr. 811](https://lovdata.no/forskrift/2022-04-29-811), [10 juni 2022 nr. 1052](https://lovdata.no/forskrift/2022-06-10-1052), [28 okt 2022 nr. 1911](https://lovdata.no/forskrift/2022-10-28-1911), [9 des 2022 nr. 2228](https://lovdata.no/forskrift/2022-12-09-2228), [3 feb 2023 nr. 177](https://lovdata.no/forskrift/2023-02-03-177), [28 april 2023 nr. 650](https://lovdata.no/forskrift/2023-04-28-650), [5 juli 2023 nr. 1251](https://lovdata.no/forskrift/2023-07-05-1251), [22 sep 2023 nr. 1485](https://lovdata.no/forskrift/2023-09-22-1485), [27 okt 2023 nr. 1775](https://lovdata.no/forskrift/2023-10-27-1775), [8 des 2023 nr. 1990](https://lovdata.no/forskrift/2023-12-08-1990), [2 feb 2024 nr. 206](https://lovdata.no/forskrift/2024-02-02-206), [15 mars 2024 nr. 495](https://lovdata.no/forskrift/2024-03-15-495), [26 april 2024 nr. 719](https://lovdata.no/forskrift/2024-04-26-719), [23 sep 2024 nr. 2372](https://lovdata.no/forskrift/2024-09-23-2372), [7 feb 2025 nr. 281](https://lovdata.no/forskrift/2025-02-07-281), [14 mars 2025 nr. 627](https://lovdata.no/forskrift/2025-03-14-627), [13 juni 2025 nr. 1255](https://lovdata.no/forskrift/2025-06-13-1255), [5 des 2025 nr. 2963](https://lovdata.no/forskrift/2025-12-05-2963), [6 feb 2026 nr. 226](https://lovdata.no/forskrift/2026-02-06-226), [20 mars 2026 nr. 595](https://lovdata.no/forskrift/2026-03-20-595), [26 juni 2026 nr. 1448](https://lovdata.no/forskrift/2026-06-26-1448), [16 juli 2026 nr. 1575](https://lovdata.no/forskrift/2026-07-16-1575), [9 okt 2026 nr. 2041](https://lovdata.no/forskrift/2026-10-09-2041).*
+
+### Konsolidert versjon av biocidforordningen på engelsk
+
+Nedenfor gjengis til informasjon forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528) om tilgjengeliggjøring på markedet og bruk av biocidprodukter (biocidforordningen). Forordningen er konsolidert 20. november 2019 og inneholder bare bestemmelser som var gjeldende denne datoen.
+
+[(pdf)](https://lovdata.no/static/SF/32012r0528e-k-01.pdf)
+
+Den konsoliderte forordningen er tilgjengelige på alle offisielle EU-språk på nettsidene [EUR-Lex](https://eur-lex.europa.eu/search.html?DTN=0528&DTA=2012&qid=1564771065266&DB_TYPE_OF_ACT=regulation&DTS_DOM=EU_LAW&typeOfActStatus=REGULATION&type=advanced&lang=en&SUBDOM_INIT=CONSLEG&DTS_SUBDOM=CONSLEG).
+
+### Konsolidert versjon av forordning om biocidprogrammet
+
+Nedenfor gjengis til informasjon forordning [(EU) nr. 1062/2014](https://lovdata.no/eu/32014r1062) om arbeidsprogram for systematisk undersøkelse av alle eksisterende aktive stoffer i biocidprodukter som er omfattet av forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528). Forordningen er konsolidert 30. mars 2019 og inneholder bare bestemmelser som var gjeldende denne datoen.
+
+[(pdf)](https://lovdata.no/static/SF/32014r1062e-k-01.pdf)
+
+### Norske oversettelser av biocidforordningen
+
+Her gjengis til informasjon Utenriksdepartementets oversettelse av forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528) om biocider (slik den opprinnelig ble vedtatt).
+
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av følgende endringsforordninger til forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528) om biocider:
+
+- forordning [(EU) nr. 736/2013](https://lovdata.no/eu/32013r0736) om endring av biocidforordningen med hensyn til varigheten av arbeidsprogrammet for undersøkelse av eksisterende aktive stoffer i biocidprodukter
+- forordning [(EU) nr. 837/2013](https://lovdata.no/eu/32013r0837) om endring av vedlegg III til biocidforordningen med hensyn til opplysningskravene ved søknader om godkjenning av biocidprodukter
+- forordning [(EU) nr. 334/2014](https://lovdata.no/eu/32014r0334) om endring av biocidforordningen med hensyn til visse vilkår for markedsadgang
+- forordning [(EU) 2019/1819](https://lovdata.no/eu/32019r1819) om endring av biocidforordningen for å føre opp eddik som et aktivt stoff i vedlegg I
+- forordning [(EU) 2019/1820](https://lovdata.no/eu/32019r1820) om endring av biocidforordningen for å føre opp Saccharomyces cerevisiae som et aktivt stoff i vedlegg I
+- forordning [(EU) 2019/1821](https://lovdata.no/eu/32019r1821) om endring av biocidforordningen for å føre opp eggpulver som et aktivt stoff i vedlegg I
+- forordning [(EU) 2019/1822](https://lovdata.no/eu/32019r1822) om endring av biocidforordningen for å føre opp honning som et aktivt stoff i vedlegg I
+- forordning [(EU) 2019/1823](https://lovdata.no/eu/32019r1823) om endring av biocidforordningen for å føre opp D-fruktose som et aktivt stoff i vedlegg I
+- forordning [(EU) 2019/1824](https://lovdata.no/eu/32019r1824) om endring av biocidforordningen for å føre opp ost som et aktivt stoff i vedlegg I
+- forordning [(EU) 2019/1825](https://lovdata.no/eu/32019r1825) om endring av biocidforordningen for å føre opp konsentrert eplejuice som et aktivt stoff i vedlegg I
+- forordning [(EU) 2021/407](https://lovdata.no/eu/32021r0407) om endring av biocidforordningen for å føre opp sitronsyre som et aktivt stoff i vedlegg I
+- forordning [(EU) 2021/806](https://lovdata.no/eu/32021r0806) om endring av biocidforordningen for å føre opp karbondioksid generert fra propan, butan eller en blanding av begge ved forbrenning som et aktivt stoff i vedlegg I
+- forordning [(EU) 2021/807](https://lovdata.no/eu/32021r0807) om endring av biocidforordningen for å føre opp kaliumsorbat som et aktivt stoff i vedlegg I
+- forordning [(EU) 2021/525](https://lovdata.no/eu/32021r0525) om endring av vedlegg II og III.
+- forordning [(EU) 2024/1290](https://lovdata.no/eu/32024r1290) om endring av biocidforordningen for å føre opp nitrogen generert fra omgivelsesluft som et aktivt stoff i vedlegg I
+- forordning [(EU) 2024/1398](https://lovdata.no/eu/32024r1398) om endring av biocidforordningen med hensyn til varigheten av arbeidsprogrammet for undersøkelse av eksisterende aktive stoffer i biocidprodukter.
+- forordning [(EU) 2026/1165](https://lovdata.no/eu/32026r1165) om endring av biocidforordningen med hensyn til varigheten av databeskyttelse for kombinasjoner av aktivt stoff og produkttype i EUs vurderingsprogram for biocidaktive stoffer
+
+### Norske oversettelser av forordninger om biocidprogrammet
+
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av følgende forordninger om biocidprogrammet:
+
+- forordning [(EU) nr. 1062/2014](https://lovdata.no/eu/32014r1062) om arbeidsprogrammet for systematisk undersøkelse av alle eksisterende aktive stoffer som inngår i biocidprodukter nevnt i biocidforordningen
+- forordning [(EU) 2017/698](https://lovdata.no/eu/32017r0698) om endring av forordning [(EU) nr. 1062/2014](https://lovdata.no/eu/32014r1062)
+- forordning [(EU) 2019/157](https://lovdata.no/eu/32019r0157) om endring av vedlegg II til forordning [(EU) nr. 1062/2014](https://lovdata.no/eu/32014r1062)
+- forordning [(EU) 2019/227](https://lovdata.no/eu/32019r0227) om endring av forordning [(EU) nr. 1062/2014](https://lovdata.no/eu/32014r1062)
+- forordning [(EU) 2022/825](https://lovdata.no/eu/32022r0825) om endring av vedlegg II til forordning [(EU) nr. 1062/2014](https://lovdata.no/eu/32014r1062).
+
+### Norske oversettelser av beslutninger om utsatt frist
+
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av følgende beslutninger om utsatt frist:
+
+- beslutning [2014/397/EU](https://lovdata.no/eu/32014d0397) om utsettelse av utløpsdatoen for godkjenningen av difetialon og difenakum til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2015/1737](https://lovdata.no/eu/32015d1737) om utsettelse av utløpsdatoen for godkjenningen av bromadiolon, klorfacinon og kumatetralyl til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2016/135](https://lovdata.no/eu/32016d0135) om utsettelse av utløpsdatoen for godkjenningen av flokumafen, brodifakum og warfarin til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2017/2334](https://lovdata.no/eu/32017d2334) om utsettelse av utløpsdatoen for godkjenningen av kreosot til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2018/1479](https://lovdata.no/eu/32018d1479) om utsettelse av utløpsdatoen for godkjenningen av sulfurylfluorid til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2019/994](https://lovdata.no/eu/32019d0994) om utsettelse av utløpsdatoen for godkjenningen av etofenproks til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2019/1030](https://lovdata.no/eu/32019d1030) om utsettelse av utløpsdatoen for godkjenningen av indoksakarb til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2019/1950](https://lovdata.no/eu/32019d1950) om utsettelse av utløpsdatoen for godkjenningen av K-HDO til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2019/1951](https://lovdata.no/eu/32019d1951) om utsettelse av utløpsdatoen for godkjenningen av tebukonazol til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2019/1969](https://lovdata.no/eu/32019d1969) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2020/27](https://lovdata.no/eu/32020d0027) om utsettelse av utløpsdatoen for godkjenningen av propikonazol til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2020/1037](https://lovdata.no/eu/32020d1037) om utsettelse av utløpsdatoen for godkjenningen av akrolein til bruk i biocidprodukter i produkttype 12
+- beslutning [(EU) 2020/1038](https://lovdata.no/eu/32020d1038) om utsettelse av utløpsdatoen for godkjenningen av kreosot til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2021/327](https://lovdata.no/eu/32021d0327) om utsettelse av utløpsdatoen for godkjenningen av metoflutrin til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2021/333](https://lovdata.no/eu/32021d0333) om utsettelse av utløpsdatoen for godkjenningen av alfakloralose til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2021/354](https://lovdata.no/eu/32021d0354) om utsettelse av utløpsdatoen for godkjenningen av propikonazol til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2021/713](https://lovdata.no/eu/32021d0713) om utsettelse av utløpsdatoen for godkjenningen av sulfurylfluorid til bruk i biocidprodukter i produkttype 8 og 18.
+- beslutning [(EU) 2021/1287](https://lovdata.no/eu/32021d1287) om utsettelse av utløpsdatoen for godkjenningen av indoksakarb til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2021/1284](https://lovdata.no/eu/32021d1284) om utsettelse av utløpsdatoen for godkjenningen av aluminiumfosfid til bruk i biocidprodukter i produkttype 14 og 18
+- beslutning [(EU) 2021/1285](https://lovdata.no/eu/32021d1285) om utsettelse av utløpsdatoen for godkjenningen av magnesiumfosfid til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2021/1286](https://lovdata.no/eu/32021d1286) om utsettelse av utløpsdatoen for godkjenningen av dinotefuran til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2021/1288](https://lovdata.no/eu/32021d1288) om utsettelse av utløpsdatoen for godkjenningen av borsyre til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2021/1289](https://lovdata.no/eu/32021d1289) om utsettelse av utløpsdatoen for godkjenningen av dazomet til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2021/1290](https://lovdata.no/eu/32021d1290) om utsettelse av utløpsdatoen for godkjenningen av dinatriumtetraborat til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2021/1299](https://lovdata.no/eu/32021d1299) om utsettelse av utløpsdatoen for godkjenningen av heksaflumuron til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2021/2146](https://lovdata.no/eu/32021d2146) om utsettelse av utløpsdatoen for godkjenningen av N,N-dietyl-meta-toluamid til bruk i biocidprodukter av produkttype 19
+- beslutning [(EU) 2022/1484](https://lovdata.no/eu/32022d1484) om utsettelse av utløpsdatoen for godkjenningen av DDA-karbonat til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2022/1485](https://lovdata.no/eu/32022d1485) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2022/1488](https://lovdata.no/eu/32022d1488) om utsettelse av utløpsdatoen for godkjenningen av K-HDO til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2022/1489](https://lovdata.no/eu/32022d1489) om utsettelse av utløpsdatoen for godkjenningen av spinosad til bruk i biocidprodukter av produkttype 18
+- beslutning [(EU) 2022/1495](https://lovdata.no/eu/32022d1495) om utsettelse av utløpsdatoen for godkjenningen av medetomidin til bruk i biocidprodukter av produkttype 21
+- beslutning [(EU) 2022/1496](https://lovdata.no/eu/32022d1496) om utsettelse av utløpsdatoen for godkjenningen av tebukonazol til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2022/2298](https://lovdata.no/eu/32022d2298) om utsettelse av utløpsdatoen for godkjenningen av propikonazol til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2023/460](https://lovdata.no/eu/32023d0460) om utsettelse av utløpsdatoen for godkjenningen av imidakloprid til bruk i biocidprodukter av produkttype 18
+- beslutning [(EU) 2023/1085](https://lovdata.no/eu/32023d1085) om utsettelse av utløpsdatoen for godkjenningen av Bacillus thuringiensis subsp. israelensis Serotype H14, Strain AM65-52 til bruk biocidprodukter av produkttype 18
+- beslutning [(EU) 2023/1086](https://lovdata.no/eu/32023d1086) om utsettelse av utløpsdatoen for godkjenningen av metoflutrin til bruk i biocidprodukter av produkttype 18
+- beslutning [(EU) 2023/1087](https://lovdata.no/eu/32023d1087) om utsettelse av utløpsdatoen for godkjenningen av lambda-cyhalotrin til bruk i biocidprodukter av produkttype 18
+- beslutning [(EU) 2023/1088](https://lovdata.no/eu/32023d1088) om utsettelse av utløpsdatoen for godkjenningen av deltametrin til bruk i biocidprodukter av produkttype 18
+- beslutning [(EU) 2023/471](https://lovdata.no/eu/32023d0471) om utsettelse av utløpsdatoen for godkjenningen av DCOIT til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2023/2100](https://lovdata.no/eu/32023d2100) om utsettelse av utløpsdatoen for godkjenningen av kobber(II)oksid til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2023/2378](https://lovdata.no/eu/32023d2378) om utsettelse av utløpsdatoen for godkjenningen av alfakloralose til bruk i biocidprodukter av produkttype 14
+- beslutning [(EU) 2023/2380](https://lovdata.no/eu/32023d2380) om utsettelse av utløpsdatoen for godkjenningen av basisk kobberkarbonat til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2023/2386](https://lovdata.no/eu/32023d2386) om utsettelse av utløpsdatoen for godkjenningen av kobberhydroksid til bruk i biocidprodukter av produkttype 8
+- beslutning [(EU) 2023/2619](https://lovdata.no/eu/32023d2619) om utsettelse av utløpsdatoen for godkjenningen av saltsyre til bruk i biocidprodukter av produkttype 2
+- beslutning [(EU) 2024/208](https://lovdata.no/eu/32024d0208) om utsettelse av utløpsdatoen for godkjenningen av dinatriumtetraborat til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2024/222](https://lovdata.no/eu/32024d0222) om utsettelse av utløpsdatoen for godkjenningen av borsyre til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2024/734](https://lovdata.no/eu/32024d0734) om utsettelse av utløpsdatoen for godkjenningen av brodifakum, bromadiolon, klorfacinon, kumatetralyl, difenakum, difetialon, flokumafen til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2024/731](https://lovdata.no/eu/32024d0731) om utsettelse av utløpsdatoen for godkjenningen av indoksakarb til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2024/732](https://lovdata.no/eu/32024d0732) om utsettelse av utløpsdatoen for godkjenningen av aluminiumfosfid til bruk i biocidprodukter i produkttype 14 og 18
+- beslutning [(EU) 2024/733](https://lovdata.no/eu/32024d0733) om utsettelse av utløpsdatoen for godkjenningen av kolekalsiferol til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2024/787](https://lovdata.no/eu/32024d0787) om utsettelse av utløpsdatoen for godkjenningen av magnesiumfosfid til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2024/1278](https://lovdata.no/eu/32024d1278) om utsettelse av utløpsdatoen for godkjenningen av hydrogencyanid til bruk i biocidprodukter i produkttype 8, 14 og 18
+- beslutning [(EU) 2024/1283](https://lovdata.no/eu/32024d1283) om utsettelse av utløpsdatoen for godkjenningen av cis-trikos-9-en til bruk i biocidprodukter i produkttype 19
+- beslutning [(EU) 2024/1285](https://lovdata.no/eu/32024d1285) om utsettelse av utløpsdatoen for godkjenningen av heksaflumuron til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2024/2411](https://lovdata.no/eu/32024d2411) om utsettelse av utløpsdatoen for godkjenningen av didecyldimetylammoniumklorid til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2024/2416](https://lovdata.no/eu/32024d2416) om utsettelse av utløpsdatoen for godkjenningen av pyriproksyfen til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2024/2417](https://lovdata.no/eu/32024d2417) om utsettelse av utløpsdatoen for godkjenningen av alkyl(C12-16)dimetylbenzylammoniumklorid til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2024/2421](https://lovdata.no/eu/32024d2421) om utsettelse av utløpsdatoen for godkjenningen av formaldehyd til bruk i biocidprodukter i produkttype 2 og 3
+- beslutning [(EU) 2024/2945](https://lovdata.no/eu/32024d2945) om utsettelse av utløpsdatoen for godkjenningen av tralopyril til bruk i biocidprodukter i produkttype 21
+- beslutning [(EU) 2025/349](https://lovdata.no/eu/32025d0349) om utsettelse av utløpsdatoen for godkjenningen av spinosad til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2025/360](https://lovdata.no/eu/32025d0360) om utsettelse av utløpsdatoen for godkjenningen av bromeddiksyre til bruk i biocidprodukter i produkttype 4
+- beslutning [(EU) 2025/432](https://lovdata.no/eu/32025d0432) om utsettelse av utløpsdatoen for godkjenningen av kobbersulfatpentahydrat til bruk i biocidprodukter i produkttype 2
+- beslutning [(EU) 2025/444](https://lovdata.no/eu/32025d0444) om utsettelse av utløpsdatoen for godkjenningen av benzosyre til bruk i biocidprodukter i produkttype 3 og 4
+- beslutning [(EU) 2025/450](https://lovdata.no/eu/32025d0450) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter i produkttype 6
+- beslutning [(EU) 2025/461](https://lovdata.no/eu/32025d0461) om utsettelse av utløpsdatoen for godkjenningen av aluminiumfosfid til bruk i biocidprodukter i produkttype 20
+- beslutning [(EU) 2024/2950](https://lovdata.no/eu/32024d2950) om utsettelse av utløpsdatoen for godkjenningen av N,N-dietyl-meta-toluamid til bruk i biocidprodukter i produkttype 19
+- beslutning [(EU) 2025/946](https://lovdata.no/eu/32025d0946) om utsettelse av utløpsdatoen for godkjenningen av kaprylsyre til bruk i biocidprodukter i produkttype 4
+- beslutning [(EU) 2025/1791](https://lovdata.no/eu/32025d1791) om utsettelse av utløpsdatoen for godkjenningen av imidakloprid til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2025/1792](https://lovdata.no/eu/32025d1792) om utsettelse av utløpsdatoen for godkjenningen av etylbutylacetylaminopropionat til bruk i biocidprodukter i produkttype 19
+- beslutning [(EU) 2025/1778](https://lovdata.no/eu/32025d1778) om utsettelse av utløpsdatoen for godkjenningen av kobberpyrition til bruk i biocidprodukter i produkttype 21
+- beslutning [(EU) 2025/1779](https://lovdata.no/eu/32025d1779) om utsettelse av utløpsdatoen for godkjenningen 0av azoksystrobin til bruk i biocidprodukter i produkttype 7, 9 og 10
+- beslutning [(EU) 2025/1806](https://lovdata.no/eu/32025d1806) om utsettelse av utløpsdatoen for godkjenningen av transflutrin til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2025/1809](https://lovdata.no/eu/32025d1809) om utsettelse av utløpsdatoen for godkjenningen av zineb til bruk i biocidprodukter i produkttype 21
+- beslutning [(EU) 2025/1811](https://lovdata.no/eu/32025d1811) om utsettelse av utløpsdatoen for godkjenningen av 4,5-diklor-2-oktyl-2H-isotiazol-3-on til bruk i biocidprodukter i produkttype 8 og 21, jf. [EØS-avtalen vedlegg II kapittel XV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzzzzzzzzzzzi
+- beslutning [(EU) 2025/1814](https://lovdata.no/eu/32025d1814) om utsettelse av utløpsdatoen for godkjenningen av laurinsyre til bruk i biocidprodukter i produkttype 19
+- beslutning [(EU) 2025/1807](https://lovdata.no/eu/32025d1807) om utsettelse av utløpsdatoen for godkjenningen av kobbertiocyanat til bruk i biocidprodukter i produkttype 21
+- beslutning [(EU) 2025/1812](https://lovdata.no/eu/32025d1812) om utsettelse av utløpsdatoen for godkjenningen av dikobberoksid til bruk i biocidprodukter i produkttype 21
+- beslutning [(EU) 2025/944](https://lovdata.no/eu/32025d0944) om utsettelse av utløpsdatoen for godkjenningen av DDA-karbonat til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2025/945](https://lovdata.no/eu/32025d0945) om utsettelse av utløpsdatoen for godkjenningen av nonansyre til bruk i biocidprodukter i produkttype 2
+- beslutning [(EU) 2025/947](https://lovdata.no/eu/32025d0947) om utsettelse av utløpsdatoen for godkjenningen av jod til bruk i biocidprodukter i produkttype 3
+- beslutning [(EU) 2025/949](https://lovdata.no/eu/32025d0949) om utsettelse av utløpsdatoen for godkjenningen av dekansyre til bruk i biocidprodukter i produkttype 4
+- beslutning [(EU) 2025/950](https://lovdata.no/eu/32025d0950) om utsettelse av utløpsdatoen for godkjenningen av 1R-transfenotrin til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2025/951](https://lovdata.no/eu/32025d0951) om utsettelse av utløpsdatoen for godkjenningen av polyvinylpyrrolidon-jod til bruk i biocidprodukter i produkttype 1 og 3
+- beslutning [(EU) 2025/952](https://lovdata.no/eu/32025d0952) om utsettelse av utløpsdatoen for godkjenningen av S-metopren til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2025/953](https://lovdata.no/eu/32025d0953) om utsettelse av utløpsdatoen for godkjenningen av medetomidin til bruk i biocidprodukter i produkttype 21
+- beslutning [(EU) 2025/970](https://lovdata.no/eu/32025d0970) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2025/998](https://lovdata.no/eu/32025d0998) om utsettelse av utløpsdatoen for godkjenningen av bis(N-sykloheksyldiazeniumdioksy)-kobber (Cu-HDO) til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2025/1808](https://lovdata.no/eu/32025d1808) om utsettelse av utløpsdatoen for godkjenningen av *Pythium oligandrum* stamme M1 til bruk i biocidprodukter i produkttype 10
+- beslutning [(EU) 2025/2279](https://lovdata.no/eu/32025d2279) om utsettelse av utløpsdatoen for godkjenningen av aluminiumfosfid som frigir fosfin til bruk i biocidprodukter i produkttype 14, 18 og 20
+- beslutning [(EU) 2025/2282](https://lovdata.no/eu/32025d2282) om utsettelse av utløpsdatoen for godkjenningen av kolekalsiferol til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2025/2283](https://lovdata.no/eu/32025d2283) om utsettelse av utløpsdatoen for godkjenningen av lambda-cyhalotrin til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2025/2284](https://lovdata.no/eu/32025d2284) om utsettelse av utløpsdatoen for godkjenningen av magnesiumfosfid som frigir fosfin til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2025/2299](https://lovdata.no/eu/32025d2299) om utsettelse av utløpsdatoen for godkjenningen av Bacillus thuringiensis subsp. israelensis serotype H14, stamme AM65-52 til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2025/2301](https://lovdata.no/eu/32025d2301) om utsettelse av utløpsdatoen for godkjenningen av deltametrin
+- beslutning [(EU) 2026/377](https://lovdata.no/eu/32026d0377) om utsettelse av utløpsdatoen for godkjenningen av Bacillus sphaericus 2362 serotype H5a5b, stamme ABTS1743 til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2026/336](https://lovdata.no/eu/32026d0336) om utsettelse av utløpsdatoen for godkjenningen av permetrin til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2026/337](https://lovdata.no/eu/32026d0337) om utsettelse av utløpsdatoen for godkjenningen av alfacypermetrin til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2026/380](https://lovdata.no/eu/32026d0380) om utsettelse av utløpsdatoen for godkjenningen av propan-2-ol til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2026/381](https://lovdata.no/eu/32026d0381) om utsettelse av utløpsdatoen for godkjenningen av tebukonazol til bruk i biocidprodukter i produkttype 18
+- beslutning [(EU) 2026/576](https://lovdata.no/eu/32026d0576) om utsettelse av utløpsdatoen for godkjenningen av basisk kobberkarbonat til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2026/578](https://lovdata.no/eu/32026d0578) om utsettelse av utløpsdatoen for godkjenningen av alfakloralose til bruk i biocidprodukter i produkttype 14
+- beslutning [(EU) 2026/579](https://lovdata.no/eu/32026d0579) om utsettelse av utløpsdatoen for godkjenningen av kobberhydroksid til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2026/619](https://lovdata.no/eu/32026d0619) om utsettelse av utløpsdatoen for godkjenningen av kobber(II)oksid til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2026/1103](https://lovdata.no/eu/32026d1103) om utsettelse av utløpsdatoen for godkjenningen av PHMB (1415; 4.7) til bruk i biocidprodukter i produkttype 2 og 4
+- beslutning [(EU) 2026/1109](https://lovdata.no/eu/32026d1109) om utsettelse av utløpsdatoen for godkjenningen av glutaraldehyd til bruk i biocidprodukter i produkttype 2, 3, 4, 6, 11 og 12
+- beslutning [(EU) 2026/1111](https://lovdata.no/eu/32026d1111) om utsettelse av utløpsdatoen for godkjenningen av dinatriumtetraborat til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2026/1128](https://lovdata.no/eu/32026d1128) om utsettelse av utløpsdatoen for godkjenningen av borsyre til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2026/1129](https://lovdata.no/eu/32026d1129) om utsettelse av utløpsdatoen for godkjenningen av IPBC til bruk i biocidprodukter i produkttype 8
+- beslutning [(EU) 2026/1089](https://lovdata.no/eu/32026d1089) om utsettelse av utløpsdatoen for godkjenningen av medetomidin til bruk i biocidprodukter i produkttype 21
+
+### Norsk oversettelse av forordning om framgangsmåte for endring av vedlegg I til biocidforordningen
+
+Her gjengis til informasjon Utenriksdepartementets oversettelse av forordning [(EU) nr. 88/2014](https://lovdata.no/eu/32014r0088) om fastsettelse av en framgangsmåte for endring av vedlegg I til biocidforordningen.
+
+### Norsk oversettelse av forordning om endringer av biocidprodukter som er godkjent i henhold til biocidforordningen
+
+Her gjengis til informasjon Utenriksdepartementets oversettelse av forordning [(EU) nr. 354/2013](https://lovdata.no/eu/32013r0354) om endringer av biocidprodukter som er godkjent i henhold til biocidforordningen.
+
+### Norske oversettelser av rettsakter om fornyelse av godkjenninger
+
+Her gjengis til informasjon Utenriksdepartementets oversettelse av følgende forordning [(EU) nr. 492/2014](https://lovdata.no/eu/32014r0492) om utfylling av biocidforordningen med hensyn til reglene for fornyelse av godkjenninger av biocidprodukter som omfattes av gjensidig anerkjennelse.
+
+### Norske oversettelser av forordninger om samme produkt
+
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av følgende forordninger om samme produkt:
+
+- forordning [(EU) nr. 414/2013](https://lovdata.no/eu/32013r0414) om fastsettelse av en framgangsmåte for godkjenning av like biocidprodukter i samsvar med biocidforordningen
+- forordning [(EU) 2016/1802](https://lovdata.no/eu/32016r1802) om endring av forordning [(EU) nr. 414/2013](https://lovdata.no/eu/32013r0414).
+
+### Norske oversettelser av rettsakter om tolkning av definisjoner
+
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av følgende rettsakter om tolkning av definisjoner:
+
+- beslutning [(EU) 2015/646](https://lovdata.no/eu/32015d0646) om bakteriekulturer som er beregnet til å redusere fast organisk materiale og som skal bringes i omsetning med dette formål i medhold av artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2015/655](https://lovdata.no/eu/32015d0655) om en polydimetylsiloksanbasert formulering brakt i omsetning for å bekjempe mygg i medhold av artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2015/1985](https://lovdata.no/eu/32015d1985) om et antiviralt lommetørkle impregnert med sitronsyre i medhold av artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2015/411](https://lovdata.no/eu/32015d0411) om kationiske polymere bindemidler med kvartære ammoniumforbindelser som blandes i maling og overflatefilmer i medhold av artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2016/903](https://lovdata.no/eu/32016d0903) om et hestedekken impregnert med permetrin som brukes til bekjempelse av plagsomme insekter i hestens omgivelser i medhold av artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2016/904](https://lovdata.no/eu/32016d0904) om propan-2-ol-holdige produkter som brukes til hånddesinfeksjon i medhold av artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2016/1943](https://lovdata.no/eu/32016d1943) om bruk av parafinolje til påføring på egg for å kontrollere bestander av rugende fugl i medhold av artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2018/1623](https://lovdata.no/eu/32018d1623) om mygg som på ikke-naturlig måte er blitt smittet med Wolbachia og benyttet til bekjempelse av smittebærere i henhold til artikkel 3 nr. 3
+- beslutning [(EU) 2016/678](https://lovdata.no/eu/32016d0678) om et produkt som består av tørkede lavendelblomster i en pose som bringes i omsetning for å beskytte mot møll i medhold av artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2022/146](https://lovdata.no/eu/32022d0146) om bestemmelse av om et produkt som inneholder alkyl(C12-16) dimetylbenzylammoniumklorid er et biocidprodukt i henhold til artikkel 3(3) i biocidforordningen
+- beslutning [(EU) 2022/1497](https://lovdata.no/eu/32022d1497) om bestemmelse av om et produkt som inneholder ekspellerpresset oleoresin av Capsicum, er et biocidprodukt i henhold til artikkel 3(3) i biocidforordningen
+
+### Norske oversettelser av beslutninger om uenigheter ved gjensidige godkjenninger
+
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av følgende beslutninger om uenigheter ved gjensidige godkjenninger:
+
+- beslutning [2014/402/EU](https://lovdata.no/eu/32014d0402) om begrensning i godkjenninger av biocidprodukter som inneholder IPBC, meldt av Tyskland i samsvar med biociddirektivet [98/8/EF](https://lovdata.no/eu/31998l0008)
+- beslutning [2014/756/EU](https://lovdata.no/eu/32014d0756) om begrensning av godkjenninger av biocidprodukter som inneholder IPBC og propikonazol, meldt av Tyskland i samsvar med biociddirektivet [98/8/EF](https://lovdata.no/eu/31998l0008)
+- beslutning [2014/757/EU](https://lovdata.no/eu/32014d0757) om begrensning av godkjenningen av et biocidprodukt som inneholder IPBC, meldt av Tyskland i samsvar med biociddirektivet [98/8/EF](https://lovdata.no/eu/31998l0008)
+- beslutning [2014/758/EU](https://lovdata.no/eu/32014d0758) om avvisning av avslaget på godkjenningen av et biocidprodukt meldt av Tyskland i samsvar med biociddirektivet [98/8/EF](https://lovdata.no/eu/31998l0008)
+- beslutning [(EU) 2015/1751](https://lovdata.no/eu/32015d1751) om vilkårene for godkjenning av et biocidprodukt som inneholder bromadiolon forelagt av Det forente kongerike i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2016/1174](https://lovdata.no/eu/32016d1174) om vilkårene for godkjenning av et biocidprodukt som inneholder difenakum, forelagt av Spania i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2016/1175](https://lovdata.no/eu/32016d1175) om vilkårene for godkjenning av et biocidprodukt som inneholder spinosad, forelagt av Det forente kongerike i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2018/1477](https://lovdata.no/eu/32018d1477) om vilkårene for godkjenning av biocidprodukter som inneholder etylbutylacetylaminopropionat, forelagt av Belgia i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2018/1305](https://lovdata.no/eu/32018d1305) om vilkårene for godkjenning av en biocidproduktfamilie som inneholder deltametrin, forelagt av Sverige i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2019/641](https://lovdata.no/eu/32019d0641) om vilkårene for godkjenning av en biocidproduktfamilie som inneholder 1R-transfentrin, forelagt av Irland i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2019/1331](https://lovdata.no/eu/32019d1331) om vilkårene for godkjenning av et biocidprodukt som inneholder peppermynteolje og sitronellal, forelagt av Det forente kongerike i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2021/2148](https://lovdata.no/eu/32021d2148) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktfamilien Oxybio i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2021/2149](https://lovdata.no/eu/32021d2149) om uløste innvendinger med hensyn til vilkårene for midlertidig godkjenning av et biocidprodukt som inneholder 5-klor-2-metyl-2H-isotiazol-3-on (C(M)IT), forelagt av Frankrike i samsvar med artikkel 36 nr. 1 i biocidforordningen
+- beslutning [(EU) 2021/2174](https://lovdata.no/eu/32021d2174) om uløste innvendinger med hensyn til vilkårene for godkjenning av biocidproduktet Konservan P40 i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2021/2166](https://lovdata.no/eu/32021d2166) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Teknol Aqua 1411-01 i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2022/1005](https://lovdata.no/eu/32022d1005) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktfamilien Alphachloralose Grain, forelagt av Frankrike og Sverige i samsvar med biocidforordningen
+- beslutning [(EU) 2022/1006](https://lovdata.no/eu/32022d1006) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktfamilien Alphachloralose Pasta, forelagt av Frankrike og Sverige i samsvar med biocidforordningen
+- beslutning [(EU) 2022/323](https://lovdata.no/eu/32022d0323) om de uløste innvendingene med hensyn til om vilkårene for godkjenning av biocidproduktet Sojet i samsvar med biocidforordningen
+- beslutning [(EU) 2022/1388](https://lovdata.no/eu/32022d1388) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Pat'Appât Souricide Canadien Foudroyant forelagt av Frankrike og Sverige i samsvar med biocidforordningen
+- beslutning [(EU) 2022/835](https://lovdata.no/eu/32022d0835) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Primer Stain TIP i samsvar biocidforordningen
+- beslutning [(EU) 2022/866](https://lovdata.no/eu/32022d0866) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Primer PIP i samsvar med biocidforordningen
+- beslutning [(EU) 2022/874](https://lovdata.no/eu/32022d0874) om vilkårene for godkjenning av et biocidprodukt som inneholder N-(triklormetyltio)ftalimid (folpet) forelagt av Nederland i samsvar med artikkel 36 (1) i biocidforordningen.
+- beslutning [(EU) 2022/1494](https://lovdata.no/eu/32022d1494) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Mouskito Spray i samsvar med biocidforordningen.
+- beslutning [(EU) 2022/1515](https://lovdata.no/eu/32022d1515) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Mouskito Junior Lotion i samsvar med biocidforordningen.
+- beslutning [(EU) 2022/2054](https://lovdata.no/eu/32022d2054) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Preventol A 12 TK 50 i samsvar med biocidforordningen.
+- beslutning [(EU) 2023/2630](https://lovdata.no/eu/32023d2630) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Procalx i samsvar med biocidforordningen.
+- beslutning [(EU) 2023/2672](https://lovdata.no/eu/32023d2672) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet INTEROX Biocidal Product Family 2 i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2023/1155](https://lovdata.no/eu/32023d1155) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Rapid Pro forelagt av Frankrike i samsvar med biocidforordningen
+- beslutning [(EU) 2023/1157](https://lovdata.no/eu/32023d1157) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Virazan forelagt av Frankrike i samsvar med biocidforordningen
+- beslutning [(EU) 2024/1286](https://lovdata.no/eu/32024d1286) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet BOMBEX® PEBBYS® CS i samsvar med artikkel 36 i biocidforordningen
+- beslutning [(EU) 2024/1305](https://lovdata.no/eu/32024d1305) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Elector i samsvar med biocidforordningen
+- beslutning [(EU) 2024/2712](https://lovdata.no/eu/32024d2712) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Phenogen i samsvar med biocidforordningen.
+- beslutning [(EU) 2025/2280](https://lovdata.no/eu/32025d2280) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Speed Easy Clean i samsvar med biocidforordningen
+- beslutning [(EU) 2025/2297](https://lovdata.no/eu/32025d2297) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet Saltidin 20 % Outdoor i samsvar med biocidforordningen
+- beslutning [(EU) 2025/2309](https://lovdata.no/eu/32025d2309) om de uløste innvendingene med hensyn til vilkårene for godkjenning av biocidproduktet ERO MP i samsvar med biocidforordningen
+
+### Norsk oversettelse av forordning om gebyrer og avgifter til Det europeiske kjemikaliebyrået
+
+Her gjengis til informasjon Utenriksdepartementets oversettelse av følgende forordninger om gebyrer og avgifter til Det europeiske kjemikaliebyrået:
+
+- forordning [(EU) nr. 564/2013](https://lovdata.no/eu/32013r0564) om gebyrer og avgifter til Det europeiske kjemikalibyrå i henhold til biocidforordningen
+- forordning [(EU) 2025/1490](https://lovdata.no/eu/32025r1490) om endring av forordning [(EU) nr. 564/2013](https://lovdata.no/eu/32013r0564)
+
+### Norsk oversettelse av forordning om vitenskapelige kriterier til identifisering av hormonforstyrrende stoffer
+
+Her gjengis til informasjon Utenriksdepartementets oversettelse av forordning [(EU) 2017/2100](https://lovdata.no/eu/32017r2100) om vitenskapelige kriterier til identifisering av hormonforstyrrende stoffer.
+
+### Norsk oversettelse av beslutninger om sammenlignende vurdering av biocidprodukter
+
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av følgende rettsakter om sammenlignende vurdering av biocidprodukter:
+
+- beslutning [(EU) 2017/1532](https://lovdata.no/eu/32017d1532) om spørsmål om den sammenlignende vurderingen av antikoagulerende muse- og rottemidler i samsvar med artikkel 23(5) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528)
+- beslutning [(EU) 2024/816](https://lovdata.no/eu/32024d0816) om spørsmål om den andre sammenlignende vurderingen av antikoagulerende muse- og rottemidler i samsvar med artikkel 23(5) i forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528)
+
+## Fotnoter
+
+**1.** Alle artikler refererer til forordning [(EU) nr. 528/2012](https://lovdata.no/eu/32012r0528) (BPR).
+
+**2.** I tilfeller hvor et produkt inneholder flere aktive stoffer i vurderingsprogrammet er fristen for søknad om produktgodkjenning lik søknadsfristen for det aktive stoffet i produktet som senest er oppført på EUs liste over godkjente stoffer, jf. biocidforordningen artikkel 9.2, jf. [biocidforskriften § 1-1](for-2017-04-18-480-biocidforskriften.md).
+
+**3.** Det enkelte produkt må være i samsvar med de vilkårene som fremgår av de aktuelle vedtakene om godkjenning, jf. biocidforordningen artikkel 9.1a), jf. [biocidforskriften § 1-1](for-2017-04-18-480-biocidforskriften.md).
+
+**4.** Aktivt stoff som ikke er del av vurderingsprogrammet i angitt produkttype, og har derfor ingen frist for søknad om produktgodkjenning. Produktene må være godkjent før de kan markedsføres, med mindre de oppfyller biocidforordningens artikkel 89(2)(b) første ledd.
+
+**5.** Erstatter [2009/91/EF](https://lovdata.no/eu/32009l0091). 2 nye CAS-nr. legges til slik at det blir totalt 3 CAS-nr. under stoffnavn dinatrium tetraborat.
+
+**6.** Dato gitt i tabellen gjelder for omsetningsforbud. Bruk er forbudt 6 måneder etter denne dato.
+
+**7.** Henviser til post i vedlegg II til forordning [(EU) nr. 1062/2014](https://lovdata.no/eu/32014r1062*).

@@ -1,0 +1,83 @@
+# Forskrift om tvisteløsningsnemnd etter arbeidsmiljøloven
+
+- **Korttittel:** Forskrift om tvisteløsningsnemnd etter aml.
+- **Datokode:** FOR-2005-12-16-1569
+- **DokumentID:** SF/forskrift/2005-12-16-1569
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Arbeidsmiljø- og sikkerhetsavd.
+- **Hjemmel:** lov 17.06.2005 nr. 62/§17-2; lov/1967-02-10/§28
+- **Publisert i:** I 2005 hefte 16
+- **Kunngjort:** 2005-12-21
+- **I kraft fra:** 2006-01-01
+- **Siste endring i kraft:** 2019-11-01
+- **Sist endret ved:** forskrift 29.10.2019 nr. 1439 fra 2019-11-01
+- **Endrer:** forskrift 21.12.2000 nr. 1367; forskrift 10.12.1993 nr. 1124
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 16. desember 2005 med hjemmel i lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 17-2 fjerde ledd og lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 28 fjerde ledd. Fremmet av Arbeids- og sosialdepartementet. Endret ved forskrifter 17 aug 2009 nr. 1076, 18 des 2014 nr. 1782, 23 juni 2016 nr. 781 som endret ved forskrift 27 okt 2016 nr. 1249, 24 aug 2017 nr. 1284, 29 okt 2019 nr. 1439 (i kraft 1 nov 2019).
+- **Kilde:** <https://lovdata.no/forskrift/2005-12-16-1569>
+
+## § 1. Tvisteløsningsnemndas oppnevning og organisering
+
+(1) Kongen oppnevner tvisteløsningsnemnda. Nemnda skal ha én leder, inntil to nestledere og seks ordinære faste medlemmer. For de seks ordinære medlemmene oppnevnes to varamedlemmer. Nemndas medlemmer har en funksjonstid på tre år.
+
+(2) Tre av de seks ordinære medlemmene oppnevnes etter forslag fra arbeidstakersiden og tre etter forslag fra arbeidsgiversiden. På tilsvarende måte oppnevnes varamedlemmene, med én fra hver side. Forslagsrett i henhold til denne bestemmelsen har de organisasjoner som har innstillingsrett etter [lov 27. januar 2012 nr. 9](../lover/lov-2012-01-27-9-arbeidstvistloven.md) om arbeidstvister [§ 39](../lover/lov-2012-01-27-9-arbeidstvistloven.md). Forslagsrett har også det departementet som statens lønnssaker hører under.
+
+(3) Leder og nestledere skal ha juridisk embetseksamen og særlig innsikt i arbeidslivsspørsmål.
+
+(4) Tvisteløsningsnemnda skal innen 1. mars avgi beretning til departementet om nemndas virksomhet det foregående året.
+
+*Endret ved [forskrifter 17 aug 2009 nr. 1076](https://lovdata.no/forskrift/2009-08-17-1076), [23 juni 2016 nr. 781](https://lovdata.no/forskrift/2016-06-23-781) som endret ved [forskrift 27 okt 2016 nr. 1249](https://lovdata.no/forskrift/2016-10-27-1249) (i kraft 28 okt 2016), [29 okt 2019 nr. 1439](https://lovdata.no/forskrift/2019-10-29-1439) (i kraft 1 nov 2019).*
+
+## § 2. Tvisteløsningsnemndas sammensetning i den enkelte sak
+
+(1) Nemnda skal i den enkelte sak ledes av nemndas leder eller en av nestlederne. For øvrig settes nemnda med ett fast medlem oppnevnt etter forslag fra arbeidstakersiden og ett fast medlem oppnevnt etter forslag fra arbeidsgiversiden. Dersom et av nemndas faste medlemmer av hensyn til sakens opplysning krever det, skal nemnda utvides med ytterligere to medlemmer med særlig kunnskap om den bransjen som er berørt i saken (bransjemedlemmer). I de tilfellene det oppnevnes bransjemedlemmer, sitter disse som medlemmer i nemnda på lik linje med de faste medlemmene, og ikke som representanter for partene i saken.
+
+(2) Når det besluttes at det skal oppnevnes bransjemedlemmer, sørger den som leder saken for oppnevningen. Det ene bransjemedlemmet skal være fra arbeidstakersiden og det andre fra arbeidsgiversiden.
+
+(3) Dersom både leder og nestleder er inhabile til å behandle en sak, oppnevner departementet setteleder til å behandle saken. På samme måte kan departementet oppnevne settemedlemmer dersom det for øvrig er nødvendig for å få behandlet saken.
+
+*Endret ved [forskrifter 17 aug 2009 nr. 1076](https://lovdata.no/forskrift/2009-08-17-1076), [23 juni 2016 nr. 781](https://lovdata.no/forskrift/2016-06-23-781) som endret ved [forskrift 27 okt 2016 nr. 1249](https://lovdata.no/forskrift/2016-10-27-1249) (i kraft 28 okt 2016), [29 okt 2019 nr. 1439](https://lovdata.no/forskrift/2019-10-29-1439) (i kraft 1 nov 2019).*
+
+## § 3. Tvisteløsningsnemndas sekretariat
+
+(1) Direktoratet for arbeidstilsynet er sekretariat for tvisteløsningsnemnda. Sekretariatet forbereder sakene og innkaller i samråd med nemndas leder eller nestleder til møte når det er nødvendig.
+
+*Endret ved [forskrifter 18 des 2014 nr. 1782](https://lovdata.no/forskrift/2014-12-18-1782) (i kraft 1 jan 2015), [23 juni 2016 nr. 781](https://lovdata.no/forskrift/2016-06-23-781) som endret ved [forskrift 27 okt 2016 nr. 1249](https://lovdata.no/forskrift/2016-10-27-1249) (i kraft 28 okt 2016).*
+
+## § 4. Frist for å fremme sak for tvisteløsningsnemnda
+
+(1) Sak må reises for tvisteløsningsnemnda senest fire uker etter at arbeidsgivers skriftlige avslag er kommet frem til arbeidstaker. Fristen beregnes og avbrytes etter reglene i domstolloven kapittel 8.
+
+(2) I utdanningspermisjonssaker kan sak fremmes senest fire uker etter utløpet av arbeidsgivers svarfrist etter [arbeidsmiljøloven § 12-11](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md) femte ledd dersom arbeidsgiver ikke har svart innen fristen.
+
+(3) Sak om rett til delvis permisjon etter [arbeidsmiljøloven § 12-6](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md) tas til behandling selv om fireukersfristen er utløpt dersom fødsel eller omsorgsovertakelse medførte oversittelse av fristen. Saken må i så fall fremsettes snarest mulig etter fødselen eller omsorgsovertakelsen.
+
+(4) For nemndas behandling av saker om ansattes rett til representasjon i styrende organer gjelder ingen frist. Valgklager må likevel være fremmet for valgstyret innen to uker fra det tidspunkt vedtak er kunngjort for de ansatte.
+
+*Endret ved [forskrifter 23 juni 2016 nr. 781](https://lovdata.no/forskrift/2016-06-23-781) som endret ved [forskrift 27 okt 2016 nr. 1249](https://lovdata.no/forskrift/2016-10-27-1249) (i kraft 28 okt 2016), [24 aug 2017 nr. 1284](https://lovdata.no/forskrift/2017-08-24-1284) (i kraft 1 jan 2018).*
+
+## § 5. Tvisteløsningsnemndas behandling
+
+(1) Sak skal fremmes skriftlig overfor tvisteløsningsnemnda av arbeidstaker eller arbeidsgiver.
+
+(2) Dersom det er åpenbart at vilkårene for realitetsbehandling ikke er oppfylt, kan tvisteløsningsnemndas leder eller nestleder alene avvise den. For øvrig behandler nemnda saken i møte på grunnlag av de skriftlige fremstillinger som partene har gitt og de dokumentbevis partene har fremlagt. Nemnda kan innkalle partene dersom den mener at det er nødvendig for sakens opplysning.
+
+(3) Avgjørelse kan fattes etter sirkulasjon av saksdokumentene dersom møtebehandling åpenbart anses unødvendig eller volder særlige ulemper.
+
+(4) Tvisteløsningsnemndas vedtak fattes med alminnelig flertall og skal begrunnes. Det skal føres protokoll.
+
+*Endret ved [forskrifter 23 juni 2016 nr. 781](https://lovdata.no/forskrift/2016-06-23-781) som endret ved [forskrift 27 okt 2016 nr. 1249](https://lovdata.no/forskrift/2016-10-27-1249) (i kraft 28 okt 2016), [29 okt 2019 nr. 1439](https://lovdata.no/forskrift/2019-10-29-1439) (i kraft 1 nov 2019).*
+
+## § 6. Forholdet til forvaltningsloven
+
+Tvisteløsningsnemndas vedtak kan ikke påklages. For øvrig gjelder [forvaltningsloven 10. februar 1967](../lover/lov-1967-02-10-forvaltningsloven.md) for tvisteløsningsnemndas saksbehandling.
+
+## § 7. Endringer
+
+Departementet kan fastsette endringer i denne forskriften.
+
+## § 8. Ikrafttredelse
+
+(1) Forskriften trer i kraft 1. januar 2006.
+
+(2) Fra samme tidspunkt oppheves [forskrift 21. desember 2000 nr. 1367](https://lovdata.no/forskrift/2000-12-21-1367) om tvistenemnd i utdanningspermisjonssaker og [forskrift 10. desember 1993 nr. 1124](https://lovdata.no/forskrift/1993-12-10-1124) om ankenemnda i tidskontosaker.

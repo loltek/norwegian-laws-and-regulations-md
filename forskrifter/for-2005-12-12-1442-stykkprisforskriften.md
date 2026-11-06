@@ -1,0 +1,197 @@
+# Forskrift om salær fra det offentlige til advokater m.fl. etter faste satser (stykkprissatser) ved fri rettshjelp og i straffesaker
+
+- **Korttittel:** Stykkprisforskriften
+- **Datokode:** FOR-2005-12-12-1442
+- **DokumentID:** SF/forskrift/2005-12-12-1442
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Sivilavd.
+- **Hjemmel:** lov 22.05.1981 nr. 25/§78; lov 22.05.1981 nr. 25/§107; lov 22.05.1981 nr. 25/§107d; forskrift 08.10.1982 nr. 1445; forskrift 13.12.1985 nr. 2095; lov 13.06.1980 nr. 35/§3; lov 13.06.1980 nr. 35/§7; forskrift 03.12.1997 nr. 1441/§2
+- **Publisert i:** I 2005 hefte 15
+- **Kunngjort:** 2005-12-15
+- **I kraft fra:** 2006-01-01
+- **Siste endring i kraft:** 2025-10-15
+- **Sist endret ved:** forskrift 26.09.2025 nr. 1962 fra 2025-10-15
+- **Endrer:** forskrift 18.09.2001 nr. 1088
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2022-07-04 (Oppdatert lenke til departementets veileder)
+- **Merknad:** Hjemmel: Fastsatt av Justis- og politidepartementet 12. desember 2005 med hjemmel i lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven) § 78, § 107 og § 107d, jf. delegeringsvedtak 8. oktober 1982 nr. 1445 og delegeringsvedtak 13. desember 1985 nr. 2095, lov 13. juni 1980 nr. 35 om fri rettshjelp § 3 og § 7, jf. delegeringsvedtak 8. oktober 1982 nr. 1445, og forskrift 3. desember 1997 nr. 1441 om salær fra det offentlige til advokater m.v. § 2 tredje ledd. Endret ved forskrifter 21 des 2006 nr. 1592, 21 des 2007 nr. 1607, 20 des 2007 nr. 1677, 1 juli 2008 nr. 773, 19 des 2014 nr. 1859, 13 juni 2017 nr. 773, 3 des 2018 nr. 2071, 6 nov 2019 nr. 1602 (i kraft 1 jan 2020), 23 feb 2020 nr. 184, 12 mai 2021 nr. 1692 (i kraft 1 juni 2021), 7 juni 2022 nr. 990 (i kraft 1 juli 2022), 27 juni 2022 nr. 1196 (i kraft 1 juli 2022), 23 aug 2022 nr. 1473, 23 sep 2022 nr. 1636 (i kraft 1 jan 2023), 21 mars 2023 nr. 364 (i kraft 1 april 2023), 27 juni 2024 nr. 1364 (i kraft 1 sep 2024), 13 des 2024 nr. 3123 (i kraft 1 jan 2025), 24 juni 2025 nr. 1199 (i kraft 1 juli 2025), 26 sep 2025 nr. 1962 (i kraft 15 okt 2025). Rettelser: 01.01.2020 (Tilføyd lenke til departementets veiledning), 04.07.2022 (oppdatert lenke til departementets veileder). Veileder til forskriften: Se Justis- og beredskapsdepartementets Veileder til stykkprisforskriften.
+- **Kilde:** <https://lovdata.no/forskrift/2005-12-12-1442>
+
+## Kapittel I. Alminnelige bestemmelser
+
+### § 1. Forskriftens anvendelsesområde
+
+Forskriften gjelder betaling for bistand fra advokater og andre etter [rettshjelpsloven](../lover/lov-1980-06-13-35-rettshjelpsloven.md) i saker som faller inn under forskriftens [kapittel II](for-2005-12-12-1442-stykkprisforskriften.md).
+
+Forskriften gjelder også betaling for bistand fra advokat som tilkommer offentlig salær etter [straffeprosessloven](../lover/lov-1981-05-22-25-straffeprosessloven.md) i saker som faller inn under forskriftens [kapittel III](for-2005-12-12-1442-stykkprisforskriften.md).
+
+### § 2. Grunnlag for beregning av stykkpris
+
+Stykkprissatsen beregnes med utgangspunkt i den offentlige salærsats.
+
+Stykkprisbetaling skal kompensere for alt arbeid som er utført i en sak, herunder forberedende arbeid, arbeid i rettsmøte og etterarbeid. Salær etter [salærforskriften § 11](for-1997-12-03-1441-salaerforskriften.md) kommer i tillegg til stykkprisbetalingen. [Salærforskriften § 10](for-1997-12-03-1441-salaerforskriften.md) kommer ikke til anvendelse i saker som betales med stykkpris.
+
+Omfatter bistanden flere klienter i samme sak, skal saken regnes som én rettshjelpssak eller én straffesak, og betales med én stykkpris.
+
+*Endret ved forskrift [1 juli 2008 nr. 773](https://lovdata.no/forskrift/2008-07-01-773).*
+
+### § 3. Skifte av advokat
+
+Ved skifte av advokat skal salær til den advokat som først påtar seg et fritt rettsrådsoppdrag fastsettes etter reglene i denne forskriften. Dette forutsetter at advokaten har arbeidet med saken i slik grad at full stykkpris synes rimelig. Salær til den advokat som overtar saken betales etter reglene om skifte av advokat i [salærforskriften](for-1997-12-03-1441-salaerforskriften.md).
+
+Ved skifte av advokat i fri sakførselssaker og i straffesaker fastsettes salæret etter reglene i [salærforskriften § 12](for-1997-12-03-1441-salaerforskriften.md). Ved skifte av forsvarer i fengslingssaker skal salær både til den forsvareren som først påtar seg oppdraget og den forsvareren som overtar saken, fastsettes etter reglene i denne forskriften.
+
+### § 4. Ventetid/forsinkelser/pauser i forbindelse med rettsmøte
+
+Forsinkelser og ventetid i forkant av rettsmøte i sak som betales etter forskriftens [§ 6](for-2005-12-12-1442-stykkprisforskriften.md) – [§ 10](for-2005-12-12-1442-stykkprisforskriften.md) er ikke grunnlag for beregning av stykkpris. Det samme gjelder pauser under rettsmøtet som ikke er av mindre varighet.
+
+Forsinkelser/ventetid/pauser som er av slik varighet at det ikke med rimelighet kan forventes at advokaten drar tilbake til kontoret og tar fatt på annet inntektsgivende arbeid, betales etter [salærforskriften § 8](for-1997-12-03-1441-salaerforskriften.md).
+
+## Kapittel II. Stykkprisbetaling i saker etter [rettshjelpsloven](../lover/lov-1980-06-13-35-rettshjelpsloven.md)
+
+### § 5. Stykkpris i fritt rettsrådssaker
+
+Bistand i saker som nevnt i annet og tredje ledd som ikke overstiger 2 timer, betales med 1,5 ganger den offentlige salærsats.
+
+Bistand som overstiger 2 timer betales med:
+
+1. *Utlendingssaker og statsborgerskapssaker, jf. [rettshjelploven § 11](../lover/lov-1980-06-13-35-rettshjelpsloven.md) første ledd nr. 1:*
+   a. I sak om bortvisning, utvisning og tilbakekall av gitt tillatelse:
+      - 3 ganger den offentlige salærsats. I saker om utvisning hvor utlendingen har mindreårige barn som er bosatt i Norge og som er norske borgere eller har oppholdstillatelse eller oppholdsrett i Norge, gis det et tillegg med 3 ganger salærsatsen for hvert barn som blir berørt. Når forhåndsvarsel om utvisning gis samtidig med vedtak som fastsetter en utreisefrist, jf. [utlendingsforskriften § 14-5](for-2009-10-15-1286-utlendingsforskriften.md) femte ledd, gis det ikke fritt rettsråd.
+      - Ved klage gis et tillegg med 1 gang salærsatsen. Ved klage over vedtak om utvisning i saker der forhåndsvarsel om utvisning ble gitt samtidig med vedtak som fastsetter en utreisefrist, jf. [utlendingsforskriften § 14-5](for-2009-10-15-1286-utlendingsforskriften.md) femte ledd, gis det 4 ganger salærsatsen. Ved klage over vedtak om utvisning hvor utlendingen har mindreårige barn som er bosatt i Norge og som er norske borgere eller har oppholdstillatelse eller oppholdsrett i Norge, gis det et tillegg med 2 ganger salærsatsen for hvert barn som blir berørt.
+      - Ved personlig fremmøte i Utlendingsnemnda gis et tillegg med 5 ganger salærsatsen.
+   b. Ved søknad om asyl fra enslig mindreårig asylsøker, i saker som kan berøre rikets sikkerhet, utenrikspolitiske forhold eller der eksklusjon fra flyktningstatus kan bli utfallet:
+      - 3 ganger den offentlige salærsats.
+      - Ved klage gis et tillegg med 5 ganger salærsatsen.
+      - Ved personlig fremmøte i Utlendingsnemnda gis et tillegg med 5 ganger salærsatsen.
+   c. Utlending som klager over negativt vedtak på søknad om asyl:
+      1. I ordinær asylsak: 5 ganger den offentlige salærsats.  
+         Ved personlig fremmøte i Utlendingsnemnda gis et tillegg med 5 ganger salærsatsen.
+      2. I asylsak som anses å være åpenbart grunnløs: 3 ganger den offentlige salærsats.  
+         Ved samtykke om utsatt iverksettelse gis et tillegg med 2 ganger salærsatsen.  
+         Ved personlig fremmøte i Utlendingsnemnda gis et tillegg med 5 ganger salærsatsen.
+      3. I asylsak som behandles etter Dublin III-forordningen og i 1. asyllandsaker: 2 ganger den offentlige salærsats.
+
+         Ved samtykke om utsatt iverksettelse gis et tillegg med 3 ganger salærsatsen.
+
+         Ved personlig fremmøte i Utlendingsnemnda gis et tillegg med 5 ganger salærsatsen.
+   d. Ved personlig fremmøte i stornemnd i Utlendingsnemnda, jf. [utlendingsforskriften § 16-4](for-2009-10-15-1286-utlendingsforskriften.md) og [§ 17-18 tredje ledd](for-2009-10-15-1286-utlendingsforskriften.md):
+      - 10 ganger den offentlige salærsats. Dette gis som et tillegg dersom det også gis fritt rettsråd i forbindelse med fremsettelse av klage eller omgjøringsanmodning i saken.
+   e. I sak om avslag på søknad om statsborgerskap etter [statsborgerloven § 7 annet ledd](../lover/lov-2005-06-10-51-statsborgerloven.md):
+      - 5 ganger den offentlige salærsats.
+   f. For familier gis det i saker som nevnt i a, b, c og d et tillegg med én gang salærsatsen for ektefelle / registrert partner / samboer og for hvert barn mellom 14 og 18 år. For familiemedlemmer over 18 år gis en selvstendig stykkpris.
+2. *Erstatning for urettmessig straffeforfølgning, jf. [rettshjelpsloven § 11](../lover/lov-1980-06-13-35-rettshjelpsloven.md) første ledd nr. 3:*
+   - 5 ganger den offentlige salærsats.
+3. *Voldsofre i erstatningssak mot gjerningsperson, jf. [rettshjelpsloven § 11](../lover/lov-1980-06-13-35-rettshjelpsloven.md) første ledd nr. 4:*
+   - 7 ganger den offentlige salærsats.
+4. *Vurdering av forhold av betydning for anmeldelse, jf. [rettshjelpsloven § 11 første ledd nr. 5](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+   - 3 ganger den offentlige salærsats.
+5. *Personer som har vært utsatt for tvangsekteskap, jf. [rettshjelpsloven § 11 første ledd nr. 6](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+   - 12 ganger den offentlige salærsats.
+6. *Ekteskaps- og familiesaker, jf. [rettshjelpsloven § 11 annet ledd nr. 1](../lover/lov-1980-06-13-35-rettshjelpsloven.md) og [2](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+   a. Saker som kun omfatter felleseieskifte eller økonomisk oppgjør etter oppløsning av husstandsfellesskap:
+      - 7 ganger den offentlige salærsats.
+   b. Saker som omfatter foreldreansvar, daglig omsorg og samværsrett:
+      - 7 ganger den offentlige salærsats.
+   c. Saker som omfatter både saker etter bokstav a og bokstav b:
+      - 12 ganger den offentlige salærsats.
+   d. Øvrige saker som ikke faller inn under bokstav a–c:
+      - 3 ganger den offentlige salærsats.
+7. *Erstatning ved personskade eller tap av forsørger, jf. [rettshjelpsloven § 11 annet ledd nr. 3](../lover/lov-1980-06-13-35-rettshjelpsloven.md) (gjelder ikke søknad om billighetserstatning):*
+   - 7 ganger den offentlige salærsats.
+8. *Saker om utkastelse fra bolig som leietaker bor i, jf. [rettshjelpsloven § 11 annet ledd nr. 4](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+   - 6 ganger den offentlige salærsats
+9. *Oppsigelses- og avskjedigelsessaker i arbeidsforhold, jf. [rettshjelpsloven § 11 annet ledd nr. 5](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+   - 6 ganger den offentlige salærsats.
+10. *Klagesaker etter [folketrygdloven § 21-12](../lover/lov-1997-02-28-19-folketrygdloven.md), jf. [rettshjelpsloven § 11 annet ledd nr. 6](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+    - 7 ganger den offentlige salærsats.
+11. *Saker for statsforvalteren om undersøkelse og behandling uten eget samtykke etter [psykisk helsevernloven](../lover/lov-1999-07-02-62-psykisk-helsevernloven.md), jf. [rettshjelpsloven § 11 første ledd nr. 7](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+    - 5 ganger de offentlige salærsats.
+12. *Klagesaker etter [konfliktrådsloven § 22e](../lover/lov-2014-06-20-49-konfliktraadsloven.md), jf. [rettshjelpsloven § 11 første ledd nr. 8](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+    - 3 ganger den offentlige salærsats.
+13. *Saker etter [straffegjennomføringsloven](../lover/lov-2001-05-18-21-straffegjennomforingsloven.md), jf. [rettshjelpsloven § 11 første ledd nr. 9](../lover/lov-1980-06-13-35-rettshjelpsloven.md) og [10](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+    - 3 ganger den offentlige salærsats ved vurdering av klage.
+    - Ved klage gis et tillegg med 2 ganger satsen.
+    - Ved vurdering av klage eller klage over vedtak om forlengelse gis et tillegg med 3 ganger satsen.
+
+Bistand i saker som ikke omfattes av annet ledd, men som likevel innvilges etter [rettshjelpsloven § 11](../lover/lov-1980-06-13-35-rettshjelpsloven.md) første eller annet ledd, betales med en stykkpris på 7 ganger den offentlige salærsats.
+
+Bistand i saker som innvilges etter [rettshjelpsloven § 11 fjerde ledd](../lover/lov-1980-06-13-35-rettshjelpsloven.md) betales med en stykkpris på 5 ganger den offentlige salærsats.
+
+Overstiger faktisk samlet timeforbruk i ett rettsråd det dobbelte av det timeforbruket som er grunnlag for stykkprissatsen, eller er det på et senere tidspunkt behov for ytterligere bistand i samme sak, gjelder [rettshjelpsforskriften § 15](for-2025-09-26-1961-rettshjelpsforskriften.md).
+
+*Endret ved forskrifter [21 des 2006 nr. 1592](https://lovdata.no/forskrift/2006-12-21-1592) (i kraft 1 jan 2007), [20 des 2007 nr. 1677](https://lovdata.no/forskrift/2007-12-20-1677) (i kraft 1 jan 2008), [1 juli 2008 nr. 773](https://lovdata.no/forskrift/2008-07-01-773), [19 des 2014 nr. 1859](https://lovdata.no/forskrift/2014-12-19-1859) (i kraft 1 jan 2015), [13 juni 2017 nr. 773](https://lovdata.no/forskrift/2017-06-13-773) (i kraft 1 juli 2017), [3 des 2018 nr. 2071](https://lovdata.no/forskrift/2018-12-03-2071) (i kraft 1 jan 2019, kommer til anvendelse på oppdrag påbegynt etter ikrafttredelsen), [12 mai 2021 nr. 1692](https://lovdata.no/forskrift/2021-05-12-1692) (i kraft 1 juni 2021), [27 juni 2022 nr. 1196](https://lovdata.no/forskrift/2022-06-27-1196) (i kraft 1 juli 2022), [23 aug 2022 nr. 1473](https://lovdata.no/forskrift/2022-08-23-1473), [23 sep 2022 nr. 1636](https://lovdata.no/forskrift/2022-09-23-1636) (i kraft 1 jan 2023), [21 mars 2023 nr. 364](https://lovdata.no/forskrift/2023-03-21-364) (i kraft 1 april 2023), [27 juni 2024 nr. 1364](https://lovdata.no/forskrift/2024-06-27-1364) (i kraft 1 sep 2024), [13 des 2024 nr. 3123](https://lovdata.no/forskrift/2024-12-13-3123) (i kraft 1 jan 2025), [24 juni 2025 nr. 1199](https://lovdata.no/forskrift/2025-06-24-1199) (i kraft 1 juli 2025), [26 sep 2025 nr. 1962](https://lovdata.no/forskrift/2025-09-26-1962) (i kraft 15 okt 2025).*
+
+### § 6. Stykkpris i fri sakførselssaker
+
+Bistand i fri sakførselssaker betales med:
+
+1. *Fengsling i utlendingssak, jf. [rettshjelpsloven § 16 første ledd nr. 4](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+   - Den stykkpris som er fastsatt i denne forskriftens [§ 9](for-2005-12-12-1442-stykkprisforskriften.md).
+2. *Sak for barneverns- og helsenemnda, jf. [rettshjelpsloven § 17 tredje ledd nr. 1](../lover/lov-1980-06-13-35-rettshjelpsloven.md) og [2](../lover/lov-1980-06-13-35-rettshjelpsloven.md):*
+   - 2,75 ganger den offentlige salærsats for hver time som medgår de to første dagene, og
+   - 2,4 ganger den offentlige salærsats for hver time som medgår følgende dager.
+
+Hvis faktisk samlet timeforbruk i saken overstiger fastsatt stykkpris med mer enn 50 prosent, gjelder [rettshjelpsforskriften § 19](for-2025-09-26-1961-rettshjelpsforskriften.md). For saker som nevnt i første ledd nr. 1 gjelder forskriftens [§ 11 annet ledd](for-2005-12-12-1442-stykkprisforskriften.md) tilsvarende.
+
+*Endret ved forskrift [26 sep 2025 nr. 1962](https://lovdata.no/forskrift/2025-09-26-1962) (i kraft 15 okt 2025).*
+
+## Kapittel III. Stykkprisbetaling i straffesaker
+
+### § 7. Stykkpris for forsvarer i hoved-/ankeforhandling i tingretten/lagmannsretten
+
+Forsvarers bistand i hoved-/ankeforhandling i tingretten/lagmannsretten betales med 6 ganger den offentlige salærsats dersom hoved-/ankeforhandlingens varighet ikke overstiger 2 timer, og 8 ganger den offentlige salærsats dersom hoved-/ankeforhandlingens varighet ikke overstiger 3,5 timer.
+
+Forsvarers bistand i hoved-/ankeforhandling med varighet over 3,5 timer betales med 2,25 ganger den offentlige salærsats for hver time som medgår under hoved-/ankeforhandlingens første dag og 2 ganger den offentlige salærsats for hver time som medgår følgende dager. I ankeforhandling i lagmannsretten med varighet over 3,5 timer hvor forsvarer har representert tiltalte i tingretten, betales 2 ganger den offentlige salærsats for hver time som medgår første dag, og 1,75 ganger den offentlige salærsats for hver time som medgår følgende dager.
+
+Forsvarer som inngir tilsvar etter [straffeprosessloven § 265](../lover/lov-1981-05-22-25-straffeprosessloven.md) første og andre ledd, får et tillegg på 1 ganger den offentlige salærsatsen. Dersom forsvareren etter oppfordring fra retten inngir utvidet tilsvar etter [§ 265](../lover/lov-1981-05-22-25-straffeprosessloven.md) tredje ledd, får forsvareren et tillegg på 2 ganger den offentlige salærsatsen.
+
+Ved anke over dom godtgjøres forsvarers utferdigelse av støtteskriv til tiltaltes anke og tilsvar til påtalemyndighetens anke med 3 ganger den offentlige salærsatsen i saker hvor hoved- /ankeforhandling har hatt varighet utover 9 timer.
+
+Dersom en omfattende sak er forent med en sak som forutsettes å kreve lite saksforberedelse, kan retten beslutte at salæret til forsvareren i den siste saken skal fastsettes etter reglene i [salærforskriften](for-1997-12-03-1441-salaerforskriften.md).
+
+Har hoved-/ankeforhandlingen varighet utover 5 dager eller blir hoved-/ankeforhandling ikke avholdt, fastsettes hele salæret etter reglene i [salærforskriften](for-1997-12-03-1441-salaerforskriften.md).
+
+Dersom det er avholdt forberedende rettsmøte, bevisopptak, rettslig avhør eller særskilt domsavsigelse, skal bistand ved slike rettsmøter betales særskilt etter reglene i [salærforskriften](for-1997-12-03-1441-salaerforskriften.md).
+
+*Endret ved forskrifter [6 nov 2019 nr. 1602](https://lovdata.no/forskrift/2019-11-06-1602) (i kraft 1 jan 2020, se endringsforskriften for overgangsbestemmelse), [7 juni 2022 nr. 990](https://lovdata.no/forskrift/2022-06-07-990) (i kraft 1 juli 2022).*
+
+### § 8. Stykkpris for forsvarer i tilståelsessak
+
+Forsvarers bistand i sak som behandles etter reglene om tilståelsesdom betales med 4,5 ganger den offentlige salærsats for rettsmøte med varighet inntil 1,5 timer. For rettsmøte av lengre varighet, betales 0,75 ganger salærsatsen for hver overskytende halvtime. Bistand ved skriftlig ankeerklæring eller støtteerklæring til anke betales med 0,5 ganger den offentlige salærsats.
+
+### § 9. Stykkpris for forsvarer ved fengslingsoppdrag
+
+Forsvarers bistand ved førstegangsfengsling betales med 5 ganger den offentlige salærsats for rettsmøte med varighet inntil 1 time. For rettsmøte av lengre varighet betales 0,5 ganger salærsatsen for hver overskytende halvtime.
+
+Forsvarers bistand ved fengslingsforlengelse betales med 2 ganger den offentlige salærsats for rettsmøte med varighet inntil 1 time. For rettsmøte av lengre varighet betales 0,5 ganger den offentlige salærsats for hver overskytende halvtime.
+
+Dersom forsvarers bistand som nevnt i første og annet ledd omfatter utferdigelse av skriftlig ankeerklæring eller støtteskriv til anke, gis et tillegg på 0,5 ganger den offentlige salærsats.
+
+Hver dag i varetektsperioden betales med 0,15 ganger den offentlige salærsats. Forsvarers bistand i fengselsbesøk betales etter reglene i [salærforskriften](for-1997-12-03-1441-salaerforskriften.md), men maksimalt med 1 gang den offentlige salærsats for hver påbegynte periode à 14 dager. Forsvarers bistand i fengselsbesøk hvor siktede er under 18 år på handlingstidspunktet eller underlagt brev- og besøksforbud betales med maksimalt 2 ganger den offentlige salærsats for hver påbegynte periode à 14 dager. Forsvarers bistand i politiavhør betales etter reglene i [salærforskriften](for-1997-12-03-1441-salaerforskriften.md).
+
+*Endret ved forskrifter [21 des 2007 nr. 1607](https://lovdata.no/forskrift/2007-12-21-1607) (i kraft 1 jan 2008, jf endringsforskriften for overgangsregler), [23 feb 2020 nr. 184](https://lovdata.no/forskrift/2020-02-23-184).*
+
+### § 10. Stykkpris for fornærmedes advokat i hoved-/ankeforhandling i straffesaker
+
+Bistand fra fornærmedes advokat i hoved-/ankeforhandling i tingretten/lagmannsretten betales med 2 ganger den offentlige salærsats for hver time som medgår under hoved-/ankeforhandlingens første dag, og 1,75 ganger den offentlige salærsats for hver time som medgår følgende dager. I ankeforhandling i lagmannsretten hvor advokaten har representert fornærmede i tingretten, betales 1,75 ganger den offentlige salærsats for hver time som medgår første dag, og 1,6 ganger den offentlige salærsats for hver time som medgår følgende dager.
+
+Bistand fra fornærmedes advokat i tidsrommet før datoen for tiltalebeslutningen skal honoreres etter [salærforskriften](for-1997-12-03-1441-salaerforskriften.md).
+
+Har hoved-/ankeforhandlingen varighet utover 5 dager eller blir hoved-/ankeforhandling ikke avholdt, fastsettes hele salæret etter reglene i [salærforskriften](for-1997-12-03-1441-salaerforskriften.md).
+
+*Endret ved forskrifter [21 des 2006 nr. 1592](https://lovdata.no/forskrift/2006-12-21-1592) (i kraft 1 jan 2007 og kommer til anvendelse på oppdrag påbegynt etter ikrafttredelsen), [1 juli 2008 nr. 773](https://lovdata.no/forskrift/2008-07-01-773) (gjelder for oppdrag hvor det tas ut tiltale etter 1 juli 2008).*
+
+### § 11. Overskridelse av stykkprisgrunnlaget
+
+Hvis faktisk samlet timeforbruk i en sak som betales etter denne forskriftens [§ 7](for-2005-12-12-1442-stykkprisforskriften.md) – [§ 10](for-2005-12-12-1442-stykkprisforskriften.md) overstiger fastsatt stykkpris med mer enn 50%, og det godtgjøres at det foreligger særlige omstendigheter ved oppdraget som begrunner en slik timebruk, fastsettes hele salæret etter reglene i [salærforskriften.](for-1997-12-03-1441-salaerforskriften.md)
+
+I saker hvor stykkprisen består av flere komponenter, legges den samlede stykkprisen til grunn ved anvendelsen av første ledd. Dette er ikke til hinder for fortløpende betaling etter stykkpris i fengslingssaker. Stykkpris for forsvarer etter [§ 7](for-2005-12-12-1442-stykkprisforskriften.md) første og andre ledd skal vurderes samlet med stykkpris etter [§ 7](for-2005-12-12-1442-stykkprisforskriften.md) tredje og fjerde ledd.
+
+*Endret ved forskrifter [6 nov 2019 nr. 1602](https://lovdata.no/forskrift/2019-11-06-1602) (i kraft 1 jan 2020, se endringsforskriften for overgangsbestemmelse), [7 juni 2022 nr. 990](https://lovdata.no/forskrift/2022-06-07-990) (i kraft 1 juli 2022).*
+
+## Kapittel IV. Ikrafttredelse mv.
+
+### § 12. Ikrafttredelse/overgangsbestemmelse
+
+Denne forskriften trer i kraft 1. januar 2006, og kommer til anvendelse på oppdrag påbegynt etter ikrafttredelsen. Samtidig oppheves [forskrift 18. september 2001 nr. 1088](https://lovdata.no/forskrift/2001-09-18-1088) om salær fra det offentlige til advokater m.fl. etter faste satser (stykkprissatser) ved fritt rettsråd og i straffesaker, med unntak for oppdrag påbegynt før denne forskriftens ikrafttredelse.

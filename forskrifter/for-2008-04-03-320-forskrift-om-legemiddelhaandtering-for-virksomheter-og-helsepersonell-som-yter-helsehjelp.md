@@ -1,0 +1,139 @@
+# Forskrift om legemiddelhåndtering for virksomheter og helsepersonell som yter helsehjelp
+
+- **Datokode:** FOR-2008-04-03-320
+- **DokumentID:** SF/forskrift/2008-04-03-320
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Folkehelseavd.
+- **Hjemmel:** lov 19.11.1982 nr. 66/§1-3; lov 19.11.1982 nr. 66/§1-3a; lov 02.07.1999 nr. 61/§2-1a; lov 02.07.1999 nr. 64/§11; lov 02.07.1999 nr. 64/§16; lov 04.12.1992 nr. 132/§25b; lov 24.06.2011 nr. 30/§4-2
+- **Publisert i:** I 2008 hefte 4
+- **Kunngjort:** 2008-04-08 15:05
+- **I kraft fra:** 2008-05-01
+- **Siste endring i kraft:** 2022-09-16
+- **Sist endret ved:** forskrift 02.06.2022 nr. 977 fra 2022-09-16
+- **Endrer:** forskrift 18.11.1987 nr. 1153; forskrift 18.12.2001 nr. 1576; forskrift 27.04.1998 nr. 455; forskrift 21.12.1993 nr. 1219
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-09-28 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 3. april 2008 med hjemmel i lov 19. november 1982 nr. 66 om helsetjenesten i kommunene § 1-3 fjerde ledd og § 1-3a, lov 2. juli 1999 nr. 61 om spesialisthelsetjenester m.m. § 2-1 a femte ledd, lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 11 og § 16 annet ledd og lov 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) § 25b. Tilføyd hjemmel: Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 4-2 annet ledd. Endret ved forskrifter 18 des 2009 nr. 1839, 23 nov 2014 nr. 1455, 22 des 2016 nr. 1866, 20 sep 2021 nr. 2838, 2 juni 2022 nr. 977 (i kraft 16 sep 2022). Rettet 20.01.2015 (Merknader fjernet), 28.09.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2008-04-03-320>
+
+## § 1. Formål
+
+Formålet med forskriften er å bidra til sikring av riktig og god legemiddelhåndtering.
+
+## § 2. Virkeområde
+
+Forskriften gjelder virksomheters og helsepersonells håndtering av legemidler når det ytes helsehjelp som definert i [lov om helsepersonell § 3](../lover/lov-1999-07-02-64-helsepersonelloven.md) tredje ledd.
+
+Forskriften [§ 5a](for-2008-04-03-320-forskrift-om-legemiddelhaandtering-for-virksomheter-og-helsepersonell-som-yter-helsehjelp.md) gjelder kun for sykehjem, jf. helse- og [omsorgstjenesteloven § 3-2](../lover/lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) første ledd nr. 6 bokstav c.
+
+Forskriften kommer ikke til anvendelse når pasienten selv har ansvaret for å håndtere legemidler, og pasienten ikke har inngått avtale som omhandler legemiddelhåndtering omfattet av først ledd.
+
+*Endret ved [forskrifter 23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015), [22 des 2016 nr. 1866](https://lovdata.no/forskrift/2016-12-22-1866) (i kraft 1 jan 2017).*
+
+## § 3. Definisjoner
+
+I denne forskriften menes med:
+
+a. *Helsehjelp:* Helsehjelp som definert i [lov 2. juli 1999 nr. 64](../lover/lov-1999-07-02-64-helsepersonelloven.md) om helsepersonell m.v. [§ 3](../lover/lov-1999-07-02-64-helsepersonelloven.md) tredje ledd, jf. [lov 2. juli 1999 nr. 63](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) om pasient- og brukerrettigheter [§ 1-3](../lover/lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) bokstav c.
+b. *Virksomhetsleder:* Den som har det overordnede ansvaret for helsehjelpen som ytes i den enkelte virksomhet.
+c. *Helsepersonell:* Personell som definert i [lov 2. juli 1999 nr. 64](../lover/lov-1999-07-02-64-helsepersonelloven.md) om helsepersonell m.v. [§ 3](../lover/lov-1999-07-02-64-helsepersonelloven.md) første ledd nr. 1 til nr. 3.
+d. *Legemiddel:* Legemidler som definert i [lov 4. desember 1992 nr. 132](../lover/lov-1992-12-04-132-legemiddelloven.md) om legemidler m.v. [§ 2](../lover/lov-1992-12-04-132-legemiddelloven.md).
+e. *Legemiddelhåndtering:* Enhver legemiddelrelatert oppgave som utføres fra legemidlet er ordinert eller rekvirert til det er utdelt eller eventuelt kassert.
+f. *Rekvirering:* Muntlig, skriftlig eller elektronisk bestilling av legemidler ved resept eller rekvisisjon jf. [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. § 1-3](for-2022-06-02-977-forskrift-om-rekvirering-og-utlevering-av-legemidler-m-m.md) bokstav a.
+g. *Ordinering:* Beslutning tatt av helsepersonell, med rekvireringsrett til pasient, om iverksettelse, videreføring eller endring av individuell behandling med legemiddel. Ordinering skal dokumenteres i samsvar med [forskrift 1. mars 2019 nr. 168 om pasientjournal (pasientjournalforskriften)](for-2019-03-01-168-pasientjournalforskriften.md).
+h. *Ordinering gjennom prosedyre:* Beslutning om iverksettelse av legemiddelbehandling gjennom skriftlig prosedyre som er fastsatt av virksomhetsleder.
+i. *Istandgjøring:* Tilberedning eller annen klargjøring av legemiddel for utdeling til pasient.
+j. *Tilberedning:* Enkel tilvirkning av legemiddel som på grunn av kort holdbarhet, må gjøres bruksferdig umiddelbart før bruk.
+k. *Dobbeltkontroll:* To personer som hver for seg og ved å signere, manuelt eller elektronisk, bekrefter at en oppgave er utført korrekt, og i henhold til eventuelt fastsatt prosedyre. En automatisert elektronisk kontroll kan benyttes dersom den er likeverdig med en manuell kontroll.
+l. *Utdeling:* Utdeling av ferdig istandgjort legemiddel til pasient, administrering av legemiddel som pasienten ikke kan administrere selv, overvåkning av legemiddelinntak og observasjon av eventuelle umiddelbare reaksjoner på tilført legemiddel.
+
+*Endret ved [forskrifter 18 des 2009 nr. 1839](for-2009-12-18-1839-legemiddelforskriften.md) (i kraft 12 jan 2010), [23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015), [20 sep 2021 nr. 2838](https://lovdata.no/forskrift/2021-09-20-2838), [2 juni 2022 nr. 977](for-2022-06-02-977-forskrift-om-rekvirering-og-utlevering-av-legemidler-m-m.md) (i kraft 16 sep 2022).*
+
+## § 4. Virksomhetsleders ansvar
+
+Virksomhetsleder skal sørge for at legemiddelhåndtering i virksomheten utføres forsvarlig og i henhold til gjeldende lover og forskrifter.
+
+Når virksomhetsleder ikke selv er lege eller provisorfarmasøyt, skal det utpekes en faglig rådgiver med slik utdanning.
+
+Virksomhetsleder skal sørge for at helsepersonell som håndterer legemidler, har tilstrekkelig kompetanse. Helsepersonellets kompetanse må vurderes individuelt ut fra vedkommendes formelle og reelle kvalifikasjoner og oppgavens art, før legemiddelhåndtering kan utføres.
+
+Virksomhetsleder skal sørge for at studenter bare gis oppgaver i tråd med [helsepersonelloven § 5](../lover/lov-1999-07-02-64-helsepersonelloven.md) annet ledd.
+
+Virksomhetsleder skal sørge for at virksomhetens internkontrollsystem har rutiner som kvalitetssikrer informasjonen om pasientens legemiddelbruk ved innleggelse og utskriving, og ved overføring innen virksomheten.
+
+Virksomhetsleder skal sørge for internkontroll, jf. [lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven) § 5](../lover/lov-2017-12-15-107-helsetilsynsloven.md), herunder:
+
+a. Etablere og oppdatere skriftlige prosedyrer for legemiddelhåndtering. Dette innebærer, blant annet, prosedyrer for risikovurdering, evaluering, kontroll og avvikshåndtering. Prosedyrene skal gjøres kjent i virksomheten.
+b. Gi skriftlige bestemmelser om hvilken kompetanse ansatte skal ha for å utføre oppgaver innen legemiddelhåndtering. Disse bestemmelsene skal gjøres kjent i virksomheten.
+c. Sørge for at helsepersonell får nødvendig opplæring og kompetanseutvikling i legemiddelhåndtering.
+d. Sørge for at virksomheten har et system for håndtering av legemidler i reseptgruppene A og B.
+
+*Endret ved [forskrifter 23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015), [20 sep 2021 nr. 2838](https://lovdata.no/forskrift/2021-09-20-2838).*
+
+## § 5. Informasjon om legemiddelbruk
+
+En oppdatert og samstemt liste over legemidler i bruk skal, i forståelse med pasienten, alltid følge pasienten ved skifte av omsorgsnivå.
+
+*Endret ved [forskrift 23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015).*
+
+## § 5a. Legemiddelgjennomgang i sykehjem
+
+Legemiddelgjennomgang skal sikre god kvalitet ved behandling med legemidler i sykehjem.
+
+Virksomheten skal sørge for en systematisk legemiddelgjennomgang for pasient med langtidsopphold i sykehjem ved innkomst og minst en gang årlig. Utover dette skal legemiddelgjennomgang utføres når det er nødvendig av hensyn til forsvarlig behandling.
+
+Legemiddelgjennomgang utføres av lege, alene eller i samarbeid med annet helsepersonell.
+
+*Tilføyd ved [forskrift 22 des 2016 nr. 1866](https://lovdata.no/forskrift/2016-12-22-1866) (i kraft 1 jan 2017).*
+
+## § 6. Oppbevaring
+
+Legemidler skal oppbevares forsvarlig og utilgjengelig for uvedkommende.
+
+*Endret ved [forskrift 23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015).*
+
+## § 7. Krav til istandgjøring og utdeling
+
+Helsepersonell skal sørge for at riktig legemiddel gis til riktig pasient, i riktig dose, til riktig tid og på riktig måte.
+
+Istandgjøring og utdeling av legemidler skal som hovedregel skje på grunnlag av ordinering gjort til enkeltpasient. Unntatt fra dette er utdeling av legemidler som skjer på grunnlag av ordinering gjennom virksomhetens prosedyre og gjelder kun situasjoner der slik ordinering er nødvendig for å kunne yte forsvarlig helsehjelp. Prosedyren skal være fastsatt av virksomhetsleder, og utarbeidet i samråd med helsepersonell med rekvireringsrett til pasient.
+
+Et istandgjort legemiddel skal på forpakningen eller beholderen være merket med opplysninger om pasientens identitet og legemidlets navn og virkestoff, samt styrke, dose og andre opplysninger som er nødvendig for en sikker håndtering.
+
+Det kan byttes mellom byttbare legemidler. Virksomheten skal i internkontrollsystemet ha prosedyrer som sikrer forsvarlig bytte mellom byttbare legemidler, herunder hvilken kompetanse den som skal utføre byttene skal ha.
+
+*Endret ved [forskrift 23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015).*
+
+## § 8. Tilberedning av legemidler
+
+Tilberedning av legemidler skal skje på faglig forsvarlig måte og i egne lokaler som er utformet og dimensjonert slik at risikoen for sammenblanding av produkter, for krysskontaminasjon og annen forurensning av produktene unngås. Tilberedning av legemidler kan unntaksvis foretas andre steder når det anses faglig forsvarlig.
+
+Virksomhetsleders ansvar for å foreta sårbarhets- og risikovurdering som grunnlag for å sikre faglig forsvarlig tilberedning fremgår av [§ 4](for-2008-04-03-320-forskrift-om-legemiddelhaandtering-for-virksomheter-og-helsepersonell-som-yter-helsehjelp.md) sjette ledd. Hygieneinstrukser, arbeidsmetodikk og dokumentasjon skal være tilpasset art og omfang av tilberedningen og er en del av virksomhetens internkontrollsystem.
+
+*Tilføyd ved [forskrift 23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015).*
+
+## § 9. Narkotikaregnskap og kontroll med legemidler i reseptgruppene A og B
+
+Virksomheten skal:
+
+a. dokumentere alle mottak og uttak av legemidler i reseptgruppe A, herunder hva den enkelte pasient har fått av slike legemidler. Dokumentasjon skal være oppdatert til enhver tid og oppbevares i minst 5 år.
+b. ha oversikt over alle mottak og uttak av legemidler i reseptgruppe B. Mottatt mengde skal sammenholdes med faktisk bruk på enhetsnivå.
+
+*Endret ved [forskrift 23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015, tidligere § 8).*
+
+## § 10. Rekvirering til lokalt legemiddellager
+
+Virksomhetsleder kan rekvirere legemidler til lokalt legemiddellager i samsvar med liste godkjent av lege, samt legemidler ordinert til pasient. Virksomhetsleder kan delegere denne oppgaven. Når bestillingen gjelder legemidler ordinert til pasient skal det fremgå hvem som er ordinerende lege.
+
+*Endret ved [forskrift 23 nov 2014 nr. 1455](https://lovdata.no/forskrift/2014-11-23-1455) (i kraft 1 jan 2015, tidligere § 9).*
+
+## § 11. Ikrafttredelse mv.
+
+Forskriften trer i kraft 1. mai 2008.
+
+Fra samme dato oppheves [forskrift 18. november 1987 nr. 1153](https://lovdata.no/forskrift/1987-11-18-1153) om legemiddelforsyningen m.v. i den kommunale helsetjeneste og [forskrift 18. desember 2001 nr. 1576](https://lovdata.no/forskrift/2001-12-18-1576) om legemiddelforsyningen mv. ved sykehus og andre helseinstitusjoner.
+
+## § 12. Endringer i andre forskrifter
+
+1. Med virkning fra forskriftens ikrafttredelse gjøres følgende endringer i [forskrift 27. april 1998 nr. 455](https://lovdata.no/forskrift/1998-04-27-455) om rekvirering og utlevering av legemidler fra apotek: – – –
+2. Med virkning fra forskriftens ikrafttredelse gjøres følgende endringer i [forskrift 21. desember 1993 nr. 1219](for-1993-12-21-1219-forskrift-om-legemiddelgrossister.md) om grossistvirksomhet med legemidler: – – –

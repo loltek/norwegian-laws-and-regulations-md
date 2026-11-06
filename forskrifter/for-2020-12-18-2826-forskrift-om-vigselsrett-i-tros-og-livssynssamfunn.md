@@ -1,0 +1,69 @@
+# Forskrift om tildeling og tilbaketrekning av vigselsrett i tros- og livssynssamfunn (forskrift om vigselsrett i tros- og livssynssamfunn)
+
+- **Korttittel:** Forskrift om vigselsrett i tros- og livssynssamfunn
+- **Datokode:** FOR-2020-12-18-2826
+- **DokumentID:** SF/forskrift/2020-12-18-2826
+- **Departement:** Barne- og familiedepartementet
+- **Etat:** Forbruker-, tros- og livssynsavdelingen
+- **Hjemmel:** lov 24.04.2020 nr. 31/§9; lov 04.07.1991 nr. 47/§17
+- **Kunngjort:** 2020-12-18 16:25
+- **I kraft fra:** 2021-01-01
+- **Siste endring i kraft:** 2025-05-27
+- **Sist endret ved:** forskrift 27.05.2025 nr. 855
+- **Endrer:** forskrift 27.09.2004 nr. 1296; forskrift 20.11.1992 nr. 854
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 18. desember 2020 med hjemmel i lov 24. april 2020 nr. 31 om tros- og livssynssamfunn (trossamfunnsloven) § 9 og lov 4. juli 1991 nr. 47 om ekteskap § 17. Fremmet av Barne- og familiedepartementet. Endret ved forskrifter 8 des 2023 nr. 1978 (i kraft 1 jan 2024), 27 mai 2025 nr. 855.
+- **Kilde:** <https://lovdata.no/forskrift/2020-12-18-2826>
+
+## § 1. Godkjenning av vigslere
+
+Registrerte tros- og livssynssamfunn med godkjent vigselsritual kan søke om vigselsrett for ett eller flere medlemmer. En søknad om vigselsrett skal sendes til statsforvalteren ved bruk av den særskilte digitale løsningen for tros- og livssynssamfunn. Departementet kan tillate at søknader fremmes på annen måte.
+
+Medlemmet
+
+a. skal være mellom 23 og 75 år
+b. skal være bosatt i Norge
+c. kan ikke samtidig være vigsler i et annet tros- eller livssynssamfunn
+d. skal ha tilstrekkelig kjennskap til det norske samfunnet og tilstrekkelige kunnskaper i norsk til å kunne utføre vigslerens oppgaver fastsatt i [ekteskapsloven](../lover/lov-1991-07-04-47-ekteskapsloven.md) eller med hjemmel i den
+e. skal avgi en erklæring på fastsatt skjema om at tjenesten som vigsler vil bli utført i samsvar med reglene fastsatt i [ekteskapsloven](../lover/lov-1991-07-04-47-ekteskapsloven.md) eller med hjemmel i den.
+
+Statsforvalteren kan i særlige tilfeller gjøre unntak fra andre ledd bokstav a.
+
+Statsforvalteren kan nekte å godkjenne medlemmet som vigsler dersom
+
+a. det vil virke åpenbart støtende eller det er i strid med offentlige interesser å tildele medlemmet vigselsrett
+b. tros- eller livssynssamfunnet allerede har mange nok vigslere.
+
+## § 2. Opphør og tilbaketrekning av vigselsrett
+
+Vigselsretten opphører hvis tros- eller livssynssamfunnet oppløses eller taper registreringen etter [trossamfunnsloven § 4](../lover/lov-2020-04-24-31-trossamfunnsloven.md).
+
+Vigselsretten opphører når vigsleren fyller 75 år. Statsforvalteren kan etter søknad fra tros- eller livssynssamfunnet og en konkret vurdering dispensere fra alderskravet for inntil ett år om gangen. En søknad om dispensasjon fra alderskravet skal sendes statsforvalteren senest tre måneder før vigsleren fyller 75 år og deretter senest tre måneder før dispensasjonsperioden løper ut, ved bruk av den særskilte digitale løsningen for tros- og livssynssamfunn. Departementet kan godta at søknader fremmes på annen måte.
+
+Tros- eller livssynssamfunnet skal gi melding til statsforvalteren når vigsleren
+
+a. er uønsket som vigsler av tros- eller livssynssamfunnet
+b. selv ønsker å fratre som vigsler
+c. ikke lenger er medlem i tros- eller livssynssamfunnet.
+
+Meldingen etter tredje ledd skal gis ved bruk av den særskilte digitale løsningen for tros- og livssynssamfunn. Departementet kan tillate at meldingen gis på annen måte. Statsforvalteren skal uten unødig opphold trekke tilbake vigselsretten.
+
+Forsømmer vigsleren plikter fastsatt i eller med hjemmel i [ekteskapsloven](../lover/lov-1991-07-04-47-ekteskapsloven.md), skal statsforvalteren gi vigsleren en skriftlig advarsel og samtidig varsle tros- eller livssynssamfunnet. Statsforvalteren kan frata vigsleren vigselsretten dersom tjenesteforsømmelsen gjentas eller er særlig alvorlig.
+
+Praktiserer vigsleren nektingsgrunnene i [ekteskapsloven § 13](../lover/lov-1991-07-04-47-ekteskapsloven.md) første og andre ledd slik at kvinner og menn forskjellsbehandles, regnes dette som en tjenesteforsømmelse. Unnlater vigsleren å kontrollere om det er utstedt prøvingsattest i samsvar med [ekteskapsloven § 10](../lover/lov-1991-07-04-47-ekteskapsloven.md), anses dette som en særlig alvorlig tjenesteforsømmelse.
+
+Faller vilkårene for å være vigsler etter forskriften bort på annen måte, kan statsforvalteren trekke tilbake vigselsretten.
+
+*Endret ved forskrifter [8 des 2023 nr. 1978](https://lovdata.no/forskrift/2023-12-08-1978) (i kraft 1 jan 2024), [27 mai 2025 nr. 855](https://lovdata.no/forskrift/2025-05-27-855).*
+
+## § 3. Register over vigslere
+
+Statsforvalteren skal føre et register over vigslere etter forskriften, i samsvar med spesifikasjoner gitt av departementet.
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2021. Fra samme tidspunkt oppheves [forskrift 27. september 2004 nr. 1296 om tildeling og tilbaketrekning av vigselsrett for seremonileder eller tilsvarende i livssynssamfunn](https://lovdata.no/forskrift/2004-09-27-1296).
+
+## § 5. Endringer i andre forskrifter
+
+I [forskrift 20. november 1992 nr. 854 om registrering og melding av vigsel](for-1992-11-20-854-forskrift-om-registrering-og-melding-av-vigsel.md) skal [§ 1](for-1992-11-20-854-forskrift-om-registrering-og-melding-av-vigsel.md) lyde: – – –

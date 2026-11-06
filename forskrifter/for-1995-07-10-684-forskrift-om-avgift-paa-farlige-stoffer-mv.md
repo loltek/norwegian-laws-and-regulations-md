@@ -1,0 +1,116 @@
+# Forskrift om avgift på enkelte farlige stoffer, anlegg og innretninger som omfattes av lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver
+
+- **Korttittel:** Forskrift om avgift på farlige stoffer mv.
+- **Datokode:** FOR-1995-07-10-684
+- **DokumentID:** SF/forskrift/1995-07-10-684
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Direktoratet for samfunnssikkerhet og beredskap
+- **Hjemmel:** lov 21.05.1971 nr. 47/§1; lov 21.05.1971 nr. 47/§43; lov 14.06.1974 nr. 39/§40; forskrift 28.01.1994 nr. 93; forskrift 30.06.1995 nr. 601; lov 14.06.2002 nr. 20/§28; lov 14.06.2002 nr. 20/§44; forskrift 23.05.2002 nr. 770; forskrift 26.06.2002 nr. 728; forskrift 01.09.2003 nr. 1161
+- **Publisert i:** Avd I 1995 1015
+- **I kraft fra:** 1995-07-10
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 22.12.2025 nr. 2860 fra 2026-01-01
+- **Endrer:** forskrift 11.02.1993 nr. 98
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2018-06-04 (§ 4 punkt 2)
+- **Merknad:** Hjemmel: Fastsatt av Kommunal- og arbeidsdepartementet (nå Justis- og beredskapsdepartementet) 10. juli 1995 med hjemmel i lov av 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk § 1 femte ledd og § 43, jfr. kgl.res. 28. januar 1994 nr. 93 og kgl.res. 30. juni 1995 nr. 601 og lov av 14. juni 1974 nr. 39 om eksplosive varer § 40, jfr. kgl.res. 30. juni 1995 nr. 601. Tilføyd hjemmel: Lov av 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 28, jf. § 44, jf. delegeringsvedtak av 23. mai 2002 nr. 770, delegeringsvedtak av 26. juni 2002 nr. 728 og delegeringsvedtak 1 sep 2003 nr. 1161. Endret ved forskrifter 18 juni 1999 nr. 738, 10 juli 2002 nr. 816, 6 nov 2003 nr. 1317, 30 juni 2004 nr. 1091, 21 des 2004 nr. 1721, 18 des 2006 nr. 1471, 15 des 2008 nr. 1409, 15 des 2009 nr. 1700, 15 des 2010 nr. 1649, 19 des 2011 nr. 1408, 19 nov 2012 nr. 1083, 12 des 2013 nr. 1494, 15 des 2014 nr. 1765, 9 des 2015 nr. 1455, 13 des 2016 nr. 1572, 21 des 2017 nr. 2369, 19 des 2018 nr. 2139, 18 des 2019 nr. 1891 (i kraft 1 jan 2020), 23 des 2020 nr. 3165 (i kraft 1 jan 2021), 30 des 2021 nr. 3949 (i kraft 1 jan 2022), 23 mars 2022 nr. 447, 19 des 2022 nr. 2329 (i kraft 1 jan 2023), 21 des 2023 nr. 2266 (i kraft 1 jan 2024), 23 des 2024 nr. 3439 (i kraft 1 jan 2025), 22 des 2025 nr. 2860 (i kraft 1 jan 2026). Rettelser: 04.06.2018 (§ 4 punkt 2).
+- **Kilde:** <https://lovdata.no/forskrift/1995-07-10-684>
+
+## Kap I. Avgift for tilsyn m.v. som foretas av Direktoratet for samfunnssikkerhet og beredskap
+
+*Endret ved [forskrift 6 nov 2003 nr. 1317](https://lovdata.no/forskrift/2003-11-06-1317).*
+
+### § 1. Anvendelsesområde/avgiftsplikt
+
+Offentlig eller privat virksomhet som håndterer eller skal håndtere farlige stoffer under brann- og eksplosjonsvernloven og som omfattes av denne forskrift skal betale en årlig avgift til delvis dekning av utgiftene ved Direktoratet for samfunnssikkerhet og beredskap.
+
+*Endret ved [forskrifter 10 juli 2002 nr. 816](https://lovdata.no/forskrift/2002-07-10-816), [6 nov 2003 nr. 1317](https://lovdata.no/forskrift/2003-11-06-1317), [30 juni 2004 nr. 1091](https://lovdata.no/forskrift/2004-06-30-1091) (i kraft 1 aug 2004).*
+
+### § 2. Definisjoner
+
+I denne forskrift betyr:
+
+1. *Virksomhet:* Bedrift, anlegg, offentlig organ, interessentskap eller annet rettssubjekt som faller inn under [§ 1](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md).
+2. *Petroleumsprodukt:* Flytende og kondenserbare hydrokarboner med flammepunkt ikke over 55°C, samt motorbrensel og fyringsolje, med flammepunkt over 55°C, som er fremstilt av råolje. Med unntak av § 5, regnes ikke råolje i forskriften som petroleumsprodukt.
+3. *Løsningsmiddel:* Alkohol, eter, keton, ester og lignende væsker med flammepunkt ikke over 55°C.
+
+For øvrig gjelder de definisjoner som er fastsatt i lovene om brannfarlige varer samt væsker og gasser under trykk og eksplosive varer.
+
+### § 3. Oppgaveplikt
+
+Virksomhetene plikter å oppgi til Direktoratet for samfunnssikkerhet og beredskap de mengder brannfarlige og eksplosive varer, og hvilke trykksatt utstyr med nødvendige spesifikasjoner som anvendes, som danner grunnlaget for avgiftsberegningen etter [§ 4](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md), [§ 5](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md), [§ 6](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md) og [§ 7](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md).
+
+*Endret ved [forskrifter 10 juli 2002 nr. 816](https://lovdata.no/forskrift/2002-07-10-816), [6 nov 2003 nr. 1317](https://lovdata.no/forskrift/2003-11-06-1317).*
+
+### § 4. Avgift for omsetning mv. av petroleumsprodukter og løsningsmidler
+
+1. For virksomheter som omsetter petroleumsprodukter eller løsningsmidler, beregnes avgiften på grunnlag av den samlede produktmengde den enkelte virksomhet omsetter innenlands, samt av den mengde virksomheten selv bruker i løpet av året. Avgift pålegges første ledd i omsetningskjeden.
+2. Avgiftssatsen er kr 5,118 pr. tonn. For virksomheter hvor de produktmengder som danner grunnlag for avgiftsberegningen i henhold til nr. 1 er mindre enn 20 000 tonn, skal den årlige mengdebaserte avgift være kr 61 700.
+3. Avgiftssatsene reguleres årlig i samsvar med justeringene i de årlige statsbudsjetter for lønns- og prisvekst.
+
+*Endret ved [forskrifter 21 des 2004 nr. 1721](https://lovdata.no/forskrift/2004-12-21-1721) (i kraft 1 jan 2005), [18 des 2006 nr. 1471](https://lovdata.no/forskrift/2006-12-18-1471) (i kraft 1 jan 2007), [15 des 2008 nr. 1409](https://lovdata.no/forskrift/2008-12-15-1409) (i kraft 1 jan 2009), [15 des 2009 nr. 1700](https://lovdata.no/forskrift/2009-12-15-1700) (i kraft 1 jan 2010), [15 des 2010 nr. 1649](https://lovdata.no/forskrift/2010-12-15-1649) (i kraft 1 jan 2011), [19 des 2011 nr. 1408](https://lovdata.no/forskrift/2011-12-19-1408) (i kraft 1 jan 2012), [19 nov 2012 nr. 1083](https://lovdata.no/forskrift/2012-11-19-1083) (i kraft 1 jan 2013), [12 des 2013 nr. 1494](https://lovdata.no/forskrift/2013-12-12-1494) (i kraft 1 jan 2014), [15 des 2014 nr. 1765](https://lovdata.no/forskrift/2014-12-15-1765) (i kraft 1 jan 2015), [9 des 2015 nr. 1455](https://lovdata.no/forskrift/2015-12-09-1455) (i kraft 1 jan 2016), [13 des 2016 nr. 1572](https://lovdata.no/forskrift/2016-12-13-1572) (i kraft 1 jan 2017), [21 des 2017 nr. 2369](https://lovdata.no/forskrift/2017-12-21-2369) (i kraft 1 jan 2018), [19 des 2018 nr. 2139](https://lovdata.no/forskrift/2018-12-19-2139) (i kraft 1 jan 2019), [18 des 2019 nr. 1891](https://lovdata.no/forskrift/2019-12-18-1891) (i kraft 1 jan 2020), [23 des 2020 nr. 3165](https://lovdata.no/forskrift/2020-12-23-3165) (i kraft 1 jan 2021), [30 des 2021 nr. 3949](https://lovdata.no/forskrift/2021-12-30-3949) (i kraft 1 jan 2022), [19 des 2022 nr. 2329](https://lovdata.no/forskrift/2022-12-19-2329) (i kraft 1 jan 2023), [21 des 2023 nr. 2266](https://lovdata.no/forskrift/2023-12-21-2266) (i kraft 1 jan 2024), [23 des 2024 nr. 3439](https://lovdata.no/forskrift/2024-12-23-3439) (i kraft 1 jan 2025), [22 des 2025 nr. 2860](https://lovdata.no/forskrift/2025-12-22-2860) (i kraft 1 jan 2026).*
+
+### § 5. Avgift for ilandføring av petroleumsprodukter i rørledning fra områder i sjø
+
+1. For virksomheter som driver anlegg for ilandføring av petroleumsprodukter i rørledning fra områder i sjøen, beregnes avgiften av den produktmengde som anlegget mottar gjennom rørledningen i løpet av året.
+2. Avgiftssatsene er kr 0,330 pr. tonn gass og kr 0,215 pr. tonn olje.
+3. Avgiftssatsene reguleres årlig i samsvar med justeringene i de årlige statsbudsjetter for lønns- og prisvekst.
+
+*Endret ved [forskrifter 18 des 2006 nr. 1471](https://lovdata.no/forskrift/2006-12-18-1471) (i kraft 1 jan 2007), [15 des 2008 nr. 1409](https://lovdata.no/forskrift/2008-12-15-1409) (i kraft 1 jan 2009), [15 des 2009 nr. 1700](https://lovdata.no/forskrift/2009-12-15-1700) (i kraft 1 jan 2010), [15 des 2010 nr. 1649](https://lovdata.no/forskrift/2010-12-15-1649) (i kraft 1 jan 2011), [19 des 2011 nr. 1408](https://lovdata.no/forskrift/2011-12-19-1408) (i kraft 1 jan 2012), [19 nov 2012 nr. 1083](https://lovdata.no/forskrift/2012-11-19-1083) (i kraft 1 jan 2013), [12 des 2013 nr. 1494](https://lovdata.no/forskrift/2013-12-12-1494) (i kraft 1 jan 2014), [15 des 2014 nr. 1765](https://lovdata.no/forskrift/2014-12-15-1765) (i kraft 1 jan 2015), [9 des 2015 nr. 1455](https://lovdata.no/forskrift/2015-12-09-1455) (i kraft 1 jan 2016), [13 des 2016 nr. 1572](https://lovdata.no/forskrift/2016-12-13-1572) (i kraft 1 jan 2017), [21 des 2017 nr. 2369](https://lovdata.no/forskrift/2017-12-21-2369) (i kraft 1 jan 2018), [19 des 2018 nr. 2139](https://lovdata.no/forskrift/2018-12-19-2139) (i kraft 1 jan 2019), [18 des 2019 nr. 1891](https://lovdata.no/forskrift/2019-12-18-1891) (i kraft 1 jan 2020), [23 des 2020 nr. 3165](https://lovdata.no/forskrift/2020-12-23-3165) (i kraft 1 jan 2021), [30 des 2021 nr. 3949](https://lovdata.no/forskrift/2021-12-30-3949) (i kraft 1 jan 2022), [19 des 2022 nr. 2329](https://lovdata.no/forskrift/2022-12-19-2329) (i kraft 1 jan 2023), [21 des 2023 nr. 2266](https://lovdata.no/forskrift/2023-12-21-2266) (i kraft 1 jan 2024), [23 des 2024 nr. 3439](https://lovdata.no/forskrift/2024-12-23-3439) (i kraft 1 jan 2025), [22 des 2025 nr. 2860](https://lovdata.no/forskrift/2025-12-22-2860) (i kraft 1 jan 2026).*
+
+### § 6. Avgift for trykksatt utstyr
+
+Virksomheter som har større kjeler og trykkbeholdere som ikke, eller i liten grad anvender brannfarlig vare, kan pålegges avgift av Direktoratet for samfunnssikkerhet og beredskap. Avgiften beregnes skjønnsmessig basert på avgiftsnivået for tilsvarende virksomheter, kjeler og trykkbeholdere som anvender brannfarlig vare. Avgiften pr. kjel/trykkbeholder skal ikke overstige kr. 4.000.
+
+*Endret ved [forskrifter 10 juli 2002 nr. 816](https://lovdata.no/forskrift/2002-07-10-816), [6 nov 2003 nr. 1317](https://lovdata.no/forskrift/2003-11-06-1317).*
+
+### § 7. Avgift for tilvirkning og omsetning av sprengstoff og krutt
+
+1. For virksomheter som omsetter sprengstoff eller krutt, beregnes avgiften på grunnlag av de produkter som den enkelte virksomhet omsetter innenlands i løpet av året.
+
+   Avgift pålegges første ledd i omsetningskjeden.
+2. For virksomheter som tilvirker sprengstoff eller krutt til eget bruk, beregnes avgiften på grunnlag av den mengde den enkelte virksomhet bruker i løpet av året.
+3. Virksomhet som tilvirker sprengstoff eller krutt på mer enn ett tilvirkningssted, skal i tillegg til mengdebasert avgift i henhold til nr. 1 eller 2 betale en fast årlig avgift pr. tilvirkningssted utover det første.
+4. Avgiftssatsen etter nr. 1 og 2 er kr 152,43 pr. tonn. For virksomheter hvor de produktmengder som danner grunnlag for avgiftsberegninger i henhold til punkt 1 og 2 er mindre enn 400 tonn, skal den årlige mengdebaserte avgift være kr 61 700.
+5. Den faste avgift pr. tilvirkningssted utover ett i henhold til nr. 3 er kr 61 700.
+6. Avgiftssatsene reguleres årlig i samsvar med justeringene i de årlige statsbudsjetter for lønns- og prisvekst.
+
+*Endret ved [forskrifter 21 des 2004 nr. 1721](https://lovdata.no/forskrift/2004-12-21-1721) (i kraft 1 jan 2005), [18 des 2006 nr. 1471](https://lovdata.no/forskrift/2006-12-18-1471) (i kraft 1 jan 2007), [15 des 2008 nr. 1409](https://lovdata.no/forskrift/2008-12-15-1409) (i kraft 1 jan 2009), [15 des 2009 nr. 1700](https://lovdata.no/forskrift/2009-12-15-1700) (i kraft 1 jan 2010), [15 des 2010 nr. 1649](https://lovdata.no/forskrift/2010-12-15-1649) (i kraft 1 jan 2011), [19 des 2011 nr. 1408](https://lovdata.no/forskrift/2011-12-19-1408) (i kraft 1 jan 2012), [19 nov 2012 nr. 1083](https://lovdata.no/forskrift/2012-11-19-1083) (i kraft 1 jan 2013), [12 des 2013 nr. 1494](https://lovdata.no/forskrift/2013-12-12-1494) (i kraft 1 jan 2014), [15 des 2014 nr. 1765](https://lovdata.no/forskrift/2014-12-15-1765) (i kraft 1 jan 2015), [9 des 2015 nr. 1455](https://lovdata.no/forskrift/2015-12-09-1455) (i kraft 1 jan 2016), [13 des 2016 nr. 1572](https://lovdata.no/forskrift/2016-12-13-1572) (i kraft 1 jan 2017), [21 des 2017 nr. 2369](https://lovdata.no/forskrift/2017-12-21-2369) (i kraft 1 jan 2018), [19 des 2018 nr. 2139](https://lovdata.no/forskrift/2018-12-19-2139) (i kraft 1 jan 2019), [18 des 2019 nr. 1891](https://lovdata.no/forskrift/2019-12-18-1891) (i kraft 1 jan 2020), [23 des 2020 nr. 3165](https://lovdata.no/forskrift/2020-12-23-3165) (i kraft 1 jan 2021), [30 des 2021 nr. 3949](https://lovdata.no/forskrift/2021-12-30-3949) (i kraft 1 jan 2022), [23 mars 2022 nr. 447](https://lovdata.no/forskrift/2022-03-23-447), [19 des 2022 nr. 2329](https://lovdata.no/forskrift/2022-12-19-2329) (i kraft 1 jan 2023), [21 des 2023 nr. 2266](https://lovdata.no/forskrift/2023-12-21-2266) (i kraft 1 jan 2024), [23 des 2024 nr. 3439](https://lovdata.no/forskrift/2024-12-23-3439) (i kraft 1 jan 2025), [22 des 2025 nr. 2860](https://lovdata.no/forskrift/2025-12-22-2860) (i kraft 1 jan 2026).*
+
+### § 8. Avgift for virksomhet i anleggsfase
+
+1. Virksomhet som er undergitt tilsyn etter lovene om brannfarlige varer samt væsker og gasser under trykk og eksplosive varer og som er under opp- eller nedbygging, kan pålegges avgift dersom Direktoratet for samfunnssikkerhet og beredskaps engasjement i forbindelse med virksomheten vil pågå kontinuerlig gjennom et lengre tidsrom.
+
+   Avgiften skal dekke etatens faktiske utgifter ved kontrollen.
+2. Vedtak om at en virksomhet skal betale avgift etter denne bestemmelse, fattes av Direktoratet for samfunnssikkerhet og beredskap så snart man har grunnlag for å vurdere omfanget av kontroll og tilsyn med virksomheten. Denne skal straks underrettes om vedtaket.
+3. Eventuell avgift etter denne bestemmelse kommer i tillegg til avgift etter [§ 4](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md), [§ 5](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md), [§ 6](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md) og [§ 7](for-1995-07-10-684-forskrift-om-avgift-paa-farlige-stoffer-mv.md).
+
+*Endret ved [forskrifter 10 juli 2002 nr. 816](https://lovdata.no/forskrift/2002-07-10-816), [6 nov 2003 nr. 1317](https://lovdata.no/forskrift/2003-11-06-1317).*
+
+### § 9. Refusjon av utgifter til eksterne konsulenter
+
+Utgifter i forbindelse med eksterne konsulenttjenester som Direktoratet for samfunnssikkerhet og beredskap har benyttet under utøvelse av tilsynsmyndigheten, skal betales av den tilsynspliktige virksomhet. Dette gjelder også i forbindelse med undersøkelser, kontroller og prøver i henhold til lov om brannfarlige varer samt væsker og gasser under trykk [§ 6](../lover/lov-1971-05-21-47-brannfarligvareloven-svalbard.md) og [§ 7](../lover/lov-1971-05-21-47-brannfarligvareloven-svalbard.md), og [lov om eksplosive varer § 5](../lover/lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md), med mindre Direktoratet for samfunnssikkerhet og beredskap i medhold av henholdsvis [§ 43](../lover/lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) og [§ 40](../lover/lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) i de respektive lover bestemmer at utgiftene skal fordeles på flere.
+
+*Endret ved [forskrifter 10 juli 2002 nr. 816](https://lovdata.no/forskrift/2002-07-10-816), [6 nov 2003 nr. 1317](https://lovdata.no/forskrift/2003-11-06-1317).*
+
+## Kap II. Betalingssatser for kjøp av Direktoratet for samfunnssikkerhet og beredskap
+
+*Endret ved [forskrift 6 nov 2003 nr. 1317](https://lovdata.no/forskrift/2003-11-06-1317).*
+
+### § 10. Betalingssatser
+
+Direktoratet for samfunnssikkerhet og beredskap fastsetter betalingsbetingelser for tjenester i forbindelse med sertifisering og tilstandskontroll av kjeler og beholdere m.v., og sertifisering av sveisere.
+
+Betalingssatsene skal være like for hele landet.
+
+*Endret ved [forskrifter 18 juni 1999 nr. 738](https://lovdata.no/forskrift/1999-06-18-738) (i kraft 1 juli 1999), [10 juli 2002 nr. 816](https://lovdata.no/forskrift/2002-07-10-816), [6 nov 2003 nr. 1317](https://lovdata.no/forskrift/2003-11-06-1317).*
+
+## Kap III. Fellesbestemmelser
+
+### § 11. Ikrafttredelse m.v.
+
+Forskriften trer i kraft straks.
+
+Denne forskrift gis virkning for avgiftsoppkrevinger og betalingsberegninger fra og med 1995.
+
+[Forskrift av 11. februar 1993 nr. 98](https://lovdata.no/forskrift/1993-02-11-98) om avgift for tilsyn m.v. som foretas av Direktoratet for brann- og eksplosjonsvern og om betalingssatser i forbindelse med servicetjenester, oppheves fra denne forskrifts ikrafttredelse.

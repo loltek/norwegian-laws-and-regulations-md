@@ -1,0 +1,219 @@
+# Forskrift om midlertidig bruk av utenlandsregistrert motorvogn i Norge
+
+- **Korttittel:** Forskrift om utenlandsregistrert motorvogn
+- **Datokode:** FOR-1991-06-20-381
+- **DokumentID:** SF/forskrift/1991-06-20-381
+- **Departement:** Finansdepartementet
+- **Etat:** TAD, Skattelovavdelingen
+- **Hjemmel:** lov 19.06.1959 nr. 2/§1; lov 21.12.2007 nr. 119/§6-1; lov 19.06.2009 nr. 58/§7-2
+- **Publisert i:** I 1991 320
+- **I kraft fra:** 1991-07-15
+- **Siste endring i kraft:** 2024-04-09
+- **Sist endret ved:** forskrift 09.04.2024 nr. 586
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-01-01 (tegnsetting i lister tilpasset universell utforming).
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 20. juni 1991 med hjemmel i lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 1 og Stortingets vedtak om avgifter på motorvogner mv. A. Engangsavgift § 9. Endret ved forskrifter 17 jan 1992 nr. 22, 28 feb 1996 nr. 220, 19 mars 2001 nr. 270, 21 mai 2003 nr. 654, 12 des 2003 nr. 1538, 18 aug 2006 nr. 981, 15 des 2008 nr. 1359, 15 des 2009 nr. 1526, 15 mars 2010 nr. 393, 19 des 2013 nr. 1618, 20 jan 2014 nr. 36, 22 jan 2014 nr. 40, 6 feb 2014 nr. 109, 15 des 2015 nr. 1636, 2 april 2020 nr. 672, 16 des 2020 nr. 2903 (i kraft 1 jan 2021), 25 april 2022 nr. 608, 28 april 2022 nr. 641, 21 des 2022 nr. 2458 (i kraft 1 jan 2023, bl.a. tittel), 9 april 2024 nr. 586. Rettelser: 13.02.2004 (§ 5 bokstav e og g, § 6 annet ledd, § 11 annet ledd), 01.03.2010 (hjemmel), 01.01.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/1991-06-20-381>
+
+## § 1. Forskriftens omfang og virkeområde.
+
+Denne forskrift angir bestemmelser om fritak fra engangsavgift ved personlig midlertidig bruk av utenlandsregistrert motorvogn.
+
+Med utleiekjøretøy menes motorvogn som ledd i profesjonell virksomhet stilles til leietakers rådighet mot vederlag for et bestemt tidsrom. Dersom leieavtalen inneholder en kjøpsopsjon, vil motorvognen ikke betraktes som et utleiekjøretøy.
+
+Med privatlånt kjøretøy menes motorvogn som stilles til rådighet for privatpersoner av privatpersoner med eller uten vederlag.
+
+Med bruk menes i denne forskrift enhver form for disponering.
+
+Motorvogn som ikke er registreringspliktig etter bestemmelsen i hjemlandet eller som tidligere ikke er gått over til fri disponering etter bestemmelser i [vareførselsloven](../lover/lov-2022-03-11-9-vareforselsloven.md), regnes også som utenlandsregistrert.
+
+*Endret ved [forskrifter 15 des 2008 nr. 1359](https://lovdata.no/forskrift/2008-12-15-1359) (i kraft 1 jan 2009), [15 mars 2010 nr. 393](https://lovdata.no/forskrift/2010-03-15-393), [20 jan 2014 nr. 36](https://lovdata.no/forskrift/2014-01-20-36) (i kraft 1 feb 2014), [21 des 2022 nr. 2458](https://lovdata.no/forskrift/2022-12-21-2458) (i kraft 1 jan 2023).*
+
+## § 2. Hovedregel.
+
+Midlertidig bruk av utenlandsregistrert motorvogn i Norge er tillatt for personer som har fast oppholdssted i et annet land, jf. [§ 3](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md).
+
+Tilsvarende rett til midlertidig bruk har personer som har midlertidig opphold i Norge, jf. [§ 4](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md) eller [§ 4a](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md), eller som for øvrig har adgang til slik bruk etter bestemmelsene i denne forskrift, jf. [§ 5](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md).
+
+Den midlertidige bruken skal opphøre hvis brukeren på innreisetidspunktet eller senere etablerer fast oppholdssted i Norge, eller for øvrig ikke lenger fyller vilkårene i denne forskrift.
+
+Utenlandsregistrert motorvogn kan ikke brukes til utleie i Norge. Utleiekjøretøy som er mottatt av utleiers representant som følge av et avsluttet leieforhold, kan likevel leies ut for transport direkte til utlandet.
+
+Bruk av utenlandsregistrert motorvogn i ervervsmessig transport av personer eller varer mellom steder i Norge er ikke tillatt, med mindre annet er bestemt av samferdselsmyndighetene, følger av avtale mellom Norge og andre land eller fremgår av denne forskrift.
+
+*Endret ved [forskrifter 28 feb 1996 nr. 220](https://lovdata.no/forskrift/1996-02-28-220) (i kraft 15 mars 1996), [19 mars 2001 nr. 270](https://lovdata.no/forskrift/2001-03-19-270) (i kraft 1 april 2001), [15 mars 2010 nr. 393](https://lovdata.no/forskrift/2010-03-15-393), [21 des 2022 nr. 2458](https://lovdata.no/forskrift/2022-12-21-2458) (i kraft 1 jan 2023), [9 april 2024 nr. 586](https://lovdata.no/forskrift/2024-04-09-586).*
+
+## § 3. Fast oppholdssted utenfor Norge.
+
+En person anses å ha fast oppholdssted utenfor Norge når han faller inn under ett eller flere av følgende tilfelle:
+
+1. Person som har sin familiemessige, ervervsmessige og personlige tilknytning utenfor Norge.
+2. Person som har sin familiemessige tilknytning utenfor Norge. Dette gjelder selv om han har ervervsmessig og/eller personlig tilknytning til Norge.
+3. Person som har ervervsmessig tilknytning utenfor Norge, såfremt han ikke har familiemessig tilknytning til Norge. Han må heller ikke være registrert i norsk folkeregister.
+4. Person som har ervervsmessig tilknytning til Norge, såfremt han opprettholder personlig tilknytning til et annet land. Forutsetningen er at han ikke har familiemessig tilknytning til Norge og enten
+   a. daglig reiser frem og tilbake mellom Norge og det annet land, eller
+   b. har oppholdt seg eller har til hensikt å oppholde seg i det annet land i minst 185 dager i løpet av en 12-månedersperiode.
+
+En person anses å ha familiemessig tilknytning til det land hvor han bor sammen med ektefelle eller barn under 18 år, som han oppsøker jevnlig, normalt minst 1 gang hver måned.
+
+En person anses å ha ervervsmessig tilknytning til det land han har fast arbeid eller følger undervisning ved universitet/skole. En person kan anses å ha ervervsmessig tilknytning til det land han mottar pensjon fra, når denne naturlig kan likestilles med inntekt fra fast arbeid.
+
+En person anses å ha personlig tilknytning til det land hvor vedkommende har regelmessig døgnhvile i bolig som han selv eier eller leier med helårs leiekontrakt. Dersom vedkommende er registrert i norsk folkeregister, kan han ikke anses å ha personlig tilknytning utenfor Norge. Registrering som midlertidig fraværende er ikke tilstrekkelig i denne sammenheng. Kravet til registrert utflytting gjelder ikke norske embeds- og tjenestemenn (herunder militært personell) beordret til tjeneste i utlandet, dersom de ikke kan få meldt flytting fra landet.
+
+Anses en person å ha fast oppholdssted i mer enn ett land etter de nordiske lands lovgivning, løses tvisten ved en konsultasjon mellom de berørte lands myndigheter. Skattekontoret foretar konsultasjonen.
+
+*Endret ved [forskrifter 12 des 2003 nr. 1538](https://lovdata.no/forskrift/2003-12-12-1538) (i kraft 1 jan 2004), [15 des 2015 nr. 1636](https://lovdata.no/forskrift/2015-12-15-1636) (i kraft 1 jan 2016), [25 april 2022 nr. 608](https://lovdata.no/forskrift/2022-04-25-608), [28 april 2022 nr. 641](https://lovdata.no/forskrift/2022-04-28-641).*
+
+## § 4. Midlertidig opphold i Norge.
+
+En person anses å ha midlertidig opphold i Norge, når det kan dokumenteres at oppholdet ikke skal overstige ett år fra innreisetidspunktet.
+
+Skattekontoret kan etter søknad bestemme at en person skal anses å ha midlertidig opphold i Norge i ytterligere ett år, dersom det kan dokumenteres at oppholdet ikke skal vare utover 2 år fra innreisetidspunktet.
+
+Søknad sendes til skattekontoret innen ett år etter innreisetidspunktet.
+
+Tidsavgrenset arbeidskontrakt kan anses som relevant dokumentasjon for midlertidig opphold.
+
+En person kan ikke anses å ha midlertidig opphold i Norge, dersom han har oppholdt seg her i mer enn 365 dager i løpet av de to siste år før innreisetidspunktet, eller innenfor det samme tidsrom har vært innmeldt i norsk folkeregister.
+
+*Endret ved [forskrifter 12 des 2003 nr. 1538](https://lovdata.no/forskrift/2003-12-12-1538) (i kraft 1 jan 2004), [15 des 2015 nr. 1636](https://lovdata.no/forskrift/2015-12-15-1636) (i kraft 1 jan 2016), [28 april 2022 nr. 641](https://lovdata.no/forskrift/2022-04-28-641), [9 april 2024 nr. 586](https://lovdata.no/forskrift/2024-04-09-586).*
+
+## § 4a. Midlertidig opphold i Norge på grunnlag av oppholdstillatelse etter utlendingsforskriften § 7-5a.
+
+Personer som er innvilget midlertidig oppholdstillatelse etter [utlendingsforskriften § 7-5a](for-2009-10-15-1286-utlendingsforskriften.md) anses å ha midlertidig opphold i Norge. Oppholdet anses som midlertidig så lenge oppholdstillatelsen varer, men maksimalt inntil 4 år fra innvilgelsen av oppholdstillatelse.
+
+*Tilføyd ved forskrift [9 april 2024 nr. 586](https://lovdata.no/forskrift/2024-04-09-586).*
+
+## § 5. Midlertidig bruk av utenlandsregistrert motorvogn for personer med fast oppholdssted i Norge. Vilkår.
+
+a. Sammen med berettiget person.
+
+   Person med fast oppholdssted i Norge kan midlertidig bruke utenlandsregistrert motorvogn dersom berettiget person selv er med i vognen.
+
+   Med berettiget person menes person som har gyldig førerkort og som er berettiget til midlertidig bruk i henhold til denne forskrift.
+b. Virksomhetstransport.
+
+   I forbindelse med henting, levering, prøving, parkering, avskipning, hjemtransport o.l. av utenlandsregistrert motorvogn, kan person ansatt i norsk virksomhet føre utenlandsregistrert motorvogn på vegne av den som er berettiget til å bruke denne. Transporten skal skje som ledd i firmaets virksomhet.
+c. Utleiekjøretøy.
+
+   Person med fast oppholdssted i Norge, kan midlertidig bruke et utenlandsregistrert utleiekjøretøy her i landet. Den totale bruken av utenlandsregistrerte utleiekjøretøyer etter denne bestemmelse må ikke overstige 42 dager i løpet av en periode på 12 måneder.
+
+   Bruk som nevnt i første ledd skal meldes til skattemyndighetene før bruken i Norge starter. Det er kun den eller de personer som står oppført i leiekontrakten som kan melde bruken til skattemyndighetene. Meldingen skal inneholde: leietakers navn, fødselsnummer/D-nummer, kontaktinformasjon på leietaker, motorvognens kjennemerke, navn på utleiefirma, avtalens referansenummer og tidsperioden motorvognen skal brukes i Norge. Skattedirektoratet kan gi nærmere bestemmelser om hvordan melding til skattemyndighetene skal skje
+
+   Utenlandsregistrerte utleiekjøretøyer som ikke gjenutføres av leietaker må leveres til utleiers representant her i landet. I de tilfellene representanten overtar motorvognen, plikter denne å besørge gjenutførsel. I den forbindelse kan representanten leie ut motorvognen for transport direkte til utlandet.
+
+   Et utenlandsregistrert utleiekjøretøy må ikke benyttes i Norge av personer med fast oppholdssted i Norge i tråd med bestemmelsen her i mer enn 182 dager i løpet av en 12-måneders periode.
+d. Demonstrasjon
+
+   Skattekontoret kan etter søknad gi tillatelse til at person som har fast oppholdssted i Norge, kan midlertidig bruke utenlandsregistrert motorvogn som skal demonstreres eller som er spesialutrustet for demonstrasjon av varer.
+e. Flytting
+
+   Skattekontoret kan etter søknad gi tillatelse til at person som har fast oppholdssted i Norge og som skal flytte ut fra Norge eller inn til Norge, i forbindelse med flyttingen midlertidig kan bruke utenlandsregistrert motorvogn her i inntil 14 dager regnet fra flyttedato.
+
+   Flytting må dokumenteres gjennom flytteattest, arbeidskontrakt eller annen relevant dokumentasjon. For beordrede norske embets- og tjenestemenn dokumenteres utflytting gjennom attest for beordring til utlandet.
+f. Transport fra inn- til utførselssted mv.
+
+   Skattekontoret kan etter søknad gi tillatelse til at person som har fast oppholdssted i Norge, midlertidig kan bruke utenlandsregistrert motorvogn direkte fra inn- til utførselsstedet.
+g. Kortvarig bruk
+
+   Person med fast oppholdssted i Norge, kan midlertidig bruke en utenlandsregistrert motorvogn her i landet i inntil 14 dager i løpet av en 12-måneders periode.
+
+   Bruken skal meldes til skattemyndighetene før bruken i Norge starter. Meldingen skal inneholde brukerens navn, motorvognens kjennemerke, og tidsperioden motorvognen skal brukes i Norge. Skattedirektoratet kan gi nærmere bestemmelser om hvordan melding til skattemyndighetene skal skje.
+
+   Den midlertidige bruken må avsluttes ved å gjenutføre motorvognen til utlandet innen utløpet av den innmeldte perioden.
+h. (Opphevet)
+i. Firmabil
+
+   Skattekontoret kan etter søknad gi tillatelse til at en arbeidstaker eller selvstendig næringsdrivende med fast oppholdssted i Norge kan bruke en bestemt utenlandsregistrert motorvogn som er stilt til rådighet av en arbeids- eller oppdragsgiver etablert utenfor Norge. Motorvognen må være nødvendig for utførelsen av arbeidsoppgavene eller oppdraget, og kan ikke brukes vesentlig og varig i Norge.
+
+   Motorvognen anses brukt vesentlig og varig i Norge når den i løpet av en 12-måneders periode brukes i Norge i 183 dager eller mer og når den i samme 12-måneders periode brukes mer privat og ervervsmessig i Norge enn ervervsmessig i utlandet, målt i antall kilometer.
+j. Internasjonal bistand ved katastrofer
+
+   Personer med fast oppholdssted i Norge kan midlertidig bruke utenlandsregistrert motorvogn i forbindelse med organisert bistandsarbeid ved større ulykker og naturkatastrofer. Skattekontoret skal orienteres om bruken når situasjonen tillater det.
+
+   Skattekontoret kan etter søknad gi tillatelse til at person med fast oppholdssted i Norge,midlertidig kan bruke utenlandsregistrert motorvogn som skal benyttes i forbindelse med beredskapsøvelser.
+k. Privatlånte kjøretøy
+
+   Person med fast oppholdssted i Norge, kan midlertidig bruke et utenlandsregistrert privatlånt kjøretøy her i landet. Den totale bruken av utenlandsregistrerte privatlånte kjøretøyer etter denne bestemmelsen må ikke overstige 25 dager i løpet av en 12 måneders periode.
+
+   Bruk som nevnt i første ledd skal meldes til skattemyndighetene før bruken i Norge starter. Det er kun den eller de personer som har lånt kjøretøyet som kan melde bruken til skattemyndighetene. Melding skal inneholde låntakers navn, fødselsnummer/D-nummer, kontaktinformasjon på låntaker, kjøretøyets kjennemerke, utlåners navn, kontaktinformasjon på utlåner og tidsperioden kjøretøyet skal brukes i Norge. Dersom utlåner er en annen enn eier må også eiers navn og kontaktinformasjon oppgis. Skattedirektoratet kan gi nærmere bestemmelser om hvordan melding til skattemyndighetene skal skje
+
+   Låntaker må avslutte den midlertidige bruken ved å gjenutføre kjøretøyet til utlandet innen utløpet av den innmeldte perioden.
+l. Motorvogn registrert for bruk på Svalbard
+
+   Person som er registrert i befolkningsregisteret på Svalbard kan midlertidig bruke en motorvogn registrert for bruk på Svalbard her i landet. Den totale bruken må ikke overstige 93 dager i løpet av en 12-måneders periode.
+
+   Bruk som nevnt i første ledd skal meldes til skattemyndighetene før motorvognen innføres til Fastlands-Norge. Meldingen skal inneholde brukerens navn, motorvognens kjennemerke, og tidsperioden motorvognen skal brukes i Norge.
+
+   Skattedirektoratet kan gi nærmere bestemmelser om hvordan meldingen til skattemyndighetene skal skje.
+
+   Motorvognen må gjenutføres til Svalbard innen utløpet av den innmeldte perioden.
+
+*Endret ved [forskrifter 28 feb 1996 nr. 220](https://lovdata.no/forskrift/1996-02-28-220) (i kraft 15 mars 1996), [21 mai 2003 nr. 654](https://lovdata.no/forskrift/2003-05-21-654) (i kraft 1 juli 2003), [12 des 2003 nr. 1538](https://lovdata.no/forskrift/2003-12-12-1538) (i kraft 1 jan 2004), [18 aug 2006 nr. 981](https://lovdata.no/forskrift/2006-08-18-981) (i kraft 1 okt 2006), [15 des 2009 nr. 1526](https://lovdata.no/forskrift/2009-12-15-1526) (i kraft 1 jan 2010), [15 mars 2010 nr. 393](https://lovdata.no/forskrift/2010-03-15-393), [19 des 2013 nr. 1618](https://lovdata.no/forskrift/2013-12-19-1618) (i kraft 1 jan 2014), [20 jan 2014 nr. 36](https://lovdata.no/forskrift/2014-01-20-36) (i kraft 1 feb 2014), [6 feb 2014 nr. 109](https://lovdata.no/forskrift/2014-02-06-109), [15 des 2015 nr. 1636](https://lovdata.no/forskrift/2015-12-15-1636) (i kraft 1 jan 2016), [2 april 2020 nr. 672](https://lovdata.no/forskrift/2020-04-02-672), [16 des 2020 nr. 2903](https://lovdata.no/forskrift/2020-12-16-2903) (i kraft 1 jan 2021), [21 des 2022 nr. 2458](https://lovdata.no/forskrift/2022-12-21-2458) (i kraft 1 jan 2023).*
+
+## § 6. Etterlatelse
+
+Utenlandsregistrert motorvogn som er brukt midlertidig i Norge i henhold til denne forskrift, skal medbringes ved brukerens utreise. Motorvognen kan dog ved brukerens utreise etterlates i Norge i inntil 6 uker pr. 12 måneder. Motorvognen skal under etterlatelsen ikke brukes av person som har fast oppholdssted i Norge, herunder heller ikke bortlånes eller utleies.
+
+Skattekontoret kan etter søknad tillate at motorvognen blir lagret for lengre tid under skattemyndighetenes kontroll.
+
+*Endret ved [forskrifter 12 des 2003 nr. 1538](https://lovdata.no/forskrift/2003-12-12-1538) (i kraft 1 jan 2004), [15 des 2015 nr. 1636](https://lovdata.no/forskrift/2015-12-15-1636) (i kraft 1 jan 2016), [21 des 2022 nr. 2458](https://lovdata.no/forskrift/2022-12-21-2458) (i kraft 1 jan 2023).*
+
+## § 7. Midlertidig kjøretillatelse.
+
+Skattekontoret kan etter søknad samtykke i midlertidig kjøretillatelse under konsultasjon i henhold til [§ 3](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md).
+
+Person som er gitt kjøretillatelse i medhold av denne forskrift, plikter å ha tillatelsen med seg under kjøringen.
+
+*Endret ved [forskrifter 12 des 2003 nr. 1538](https://lovdata.no/forskrift/2003-12-12-1538) (i kraft 1 jan 2004), [15 des 2015 nr. 1636](https://lovdata.no/forskrift/2015-12-15-1636) (i kraft 1 jan 2016).*
+
+## § 8. Dokumentasjon
+
+Brukeren skal på betryggende måte dokumentere at han fyller vilkårene for midlertidig bruk av utenlandsregistrert motorvogn i medhold av denne forskriften. Tilsvarende dokumentasjonsplikt gjelder for særlige omstendigheter knyttet til den ulovlige bruken ved gjenutførsel etter [§ 10](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md) tredje ledd.
+
+Attest fra folkeregisteret, leiekontrakt, arbeidskontrakt, vigselattest, skattedokumenter, opptaksbevis til skole/universitet o.a. kan anses som relevant dokumentasjon for at bruker fyller vilkårene for toll- og avgiftsfri innførsel og midlertidig bruk av utenlandsregistrert motorvogn i Norge.
+
+Dokumenter som legges frem skal være datert og undertegnet/stemplet.
+
+*Endret ved [forskrifter 15 mars 2010 nr. 393](https://lovdata.no/forskrift/2010-03-15-393), [21 des 2022 nr. 2458](https://lovdata.no/forskrift/2022-12-21-2458) (i kraft 1 jan 2023).*
+
+## § 9. Rett til oppbevaring
+
+Person som i tråd med denne forskriften midlertidig bruker en utenlandsregistrert motorvogn, kan oppbevare motorvognen i Norge i inntil 182 dager i løpet av en 12-måneders periode.
+
+Oppbevaringssted og -periode skal meldes til skattemyndighetene før oppbevaringen starter. Skattedirektoratet kan gi nærmere bestemmelser om hvordan melding til skattemyndighetene skal skje.
+
+Motorvognen skal i den aktuelle perioden til enhver tid stå parkert på den angitte adressen.
+
+*Opphevet ved [forskrift 21 mai 2003 nr. 654](https://lovdata.no/forskrift/2003-05-21-654) (i kraft 1 juli 2003), tilføyd igjen ved [forskrift 15 des 2015 nr. 1636](https://lovdata.no/forskrift/2015-12-15-1636) (i kraft 1 jan 2016), endret ved [forskrifter 2 april 2020 nr. 672](https://lovdata.no/forskrift/2020-04-02-672), [21 des 2022 nr. 2458](https://lovdata.no/forskrift/2022-12-21-2458) (i kraft 1 jan 2023).*
+
+## § 10. Betaling av engangsavgift
+
+Overtredelse av denne forskrift medfører plikt til å betale engangsavgift.
+
+Avgiftspliktig er den som innfører eller bruker motorvognen i strid med reglene i forskriften her. For overtredelse av [§ 5](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md) bokstav c fjerde ledd er registrert eier av kjøretøyet avgiftspliktig.
+
+Når det foreligger særlige omstendigheter knyttet til den ulovlige bruken, kan skattekontoret bestemme at ordinær fastsatt engangsavgift etter første og annet ledd ikke skal betales dersom motorvognen gjenutføres. I vurderingen av om det foreligger særlige omstendigheter kan det blant annet legges vekt på om den ulovlige bruken har vært kortvarig forutsatt at det gjelder en førstegangs overtredelse av forskriften. Ved brudd på meldeplikten etter [§ 5](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md) bokstav c og [§ 5](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md) bokstav k bør gjenutførsel uten ordinære avgifter tillates dersom brukeren kan dokumentere at de øvrige vilkårene for midlertidig bruk av utenlandsregistrert utleiekjøretøy og utenlandsregistrert privatlånt kjøretøy er oppfylt.
+
+*Endret ved [forskrifter 15 mars 2010 nr. 393](https://lovdata.no/forskrift/2010-03-15-393), [22 jan 2014 nr. 40](https://lovdata.no/forskrift/2014-01-22-40) (i kraft 1 feb 2014), [15 des 2015 nr. 1636](https://lovdata.no/forskrift/2015-12-15-1636) (i kraft 1 jan 2016), [21 des 2022 nr. 2458](https://lovdata.no/forskrift/2022-12-21-2458) (i kraft 1 jan 2023).*
+
+## § 11. Utfyllende bestemmelser
+
+Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gjennomføring av denne forskrift, herunder beregning, tilbakebetaling, kontroll, dokumentasjon, gjenutførsel mv. Skattedirektoratet kan bestemme at søknader nevnt i [§ 5](for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md) skal rettes til og behandles av tollmyndighetene.
+
+*Endret ved [forskrifter 15 mars 2010 nr. 393](https://lovdata.no/forskrift/2010-03-15-393) (tidligere § 12), [15 des 2015 nr. 1636](https://lovdata.no/forskrift/2015-12-15-1636) (i kraft 1 jan 2016).*
+
+## § 12. Ikrafttredelse. Overgangsbestemmelser.
+
+1. Ikrafttredelse.
+
+   Denne forskrift trer i kraft 15. juli 1991.
+
+   Fra samme tidspunkt oppheves Finansdepartementets [forskrift av 5. mars 1987 nr. 354](https://lovdata.no/forskrift/1987-03-05-354) om toll- og avgiftsfri innførsel av utenlandsregistrerte motorvogner til midlertidig bruk i Norge.
+2. Overgangsbestemmelser.
+
+   Tillatelser til innførsel og bruk av utenlandsregistrert motorvogn som er gitt i henhold til forskrift av 5. mars 1987, gjelder for det tidsrom og på de vilkår som er fastsatt.
+
+   For person som ved kontroll etter 15. juli 1991 må anses uberettiget til å innføre eller bruke utenlandsregistrert motorvogn i Norge, gjelder denne forskrift selv om motorvognen er innført før dette tidspunkt.
+
+*Endret ved [forskrift 15 mars 2010 nr. 393](https://lovdata.no/forskrift/2010-03-15-393) (tidligere § 13).*

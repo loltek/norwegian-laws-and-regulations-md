@@ -1,0 +1,104 @@
+# Forskrift om fartsområde for lasteskip registrert i norsk internasjonalt skipsregister (NIS)
+
+- **Korttittel:** Forskrift om fartsområde for lasteskip i NIS
+- **Datokode:** FOR-1989-08-11-802
+- **DokumentID:** SF/forskrift/1989-08-11-802
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Maritim avd.
+- **Hjemmel:** lov 12.06.1987 nr. 48/§4; forskrift 27.03.2015 nr. 310
+- **Publisert i:** I 1989 759
+- **I kraft fra:** 1989-08-11
+- **Siste endring i kraft:** 2016-01-01
+- **Sist endret ved:** forskrift 17.12.2015 nr. 1735 fra 2016-01-01
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2016-04-08 (§ 4 andre og tredje ledd tilbakeført)
+- **Merknad:** Hjemmel: Fastsatt av kgl.res. 11. august 1989 i medhold av lov av 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister § 4 annet ledd. Fremmet av Utenriksdepartementet. Tilføyd hjemmel: Delegeringsvedtak 27. mars 2015 nr. 310. Endret ved forskrifter 1 jan 2014 nr. 238, 8 okt 2015 nr. 1170, 17 des 2015 nr. 1735. Rettelser: 08.04.2016 (§ 4 andre og tredje ledd tilbakeført).
+- **Kilde:** <https://lovdata.no/forskrift/1989-08-11-802>
+
+## Kapittel I. Generelle bestemmelser
+
+*Overskrift tilføyd ved [forskrift 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016).*
+
+### § 1. Anvendelse
+
+Denne forskrift kommer til anvendelse på lasteskip registrert i norsk internasjonalt skipsregister, unntatt fartøyer som omfattes av [forskrift 30. juni 1987 nr. 579](for-1987-06-30-579-forskrift-om-saerskilt-fartsomraade-nis.md) om særskilt fartsområde for fartøyer og flyttbare innretninger i petroleumsvirksomhet registrert i norsk internasjonalt skipsregister.
+
+*Endret ved [forskrift 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016).*
+
+### § 2. Svalbard
+
+Skip som omfattes av denne forskrift tillates å føre last mellom havner på Svalbard og mellom Svalbard og fastlandet, uavhengig av bestemmelsene i [kapittel II](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md).
+
+*Tilføyd ved [forskrift 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016).*
+
+## Kapittel II. Utvidet fartsområde for lasteskip registrert i norsk internasjonalt skipsregister
+
+*Overskrift tilføyd ved [forskrift 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016), endret ved [forskrift 17 des 2015 nr. 1735](https://lovdata.no/forskrift/2015-12-17-1735) (i kraft 1 jan 2016).*
+
+### § 3. Utvidelse av fartsområde for lasteskip
+
+Lasteskip der en vesentlig del av skipets virksomhet skjer utenfor norske farvann, tillates å føre last mellom norske havner når dette skjer
+
+a. som del av en regulær rute mellom norsk og utenlandsk havn; eller
+b. som frakt av petroleum[1] i bulk fra innretning på norsk kontinentalsokkel; eller
+c. leilighetsvis i inntil 3 måneder.
+
+Sjøfartsdirektoratet fører kontroll med at betingelsene etterleves.
+
+*Endret ved [forskrifter 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016), [17 des 2015 nr. 1735](https://lovdata.no/forskrift/2015-12-17-1735) (i kraft 1 jan 2016).*
+
+### § 4. Utvidelse av fartsområdet for spesielle lasteskip
+
+Utover den utvidelse av fartsområde som følger av [§ 3](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md), tillates lasteskip som er bygget eller utrustet for å transportere spesielle typer last, å føre slik last mellom norske havner, når skipet er på vei til eller fra utenlandsk havn og frakten ikke er ledd i et fast ruteopplegg. Skipsfører må være norsk statsborger eller statsborger fra land som omfattes av EØS-avtalen. Det er et vilkår at slik transport fører til en rasjonell utnyttelse av den tonnasje som er tilgjengelig, og ikke medfører uønskede konsekvenser for skip registrert i det ordinære skipsregisteret.
+
+Et skip anses å være på vei til eller fra utenlandsk havn også når det fører last mellom norske havner i tillegg til en havn for å losse last fra utlandet og en havn for å ta ombord last fra utlandet.
+
+Et skip kan ikke føre last mellom norske havner i medhold av denne forskrift før meddelelse er gitt fra Sjøfartsdirektoratet om at skipet er oppført på listen nevnt i [§ 5](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md).
+
+*Endret ved [forskrifter 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016, tidligere § 2), [17 des 2015 nr. 1735](https://lovdata.no/forskrift/2015-12-17-1735) (i kraft 1 jan 2016).*
+
+### § 5. Liste over spesielle lasteskip som kan føre last mellom norske havner
+
+Sjøfartsdirektoratet skal føre en liste over spesielle lasteskip som kan føre last mellom norske havner i medhold av [§ 4](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md). Oppføring på listen skjer når
+
+- det ikke innen en slik frist som direktoratet setter, kommer begrunnede innvendinger om at vilkårene i [§ 4](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md) første ledd siste punktum ikke er oppfylt
+- skipet ikke tidligere under samme eier har vært brukt i strid med [lovens § 4](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md) eller bestemmelsene i denne forskrift, og
+- direktoratet ellers finner at vilkårene er til stede.
+
+Listen skal gi opplysning om for hvilket tidsrom og hvilke laste- og lossehavner skipet har annet fartsområde enn det som følger av [lovens § 4](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md) første ledd, samt om hvilken type last det fører i dette fartsområdet.
+
+Skip oppført på listen skal strykes ved eierskifte eller når det ikke lenger fyller vilkårene for oppføring, eller når det har vært brukt i strid med [lovens § 4](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md) eller bestemmelsene i denne forskrift.
+
+*Endret ved [forskrift 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016, tidligere § 3), [17 des 2015 nr. 1735](https://lovdata.no/forskrift/2015-12-17-1735) (i kraft 1 jan 2016).*
+
+### § 6. Fremgangsmåte ved oppføring på listen
+
+For at et skip kan føres opp på listen nevnt i [§ 5](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md), må Sjøfartsdirektoratet være gitt opplysninger som viser at vilkårene i [§ 4](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md) første ledd er oppfylt, og som kreves for at det kan føres opp på listen.
+
+Oppføring på listen skal forelegges skipsfartsnæringens organisasjoner til uttalelse. Det samme gjelder senere stryking av listen etter [§ 5](for-1989-08-11-802-forskrift-om-fartsomraade-for-lasteskip-i-nis.md) tredje ledds annet og tredje strykingsalternativ.
+
+Sjøfartsdirektoratet fastsetter nærmere retningslinjer for fremgangsmåten ved oppføring på listen.
+
+*Endret ved [forskrift 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016, tidligere § 4), [17 des 2015 nr. 1735](https://lovdata.no/forskrift/2015-12-17-1735) (i kraft 1 jan 2016).*
+
+## Kapittel III. Straff og ikrafttredelse
+
+*Overskrift tilføyd ved [forskrift 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016), endret ved [forskrift 17 des 2015 nr. 1735](https://lovdata.no/forskrift/2015-12-17-1735) (i kraft 1 jan 2016).*
+
+### § 7. Straff.
+
+Den som forsettlig eller grovt uaktsomt overtrer bestemmelsene i denne forskrift straffes med bøter i medhold av [lov 12. juni 1987 nr. 48](../lover/lov-1987-06-12-48-nis-loven.md) om norsk internasjonalt skipsregister [§ 11](../lover/lov-1987-06-12-48-nis-loven.md), såfremt strengere straff ikke kommer til anvendelse i medhold av annen lovbestemmelse.
+
+Ved overtredelser kan vedkommende departement bestemme at skipet skal slettes av registeret, jfr. [lov av 12. juni 1987 nr. 48 § 12](../lover/lov-1987-06-12-48-nis-loven.md) annet ledd.
+
+*Endret ved [forskrifter 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016, tidligere § 5), [17 des 2015 nr. 1735](https://lovdata.no/forskrift/2015-12-17-1735) (i kraft 1 jan 2016).*
+
+### § 8. Ikrafttreden.
+
+Denne forskrift trer i kraft straks.
+
+*Endret ved [forskrifter 8 okt 2015 nr. 1170](https://lovdata.no/forskrift/2015-10-08-1170) (i kraft 1 jan 2016), [17 des 2015 nr. 1735](https://lovdata.no/forskrift/2015-12-17-1735) (i kraft 1 jan 2016, tidligere § 7).*
+
+## Fotnoter
+
+**1.** Jf. petroleumsloven § 1-6 a).

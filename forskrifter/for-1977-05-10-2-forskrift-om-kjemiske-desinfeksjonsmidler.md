@@ -1,0 +1,147 @@
+# Forskrifter om kjemiske desinfeksjonsmidler til teknisk bruk i helse- og sykepleie.
+
+- **Korttittel:** Forskrift om kjemiske desinfeksjonsmidler
+- **Datokode:** FOR-1977-05-10-2
+- **DokumentID:** SF/forskrift/1977-05-10-2
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helseavd.
+- **Hjemmel:** lov 04.12.1992 nr. 132/§27
+- **Publisert i:** I 1977 723
+- **I kraft fra:** 1978-01-01
+- **Siste endring i kraft:** 2024-01-01
+- **Sist endret ved:** forskrift 21.12.2023 nr. 2281 fra 2024-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Sosialdepartementet 10. mai 1977 i henhold til § 28 i lov om legemidler og gifter m. v. av 20. juni 1964, jfr. kgl.res. av 15. april 1977 (hjemmel endret til lov av 4. desember 1992 nr. 132 om legemidler mv § 27 som følge av dep.gjennomgangen 97/98). Endret ved forskrifter 26 sep 1988 nr. 765, 19 des 2002 nr. 1714, 17 jan 2013 nr. 61, 21 des 2023 nr. 2281 (i kraft 1 jan 2024).
+- **Kilde:** <https://lovdata.no/forskrift/1977-05-10-2>
+
+## § 1. Forskriftenes omfang.
+
+Forskriftene omfatter kjemiske desinfeksjonsmidler til teknisk bruk i helse- og sykepleie. Som kjemisk desinfeksjonsmiddel regnes i forskriftene ethvert kjemisk middel som er beregnet til å bekjempe eller forebygge mikrobiell sykdom, untatt stoffer som er beregnet til innvortes bruk eller til bruk på hud eller slimhinner, og derfor regnes som legemidler.
+
+Kjemiske desinfeksjonsmidler må registreres og godkjennes i samsvar med disse forskrifter før de innføres eller bringes i handelen til teknisk bruk i helse- og sykepleie.
+
+Helsedirektoratet avgjør i tvilstilfelle om et preparat eller stoff skal regnes som desinfeksjonsmiddel etter disse forskrifter, og kan bestemme at visse kjemiske desinfeksjonsmidler helt eller delvis skal være unntatt fra forskriftene.
+
+Godkjenning og registrering gis av Direktoratet for medisinske produkter etter søknad fra tilvirkeren, hans representant i Norge eller importøren.
+
+Godkjenning gis på grunnlag av bedømmelse av preparatets bruksområde, sammensetning, kvalitet og holdbarhet. Godkjenning skal bare gis for desinfeksjonsmiddel som ansees medisinsk berettiget og svarer til de krav til sikkerhet og effektivitet som må stilles av hensyn til liv og helse. Det kan settes særlige vilkår for godkjenning av et preparat.
+
+Godkjenningen gjelder vanligvis for et tidsrom på 5 år. Midlertidig godkjenning kan gis for kortere tid.
+
+Det må ikke markedsføres andre pakningsstørrelser, konsentrasjoner eller pakningsformer enn de som er registrert.
+
+*Endret ved [forskrifter 19 des 2002 nr. 1714](https://lovdata.no/forskrift/2002-12-19-1714) (i kraft 1 jan 2003), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 3. Søknad.
+
+Søknad om godkjenning og registrering sendes Direktoratet for medisinske produkter. Søknaden kan kreves innsendt på fastsatt skjema.
+
+Følgende opplysninger og vedlegg skal følge med søknaden:
+
+1. Tilvirkerens eller importørens navn eller firma, faste forretningssted eller bopel. For utenlandske preparater må også tilsvarende opplysninger om eventuell norsk representant oppgis.
+2. Preparatets navn, pakningsstørrelser, emballasje og merking.
+3. Preparatets kvalitative og kvantitative sammensetning.
+4. Dokumentasjon om antimikrobiell effekt, toksisitet, materialpåvirkning, biologisk nedbrytning og opplysninger om virkning av allergisk natur.
+5. Bruksrettledning og bruksområde.
+6. Dokumentasjon om holdbarhet og lagringsbetingelser for konsentrat og anbefalte fortynninger.
+7. Beskrivelse av anvendte kontrollmetoder.
+8. Fastsatt avgift.
+9. Prøvepakning av preparatet.
+
+Direktoratet for medisinske produkter kan kreve opplysninger om produksjonsforhold og kontrolltiltak som er av betydning for vurdering av søknaden.
+
+Helsedirektoratet kan gi nærmere bestemmelser om søknadens innhold og krav til dokumentasjon.
+
+*Endret ved [forskrifter 19 des 2002 nr. 1714](https://lovdata.no/forskrift/2002-12-19-1714) (i kraft 1 jan 2003), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 4. Behandling av søknaden.
+
+Direktoratet for medisinske produkter foretar de undersøkelser og innhenter de opplysninger som anses nødvendig for å kunne vurdere søknaden.
+
+Blir preparatet godkjent av Direktoratet for medisinske produkter, underrettes søkeren om at preparatet vil bli registrert.
+
+Blir preparatet nektet godkjent, skal grunnen for avslaget meddeles søkeren. Det kan stilles spesielle vilkår som må oppfylles, før endelig registrering blir foretatt.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 5. Desinfeksjonsmiddelregister.
+
+Når et desinfeksjonsmiddel er godkjent og vilkårene for registrering er oppfylt, fører Direktoratet for medisinske produkter preparatet opp i Desinfeksjonsmiddelregister, hvor det blir tildelt et eget varenummer.
+
+Ajourført oversikt over godkjente desinfeksjonsmidler til teknisk bruk i helse- og sykepleie skal sendes ut minst en gang årlig.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 6. Fornyet registrering.
+
+Søknad om fornyet registrering må være innsendt til Direktoratet for medisinske produkter senest seks måneder før utløpet av den fastsatte registreringstid.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 7. Merking.
+
+Emballasjen for et registrert desinfeksjonsmiddel skal av tilvirkeren være forsynt med følgende opplysninger:
+
+1. Preparatets navn.
+2. Arten og mengden av virkestoffene.
+3. Pakningens nettoinnhold.
+4. Tilvirkerens navn eller firma.
+5. Varenummer.
+6. Fullstendig bruksrettledning med angivelse av bruksområde og fortynningsskjema for konsentrater.
+7. Opplysninger om holdbarhet og oppbevaring.
+8. Eventuelle advarsler.
+9. Produksjonsnummer.
+
+Ovennevnte opplysninger skal påføres den enkelte paknings ytre og indre emballasje.
+
+I den utstrekning preparatene har innholdsstoffer som omfattes av forskrifter om gifter eller helsefarlige stoffer[1], gjelder også påbud om merking gitt i de nevnte forskrifter.
+
+## § 8. Avgift.
+
+For hvert preparat som søkes registrert betales en avgift på kr. 10.000,-.
+
+Samme avgift betales ved søknad om fornyet registrering.
+
+Direktoratet for medisinske produkter kan frafalle kravet om avgift i særlige tilfeller.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 9. Tilbakekalling av godkjenning.
+
+Godkjenning av et registrert desinfeksjonsmiddel kan kalles tilbake av Direktoratet for medisinske produkter før registreringsperioden er utløpt:
+
+1. Hvis preparatets sammensetning avviker fra den det ble registrert med, eller andre vilkår eller bestemmelser som gjelder for preparatet ikke overholdes,
+2. hvis nye opplysninger om eller vurderinger av preparatet medfører at det ikke lenger anses for å svare til de krav som er fastsatt i § 2,
+3. hvis preparatet ikke bringes i handelen.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 10. Midlertidig forbud mot salg.
+
+Direktoratet for medisinske produkter kan midlertidig forby salg av et registrert desinfeksjonsmiddel dersom det antas å foreligge grunn til å tilbakekalle godkjenningen og bruk av preparatet kan medføre fare.
+
+Tilvirkere, deres representanter eller importører i Norge skal omgående underrette Direktoratet for medisinske produkter om skadelige virkninger av preparatet, og om risiko for slike på mennesker og dyr, såvel som på materiale og utstyr, som en måtte få kjennskap til.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 11. Unntak.
+
+Når særlige grunner foreligger, kan Direktoratet for medisinske produkter i det enkelte tilfelle tillate unntak fra forskriftene.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 12. Anke.
+
+Klage over vedtak som er truffet av Direktoratet for medisinske produkter i henhold til disse forskrifter, avgjøres av Helsedepartementet. Klager sendes til Direktoratet for medisinske produkter.
+
+*Endret ved [forskrifter 19 des 2002 nr. 1714](https://lovdata.no/forskrift/2002-12-19-1714) (i kraft 1 jan 2003), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+## § 13.
+
+Disse forskrifter trer i kraft 1. januar 1978.
+
+For kjemiske desinfeksjonsmidler som kommer inn under forskriftene, og som ved ikrafttredelsen er i handelen her i landet, må søknad om godkjenning sendes Statens legemiddelkontroll innen 30. juni 1978.
+
+## Fotnoter
+
+**1.** Jfr. forskrifter fra 1982 og 1983.

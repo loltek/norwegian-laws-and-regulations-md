@@ -1,0 +1,151 @@
+# Lov om ansvar for handlinger som påtales ved Riksrett [ansvarlighetsloven]
+
+- **Korttittel:** Ansvarlighetsloven – riksrl
+- **Datokode:** LOV-1932-02-05-1
+- **DokumentID:** NL/lov/1932-02-05-1
+- **Departement:** Justis- og beredskapsdepartementet
+- **I kraft fra:** 1932-02-05
+- **Siste endring i kraft:** 2015-10-01
+- **Sist endret ved:** lov 19.06.2015 nr. 65 fra 2015-10-01
+- **Rettsområde:** Stats-, statsforfatnings- og statsborgerrett > Statsforfatningen; Stats-, statsforfatnings- og statsborgerrett > Stortinget; Strafferett > Utenfor straffeloven
+- **Siste rettelse:** 2021-08-26 (faglige fotnoter fjernet, struktur)
+- **Merknad:** Se Grl. §§ 20 (2), 86 og 87, lov 5 feb 1932 nr. 2. – Sml. strl. §§ 171-173. Jf. tidligere lover 7 juli 1828 og 22 apr 1927 nr. 5. Lovens tittel endret ved lov 30 mars 2007 nr. 13.
+- **Kilde:** <https://lovdata.no/lov/1932-02-05-1>
+
+## Kapitel 1. Almindelige bestemmelser.
+
+### § 1.
+
+Denne lov får anvendelse på handlinger som påtales ved Riksrett.
+
+Forsåvidt ikke annet følger av denne lov, gjelder bestemmelsene om straff og erstatning i lovgivningen for øvrig ved siden av denne lov, når Statsrådets, Høyesteretts eller Stortingets medlemmer har brutt sine konstitusjonelle plikter.
+
+*Endret ved [lover 14 apr 1972 nr. 15](https://lovdata.no/lov/1972-04-14-15), [30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+### § 2. (Opphevet)
+
+*Opphevet ved [lov 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+### § 3.
+
+For ethvert straffbart forhold som påtales ved Riksrett kan tap av offentlig tjeneste idømmes istedenfor eller som tillegg til den straff som ellers er bestemt.
+
+Som tillegg til den straff som ellers idømmes, kan tap av stemmerett i offentlige anliggender og av adgang til å oppnå offentlig tjeneste idømmes for det tidsrom som retten bestemmer.
+
+*Endret ved [lov 22 mai 1953 nr. 3](https://lovdata.no/lov/1953-05-22-3).*
+
+### § 4.
+
+Bestemmelsene i denne lovs 2net og 3dje kapittel kommer også til anvendelse på den handling som er forøvet av uaktsomhet, såfremt det ikke uttrykkelig er bestemt at bare den forsettlige handling er straffbar.
+
+*Endret ved [lov 20 juni 2003 nr. 45](https://lovdata.no/lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](https://lovdata.no/forskrift/2003-06-20-712)).*
+
+### § 5.
+
+Bestemmelsene om foreldelse i [straffeloven kapittel 15](lov-2005-05-20-28-straffeloven.md) kommer til anvendelse på handlinger som påtales ved Riksrett, dog således at foreldelsesfristen for adgangen til å reise straffesak eller avsi straffedom ikke i noget tilfelle er kortere enn 15 år.
+
+Foreldelsens løp avbrytes ved beslutningen om tiltale, eller ved særskilt beslutning av Stortinget om å iverksette undersøkelser såfremt beslutning om tiltale derefter blir fattet innen 1 år.
+
+*Endret ved lover 15 des 1950 nr. 6, [30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13), [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 6. (Opphevet)
+
+*Endret ved [lov 22 mai 1953 nr. 3](https://lovdata.no/lov/1953-05-22-3), opphevet ved [lov 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+### § 7.
+
+For handling som påtales ved Riksrett kan den ansvarlige tilpliktes å betale erstatning for den skade som er voldt.
+
+*Endret ved [lov 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+## Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget.
+
+### § 8.
+
+Med bøter eller fengsel inntil 5 år straffes det medlem av Statsrådet som ved handling eller undlatelse bevirker
+
+a. at noget som krever beslutning av Stortinget blir foretatt uten Stortingets samtykke;
+b. at en beslutning av Stortinget ikke blir gjennemført, eller at en handling blir foretatt i strid med en stortingsbeslutning;
+c. at protokoller, dokumenter eller oplysninger som skal meddeles Stortinget blir tilbakeholdt, eller at statens regnskaper ikke blir tilstillet Statsrevisjonen således som bestemt i [Grunnlovens § 75](lov-1814-05-17-grunnloven-bokmaal.md) bokstav k.
+
+*Endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 9.
+
+Undlater noget medlem av Statsrådet under behandlingen av en sak å gi oplysninger som har betydning for saken, eller gir han uriktige oplysninger, straffes han med bøter eller med fengsel inntil 5 år.
+
+Det medlem av statsrådet som misligholder sin opplysningsplikt overfor Stortinget, straffes med bøter eller med fengsel inntil 5 år.
+
+*Endret ved [lov 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+### § 10.
+
+Med bøter eller med fengsel inntil 2 år straffes det medlem av Statsrådet som bevirker eller medvirker til at statens eiendommer eller øvrige midler ikke blir forsvarlig anvendt, eller bestyrt, eller som på annen måte viser uforstand eller forsømmelighet i sin virksomhet.
+
+*Endret ved [lov 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+### § 11.
+
+Den der som medlem av Statsrådet på annen måte enn nevnt i denne lovs øvrige bestemmelser ved handling eller undlatelse bevirker noget som er stridende mot [Grunnloven](lov-1814-05-17-grunnloven-bokmaal.md) eller rikets lover, straffes med bøter eller med fengsel inntil 10 år.
+
+Med samme straff straffes de medlemmer av Statsrådet, som forsømmer den dem med hensyn til innkallelse av Stortinget ved [Grunnlovens § 39](lov-1814-05-17-grunnloven-bokmaal.md) påliggende plikt.
+
+*Endret ved [lover 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13), [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 12.
+
+Det medlem av Stortinget som uten gyldig forfall undlater å møte på Stortinget når dette trer sammen, straffes med bøter. På samme måte straffes den representant som uten gyldig grunn forsettlig unddrar sig fra å delta i Stortingets forhandlinger eller som ikke retter sig efter Stortingets forretningsorden.
+
+### § 13.
+
+Undlater noget medlem av Stortinget å gi oplysninger som han plikter å meddele Stortinget, eller gir han uriktige oplysninger, straffes han med bøter eller med fengsel inntil 5 år.
+
+*Endret ved [lov 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+### § 14.
+
+Gjør noget medlem av Statsrådet eller av Stortinget sig skyldig i sådant lovbrud som nevnt i [straffeloven § 209](lov-2005-05-20-28-straffeloven.md), straffes han med bøter eller med fengsel inntil 5 år.
+
+*Endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 15.
+
+Det medlem av statsrådet som ikke innleverer sin søknad om avskjed i samsvar med [Grunnlovens § 15](lov-1814-05-17-grunnloven-bokmaal.md) første ledd, straffes med tap av embetet og bøter eller fengsel inntil 10 år.
+
+På samme måte straffes det medlem av statsrådet som, etter at Stortinget har truffet beslutning om mistillit, overskrider sin bemyndigelse ifølge [Grunnlovens § 15](lov-1814-05-17-grunnloven-bokmaal.md) tredje ledd.
+
+*Opphevet ved lov 15 des 1950 nr. 6, tilføyd ved [lov 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+## Kapitel 3. Særlige bestemmelser om straffansvar for medlemmer av Høiesterett og Riksretten.
+
+### § 16.
+
+De medlemmer av Høiesterett, som forsømmer den dem med hensyn til innkallelse av Stortinget ved [Grunnloven § 46](lov-1814-05-17-grunnloven-bokmaal.md) påliggende plikt, straffes med bøter eller med fengsel inntil 10 år forsåvidt ikke nogen strengere straffebestemmelse kommer til anvendelse på forholdet.
+
+*Endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 17.
+
+Det medlem av Høiesterett, som
+
+a. meddeler nogen part råd eller veiledning i en sak som står for Høiesterett eller kan komme inn for Høiesterett,
+b. eller i nogen betenkning, eller innstilling medvirker til noget som er stridende mot [Grunnloven](lov-1814-05-17-grunnloven-bokmaal.md),
+c. eller i sin embedsgjerning for øvrig ved handling eller undlatelse bevirker noget som er stridende mot [Grunnlov](lov-1814-05-17-grunnloven-bokmaal.md) eller lovgivning,
+
+straffes med bøter eller med fengsel inntil 10 år.
+
+Denne bestemmelse gjelder tilsvarende når et medlem av Høyesterett er medlem av Riksretten.
+
+*Endret ved [lover 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13), [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 18. (Opphevet)
+
+*Opphevet ved [lov 30 mars 2007 nr. 13](https://lovdata.no/lov/2007-03-30-13).*
+
+## Kapitel 4. Lovens krafttreden.
+
+### § 19.
+
+Denne lov trer i kraft straks.
+
+– – –

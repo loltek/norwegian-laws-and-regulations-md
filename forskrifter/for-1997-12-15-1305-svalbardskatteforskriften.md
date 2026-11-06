@@ -1,0 +1,84 @@
+# Forskrift om skatt til Svalbard
+
+- **Korttittel:** Svalbardskatteforskriften
+- **Datokode:** FOR-1997-12-15-1305
+- **DokumentID:** SF/forskrift/1997-12-15-1305
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavd.
+- **Hjemmel:** lov 29.11.1996 nr. 68/§1-5; lov 29.11.1996 nr. 68/§3-1; lov 28.02.1997 nr. 19/§23-2; lov 28.02.1997 nr. 19/§24-5
+- **Publisert i:** Avd I 1997 2270
+- **I kraft fra:** 1998-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 08.08.2025 nr. 1607 fra 2026-01-01, forskrift 22.12.2025 nr. 2862
+- **Gjelder for:** Svalbard
+- **Siste rettelse:** 2023-01-17 (hjemmel)
+- **Merknad:** Hjemmel: Fastsatt av Finans- og tolldepartementet 15. desember 1997 med hjemmel i lov av 29. november 1996 nr. 68 om skatt til Svalbard § 1-5, § 3-1, § 4-4, § 4-5, § 4-6 og § 4-9 og lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 23-2 og § 24-5. Endret ved forskrifter 2 des 2003 nr. 1421, 7 des 2007 nr. 1393, 15 feb 2008 nr. 146, 2 feb 2009 nr. 90, 17 juni 2011 nr. 611, 19 jan 2015 nr. 47, 9 des 2016 nr. 1505, 16 jan 2023 nr. 45, 22 des 2025 nr. 2862 (i kraft straks med virkning fra inntektsåret 2026), 8 aug 2025 nr. 1607 (i kraft 1 jan 2026). Rettet 08.04.2019 (hjemmel), 17.01.2023 (hjemmel).
+- **Kilde:** <https://lovdata.no/forskrift/1997-12-15-1305>
+
+## I
+
+### § 1. (Opphevet)
+
+*Endret ved [forskrifter 7 des 2007 nr. 1393](https://lovdata.no/forskrift/2007-12-07-1393) (fom inntektsåret 2007), [15 feb 2008 nr. 146](https://lovdata.no/forskrift/2008-02-15-146), [2 feb 2009 nr. 90](https://lovdata.no/forskrift/2009-02-02-90), [17 juni 2011 nr. 611](https://lovdata.no/forskrift/2011-06-17-611) (fom inntektsåret 2011), opphevet ved [forskrift 9 des 2016 nr. 1505](https://lovdata.no/forskrift/2016-12-09-1505) (i kraft 1 jan 2017).*
+
+### § 2. (Opphevet)
+
+*Endret ved [forskrifter 2 des 2003 nr. 1421](https://lovdata.no/forskrift/2003-12-02-1421) (i kraft 1 jan 2004), [19 jan 2015 nr. 47](https://lovdata.no/forskrift/2015-01-19-47) (fom inntektsåret 2015), opphevet ved [forskrift 9 des 2016 nr. 1505](https://lovdata.no/forskrift/2016-12-09-1505) (i kraft 1 jan 2017).*
+
+### § 3. Rapportering av utbetalingsdato for reise- og utgiftsgodtgjørelse for statlige arbeidsgivere mv.
+
+Statlige arbeidsgivere og andre som har utsatt forfall for forskuddstrekk mv. etter [skattebetalingsforskriften § 10-10-8](for-2007-12-21-1766-skattebetalingsforskriften.md) første og annet ledd, kan ved rapportering av utbetalingsdato for reise- og utgiftsgodtgjørelser i stedet oppgi utbetalingsdato for neste hovedlønnskjøring.
+
+*Endret ved [forskrift 17 juni 2011 nr. 611](https://lovdata.no/forskrift/2011-06-17-611) (fom inntektsåret 2011), opphevet ved [forskrift 9 des 2016 nr. 1505](https://lovdata.no/forskrift/2016-12-09-1505) (i kraft 1 jan 2017), tilføyd ved forskrift [8 aug 2025 nr. 1607](https://lovdata.no/forskrift/2025-08-08-1607) (i kraft 1 jan 2026).*
+
+### § 4. Forhøyet avskrivningssats for forretningsbygg og bygg med kort levetid
+
+(1) Saldo for forrretningsbygg på Svalbard kan avskrives med inntil 4 prosent.
+
+(2) Saldo for bygg med kort levetid kan avskrives med inntil 10 prosent. Som bygg med kort levetid regnes bygg med så enkel konstruksjon at det må anses å ha en brukstid som ikke overstiger 20 år fra oppføringen.
+
+### § 5. Trygdeavgift
+
+Betaling og innkreving av trygdeavgift etter [folketrygdloven § 23-3](../lover/lov-1997-02-28-19-folketrygdloven.md) skjer etter de samme reglene som gjelder for skatt til Svalbard, jf. [Svalbardskatteloven § 3-1](../lover/lov-1996-11-29-68-svalbardskatteloven.md) og [kapittel 5](../lover/lov-1996-11-29-68-svalbardskatteloven.md). [Svalbardskatteloven § 3-3](../lover/lov-1996-11-29-68-svalbardskatteloven.md) gjelder tilsvarende for trygdeavgift.
+
+*Endret ved forskrift [22 des 2025 nr. 2862](https://lovdata.no/forskrift/2025-12-22-2862) (i kraft straks med virkning fra inntektsåret 2026).*
+
+### § 6. Arbeidsgiveravgift
+
+(1) Arbeidsgiveravgift etter [folketrygdloven § 23-2](../lover/lov-1997-02-28-19-folketrygdloven.md) skal svares av lønn mv til person som er trygdet i medhold av [folketrygdloven § 2-3](../lover/lov-1997-02-28-19-folketrygdloven.md). Bestemmelser i Stortingets vedtak om fastsetting av avgifter mv. til folketrygden om ekstra arbeidsgiveravgift av lønn over bestemte beløpsgrenser, får ikke anvendelse for Svalbard.
+
+(2) Ved fastsettelse og innkreving mv av arbeidsgiveravgift gjelder reglene i [folketrygdloven kapittel 24](../lover/lov-1997-02-28-19-folketrygdloven.md) med utfyllende bestemmelser, likevel slik at skattemyndighetene for Svalbard har de samme funksjonene som er tillagt de ordinære skattemyndighetene og innfordringsmyndighetene for Svalbard har de samme funksjonene som er tillagt de ordinære innfordringsmyndighetene.
+
+(3) Avgiften innbetales til de samme tider som gjelder for innbetaling av skatt fastsatt ved lønnstrekk.
+
+*Endret ved [forskrifter 19 jan 2015 nr. 47](https://lovdata.no/forskrift/2015-01-19-47) (fom inntektsåret 2015), [9 des 2016 nr. 1505](https://lovdata.no/forskrift/2016-12-09-1505) (i kraft 1 jan 2017), [16 jan 2023 nr. 45](https://lovdata.no/forskrift/2023-01-16-45) (i kraft straks med virkning fra og med inntektsåret 2023).*
+
+### § 7. Forenklet fellesoppgjør
+
+Svalbard skattekontor kan gi samtykke til at forskergrupper og andre prosjektgrupper med utenlandsk arbeidsgiver leverer skattemessig fellesoppgjør for ansattes lønn. Gruppen må ha opphold utenfor Longyearbyen og prosjektet må ha en samlet varighet på maksimalt 6 måneder. Samtykke kan ikke gis når ansatte skal svare trygdeavgift av inntekten. Skatt beregnes med 8 pst. av samlet lønn til ansatte i avregningsperioden. Med mindre skattekontoret bestemmer noe annet, skal opplysninger om slikt trekk gis etter reglene i a-opplysningsloven.
+
+*Tilføyd ved [forskrift 17 juni 2011 nr. 611](https://lovdata.no/forskrift/2011-06-17-611) (fom inntektsåret 2011), endret ved [forskrift 19 jan 2015 nr. 47](https://lovdata.no/forskrift/2015-01-19-47) (fom inntektsåret 2015).*
+
+### § 8. Medisinsk behandling mv utenfor Svalbard
+
+I tilfeller hvor nødvendig medisinsk behandling eller lignende tungtveiende grunner gjør at en person må oppholde seg utenfor Svalbard mer enn 183 dager, kan Svalbard skattekontor etter en helhetsvurdering av bostedsmessig tilknytning vedta at personen likevel skal anses bosatt på Svalbard.
+
+*Tilføyd ved [forskrift 17 juni 2011 nr. 611](https://lovdata.no/forskrift/2011-06-17-611) (fom inntektsåret 2011).*
+
+### § 9. Overgangsregler
+
+(1) For bolig- eller fritidseiendom ervervet før 1. januar 1998, kan skattyter kreve at inngangsverdien oppreguleres til omsetningsverdien pr. 1. januar 1998. Skattyter må godtgjøre omsetningsverdien pr. 1. januar 1998 ved takst som godkjennes av skattemyndighetene. Krav om oppregulering må fremsettes skriftlig, og senest 1. juli 1998.
+
+(2) For aksjer, grunnfondsbevis og andeler i aksje- og obligasjonsfond ervervet før 1. januar 1998 som ikke er ervervet som ledd i skattyterens næringsvirksomhet, kan skattyter kreve at inngangsverdien oppreguleres til omsetningsverdien pr 1. januar 1998, dersom verdien blir dokumentert på tilfredsstillende måte.
+
+(3) Ligningsoppgaver for inntektsåret 1997 leveres i henhold til bestemmelsene i [lov av 15. juli 1925](https://lovdata.no/lov/1925-07-15) om skatt til Svalbard på formue og inntekt.
+
+*Endret ved [forskrift 17 juni 2011 nr. 611](https://lovdata.no/forskrift/2011-06-17-611) (fom inntektsåret 2011, tidligere § 7), [9 des 2016 nr. 1505](https://lovdata.no/forskrift/2016-12-09-1505) (i kraft 1 jan 2017).*
+
+## II Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 1998, med virkning fra og med inntektsåret 1998.
+
+## Merknad til forskrift om skatt til Svalbard
+
+Generelt er det en tolkningspresumsjon for at forskrifter som er gitt til utfylling og gjennomføring av de lovreglene som er gjort gjeldende for Svalbard, også skal gjelde for Svalbard så langt de passer. I Svalbardforskriftens [§ 1](for-1997-12-15-1305-svalbardskatteforskriften.md) er det gitt anvisning på hvilke forskrifter som skal gjelde for selvangivelsesplikten. Dette kan ikke tolkes antitetisk slik at andre forskrifter enn de som er nevnt i forskriften om skatt til Svalbard ikke kan få virkning på Svalbard. Henvisningen til bestemte forskrifter i [§ 1](for-1997-12-15-1305-svalbardskatteforskriften.md) skyldes behovet for å gi en samlet og fullstendig oversikt over hvilken opplysningsplikt skattytere på Svalbard har om egne forhold, og kan ikke tillegges vekt i forhold til hvilke andre forskrifter som får anvendelse på Svalbard.

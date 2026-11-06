@@ -1,0 +1,330 @@
+# Forskrift til lov om sosiale tjenester m.v.
+
+- **Korttittel:** Forskrift til sosialtjenesteloven
+- **Datokode:** FOR-1992-12-04-915
+- **DokumentID:** SF/forskrift/1992-12-04-915
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavd.
+- **Hjemmel:** lov 24.06.2011 nr. 30/§13-2
+- **Publisert i:** I 1992 1357
+- **I kraft fra:** 1993-01-01
+- **Siste endring i kraft:** 2021-11-01
+- **Sist endret ved:** forskrift 08.10.2021 nr. 2958 fra 2021-11-01
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2012-02-01 (hjemmel)
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 4. desember 1992 med hjemmel i lov 13. desember 1991 nr. 81 om sosiale tjenester m.v. § 1-2, § 7-6, § 7-9, § 7-10, § 7-11, § 7-12, § 11-2, § 11-4, § 11-5 og § 12-2 og lov av 19. november 1982 nr. 66 om helsetjenesten i kommunene § 2-3 femte ledd. Fremmet av Sosialdepartementet (nå Helse- og omsorgsdepartementet). Tilføyd hjemmel: Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 13-2. Endret ved forskrifter 15 jan 1993 nr. 22, 10 des 1993 nr. 1131, 18 mars 1994 nr. 218, 6 jan 1995 nr. 20, 19 mai 1995 nr. 480, 25 april 1997 nr. 385, 12 des 1997 nr. 1300, 22 des 1999 nr. 1378, 5 jan 2001 nr. 10, 21 des 2001 nr. 1484, 13 des 2002 nr. 1496, 30 juni 2006 nr. 768, 1 des 2006 nr. 1326, 22 des 2008 nr. 1541, 16 des 2009 nr. 1553, 20 des 2010 nr. 1755, 16 des 2011 nr. 1255, 17 jan 2013 nr. 61, 14 feb 2014 nr. 137, 26 aug 2016 nr. 1003, 8 okt 2021 nr. 2958 (i kraft 1 nov 2021).
+- **Kilde:** <https://lovdata.no/forskrift/1992-12-04-915>
+
+## Kapittel 1. (Opphevet)
+
+*Kapitlet opphevet ved [forskrift 16 des 2011 nr. 1255](for-2011-12-16-1255-forskrift-om-tjenester-til-personer-uten-fast-opphold.md) (i kraft 1 jan 2012).*
+
+## Kapittel 2. (Opphevet)
+
+*Kapitlet opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+## Kapittel 3. Tilsyn med private institusjoner og private boliger med heldøgns omsorgstjenester
+
+*Overskriften endret ved [forskrifter 13 des 2002 nr. 1496](https://lovdata.no/forskrift/2002-12-13-1496) (i kraft 1 jan 2003), [1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 3-1. Virkeområde.
+
+Statsforvalteren fører tilsyn med private institusjoner og private boliger med heldøgns omsorgstjenester som ikke er tatt inn i kommunens plan, jf. sosialtjenesteloven § 7-10.
+
+*Endret ved [forskrifter 13 des 2002 nr. 1496](https://lovdata.no/forskrift/2002-12-13-1496) (i kraft 1 jan 2003), [1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007), [8 okt 2021 nr. 2958](https://lovdata.no/forskrift/2021-10-08-2958) (i kraft 1 nov 2021).*
+
+### § 3-2. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-3. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-4. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-5. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-6. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-7. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-8. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-9. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-10. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-11. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-12. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-13. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-14. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-15. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+### § 3-16. (Opphevet)
+
+*Opphevet jan 2007, jf [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326).*
+
+## Kapittel 4. (Opphevet)
+
+*Kapitlet opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 4-1. (Opphevet)
+
+*Opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 4-2. (Opphevet)
+
+*Opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 4-3. (Opphevet)
+
+*Opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 4-4. (Opphevet)
+
+*Opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 4-5. (Opphevet)
+
+*Opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 4-6. (Opphevet)
+
+*Opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 4-7. (Opphevet)
+
+*Opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+### § 4-8. (Opphevet)
+
+*Opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+## Kapittel 5. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-1. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-2. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-3. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-4. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevets ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-5. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-6. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-7. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-8. (Opphevet)
+
+*Endret ved [forskrifter 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), [21 des 2001 nr. 1484](https://lovdata.no/forskrift/2001-12-21-1484) (i kraft 1 jan 2002), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-9. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-10. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-11. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-12. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-13. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-14. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-15. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-16. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-17. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+### § 5-18. (Opphevet)
+
+*Endret ved [forskrift 22 des 1999 nr. 1378](https://lovdata.no/forskrift/1999-12-22-1378) (i kraft 1 jan 2000), opphevet ved [forskrift 26 aug 2016 nr. 1003](for-2016-08-26-1003-forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) (i kraft 1 nov 2016).*
+
+## Kapittel 6. (Opphevet)
+
+*Kapitlet opphevet ved [forskrift 14 feb 2014 nr. 137](for-2014-02-14-137-forskrift-om-kontantytelser-fra-folketrygden.md) (i kraft 1 april 2014).*
+
+## Kapittel 7. Hva som skal regnes som bolig med heldøgns omsorgstjeneste – sosialtjenestelovens § 7-12.
+
+### § 7-1. Virkeområde.
+
+Denne forskriften gjelder de boliger med heldøgns omsorgstjenester som kommunen har ansvaret for etter sosialtjenesteloven § 7-5.
+
+Boliger som er regulert i andre lover omfattes ikke av denne forskriften
+
+### § 7-2. Hva som skal regnes som bolig med heldøgns omsorgstjenester.
+
+Som bolig med heldøgns omsorgstjenester regnes:
+
+a. aldershjem
+b. bolig for barn og unge under 18 år som bor utenfor foreldrehjemmet som følge av behov for særlig omsorg, herunder avlastningsboliger.
+c. privat forpleining
+
+### § 7-3. Retten til å bringe tvilstilfeller inn for statsforvalteren.
+
+Statsforvalteren avgjør i tvilstilfeller hva som skal regnes som bolig med heldøgns omsorgstjenester etter sosialtjenesteloven kap. 7.
+
+*Endret ved forskrift [8 okt 2021 nr. 2958](https://lovdata.no/forskrift/2021-10-08-2958) (i kraft 1 nov 2021).*
+
+### § 7-4. Melding til statsforvalteren.
+
+Kommunen skal gi melding til statsforvalteren om kommunens boliger med heldøgns omsorgstjenester etter sosialtjenesteloven og tilsvarende private tiltak kommunen har avtale med etter [lovens § 7-4](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md), jf. § 7-5 første ledd siste setning.
+
+*Endret ved forskrift [8 okt 2021 nr. 2958](https://lovdata.no/forskrift/2021-10-08-2958) (i kraft 1 nov 2021).*
+
+## Kapittel 8. Vederlag for sosiale tjenester og for opphold i institusjon mv. – sosialtjenesteloven § 11-2 og kommunehelsetjenesteloven § 2-3 femte ledd.
+
+*Endret ved [forskrift 5 jan 2001 nr. 10](https://lovdata.no/forskrift/2001-01-05-10).*
+
+### I. Vederlag utenfor institusjon.
+
+#### § 8-1. Tjenester som det er adgang til å kreve vederlag for.
+
+Kommunen kan kreve vederlag for de tjenester etter [lov om sosiale tjenester § 4-2](https://lovdata.no/lov/1991-12-13-81/§4-2) bokstav a som det ikke er gjort unntak for i forskriftens [§ 8-2](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md) nr 2.
+
+Vederlag kan bare kreves av den som mottar tjenesten. Dersom det ytes tjenester i hjemmet på grunn av et mindreårig barns hjelpebehov, anses hjelpen ytt til foreldrene.
+
+*Endret ved [forskrift 12 des 1997 nr. 1300](https://lovdata.no/forskrift/1997-12-12-1300) (i kraft 1 jan 1998).*
+
+#### § 8-2. Begrensninger i adgangen til å kreve vederlag
+
+Det kan ikke kreves vederlag for:
+
+1. hjemmesykepleie etter lov om helsetjenesten i kommunene [§ 1-3](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md)
+2. praktisk bistand og opplæring etter [lov om sosiale tjenester § 4-2](https://lovdata.no/lov/1991-12-13-81/§4-2) bokstav a til personlig stell og egenomsorg. Med personlig stell og egenomsorg menes hjelp til å stå opp og legge seg, personlig hygiene, toalettbesøk, til å kle av og på seg, hjelp til å spise, nødvendig tilsyn og tilsvarende grunnleggende behov
+3. avlastningstiltak for personer og familier som har et særlig tyngende omsorgsarbeid etter [lov om sosiale tjenester § 4-2](https://lovdata.no/lov/1991-12-13-81/§4-2) bokstav b. Med avlastningstiltak menes i denne forskrift tiltak som settes i verk til hjelp for den som har særlig tyngende omsorgsarbeid i tillegg til tjenester den omsorgstrengende er tildelt i samsvar med bestemmelsene i [§ 4-2](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md) bokstavene a, c og d
+4. støttekontakt som tildeles personer eller familier som nevnt i [lov om sosiale tjenester § 4-2](https://lovdata.no/lov/1991-12-13-81/§4-2) bokstav c
+5. omsorgslønn til personer som har et særlig tyngende omsorgsarbeid etter [lov om sosiale tjenester § 4-2](https://lovdata.no/lov/1991-12-13-81/§4-2) bokstav e.
+
+*Endret ved [forskrift 12 des 1997 nr. 1300](https://lovdata.no/forskrift/1997-12-12-1300) (i kraft 1 jan 1998).*
+
+#### § 8-3. Kommunens adgang til å fastsette betalingssatser m.v. for de enkelte tjenester.
+
+Kommunen kan selv fastsette regler for betaling av vederlag og betalingssatser for de tjenester som er nevnt i [§ 8-1](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md).
+
+Vederlaget må likevel ikke overstige kommunens egne utgifter til angjeldende tjeneste (selvkost). Betales tjenestene etter en abonnementsordning kan vederlaget ikke overstige kommunens samlede selvkost for tjenestene til den enkelte i den måneden abonnementet omfatter.
+
+Selvkost beregnes til en gjennomsnittlig timelønn for den tjenesten som utføres, tillagt sosiale utgifter samt administrasjonsutgifter som skal utgjøre 10% av timelønnen og sosiale utgifter. Tidsforbruket rundes av til nærmeste halvtime.
+
+Vederlaget kan ikke settes høyere enn at vedkommende beholder tilstrekkelig til å dekke personlige behov og bære sitt ansvar som forsørger.
+
+Det kan ikke kreves dekning i vedkommendes formue.
+
+*Endret ved [forskrift 12 des 1997 nr. 1300](https://lovdata.no/forskrift/1997-12-12-1300) (i kraft 1 jan 1998).*
+
+#### § 8-4. Samlet inntektsgradert utgiftstak for visse helsetjenester og sosiale tjenester.
+
+Når kommunen bestemmer det maksimale vederlag en person skal betale pr. år for tjenester som nevnt i [§ 8-1](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md) skal betalingen beregnes på grunnlag av husstandens samlede skattbare nettoinntekt før særfradrag. Siste tilgjengelige skatteligning pr. 1. januar i det aktuelle året legges til grunn med mindre inntekten er vesentlig endret. Til inntekten legges også hjelpestønad fra folketrygden til hjelp i huset, mens omsorgslønn som nevnt i [§ 8-2](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md) nr. 5 skal trekkes fra inntektsgrunnlaget.
+
+Dersom husstandens samlede skattbare nettoinntekt før særfradrag er under 2 G, skal samlet vederlag for tjenester som nevnt i [§ 8-1](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md) ikke overstige et utgiftstak på kroner 165 pr. måned.
+
+Til husstanden regnes bare ektefeller/samboere og i tillegg barn under 18 år, dersom hjelpen ytes på grunnlag av barnets omsorgs- eller pleiebehov.
+
+Hvis et av husstandens medlemmer betaler vederlag for langtidsopphold etter § 3 jf. § 6 i [forskriften 26. april 1995 nr. 392](https://lovdata.no/forskrift/1995-04-26-392) om vederlag for opphold i institusjon m.v. – eller mottar avkortede trygdeytelser på grunn av opphold utenfor hjemmet, regnes vedkommende ikke som medlem av husstanden etter bestemmelsen i annet ledd.
+
+Departementet gir veiledende retningslinjer for beregningen av vederlag for tjenester som nevnt i [§ 8-1](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md).
+
+For adgangen til å beregne vederlag for annen praktisk bistand enn den som er nevnt i [§ 8-1](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md) gjelder [§ 8-3](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md) annet til og med femte ledd tilsvarende.
+
+*Endret ved [forskrifter 6 jan 1995 nr. 20](https://lovdata.no/forskrift/1995-01-06-20), [12 des 1997 nr. 1300](https://lovdata.no/forskrift/1997-12-12-1300) (i kraft 1 jan 1998), [5 jan 2001 nr. 10](https://lovdata.no/forskrift/2001-01-05-10), [22 des 2008 nr. 1541](https://lovdata.no/forskrift/2008-12-22-1541) (i kraft 1 jan 2009), [16 des 2009 nr. 1553](https://lovdata.no/forskrift/2009-12-16-1553) (i kraft 1 jan 2010), [20 des 2010 nr. 1755](https://lovdata.no/forskrift/2010-12-20-1755) (i kraft 1 jan 2011).*
+
+#### § 8-5. Klage.
+
+Vedtak om betaling etter denne forskrift kan påklages til statsforvalteren. Statsforvalteren kan prøve alle sider av vedtaket. Når det gjelder prøving av det frie skjønn, kan statsforvalteren likevel bare endre et vedtak om betaling for tjenester som nevnt i [§ 8-1](for-1992-12-04-915-forskrift-til-sosialtjenesteloven.md) når skjønnet er åpenbart urimelig.
+
+For vedtak om betaling for tjenester etter kommunehelsetjenesteloven gjelder forvaltningslovens §§ 28-34 fullt ut.
+
+*Endret ved forskrifter [12 des 1997 nr. 1300](https://lovdata.no/forskrift/1997-12-12-1300) (i kraft 1 jan 1998), [8 okt 2021 nr. 2958](https://lovdata.no/forskrift/2021-10-08-2958) (i kraft 1 nov 2021).*
+
+### II. Vederlag for opphold i institusjon m v.
+
+#### § 8-6. Vederlag for opphold i institusjon og bolig med heldøgns omsorgstjenester.
+
+Kommunen kan kreve vederlag for opphold i institusjoner for rusmiddelmisbrukere og boliger med heldøgns omsorgstjenester som nevnt i [lov om sosiale tjenester §§ 7-1](https://lovdata.no/lov/1991-12-13-81/§7-1), [7-5](https://lovdata.no/lov/1991-12-13-81/§7-5) og [7-10](https://lovdata.no/lov/1991-12-13-81/§7-10), jf. [§ 4-2](https://lovdata.no/lov/1991-12-13-81/§4-2), når kommunen helt eller delvis dekker utgiftene til opphold i slike institusjoner eller boliger, eller har stillet garanti for oppholdet.
+
+Ved beregning av vederlaget gjelder forskrift om vederlag for opphold i institusjon mv., fastsatt av Sosialdepartementet [26. april 1995 nr. 392](https://lovdata.no/forskrift/1995-04-26-392) med senere endringer.
+
+*Endret ved [forskrift 12 des 1997 nr. 1300](https://lovdata.no/forskrift/1997-12-12-1300) (i kraft 1 jan 1998), [5 jan 2001 nr. 10](https://lovdata.no/forskrift/2001-01-05-10).*
+
+## Kapittel 9. (Opphevet)
+
+*Kapitlet opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+## Kapittel 10. (Opphevet)
+
+*Kapitlet opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+## Kapittel 11. (Opphevet)
+
+*Kapitlet opphevet ved [forskrift 1 des 2006 nr. 1326](https://lovdata.no/forskrift/2006-12-01-1326) (i kraft 1 jan 2007).*
+
+## Kapittel 12. Ikrafttredelse.
+
+### § 12-1.
+
+Denne forskrift trer i kraft 1. januar 1993.

@@ -1,0 +1,74 @@
+# Forskrift om vern av Villsau frå Norskekysten/Villsau fra Norskekysten som geografisk nemning
+
+- **Korttittel:** Forskrift om Villsau frå Norskekysten
+- **Datokode:** FOR-2010-11-04-1402
+- **DokumentID:** SF/forskrift/2010-11-04-1402
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Mattilsynet
+- **Hjemmel:** lov 19.12.2003 nr. 124/§30; forskrift 05.07.2002 nr. 698/§15; forskrift 19.12.2003 nr. 1790
+- **Publisert i:** I 2010 hefte 12
+- **Kunngjort:** 2010-11-05 15:30
+- **I kraft fra:** 2010-11-04
+- **Siste endring i kraft:** 2014-12-05
+- **Sist endret ved:** forskrift 05.12.2014 nr. 1511
+- **Gjelder for:** Norge
+- **Merknad:** Heimel: Fastsett av Mattilsynet 4. november 2010 med heimel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 30 jf. forskrift 5. juli 2002 nr. 698 om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg på næringsmidler § 15, jf. delegeringsvedtak 19. desember 2003 nr. 1790. Endra ved forskrift 5 des 2014 nr. 1511.
+- **Kilde:** <https://lovdata.no/forskrift/2010-11-04-1402>
+
+## § 1. Beskytta produktnemning
+
+Villsau frå Norskekysten/Villsau fra Norskekysten.
+
+*Endra ved [forskrift 5 des 2014 nr. 1511](https://lovdata.no/forskrift/2014-12-05-1511).*
+
+## § 2. Rettmessig brukar
+
+Villsau frå Norskekysten PO, Villsaulaget vest og Norsk Villsaulag.
+
+*Endra ved [forskrift 5 des 2014 nr. 1511](https://lovdata.no/forskrift/2014-12-05-1511).*
+
+## § 3. Vilkår for bruk av produktnemninga
+
+*1. Produktskildring*
+
+Villsau frå Norskekysten/Villsau fra Norskekysten er kjøtt av sau av rasen Gammalnorsk sau. Nemninga omfattar ferske eller frosne heile skrottar eller stykkingsdelar. Kjøttet skal ha djup raudleg farge og god marmorering.
+
+*2. Geografisk område*
+
+Geografisk område for produksjon av Villsau frå Norskekysten/Villsau fra Norskekysten er avgrensa til område med kystlynghei på norskekysten.
+
+*3. Produksjonsmetode*
+
+Drifta hjå den einskilde produsenten skal vere i samsvar med dei til ein kvar tid gjeldande føresegner om dyrevelferd.
+
+Produsentane skal dokumentere at besetninga består av sau av rasen Gammalnorsk sau.
+
+Sauen skal gå ute på beite heile året. I beiteområda skal det vere tilstrekkeleg med kystlynghei til at besetningane kan overvintre, og det skal vere god nok tilgang på ferskvatn. Mengda av kystlynghei avgjer kor stor besetninga kan vere på dei ulike stadene. Vegetasjonsdekket skal ha mellom 70 % lyng og 30 % gras, til 30 % lyng og 70 % gras. Beredskapsfôr skal i akutte tilfelle kunne skaffast raskt. Grensa for tilleggsfôr er sett til maksimum 20 % av den totale årlege fôrmengda.
+
+Dyr på beite skal ha tilsyn kvar veke. I utsette periodar, til dømes under lamming og ved sterkt snøfall, skal det vere tilsyn oftare, helst kvar dag. Det skal førast tilsynsjournal. Paring skal skje slik at lamming kan skje når det er gunstige beite- og klimaforhold.
+
+Det skal sikrast at dyra finn le i vinterhalvåret, anten naturleg i terrenget eller i tilgjengelege bygningar eller leskur. Dyra skal ha beskyttande ullfell om vinteren. For innsamling av dyr skal det finnast leiegjerde og skiljeanlegg. Dyra skal samlast minimum vår og haust for kontroll, m.a. merking, napping og klipping av ull og nødvendig parasittbehandling.
+
+Godkjend slaktevekt for lam skal vere mellom 8 og 16 kg, og på vaksne dyr mellom 9 og 16 kg.
+
+*4. Merking av produktet*
+
+Villsau frå Norskekysten/Villsau fra Norskekysten kan merkjast med figurmerket for beskytta geografisk nemning.
+
+*Endra ved [forskrift 5 des 2014 nr. 1511](https://lovdata.no/forskrift/2014-12-05-1511).*
+
+## § 4. Iverksetjing
+
+Forskrifta blir sett i verk straks.
+
+## Vedlegg. Beskriving av produktopphavet og tilknytinga til det geografiske området
+
+Villsau er eitt av fleire namn som blir brukte på den gamle norske sauerasen Gammalnorsk sau. Sauen er liten, lett, sprek og robust og er godt tilpassa harde kår og naturforholda på kysten. Hovudføda til sauen om vinteren er lyng, elles et han mellom anna gras, einer, tang og tare.
+
+Gammalnorsk sau er truleg siste rest av den opphavlege norske/europeiske landrasen. Fossile sauebein som er funne i Skipshelleren i Vaksdal kommune i Hordaland, kan daterast heilt tilbake til om lag 2550 år f.Kr. og har særtrekk som minner svært om bein frå sau av rasen Gammalnorsk sau. Heller ikkje storleiken eller forma på denne sauen skil seg særleg frå desse funna. Gammalnorsk sau har mange trekk frå dei ville eller lite foredla sauerasane. Til dømes har pelsen mjuk botnull med grovare dekkhår utanpå, halen er kort, alle vêrane har horn, og sauen er relativt liten.
+
+Gammalnorsk sau var heilt fram til slutten av 1800-talet den dominerande rasen i Noreg. Det vart da avla fram tyngre sauer som produserte meir ull og kjøtt. Desse nye sauerasane tok mange stader over for Gammalnorsk sau. Sjølv om folk på ein del av øyane langs vestlandskysten heldt fram med slikt sauehald, var sauen nær ved å døy ut fleire gonger. Det er berre i Austevoll i Hordaland at den opphavlege stammen av Gammalnorsk sau har overlevd heilt fram til vår tid. Men det måtte redningsaksjonar til både i byrjinga av 1950-talet og i byrjinga av 1980-talet for at sauen skulle overleve. All sau av rasen Gammalnorsk sau i Noreg i dag stammar frå Austevoll.
+
+Driftsforma, utegangardrift, er basert på tradisjonar frå vikingtida. Klimaet og vegetasjonen på store delar av norskekysten er slik at det er mogleg å halde ved lag den naturlege driftsforma og beitegrunnlaget. Sauen overvintrar no som da med lynghei som hovudføde, i tillegg til gras og einer, og dessutan tang og tare frå sjøen. Kystlynghei er ein særmerkt landskapstype langs den ytre kyststripa på norskekysten. Det er som vinterbeite kystlyngheia eignar seg best, ettersom lyngen er vintergrøn og har brukbar næringsverdi om vinteren. Ei opprett og robust vekstform gjer at han stikk opp av snøen og er tilgjengeleg for dyra. Klimaet på kysten er oseanisk, med milde vintrar og vanlegvis lite snø, og den snøen som kjem, ligg sjeldan lenger enn eit par veker i strekk. Gammalnorsk sau kan, som eit av få husdyr, grave seg ned og nyttiggjere seg mat under snøen.
+
+Produsentane på norskekysten har lang tradisjon for og god kunnskap om hald av Gammalnorsk sau.

@@ -1,0 +1,131 @@
+# Forskrift om dokumentavgift.
+
+- **Korttittel:** Forskrift om dokumentavgift
+- **Datokode:** FOR-1975-12-16-1
+- **DokumentID:** SF/forskrift/1975-12-16-1
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavd.
+- **Hjemmel:** lov 12.12.1975 nr. 59/§2
+- **Publisert i:** I 1975 1003
+- **I kraft fra:** 1976-01-01
+- **Siste endring i kraft:** 2016-01-01
+- **Sist endret ved:** forskrift 17.12.2015 nr. 1705 fra 2016-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 16. desember 1975 med hjemmel i lov av 12. desember 1975 nr. 59 om dokumentavgift § 2. Endret ved forskrifter 27 des 1976, 20 jan 1977, 29 sep 1977, 15 juni 1982 nr. 1045, 12 des 1983 nr. 1807, 11 des 1985 nr. 2113, 7 jan 1988 nr. 2, 16 nov 1995 nr. 888, 30 mai 1997 nr. 555, 26 mai 2000 nr. 540 (hjemmel), 11 des 2003 nr. 1523, 3 mai 2004 nr. 707, 8 april 2005 nr. 298, 15 des 2006 nr. 1443, 10 des 2007 nr. 1374, 22 juni 2010 nr. 955, 17 des 2015 nr. 1704, 17 des 2015 nr. 1705.
+- **Kilde:** <https://lovdata.no/forskrift/1975-12-16-1>
+
+## Kap. I. Fellesbestemmelser.
+
+### § 1-1. Tidsfrister.
+
+Dersom en frist utløper på en lør-, søn- eller helligdag, utskytes fristen til den nærmest følgende virkedag som ikke er lørdag.
+
+Oppgaven som sendes i posten, anses kommet inn i rett tid hvis sendingen er poststemplet innen utløpet av fristen.
+
+Avgift anses betalt i rett tid dersom beløpet er inntektsført på oppkrevingsmyndighetens bankkonto eller sendingen er poststemplet innen utløpet av fristen.
+
+*Endret ved [forskrift 8 april 2005 nr. 298](https://lovdata.no/forskrift/2005-04-08-298) (i kraft 11 april 2005).*
+
+### § 1-2. Renter og rentegodtgjørelse.
+
+For avgift som ikke er betalt i rett tid betales renter. Rentesatsen skal være lik den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i § 3 første ledd første punktum i [lov 17. desember 1976 nr. 100](../lover/lov-1976-12-17-100-forsinkelsesrenteloven.md) om renter ved forsinket betaling m.m. Rentene beregnes fra forfallsdag og inntil betaling skjer. Rentebeløp under kr 50 oppkreves ikke.
+
+Når avgift helt eller delvis betales tilbake etter klagebehandling eller rettsavgjørelse, betales også erlagte renter tilbake. Dessuten godtgjøres renter av det tilbakebetalte beløp med 3/4 pst. pr. måned eller del av måned fra beløpet blir betalt. Rentegodtgjørelse under kr. 50 betales ikke ut.
+
+Hvis tilbakebetaling skjer i andre tilfeller enn de som er nevnt i annet ledd, kan departementet yte rentegodtgjørelse når særlige forhold foreligger.
+
+*Endret ved [forskrifter 30 mai 1997 nr. 555](https://lovdata.no/forskrift/1997-05-30-555) (i kraft 18 juni 1997), [8 april 2005 nr. 298](https://lovdata.no/forskrift/2005-04-08-298) (i kraft 11 april 2005).*
+
+### § 1-3. Kontroll.
+
+Kontrollører av dokumentavgift skal når som helst ha adgang til å foreta nødvendige undersøkelser i kontrolløyemed hos enhver som er ansvarlige for regnskapsføring og betaling av slik avgift. De kan til enhver tid kreve forelagt eller tilsendt til gjennomsyn regnskapsbøker med bilag.
+
+Enhver som er ansvarlig for regnskapsføring og betaling av avgiften, har plikt til å yte den bistand og veiledning som er nødvendig for å få utført kontrollen.
+
+### § 1-4. Taushetsplikt.
+
+Enhver som innehar offentlig verv, stilling eller oppdrag knyttet til avgiftsforvaltningen skal, med de begrensninger som følger av hans gjøremål, bevare taushet om det han i sitt arbeid har fått vite om noens forretnings-, drifts-, formues- og inntektsforhold og om andre økonomiske og personlige forhold som ikke er alminnelig kjent. Han må heller ikke gjøre bruk av sin viten om slike forhold i egen næringsvirksomhet.
+
+Bestemmelsene i første ledd er ikke til hinder for at opplysninger kan gis til annen offentlig myndighet eller for bruk i dennes arbeid med toll og andre avgifter til staten eller med skatter til stat og kommune, eller for bruk i statistisk øyemed. Bestemmelsene gjelder ikke når almene hensyn tilsier at opplysningene gis og departementet samtykker i dette.
+
+Den som mottar opplysninger i medhold av annet ledd har selv taushetsplikt om disse.
+
+### § 1-5. Klageinstans.
+
+Skattedirektoratet er klageinstans for vedtak i dokumentavgiftssaker.
+
+*Endret ved [forskrifter 3 mai 2004 nr. 707](https://lovdata.no/forskrift/2004-05-03-707) (i kraft 1 juli 2004), [17 des 2015 nr. 1704](https://lovdata.no/forskrift/2015-12-17-1704) (i kraft 1 jan 2016).*
+
+## Kap. II. Dokumenter vedrørende rettigheter i fast eiendom.
+
+### § 2-1. Avgiftsplikt.
+
+Ved makeskifte svares avgift av hver rettighetsoverføring.
+
+Det svares ikke avgift av dokument som anmerkes i grunnboken i medhold av [tinglysingslovens § 18](../lover/lov-1935-06-07-2-tinglysingsloven.md).
+
+*Endret ved [forskrift 17 des 2015 nr. 1704](https://lovdata.no/forskrift/2015-12-17-1704) (i kraft 1 jan 2016).*
+
+### § 2-2. Avgiftsgrunnlag.
+
+Verdien av løsøre tas ikke med i avgiftsgrunnlaget.
+
+Er eiendomsrett overtatt til pris som er fastsatt med hjemmel i [lov av 1. juni 1917 nr. 1](../lover/lov-1917-06-01-1-skjonnsprosessloven.md) eller i prislovgivningen, legges denne til grunn selv om den er lavere enn salgsverdien.
+
+Ved ekspropriasjon tas de lovbestemte tillegg til erstatningssummen med i avgiftsgrunnlaget.
+
+Avgiftspliktige eller den som handler på avgiftspliktiges vegne skal gi alle nødvendige opplysninger og ansette avgiftsgrunnlaget etter beste skjønn slik at det svarer til eiendommens salgsverdi på tinglysingstidspunktet. Kan denne ikke fastlegges på tilfredsstillende måte, nyttes liknings- eller skattetaksten med et tillegg som fastsettes i samråd med vedkommende skattekontor etter forholdene på tinglysingstidspunktet.
+
+*Endret ved [forskrifter 11 des 2003 nr. 1523](https://lovdata.no/forskrift/2003-12-11-1523) (i kraft 1 jan 2004), [15 des 2006 nr. 1443](https://lovdata.no/forskrift/2006-12-15-1443) (i kraft 1 jan 2007), [22 juni 2010 nr. 955](https://lovdata.no/forskrift/2010-06-22-955).*
+
+### § 2-3. Avrunding av avgiftsgrunnlag og -beløp.
+
+Avgiftsgrunnlag avrundes nedover til nærmeste kr. 1.000.
+
+Avgiftsbeløp avrundes nedover til nærmeste kr. 10, dog skal det i alle tilfelle betales minst kr. 250.
+
+### § 2-4. Fritak ved omorganiseringer som kan gjennomføres med skattemessig kontinuitet
+
+Ved påberopelse av fritak etter Stortingets vedtak § 2 første ledd bokstav k, skal det oppgis etter hvilken bestemmelse omorganiseringen er eller kunne ha vært gjennomført med skattemessig kontinuitet, hvilke virksomheter som har tatt del i omorganiseringen, samt når omorganiseringen har funnet sted. Det skal dokumenteres (f.eks. i form av revisorerklæring og dokumentasjon fra foretaksregisteret) at opplysningene som nevnt i første punktum er korrekte.
+
+*Opphevet ved [forskrift 22 juni 2010 nr. 955](https://lovdata.no/forskrift/2010-06-22-955), tilføyd igjen ved [forskrift 17 des 2015 nr. 1705](https://lovdata.no/forskrift/2015-12-17-1705).*
+
+### § 2-5. Etter- og omberegning av avgift.
+
+Viser nye opplysninger at avgift er beregnet av feilaktig grunnlag eller med feil beløp, skal registerfører sørge for etter- eller tilbakebetaling av avgift.
+
+*Endret ved [forskrift 11 des 2003 nr. 1523](https://lovdata.no/forskrift/2003-12-11-1523) (i kraft 1 jan 2004).*
+
+### § 2-6. Betaling
+
+Avgiften forfaller til betaling 14 dager regnet fra utsendelsen av kravet.
+
+Ved betaling av avgiften via bank skal forhåndstrykket blankett med kundeidentifikasjon (KID) utstedt av Statens kartverk benyttes. Ved elektronisk betaling skal kundeidentifikasjon (KID) oppgis sammen med betalingsoppdraget til betalers bank. Betalingsformidlere skal avvise elektroniske betalingsoppdrag for avgift dersom det ikke er oppgitt gyldig kundeidentifikasjon (KID).
+
+*Endret ved [forskrifter 8 april 2005 nr. 298](https://lovdata.no/forskrift/2005-04-08-298) (i kraft 11 april 2005), [22 juni 2010 nr. 955](https://lovdata.no/forskrift/2010-06-22-955).*
+
+### § 2-7. (Opphevet)
+
+*Endret ved [forskrift 11 des 2003 nr. 1523](https://lovdata.no/forskrift/2003-12-11-1523) (i kraft 1 jan 2004), opphevet ved [forskrift 17 des 2015 nr. 1704](https://lovdata.no/forskrift/2015-12-17-1704) (i kraft 1 jan 2016).*
+
+### § 2-8. (Opphevet)
+
+*Opphevet ved [forskrift 8 april 2005 nr. 298](https://lovdata.no/forskrift/2005-04-08-298) (i kraft 11 april 2005).*
+
+## Kap. III. Sluttsedler ved overføring av aksjer.[1]
+
+## Kap. IV. Firmameldinger.[2]
+
+## Kap. V. Bestemmelser om ikrafttreden m.v.
+
+### § 5-1. Ikrafttreden.
+
+Denne forskrift trer i kraft fra 1. januar 1976.
+
+### § 5-2. (Opphevet fra 1 jan 2008, jf. [forskrift 10 des 2007 nr. 1374](https://lovdata.no/forskrift/2007-12-10-1374).)
+
+## Fotnoter
+
+**1.** Opphevet ved [forskrift 12. desember 1983 nr. 1807](https://lovdata.no/forskrift/1983-12-12-1807).
+
+**2.** Opphevet ved [forskrift 12. desember 1983 nr. 1807](https://lovdata.no/forskrift/1983-12-12-1807).

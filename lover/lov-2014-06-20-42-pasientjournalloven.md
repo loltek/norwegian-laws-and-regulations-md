@@ -1,0 +1,380 @@
+# Lov om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven)
+
+- **Korttittel:** Pasientjournalloven
+- **Datokode:** LOV-2014-06-20-42
+- **DokumentID:** NL/lov/2014-06-20-42
+- **Departement:** Helse- og omsorgsdepartementet
+- **Kunngjort:** 2014-06-20 15:50
+- **I kraft fra:** 2015-01-01
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** lov 23.01.2026 nr. 1 fra 2026-07-01
+- **Rettsområde:** Forvaltnings- og kommunalrett > Statistikk. Registrering; Helse- og omsorgsrett > Pasientrettigheter; Helse- og omsorgsrett; IKT- og medierett > Personopplysninger
+- **Siste rettelse:** 2021-11-17 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Se også lov 2 juli 1999 nr. 63 kap. 5, lov 2 juli 1999 nr. 64 kap. 8 og lov 15 juni 2018 nr. 38 om behandling av personopplysninger.
+- **Kilde:** <https://lovdata.no/lov/2014-06-20-42>
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1. Lovens formål
+
+Formålet med loven er at behandling av helseopplysninger skal skje på en måte som
+
+a. gir pasienter og brukere helsehjelp av god kvalitet ved at relevante og nødvendige opplysninger på en rask og effektiv måte blir tilgjengelige for helsepersonell, samtidig som vernet mot at opplysninger gis til uvedkommende ivaretas, og
+b. sikrer pasienters og brukeres personvern, pasientsikkerhet og rett til informasjon og medvirkning.
+
+### § 2. Definisjoner
+
+I denne loven forstås med:
+
+a. *helsehjelp:* enhver handling som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål, og som utføres av helsepersonell, jf. [helsepersonelloven § 3](lov-1999-07-02-64-helsepersonelloven.md) første ledd
+b. *helseopplysninger:* personopplysninger om en fysisk persons fysiske eller psykiske helse, herunder om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. personvernforordningen artikkel 4 nr. 15
+c. *behandling av helseopplysninger:* enhver operasjon eller rekke av operasjoner som gjøres med helseopplysninger, enten automatisert eller ikke, for eksempel innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring, jf. personvernforordningen artikkel 4 nr. 2
+d. *behandlingsrettet helseregister:* pasientjournal- og informasjonssystem eller annet register, fortegnelse eller lignende, der helseopplysninger er lagret systematisk, slik at opplysninger om den enkelte kan finnes igjen, og som skal gi grunnlag for helsehjelp eller administrasjon av helsehjelp til enkeltpersoner
+e. *dataansvarlig:* ansvarlig for behandling av helseopplysninger etter personvernforordningen artikkel 4 nr. 7.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 3. Saklig virkeområde
+
+Loven gjelder all behandling av helseopplysninger som er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp til enkeltpersoner.
+
+For opplysninger som er taushetsbelagte etter [helsepersonelloven § 21](lov-1999-07-02-64-helsepersonelloven.md), og for opplysninger om avdøde personer gjelder bestemmelsene i loven her om behandling av helseopplysninger så langt de passer.
+
+Kongen i statsråd kan i forskrift eller enkeltvedtak bestemme at loven helt eller delvis skal gjelde for behandling av helseopplysninger til andre formål enn helsehjelp.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 4. Geografisk virkeområde
+
+Loven gjelder for dataansvarlige som er etablert i Norge. Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen, og kan fastsette særlige regler om behandling av helseopplysninger for disse områdene.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 5. Forholdet til personvernforordningen og personopplysningsloven
+
+Personvernforordningen og personopplysningsloven gjelder så langt ikke noe annet følger av loven her.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+## Kapittel 2. Pasientjournaler og andre behandlingsrettede helseregistre
+
+### § 6. Rett til å behandle helseopplysninger
+
+Behandlingsrettede helseregistre må ha hjemmel i lov.
+
+Helseopplysninger i behandlingsrettede helseregistre kan bare behandles når det er nødvendig for å kunne gi helsehjelp, eller for administrasjon, internkontroll eller kvalitetssikring av helsehjelpen.
+
+Ved behandling av helseopplysninger til internkontroll eller kvalitetssikring skal opplysningene så langt som mulig behandles uten at den registrertes navn og fødselsnummer fremgår.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 7. Krav til behandlingsrettede helseregistre
+
+Behandlingsrettede helseregistre skal understøtte pasientforløp i klinisk praksis og være lett å bruke og å finne frem i.
+
+Behandlingsrettede helseregistre skal være utformet og organisert slik at krav fastsatt i eller i medhold av lov kan oppfylles. Dette gjelder blant annet regler om:
+
+a. taushetsplikt, jf. [§ 15](lov-2014-06-20-42-pasientjournalloven.md),
+b. forbud mot urettmessig tilegnelse av helseopplysninger, jf. [§ 16](lov-2014-06-20-42-pasientjournalloven.md),
+c. retten til å motsette seg behandling av helseopplysninger, jf. [§ 17](lov-2014-06-20-42-pasientjournalloven.md),
+d. retten til informasjon og innsyn, jf. [§ 18](lov-2014-06-20-42-pasientjournalloven.md),
+e. helsepersonells dokumentasjonsplikt, jf. [helsepersonelloven § 39](lov-1999-07-02-64-helsepersonelloven.md),
+f. tilgjengeliggjøring av helseopplysninger, jf. [§§ 19](lov-2014-06-20-42-pasientjournalloven.md) og [20](lov-2014-06-20-42-pasientjournalloven.md) og
+g. informasjonssikkerhet, logg og internkontroll, jf. [§§ 22](lov-2014-06-20-42-pasientjournalloven.md), [22 a](lov-2014-06-20-42-pasientjournalloven.md) og [23](lov-2014-06-20-42-pasientjournalloven.md).
+
+Virksomheten skal ta hensyn til behovet for effektiv samhandling ved anskaffelse og videreutvikling av sine behandlingsrettede helseregistre.
+
+Departementet kan i forskrift gi nærmere bestemmelser om plikt til å ha elektroniske systemer, om godkjenning av programvare og sertifisering og om bruk av standarder, standardsystemer, kodeverk og klassifikasjonssystemer.
+
+*Endret ved lov [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+### § 8. Virksomheters plikt til å sørge for behandlingsrettede helseregistre
+
+Virksomheter som yter helsehjelp skal sørge for å ha behandlingsrettede helseregistre for gjennomføring av helsepersonells dokumentasjonsplikt, jf. [helsepersonelloven § 39](lov-1999-07-02-64-helsepersonelloven.md).
+
+Departementet kan gi forskrift om at virksomheter som yter helse- og omsorgstjenester etter [spesialisthelsetjenesteloven](lov-1999-07-02-61-spesialisthelsetjenesteloven.md), [helse- og omsorgstjenesteloven](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md), [apotekloven](lov-2000-06-02-39-apotekloven.md) og [tannhelsetjenesteloven](lov-1983-06-03-54-tannhelsetjenesteloven.md), skal ta i bruk følgende nasjonale e-helseløsninger i virksomheten:
+
+a. helsenettet: nasjonal infrastruktur med felles tjenester og felleskomponenter for utveksling av opplysninger med virksomheter i helse- og omsorgssektoren
+b. nasjonal kjernejournal opprettet etter [§ 13](lov-2014-06-20-42-pasientjournalloven.md)
+c. elektronisk kommunikasjonskjede for overføring av reseptinformasjon opprettet etter [§ 12](lov-2014-06-20-42-pasientjournalloven.md).
+
+Departementet kan også gi forskrift om at virksomheter nevnt i andre ledd skal gjøre digitale tjenester tilgjengelige på en nasjonal innbyggerportal.
+
+Departementet kan gi forskrift om:
+
+a. betaling for bruk av helsenettet
+b. at regionale helseforetak og kommuner skal betale for at de nasjonale e-helseløsningene nevnt i andre og tredje ledd gjøres tilgjengelige for virksomheter i helse- og omsorgstjenesten eller allmennheten
+c. at apotek og bandasjister som har gjort løsningen nevnt i andre ledd bokstav c tilgjengelig i virksomheten, skal betale for løsningen
+d. det nærmere innholdet i betalingsplikten og løsningene, hvem som er dataansvarlig, og statlige foretaks ansvar for å tilby løsningene.
+
+Virksomhetenes samlede betaling skal ikke overstige kostnadene til forvaltning og drift av løsningene.
+
+Forskrift om kommunenes plikt etter andre og tredje ledd kan ikke fastsettes før en vesentlig andel av kommunene har tilgjengeliggjort eller tatt i bruk den enkelte løsningen.
+
+*Endret ved lov [22 des 2021 nr. 165](https://lovdata.no/lov/2021-12-22-165) (ikr. 22 des 2021 iflg. [res. 22 des 2021 nr. 3832](https://lovdata.no/forskrift/2021-12-22-3832)).*
+
+### § 9. Samarbeid mellom virksomheter om behandlingsrettede helseregistre
+
+To eller flere virksomheter kan samarbeide om behandlingsrettede helseregistre, jf. [§ 8](lov-2014-06-20-42-pasientjournalloven.md). Virksomhetene skal da inngå skriftlig avtale om
+
+a. hva samarbeidet omfatter,
+b. hvordan pasientens eller brukerens rettigheter skal ivaretas,
+c. hvordan helseopplysningene skal behandles og sikres, også ved endringer i eller opphør av samarbeidet, og
+d. dataansvar.
+
+Departementet kan i forskrift eller enkeltvedtak fastsette vilkår for slikt samarbeid.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 9 a. Behandlingsrettet helseregister med tolkede genetiske varianter
+
+Virksomheter som gjør undersøkelser etter [bioteknologiloven § 4-1](lov-2003-12-05-100-bioteknologiloven.md), [§ 5-1](lov-2003-12-05-100-bioteknologiloven.md) annet ledd bokstav a eller [§ 5-1](lov-2003-12-05-100-bioteknologiloven.md) annet ledd bokstav b, kan samarbeide om etablering av et behandlingsrettet helseregister med tolkede genetiske varianter. Direkte personidentifiserbare opplysninger, som navn eller fødselsnummer, kan ikke behandles i registeret. Opplysningene kan tilgjengeliggjøres for registeret uten hinder av taushetsplikt.
+
+Formålet med behandlingen av helseopplysningene skal være å yte og kvalitetssikre helsehjelp til pasienter som kan knyttes til en tolket genvariant. Første ledd gir ikke grunnlag for opprettelse av et helseregister med genomer eller eksomer. Det er ikke tillatt å bruke opplysningene i registeret for å rekonstruere hele eller deler av genomer eller eksomer.
+
+Helseopplysningene kan behandles uten samtykke fra den registrerte, men den registrerte har rett til å motsette seg behandlingen. Den dataansvarlige skal sørge for at den registrerte så snart som mulig etter at opplysningene er samlet inn, får nødvendig informasjon for at vedkommende skal få innsikt i hva retten til å motsette seg behandling av opplysningene innebærer.
+
+Helseopplysningene kan, i samsvar med formålet i annet ledd og uten hinder av taushetsplikt, tilgjengeliggjøres fra registeret dersom den som får tilgang til opplysningene
+
+a. er underlagt lovbestemt taushetsplikt,
+b. godtgjør at behandlingen vil ha rettslig grunnlag etter [personvernforordningen artikkel 6](lov-2018-06-15-38-personopplysningsloven.md) og [9](lov-2018-06-15-38-personopplysningsloven.md) og
+c. har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal gjøres for å ivareta informasjonssikkerheten.
+
+Den dataansvarlige skal vurdere om vilkårene for tilgjengeliggjøring er oppfylt.
+
+Departementet gir forskrift om hvilke helseopplysninger som kan behandles i et register med hjemmel etter første ledd og på hvilken måte og i hvilken form opplysningene skal tilgjengeliggjøres for registeret.
+
+*Tilføyd ved lov [11 juni 2021 nr. 67](https://lovdata.no/lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](https://lovdata.no/forskrift/2021-06-11-1869)).*
+
+### § 10. Etablering av nasjonale behandlingsrettede helseregistre og nasjonal datainfrastruktur
+
+Kongen i statsråd kan gi forskrift om etablering av nasjonale behandlingsrettede helseregistre som på bestemte områder kommer i stedet for registre etter [§§ 8](lov-2014-06-20-42-pasientjournalloven.md) og [9](lov-2014-06-20-42-pasientjournalloven.md).
+
+Kongen i statsråd kan gi forskrift om nasjonal datainfrastruktur for digital samhandling. Datainfrastrukturen kan omfatte helseopplysninger og andre personopplysninger som benyttes i samhandling mellom helsepersonell for å yte, administrere eller kvalitetssikre helsehjelp. Datainfrastrukturen kan tilgjengeliggjøre helseopplysninger og andre personopplysninger som er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp.
+
+Forskriftene etter første og andre ledd skal gi nærmere bestemmelser om drift, behandling og sikring av helseopplysningene, om dataansvar, om tilgangskontroll og om hvordan rettighetene til pasienten eller brukeren skal ivaretas.
+
+*Endret ved lover [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [17 juni 2022 nr. 51](https://lovdata.no/lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](https://lovdata.no/forskrift/2022-06-17-1042)).*
+
+### § 11. Systemer for saksbehandling, administrasjon mv. av helsehjelp
+
+Ved saksbehandling, administrasjon, oppgjør og gjennomføring av helsehjelp, kan det treffes avgjørelser som utelukkende er basert på automatisert behandling av helseopplysninger eller andre personopplysninger, når avgjørelsen er lite inngripende overfor den enkelte.
+
+Direkte identifiserbare helseopplysninger kan behandles i lukkede testmiljøer for å utvikle og teste behandlingsrettede helseregistre dersom det er umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke pseudonyme, anonyme eller fiktive opplysninger.
+
+Kongen i statsråd kan gi forskrift om behandling av helseopplysninger og andre personopplysninger, også ved bruk av automatiserte avgjørelser, for saksbehandling, administrasjon, oppgjør og gjennomføring av helsehjelp til enkeltpersoner. Forskriften kan gi nærmere bestemmelser om behandlingen av opplysningene, hvilke opplysninger som kan behandles, hvem det kan behandles opplysninger om, den enkeltes rett til å motsette seg behandling av opplysningene og om dataansvar. Forskriften kan gi adgang til å fatte automatiserte avgjørelser selv om avgjørelsen ikke er lite inngripende overfor den enkelte.
+
+Taushetsplikt er ikke til hinder for behandlingen av opplysningene. Helseopplysningene kan behandles uten hensyn til samtykke fra pasienten. Graden av personidentifikasjon skal ikke være større enn nødvendig for det aktuelle formålet. Opplysninger om diagnose eller sykdom kan bare behandles når det er nødvendig for å nå formålet med behandlingen av opplysningen.
+
+*Endret ved lover [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [17 juni 2022 nr. 51](https://lovdata.no/lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](https://lovdata.no/forskrift/2022-06-17-1042)).*
+
+### § 12. Reseptformidleren
+
+Kongen i statsråd kan gi forskrift med nærmere bestemmelser om behandling av helseopplysninger i nasjonal database for resepter (Reseptformidleren).
+
+Opplysningene kan behandles uten samtykke fra pasienten.
+
+Forskriften skal gi nærmere bestemmelser om formålet med behandlingen av opplysningene, hvilke opplysninger som skal behandles, og hvem som er dataansvarlig for opplysningene.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 13. Nasjonal kjernejournal
+
+Kongen i statsråd kan gi forskrift om behandling av helseopplysninger i nasjonal kjernejournal.
+
+Nasjonal kjernejournal er et sentralt virksomhetsovergripende behandlingsrettet helseregister. Journalen skal inneholde et begrenset sett relevante helseopplysninger som er nødvendig for å yte forsvarlig helsehjelp.
+
+Opplysninger kan registreres og på annen måte behandles uten samtykke fra pasienten. Den registrerte har rett til å motsette seg at helseopplysninger behandles i registeret.
+
+Helsepersonell med tjenstlig behov ved ytelse av helsehjelp kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Med samtykke menes enhver frivillig, spesifikk, informert og utvetydig viljesytring fra pasienten der vedkommende ved en erklæring eller en tydelig bekreftelse gir sitt samtykke til at det gis slik tilgang, jf. personvernforordningen artikkel 4 nr. 11. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder [helsepersonelloven § 25 første ledd](lov-1999-07-02-64-helsepersonelloven.md) og [§ 29](lov-1999-07-02-64-helsepersonelloven.md) tilsvarende.
+
+Kongen i statsråd kan i forskrift gi nærmere bestemmelser om innholdet i kjernejournalen, drift av kjernejournalen og behandling av helseopplysningene. Dette omfatter blant annet hvilke opplysninger som skal behandles, hvem som er dataansvarlig, regler om sletting, tilgang og tilgangskontroll, samt pasientens rettigheter.
+
+*Endret ved lover [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [10 apr 2019 nr. 11](https://lovdata.no/lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](https://lovdata.no/forskrift/2019-04-10-473)), [16 juni 2023 nr. 56](https://lovdata.no/lov/2023-06-16-56) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 945](https://lovdata.no/forskrift/2023-06-16-945)), [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+### § 14. Registrering og melding av helseopplysninger
+
+Virksomheter og helsepersonell som tilbyr eller yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven, plikter uten hinder av taushetsplikt å registrere eller melde opplysninger som bestemt i forskrifter etter §§ 11 til 13.
+
+Kongen kan i forskrift gi nærmere bestemmelser om innhenting av helseopplysninger til registre som omfattes av [§§ 11](lov-2014-06-20-42-pasientjournalloven.md) til [13](lov-2014-06-20-42-pasientjournalloven.md), blant annet om frister, formkrav, bruk av meldingsskjemaer og standarder.
+
+Mottaker av opplysningene skal varsle den som har registrert eller meldt opplysningene dersom opplysningene er mangelfulle.
+
+## Kapittel 3. Taushetsplikt, innsynsrett og rett til å motsette seg behandling av helseopplysninger
+
+### § 15. Taushetsplikt
+
+Enhver som behandler helseopplysninger etter denne lov, har taushetsplikt etter [helsepersonelloven §§ 21](lov-1999-07-02-64-helsepersonelloven.md) flg. Andre som får adgang eller kjennskap til helseopplysninger fra et behandlingsrettet helseregister, har samme taushetsplikt.
+
+### § 16. Forbud mot urettmessig tilegnelse av helseopplysninger
+
+Det er forbudt å lese, søke etter eller på annen måte tilegne seg, bruke eller besitte helseopplysninger fra behandlingsrettede helseregistre uten at det er begrunnet i helsehjelp til den enkelte, administrasjon av slike tjenester eller har særskilt hjemmel i lov eller forskrift.
+
+### § 17. Rett til å motsette seg behandling av helseopplysninger
+
+Pasienten eller brukeren kan motsette seg at
+
+a. helseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i [§§ 8](lov-2014-06-20-42-pasientjournalloven.md) til [10](lov-2014-06-20-42-pasientjournalloven.md) gjøres tilgjengelige for helsepersonell etter [§ 19](lov-2014-06-20-42-pasientjournalloven.md), jf. [helsepersonelloven § 29](lov-1999-07-02-64-helsepersonelloven.md) og [pasient- og brukerrettighetsloven § 5-3](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md),
+b. opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i [§ 11](lov-2014-06-20-42-pasientjournalloven.md), og
+c. helseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i [§ 13](lov-2014-06-20-42-pasientjournalloven.md).
+d. helseopplysninger registreres eller behandles på andre måter i register etablert med hjemmel i [§ 9 a](lov-2014-06-20-42-pasientjournalloven.md).
+
+Reglene om beslutningskompetanse i [pasient- og brukerrettighetsloven §§ 4-3](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) til [4-7](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) gjelder tilsvarende for retten til å motsette seg behandling av opplysningene.
+
+*Endret ved lover [11 juni 2021 nr. 67](https://lovdata.no/lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](https://lovdata.no/forskrift/2021-06-11-1869)), [20 juni 2025 nr. 67](https://lovdata.no/lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](https://lovdata.no/forskrift/2025-06-20-1109)), [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+### § 18. Informasjon og innsyn
+
+Pasienten eller brukeren har rett til informasjon og innsyn i henhold til [§ 22 a](lov-2014-06-20-42-pasientjournalloven.md), [pasient- og brukerrettighetsloven § 3-6 tredje ledd](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) og [§ 5-1](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) og til [personvernforordningen artikkel 13](lov-2018-06-15-38-personopplysningsloven.md) og [15](lov-2018-06-15-38-personopplysningsloven.md).
+
+Når det er nødvendig for å gi innsyn, kan den dataansvarlige innhente personopplysninger fra Folkeregisteret. Dette gjelder uten hensyn til om opplysningene er underlagt taushetsplikt etter [folkeregisterloven](lov-2016-12-09-88-folkeregisterloven.md).
+
+Kongen kan i forskrift gi nærmere bestemmelser om retten til innsyn i behandlingsrettede helseregistre.
+
+*Endret ved lover [9 des 2016 nr. 88](lov-2016-12-09-88-folkeregisterloven.md) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](https://lovdata.no/forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [17 juni 2022 nr. 51](https://lovdata.no/lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](https://lovdata.no/forskrift/2022-06-17-1042)), [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+## Kapittel 4. Virksomhetens plikter ved behandling av helseopplysninger
+
+### § 19. Helseopplysninger ved helsehjelp
+
+Innenfor rammen av taushetsplikten etter [helsepersonelloven](lov-1999-07-02-64-helsepersonelloven.md) skal den dataansvarlige sørge for at relevante og nødvendige helseopplysninger er tilgjengelige for helsepersonell og annet samarbeidende personell når dette er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp. Personellet kan innenfor rammene av denne taushetsplikten behandle opplysningene så langt det er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp.
+
+Med mindre annet er fastsatt i lov eller i medhold av lov, skal den dataansvarlige bestemme på hvilken måte opplysningene skal gjøres tilgjengelige. Opplysningene skal gjøres tilgjengelige på en måte som ivaretar informasjonssikkerheten.
+
+Departementet kan i forskrift gi nærmere bestemmelser om hvordan helseopplysninger i behandlingsrettede helseregistre kan gjøres tilgjengelige.
+
+*Endret ved lover [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+### § 20. Helseopplysninger til andre formål enn helsehjelp
+
+Den dataansvarlige kan gjøre helseopplysninger tilgjengelige for andre formål enn helsehjelp når den enkelte samtykker eller dette er fastsatt i lov eller i medhold av lov. Med samtykke menes enhver frivillig, spesifikk, informert og utvetydig viljesytring fra den registrerte der vedkommende ved en erklæring eller en tydelig bekreftelse gir sitt samtykke til behandling av helseopplysninger som gjelder vedkommende, jf. personvernforordningen artikkel 4 nr. 11.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 21. Personopplysninger fra Folkeregisteret
+
+Den dataansvarlige kan innhente personopplysninger fra Folkeregisteret når dette er nødvendig for å oppfylle den dataansvarliges plikter etter loven. Dette gjelder uten hensyn til om opplysningene er underlagt taushetsplikt etter folkeregisterloven.
+
+Når det er nødvendig for å løse oppgaver helse- og omsorgstjenesten eller helse- og omsorgsforvaltningen er pålagt i lov eller forskrift, kan Norsk helsenett SF
+
+a. innhente personopplysninger fra Folkeregisteret uten hinder av taushetsplikt, behandle opplysningene og sammenstille opplysningene med andre nødvendige opplysninger
+b. dele opplysninger som nevnt i bokstav a med virksomheter i helse- og omsorgstjenesten og helse- og omsorgsforvaltningen.
+
+Departementet kan gi forskrift om dataansvar og behandling av opplysninger etter andre ledd.
+
+*Endret ved lover [9 des 2016 nr. 88](lov-2016-12-09-88-folkeregisterloven.md) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](https://lovdata.no/forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [22 des 2021 nr. 165](https://lovdata.no/lov/2021-12-22-165) (ikr. 22 des 2021 iflg. [res. 22 des 2021 nr. 3832](https://lovdata.no/forskrift/2021-12-22-3832)).*
+
+### § 22. Tekniske og organisatoriske sikkerhetstiltak
+
+Den dataansvarlige og databehandleren skal gjennomføre nødvendige tekniske og organisatoriske tiltak for å ivareta sikkerheten ved behandling av personopplysninger. Tiltakene skal være egnet med hensyn til risikoen ved behandlingen av personopplysningene, jf. [personvernforordningen artikkel 32](lov-2018-06-15-38-personopplysningsloven.md). Den dataansvarlige og databehandleren skal også gjennomføre risikovurderinger av nettverks- og informasjonssystemene som benyttes for å levere tjenester i henhold til denne loven.
+
+Sikkerhetstiltakene skal være proporsjonale og tilpasset risikoen. Ved vurderingen av hva som er et forsvarlig sikkerhetsnivå, skal det tas hensyn til den enkeltes personvern, kritiske samfunnsfunksjoner, helse- og omsorgstjenestens evne til å ivareta sine oppgaver og den teknologiske utviklingen.
+
+Den dataansvarlige og databehandleren skal iverksette tiltak for å forebygge, avdekke og redusere konsekvensene av skadelige hendelser. Dette omfatter tiltak som blant annet tilgangsstyring, logging og etterfølgende kontroll. Den dataansvarlige og databehandleren kan kreve uttømmende og utvidet politiattest, jf. [politiregisterloven § 41 nr. 2](lov-2010-05-28-16-politiregisterloven.md), fra personer som skal ha privilegerte tilganger til nettverks- og informasjonssystemer.
+
+Departementet kan i forskrift fastsette nærmere krav til tekniske og organisatoriske sikkerhetstiltak.
+
+*Endret ved lover [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [22 des 2025 nr. 126](https://lovdata.no/lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](https://lovdata.no/forskrift/2026-03-13-401)).*
+
+### § 22 a. Dokumentasjon av tilgjengeliggjøring
+
+Tilgjengeliggjøring av helseopplysninger etter denne loven og [helsepersonelloven](lov-1999-07-02-64-helsepersonelloven.md) skal dokumenteres i en logg eller i pasientens journal. I logg skal det minst dokumenteres informasjon om:
+
+a. identiteten og den organisatoriske tilhørigheten til den som får helseopplysningene
+b. grunnlaget for tilgjengeliggjøringen
+c. tidsperioden for tilgjengeliggjøringen
+d. hvilke opplysninger eller dokumenter som blir tilgjengeliggjort.
+
+Den registrerte har rett til innsyn i dokumentasjonen.
+
+Dersom oversikten viser at noen urettmessig har hentet frem journalopplysninger, skal virksomheten opplysningene er hentet fra og den registrerte varsles, jf. [personvernforordningen artikkel 33](lov-2018-06-15-38-personopplysningsloven.md) og [34](lov-2018-06-15-38-personopplysningsloven.md).
+
+Departementet kan gi forskrift om dokumentasjon av tilgjengeliggjøring av helseopplysninger.
+
+*Tilføyd ved lov [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+### § 23. Internkontroll
+
+Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen utføres i samsvar med personvernforordningen, personopplysningsloven og denne loven, jf. forordningen artikkel 24.
+
+Den dataansvarlige skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den dataansvarlige og hos databehandleren. Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.
+
+Departementet kan i forskrift gi nærmere bestemmelser om internkontroll.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 24. Overdragelse eller opphør av virksomhet
+
+Ved overdragelse eller opphør av virksomhet kan behandlingsrettet helseregister overføres til en annen virksomhet. Den enkelte pasient eller bruker kan motsette seg overføring av sin journal og i stedet kreve at registeret overføres til en annen bestemt virksomhet. Dersom det er praktisk mulig, skal pasienten eller brukeren gjøres kjent med denne retten.
+
+Departementet kan i forskrift gi nærmere bestemmelser om overføring av helseopplysninger ved opphør eller overdragelse av virksomhet.
+
+### § 25. Plikt til bevaring eller sletting
+
+Helseopplysninger skal oppbevares til det av hensyn til helsehjelpens karakter ikke lenger antas å bli bruk for dem. Det samme gjelder opplysninger om hvem som har hatt tilgang til eller fått utlevert helseopplysninger som er knyttet til pasientens eller brukerens navn eller fødselsnummer.
+
+Hvis ikke opplysningene deretter skal bevares etter arkivloven eller annen lovgivning, skal de slettes.
+
+Kongen kan i forskrift gi nærmere bestemmelser om bevaring eller sletting av opplysninger som nevnt i første ledd.
+
+## Kapittel 5. Tilsyn og sanksjoner
+
+### § 26. Tilsyn
+
+Datatilsynet fører tilsyn med overholdelsen av loven og forskrifter gitt i medhold av loven. Dette gjelder ikke for tilsynsoppgaver som påligger Statens helsetilsyn eller statsforvalteren etter [helsetilsynsloven](lov-2017-12-15-107-helsetilsynsloven.md).
+
+*Endret ved lover [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [10 juni 2022 nr. 37](https://lovdata.no/lov/2022-06-10-37).*
+
+### § 27. (Opphevet)
+
+*Opphevet ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 28. (Opphevet)
+
+*Opphevet ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 29. Overtredelsesgebyr
+
+Ved behandling av helseopplysninger i strid med loven eller forskrifter gitt i medhold av loven, kan Datatilsynet ilegge overtredelsesgebyr etter personvernforordningen artikkel 83 og [personopplysningsloven §§ 26](lov-2018-06-15-38-personopplysningsloven.md) og [27](lov-2018-06-15-38-personopplysningsloven.md).
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 30. Straff for brudd på taushetsplikt
+
+Overtredelse av [§ 15](lov-2014-06-20-42-pasientjournalloven.md) om taushetsplikt straffes etter [straffeloven § 209](lov-2005-05-20-28-straffeloven.md), likevel slik at også medvirkning straffes.
+
+*Endret ved lover [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015), [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [10 apr 2019 nr. 11](https://lovdata.no/lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](https://lovdata.no/forskrift/2019-04-10-473)), [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+### § 30 a. Straff for urettmessig tilegnelse av helseopplysninger
+
+Den som forsettlig eller grovt uaktsomt overtrer forbudet i [§ 16](lov-2014-06-20-42-pasientjournalloven.md) mot urettmessig tilegnelse av helseopplysninger, straffes med bøter eller fengsel i inntil ett år.
+
+Grov urettmessig tilegnelse av helseopplysninger straffes med fengsel i inntil tre år. Ved avgjørelsen av om den urettmessige tilegnelsen av helseopplysninger er grov, skal det særlig legges vekt på
+
+a. faren for stor skade eller ulempe for pasienten eller brukeren
+b. om det foreligger en tilsiktet vinning med overtredelsen
+c. overtredelsens varighet og omfang
+d. den utviste skyld
+e. om handlingen er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger.
+
+*Tilføyd ved lov [10 apr 2019 nr. 11](https://lovdata.no/lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](https://lovdata.no/forskrift/2019-04-10-473)), endret ved lov [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+### § 31. Erstatning
+
+Den dataansvarlige og databehandleren skal erstatte skader som er oppstått som følge av at helseopplysninger er behandlet i strid med personvernforordningen, etter forordningen artikkel 82 og [personopplysningsloven § 30](lov-2018-06-15-38-personopplysningsloven.md). Ansvaret gjelder tilsvarende ved brudd på denne loven eller forskrifter gitt i medhold av loven.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+## Kapittel 6. Ikraftsetting mv.
+
+### § 32. Ikraftsetting
+
+Loven trer i kraft fra den tid Kongen bestemmer.[1] Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid.
+
+### § 33. Videreføring av forskrifter
+
+Forskrifter gitt i medhold av [lov 18. mai 2001 nr. 24](https://lovdata.no/lov/2001-05-18-24) om helseregistre og behandling av helseopplysninger, gjelder også etter at loven her har trådt i kraft.
+
+## Fotnoter
+
+**1.** Fra 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](https://lovdata.no/forskrift/2014-12-19-1732).

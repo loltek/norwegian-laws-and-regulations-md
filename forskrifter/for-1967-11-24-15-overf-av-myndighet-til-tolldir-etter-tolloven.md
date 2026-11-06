@@ -1,0 +1,15 @@
+# Overføring av myndighet etter tolloven av 10. juni 1966.
+
+- **Korttittel:** Overf. av myndighet til Tolldir. etter tolloven
+- **Datokode:** FOR-1967-11-24-15
+- **DokumentID:** DEL/forskrift/1967-11-24-15
+- **Departement:** Finansdepartementet
+- **Etat:** Skattelovavd.
+- **Hjemmel:** lov 10.06.1966 nr. 5
+- **Publisert i:** I 1967 1807
+- **I kraft fra:** 1968-02-01
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt av Finans- og tolldepartementet 24. november 1967 med hjemmel i lov av 10. juni 1966 nr. 5 om toll (tolloven) § 2 pkt. 2, 3 og 4, § 6, § 7, § 15 første ledd, § 19, § 21, § 23, § 27, § 29, § 35, § 39, § 41, § 46, § 47, § 38 første ledd, § 49 og § 56, jf. delegeringsvedtak av 24. november 1967 nr. 1.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/1967-11-24-15>
+
+Den myndighet etter forskjellige bestemmelser i tolloven av 10. juni 1966 som etter kongelig resolusjon av 24. november 1967 er delegert til Finans- og tolldepartementet, er av departementet overført til Tolldirektoratet når det gjelder myndigheten etter lovens § 2, punktene 2, 3 og 4 samt § 6, § 7, § 15 første ledd, § 19, § 21, § 23, § 27, § 29, § 35, § 39, § 41, § 46, § 47, § 48 første ledd, § 49 og § 56.

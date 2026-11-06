@@ -1,0 +1,184 @@
+# Lov om registrering av elektriske kraftledninger [kraftledningsregisterloven]
+
+- **Korttittel:** Kraftledningsregisterloven – kregl
+- **Datokode:** LOV-1927-07-01-1
+- **DokumentID:** NL/lov/1927-07-01-1
+- **Departement:** Justis- og beredskapsdepartementet
+- **I kraft fra:** 1928-06-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** lov 25.04.2025 nr. 12 fra 2026-01-01
+- **Rettsområde:** Energirett > Elektrisitetsproduksjon og -forsyning; Fast eiendoms rettsforhold > Tinglysing. Registrering
+- **Siste rettelse:** 2021-08-26 (faglige fotnoter fjernet, struktur, UU-tilpasset)
+- **Kilde:** <https://lovdata.no/lov/1927-07-01-1>
+
+## § 1.
+
+Tinglysingsmyndigheten skal føre et register (kraftledningsregistret) for høyspente sterkstrømsledninger som er anlagt for statens regning eller med hjemmel av en konsesjon. Departementet kan nærmere bestemme hvor slik registrering skal skje.
+
+[Tinglysingsloven §§ 2](lov-1935-06-07-2-tinglysingsloven.md) og [3](lov-1935-06-07-2-tinglysingsloven.md) og kapittel 2 gjelder tilsvarende så langt de passer. Kongen kan i forskrift fravike bestemmelsene i tinglysingsloven.
+
+*Endret ved [lover 29 juni 1990 nr. 47](https://lovdata.no/lov/1990-06-29-47), [12 sep 2003 nr. 93](https://lovdata.no/lov/2003-09-12-93) (ikr. 1 jan 2004 iflg. [res. 12 sep 2003 nr. 1136](https://lovdata.no/forskrift/2003-09-12-1136)), [20 juni 2014 nr. 45](https://lovdata.no/lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](https://lovdata.no/forskrift/2017-03-31-414)).*
+
+## § 2.
+
+De til en registrert kraftledning knyttede transformatoranlegg regnes som del av ledningen såfremt de tilhører samme eier som denne.
+
+Er der til en registrert kraftledning knyttet elektriske ledningsanlegg som det ikke er adgang til særskilt å registrere efter denne lov, blir disse å anse som en del av den registrerte ledning, såfremt de tilhører eieren av denne.
+
+Til en registrert kraftledning hører også ledningseierens rett til den av hensyn til ledningen fornødne benyttelse av grunnen.
+
+*Endret ved lov 24 juni 1949 nr. 2.*
+
+## § 2 a.
+
+Er det til en registrert kraftledning knyttet transformatoranlegg som ikke tilhører eieren av ledningen og ikke er registrert og heller ikke kan registreres som del av annen ledning (jfr. [§ 2](lov-1927-07-01-1-kraftledningsregisterloven.md)), kan anlegget etter krav fra dets eier registreres på eget folium i kraftledningsregistret. Flere transformatoranlegg som tilhører samme eier, kan registreres samlet på ett folium dersom heftelsene i de enkelte anlegg er ordnet som nevnt i [§ 12](lov-1927-07-01-1-kraftledningsregisterloven.md) bokstav a-c.
+
+[§ 2](lov-1927-07-01-1-kraftledningsregisterloven.md) annet og tredje ledd får tilsvarende anvendelse.
+
+Regelen i [§ 15](lov-1927-07-01-1-kraftledningsregisterloven.md) annet ledd gjelder ikke transformatoranlegg m.v. som er gjenstand for registrering etter denne paragraf. Overdragelse av enkelte transformatorer med tilhørende ledningsanlegg kan registreres uten hensyn til bestemmelsen i [§ 13](lov-1927-07-01-1-kraftledningsregisterloven.md) første ledd. For øvrig gjelder lovens regler om registrering av elektriske kraftledninger tilsvarende for transformatoranlegg m.v. som registreres etter denne paragraf.
+
+Kongen kan gi nærmere regler til gjennomføring av reglene i denne paragraf.
+
+*Tilføyd ved lov 24 juni 1949 nr. 2.*
+
+## § 3.
+
+Registrering av en kraftledning finner bare sted såfremt eieren begjærer det. Registreringen må omfatte hele den ledning som er gjenstand for konsesjon.
+
+Kongen gir forskrifter om hvilke oplysninger begjæringen skal inneholde og hvilke dokumenter og attester som skal følge med, samt nærmere regler om innretningen av kraftledningsregistret.
+
+*Endret ved [lov 20 juni 2014 nr. 45](https://lovdata.no/lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](https://lovdata.no/forskrift/2017-03-31-414)).*
+
+## § 3 a.
+
+Den myndighet som Kongen bestemmer, kan etter begjæring fra konsesjonshaveren gi samtykke til foreløpig registrering av kraftledning som ikke er ferdigbygd.
+
+På foreløpig registrering kommer reglene i [§§ 5](lov-1927-07-01-1-kraftledningsregisterloven.md) annet ledd, 6, 10 og 15 annet ledd ikke til anvendelse.
+
+For øvrig gjelder reglene i denne lov tilsvarende, [§ 4](lov-1927-07-01-1-kraftledningsregisterloven.md) med de lempninger som Kongen fastsetter ved regler etter nærværende paragrafs femte ledd.
+
+Den foreløpige registrering kan slettes når endelig registrering ikke har funnet sted innen en frist som settes av den i første ledd nevnte myndighet. Før sletting finner sted skal registerføreren i rekommandert brev sende varsel til eieren og til innehavere av registrerte rettigheter i ledningen.
+
+Kongen gir nærmere regler om vilkårene for og fremgangsmåten ved foreløpig registrering.
+
+*Tilføyd ved lov 24 juni 1949 nr. 2, endret ved [lov 9 jan 1998 nr. 5](https://lovdata.no/lov/1998-01-09-5).*
+
+## § 4.
+
+Er begjæringen i orden, blir ledningen å registrere og å gi eget folium i kraftledningsregistret, såfremt den som har begjært registreringen godtgjør å være eier av ledningen. Er han konsesjonshaver, anses hans adkomst for å være i orden såfremt han gir erklæring om at ledningen er bygget for hans regning og dette bekreftes av tilsynsmannen og den som har ansvaret for anlegget av ledningen.
+
+På ledningens folium anmerkes:
+
+1. hvem eier ledningen og hvilke dokumenter adkomsten støttes på;
+2. om det er godtgjort at ledningseieren har tinglyst adkomst til den av hensyn til ledningen fornødne benyttelse av grunnen; sådan anmerkning blir å utslette, hvis der innen utløpet av den i [§ 6](lov-1927-07-01-1-kraftledningsregisterloven.md) nevnte frist ikke er registrert nogen erklæring som der nevnt;
+3. om der før registreringen er tinglyst pant eller annen heftelse eller rettighet som omfatter ledningen eller enkelte deler av eller tilbehør til denne. – – –. – – –. Anmerkning om slike heftelser blir å utslette hvis de ikke er begjært registrert innen den i [§ 10](lov-1927-07-01-1-kraftledningsregisterloven.md) satte frist.
+
+## § 5.
+
+Om registreringen sendes melding til vedkommende departement eller den myndighet som Kongen bestemmer. Denne fører en fortegnelse over registrerte ledninger.
+
+Enn videre skal registerføreren besørge innrykket i Norsk lysingsblad, samt i et eller flere blad som er alminnelig lest i distriktet, en meddelelse om at ledningen er registrert. Meddelelsen skal angi hvor ledningen går og varsle om bestemmelsene i [§ 6](lov-1927-07-01-1-kraftledningsregisterloven.md), annet ledd og [§ 10](lov-1927-07-01-1-kraftledningsregisterloven.md). Den som har tinglyst pant i ledningen, skal i rekommandert brev varsles om registreringen og om bestemmelsen i [§ 10](lov-1927-07-01-1-kraftledningsregisterloven.md), hvis hans adresse kjennes.
+
+Utgiftene til kunngjøringen betales av ledningseieren.
+
+Strekker ledningen sig gjennem flere registreringskretser skal der sendes panteboksføreren i disse sådan meddelelse som bestemmelsene i [§ 6](lov-1927-07-01-1-kraftledningsregisterloven.md), første ledd nødvendiggjør.
+
+*Endret ved [lover 9 jan 1998 nr. 5](https://lovdata.no/lov/1998-01-09-5), [20 juni 2003 nr. 45](https://lovdata.no/lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](https://lovdata.no/forskrift/2003-06-20-712)), [12 sep 2003 nr. 93](https://lovdata.no/lov/2003-09-12-93) (ikr. 1 jan 2004 iflg. [res. 12 sep 2003 nr. 1136](https://lovdata.no/forskrift/2003-09-12-1136)).*
+
+## § 6.
+
+Når ledningen er registrert, skal anmerkning herom gjøres i panteregistret for de eiendommer som ledningen går over.
+
+Vil nogen overfor eier av eller rettighetshaver i ledningen gjøre innsigelse mot adkomsten til den av hensyn til ledningen fornødne benyttelse av grunnen, må erklæring herom være registrert på ledningens folium senest 2 år efterat den i [§ 5](lov-1927-07-01-1-kraftledningsregisterloven.md) omhandlede meddelelse har vært innrykket i Norsk Lysingsblad. At fristen oversittes hindrer dog ikke at sådan innsigelse gjøres gjeldende overfor den som ikke har vært i god tro.
+
+*Endret ved [lov 22 apr 2016 nr. 3](https://lovdata.no/lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](https://lovdata.no/forskrift/2016-04-22-407)).*
+
+## § 7.
+
+Ved overdragelse av eiendomsrett til og stiftelse av pant eller annen rettighet i registrert kraftledning er inntegning på ledningens folium i registret av det dokument som hjemler rettigheten, nødvendig i samme utstrekning hvori ellers tinglysing utfordres ved fast eiendom. Bestemmelsene i [lov om tinglysing](lov-1935-06-07-2-tinglysingsloven.md) av 7. juni 1935[1] [§§ 12](lov-1935-06-07-2-tinglysingsloven.md)-14 og [16](lov-1935-06-07-2-tinglysingsloven.md)-19 samt [§ 39](lov-1935-06-07-2-tinglysingsloven.md) nr. 3 gjelder tilsvarende. Tinglysing, foretatt etter denne lovs ikrafttreden vedkommende rettighet i registrert kraftledning, har ingen rettsvirkning.
+
+*Endret ved lover 24 juni 1949 nr. 2, [8 feb 1980 nr. 2](lov-1980-02-08-2-panteloven.md).*
+
+## § 8. (Opphevet)
+
+*Opphevet ved [lov 20 juni 2014 nr. 45](https://lovdata.no/lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](https://lovdata.no/forskrift/2017-03-31-414)).*
+
+## § 9.
+
+[Tinglysingsloven §§ 20-23](lov-1935-06-07-2-tinglysingsloven.md) får tilsvarende anvendelse for så vidt angår rettsvirkningen av registreringen.
+
+*Endret ved [lover 8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md), [20 juni 2014 nr. 45](https://lovdata.no/lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](https://lovdata.no/forskrift/2017-03-31-414)).*
+
+## § 10.
+
+Er der før ledningen ble registrert, rettsgyldig pådratt ledningen heftelser, som etter denne lov krever registrering, beholder de sin fortrinsrett såfremt de blir registrert innen 2 år etter at den i [§ 5](lov-1927-07-01-1-kraftledningsregisterloven.md) omhandlede meddelelse har vært innrykket i Norsk lysingsblad.
+
+*Endret ved [lov 20 juni 2003 nr. 45](https://lovdata.no/lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](https://lovdata.no/forskrift/2003-06-20-712)).*
+
+## § 11.
+
+Om heftelsers utslettelse av registret gjelder de samme regler som for avlysning og utslettelse av tinglyste heftelser i fast eiendom.
+
+## § 12.
+
+En kraftledning som kan være gjenstand for registrering efter denne lov, og som er en sammenhengende utvidelse av en registrert ledning og tilhører samme eier, kan efter begjæring av eieren overføres til samme folium i kraftledningsregistret som hovedledningen. Er nogen av ledningene beheftet, kan dog sådan sammenføining i registret bare skje på følgende betingelser:
+
+a. Enhver rettighet må omfatte hele den registrerte ledning efter sammenføiningen.
+b. Enhver rettighetshaver må ha samtykket i sammenføiningen og gitt erklæring om rettighetens prioritet i forhold til de andre rettigheter.
+c. Det må efter rettighetshavernes erklæringer være klart, hvilken prioritet de forskjellige rettigheter har innbyrdes efter sammenføiningen.
+
+Gjelder utvidelsen en ledning som ikke tidligere er registrert, får [§§ 3](lov-1927-07-01-1-kraftledningsregisterloven.md), [5](lov-1927-07-01-1-kraftledningsregisterloven.md) og [6](lov-1927-07-01-1-kraftledningsregisterloven.md) tilsvarende anvendelse.
+
+## § 13.
+
+Overdragelse av en del av registrert kraftledning kan bare registreres såfremt der er meddelt særskilt konsesjon for den solgte del og eieren begjærer oprettet eget folium for den. For sådan begjæring får bestemmelsene i [§ 3](lov-1927-07-01-1-kraftledningsregisterloven.md) tilsvarende anvendelse.
+
+På foliet for den fraskilte del anmerkes de heftelser, som vedkommer denne.
+
+Om registreringen sendes melding til vedkommende departement.
+
+Foranstående bestemmelser kommer ikke til anvendelse, når et ledningsanlegg som i medhold av [§ 2](lov-1927-07-01-1-kraftledningsregisterloven.md), annet ledd, har vært å anse som en del av en registrert kraftledning, skifter eier på en sådan måte at den ophører å være del av den registrerte ledning. Sådant eierskifte er uten virkning for dem som før overdragelsen blev registrert, hadde panterett eller annen rettighet i ledningen.
+
+## § 14.
+
+– – –
+
+Av dokumenter vedkommende overdragelse av registrert kraftledning svares ikke stempelavgift.
+
+*Endret ved lov 4 feb 1938. **Oppheves** ved lov [19 juni 2026 nr. 41](lov-2026-06-19-41-saeravgiftsloven.md) (i kraft 1 jan 2027 iflg. [res. 30 okt 2026 nr. 2205](https://lovdata.no/forskrift/2026-10-30-2205)).*
+
+## § 15.
+
+Pant i registrert kraftledning kan bare stiftes når panteretten gjelder hele det ledningsanlegg som omfattes av registreringen, jfr. [§ 2](lov-1927-07-01-1-kraftledningsregisterloven.md).
+
+I sterkstrømsledninger som er nevnt i [§ 1](lov-1927-07-01-1-kraftledningsregisterloven.md) kan efter denne lovs ikrafttreden viljesbestemt pant ikke stiftes, medmindre ledningen er registrert.
+
+Materialer som er eller blir anskaffet til bygging av kraftledning, kan pantsettes som tilbehør til ledning som er endelig eller foreløpig registrert etter denne lov med virkning fra den tid materialene er ført fram til byggeplassen. Dersom materialene avhendes og fjernes fra byggeplassen, faller panteretten i dem bort hvis erververen var i god tro.
+
+*Endret ved lov 24 juni 1949 nr. 2.*
+
+## § 16.
+
+Kongen kan gi nærmere regler til gjennemførelse av denne lov.
+
+For registrering eller anmerkning i kraftledningsregisteret skal det betales et gebyr. Kongen gir forskrift om størrelsen på gebyret og om gjennomføringen av innbetalingen. Kongen kan fastsette fritak fra plikten til å betale gebyr.
+
+Gebyret skal betales av den som har begjært forretningen. Den som har begjært en bestemt forretning, må også betale for andre gebyrpliktige forretninger som nødvendig følger med den forretningen som er begjært.
+
+Er en forretning begjært av en person eller en myndighet på vegne av en annen, blir begge ansvarlige for gebyret. Har staten begjært en forretning på vegne av noen, kan staten kreve refusjon av denne med mindre noe annet følger av lov.
+
+Krav på betaling fra andre enn stat, fylkeskommune og kommune er tvangsgrunnlag for utlegg. Krav som nevnt i første punktum innkreves av Innkrevingsmyndigheten med mindre departementet bestemmer annet.
+
+Gebyravgjørelser som gjelder registrering og anmerkning, kan ankes etter de regler som gjelder for overprøving av registreringsavgjørelser under forretningen. Anke har ikke oppsettende virkning. Underinstansen skal tilrettelegge saken for overinstansen og gi slik redegjørelse for saken som er nødvendig for overinstansen. Om dekning av sakskostnader av det offentlige gjelder [forvaltningsloven § 36](lov-1967-02-10-forvaltningsloven.md) første ledd og tredje ledd første og annet punktum tilsvarende.
+
+*Endret ved [lover 13 des 2013 nr. 131](https://lovdata.no/lov/2013-12-13-131) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1474](https://lovdata.no/forskrift/2013-12-13-1474)), [25 april 2025 nr. 12](lov-2025-04-25-12-innkrevingsloven.md) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](https://lovdata.no/forskrift/2025-06-10-967)).*
+
+## § 17.
+
+Denne lov trer i kraft fra den tid Kongen bestemmer.[2]
+
+## Fotnoter
+
+**1.** Inkurie: Skal vel være lov nr. 2.
+
+**2.** Fra 1 juni 1928 iflg. res. 13 apr 1928 del VI.

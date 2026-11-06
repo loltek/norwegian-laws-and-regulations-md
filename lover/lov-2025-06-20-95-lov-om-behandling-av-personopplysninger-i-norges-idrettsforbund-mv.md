@@ -1,0 +1,89 @@
+# Lov om behandling av personopplysninger i Norges idrettsforbund og olympiske og paralympiske komité og dets organisasjonsledd for å forebygge, avdekke og reagere mot seksuelle overgrep, trakassering og vold mv. i idretten
+
+- **Korttittel:** Lov om behandling av personopplysninger i Norges idrettsforbund mv
+- **Datokode:** LOV-2025-06-20-95
+- **DokumentID:** NL/lov/2025-06-20-95
+- **Departement:** Kultur- og likestillingsdepartementet
+- **Kunngjort:** 2025-06-20 12:45
+- **I kraft fra:** 2025-07-01
+- **Rettsområde:** Familie-, person- og barnerett > Personrett. Personvern; IKT- og medierett > Personopplysninger; Kultur, idrett og underholdning > Idrett. Sport
+- **Merknad:** Prop. 49 L (2024–2025), Innst. 375 L (2024–2025), Lovvedtak 78 (2024–2025). Stortingets første og andre gangs behandling hhv. 2. og 6. juni 2025. Fremmet av Kultur- og likestillingsdepartementet.
+- **Kilde:** <https://lovdata.no/lov/2025-06-20-95>
+
+## § 1. Lovens formål
+
+Formålet med loven er å sikre en forsvarlig behandling av særlige kategorier av personopplysninger og personopplysninger om straffedommer og lovovertredelser når det er nødvendig å behandle slike opplysninger for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten.
+
+## § 2. Virkeområde
+
+Loven gjelder for Norges idrettsforbund og olympiske og paralympiske komité og dets organisasjonsledd. Med organisasjonsledd menes idrettskretser, særforbund, særkretser og regioner, idrettsråd og idrettslag.
+
+Loven gjelder også på Svalbard.
+
+## § 3. Definisjoner
+
+Med seksuelle overgrep mv. menes handlinger som omfattes av [straffeloven §§ 291](lov-2005-05-20-28-straffeloven.md) til [318](lov-2005-05-20-28-straffeloven.md).
+
+Med trakassering mv. menes handlinger som omfattes av [likestillings- og diskrimineringsloven § 13 første](lov-2017-06-16-51-likestillings-og-diskrimineringsloven.md) til [femte ledd](lov-2017-06-16-51-likestillings-og-diskrimineringsloven.md), herunder seksuell trakassering, og [straffeloven §§ 185](lov-2005-05-20-28-straffeloven.md), [267](lov-2005-05-20-28-straffeloven.md), [267 a](lov-2005-05-20-28-straffeloven.md) og [267 b](lov-2005-05-20-28-straffeloven.md).
+
+Med vold mv. menes handlinger som omfattes av [straffeloven §§ 251](lov-2005-05-20-28-straffeloven.md), [252](lov-2005-05-20-28-straffeloven.md), [263](lov-2005-05-20-28-straffeloven.md), [264](lov-2005-05-20-28-straffeloven.md), [266](lov-2005-05-20-28-straffeloven.md), [266 a](lov-2005-05-20-28-straffeloven.md), [271](lov-2005-05-20-28-straffeloven.md), [272](lov-2005-05-20-28-straffeloven.md), [273](lov-2005-05-20-28-straffeloven.md), [274](lov-2005-05-20-28-straffeloven.md), [275](lov-2005-05-20-28-straffeloven.md), [280](lov-2005-05-20-28-straffeloven.md), [281](lov-2005-05-20-28-straffeloven.md), [282](lov-2005-05-20-28-straffeloven.md) og [283](lov-2005-05-20-28-straffeloven.md), og som bryter reglene for godkjente handlinger i en idrett.
+
+## § 4. Behandling av særlige kategorier av personopplysninger
+
+Når det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten, kan det behandles følgende personopplysninger som nevnt i [personvernforordningen artikkel 9 nr. 1](lov-2018-06-15-38-personopplysningsloven.md):
+
+a. opplysninger om rasemessig eller etnisk opprinnelse
+b. opplysninger om politisk oppfatning
+c. opplysninger om filosofisk overbevisning
+d. opplysninger om religion
+e. opplysninger om en persons seksuelle orientering
+f. opplysninger om en persons seksuelle forhold
+g. helseopplysninger
+
+## § 5. Behandling av personopplysninger om straffedommer og lovovertredelser
+
+Når det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten, kan det behandles personopplysninger om straffedommer og lovovertredelser som nevnt i [personvernforordningen artikkel 10](lov-2018-06-15-38-personopplysningsloven.md), blant annet:
+
+a. opplysninger i barneomsorgsattest, jf. [politiregisterloven § 39](lov-2010-05-28-16-politiregisterloven.md)
+b. opplysninger som er utlevert fra politiet med hjemmel i [politiregisterloven §§ 27](lov-2010-05-28-16-politiregisterloven.md) og [31](lov-2010-05-28-16-politiregisterloven.md)
+c. opplysninger som gir grunn til å tro at det er behov for å be om fornyet vandelskontroll, jf. [politiregisterloven § 43](lov-2010-05-28-16-politiregisterloven.md)
+d. opplysninger om dommer om rettighetstap, jf. [straffeloven § 56](lov-2005-05-20-28-straffeloven.md)
+e. opplysninger som gjelder lovbrudd som har forekommet i forbindelse med trening, konkurranse eller annet arrangement organisert av eller i samarbeid med et organisasjonsledd, eller lovbrudd som er utført i en relasjon som innebærer et tillits- eller ansvarsforhold overfor andre i idretten
+
+## § 6. Hvem det kan behandles personopplysninger om
+
+Det kan behandles personopplysninger som nevnt i [§§ 4](lov-2025-06-20-95-lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) og [5](lov-2025-06-20-95-lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) om følgende personer:
+
+a. utøvere
+b. trenere
+c. dommere og funksjonærer som deltar i en idrettskonkurranse
+d. personer som innehar andre verv eller oppgaver i idretten
+e. tilskuere
+
+Et organisasjonsledd kan bare behandle personopplysninger om personer nevnt i første ledd som har eller skal ha en tilknytning til organisasjonsleddet, eller som har eller skal ha en tilknytning til et underliggende organisasjonsledd.
+
+Når det er nødvendig for å følge opp en handling som omfattes av denne loven, kan det også behandles personopplysninger om personer nevnt i første ledd som hadde en tilknytning som nevnt i annet ledd da handlingen skjedde.
+
+## § 7. Deling av personopplysninger
+
+Personopplysninger som nevnt i [§ 4](lov-2025-06-20-95-lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) og [§ 5 bokstav b](lov-2025-06-20-95-lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) til e kan deles med Norges idrettsforbund og olympiske og paralympiske komité og med overordnet eller underliggende organisasjonsledd dersom og i den utstrekning det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten. Ved deling av personopplysninger skal man så langt som mulig skjerme identiteten til dem som er utsatt for handlingene.
+
+For å kunne dele personopplysninger som nevnt i [§ 4](lov-2025-06-20-95-lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) og [§ 5 bokstav b](lov-2025-06-20-95-lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) til e med andre organisasjonsledd enn dem som er nevnt i første ledd, må den som deler, i tillegg til kravene i første ledd, ha grunn til å tro at en person skal ha en tilknytning til det organisasjonsleddet opplysningene deles med. Ved deling av personopplysninger skal man skjerme identiteten til dem som er utsatt for handlingene.
+
+## § 8. Tilgangsstyring og taushetsplikt
+
+Den behandlingsansvarlige skal sørge for tilgangsstyring, slik at personer tilknyttet organisasjonsleddet bare har tilgang til personopplysninger som nevnt i [§§ 4](lov-2025-06-20-95-lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) og [5](lov-2025-06-20-95-lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) dersom og i den utstrekning det er nødvendig for å oppfylle formålene nevnt i disse bestemmelsene.
+
+Personer som har tilgang til personopplysninger etter denne loven, er underlagt taushetsplikt med hensyn til de nevnte opplysningene. Taushetsplikten er ikke til hinder for at opplysningene kan behandles i samsvar med bestemmelsene i denne loven, utleveres til politiet, gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning de som har krav på taushet, samtykker.
+
+## § 9. Forskrifter
+
+Departementet kan gi forskrift om behandling av personopplysninger etter denne loven, blant annet nærmere regler om behandlingsansvarlig, hvilke personopplysninger som kan behandles, lagringstid og sletting av personopplysninger.
+
+## § 10. Ikrafttredelse
+
+Loven trer i kraft fra den tiden[1] Kongen bestemmer.
+
+## Fotnoter
+
+**1.** Fra 1. juli 2025 iflg. [res. 20 juni 2025 nr. 1112](https://lovdata.no/forskrift/2025-06-20-1112).

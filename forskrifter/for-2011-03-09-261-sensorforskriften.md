@@ -1,0 +1,258 @@
+# Forskrift om krav til førerprøvesensorer m.m. (sensorforskriften)
+
+- **Korttittel:** Sensorforskriften
+- **Datokode:** FOR-2011-03-09-261
+- **DokumentID:** SF/forskrift/2011-03-09-261
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Vegdirektoratet
+- **Hjemmel:** lov 18.06.1965 nr. 4/§24; forskrift 29.09.2003 nr. 1196
+- **Publisert i:** I 2011 hefte 3
+- **Kunngjort:** 2011-03-11 15:30
+- **I kraft fra:** 2013-01-19
+- **Siste endring i kraft:** 2022-12-07
+- **Sist endret ved:** forskrift 07.12.2022 nr. 2219
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2013-01-24 (§ 3)
+- **Merknad:** Hjemmel: Fastsatt av Vegdirektoratet 9. mars 2011 med hjemmel i vegtrafikklov 18. juni 1965 nr. 4 § 24, jf. delegeringsvedtak 29. september 2003 nr. 1196. EØS-henvisning: EØS-avtalen vedlegg XIII nr. 24a (direktiv 2006/126/EF). Endret ved forskrifter 14 des 2012 nr. 1244, 13 feb 2014 nr. 131, 19 des 2019 nr. 2054 (i kraft 1 jan 2020), 7 des 2022 nr. 2219.
+- **Kilde:** <https://lovdata.no/forskrift/2011-03-09-261>
+
+## § 1. Virkeområde
+
+Denne forskriften omhandler krav til personer som skal virke som førerprøvesensor ved praktiske førerprøver, utrykningsprøver og tilrettelagte teoretiske førerprøver. I tillegg omfatter den krav til personer som skal forestå kjørevurderinger og konstruere kjøreruter for den praktiske prøven.
+
+## § 2. Definisjoner
+
+I denne forskriften forstås med:
+
+a. *Førerprøvesensor:* person som organiserer og gjennomfører teoretisk og/eller praktisk prøve der det inngår å vurdere teoretiske og praktiske prestasjoner som blir fremvist.
+b. *Praktisk førerprøve:* prøve der kandidaten viser trafikal kompetanse ved å kjøre et kjøretøy, i hovedsak i samspill med andre i reell trafikk.
+c. *Tilrettelagt teoretisk førerprøve:* teoretisk prøve for de kandidatene som ikke behersker skriftlig norsk i tilstrekkelig grad til å kunne besvare spørsmålene, har lese- og skrivevansker eller tilsvarende. Om nødvendig kan prøven gjennomføres med tolk.
+d. *Kjørevurdering:* vurdering av kjøreferdigheter for personer med funksjonsnedsettelse og personer som har eller kan ha helsesvekkelse. Omfatter også førerprøver etter pålegg fra politiet, jf. [lov 18. juni 1965 nr. 4](../lover/lov-1965-06-18-4-vegtrafikkloven.md) om vegtrafikk [§ 34](../lover/lov-1965-06-18-4-vegtrafikkloven.md).
+e. *Tunge kjøretøy:* kjøretøy som krever førerett i klasse C1, C1E, D1, D1E, C, CE, D eller DE etter [forskrift 19. januar 2004 nr. 298](for-2004-01-19-298-forerkortforskriften.md) om førerkort m.m.
+f. *Observasjon:* godkjent person er til stede og registrerer, vurderer og gir tilbakemelding på utført arbeid.
+
+Med mindre annet fremgår av denne forskriften, gjelder definisjonene og bestemmelsene i [forskrift 1. oktober 2004 nr. 1339](for-2004-10-01-1339-trafikkopplaeringsforskriften.md) om trafikkopplæring og førerprøve m.m.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 3. Generelle krav
+
+Før en førerprøvesensor kan gjennomføre førerprøver må vedkommende godkjennes.
+
+For å ha godkjenning som førerprøvesensor må vedkommende
+
+a. være ansatt i Statens vegvesen,
+b. ha førerett i klasse B og ha hatt slik førerett sammenhengende de siste 5 år,
+c. ha fylt 25 år,
+d. ha gjennomført utdanning på minimum videregående skoles nivå,
+e. oppfylle krav til grunnutdanning i [§ 4](for-2011-03-09-261-sensorforskriften.md), tilleggsutdanning for vedkommende klasse i [§ 6](for-2011-03-09-261-sensorforskriften.md) til [§ 9](for-2011-03-09-261-sensorforskriften.md) og etterutdanning i [§ 14](for-2011-03-09-261-sensorforskriften.md),
+f. ikke samtidig være helt eller delvis aktiv i, eller ha permisjon fra, stilling som innebærer arbeid i tilknytning til førerkortrettet opplæring, være kursarrangør eller ha eierskap til trafikkskole,
+g. oppfylle de helsekrav som er fastsatt for å kunne få førerett i klasse D, jf. [forskrift 19. januar 2004 nr. 298](for-2004-01-19-298-forerkortforskriften.md) om førerkort m.m. vedlegg 1.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 4. Krav til grunnutdanning
+
+Gjennom grunnutdanningen må førerprøvesensoren ha tilegnet seg den kompetansen som er nødvendig for å gjennomføre førerprøver i tråd med gjeldene retningslinjer, herunder personlig kjøreferdighet, kunnskap om trafikk, kundebehandling, fysikk, kjøretøyteknikk, økonomisk og miljøvennlig kjøring og kompetanse i vurdering av praktiske ferdigheter.
+
+Grunnutdanningen avsluttes med prøve.
+
+Statens vegvesen fastsetter nærmere om innhold, omfang og gjennomføring i grunnutdanningen.
+
+Personer som skal forestå grunnutdanning, skal være godkjent av Statens vegvesen.
+
+*Endret ved [forskrifter 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013), [7 des 2022 nr. 2219](https://lovdata.no/forskrift/2022-12-07-2219).*
+
+## § 5. Utvidelse av kompetanse
+
+En person som er godkjent førerprøvesensor kan bli godkjent i en eller flere tilleggsklasser etter å ha gjennomført tilleggsutdanning og bestått prøve for den spesifikke klassen, jf. særlige krav til førerprøvesensorer i [§ 6](for-2011-03-09-261-sensorforskriften.md) til [§ 9](for-2011-03-09-261-sensorforskriften.md). Tilsvarende gjelder for godkjenning etter [§ 10](for-2011-03-09-261-sensorforskriften.md) til [§ 13](for-2011-03-09-261-sensorforskriften.md).
+
+Statens vegvesen fastsetter nærmere om innhold, omfang og gjennomføring i tilleggsutdanning og ferdighetsprøver.
+
+Personer som skal forestå tilleggsutdanning eller ferdighetsprøver, skal være godkjent av Statens vegvesen.
+
+*Endret ved [forskrifter 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013), [7 des 2022 nr. 2219](https://lovdata.no/forskrift/2022-12-07-2219).*
+
+## § 6. Særlige krav til førerprøvesensorer i klassene A1, A2 og A
+
+For å bli godkjent førerprøvesensor i klasse A1, A2 og A må vedkommende, i tillegg til kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md) og [§ 4](for-2011-03-09-261-sensorforskriften.md), ha gjennomført tilleggsutdanning for førerprøvesensorer i klasse A.
+
+Vedkommende må ha vært førerprøvesensor i klasse B i minst 3 år, hatt førerett i klasse A i minst 3 år og gjennomført minst 250 ordinære praktiske førerprøver i andre klasser.
+
+Kravet om 3 års godkjenning som sensor kan fravikes hvis personen dokumenterer 5 års førerett klasse A eller består en ferdighetsprøve.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 7. Særlige krav til førerprøvesensorer i klasse BE
+
+For å bli godkjent førerprøvesensor i klasse BE må vedkommende, i tillegg til kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md) og [§ 4](for-2011-03-09-261-sensorforskriften.md), ha gjennomført tilleggsutdanning for førerprøvesensorer i klasse BE.
+
+Vedkommende må ha vært førerprøvesensor i klasse B i minst 3 år, hatt førerett i klasse BE i minst 3 år og gjennomført minst 250 ordinære praktiske førerprøver i andre klasser.
+
+Kravet om 3 års godkjenning som sensor kan fravikes hvis personen dokumenterer 5 års førerett klasse BE eller består en ferdighetsprøve.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 8. Særlige krav til førerprøvesensorer i klasse T
+
+For å bli godkjent førerprøvesensor i klasse T må vedkommende, i tillegg til kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md) og [§ 4](for-2011-03-09-261-sensorforskriften.md), ha gjennomført tilleggsutdanning for førerprøvesensorer i klasse T.
+
+Vedkommende må ha vært førerprøvesensor i klasse B i minst 3 år, hatt førerett i klasse T i minst 3 år og gjennomført minst 250 ordinære praktiske førerprøver i andre klasser.
+
+Kravet om 3 års godkjenning som sensor kan fravikes hvis personen dokumenterer 5 års førerett klasse T eller består en ferdighetsprøve.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 9. Særlige krav til førerprøvesensorer i tunge klasser
+
+For å bli godkjent førerprøvesensor i tunge klasser må vedkommende, i tillegg til kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md) og [§ 4](for-2011-03-09-261-sensorforskriften.md), ha gjennomført tilleggsutdanning for førerprøvesensorer i tunge klasser.
+
+Vedkommende må ha vært førerprøvesensor i klasse B i minst 3 år, hatt førerett i klasse CE i minst 3 år og gjennomført minst 250 ordinære praktiske førerprøver i andre klasser.
+
+Kravet om 3 års godkjenning som sensor kan fravikes hvis personen dokumenterer 5 års førerett i klasse CE eller består en ferdighetsprøve.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 10. Særlige krav til utrykningssensorer (kode 160)
+
+For å bli godkjent sensor for utrykningskjøring kode 160 må vedkommende, i tillegg til kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md) og [§ 4](for-2011-03-09-261-sensorforskriften.md), ha gjennomført tilleggsutdanning for utrykningssensorer.
+
+Vedkommende må ha vært førerprøvesensor i klasse B i minst 3 år og gjennomført minst 500 ordinære praktiske førerprøver i andre klasser. I tillegg må vedkommende ha hatt førerett i minst 3 år i minimum en av følgende klasser: A, C eller D.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 11. Særlige krav til personer som skal gjennomføre kjørevurdering
+
+For å bli godkjent til å gjennomføre kjørevurderinger må vedkommende, i tillegg til kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md) og [§ 4](for-2011-03-09-261-sensorforskriften.md), ha gjennomført tilleggsutdanning for sensorer som skal gjennomføre kjørevurdering.
+
+Vedkommende må ha vært førerprøvesensor i klasse B i minst 3 år, hatt førerett i aktuell klasse i minst 3 år og gjennomført minst 500 ordinære praktiske førerprøver.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 12. Særlige krav til personer som skal gjennomføre tilrettelagte teoretiske prøver
+
+For å bli godkjent til å gjennomføre tilrettelagte teoretiske prøver må vedkommende, i tillegg til kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md) og [§ 4](for-2011-03-09-261-sensorforskriften.md), ha vært førerprøvesensor i klasse B i minst 1 år og ha gjennomført tilleggsutdanning for tilrettelagte teoretiske prøver.
+
+Vedkommende skal ha eller ha hatt godkjenning som førerprøvesensor i den klassen prøven avlegges i. For teoretisk prøve i klasse AM og S kreves førerett i henholdsvis klasse AM og S, eller at vedkommende har eller har hatt godkjenning som førerprøvesensor i klasse A.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 13. Særlige krav til personer som skal konstruere førerprøveruter
+
+For å bli godkjent til å konstruere førerprøveruter må vedkommende, i tillegg til kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md) og [§ 4](for-2011-03-09-261-sensorforskriften.md), ha vært førerprøvesensor i vedkommende klasse i minst 3 år og ha gjennomført tilleggsutdanning for konstruksjon av førerprøveruter.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 14. Krav til etterutdanning
+
+Etterutdanningen skal omhandle vedlikehold av praktiske kjøreferdigheter og ferdigheter i å avholde prøver. I tillegg skal utdanningen sikre likebehandling for publikum og utvikle ny kompetanse på området.
+
+For å ha uavbrutt godkjenning, må sensor gjennomføre etterutdanningen i løpet av siste kalenderår før godkjenningen går ut.
+
+Etterutdanningen for klasse B skal ha et omfang på minst 8 dager.
+
+Førerprøvesensorer som har godkjenning i klasse A og tunge klasser må i tillegg gjennomføre 2 dager med etterutdanning for hver klasse eller gruppe av klasser.
+
+Førerprøvesensorer som har godkjenning i klasse BE og T må i tillegg gjennomføre 1 dag med etterutdanning for hver klasse.
+
+Førerprøvesensor som har gjennomført etterutdanning for tunge klasser er fritatt fra kravet om etterutdanning i klasse BE og T.
+
+Førerprøvesensor som har gjennomført etterutdanning for klasse T er fritatt fra kravet om etterutdanning for klasse BE.
+
+Utrykningssensor må i tillegg gjennomføre 2 dager med etterutdanning for kode 160.
+
+Sensor for kjørevurdering må i tillegg gjennomføre 2 dager med etterutdanning i dette tema.
+
+Statens vegvesen fastsetter innhold i etterutdanningen.
+
+Personer som skal forestå etterutdanning, skal være godkjent av Statens vegvesen.
+
+*Endret ved [forskrifter 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013), [7 des 2022 nr. 2219](https://lovdata.no/forskrift/2022-12-07-2219).*
+
+## § 15. Kvalitetssikring
+
+Kvalitetssikringsordningene omfatter kontroll av førerprøvesensorene i forbindelse med utførelse av deres arbeid, etterutdanning, fornyet godkjenning, løpende faglig utvikling og regelmessig kontroll av førerprøveresultatene.
+
+Det skal minst én gang i året gjennomføres kontroll av at kvalitetssikringsordningene i første ledd er oppfylt for førerprøvevirksomheten på førerprøvestedet.
+
+Hver førerprøvesensor skal minst hvert andre år observeres mens vedkommende gjennomfører førerprøver. Observasjonen skal strekke seg over minst en dag og omfatte minst to førerprøver.
+
+Personer som skal observere førerprøver, skal være godkjent av Statens vegvesen.
+
+Dersom det gjennom kvalitetssikringen blir oppdaget at en førerprøvesensor har alvorlige mangler ved vurdering av førerprøver, skal dette umiddelbart meldes til Statens vegvesen. Statens vegvesen vurderer hvilken tilpasset opplæring vedkommende må gjennomgå for å opprettholde godkjenningen og om vedkommende fortsatt kan vurdere førerprøver før slik opplæring er gjennomført.
+
+*Endret ved forskrift [7 des 2022 nr. 2219](https://lovdata.no/forskrift/2022-12-07-2219).*
+
+## § 16. Godkjenning
+
+Etter fullført grunnutdanning og bestått prøve gis godkjenning som førerprøvesensor klasse B. Godkjenningen gjelder fra godkjenningstidspunktet og to år fra starten av påfølgende kalenderår.
+
+Tilsvarende varighet gjelder ved utvidelse etter [§ 6](for-2011-03-09-261-sensorforskriften.md) til [§ 11](for-2011-03-09-261-sensorforskriften.md), men godkjenningen utløper samtidig som godkjenning klasse B.
+
+Godkjenningen gjøres av Statens vegvesen og registreres i Statens vegvesens register over førerprøvesensorer.
+
+*Endret ved [forskrifter 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*
+
+## § 17. Opprettholdelse av godkjenning
+
+For å opprettholde godkjenningen må førerprøvesensoren tilfredsstille kravene til etterutdanning og kvalitetssikring som følger av [§ 14](for-2011-03-09-261-sensorforskriften.md) og [§ 15](for-2011-03-09-261-sensorforskriften.md) og ha gjennomført minst 150 førerprøver i løpet av de to siste kalenderår før ny godkjenning gis. Av dette må minimum 20 prøver avvikles i hver av de tilleggsklassene man er godkjent for, jf. [§ 6](for-2011-03-09-261-sensorforskriften.md) til [§ 9](for-2011-03-09-261-sensorforskriften.md). Tilsvarende gjelder for å opprettholde godkjenning for utrykningssensorer (kode 160), jf. [§ 10](for-2011-03-09-261-sensorforskriften.md).
+
+For å opprettholde godkjenningen må førerprøvesensoren i tillegg til kravene i første ledd, tilfredsstille kravene i [§ 3](for-2011-03-09-261-sensorforskriften.md).
+
+Når vilkårene i første og andre ledd er oppfylt gis fornyet godkjenning med to år fra starten av påfølgende kalenderår.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 18. Manglende oppfyllelse av godkjenningskrav
+
+Førerprøvesensorer som av ulike årsaker ikke lenger har godkjenning, kan få ny godkjenning ved å gjennomgå etterutdanning. Krav til antall prøver etter [§ 17](for-2011-03-09-261-sensorforskriften.md) må likevel være oppfylt.
+
+Førerprøvesensorer som ikke lenger har godkjenning fordi de ikke oppfyller krav om antall prøver de siste to år, kan gis tidsbegrenset godkjenning for å oppfylle kravet.
+
+Førerprøvesensorer som ikke har gjennomført førerprøver for en klasse i løpet av en toårsperiode, kan gis tidsbegrenset godkjenning for denne klassen for å oppfylle krav om antall prøver etter gjennomført etterutdanning. Tilsvarende gjelder for utrykningssensorer (kode 160).
+
+Statens vegvesen gir slik tidsbegrenset godkjenning.
+
+*Tilføyd ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013), endret ved forskrift [7 des 2022 nr. 2219](https://lovdata.no/forskrift/2022-12-07-2219).*
+
+## § 19. Karantenetid
+
+Førerprøvesensorer som tidligere har vært ansatt i stilling som innebærer arbeid i tilknytning til førerkortrettet opplæring, som kursarrangør eller hatt eierskap til trafikkskole, jf. [§ 3](for-2011-03-09-261-sensorforskriften.md), kan ikke gjennomføre førerprøver med elever fra institusjonen hvor vedkommende har vært ansatt før seks måneder etter at ansettelsesforholdet er over.
+
+*Tilføyd ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013).*
+
+## § 20. Unntak
+
+Statens vegvesen kan, ved enkeltvedtak, gjøre unntak fra bestemmelsene i denne forskriften når det foreligger særlig tungtveiende grunner.
+
+Søknad om dispensasjon fra helsekravene i § 3 avgjøres av helsemyndighetene etter bestemmelsene i [forskrift 19. januar 2004 nr. 298 om førerkort m.m](for-2004-01-19-298-forerkortforskriften.md).
+
+*Endret ved [forskrifter 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013, tidligere § 18), [13 feb 2014 nr. 131](https://lovdata.no/forskrift/2014-02-13-131) (i kraft 1 mars 2014), [7 des 2022 nr. 2219](https://lovdata.no/forskrift/2022-12-07-2219).*
+
+## § 21. Fradragsbestemmelse
+
+Personer som kan dokumentere å ha gjennomført utdanning som tilsvarer hele eller deler av grunnutdanningen, jf. [§ 4](for-2011-03-09-261-sensorforskriften.md), eller tilleggsutdanning, jf. [§ 6](for-2011-03-09-261-sensorforskriften.md) til [§ 9](for-2011-03-09-261-sensorforskriften.md) og [§ 11](for-2011-03-09-261-sensorforskriften.md), er fritatt for de delene som tidligere er gjennomført.
+
+Statens vegvesen godkjenner slike fradrag.
+
+*Endret ved [forskrifter 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013, tidligere § 19), [7 des 2022 nr. 2219](https://lovdata.no/forskrift/2022-12-07-2219).*
+
+## § 22. Opptjente rettigheter
+
+Personer som er i yrke som førerprøvesensor ved denne forskriftens ikrafttredelse kan godkjennes uten at kravene til grunnutdanning i [§ 4](for-2011-03-09-261-sensorforskriften.md) er oppfylt. Det forutsettes at sensor har gjennomført Vegdirektoratets sentrale grunnkurs og oppfriskningskurs.
+
+Godkjenningen gjelder også klassene A, BE og T hvis vedkommende har praktisert som førerprøvesensor i klassene etter 1. januar 2011.
+
+Sensor som har praktisert som førerprøvesensor i klassene C, CE eller D etter 1. januar 2011 og fram til forskriftens ikrafttredelse godkjennes som sensor for tunge klasser.
+
+Sensor som har praktisert som utrykningssensor, gjennomført kjørevurdering og tilrettelagte teoriprøver etter 1. januar 2011 får tilsvarende godkjenning.
+
+Generelle krav, jf. [§ 3](for-2011-03-09-261-sensorforskriften.md), krav til etterutdanning, jf. [§ 14](for-2011-03-09-261-sensorforskriften.md), og krav til kvalitetssikring, jf. [§ 15](for-2011-03-09-261-sensorforskriften.md) tredje og femte ledd, må være oppfylt.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013, tidligere § 20).*
+
+## § 23. Ikrafttredelse
+
+Forskriften trer i kraft 19. januar 2013.
+
+*Endret ved [forskrift 14 des 2012 nr. 1244](https://lovdata.no/forskrift/2012-12-14-1244) (i kraft 19 jan 2013, tidligere § 21).*

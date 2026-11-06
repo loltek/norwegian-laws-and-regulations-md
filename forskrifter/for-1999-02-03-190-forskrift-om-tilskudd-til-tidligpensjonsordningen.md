@@ -1,0 +1,199 @@
+# Forskrift om tilskudd til tidligpensjonsordningen
+
+- **Datokode:** FOR-1999-02-03-190
+- **DokumentID:** SF/forskrift/1999-02-03-190
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Landbrukspolitisk avd.
+- **Hjemmel:** lov 12.05.1995 nr. 23/§3; lov 12.05.1995 nr. 23/§18
+- **Publisert i:** I 1999 503
+- **I kraft fra:** 1999-01-01
+- **Siste endring i kraft:** 2024-01-01
+- **Sist endret ved:** forskrift 05.12.2023 nr. 1964 fra 2024-01-01
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-09-15 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) 3. februar 1999 med hjemmel i lov av 12. mai 1995 nr. 23 om jord (jordlova) § 3 og § 18 og med hjemmel i Stortingets vedtak av 18. juni 1998 om jordbruksoppgjøret. Endret ved forskrifter 30 juni 2000 nr. 707, 21 nov 2000 nr. 1185, 1 feb 2001 nr. 99, 25 aug 1999 nr. 1631, 21 nov 2001 nr. 1368, 28 juni 2002 nr. 736, 26 juni 2003 nr. 789, 5 nov 2003 nr. 1561, 8 nov 2005 nr. 1276, 28 juni 2007 nr. 728, 26 juni 2008 nr. 728, 5 feb 2010 nr. 116, 3 nov 2010 nr. 1401, 3 sep 2014 nr. 1144, 17 des 2018 nr. 2119, 21 des 2020 nr. 3044 (i kraft 1 jan 2021), 30 aug 2021 nr. 2629 (i kraft 15 sep 2021, tittel), 16 des 2021 nr. 3741 (i kraft 1 jan 2022), 5 des 2023 nr. 1964 (i kraft 1 jan 2024). Rettelser: 17.12.2002 (§ 11), 15.09.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/1999-02-03-190>
+
+## § 1. Formål
+
+Tidligpensjon etter denne forskriften skal bidra til å lette generasjonsoverganger i jordbruket for de som har hatt hoveddelen av sine inntekter fra jordbruk/gartneri og skogbruk.
+
+## § 2. Virkeområde
+
+Denne forskriften gjelder ved eiendomsoverdragelser som er kontraktfestet 31. desember 1998 eller senere, og ved forpaktningsavtaler[1] som er sagt opp denne dato eller senere.
+
+Statsforvalteren kan etter en særskilt vurdering innvilge søknader om tidligpensjon ved eiendomsoverdragelser som er kontraktfestet 1. mai 1998 eller senere, og ved forpaktningsavtaler som er sagt opp denne dato eller senere.
+
+*Endret ved [forskrifter 25 aug 1999 nr. 1631](https://lovdata.no/forskrift/1999-08-25-1631), [28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021).*
+
+## § 3. Definisjoner
+
+I denne forskrift menes med;
+
+1. *bruker;* enhver som eier landbrukseiendom eller deltar i driften av slik eiendom med egen innsats eller ved utleie
+2. *samboere;* parter som har levd uavbrutt sammen i et ekteskapslignende forhold de siste 5 årene før overdragelsestidspunktet
+3. *referanseperiode;* fem sammenhengende år der siste år er 2 år tilbake i tid i forhold til søknadsåret
+4. *referanseinntekt;* summen av inntektene nevnt i bokstavene a-d i referanseperioden dividert på 5;
+   a. næringsinntekt fra jordbruk/gartneri
+   b. næringsinntekt fra skogbruk
+   c. utbetalte sykepenger som er opptjent av virksomhet som nevnt i bokstavene a og b
+   d. lønn som er betalt fra bruker til samboer for dennes arbeid på landbrukseiendommen.
+5. *annen inntekt;* summen av inntektene nevnt i bokstavene a–e i referanseperioden dividert på 5;
+   a. lønnsinntekt, bortsett fra lønnsinntekt fra Inn på Tunet-virksomhet som statsforvalteren har gitt unntak for etter [§ 8](for-1999-02-03-190-forskrift-om-tilskudd-til-tidligpensjonsordningen.md) andre ledd eller [§ 9](for-1999-02-03-190-forskrift-om-tilskudd-til-tidligpensjonsordningen.md) andre ledd nr. 2
+   b. næringsinntekt fra fiske og fangst og annen næring som ikke omfattes av [§ 7](for-1999-02-03-190-forskrift-om-tilskudd-til-tidligpensjonsordningen.md) andre ledd bokstav a
+   c. utbetalte sykepenger opptjent gjennom inntekt som nevnt i bokstavene a og b
+   d. utbetalte dagpenger
+   e. utbetalt uføretrygd og arbeidsavklaringspenger med mindre statsforvalteren har gitt unntak
+   f. på grunnlag av bestemmelsene i [§ 9](for-1999-02-03-190-forskrift-om-tilskudd-til-tidligpensjonsordningen.md) andre ledd nr. 1.
+6. *samlet inntekt;* summen av referanseinntekt og annen inntekt
+7. *enbrukerpensjon;* tidligpensjon som ytes bruker
+8. *tobrukerpensjon;* tidligpensjon som ytes bruker og dennes ektefelle/samboer.
+
+*Endret ved [forskrifter 25 aug 1999 nr. 1631](https://lovdata.no/forskrift/1999-08-25-1631), [28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), [26 juni 2003 nr. 789](https://lovdata.no/forskrift/2003-06-26-789) (i kraft 1 juli 2003), [5 nov 2003 nr. 1561](https://lovdata.no/forskrift/2003-11-05-1561) (i kraft 1 jan 2004), [26 juni 2008 nr. 728](https://lovdata.no/forskrift/2008-06-26-728) (i kraft 1 juli 2008), [5 feb 2010 nr. 116](https://lovdata.no/forskrift/2010-02-05-116) (i kraft 1 mars 2010), [17 des 2018 nr. 2119](https://lovdata.no/forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [16 des 2021 nr. 3741](https://lovdata.no/forskrift/2021-12-16-3741) (i kraft 1 jan 2022).*
+
+## § 4. Overdragelse
+
+For å være berettiget tidligpensjon kan bruker og/eller dennes ektefelle/samboer ikke lenger eie eller forpakte landbrukseiendom. De kan heller ikke drive eller ha næringsinntekt fra jordbruk/gartneri eller skogbruk. Den som mottar tidligpensjon kan heller ikke være innehaver av, deltaker i, aksjonær i eller for øvrig ha næringsinteresser i foretak som driver slik virksomhet.
+
+Ved avhending må hjemmelen til eiendommen være tinglyst på ny eier. Dersom salget er konsesjonspliktig i henhold til [lov 28. november 2003 nr. 98](../lover/lov-2003-11-28-98-konsesjonsloven.md) om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv., og kjøper etter kjøpekontrakt har tatt risiko for konsesjon, er det tilstrekkelig at kopi av tinglyst kjøpekontrakt foreligger på søketidspunktet. Ved forpaktning[2] skal forpaktningsavtalen være skriftlig oppsagt.
+
+Statsforvalteren kan i særlige tilfeller gjøre unntak fra første ledd når:
+
+a. bruker og dennes ektefelle/samboer eier hver sin landbrukseiendom og disse drives som selvstendige enheter. Det kan ytes tidligpensjon til den som overdrar landbrukseiendom, uten krav om at den andre parten må overdra sin landbrukseiendom. Det kan ytes enbrukerpensjon til både bruker og dennes ektefelle/samboer som følge av hver sin eiendomsoverdragelse.
+b. bruker eller ektefelle/samboer er eier eller medeier av en landbrukseiendom som har karakter av fritidseiendom, som ikke har vært i drift i referanseperioden og som etter statsforvalterens vurdering ikke vil komme i drift. Det kan ytes tidligpensjon selv om slik landbrukseiendom ikke overdras.
+
+*Endret ved [forskrifter 25 aug 1999 nr. 1631](https://lovdata.no/forskrift/1999-08-25-1631), [21 nov 2000 nr. 1185](https://lovdata.no/forskrift/2000-11-21-1185) (i kraft 1 jan 2001), [28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), [5 nov 2003 nr. 1561](https://lovdata.no/forskrift/2003-11-05-1561) (i kraft 1 jan 2004), [3 nov 2010 nr. 1401](https://lovdata.no/forskrift/2010-11-03-1401), [17 des 2018 nr. 2119](https://lovdata.no/forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021).*
+
+## § 5. Varighet i næringen
+
+For å utløse tidligpensjon må bruker på overdragelses- eller oppsigelsestidspunktet enten
+
+a. ha drevet jordbruk/gartneri selv i minst 15 år, eller
+b. ha leiet ut til landbruksdrift i perioden slik at den samlede perioden for egen drift eller utleie utgjør minst 15 år.
+
+For å utløse tobrukerpensjon må i tillegg ektefelle/samboer ved overdragelses- eller oppsigelsestidspunktet ha bodd og arbeidet på landbrukseiendommen de siste 5 år.
+
+I tidligpensjonsperioden kan man ikke tilkjennes overgang fra enbruker- til tobrukerpensjon eller omvendt.
+
+*Endret ved [forskrifter 25 aug 1999 nr. 1631](https://lovdata.no/forskrift/1999-08-25-1631), [28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002).*
+
+## § 6. Aldersgrenser
+
+For å ha krav på enbrukerpensjon må bruker ha fylt 62 år. For å ha krav på tobrukerpensjon må i tillegg ektefelle/samboer ha fylt 57 år.
+
+Retten til tidligpensjon bortfaller for bruker og ektefelle/samboer ved utgangen av den måned bruker fyller 67 år. Dersom ektefelle/samboer er eldre enn brukeren, går ektefelle/samboer ut av ordningen ved utgangen av den måned denne fyller 67 år, mens brukeren fortsetter med sin tobrukerdel fram til fylte 67 år. Dersom bruker går ut av ordningen før fylte 67 år, kan ektefelle/samboer fortsette med sin tobrukerdel inntil utgangen av den måned bruker fyller 67 år.
+
+*Endret ved [forskrift 25 aug 1999 nr. 1631](https://lovdata.no/forskrift/1999-08-25-1631) (i kraft 1 jan 2000).*
+
+## § 7. Referanseinntekten
+
+Brukers og ektefelles/samboers samlede referanseinntekt må minst være 90.000 kroner. Gjennomsnittlig næringsinntekt i referanseperioden fra jordbruk/gartneri må utgjøre minst 25 prosent av samlet referanseinntekt.
+
+Statsforvalteren kan etter en særskilt vurdering;
+
+a. la næringsinntekt fra fiske, fangst og annen næring som drives som tilleggsnæring til jordbruk inngå i referanseinntekten
+b. fravike kravet i første ledd første punktum for søkere som har hatt et lavere inntektsnivå
+c. innrømme tidligpensjon til søkere som ikke oppfyller kravet i første ledd første punktum på grunn av arbeidsavklaring eller hel eller delvis uførhet.
+
+*Endret ved [forskrifter 28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), [17 des 2018 nr. 2119](https://lovdata.no/forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021).*
+
+## § 8. Inntektskrav for å utløse enbrukerpensjon
+
+Brukers referanseinntekt må utgjøre minst 67 prosent av brukers samlede inntekt, eller brukers og ektefelles/samboers samlede referanseinntekt må utgjøre minst 50 prosent av deres samlede inntekt.
+
+*Endret ved forskrifter [16 des 2021 nr. 3741](https://lovdata.no/forskrift/2021-12-16-3741) (i kraft 1 jan 2022), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024).*
+
+## § 9. Tilleggskrav for å utløse tobrukerpensjon
+
+Ektefelle/samboer må ha mindre enn 100 000 kroner i annen inntekt. Brukers og ektefelles/samboers samlede referanseinntekt må utgjøre minst 50 prosent av deres samlede inntekt.
+
+*Endret ved [forskrifter 28 juni 2007 nr. 728](https://lovdata.no/forskrift/2007-06-28-728) (i kraft 1 jan 2008), [16 des 2021 nr. 3741](https://lovdata.no/forskrift/2021-12-16-3741) (i kraft 1 jan 2022), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024).*
+
+## § 10. Unntak fra inntektskrav
+
+Statsforvalteren kan etter særskilt vurdering innrømme tidligpensjon selv om vilkårene i [§ 8](for-1999-02-03-190-forskrift-om-tilskudd-til-tidligpensjonsordningen.md) og [§ 9](for-1999-02-03-190-forskrift-om-tilskudd-til-tidligpensjonsordningen.md) ikke er oppfylt dersom
+
+1. bruker eller ektefelle/samboer har mottatt arbeidsavklaringspenger eller uføretrygd fordi bruker eller ektefelle/samboer har fått nedsatt inntektsevne fra jordbruks- eller skogbruksdriften på eiendom som søkerne har disponert. Bruker eller ektefelle/samboer må i referanseperioden i det vesentligste hatt sine inntekter fra jordbruks- eller skogbruksdriften.
+2. bruker eller ektefelle/samboer har hatt lønnsinntekt fra Inn på Tunet-virksomhet på søkernes landbrukseiendom.
+
+*Tilføyd ved forskrift [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024).*
+
+## § 11. Deling av tobrukerpensjon
+
+Tobrukerpensjon deles likt mellom bruker og ektefelle/samboer. Samme fordeling opprettholdes ved skilsmisse/samlivsbrudd.
+
+Dersom bruker eller ektefelle/samboer som mottar tobrukerpensjon dør i tidligpensjonsperioden, går gjenlevende part over på enbrukerpensjon.
+
+Tidligpensjonen opphører for bruker og ektefelle/samboer ved utgangen av den måned bruker fyller eller ville fylt 67 år.
+
+*Endret ved [forskrifter 25 aug 1999 nr. 1631](https://lovdata.no/forskrift/1999-08-25-1631) (i kraft 1 jan 2000), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 10).*
+
+## § 12. (Opphevet)
+
+*Endret ved [forskrifter 1 feb 2001 nr. 99](https://lovdata.no/forskrift/2001-02-01-99), [28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), [26 juni 2003 nr. 789](https://lovdata.no/forskrift/2003-06-26-789) (i kraft 1 juli 2003), [26 juni 2008 nr. 728](https://lovdata.no/forskrift/2008-06-26-728) (i kraft 1 juli 2008), [5 feb 2010 nr. 116](https://lovdata.no/forskrift/2010-02-05-116) (i kraft 1 mars 2010), [3 nov 2010 nr. 1401](https://lovdata.no/forskrift/2010-11-03-1401), opphevet ved [forskrift 17 des 2018 nr. 2119](https://lovdata.no/forskrift/2018-12-17-2119) (i kraft 1 jan 2019), endret ved forskrift [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 11).*
+
+## § 13. Søknad og vedtak
+
+Søknaden skal fremsettes på søknadsskjema fastsatt av Landbruksdirektoratet og sendes til statsforvalteren
+
+Statsforvalteren fatter vedtak om tidligpensjon. Statsforvalteren kan innhente nødvendige opplysninger fra kommunen i forbindelse med behandling av søknaden.
+
+*Endret ved [forskrifter 30 juni 2000 nr. 707](https://lovdata.no/forskrift/2000-06-30-707) (i kraft 1 juli 2000), [21 nov 2000 nr. 1185](https://lovdata.no/forskrift/2000-11-21-1185) (i kraft 1 jan 2001), [28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), [3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [17 des 2018 nr. 2119](https://lovdata.no/forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 12).*
+
+## § 14. Beregning og utbetaling av tidligpensjon
+
+Tidligpensjon beregnes fra og med den måned kravene i ordningen er oppfylt og søknaden med all nødvendig dokumentasjon har kommet statsforvalteren i hende.
+
+Tidligpensjon utbetales per måned.
+
+Det er ikke anledning til å overdra krav på tidligpensjon til eie eller pant.
+
+Satser for enbruker- og tobrukerpensjon blir fastsatt i eller i medhold av jordbruksoppgjøret.
+
+*Endret ved [forskrifter 28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), [26 juni 2003 nr. 789](https://lovdata.no/forskrift/2003-06-26-789) (i kraft 1 juli 2003), [8 nov 2005 nr. 1276](https://lovdata.no/forskrift/2005-11-08-1276) (i kraft 1 jan 2006), [17 des 2018 nr. 2119](https://lovdata.no/forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 13).*
+
+## § 15. Forhåndstilsagn
+
+Bruker og ektefelle/samboer kan kreve å få et foreløpig tilsagn på om de er berettiget til tidligpensjon. Forhåndstilsagnet er gyldig i 6 måneder fra det er kommet frem til søker.
+
+*Endret ved forskrift [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 14).*
+
+## § 16. (Opphevet)
+
+*Opphvet ved [forskrift 28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), endret ved forskrift [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 15).*
+
+## § 17. Kontroll
+
+Statsforvalteren eller den Landbruksdirektoratet gir myndighet skal føre kontroll med at utbetaling av tidligpensjon er i samsvar med denne forskriften.
+
+Søker er forpliktet til å gi nødvendige opplysninger og dokumentasjon og til å godta de kontrolltiltak som iverksettes.
+
+*Endret ved [forskrifter 30 juni 2000 nr. 707](https://lovdata.no/forskrift/2000-06-30-707) (i kraft 1 juli 2000), [3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [17 des 2018 nr. 2119](https://lovdata.no/forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 16).*
+
+## § 18. Etterbetaling og tilbakebetaling ved feilutbetalinger
+
+Den som mottar tidligpensjon plikter å underrette statsforvalteren om endringer i forhold som kan være avgjørende for om vedkommende fortsatt har rett til tidligpensjon eller for størrelsen på ytelsen.
+
+Dersom en bruker/ektefelle/samboer har mottatt tidligpensjon i strid med aktsom god tro, kan beløpet kreves tilbakebetalt, eventuelt motregnes i fremtidige utbetalinger. Tidligpensjon kan også kreves tilbakebetalt, eventuelt motregnes i fremtidige utbetalinger, når bruker/ektefelle/samboer eller noen som har handlet på dennes vegne, i strid med aktsom god tro har gitt feilaktige eller mangelfulle opplysninger. Det samme gjelder dersom utbetalingen skyldes feil fra forvaltningens side, og mottakeren burde ha forstått dette.
+
+*Endret ved [forskrifter 28 juni 2002 nr. 736](https://lovdata.no/forskrift/2002-06-28-736) (i kraft 1 juli 2002), [17 des 2018 nr. 2119](https://lovdata.no/forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 17).*
+
+## § 19. Klage
+
+Vedtak som er truffet i medhold av forskriften kan påklages etter lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven), kapittel VI.
+
+Landbruksdirektoratet er klageinstans for vedtak truffet av statsforvalteren.
+
+*Endret ved [forskrifter 30 juni 2000 nr. 707](https://lovdata.no/forskrift/2000-06-30-707) (i kraft 1 juli 2000), [21 nov 2001 nr. 1368](https://lovdata.no/forskrift/2001-11-21-1368), tidligere § 19 (i kraft 1 jan 2002), [3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 18).*
+
+## § 20. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 1999.
+
+*Endret ved [forskrifter 21 nov 2001 nr. 1368](https://lovdata.no/forskrift/2001-11-21-1368), tidligere § 20 (i kraft 1 jan 2002), [5 des 2023 nr. 1964](https://lovdata.no/forskrift/2023-12-05-1964) (i kraft 1 jan 2024, tidligere § 19).*
+
+## Fotnoter
+
+**1.** Jf. [lov av 25. juni 1965 nr. 1](https://lovdata.no/lov/1965-06-25-1) om forpaktning.
+
+**2.** Jf. [lov 25. juni 1965 nr. 1](https://lovdata.no/lov/1965-06-25-1) om forpakting.

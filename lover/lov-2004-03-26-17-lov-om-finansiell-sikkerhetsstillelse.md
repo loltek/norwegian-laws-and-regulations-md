@@ -1,0 +1,119 @@
+# Lov om finansiell sikkerhetsstillelse
+
+- **Datokode:** LOV-2004-03-26-17
+- **DokumentID:** NL/lov/2004-03-26-17
+- **Departement:** Finansdepartementet
+- **Kunngjort:** 2004-03-26
+- **I kraft fra:** 2004-07-01
+- **Siste endring i kraft:** 2020-01-01
+- **Sist endret ved:** lov 15.03.2019 nr. 6 fra 2020-01-01
+- **Rettsområde:** Bank, finans og regnskapsrett > Betalingsformidling; Bank, finans og regnskapsrett > Børs- og verdipapir; Bank, finans og regnskapsrett > Obligasjoner; EU/EØS-rett > Finansielle tjenester; Konkurs, gjeld og pant > Gjeldsforhandling. Konkurs
+- **EU/EØS-henvisning:** EØS-avtalen vedlegg XII nr. 4 (direktiv 2002/47).
+- **Siste rettelse:** 2021-08-26 (faglige fotnoter fjernet, UU-tilpasset)
+- **Kilde:** <https://lovdata.no/lov/2004-03-26-17>
+
+## § 1. Virkeområde og formål
+
+Lovens formål er å styrke det finansielle markedet og ivareta hensynet til finansiell stabilitet ved å bidra til sikker, ordnet og effektiv finansiell sikkerhetsstillelse.
+
+Loven gjelder avtaler om finansiell sikkerhetsstillelse.
+
+Loven kommer til anvendelse når både sikkerhetsstiller og sikkerhetshaver tilhører en av følgende kategorier:
+
+a. offentlige myndigheter, herunder myndigheter som er ansvarlig for eller medvirker til forvaltning av offentlig gjeld eller fører konti for kunder,
+b. sentralbanker, Den Europeiske Sentralbank, Den Internasjonale Betalingsbank, Det internasjonale Valutafond, Den Europeiske Investeringsbank, Den internasjonale bank for gjenoppbygging og utvikling, Det internasjonale finansieringsinstitutt, Den interamerikanske utviklingsbank, Den asiatiske utviklingsbank, Den afrikanske utviklingsbank, Europarådets bosettingsfond, Den nordiske investeringsbank, Den karibiske utviklingsbank, Den europeiske bank for gjenoppbygging og utvikling, Det europeiske investeringsfond og Det interamerikanske investeringsselskap,
+c. finansinstitusjoner, pensjonskasser, verdipapirforetak, verdipapirfond og forvaltningsselskaper for verdipapirfond,
+d. avregningssentraler, sentrale motparter og lignende lovregulerte institusjoner som handler med finansielle instrumenter som nevnt i [verdipapirhandelloven § 2-4](lov-2007-06-29-75-verdipapirhandelloven.md) syvende ledd, eller juridiske personer som handler i egenskap av formuesforvalter eller etter fullmakt fra en eller flere personer, for eksempel tillitsmenn for obligasjonseiere i obligasjonsmarkedet eller spesialforetak opprettet i forbindelse med verdipapirisering.
+
+Loven kommer også til anvendelse på avtaler om finansiell sikkerhetsstillelse som er inngått mellom enhver juridisk person og en institusjon som nevnt i tredje ledd.
+
+Kongen kan bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen.
+
+*Endret ved [lover 29 juni 2007 nr. 75](lov-2007-06-29-75-verdipapirhandelloven.md) (ikr. 1 nov 2007 iflg. [res. 29 juni 2007 nr. 752](https://lovdata.no/forskrift/2007-06-29-752)), [16 des 2016 nr. 91](https://lovdata.no/lov/2016-12-16-91) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1607](https://lovdata.no/forskrift/2016-12-16-1607)), [15 mars 2019 nr. 6](lov-2019-03-15-6-verdipapirsentralloven.md) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](https://lovdata.no/forskrift/2019-12-06-1656)).*
+
+## § 2. Definisjoner mv.
+
+I denne lov menes med:
+
+a. avtale om finansiell sikkerhetsstillelse: avtale om overdragelse av eiendomsrett til finansiell sikkerhet, herunder gjenkjøpsavtale, og avtale om pantsettelse av finansiell sikkerhet, med det formål å sikre oppfyllelsen av finansielle forpliktelser,
+b. finansiell forpliktelse: forpliktelse som omfattes av avtalen om finansiell sikkerhetsstillelse, og som gir rett til kontant avregning eller levering av finansielle instrumenter,
+c. finansiell sikkerhet: kontante innskudd, finansielle instrumenter og gjeldsfordringer,
+d. kontante innskudd: innskudd i kredittinstitusjon og lignende kontante fordringer i enhver valuta, herunder pengemarkedsinnskudd,
+e. sikkerhetsstiller: den som overdrar eller pantsetter finansiell sikkerhet til sikkerhet for finansielle forpliktelser,
+f. sikkerhetshaver: den som erverver eiendomsrett til eller panterett i finansiell sikkerhet til sikkerhet for finansielle forpliktelser.
+g. gjeldsfordring: pengekrav som oppstår som følge av at en kredittinstitusjon bevilger kreditt i form av et lån. Lån til en forbruker regnes likevel bare som gjeldsfordring hvis sikkerhetshaveren eller sikkerhetsstilleren er en institusjon som nevnt i [§ 1](lov-2004-03-26-17-lov-om-finansiell-sikkerhetsstillelse.md) tredje ledd bokstav b.
+
+Etter denne lov anses sikkerhet ikke som stilt før rettsvern er etablert.
+
+*Endret ved [lover 18 nov 2011 nr. 42](https://lovdata.no/lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](https://lovdata.no/forskrift/2011-11-18-1107)), [16 des 2016 nr. 90](https://lovdata.no/lov/2016-12-16-90) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1592](https://lovdata.no/forskrift/2016-12-16-1592)).*
+
+## § 3. Overdragelse av eiendomsrett
+
+Det er adgang til å avtale finansiell sikkerhetsstillelse i form av overdragelse av eiendomsrett til finansiell sikkerhet.
+
+## § 4. Bruksrett til pantsatt finansiell sikkerhet
+
+Det kan avtales at sikkerhetshaver skal ha bruksrett til stilt finansiell sikkerhet, men slik bruksrett kan ikke avtales til gjeldsfordringer. Avtalen kan gi rett til utlån, pantsettelse, salg eller annen gjenbruk av sikkerheten.
+
+Ved å utøve bruksrett får sikkerhetshaver en plikt til å overføre tilsvarende sikkerhet til sikkerhetsstiller senest på forfallstidspunktet for sikkerhetsstillers finansielle forpliktelser. Det kan avtales at plikten til å overføre tilsvarende sikkerhet kan oppfylles på annen måte, herunder ved at verdien av den tilsvarende sikkerhet i de finansielle forpliktelser motregnes. Sikkerhetshaver bevarer det opprinnelige rettsvern i forhold til tilsvarende sikkerhet som er overført i samsvar med første punktum.
+
+Med tilsvarende sikkerhet menes:
+
+a. når sikkerheten består av kontant innskudd: betaling av samme beløp i samme valuta, og
+b. når sikkerheten består av finansielle instrumenter: finansielle instrumenter som er en del av samme utstedelse eller klasse, som er utstedt på samme nominelle beløp og i samme valuta og som ellers er av samme beskaffenhet som sikkerheten, eller andre aktiva dersom avtalen gir rett til å overføre slike ved en hendelse som påvirker de aktuelle finansielle instrumentene.
+
+*Endret ved [lov 18 nov 2011 nr. 42](https://lovdata.no/lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](https://lovdata.no/forskrift/2011-11-18-1107)).*
+
+## § 4 a. Rettsvern
+
+Norges Bank kan inngå avtale om finansiell sikkerhetsstillelse der den finansielle sikkerheten er en eller flere angitte gjeldsfordringer. Sikkerhetsstilleren beholder rådigheten over gjeldsfordringene, med mindre annet følger av det som er avtalt.
+
+Sikkerheten i fordringene gir også sikkerhet i sikkerhet for fordringene. Norges Bank har rettsvern for sin sikkerhet uten særskilt rettsvernsakt. Dette gjelder ikke der en gjeldsfordring er knyttet til et omsetnings- eller innløsningspapir.
+
+Departementet kan i forskrift gi nærmere regler om vilkårene for slik avtale om finansiell sikkerhetsstillelse, herunder om avgrensning og identifikasjon av lån og underliggende sikkerheter.
+
+*Tilføyd ved [lov 16 des 2016 nr. 90](https://lovdata.no/lov/2016-12-16-90) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1592](https://lovdata.no/forskrift/2016-12-16-1592)).*
+
+## § 5. Felles gjeldsforfølgning
+
+Avtale om finansiell sikkerhetsstillelse kan inngås, finansiell sikkerhet kan stilles, og finansiell forpliktelse kan oppstå frem til tidspunktet for åpning av felles gjeldsforfølgning mot sikkerhetsstilleren. Er avtale inngått, sikkerhet stilt eller finansiell forpliktelse oppstått på dagen for, men etter tidspunktet for åpning av felles gjeldsforfølgning, står avtalen, sikkerhetsstillelsen eller kravet seg i forhold til fellesforfølgningen dersom sikkerhetshaveren var i aktsom god tro med hensyn til at fellesforfølgning var åpnet.
+
+En sikkerhetsstillelse kan ikke omstøtes alene på det grunnlag at den er stilt for en finansiell forpliktelse som allerede er pådratt.
+
+Med felles gjeldsforfølgning menes gjeldsforhandling etter [konkursloven](lov-1984-06-08-58-konkursloven.md), konkurs og offentlig administrasjon.
+
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+
+## § 6. Sluttavregning
+
+Finansielle forpliktelser som omfattes av en avtale om finansiell sikkerhetsstillelse kan sluttavregnes på de vilkår som følger av skriftlig avtale mellom partene. Avtale om sluttavregning kan gjøres gjeldende uten hinder av [dekningsloven §§ 7-3](lov-1984-06-08-59-dekningsloven.md) og [8-1](lov-1984-06-08-59-dekningsloven.md) eller [gjeldsbrevloven § 26](https://lovdata.no/lov/1939-02-17-1/§26).
+
+Med sluttavregning menes at partenes forpliktelser ved inntreden av en på forhånd avtalt situasjon fastsettes til pengekrav i henhold til avtalte kriterier, og gjøres opp ved motregning. Den part som skylder det største beløpet plikter å betale en nettosum svarende til differansen mellom partenes forpliktelser til den annen part.
+
+## § 7. Fullbyrdelse av krav
+
+Stilt finansiell sikkerhet kan realiseres på den måte og på de vilkår som følger av skriftlig avtale mellom partene.
+
+Foreligger det ikke skriftlig avtale om realisasjon, gjelder reglene i [tvangsfullbyrdelsesloven](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), [konkursloven](lov-1984-06-08-58-konkursloven.md) og [panteloven](lov-1980-02-08-2-panteloven.md).
+
+## § 8. Kommersielt rimelige vilkår
+
+Realisasjon, verdifastsettelse av finansiell sikkerhet, samt beregning av finansielle forpliktelser skal skje på kommersielt rimelige vilkår.
+
+## § 9. Lovvalg
+
+For finansiell sikkerhet i form av registrerte finansielle instrumenter reguleres ethvert spørsmål om sikkerhetens rettslige karakter og de virkninger som kan utledes herav, forholdet til tredjepersoner, herunder sikkerhetsstillerens konkursbo, og realisasjon av sikkerheten, av retten i staten hvor den relevante kontoen føres. Det skal ikke tas hensyn til lovvalgsregler om tilbakevisning eller viderehenvisning.
+
+## § 10. Ikrafttredelse
+
+Loven gjelder fra den tid Kongen bestemmer.[1]
+
+Kongen kan gi overgangsregler.
+
+## § 11. Endringer i andre lover
+
+Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Fra 1 juli 2004 iflg. [res. 26 mars 2004 nr. 575](https://lovdata.no/forskrift/2004-03-26-575).

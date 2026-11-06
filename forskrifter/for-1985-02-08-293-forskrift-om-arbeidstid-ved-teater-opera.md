@@ -1,0 +1,21 @@
+# Forskrift om unntak fra arbeidstidsregler for arbeid ved teater og opera.
+
+- **Korttittel:** Forskrift om arbeidstid ved teater/opera
+- **Datokode:** FOR-1985-02-08-293
+- **DokumentID:** SF/forskrift/1985-02-08-293
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Arbeidsmiljø- og sikkerhetsavd.
+- **Hjemmel:** lov 04.02.1977 nr. 4/§41; lov 17.06.2005 nr. 62/§20-2
+- **Publisert i:** I 1985 s 103
+- **I kraft fra:** 1985-02-08
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt ved kgl.res. av 8. februar 1985. Fremmet av Kommunal- og arbeidsdepartementet.
+- **Kilde:** <https://lovdata.no/forskrift/1985-02-08-293>
+
+I medhold av arbeidsmiljølovens § 41 annet ledd gis det samtykke til følgende særregler for arbeid ved teatre og opera:
+
+1. I tillegg til det som er fastsatt om nattarbeid i § 42 k) og i kgl.res. av 17. juni 1977 og 29. juni 1979 gis det adgang til å holde prøver utover kl. 21.00 i samsvar med inngått avtale mellom partene.
+2. Det innføres adgang til å nytte overtidsarbeid utover de tilfellene som nevnes i § 49 nr. 1 når to skiftmannskap må delta i de avsluttende prøvene for å gjøre seg kjent med dekorasjonsskift, lyssetting m.v. og når andre stillingshavere må gjøre seg kjent med forestillingen.
+3. Bestemmelsen om ukentlig fritid i § 51 nr. 3 jfr. § 54 gis følgende tillegg: Når fritiden legges til søndagsdøgnet, kan den gå over i ny uke uten at perioden på 36 timer anses avbrutt.
+
+Endringene trer i kraft straks.

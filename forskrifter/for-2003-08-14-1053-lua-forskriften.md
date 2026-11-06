@@ -1,0 +1,252 @@
+# Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek (LUA-forskriften)
+
+- **Korttittel:** LUA-forskriften
+- **Datokode:** FOR-2003-08-14-1053
+- **DokumentID:** SF/forskrift/2003-08-14-1053
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Spesialisthelsetjenesteavdelingen
+- **Hjemmel:** lov 04.12.1992 nr. 132/§16
+- **Publisert i:** I 2003 hefte 12
+- **Kunngjort:** 2003-08-19
+- **I kraft fra:** 2003-11-01
+- **Siste endring i kraft:** 2026-10-26
+- **Sist endret ved:** forskrift 26.10.2026 nr. 2150
+- **Endrer:** forskrift 17.12.2002 nr. 1676
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2018-02-22 (EØS-henvisning tilføyd)
+- **Merknad:** Hjemmel: Fastsatt av Helsedepartementet 14. august 2003 med hjemmel i lov av 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) § 16 fjerde ledd. EØS-henvisninger: EØS-avtalen vedlegg II kapittel XIII nr. 19 (forordning (EU) nr. 699/2014). Endret ved forskrifter 22 okt 2003 nr. 1257, 7 juli 2004 nr. 1125, 1 des 2006 nr. 1346, 9 jan 2008 nr. 34, 18 des 2009 nr. 1839, 20 des 2010 nr. 1713, 20 aug 2013 nr. 1037, 17 des 2015 nr. 1708, 18 des 2015 nr. 1740, 4 juli 2018 nr. 1144, 24 jan 2019 nr. 41, 26 aug 2020 nr. 1697 (i kraft 1 jan 2021), 23 aug 2022 nr. 1572 (i kraft 16 sep 2022), 21 des 2022 nr. 2430 (i kraft 1 jan 2023), 16 jan 2023 nr. 50, 21 des 2023 nr. 2281 (i kraft 1 jan 2024), 19 des 2024 nr. 3284 (i kraft 1 jan 2025), 26 okt 2026 nr. 2150 (bl.a. tittel). Rettelser: 22.02.2018 (EØS-henvisning tilføyd).
+- **Kilde:** <https://lovdata.no/forskrift/2003-08-14-1053>
+
+## I
+
+### I. Virkeområde
+
+#### § 1. Forskriftens virkeområde
+
+Denne forskrift gjelder omsetning til allmennheten av reseptfrie legemidler og reseptpliktige legemidler unntatt reseptplikt, herunder:
+
+a. legemidler omfattet av en liste fastsatt med hjemmel i forskriften [§ 6](for-2003-08-14-1053-lua-forskriften.md),
+b. legemidler som etter [forskrift om legemidler § 3-15](for-2009-12-18-1839-legemiddelforskriften.md) eller [§ 3-16](for-2009-12-18-1839-legemiddelforskriften.md) er godkjent av Direktoratet for medisinske produkter som naturlegemiddel eller tradisjonelt plantebasert legemiddel,
+c. legemidler med innhold av nikotin til bruk ved røykeavvenning (nikotinholdige legemidler),
+d. homøopatiske legemidler som er registrert hos Direktoratet for medisinske produkter i samsvar med [forskrift om legemidler § 3-21](for-2009-12-18-1839-legemiddelforskriften.md), [§ 3-22](for-2009-12-18-1839-legemiddelforskriften.md), [§ 3-22A](for-2009-12-18-1839-legemiddelforskriften.md), [§ 3-23](for-2009-12-18-1839-legemiddelforskriften.md), og
+e. Legemidler unntatt fra kravet om markedsføringstillatelse i henhold til [forskrift om legemidler til dyr § 4-6](for-2022-09-08-1573-forskrift-om-legemidler-til-dyr.md).
+
+Direktoratet for medisinske produkter kan dersom hensynet til folkehelsen eller dyrehelsen tilsier det bestemme at legemidler som omfattes av første ledd bokstav b) og d) ikke kan omsettes i henhold til denne forskriften. Direktoratet for medisinske produkter offentliggjør liste over disse legemidlene.
+
+Med omsetning menes kjøp og salg uavhengig av om det ytes vederlag.
+
+Forskriften gjelder ikke omsetning av legemidler fra apotek eller medisinutsalg.
+
+*Endret ved [forskrifter 20 des 2010 nr. 1713](https://lovdata.no/forskrift/2010-12-20-1713) (i kraft 1 jan 2011), [26 aug 2020 nr. 1697](https://lovdata.no/forskrift/2020-08-26-1697) (i kraft 1 jan 2021), [23 aug 2022 nr. 1572](https://lovdata.no/forskrift/2022-08-23-1572) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 2. Legemiddelsalg utenom apotek
+
+Legemidler som nevnt i [§ 1](for-2003-08-14-1053-lua-forskriften.md) kan omsettes fra virksomheter som omsetter næringsmidler.
+
+Legemidler unntatt fra kravet om markedsføringstillatelse i henhold til [forskrift om legemidler til dyr § 4-6](for-2022-09-08-1573-forskrift-om-legemidler-til-dyr.md) kan kun omsettes fra dyreforretninger.
+
+*Endret ved [forskrifter 9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008), [26 aug 2020 nr. 1697](https://lovdata.no/forskrift/2020-08-26-1697) (i kraft 1 jan 2021), [23 aug 2022 nr. 1572](https://lovdata.no/forskrift/2022-08-23-1572) (i kraft 16 sep 2022).*
+
+### II. Krav til utsalgssted for salg av visse legemidler
+
+*Overskriften endret ved [forskrift 9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008).*
+
+#### § 3. LUA-avgift
+
+Direktoratet for medisinske produkter kan kreve avgift for omsetning av legemidler etter denne forskriften, for å dekke utgifter til myndighetenes administrasjon og tilsyn med salgsordningen. Sats for avgiften er 0,4 %.
+
+*Endret ved [forskrifter 7 juli 2004 nr. 1125](https://lovdata.no/forskrift/2004-07-07-1125), [1 des 2006 nr. 1346](https://lovdata.no/forskrift/2006-12-01-1346) (i kraft 1 jan 2007), [9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008), [4 juli 2018 nr. 1144](https://lovdata.no/forskrift/2018-07-04-1144), [21 des 2022 nr. 2430](https://lovdata.no/forskrift/2022-12-21-2430) (i kraft 1 jan 2023), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [19 des 2024 nr. 3284](https://lovdata.no/forskrift/2024-12-19-3284) (i kraft 1 jan 2025).*
+
+#### § 4. Innkjøp av legemidler til utsalgssted
+
+Utsalgsstedet kan kun kjøpe legemidler fra godkjent legemiddelgrossist. Utsalgsstedet kan ikke innføre legemidler fra utlandet eller drive grossistvirksomhet med legemidler.
+
+*Endret ved [forskrift 9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008).*
+
+#### § 5. Internkontroll
+
+Utsalgsstedet skal etablere internkontroll for legemiddelomsetningen og må kunne dokumentere at legemiddelomsetningen planlegges, utføres og vedlikeholdes i samsvar med krav fastsatt i lov og forskrift.
+
+*Endret ved [forskrift 9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008).*
+
+#### § 6. Legemiddelliste
+
+Direktoratet for medisinske produkter fastsetter hvilke legemidler, utover de som er nevnt i [§ 1](for-2003-08-14-1053-lua-forskriften.md) første ledd bokstav b, c, d og e, som kan omsettes etter denne forskriften, og offentliggjør lister over disse.
+
+I vurderingen etter første ledd skal det tas hensyn til om det er særlig behov for enkel tilgang til veiledning fra farmasøyt, herunder om:
+
+a. den enkelte forbruker har tilstrekkelig mulighet til selv å diagnostisere symptomer og tilstand og vurdere indikasjon for behandling, terapeutisk effekt og sikkerhet,
+b. informasjon om bruk og sikkerhet er lett tilgjengelig på pakningen og i pakningsvedlegget,
+c. opplysningene på pakning og pakningsvedlegg må anses tilstrekkelige for sikker bruk,
+d. legemidlets kontraindikasjoner (når legemidlet ikke må brukes) er omfattende eller kompliserte.
+
+Det skal også tas hensyn til hvor stor faren er for overforbruk eller misbruk av det enkelte legemiddel.
+
+Reseptfrie pakningsstørrelser av legemidlet skal ikke ha svært begrenset bruksområde i forhold til reseptpliktige pakningsstørrelser.
+
+*Endret ved [forskrifter 22 okt 2003 nr. 1257](https://lovdata.no/forskrift/2003-10-22-1257) (i kraft 1 nov 2003), [9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008), [26 aug 2020 nr. 1697](https://lovdata.no/forskrift/2020-08-26-1697) (i kraft 1 jan 2021), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+### III. Håndtering og omsetning av legemidlene
+
+#### § 7. Innkjøp
+
+Legemidlene må kjøpes fra grossister godkjent i henhold til [legemiddelloven § 14](../lover/lov-1992-12-04-132-legemiddelloven.md), jf. [forskrift 21. desember 1993 nr. 1219 om grossistvirksomhet med legemidler](for-1993-12-21-1219-forskrift-om-legemiddelgrossister.md) og [legemiddelloven kapittel Ia](../lover/lov-1992-12-04-132-legemiddelloven.md).
+
+Kravene til sortimentsbredde, landsdekning og leveringstid i forskrift om grossistvirksomhet [§ 4](for-2003-08-14-1053-lua-forskriften.md) gjelder ikke ved levering av legemidler til virksomhet som omsetter legemidler etter forskriften her.
+
+Utsalgsstedet skal før utlevering av legemidlet bekrefte legemidlets ekthet ved hjelp av sikkerhetsanordningene som nevnt i [forskrift 18. desember 2009 nr. 1839](for-2009-12-18-1839-legemiddelforskriften.md) om legemidler [§ 3-29](for-2009-12-18-1839-legemiddelforskriften.md).
+
+Forordning [(EU) 2016/161](https://lovdata.no/eu/32016r0161) om sikkerhetsanordninger på legemiddelemballasje gjelder som forskrift, jf. [legemiddelforskriften § 3-29](for-2009-12-18-1839-legemiddelforskriften.md) siste ledd.
+
+*Endret ved [forskrifter 9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008), [20 aug 2013 nr. 1037](https://lovdata.no/forskrift/2013-08-20-1037), [24 jan 2019 nr. 41](https://lovdata.no/forskrift/2019-01-24-41) (i kraft 9 feb 2019), [23 aug 2022 nr. 1572](https://lovdata.no/forskrift/2022-08-23-1572) (i kraft 16 sep 2022).*
+
+#### § 8. Oppbevaring av legemidler
+
+Legemidlene skal lagres forsvarlig slik at de ikke forringes og må ikke utsettes for direkte sollys eller store temperatursvingninger. Legemidlene skal oppbevares under de betingelser som er fastsatt for hvert enkelt produkt. Legemidler som ikke er salgbare, skal oppbevares adskilt fra salgbare legemidler, og straks returneres til grossist.
+
+Forhandler skal oppbevare og utlevere legemidlene i samme stand og pakning som de ble mottatt fra grossist. Oppfylling, overfylling, deling, ometikettering eller lignende behandling av legemidler er forbudt.
+
+Direktoratet for medisinske produkter kan gi nærmere retningslinjer for oppbevaring av legemidler, herunder krav til dokumentasjon av rutiner og andre forhold av betydning for oppbevaring.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 9. Minimumsutvalg
+
+Direktoratet for medisinske produkter kan fastsette at forhandlere av legemidler som omfattes av liste fastsatt i henhold til [§ 6](for-2003-08-14-1053-lua-forskriften.md), skal føre et minimumsutvalg av reseptfrie legemidler. Minimumsutvalget skal fastsettes med hensyn til å unngå risiko for en medisinsk uheldig forbruksvridning.
+
+*Endret ved [forskrifter 9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 10. Salgsmodell
+
+Legemidler som i henhold til [§ 1](for-2003-08-14-1053-lua-forskriften.md) kan omsettes etter denne forskriften, skal oppbevares bak disk, i avlåst skap eller på annen måte fysisk utilgjengelig for utsalgsstedets kunder. Legemidlene skal bare selges etter forespørsel fra kunden og utleveres av utsalgsstedets betjening. Automatisert utlevering og annen utlevering etter at kunden har levert et substitutt for legemidlet til betjeningen, sidestilles med utlevering fra betjeningen i den grad de samme kontrolloppgavene ivaretas tilfredsstillende.
+
+Direktoratet for medisinske produkter fastsetter liste over legemidler som kan plasseres i selvvalg på utsalgsstedet. Disse legemidlene skal på utsalgsstedet:
+
+a. plasseres på en slik måte at de er adskilt fra andre varer på utsalgsstedet og
+b. plasseres slik at de ikke er tilgjengelig for mindreårige og
+c. plasseres slik at de er under oppsyn av utsalgsstedets betjening.
+
+Ved vurderingen av hvilke legemidler som kan føres opp på listen som nevnt i andre ledd legges vekt på om legemidlene kan misbrukes eller om det av andre grunner bør føres særskilt tilsyn med legemidlene.
+
+*Endret ved [forskrifter 22 okt 2003 nr. 1257](https://lovdata.no/forskrift/2003-10-22-1257) (i kraft 1 nov 2003), [9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008), [20 des 2010 nr. 1713](https://lovdata.no/forskrift/2010-12-20-1713) (i kraft 1 jan 2011), [17 des 2015 nr. 1708](https://lovdata.no/forskrift/2015-12-17-1708) (i kraft 1 jan 2016), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 10a. Salg av legemidler over Internett
+
+Med salg av legemidler over Internett menes i denne forskrift salg av legemidler når avtale om kjøp formidles elektronisk og inngås uten at kunden er fysisk tilstede i utsalgsstedet.
+
+Utsalgssted som selger legemidler over Internett, plikter å gi Direktoratet for medisinske produkter oppdaterte opplysninger om følgende:
+
+a. adressen til det stedet som legemidlene skal utleveres fra,
+b. tidspunktet for når salg av legemidler over Internett påbegynnes, og
+c. adressen til det nettstedet som skal benyttes og andre relevante opplysninger som er nødvendige for å kunne identifisere nettstedet.
+
+Nettstedet skal inneholde følgende:
+
+a. en logo, fastsatt av Direktoratet for medisinske produkter, på hver side i nettstedet, som identifiserer hvor selgeren av legemidlene er etablert,
+b. en lenke til Direktoratet for medisinske produkters informasjonsside på Internett om salg av legemidler over Internett, og
+c. en lenke fra logo som nevnt i bokstav a), til Direktoratet for medisinske produkters elektroniske liste over aktører som har tillatelse til å selge legemidler over Internett.
+
+*Tilføyd ved [forskrift 17 des 2015 nr. 1708](https://lovdata.no/forskrift/2015-12-17-1708) (i kraft 1 jan 2016), endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 11. Utlevering og forsendelse av legemidler
+
+Direktoratet for medisinske produkter kan fastsette begrensninger i antall pakninger og i pakningsstørrelse for legemidler som kan selges til en enkelt kunde.
+
+Legemidler skal ikke utleveres til person under 18 år.
+
+Salg av legemidler til forbruker kan bare foretas av personer over 18 år. Dette gjelder likevel ikke hvis en person over 18 år har daglig tilsyn med salget.
+
+Med forsendelse menes i denne bestemmelsen enhver distribusjon av legemidler utenfor utsalgsstedets driftslokaler.
+
+Ved forsendelse av legemidler gjelder kravene i [forskrift om rekvirering og utlevering av legemidler m.m. kapittel 14](for-2022-06-02-977-forskrift-om-rekvirering-og-utlevering-av-legemidler-m-m.md). Før en ny forsendelsesmåte tas i bruk, skal utsalgsstedet sikre seg at kravene blir ivaretatt. Utsalgsstedet skal ved stikkprøvekontroll eller på annen egnet måte kvalitetssikre sine forsendelser.
+
+Ved forsendelse skal utsalgsstedet sikre sporbarhet for å ivareta forsvarlig utlevering og legemiddelhåndtering.
+
+Annet og tredje ledd gjelder ikke for naturlegemidler og tradisjonelle plantebaserte legemidler.
+
+*Endret ved [forskrifter 20 des 2010 nr. 1713](https://lovdata.no/forskrift/2010-12-20-1713) (i kraft 1 jan 2011), [17 des 2015 nr. 1708](https://lovdata.no/forskrift/2015-12-17-1708) (i kraft 1 jan 2016), [16 jan 2023 nr. 50](https://lovdata.no/forskrift/2023-01-16-50), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 12. Veiledning og informasjon
+
+Utsalgsstedets personale skal ikke gi muntlig informasjon om valg av legemiddel eller om legemidlenes egenskaper og bruk. Ved behov for veiledning om bruk av legemidlene eller valg mellom disse skal kunden henvises til:
+
+a. lege eller apotek,
+b. veiledningen på legemidlets pakning eller i pakningsvedlegget.
+
+Direktoratet for medisinske produkter kan etter søknad tillate at farmasøyt veileder utsalgets kunder om legemidlene.
+
+Pakningsvedlegg og merking for de pakninger som utsalget selger kan gjøres tilgjengelig for utsalgsstedets kunder.
+
+Direktoratet for medisinske produkter kan pålegge virksomheten å ha skriftlig tilleggsinformasjon om legemidler. Slik informasjon skal være lett tilgjengelig for publikum.
+
+*Endret ved [forskrifter 22 okt 2003 nr. 1257](https://lovdata.no/forskrift/2003-10-22-1257) (i kraft 1 nov 2003), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [26 okt 2026 nr. 2150](https://lovdata.no/forskrift/2026-10-26-2150).*
+
+#### § 13. Reklame
+
+Reklame for legemidler må være i overensstemmelse med forskrift [18. desember 2009 nr. 1839](for-2009-12-18-1839-legemiddelforskriften.md) om legemidler [kapittel 13](for-2009-12-18-1839-legemiddelforskriften.md).
+
+Reklame for legemidler er ikke tillatt i eller i umiddelbar tilknytning til utsalgsstedets lokaler.
+
+*Endret ved [forskrifter 18 des 2009 nr. 1839](for-2009-12-18-1839-legemiddelforskriften.md) (i kraft 12 jan 2010), [26 okt 2026 nr. 2150](https://lovdata.no/forskrift/2026-10-26-2150).*
+
+### IV. Generelle regler
+
+#### § 14. Særskilt ansvarlig person
+
+Virksomheter som omsetter legemidler etter denne forskriften, skal ha en særskilt ansvarlig person for disse varegruppene. Virksomheten må på forespørsel dokumentere hvem som er særskilt ansvarlig. Direktoratet for medisinske produkter kan stille nærmere krav om kompetanse for den særskilt ansvarlige.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 15. Rapportering av legemiddelomsetningen til Direktoratet for medisinske produkter
+
+Utsalgsstedet skal på forespørsel innrapportere opplysninger om omsetning av reseptfrie legemidler til Direktoratet for medisinske produkter eller Folkehelseinstituttet.
+
+Direktoratet for medisinske produkter fastsetter hvilke opplysninger som skal innsendes og hvordan innberetningen skal skje.
+
+*Endret ved [forskrifter 18 des 2015 nr. 1740](https://lovdata.no/forskrift/2015-12-18-1740) (i kraft 1 jan 2016), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 16. Reklamasjon og varslingsplikt ved feil og kvalitetsmangler
+
+Utsalgsstedet skal føre oversikt over alle reklamasjoner på legemidler som utsalgsstedet har utlevert. Reklamasjon skal straks undersøkes. Ved mulige feil og kvalitetsmangler skal melding omgående gis til legemidlets grossist, tilvirker eller importør.
+
+#### § 17. Tilbakekalling og salgsstopp
+
+Utsalgsstedet skal ha et skriftlig dokumentert system for å kunne følge opp meldinger om tilbakekalling av legemidler. Systemet skal sikre at meldinger om tilbakekalling av legemidler effektueres umiddelbart.
+
+#### § 18. Tilsyn
+
+Direktoratet for medisinske produkter og Mattilsynet fører tilsyn med omsetning av legemidler etter denne forskrift. Direktoratet for medisinske produkter skal i samarbeid med Mattilsynet utarbeide retningslinjer for tilsynet og sørge for at tilsynet fremmer sikker omgang med legemidler.
+
+*Endret ved [forskrifter 26 aug 2020 nr. 1697](https://lovdata.no/forskrift/2020-08-26-1697) (i kraft 1 jan 2021), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 19. Forvaltningsmessige sanksjoner
+
+Ved brudd på forskriftens bestemmelser kan tilsynsorganene:
+
+a. gi advarsel,
+b. gi pålegg om retting,
+c. nedlegge midlertidig forbud mot omsetning.
+
+Direktoratet for medisinske produkter kan ilegge tvangsmulkt etter [legemiddelloven § 28](../lover/lov-1992-12-04-132-legemiddelloven.md) dersom pålegg om retting ikke overholdes.
+
+Endelig forbud mot omsetning kan vedtas av Direktoratet for medisinske produkter.
+
+*Endret ved [forskrifter 9 jan 2008 nr. 34](https://lovdata.no/forskrift/2008-01-09-34) (i kraft 15 jan 2008), [26 aug 2020 nr. 1697](https://lovdata.no/forskrift/2020-08-26-1697) (i kraft 1 jan 2021), [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 20. Klage
+
+Direktoratet for medisinske produkter avgjør klage over vedtak som er fattet av Mattilsynet i medhold av forskriften.
+
+*Endret ved forskrift [21 des 2023 nr. 2281](https://lovdata.no/forskrift/2023-12-21-2281) (i kraft 1 jan 2024).*
+
+#### § 21. Straff
+
+Overtredelse av denne forskrift straffes etter [lov av 4. desember 1992 nr. 132](../lover/lov-1992-12-04-132-legemiddelloven.md) om legemidler m.v. (legemiddelloven) [§ 31](../lover/lov-1992-12-04-132-legemiddelloven.md).
+
+## II
+
+[Forskrift av 17. desember 2002 nr. 1676](https://lovdata.no/forskrift/2002-12-17-1676) om omsetning mv. av naturlegemidler og visse reseptfrie nikotinholdige legemidler utenom apotek oppheves.
+
+## III
+
+Forskriften trer i kraft 1. november 2003.

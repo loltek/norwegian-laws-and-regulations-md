@@ -1,0 +1,124 @@
+# Forskrift om vedtekter for Norges forskningsråd
+
+- **Korttittel:** Vedtekter for Norges forskningsråd
+- **Datokode:** FOR-2016-06-10-658
+- **DokumentID:** INS/forskrift/2016-06-10-658
+- **Departement:** Kunnskapsdepartementet
+- **Etat:** Avdeling for eierskap i høyere utdanning og forskning (EIE)
+- **Hjemmel:** lov/1967-02-10/§24; lov/1967-02-10/§28
+- **Publisert i:** I 2016 hefte 8
+- **Kunngjort:** 2016-06-16 16:00
+- **I kraft fra:** 2016-07-01
+- **Siste endring i kraft:** 2025-01-01
+- **Sist endret ved:** forskrift 12.12.2024 nr. 3391 fra 2025-01-01
+- **Endrer:** forskrift 17.12.2010 nr. 1928
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 10. juni 2016 med hjemmel i Stortingets plenumsvedtak 3. desember 1992 og lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 24 fjerde ledd og § 28 fjerde ledd. Fremmet av Kunnskapsdepartementet. Endret ved forskrifter 9 nov 2018 nr. 1676 (vedtektene endret i sin helhet), 5 juni 2023 nr. 963 (i kraft 21 juni 2023), 12 des 2024 nr. 3391 (i kraft 1 jan 2025).
+- **Kilde:** <https://lovdata.no/INS/forskrift/2016-06-10-658>
+
+## § 1. Formål
+
+Norges forskningsråd skal være et nasjonalt utøvende forskningsstrategisk organ. Forskningsrådet har ansvar for å øke kunnskapsgrunnlaget og bidra til å dekke samfunnets behov for forskning ved å fremme grunnleggende og anvendt forskning og innovasjon.
+
+*Endret ved [forskrift 9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018).*
+
+## § 2. Hovedoppgaver
+
+Forskningsrådet skal
+
+a. ivareta grunnleggende forskning, arbeide for utvikling av fag og disipliner og for flerfaglighet i forskning
+b. støtte forskning som bidrar til samfunnsdebatt, utviklingen av demokratiet og grunnlaget for politikkutformingen
+c. arbeide for å fremme innovasjon i næringsliv og offentlig sektor i hele landet
+d. arbeide for sammenheng mellom grunnleggende og anvendt forskning og innovasjon
+e. ha et nasjonalt ansvar for forskningsformidling og bidra til at resultater fra forskning blir tatt i bruk
+f. arbeide for å fremme internasjonalt forskningssamarbeid
+g. bidra til kvalitet i norsk forskning
+h. bidra til samarbeid og helhet i det offentlige virkemiddelapparatet
+i. bidra til god arbeidsdeling og samarbeid i det forskningsutførende nivået og ha et strategisk ansvar for instituttsektoren
+j. sørge for evaluering av norsk forskning
+k. gi myndighetene råd som grunnlag for utforming av forskningspolitikken.
+
+*Endret ved [forskrift 9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018).*
+
+## § 3. Organisering
+
+Styret er Forskningsrådets øverste organ og er ansvarlig for Forskningsrådets samlede virksomhet.
+
+Styret har ansvaret for virksomhetens organisering. Organiseringen skal ivareta bredden i Forskningsrådets hovedoppgaver og sikre bred geografisk deltakelse og medvirkning fra forskning, næringsliv, offentlig sektor og samfunnet for øvrig.
+
+Forskningsrådets administrasjon ledes av administrerende direktør.
+
+*Endret ved [forskrift 9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018).*
+
+## § 4. Styret
+
+1. *Oppnevning, sammensetning og funksjonstid*
+
+Kunnskapsdepartementet oppnevner styret for fire år. Styret skal settes sammen av personer med bred innsikt i forskning og innovasjon, næringsliv, offentlig sektor og samfunnsspørsmål for øvrig. Styret skal ha syv medlemmer. Kunnskapsdepartementet utpeker styrets leder og nestleder.
+
+Medlemmene kan gjenoppnevnes, men ingen kan sitte sammenhengende i styret i mer enn to perioder. Ved behandling av administrative saker suppleres styret med to styremedlemmer valgt av og blant de ansatte.
+
+Kunnskapsdepartementet fastsetter godtgjøring til styrets medlemmer.
+
+2. *Oppgaver*
+
+Styret skal i sitt arbeid følge opp forskningspolitikken som er fastsatt av regjeringen og Stortinget, og skal gi myndighetene råd i forskningspolitiske saker.
+
+Styret har hovedansvar for Forskningsrådets strategi og for at denne blir lagt til grunn for Forskningsrådets arbeid.
+
+Styret representerer Forskningsrådet i styringsdialogen med Kunnskapsdepartementet. Departementet fastsetter i samråd med Forskningsrådet styringsdialogens form og innhold.
+
+Styret
+
+a. tilsetter administrerende direktør (jf. [§ 5](https://lovdata.no/forskrift/2016-06-10-658/§5))
+b. fastsetter administrerende direktørs lønn og annen godtgjøring, etter konsultasjon med Kunnskapsdepartementet
+c. fastsetter instruks for administrerende direktør
+d. fastsetter retningslinjer for godtgjøring til ledende ansatte.
+
+3. *Forretningsorden*
+
+Styrets leder innkaller til møter. Styret holder møter så ofte lederen bestemmer, eller når minst fire medlemmer ønsker det.
+
+Styret er beslutningsdyktig når mer enn halvparten av de stemmeberettigede er til stede. Vedtak gjøres med simpelt flertall. Lederens stemme gjør utslag ved stemmelikhet.
+
+Administrerende direktør deltar uten stemmerett i styremøtene.
+
+*Endret ved forskrifter [9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018), [5 juni 2023 nr. 963](https://lovdata.no/forskrift/2023-06-05-963) (i kraft 21 juni 2023).*
+
+## § 5. Administrerende direktør
+
+Administrerende direktør tilsettes for en periode på seks år, med adgang til fornyelse en gang. Administrerende direktør har ansvar for at administrasjonen iverksetter styrets vedtak.
+
+*Endret ved [forskrift 9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018, tidligere § 7).*
+
+## § 6. Norges forskningsråds status og fullmakter
+
+Forskningsrådet er et bruttobudsjettert forvaltningsorgan, forvaltningsmessig underlagt Kunnskapsdepartementet.
+
+Tilsettingsforholdene i Forskningsrådet reguleres av [arbeidsmiljølovens](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md) og [arbeidstvistlovens](../lover/lov-2012-01-27-9-arbeidstvistloven.md) bestemmelser.
+
+For Forskningsrådet gjelder de fullmakter og retningslinjer som er fastsatt i den til enhver tid gjeldende virksomhets- og økonomiinstruks for Norges forskningsråd.
+
+*Endret ved [forskrifter 9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018, tidligere § 8), [12 des 2024 nr. 3391](https://lovdata.no/forskrift/2024-12-12-3391) (i kraft 1 jan 2025).*
+
+## § 7. Klage
+
+Styret skal oppnevne et frittstående klageutvalg med fire eksterne medlemmer. Utvalget skal behandle klager over Forskningsrådets vedtak.
+
+Vedtak i tjenestemannssaker og i innsynssaker etter offentlighetsloven kan påklages til departementet etter [forvaltningsloven § 28](../lover/lov-1967-02-10-forvaltningsloven.md) første ledd. For klage på andre vedtak fra Forskningsrådet gjelder bestemmelsen i første ledd andre punktum.
+
+I saker som gjelder tildelingen av økonomiske midler, er det ikke adgang til å klage over Forskningsrådets skjønnsutøvelse.
+
+*Endret ved [forskrift 9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018, tidligere § 9).*
+
+## § 8. Vedtektsendringer
+
+Kunnskapsdepartementet kan vedta endringer i denne forskriften. Styret skal bli forelagt forslag til endringer for uttalelse. Styret kan fremme forslag til endringer i vedtektene.
+
+*Endret ved [forskrift 9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018, tidligere § 10).*
+
+## § 9. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. juli 2016. Samtidig oppheves [forskrift 17. desember 2010 nr. 1928](https://lovdata.no/forskrift/2010-12-17-1928) om vedtekter for Norges forskningsråd.
+
+*Endret ved [forskrift 9 nov 2018 nr. 1676](https://lovdata.no/forskrift/2018-11-09-1676) (i kraft 1 des 2018, tidligere § 11).*

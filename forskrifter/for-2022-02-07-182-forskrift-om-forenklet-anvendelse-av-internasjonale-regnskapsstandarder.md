@@ -1,0 +1,149 @@
+# Forskrift om forenklet anvendelse av internasjonale regnskapsstandarder
+
+- **Datokode:** FOR-2022-02-07-182
+- **DokumentID:** SF/forskrift/2022-02-07-182
+- **Departement:** Finansdepartementet
+- **Etat:** Finansmarkedsavdelingen, Finanstilsynet
+- **Hjemmel:** lov 17.07.1998 nr. 56/§3-9; forskrift 29.03.2022 nr. 484/§6
+- **Kunngjort:** 2022-02-08 14:30
+- **I kraft fra:** 2022-02-07, med virkning for regnskapsår som begynner 2022-01-01 eller senere
+- **Siste endring i kraft:** 2024-12-16
+- **Sist endret ved:** forskrift 16.12.2024 nr. 3127
+- **Endrer:** forskrift 21.01.2008 nr. 57
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 7. februar 2022 med hjemmel i lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 3-9 femte ledd. Tilføyd hjemmel: Delegeringsvedtak 29. mars 2022 nr. 484 § 6. Endret ved forskrift 16 des 2024 nr. 3127.
+- **Kilde:** <https://lovdata.no/forskrift/2022-02-07-182>
+
+## Kapittel 1. Virkeområde
+
+### § 1-1. Regnskapspliktige som forskriften gjelder for
+
+Forskriften gjelder regnskapspliktige jf. [regnskapsloven § 1-2 første ledd](../lover/lov-1998-07-17-56-regnskapsloven.md), med mindre annet følger av bestemmelse i annen lov eller forskrift, og med unntak av regnskapspliktige som i henhold til [regnskapsloven § 3-9 tredje ledd annet punktum](../lover/lov-1998-07-17-56-regnskapsloven.md) plikter å utarbeide årsregnskap i samsvar med internasjonale regnskapsstandarder.
+
+For regnskapspliktige som i henhold til [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd plikter å utarbeide sitt konsernregnskap i samsvar med internasjonale regnskapsstandarder, gjelder forskriften bare for selskapsregnskapet.
+
+*Endret ved forskrift [16 des 2024 nr. 3127](https://lovdata.no/forskrift/2024-12-16-3127).*
+
+### § 1-2. Adgang til forenklet anvendelse av internasjonale regnskapsstandarder
+
+Regnskapspliktige som nevnt i [§ 1-1](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) kan utarbeide selskapsregnskap og konsernregnskap i samsvar med forskrifter gitt i medhold av [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd (internasjonale regnskapsstandarder), med de unntak og tillegg som følger av denne forskrift, med mindre annet følger av bestemmelse i annen lov eller forskrift.
+
+[Regnskapsloven § 3-1 tredje ledd](../lover/lov-1998-07-17-56-regnskapsloven.md) gjelder tilsvarende, men slik at bestemmelsene i [regnskapsloven kapittel 6](../lover/lov-1998-07-17-56-regnskapsloven.md) og [7](../lover/lov-1998-07-17-56-regnskapsloven.md) likevel gjelder. Reglene i [kapittel 7 II](../lover/lov-1998-07-17-56-regnskapsloven.md) Noteopplysninger for små foretak kan likevel ikke benyttes.
+
+Adgangen til å fravike bestemmelser i internasjonale regnskapsstandarder som følger av forskriften [§ 3-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) nr. 2 til 7, jf. [§ 3-3](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md), og [§ 4-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) nr. 3 må anvendes under ett, og kan ikke anvendes enkeltvis.
+
+*Endret ved forskrift [16 des 2024 nr. 3127](https://lovdata.no/forskrift/2024-12-16-3127).*
+
+### § 1-3. Delårsregnskap
+
+Delårsregnskap som angis å være utarbeidet i samsvar med denne forskrift skal følge IAS 34, men slik at unntak og tillegg etter denne forskrift som er anvendt i årsregnskapet, også gjelder for delårsregnskapet så fremt de er relevante for delårsregnskap.
+
+## Kapittel 2. Regler om regnskapets bestanddeler
+
+### § 2-1. Oppstilling av annet totalresultat for perioden
+
+Regnskap som utarbeides etter forskriftens [§ 1-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) skal inneholde en separat oppstilling av annet totalresultat for perioden i samsvar med IAS 1. Oppstillingen skal presenteres umiddelbart etter resultatregnskapet.
+
+### § 2-2. Egenkapitaloppstilling
+
+Regnskap som utarbeides etter forskriftens [§ 1-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) kan, uten hensyn til bestemmelser gitt i forskrifter med hjemmel i [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd, avvike fra bestemmelsene i IAS 1 nr. 10 bokstav c og nr. 106–110 om krav til egenkapitaloppstilling. I den grad det velges å gjøre avvik etter bestemmelsens foregående punktum gjelder [regnskapsloven § 7-25](../lover/lov-1998-07-17-56-regnskapsloven.md).
+
+## Kapittel 3. Måle- og innregningsregler
+
+### § 3-1. Adgangen til å fravike måle- og innregningsregler som gjelder alle regnskapspliktige under forskriften
+
+Regnskapspliktige som utarbeider selskaps- eller konsernregnskap etter [§ 1-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) kan fravike følgende bestemmelser i internasjonale regnskapsstandarder slik det er angitt her:
+
+1. IFRS 1 nr. D6 kan fravikes slik at balanseført verdi etter tidligere oppskrivning under god regnskapsskikk kan videreføres ved overgangen uten hensyn til angitte kriterier i IFRS 1.
+2. IFRS 5 kan fravikes i selskapsregnskapet, men slik at anleggsmidler holdt for salg og avviklet virksomhet istedenfor må innregnes og måles etter prinsippene i de ordinære regnskapsreglene i de internasjonale regnskapsstandardene. For øvrig gjelder [regnskapslovens](../lover/lov-1998-07-17-56-regnskapsloven.md) bestemmelser og NRS 12 for presentasjon og noteopplysninger.
+3. Internasjonale regnskapsstandarder kan fravikes slik at tidspunkt for innregning av utbytte og konsernbidrag følger [regnskapsloven](../lover/lov-1998-07-17-56-regnskapsloven.md) og god regnskapsskikk for giver og mottaker. Skattekonsekvenser av avsatt konsernbidrag regnskapsføres i samme periode som konsernbidraget innregnes som forpliktelse.
+4. IAS 28 kan fravikes slik at investering i tilknyttet selskap og deltakelse i felles kontrollert virksomhet kan regnskapsføres i samsvar med kostmetoden i selskapsregnskapet.
+
+*Endret ved forskrift [16 des 2024 nr. 3127](https://lovdata.no/forskrift/2024-12-16-3127).*
+
+### § 3-2. Adgang til å fravike måle- og innregningsregler som gjelder for selskaper i konsern der konsernregnskapet er utarbeidet etter internasjonale regnskapsstandarder eller etter denne forskriften
+
+Regnskapspliktige som er morselskap eller datterselskap i konsern der morselskapet utarbeider konsernregnskap i samsvar med internasjonale regnskapsstandarder etter [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd eller i samsvar med denne forskrift, kan gjøre følgende fravik fra bestemmelser i internasjonale regnskapsstandarder i selskapsregnskapet under hensyn til kravene i [§ 1-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) tredje ledd:
+
+1. IAS 16 nr. 43 kan fravikes slik at de samme vurderinger av avskrivningsenhet (dekomponering) legges til grunn i selskapsregnskapet som i konsernregnskapet.
+2. IAS 32 nr. 28–32, nr. 38, AG 30–35 og AG 37 kan fravikes i de tilfeller der kun foretak innenfor samme konsern er motpart i kontrakten. Egenkapitalkomponenten i sammensatte finansielle instrumenter skal i slike tilfeller klassifiseres som finansiell forpliktelse.
+3. IFRS 9.2.3 og IFRS 9.4.3.3–4.3.7 kan fravikes for kontrakter inngått mellom foretak i samme konsern.
+4. IFRS 9.2.4, IFRS 9.2.6 og IFRS 9.2.7 kan fravikes slik at bestemmelsene erstattes med bestemmelsene i [§ 3-3](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md).
+5. Ved anvendelse av IFRS 9.3.2.6 (c) skal en finansiell eiendel innregnes dersom foretaket har beholdt kontroll over den finansielle eiendelen ved konsernintern kontrakt. Ved innregning etter denne bestemmelsen kan IFRS 9.3.2.16–3.2.21 og IFRS 9 B3.2.13 for øvrig fravikes.
+6. I IAS 39 nr. 88 gjelder følgende tilføyelse som ny bokstav f etter siste punktum: I de tilfeller hvor (a) til (e) ovenfor er dokumentert og oppfylt i et overliggende konsernregnskap og det foreligger en konsernintern kontrakt som fullt ut gjenspeiler sikringsobjektet eller sikringsinstrumentet i det overliggende konsernets sikringsdokumentasjon, kan kopi av denne dokumentasjonen, med påført identifikasjon av den relevante konserninterne kontrakten, oppfylle kravene i (a) til (e) ovenfor.
+7. I IFRS 9.6.4.1 gjelder følgende tilføyelse som ny bokstav d etter siste punktum: I de tilfeller hvor (a) til (c) ovenfor er dokumentert og oppfylt i et overliggende konsernregnskap og det foreligger en konsernintern kontrakt som fullt ut gjenspeiler sikringsobjektet eller sikringsinstrumentet i det overliggende konsernets sikringsdokumentasjon, kan kopi av denne dokumentasjonen, med påført identifikasjon av den relevante konserninterne kontrakten, oppfylle kravene i (a) til (c) ovenfor.
+8. Leietaker kan fravike IFRS 16 for konserninterne leieavtaler. NRS 14 gjelder i stedet. Foretak som endrer regnskapsføring fra IFRS 16 til NRS 14 må følge innregningsreglene for prinsippendringer i IAS 8 og gi noteopplysninger etter [rskl. § 7-3](../lover/lov-1998-07-17-56-regnskapsloven.md) og NRS 5 nr. 5.
+9. IAS 40 nr. 5 kan fravikes slik at samme klassifisering av eiendom (investeringseiendom eller eierbenyttet eiendom) legges til grunn i selskapsregnskapet som i konsernregnskapet.
+
+### § 3-3. Fravik fra IFRS 9 nr. 2.4, 2.6 og 2.7 – kontrakter om kjøp eller salg av en ikke finansiell gjenstand
+
+Dersom IFRS 9 nr. 2.4, 2.6 og 2.7 fravikes i henhold til [§ 3-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) nr. 4 skal nr. 1 til 3 nedenfor anvendes istedet for bestemmelsene i IFRS 9.
+
+1. Denne standard kommer til anvendelse på kontrakter om kjøp eller salg av en ikke finansiell gjenstand som kan gjøres opp netto i kontanter eller i et annet finansielt instrument eller ved bytte av finansielle instrumenter, som om kontraktene var finansielle instrumenter, unntatt kontrakter som er inngått og fortsatt innehas med det formål å motta eller levere en ikke-finansiell gjenstand i samsvar med foretakets eller ett eller flere konsernforetaks forventede innkjøps-, salgs- eller bruksbehov.
+2. Det er ulike måter en kontrakt om kjøp eller salg av en ikke-finansiell gjenstand kan gjøres opp på: netto i kontanter eller i et annet finansielt instrument eller ved bytte av finansielle instrumenter. Eksempler på dette er:
+   a. når vilkårene i kontrakten tillater begge parter å gjøre opp kontrakten netto i kontanter eller i et annet finansielt instrument, eller ved å bytte finansielle instrumenter,
+   b. når adgangen til å gjøre opp netto i kontanter eller i et annet finansielt instrument, eller ved å bytte finansielle instrumenter, ikke er eksplisitt i vilkårene i kontrakten, men foretaket har som praksis å gjøre opp tilsvarende kontrakter netto i kontanter eller i et annet finansielt instrument, eller ved å bytte finansielle instrumenter (enten med en motpart ved å inngå motregningskontrakter eller ved å selge kontrakten før den utøves eller forfaller),
+   c. når foretaket for tilsvarende kontrakter har som praksis å motta det underliggende og selge dette innen en kort periode etter levering med det formål å generere et overskudd fra kortsiktige svingninger i pris eller salgsmarginer, og
+   d. når den ikke-finansielle gjenstanden som kontrakten omfatter, lett kan omgjøres i kontanter.
+
+   En kontrakt der bokstav b eller c kommer til anvendelse, er ikke inngått med det formål å motta eller levere den ikke-finansielle gjenstanden i samsvar med foretakets forventede innkjøps-, salgs- eller bruksbehov, og faller dermed innenfor virkeområdet til denne standard. Dette gjelder allikevel ikke for konserninterne kontrakter. Andre kontrakter der nr. 1 ovenfor kommer til anvendelse, blir vurdert for å avgjøre om de ble inngått og fortsatt innehas med det formål å motta eller levere ikke-finansielle gjenstander i samsvar med foretakets eller ett eller flere konsernforetaks forventede innkjøps-, salgs- eller bruksbehov, og om de derfor omfattes av denne standard.
+3. En utstedt opsjon om å kjøpe eller selge en ikke-finansiell gjenstand som kan gjøres opp i kontanter eller et annet finansielt instrument eller ved bytte av finansielle instrumenter, i samsvar med nr. 2 a) eller nr. d) ovenfor, faller inn under virkeområdet til denne standard. Dette gjelder allikevel ikke for konserninterne kontrakter. En slik kontrakt kan ikke inngås med det formål å motta eller levere ikke-finansielle gjenstander i samsvar med foretakets forventede innkjøps-, salgs- eller bruksbehov.
+
+## Kapittel 4. Regler om presentasjon og noter til årsregnskapet
+
+### § 4-1. Generelle krav
+
+Regnskap som utarbeides etter forskriftens [§ 1-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md), skal inneholde oppstillingsplaner i samsvar med [regnskapsloven kapittel 6](../lover/lov-1998-07-17-56-regnskapsloven.md) og noteopplysninger i samsvar med [regnskapsloven kapittel 7](../lover/lov-1998-07-17-56-regnskapsloven.md). Det skal gis opplysninger som er nødvendige for å bedømme den regnskapspliktiges eller konsernets stilling og resultat og som ikke fremgår av årsregnskapet for øvrig, jf. [rskl. § 7-1](../lover/lov-1998-07-17-56-regnskapsloven.md), annet ledd. Kapittel 7.II Noteopplysninger for små foretak kan ikke anvendes.
+
+Krav etter internasjonale regnskapsstandarder om opplysninger i noter til årsregnskapet kan fravikes for regnskap som utarbeides i henhold til denne forskrifts [§ 1-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md). Ved fravikelse etter dette ledd skal det gis følgende noteopplysninger:
+
+a. Krav etter god regnskapsskikk så langt det er relevant for anvendte måle- og innregnings- og presentasjonsregler. Unntak for små foretak kan ikke anvendes.
+b. Krav etter internasjonale regnskapsstandarder som angitt i [§ 4-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md).
+c. Krav som angitt i [§ 4-3](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md).
+
+Det er adgang til å unnlate å gi sammenligningstall i noteopplysninger, med mindre sammenligningstall i noteopplysninger kreves etter [regnskapsloven](../lover/lov-1998-07-17-56-regnskapsloven.md) eller god regnskapsskikk.
+
+Det skal opplyses om hvilke forenklinger etter denne forskrifts [kapittel 3](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) som er benyttet.
+
+### § 4-2. Noteopplysninger i samsvar med internasjonale regnskapsstandarder
+
+1. IFRS 1, nr. 24 bokstav a,
+2. IFRS 6,
+3. I tillegg til noteopplysninger etter NRS 18, skal det gis opplysninger etter IFRS 7, med unntak fra nr. 5A, nr. 12 C og D, nr. 13A–13F, nr. 32, nr. 32A, nr. 34–42H. IFRS 7 nr. 5 gjelder ikke for konserninterne kontrakter,
+4. IAS 1, nr. 122–133. Regnskapspliktige morselskap eller datterselskap i konsern som utarbeider konsernregnskap i samsvar med internasjonale regnskapsstandarder etter [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) kan fravike denne bestemmelsen i selskapsregnskapet,
+5. IAS 16, nr. 73 bokstav a, nr. 73 bokstav e romertall IV, og nr. 77 unntatt opplysningene som kreves etter IFRS 13 for regnskapspliktige som benytter verdireguleringsmodellen,
+6. IAS 29,
+7. IAS 33 dersom selskapet er innenfor virkeområdet til denne standard,
+8. IAS 36, nr. 126 bokstav c og d for regnskapspliktige som benytter verdireguleringsmodellen,
+9. IAS 38, nr. 118 bokstav e romertall iii og nr. 124–125 for regnskapspliktige som benytter verdireguleringsmodellen,
+10. IAS 38, nr. 122 bokstav a for regnskapspliktige som har eiendeler definert som immaterielle eiendeler med ubestemt utnyttbar levetid i samsvar med IAS 38 nr. 88,
+11. IAS 41, nr. 46.
+
+*Endret ved forskrift [16 des 2024 nr. 3127](https://lovdata.no/forskrift/2024-12-16-3127).*
+
+### § 4-3. Andre noteopplysninger
+
+For hver klasse av eiendeler og forpliktelser som måles til virkelig verdi skal det opplyses om:
+
+1. Metoder og forutsetninger som er anvendt ved fastsettelsen av virkelig verdi.
+2. Balanseført verdi ved begynnelsen og slutten av perioden.
+3. Akkumulerte gevinster eller tap som følge av endringer i virkelig verdi som inngår i balanseført verdi ved begynnelsen og slutten av perioden.
+4. Gevinster eller tap som følge av endringer i virkelig verdi som er innregnet i resultatregnskapet i perioden, spesifisert per regnskapspost.
+5. Gevinster eller tap som følge av endringer i virkelig verdi som er innregnet i andre inntekter og kostnader i perioden, spesifisert per regnskapspost.
+
+Regnskapspliktige som utarbeider selskaps- eller konsernregnskap etter [§ 1-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) skal gi opplysninger i samsvar med kravene for foretak av allmenn interesse i NRS 13 Usikre forpliktelser og betingede eiendeler.
+
+*Endret ved forskrift [16 des 2024 nr. 3127](https://lovdata.no/forskrift/2024-12-16-3127).*
+
+### § 4-4. Sammenligningstall ved endringer i regnskapsprinsipp og korrigering av feil og førstegangsanvendelse av denne forskrift
+
+Regnskap som utarbeides etter forskriftens [§ 1-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md) kan, uten hensyn til bestemmelser gitt i forskrifter med hjemmel i [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd, avvike fra bestemmelsene i IAS 1 om krav til oppstilling av finansiell stilling ved begynnelsen av den tidligste sammenligningsperioden. Dette gjelder også ved førstegangsanvendelse av denne forskrift.
+
+## Kapittel 5. Ikrafttredelse, oppheving og overgangsregler
+
+### § 5-1. Ikrafttredelse og oppheving
+
+Denne forskriften trer i kraft straks, med virkning for regnskapsår som begynner den 1. januar 2022 eller senere. Fra samme tidspunkt som forskriften her trer i kraft, oppheves [forskrift 21. januar 2008 nr. 57 om forenklet anvendelse av internasjonale regnskapsstandarder](https://lovdata.no/forskrift/2008-01-21-57), med unntak av for tilfeller omfattet av [§ 5-2](for-2022-02-07-182-forskrift-om-forenklet-anvendelse-av-internasjonale-regnskapsstandarder.md).
+
+### § 5-2. Overgangsregler
+
+[Forskrift 21. januar 2008 nr. 57 om forenklet anvendelse av internasjonale regnskapsstandarder](https://lovdata.no/forskrift/2008-01-21-57) gjelder for regnskapsår avsluttet 31. desember 2021 eller tidligere. I slike tilfeller gjelder adgangen i [forskrift 21. januar 2008 nr. 57 § 3-2](https://lovdata.no/forskrift/2008-01-21-57/§3-2) nr. 3 til 7 og [§ 3-3](https://lovdata.no/forskrift/2008-01-21-57/§3-3) til å fravike måle- og innregningsregler i IAS 39 tilsvarende for å fravike IFRS 9. Det er likevel tillatt å anvende forskriften her i stedet for [forskrift 21. januar 2008 nr. 57](https://lovdata.no/forskrift/2008-01-21-57) også for regnskapsår avsluttet 31. desember 2021 eller tidligere. Dersom forskriften her er anvendt som angitt i tredje punktum, skal det fremgå av noteopplysningene.

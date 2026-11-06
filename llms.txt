@@ -1,0 +1,36 @@
+# norwegian-laws-and-regulations-md
+
+> Current Norwegian laws, regulations, and related central instruments from Lovdata, converted to clean Markdown. Bokmål only.
+
+## Start here
+
+- [index.json](https://raw.githubusercontent.com/loltek/norwegian-laws-and-regulations-md/main/index.json): manifest pointing at the two dataset indexes.
+- [lover/index.json](https://raw.githubusercontent.com/loltek/norwegian-laws-and-regulations-md/main/lover/index.json): machine-readable list of all laws, with title, date code, ministry, legal area, path, last change date, and source URL.
+- [forskrifter/index.json](https://raw.githubusercontent.com/loltek/norwegian-laws-and-regulations-md/main/forskrifter/index.json): machine-readable list of all regulations and related documents, with title, date code, category, ministry, legal area, legal basis (`based_on`), path, last change date, and source URL.
+- [lover/dataset.json](https://raw.githubusercontent.com/loltek/norwegian-laws-and-regulations-md/main/lover/dataset.json) and [forskrifter/dataset.json](https://raw.githubusercontent.com/loltek/norwegian-laws-and-regulations-md/main/forskrifter/dataset.json): source URLs, snapshot dates, counts, and excluded languages.
+- [lover/](https://github.com/loltek/norwegian-laws-and-regulations-md/tree/main/lover): one Markdown file per law.
+- [forskrifter/](https://github.com/loltek/norwegian-laws-and-regulations-md/tree/main/forskrifter): one Markdown file per regulation or related document.
+
+## Coverage
+
+- Current Norwegian laws (`gjeldende lover`) from Lovdata's public Lover dataset.
+- Current central regulations (`sf`), delegations (`del`), instructions (`ins`), and parliamentary decisions (`stv`) from Lovdata's public sentrale forskrifter dataset.
+- Bokmål only. Nynorsk and Sami language variants are excluded.
+- Each document includes chapters, sections, paragraphs, lists, tables, figures, formulas, and footnotes where present.
+
+## Usage
+
+- Chunk by `##` for chapters and `###` for sections.
+- Each file starts with a metadata block, including a `Kilde` URL.
+- Links are file-level. Exact section anchors are not implemented; such links point to Lovdata.
+- Use the dataset indexes to select documents before loading full files. `based_on` links a regulation to the statute provisions it implements.
+- Use the dataset files to identify the exact source snapshots.
+- Treat Lovdata as authoritative and verify important details.
+
+## Freshness
+
+The repository is updated daily by two separate GitHub Actions workflows, one per dataset. Check each `dataset.json` for its snapshot date, and the workflow badges in the README for the latest runs.
+
+## Licensing and disclaimer
+
+The converters and tooling are MIT licensed. The legal texts are public legal information sourced from Lovdata. This project is not affiliated with or endorsed by Lovdata. Nothing here is legal advice.

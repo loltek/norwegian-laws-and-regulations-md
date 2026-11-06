@@ -1,0 +1,222 @@
+# Forskrift om desinfeksjon av inntaksvann til og avløpsvann fra akvakulturrelatert virksomhet
+
+- **Korttittel:** Forskrift om desinfeksjon av vann, akvakultur
+- **Datokode:** FOR-1997-02-20-192
+- **DokumentID:** SF/forskrift/1997-02-20-192
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Avd. for havbruk, sjømat og marked
+- **Hjemmel:** lov 19.12.2003 nr. 124/§33; lov 19.12.2003 nr. 124/§36; forskrift 19.12.2003 nr. 1790
+- **Publisert i:** Avd I 1997 496
+- **I kraft fra:** 1997-02-20
+- **Siste endring i kraft:** 2016-10-19
+- **Sist endret ved:** forskrift 19.10.2016 nr. 1217
+- **Endrer:** forskrift 14.06.1991 nr. 494; forskrift 04.02.1991 nr. 76
+- **Gjelder for:** Norge
+- **Siste rettelse:** § 12 nr. 4 (2008-01-21)
+- **Merknad:** Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) 20. februar 1997 med hjemmel i lov av 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 33 første ledd, jf. § 36 andre ledd, jf. delegeringsvedtak av 19. desember 2003 nr. 1790. Endret ved forskrifter 30 aug 2002 nr. 941, 18 des 2002 nr. 1786 (bl.a hjemmel), 9 jan 2004 nr. 98 (bl.a tittel og hjemmel), 6 juli 2007 nr. 951, 27 okt 2007 nr. 1267, 19 okt 2016 nr. 1217.
+- **Kilde:** <https://lovdata.no/forskrift/1997-02-20-192>
+
+## Kapittel I Formål, virkeområde og definisjoner
+
+### § 1. Formål
+
+Formålet med denne forskriften er å forebygge og begrense spredning av smittsomme sjukdommer hos akvatiske organismer gjennom tilfredsstillende desinfeksjon av inntaksvann til, og avløpsvann fra akvakulturrelatert virksomhet.
+
+### § 2. Virkeområde
+
+Denne forskrift gjelder for virksomheter som er pålagt desinfeksjon av inntaksvann, og/eller avløpsvann med hjemmel i annet regelverk eller enkeltvedtak, slik som;
+
+- virksomheter hvor det foregår slakting og/eller tilvirking av fisk, krepsdyr eller muslinger fra oppdrett[1]
+- virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk[2]
+- virksomheter som karantenterer importerte levende akvatiske organismer for oppdrett og/eller videresalg til konsum[3]
+- transportenheter for akvatiske organismer fra oppdrett[4]
+- virksomheter som driver smitteforsøk med akvatiske organismer, og andre virksomheter etter fylkesveterinærens bestemmelser
+
+### § 3. Definisjoner
+
+I denne forskriften menes med:
+
+- *Akvatiske organismer:* alle vannlevende dyr inklusive deres kjønnsprodukter, hvile- og forplantningsstadier, unntatt amfibier, krypdyr, pattedyr og fugler.
+- *Akvakultur:* virksomhet der en driver oppdrett[5] eller på annen måte holder akvatiske organismer i fangenskap.
+- *Eksotisk smittestoff:* et kjent smittestoff som ikke er dokumentert tilstede i Norge.
+- *Eksotiske arter av akvatiske organismer:* akvatiske organismer som ikke er naturlig hjemmehørende i norsk fauna.
+- *Prosedyre:* dokumentert beskrivelse av en prosess for å angi hvem som gjør hva, og i hvilken rekkefølge.
+
+## Kapittel II Krav om desinfeksjon av inntaksvann og avløpsvann
+
+### § 4. Inntaksvann til virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk[6]
+
+Virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk skal normalt ikke ta inn sjøvann, eller ferskvann fra kilde som har oppgang av anadrom fisk. Dersom slikt vann tas inn, skal det desinfiseres slik at faren for inntak av smittestoff til anlegget reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.
+
+Mattilsynet kan bestemme at også andre akvakulturanlegg skal desinfisere inntaksvannet slik at faren for inntak av smittestoff til anlegget reduseres.
+
+*Endret ved [forskrift 9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98).*
+
+### § 5. Avløpsvann fra slakterier/tilvirkningsanlegg[7]
+
+Slakterier/tilvirkningsanlegg m.v. skal desinfisere alt avløpsvann slik at faren for smittespredning reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.
+
+Mattilsynet kan i enkeltsaker og for et begrenset tidsrom godkjenne andre metoder som gir lik eller større trygghet mot smittespredning.
+
+Organisk slam som produseres i forbindelse med behandling av avløpsvann fra slakting/tilvirkning, skal desinfiseres slik at faren for smittespredning reduseres.
+
+*Endret ved [forskrifter 9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98), [27 okt 2007 nr. 1267](https://lovdata.no/forskrift/2007-10-27-1267), [19 okt 2016 nr. 1217](https://lovdata.no/forskrift/2016-10-19-1217).*
+
+### § 6. Avløpsvann fra landbaserte akvakulturanlegg[8]
+
+Landbaserte akvakulturanlegg som har tillatelse til å drive smitteforsøk med akvatiske organismer skal desinfisere avløpsvannet slik at det ikke medfører fare for smittespredning. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.
+
+Mattilsynet kan bestemme at også andre landbaserte akvakulturanlegg skal desinfisere avløpsvannet slik at faren for smittespredning reduseres.
+
+*Endret ved [forskrift 9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98).*
+
+### § 7. Transportvann[9]
+
+Mattilsynet kan bestemme at vann fra transport av akvatiske organismer til/fra akvakulturanlegg skal desinfiseres slik at faren for smittespredning reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og slakteriets/transportenhetens driftsplan forøvrig.
+
+*Endret ved [forskrift 9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98).*
+
+## Kapittel III Godkjenning av metoder og teknisk utstyr
+
+### § 8. Godkjenning av metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann[10]
+
+Veterinærinstituttet kan etter søknad godkjenne metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann som oppfyller de krav som går frem av [§§ 10](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md) og [11 i](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md) denne forskrift.
+
+### § 9. Forbehandling av inntaksvann og avløpsvann
+
+Inntaksvann og avløpsvann skal forfiltreres gjennom en silanordning før videre behandling.
+
+Inntaksvann til akvakulturanlegg skal filtreres gjennom filter/silanordning med poreåpning/spaltebredde ≤ 0,3 mm.
+
+Avløpsvann fra slakterier/tilvirkningsanlegg skal filtreres gjennom silanordning med poreåpning/spaltebredde ≤ 1 mm.
+
+### § 10. Krav til metoder for desinfeksjon av inntaksvann og avløpsvann
+
+1. For inntaksvann til akvakulturanlegg som driver klekking og produksjon av laksefisk og annen ferskvannsfisk gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 3 log10 (99,9%) inaktivering av Aeromonas salmonicida, subsp. salmonicida, og det er vist, eller på grunnlag av dose-responskurver for IPN-virus anses sannsynlig, at infeksiøs lakseanemi virus (ILA-virus) også inaktiveres tilsvarende.
+
+2. For avløpsvann fra slakterier/tilvirkningsanlegg m.v. gjelder [§ 10](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md).1.
+
+3. For avløpsvann fra landbaserte akvakulturanlegg som har tillatelse til å drive forsøk med bakterier/virus/parasitter som er listeført på sjukdomslistas gr. B eller C gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 5 log10 (99,999%) inaktivering av Yersinia ruckeri.
+
+4. For avløpsvann fra landbaserte akvakulturanlegg som har tillatelse til å drive forsøk nevnt i [§ 10](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md).3 og i tillegg én eller flere av følgende kategorier a) smittestoff som er listeført på sjukdomslistas gr. A, b) eksotisk smittestoff, c) eksotiske arter av akvatiske organismer, og/eller d) ukjent smittestoff, gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 5 log10 (99,999%) inaktivering av IPN-virus.
+
+5. Der det settes krav om installasjon av filteranlegg for å holde tilbake Gyrodactylus salaris, er kravet at filteret skal holde tilbake alle livsstadier av G. salaris ved det vanntrykket filteret blir utsatt for under maksimal belastning. Dersom filteranlegget i seg selv ikke er tilstrekkelig til å hindre spredning, må filtreringen kombineres med andre desinfeksjonsmetoder.
+
+6. For avløpsvann fra akvakulturanlegg som karantenterer importerte levende akvatiske organismer for videresalg til konsum gjelder [§ 10](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md).4.
+
+7. For avløpsvann fra akvakulturanlegg som har tillatelse til å drive oppdrett av eksotiske arter av akvatiske organismer gjelder [§ 10](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md).4.
+
+8. For avløpsvann fra transport av akvatiske organismer til/fra akvakulturanlegg, gjelder [§ 10](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md).1.
+
+### § 11. Krav til teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann
+
+Godkjent teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal som et minimum ha følgende sikkerhetsfunksjoner:
+
+- det skal være montert sikringsanordning som sørger for at kravene til desinfeksjonsmidlets/metodens «konsentrasjon» (mg/l, mJ/cm2, °C m.v.) og virketid overholdes
+- det skal være montert sikring mot driftsstans og/eller annen funksjonsfeil
+- det skal være montert registreringsenhet som skal lagre informasjon som gjør det mulig å kontrollere at desinfeksjonsmidlets/metodens «konsentrasjon» og virketid har vært i samsvar med kravene, samt registrere driftsstans/funksjonsfeil.
+
+## Kapittel IV Godkjenningsprosedyre og tilsynsordning
+
+### § 12. Godkjenningsprosedyre
+
+1. Godkjenning av metode etter [§ 10](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md) (metodegodkjenning) gjøres på grunnlag av dokumenterte resultater oppnådd i forsøksskala.
+
+2. Godkjenning av utstyr etter [§ 11](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md) (utstyrsgodkjenning) kan gis for en spesifikk utstyrstype (typegodkjenning), teknisk utstyr som bygges om slik at det blir identisk med typegodkjent utstyr, eller særegent utstyr som er konstruert ut i fra lokale tilpasninger hos den enkelte virksomhet. Godkjenningene kan gjøres tidsbegrensede.
+
+3. Godkjenning av metode eller utstyr kan trekkes tilbake med øyeblikkelig virkning for de tilfeller der systematiske feil/mangler ved utstyret, nye sjukdomssituasjoner/smittestoff eller ny viten om slike forhold tilsier at godkjente metoder eller utstyr ikke lenger oppfyller formålet de er godkjent for.
+
+4. Etter at desinfeksjonsutstyret er installert på den enkelte virksomhet, skal det gis melding om dette til Mattilsynet. Meldingen skal gis på den måten Mattilsynet bestemmer.
+
+5. Godkjenning av metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal for øvrig gjennomføres i samsvar med de til enhver tid gjeldende instrukser utarbeidet av Fiskeridepartementet.
+
+*Endret ved [forskrifter 30 aug 2002 nr. 941](https://lovdata.no/forskrift/2002-08-30-941), [9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98), [6 juli 2007 nr. 951](https://lovdata.no/forskrift/2007-07-06-951).*
+
+### § 13. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.
+
+*Endret ved [forskrifter 30 aug 2002 nr. 941](https://lovdata.no/forskrift/2002-08-30-941), [9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98).*
+
+### § 14. Krav til registreringer og dokumentasjon
+
+Virksomheter som har teknisk utstyr godkjent etter denne forskrift skal ha utarbeidet prosedyrer som beskriver rutiner for:
+
+- oppstart.
+- avstengning.
+- tiltak ved alarm.
+- uttak og analyser av prøver for dokumentasjon av desinfeksjonseffekt.
+- periodisk vedlikehold.
+
+Registreringer og annen dokumentasjon skal minimum inneholde:
+
+- godkjenningspapirer for vanndesinfeksjonsanlegget.
+- utskrift eller data fra registreringsenhet, jfr. [§ 11](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md), siste setning.
+- resultater fra analyser av prøver for dokumentasjon av desinfeksjonseffekt.
+- journaler/rapporter fra virksomhetens prosedyrer for egenkontroll.
+
+Dokumentasjon og registreringer skal oppbevares ved virksomheten i minimum 5 år, og være tilgjengelig for tilsynsmyndighet.
+
+*Endret ved [forskrift 6 juli 2007 nr. 951](https://lovdata.no/forskrift/2007-07-06-951).*
+
+## Kapittel V Avsluttende bestemmelser
+
+### § 15. Gebyr
+
+For behandling av søknader om godkjenning etter [§ 8](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md) i denne forskrift skal det betales et gebyr til det offentlige på 25.000 kroner.
+
+For behandling av søknader om re-godkjenning etter [§ 12](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md) nr. 2 i denne forskriften skal det betales et gebyr til det offentlige på 5.000 kroner.
+
+Gebyret skal være innbetalt før søknaden tas under behandling. Bevis for at gebyret er innbetalt skal vedlegges søknaden. Gebyret blir ikke refundert ved et eventuelt avslag på søknaden.
+
+Når særlige grunner foreligger kan Fiskeridepartementet eller den departementet bemyndiger helt eller delvis frita for gebyr etter denne paragraf.
+
+Øvrige kostnader forbundet med søknader er det offentlige uvedkommende.
+
+*Endret ved [forskrifter 18 des 2002 nr. 1786](https://lovdata.no/forskrift/2002-12-18-1786) (i kraft 1 jan 2003), [9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98).*
+
+### § 16. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriftens [kapittel II](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md) samt [§ 9](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md) og [§ 14](for-1997-02-20-192-forskrift-om-desinfeksjon-av-vann-akvakultur.md), forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+*Endret ved [forskrift 9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98) (tidligere § 17).*
+
+### § 17. Klagerett
+
+Vedtak fattet av Veterinærinstituttet kan påklages til Fiskeridepartementet.
+
+*Endret ved [forskrifter 18 des 2002 nr. 1786](https://lovdata.no/forskrift/2002-12-18-1786) (i kraft 1 jan 2003), [9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98) (tidligere § 18).*
+
+### § 18. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrifter 18 des 2002 nr. 1786](https://lovdata.no/forskrift/2002-12-18-1786) (i kraft 1 jan 2003), [9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98) (tidligere § 19).*
+
+### § 19. Ikrafttreden
+
+Denne forskrift trer i kraft straks. Fra samme tid oppheves [forskrift av 14. juni 1991 nr. 494](https://lovdata.no/forskrift/1991-06-14-494) om godkjenning av metoder og utstyr for behandling av død fisk, fiskeavfall og avløp m.v. mot smittefare, og [forskrift av 4. februar 1991 nr. 76](https://lovdata.no/forskrift/1991-02-04-76) om desinfeksjon av inntaksvann til oppdrettsanlegg for akvatiske organismer med tilhørende instruks.
+
+*Endret ved [forskrift 9 jan 2004 nr. 98](https://lovdata.no/forskrift/2004-01-09-98) (tidligere § 20).*
+
+## Fotnoter
+
+**1.** Jfr. slakteriforskriften.
+
+**2.** Jfr. sjukdomsforskrifter for akvatiske organismer.
+
+**3.** Jfr. forskrift om innførsel og utførsel av akvatiske organismer, produkter og smitteførende gjenstander.
+
+**4.** Jfr. forskrift om transport av akvatiske organismer.
+
+**5.** Jfr. [oppdrettslovens § 2](https://lovdata.no/lov/1985-06-14-68/§2).
+
+**6.** Jfr. [fiskesjukdomslovens § 7](https://lovdata.no/lov/1968-12-06-2/§7) annet ledd.
+
+**7.** Jf. [forskrift 14. september 2016 nr. 1064](for-2016-09-14-1064-animaliebiproduktforskriften.md) om animalske biprodukter som ikke er beregnet på konsum.
+
+**8.** Jfr. [fiskesjukdomslovens § 7](https://lovdata.no/lov/1968-12-06-2/§7) annet ledd.
+
+**9.** Jf. forskrift om dyrehelsemessige vilkår ved omsetning og innførsel av akvakulturdyr og akvakulturprodukter.
+
+**10.** Jfr. likevel forurensingslovens bestemmelser om avfall og avløp.

@@ -1,0 +1,21 @@
+# Delegering av myndighet etter politiloven
+
+- **Korttittel:** Deleg. av myndighet etter politiloven
+- **Datokode:** FOR-2017-09-14-2483
+- **DokumentID:** DEL/forskrift/2017-09-14-2483
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Politiavd.
+- **Hjemmel:** lov 04.08.1995 nr. 53/§17; forskrift 01.09.2017 nr. 1350
+- **Kunngjort:** 2018-05-07 13:45
+- **I kraft fra:** 2017-09-14
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Justis- og beredskapsdepartementet 14. september 2017 med hjemmel i lov 4. august 1995 nr. 53 om politiet (politiloven) § 17, jf. delegeringsvedtak 1. september 2017 nr. 1350.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/2017-09-14-2483>
+
+Etter [politiloven § 17](../lover/lov-1995-08-04-53-politiloven.md) er den enkelte lensmann eller politistasjonssjef namsmann i sitt distrikt med mindre oppgaven ivaretas av en namsfogd. Ved [lov 11. mai 2017 nr. 26](https://lovdata.no/lov/2017-05-11-26) ble det åpnet opp for at Kongen kan bestemme at en lensmann, politistasjonssjef eller namsfogd kan ivareta oppgaven som namsmann for flere lensmanns- eller politistasjonsdistrikter i samme politidistrikt. Kongens myndighet til å fastsette inndelingen i namsdistrikter er delegert til Justis- og beredskapsdepartementet ved kongelig [resolusjon 1. september 2017 nr. 1350](https://lovdata.no/forskrift/2017-09-01-1350).
+
+I [Prop.33 L (2016–2017)](https://lovdata.no/forarbeid/prop-33-l-201617) om Endringer i rettergangslovgivningen mv. (organiseringen av den sivile rettspleien på grunnplanet) er det uttalt at myndigheten lagt til Kongen kan delegeres til Justis- og beredskapsdepartementet, som igjen vil kunne delegere myndigheten til Politidirektoratet. Myndigheten delegeres herved videre til Politidirektoratet i tråd med dette. Politidirektoratet kan delegere myndigheten videre til politimestrene.
+
+Organisering av namsoppgavene i større distrikter er ledd i politireformen og etablering av mer hensiktsmessige driftsenheter for de sivile rettspleieoppgavene i politiet. Større namsmannsdistrikter innenfor det enkelte politidistrikt vil sikre bredere kompetanse og mindre sårbarhet ved den enkelte enhet. Det vil også bidra til å kunne heve kvaliteten på arbeidet som utføres, fremme rettssikkerheten og en mer ensartet praksis. Det uttales i [Innst.200 L (2016–2017)](https://lovdata.no/forarbeid/inns-200-l-201617) at det er viktig med ensartet og oversiktlig organisering av namsmannsfunksjonen, med kompetente og effektive enheter.
+
+Beslutninger om inndeling i større namsmannsdistrikter må vurderes i henhold til lokale forhold. Departementet viser her til at kommunene har en viktig rolle i gjennomføringen av de de sivile rettspleieoppgavene og at et godt samarbeid mellom kommunene og politiet er sentralt. Det uttales i [Prop.33 L (2016–2017)](https://lovdata.no/forarbeid/prop-33-l-201617) om Endringer i rettergangslovgivningen at ved eventuelle strukturendringer må berørte kommuner involveres i prosessen.

@@ -1,0 +1,65 @@
+# Lov om forskningsavgift på landbruksprodukter
+
+- **Korttittel:** Lov om forskningsavgift i landbruket
+- **Datokode:** LOV-1970-06-26-74
+- **DokumentID:** NL/lov/1970-06-26-74
+- **Departement:** Landbruks- og matdepartementet
+- **I kraft fra:** 1971-01-01
+- **Siste endring i kraft:** 2015-10-01
+- **Sist endret ved:** lov 19.06.2015 nr. 65 fra 2015-10-01
+- **Rettsområde:** Landbruk, jakt og skogbruk > Landbruk. Dyrehold; Skatte- og avgiftsrett; Skoler, universiteter og forskning > Forskning
+- **Siste rettelse:** 2021-09-27 (faglige fotnoter fjernet)
+- **Merknad:** Jf. tidligere lov 3 juli 1953 nr. 1. Lovens tittel endret ved lov 15 des 2000 nr. 101 (ikr. 1 jan 2001 iflg. res. 15 des 2000 nr. 1261).
+- **Kilde:** <https://lovdata.no/lov/1970-06-26-74>
+
+## § 1.
+
+Formålet med denne lov er ved avgift å sikre økonomisk grunnlag for forskning knyttet til landbruksprodukter som nyttes til ervervsmessig framstilling av nærings- og nytelsesmidler.
+
+*Endret ved [lov 15 des 2000 nr. 101](https://lovdata.no/lov/2000-12-15-101) (ikr. 1 jan 2001 iflg. [res. 15 des 2000 nr. 1261](https://lovdata.no/forskrift/2000-12-15-1261)).*
+
+## § 2.
+
+Avgiften pålegges forbruk av norskproduserte og importerte landbruksprodukter, inklusive fôrkorn, til enhver ervervsmessig bearbeiding eller framstilling av nærings- og nytelsesmidler når produktene kjøpes inn fra produsent, produsentsammenslutning, grossist eller importør eller leveres fra foredlingsbedriftens egen produksjon. Importerte ferdigvarer og halvfabrikata framstilt av forannevnte produkter er også avgiftspliktige.
+
+Departementet avgjør med bindende virkning i tvilstilfelle, hvorvidt en vare går inn under loven.
+
+*Endret ved [lov 15 des 2000 nr. 101](https://lovdata.no/lov/2000-12-15-101) (ikr. 1 jan 2001 iflg. [res. 15 des 2000 nr. 1261](https://lovdata.no/forskrift/2000-12-15-1261)).*
+
+## § 3. (Opphevet)
+
+*Opphevet ved [lov 15 des 2000 nr. 101](https://lovdata.no/lov/2000-12-15-101) (ikr. 1 jan 2001 iflg. [res. 15 des 2000 nr. 1261](https://lovdata.no/forskrift/2000-12-15-1261)).*
+
+## § 4.
+
+Avgiften går til et fond. Fondet skal ha et styre på 7 medlemmer med varamedlemmer, som oppnevnes av departementet. Departementet fastsetter nærmere regler for hvordan fondet skal styres.
+
+*Endret ved [lov 15 des 2000 nr. 101](https://lovdata.no/lov/2000-12-15-101) (ikr. 1 jan 2001 iflg. [res. 15 des 2000 nr. 1261](https://lovdata.no/forskrift/2000-12-15-1261)).*
+
+## § 5.
+
+Departementet gir nærmere regler om avgiftspliktens inntreden, avgiftens størrelse, avgiftens beregning og dens oppkreving, herunder om hvem som plikter å svare avgift, om plikt til å tilbakeholde avgiften i oppgjør med den avgiftspliktige, samt om plikt til å betale renter av avgiftsbeløp som ikke betales i rett tid. Departementet kan videre gi forskrifter om at grunnlaget for avgiftsberegningen skal kunne fastsettes skjønnsmessig når en ikke etter de oppgaver og opplysninger som foreligger, kan fastsette hva avgiftsbeløpet skal være. Departementet kan også gi bestemmelser om fritakelse for avgift for visse forbrukere eller visse varegrupper og frita for avgift i det enkelte tilfelle.
+
+Departementet bestemmer hvem som skal oppkreve avgiften og føre kontroll med oppkrevingen. Den som overdras slik myndighet skal ha rett til hos enhver som framstiller, lagrer eller transporterer varer som går inn under denne lov, å foreta bokettersyn og kreve alle opplysninger som er nødvendige for gjennomføring av kontrollen, samt ha adgang til ethvert sted hvor slike varer framstilles eller lagres.
+
+Avgiften er tvangsgrunnlag for utlegg.
+
+*Endret ved [lover 26 juni 1992 nr. 86](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), [15 des 2000 nr. 101](https://lovdata.no/lov/2000-12-15-101) (ikr. 1 jan 2001 iflg. [res. 15 des 2000 nr. 1261](https://lovdata.no/forskrift/2000-12-15-1261)).*
+
+## § 6.
+
+Den som forsettlig eller uaktsomt overtrer denne lov eller forskrifter gitt i medhold av loven, straffes med bøter eller fengsel inntil 3 måneder.
+
+*Endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+## § 7.
+
+1. Loven trer i kraft fra den tid Kongen bestemmer.[1]
+
+– – –
+
+*Endret ved lov 18 juni 1971 nr. 86.*
+
+## Fotnoter
+
+**1.** Fra 1 jan 1971 iflg. res. 18 des 1970.

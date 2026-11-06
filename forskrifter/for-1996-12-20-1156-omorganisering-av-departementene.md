@@ -1,0 +1,221 @@
+# Omorganisering av departementsstrukturen fra 1. januar 1997.
+
+- **Korttittel:** Omorganisering av departementene – 1997
+- **Datokode:** FOR-1996-12-20-1156
+- **DokumentID:** DEL/forskrift/1996-12-20-1156
+- **Departement:** Statsministerens kontor
+- **Etat:** Adm.avd.
+- **Hjemmel:** lov/1814-05-17/§12
+- **Publisert i:** Avd I 1996 1917
+- **I kraft fra:** 1997-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt ved kgl.res. 20. desember 1996. Fremmet av Statsministerens kontor.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/1996-12-20-1156>
+
+## 1. Nytt Planleggings- og samordningsdepartement (PSD)
+
+Planleggings- og samordningsdepartementet (PSD) overtar alle arbeidsoppgavene til det nåværende Administrasjonsdepartementet.
+
+Viktige ansvarsområder for nåværende Administrasjonsdepartementet er:
+
+- Generelle forvaltningspolitiske spørsmål, herunder tiltak for å sikre effektiv og formålstjenlig drift av statlige virksomheter
+- Utvikling av intern statlig tjenesteyting og fellestjenester
+- Statlig informasjonspolitikk, statlig innkjøpsstrategi og statlig bygge- og eiendomsforvaltning
+- Statlig arbeidsgiverpolitikk samt inntektspolitikk og levekårsspørsmål
+- Konkurranse- og prispolitikken
+- Etatstyringsansvaret for fylkesmannsembetene, Statens forvaltningstjeneste, Statens informasjonstjeneste, Statens pensjonskasse, Konkurransetilsynet, Statskonsult og Statsbygg.
+
+I tillegg til dette vil det nye departementet bli gitt arbeidsoppgaver i tilknytning til nasjonal planlegging og samordningsspørsmål, herunder samordning av regjeringens IT-politikk.
+
+Planleggings- og samordningsdepartementet organiseres ved opprettelsen i 5 avdelinger:
+
+- Administrasjonsavdelingen
+- Inntektsavdelingen
+- Arbeidsgiveravdelingen
+- Forvaltningspolitisk avdeling
+- Konkurransepolitisk avdeling
+
+I tillegg vil det bli opprettet en ny Plan- og samordningsavdeling.
+
+## 2. Nytt Nærings- og handelsdepartement (NHD)
+
+Nærings- og handelsdepartementet (NHD) overtar de arbeidsområdene fra det nåværende Nærings- og energidepartementet som gjelder næringsvirksomhet. Videre overføres visse deler av ansvarsområdene til den tidligere statsråden for handel og skipsfart, dvs handels-, internasjonaliserings- og skipsfartssakene i Utenriksdepartementet, til Nærings- og handelsdepartementet.
+
+### 2.1 Fordeling av arbeidsområdene mellom Utenriksdepartementet og Nærings- og handelsdepartementet
+
+Utenriksdepartementet har det overordnede og koordinerende ansvar for en enhetlig utenrikspolitikk. I tillegg skal Utenriksdepartementet som fagdepartement fortsatt ha ansvaret for utenrikspolitiske og bistandspolitiske saker, samt ansvaret for multilaterale handelspolitiske spørsmål. Ut fra dette er ansvarsfordelingen mellom utenriksministeren og næringsministeren fastsatt som følger:
+
+Utenriksministeren har fortsatt ansvaret for utenrikssaker og næringsministeren gis ansvaret for næringslivssamarbeid, eksportfremme og skipsfartssaker, herunder Norges Eksportråd, Garantiinstituttet for eksportkreditt, Sjøfartsdirektoratet og Skipsregistrene.
+
+Ansvaret for handelspolitiske saker deles funksjonelt og globalt slik at:
+
+- Utenriksministeren gis ansvaret for det handelspolitiske regelverk (WTO, OECD, EU/EØS, EFTA) og forhandlinger og drøftelser av dette, multilateralt og bilateralt.
+- Nærings- og handelsministeren gis ansvaret for tilrettelegging og utvikling – bilateralt og regionalt – av næringslivssamarbeid og eksportfremme, inklusive avtaler, planer, kommisjoner og delegasjonsbesøk.
+
+Ansvaret for virkemiddelapparatet for Øst-Europa, herunder samarbeidsprogrammet, deles slik at næringsministeren gis ansvaret for næringsspørsmålene og utenriksministeren for de øvrige delene. Utenriksministeren gis videre ansvaret for eksport- og importkontrollspørsmål.
+
+Når det gjelder den ansvarsfordelingen mellom nærings- og handelsministeren og bistandsministeren, har nærings- og handelsministeren fortsatt ansvaret for arbeidet med garantier ved investeringer i og eksport til utviklingsland, mens bistandsministeren gis ansvaret for arbeidet med gjeldsletteavtaler, herunder Parisklubben. For øvrig er det ikke foreslått endringer i ansvarsområdet til bistandsministeren.
+
+### 2.2 Nærmere beskrivelse av Nærings- og handelsdepartementets arbeidsområde
+
+Viktige ansvarsområder for Nærings- og handelsdepartementet vil være:
+
+- næringsjuridiske spørsmål, blant annet ervervssaker og andre saker vedrørende næringslovgivningen og sjøfart
+- industri-, forsynings- og skipsfartsberedskap
+- nærings- og handelspolitiske spørsmål, bl.a. utrednings- og modellarbeid, struktur- og bransjeanalyser og analyser og vurderinger av miljøtiltak
+- spørsmål om næringslivsfinansiering, inkludert Statens nærings- og distrikstutviklingsfond, Norsk Vekst, Eksportfinans og GIEK
+- garantier ved investeringer i og eksport til utviklingsland
+- næringspolitiske saker i forhold til EU, EØS/ESA, WTO og OECD, inkludert spørsmål vedrørende offentlig støtte, standardisering og gjensidig godkjenning
+- bilateralt næringssamarbeid med andre land, herunder avtaler for fremme av økonomisk samarbeid, kommisjoner og besøksutveksling
+- generelle spørsmål overfor små og mellomstore bedrifter, og ellers spørsmål og saker overfor enkeltbransjer, spesielt reiseliv, varehandel, bygg- og anlegg, skipsfart og skipsbyggingsindustrien
+- FoU-spørsmål knyttet til næringsområdet, inkludert bevilgninger til Norges forskningsråd, skipsforskning, Norsk Romsenter og offentlige forsknings- og utviklingskontrakter
+- skipsfartspolitiske spørsmål, herunder Nortraship, Sjømannsfond og Rådet for arbeidstilsynet på skip
+- offentlige innkjøp, inkludert oppfølgingen av EØS-samarbeidet og WTO-avtalen på dette felt
+- veiledningstjenesten, inkludert Teknologisk Institutt og Veiledningsinstituttet i Nord-Norge
+- de internasjonale aspektene ved den næringspolitiske strategi, eksportfremmende tiltak, bl.a. bevilgninger til Norges eksportråd, NORTRA og Norges Industriattachéer (NIA)
+- næringsutviklingstiltak overfor utsatte regioner nasjonalt og Øst-Europa (Baltikum og Nordvest-Russland)
+- etatsstyreransvar for Patentstyret, Justervesenet, Statens veiledningskontor for oppfinnere, Norges geologiske undersøkelse, Bergvesenet, Bergmesteren for Svalbard, Sjøfartsdirektoratet med Skipskontrollen og Skipsregistrene
+- oppfølgingen av statens eierinteresser i aksjeselskaper som er underlagt departementet.
+
+### 2.3 Organisasjon
+
+#### 2.3.1 Organisatoriske endringer mellom Utenriksdepartementet og det nye Nærings- og handelsdepartementet
+
+- Skipsfartsseksjonen, som har ansvaret for skipsfartspolitiske og skipsfartsjuridiske spørsmål, overføres til Nærings- og handelsdepartementet i sin helhet
+- Seksjon for internasjonalisering, som har ansvaret for eksportpolitikken, næringslivsrettede tiltak, internasjonalisering av næringslivet m.v. overføres til Nærings- og handelsdepartementet. Som følge av Utenriksdepartementets samordningsansvar (jf pkt 2.1 ovenfor) skal Utenriksdepartementet fortsatt lede Samordningsutvalget for det eksportfremmende arbeid med utenriksstasjonene. Det skal opprettes et felles sekretariat for Samordningsutvalget mellom Utenriksdepartementet og Nærings- og handelsdepartementet
+- Seksjon for etatstyring og finansielle virkemidler, som har hovedansvaret for spørsmål knyttet til finansiering av og garantier for eksport og etatsstyringsansvar på skipsfartsområdet, overføres til Nærings- og handelsdepartementet
+- Seksjon for eksport- og importkontroll, som har ansvaret for bl.a. eksportkontroll av strategiske varer, våpen og militært utstyr, forblir i Utenriksdepartementet
+- Når det gjelder Seksjon for Øst- og Sentral-Europa, vil seksjonens næringslivsrettede og eksportfremmende arbeidsoppgaver bli overført til Nærings- og handelsdepartementet, mens ansvaret for de øvrige sakene fortsatt vil ligge i Utenriksdepartementet
+
+#### 2.3.2 Organisatorisk deling av det tidligere Nærings- og energidepartementet
+
+Næringsavdelingen, Forskningsavdelingen og deler av Administrativ og juridisk avdeling, bl.a. Juridisk seksjon, Statsselskapsseksjonen og Seksjon for Industri- og forsyningsberedskap overføres fra Nærings- og energidepartementet til Nærings- og handelsdepartementet.
+
+#### 2.3.3 Ny intern organisering
+
+Nærings- og handelsdepartementet organiseres ved opprettelsen i 4 avdelinger:
+
+- Administrativ- og juridisk avdeling
+- Næringsavdelingen
+- Forskningsavdelingen
+- Avdeling for internasjonalisering og skipsfart
+
+## 3. Nytt Olje- og energidepartement (OED)
+
+Olje- og energidepartementet overtar de arbeidsområdene fra Nærings- og energidepartementet som gjelder olje-, gass- og energivirksomhet.
+
+### 3.1 Nærmere beskrivelse av Olje- og energidepartementets arbeidsområde
+
+Viktige ansvarsområder for det nye departementet vil være:
+
+- energi-, vassdrags- og petroleumslovgivningen, økonomiske og organisatoriske spørsmål knyttet til produksjon, omsetning og overføring av kraft
+- energiøkonomisering, energieffektivisering, fornybare energikilder og miljøspørsmål innenfor petroleums- og energisektoren
+- konsesjonsbehandling, vannkraftutbygginger, vassdragsreguleringer og andre tiltak i vassdrag, kraftledninger og andre elektriske anlegg
+- konsesjonsbehandling, tildeling av utvinningstillatelser, utbygging, drift av olje- og gassfelt, transportspørsmål, markedsspørsmål og disponeringsspørsmål
+- norsk industris engasjement i petroleumsvirksomheten, herunder internasjonalisering av industri knyttet til olje- og gassvirksomheten
+- samfunnsøkonomiske spørsmål knyttet til energisektoren, kraftsystemet og petroleumssektoren
+- energispørsmål og koordinering av internasjonalt energisamarbeid innenfor Norden, IEA, ECE, OPEC, NATO, EU og EØS, annet multi- og bilateralt samarbeid, samt traktatsforhandlinger m.m.
+- forskning innenfor energi- og petroleumssektoren
+- etatsstyringsansvar for Oljedirektoratet og Norges vassdrags- og energiverk
+- eieroppfølging av Statoil, Statens direkte økonomiske engasjement i petroleumsvirksomheten, Statnett SF og Statkraft SF
+- olje- og kraftforsyningsberedskap.
+
+### 3.2 Organisasjon
+
+#### 3.2.1 Organisatorisk deling av det tidligere Nærings- og energidepartementet
+
+Energi- og vassdragsavdelingen, Olje- og gassavdelingen og deler av Administrativ og Juridisk avdeling overføres fra Nærings- og energidepartementet.
+
+#### 3.2.2 Ny intern organisering
+
+Olje- og energidepartementet organiseres ved opprettelsen i 3 avdelinger:
+
+- Administrasjons- og økonomiavdelingen.
+- Energi- og vassdragsavdelingen.
+- Olje- og gassavdelingen.
+
+Energi- og vassdragsavdelingen vil ha ansvaret for arbeidet med landbasert energiproduksjon, vassdragsforvaltning og energibruk. Olje- og gassavdelingen vil ha ansvaret for saker som angår olje- og gassvirksomheten på norsk kontinentalsokkel.
+
+## 4. Personale
+
+Det er lagt til grunn at personale som er ansatt i stillinger som skal overføres skal tjenestegjøre i de nye departementene uten ny tilsetting eller utnevning.
+
+## 5. Lover, forskrifter, fullmakter, råd og utvalg m.v.
+
+Hvilke lover som de nye departementene overtar ansvaret for framgår av et eget vedlegg til denne resolusjonen. De nye departementene delegeres dessuten fullmakt til å foreta de endringer i forskrifter, instrukser og bestemmelser som er en nødvendig følge av omorganiseringen.
+
+## Vedlegg
+
+### Lover som overføres fra Nærings- og energidepartementet til Nærings- og handelsdepartementet:
+
+- [Lov av 2. juli 1910 nr. 7](https://lovdata.no/lov/1910-07-02-7) om Styret for det industrielle Retsvern.
+- [Lov av 3. juli 1914 nr. 5](https://lovdata.no/lov/1914-07-03-5) om erverv av kalkstensforekomster.
+- [Lov av 14. desember 1917 nr. 16](../lover/lov-1917-12-14-16-vannfallrettighetsloven.md) om erverv av vannfall, bergverk og annen fast eiendom m.v. Kapittel II og V.
+- [Kgl.res. av 7. august 1925 nr. 3767](for-1925-08-07-3767-bergverksordning-for-svalbard.md) om bergverksordning for Spitsbergen (Svalbard) fremlagt av den norske regjering.
+- [Lov av 22. mars 1946 nr. 4](https://lovdata.no/lov/1946-03-22-4) om fiendegods o.a.
+- [Lov av 31. oktober 1946 nr. 2](https://lovdata.no/lov/1946-10-31-2) om mål og vekt.
+- [Lov av 3. desember 1948 nr. 8](https://lovdata.no/lov/1948-12-03-8) om statens varekrigsforsikring.
+- [Lov av 17. juni 1949 nr. 3](https://lovdata.no/lov/1949-06-17-3) om erverv av kvartsforekomster.
+- [Lov av 21. mars 1952 nr. 1](https://lovdata.no/lov/1952-03-21-1) om avståing av grunn m.v. til drift av ikke mutbare mineralske forekomster.
+- [Lov av 28. juni 1952 nr. 3](https://lovdata.no/lov/1952-06-28-3) om avgift på bygge- og entreprenørvirksomhet til dekning av utgifter til byggeforskning og geoteknisk forskning.
+- [Lov av 24. oktober 1952](https://lovdata.no/lov/1952-10-24) om godkjenning av entreprenører som driv med husbygging eller anna byggearbeid.
+- [Lov av 14. desember 1956 nr. 7](https://lovdata.no/lov/1956-12-14-7) om forsynings- og beredskapstiltak.
+- [Lov av 21. juni 1963 nr. 12](../lover/lov-1963-06-21-12-lov-om-andre-undersjoiske-naturforekomster.md) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster.
+- [Lov av 13. juni 1969 nr. 38](https://lovdata.no/lov/1969-06-13-38) om oppskyting av gjenstander fra norsk territorium m.m. ut i verdensrommet.
+- [Lov av 19. juni 1969 nr. 65](https://lovdata.no/lov/1969-06-19-65) om endringer i lov om ervervelse av vannfall, bergverk og annen fast eiendom av 14. desember 1917, lov om vassdragsreguleringer av 14. desember 1917, lov om ervervelse av kalkstensforekomster av 3. juli 1914 og lov om erverv av kvartsforekomster av 17. juni 1949 m.v., og til lov om bygging og drift av elektriske anlegg. Overgangsbestemmelser, for så vidt gjelder lov 14. desember 1917 nr. 16 kap II og V.
+- [Lov av 19. juni 1970 nr. 59](https://lovdata.no/lov/1970-06-19-59) om handverksnæring.
+- [Lov av 30. juni 1972 nr. 70](https://lovdata.no/lov/1972-06-30-70) om bergverk.
+- [Lov av 4. juni 1976 nr. 59](https://lovdata.no/lov/1976-06-04-59) om aksjeselskaper. Dispensasjonshjemlene i [§§ 2-1](https://lovdata.no/lov/1976-06-04-59/§2-1), [8-5](https://lovdata.no/lov/1976-06-04-59/§8-5), [9-3](https://lovdata.no/lov/1976-06-04-59/§9-3) og [12-10](https://lovdata.no/lov/1976-06-04-59/§12-10).
+- [Lov av 6. juni 1980 nr. 21](https://lovdata.no/lov/1980-06-06-21) om handelsvirksomhet.
+- [Lov av 3. juni 1983 nr. 52](https://lovdata.no/lov/1983-06-03-52) om overnattings- og serveringssteder.
+- [Lov av 21. juni 1985 nr. 78](https://lovdata.no/lov/1985-06-21-78) om registrering av foretak.
+- [Lov av 21. juni 1985 nr. 79](../lover/lov-1985-06-21-79-foretaksnavneloven.md) om enerett til firma og andre forretningskjennetegn.
+- [Lov av 21. juni 1985 nr. 80](../lover/lov-1985-06-21-80-prokuraloven.md) om prokura.
+- [Lov av 20. juni 1986 nr. 35](../lover/lov-1986-06-20-35-mesterbrevloven.md) om mesterbrev i håndverk og annen næring.
+- [Lov av 23. desember 1988 nr. 107](https://lovdata.no/lov/1988-12-23-107) om endringer i [lov av 14. desember 1917 nr. 16](../lover/lov-1917-12-14-16-vannfallrettighetsloven.md) om erverv av vannfall, bergverk, annen fast eigedom m.v.
+- [Lov av 3. juli 1992 nr. 97](https://lovdata.no/lov/1992-07-03-97) om Statens nærings- og distriktsutviklingsfond.
+- [Lov av 27. november 1992 nr. 116](https://lovdata.no/lov/1992-11-27-116) om offentlige anskaffelser m.v.
+- [Lov av 27. november 1992 nr. 117](https://lovdata.no/lov/1992-11-27-117) om offentlig støtte.
+- [Lov av 16. juni 1994 nr. 20](https://lovdata.no/lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgave å gjennomføre samsvarsvurderingar etter EØS-avtalen o.a. (lov om tekniske kontrollorgan).
+- [Lov av 23. desember 1994 nr. 79](https://lovdata.no/lov/1994-12-23-79) om erverv av næringsvirksomhet.
+- [Lov av 22. desember 1995 nr. 84](https://lovdata.no/lov/1995-12-22-84) om endringer i pakkereiseloven.
+- [Lov av 22. desember 1995 nr. 85](../lover/lov-1995-12-22-85-eofg-loven.md) om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens vedlegg XXII nr. 10 (rådsforordning [(EØF) nr. 2137/85](https://lovdata.no/eu/31985r2137)) (EØFG-loven).
+- [Lov av 19. juli 1996 nr. 59](https://lovdata.no/lov/1996-07-19-59) om endringer i [lov av 27. november 1992 nr. 117](https://lovdata.no/lov/1992-11-27-117) om offentlig støtte.
+
+### Oversikt over lover under Utenriksdepartementet, ved Skipsfartsavdelingen, som overføres til det nye Nærings- og handelsdepartementet:
+
+- [Lov av 9. juni 1903 nr. 7](https://lovdata.no/lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed.
+- [Lov av 16. juli 1936 nr. 2](https://lovdata.no/lov/1936-07-16-2) om pliktmessig avhold for personer i visse stillinger fra nytelse av alkohol eller annet berusende eller bedøvende middel.
+- [Lov av 3. desember 1948 nr. 3](https://lovdata.no/lov/1948-12-03-3) om registrering og merking av småfartøyer.
+- [Lov av 3. desember 1948 nr. 8](https://lovdata.no/lov/1948-12-03-8) om Statens Varekrigsforsikring.
+- [Lov av 19. juni 1964 nr. 20](https://lovdata.no/lov/1964-06-19-20) om måling av fartøyer.
+- [Lov av 17. juni 1966 nr. 2](https://lovdata.no/lov/1966-06-17-2) om luftputefartøyer.
+- [Lov av 16. juni 1967 nr. 3](../lover/lov-1967-06-16-3-lov-om-forbud-mot-at-redere-gir-opplysninger.md) om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlandske myndigheter.
+- [Lov av 7. juli 1967 nr. 1](../lover/lov-1967-07-07-1-lov-om-diskriminering-i-internasj-skipsfart.md) om tiltak mot diskriminering i internasjonal skipsfart.
+- [Lov av 18. juni 1971 nr. 90](https://lovdata.no/lov/1971-06-18-90) om mønstring av arbeidstakere på skip m.v.
+- [Lov av 30. mai 1975 nr. 18](https://lovdata.no/lov/1975-05-30-18) (Sjømannslov).
+- [Lov av 3. juni 1977 nr. 50](https://lovdata.no/lov/1977-06-03-50) om arbeidstiden på skip.
+- [Lov av 5. juni 1981 nr. 42](https://lovdata.no/lov/1981-06-05-42) om sertifikatpliktige stillinger på norske skip, borefartøyer og andre flyttbare innretninger i sjøen.
+- [Lov av 17. desember 1982 nr. 84](../lover/lov-1982-12-17-84-containerloven.md) om sikre containere.
+- [Lov av 8. juni 1984 nr. 55](../lover/lov-1984-06-08-55-linjekonferanseloven.md) om linjekonferanser m.v.
+- [Lov av 12. juni 1987 nr. 48](../lover/lov-1987-06-12-48-nis-loven.md) om norsk internasjonalt skipsregister.
+- [Lov av 4. desember 1992 nr. 121](../lover/lov-1992-12-04-121-lov-om-sjotransporttjenester.md) om fri utveksling av tjenesteytelser innen sjøtransport mellom stater tilsluttet Det europeiske økonomiske samarbeidsområde og mellom stater tilsluttet Det økonomiske samarbeidsområde og tredjeland, og om endring i visse andre lover som følge av avtalen om Det økonomiske samarbeidsområdet.
+- [Lov av 24. juni 1994 nr. 39](../lover/lov-1994-06-24-39-sjoloven.md) om sjøfarten.
+- [Lov av 27. april 1995 nr. 16](https://lovdata.no/lov/1995-04-27-16) om trygg bruk av fritidsfartøyer.
+
+### Lover som overføres fra Nærings- og energidepartementet til Olje- og energidepartementet pr. 1. januar 1997:
+
+- [Lov av 14. desember 1917 nr. 16](../lover/lov-1917-12-14-16-vannfallrettighetsloven.md) om erverv av vannfall, bergverk og annen fast eiendom m.v. Kapittel I og V.
+- [Lov av 14. desember 1917 nr. 17](../lover/lov-1917-12-14-17-vassdragsreguleringsloven.md) om vassdragsreguleringer.
+- [Lov av 12. juni 1931 nr. 1](../lover/lov-1931-06-12-1-vassdragslov-i-h-t-konvensjon-norge-sverige.md) i henhold til konvensjonen mellom Norge og Sverige om visse spørsmål vedrørende vassdragsretten av 11. mai 1929.
+- [Lov av 15. mars 1940 nr. 3](../lover/lov-1940-03-15-3-vassdragsloven.md) om vassdragene.
+- [Lov av 31. mars 1949 nr. 3](https://lovdata.no/lov/1949-03-31-3) om bygging og sikring av drivstoffanlegg.
+- [Lov av 27. juni 1958 nr. 1](https://lovdata.no/lov/1958-06-27-1) om rett for den norske stat til å foreta ekspropriasjon for gjennomføring av overenskomst av 18. desember 1957 mellom Norge og Sovjet-Samveldet om utnytting av vannkraften i Pasvikelven.
+- [Lov av 19. juni 1969 nr. 65](https://lovdata.no/lov/1969-06-19-65) om endringer i lov om ervervelse av vannfall, bergverk og annen fast eiendom av 14. desember 1917, lov om vassdragsreguleringer av 14. desember 1917, lov om ervervelse av kalkstensforekomster av 3. juli 1914 og lov om erverv av kvartsforekomster av 17. juni 1949 m.v., og til lov om bygging og drift av elektriske anlegg. Overgangsbestemmelser, for så vidt gjelder lov 14. desember 1917 nr. 16 kap I og V.
+- [Lov av 4. mai 1973 nr. 21](../lover/lov-1973-05-04-21-lov-om-utvinning-av-petroleum-under-land.md) om undersøkelse etter og utvinning av petroleum i grunnen under norsk landområde.
+- [Lov av 3. juni 1983 nr. 51](https://lovdata.no/lov/1983-06-03-51) om endringer i [lov av 14. desember 1917 nr. 16](../lover/lov-1917-12-14-16-vannfallrettighetsloven.md) om erverv av vannfall, bergverk m.v., [lov av 14. desember 1917 nr. 17](../lover/lov-1917-12-14-17-vassdragsreguleringsloven.md) om vassdragsreguleringer, [lov av 15. mars 1940 nr. 3](../lover/lov-1940-03-15-3-vassdragsloven.md) om vassdragene, lov av 23. oktober 1959 om oreigning av fast eigedom og [lov av 16. juni 1961 nr. 15](https://lovdata.no/lov/1961-06-16-15) om rettshøve mellom grannar.
+- [Lov av 22. mars 1985 nr. 11](https://lovdata.no/lov/1985-03-22-11) om petroleumsvirksomhet.
+- [Lov av 23. desember 1988 nr. 107](https://lovdata.no/lov/1988-12-23-107) om endringer i [lov av 14. desember 1917 nr. 16](../lover/lov-1917-12-14-16-vannfallrettighetsloven.md) om erverv av vannfall, bergverk, annen fast eigedom m.v.
+- [Lov av 29. juni 1990 nr. 50](../lover/lov-1990-06-29-50-energiloven.md) om produksjon, omforming, overføring, omsetning og fordeling av energi m.m.
+- [Lov av 19. juni 1992 nr. 62](https://lovdata.no/lov/1992-06-19-62) om endringer i vassdragsreguleringsloven m.fl.
+- [Lov av 29. november 1996 nr. 72](../lover/lov-1996-11-29-72-petroleumsloven.md) om petroleumsvirksomhet.

@@ -1,0 +1,44 @@
+# Forskrift om krav om tillatelse til bruk av lystgassanalgesi ved tannbehandling.
+
+- **Korttittel:** Forskrift om lystgass ved tannbehandling
+- **Datokode:** FOR-2000-12-21-1386
+- **DokumentID:** SF/forskrift/2000-12-21-1386
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helseavd.
+- **Hjemmel:** lov 02.07.1999 nr. 64/§4
+- **Publisert i:** I 2000 3112
+- **I kraft fra:** 2001-01-01
+- **Siste endring i kraft:** 2003-09-01
+- **Sist endret ved:** forskrift 01.09.2003 nr. 1111
+- **Endrer:** forskrift 04.12.1992 nr. 1037
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt av Sosial- og helsedepartementet 21. desember 2000 med hjemmel i lov av 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 4 fjerde ledd. Endret ved forskrift 1 sep 2003 nr. 1111.
+- **Kilde:** <https://lovdata.no/forskrift/2000-12-21-1386>
+
+## § 1. Krav om tillatelse
+
+Lystgassanalgesi kan ved tannbehandling bare nyttes av tannleger som har tillatelse etter denne forskriften.
+
+## § 2. Vilkår for tillatelse
+
+Den norske tannlegeforening kan gi tannleger som dokumenterer å ha gjennomgått utdanning i bruk av lystgassanalgesi ved tannbehandling ved et av de odontologiske fakulteter i Norge, med bestått eksamen, tillatelse til selvstendig å nytte lystgassanalgesi i tannlegevirksomhet.
+
+Det samme gjelder tannleger som dokumenterer å ha gjennomgått tilsvarende utdanning som nevnt i første ledd ved odontologiske læresteder i andre land, og som av et av de odontologiske fakultetene i Norge anses å være faglig jevngod med den norske utdanningen.
+
+Tannleger som kan dokumentere å ha gjennomgått kurs i bruk av lystgass uten at det kan dokumenteres at utdanningen er jevngod med den norske utdanningen, kan få dispensasjon fra kravet i første ledd. Forutsetningen for dispensasjon er at vedkommende består en teoretisk og praktisk prøve i bruk av lystgass ved et av de odontologiske fakultetene i Norge.
+
+## § 3. Opphør av tillatelse
+
+Tillatelsen opphører dersom tannlegens autorisasjon opphører eller kalles tilbake.
+
+Det samme gjelder tannleger som dokumenterer å ha gjennomgått tilsvarende utdanning som nevnt i [§ 2](for-2000-12-21-1386-forskrift-om-lystgass-ved-tannbehandling.md) ved odontologiske læresteder i andre nordiske land eller i andre land innen Det europeiske økonomiske samarbeidsområdet (EØS).
+
+## § 4. Tilbakekall
+
+Tillatelsen til bruk av lystgassanalgesi kan kalles tilbake dersom tannlegen rekvirerer eller anvender lystgass til andre formål enn bestemt i [§ 2](for-2000-12-21-1386-forskrift-om-lystgass-ved-tannbehandling.md) og i strid med forutsetningene i utdanningen. Statens helsetilsyn treffer vedtak om tilbakekall.
+
+*Endret ved [forskrift 1 sep 2003 nr. 1111](https://lovdata.no/forskrift/2003-09-01-1111).*
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2001.

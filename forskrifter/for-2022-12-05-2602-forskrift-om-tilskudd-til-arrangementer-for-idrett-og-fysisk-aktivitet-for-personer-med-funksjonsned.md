@@ -1,0 +1,83 @@
+# Forskrift om tilskudd til arrangementer for idrett og fysisk aktivitet for personer med funksjonsnedsettelser
+
+- **Datokode:** FOR-2022-12-05-2602
+- **DokumentID:** SF/forskrift/2022-12-05-2602
+- **Departement:** Kultur- og likestillingsdepartementet
+- **Etat:** Sivilsamfunns- og idrettsavdelingen
+- **Hjemmel:** lov 18.03.2022 nr. 12/§12; forskrift 05.12.2022 nr. 2122/§2; forskrift 05.12.2022 nr. 2122/§3
+- **Kunngjort:** 2023-01-12 14:05
+- **I kraft fra:** 2023-01-01
+- **Siste endring i kraft:** 2026-01-20
+- **Sist endret ved:** forskrift 20.01.2026 nr. 60
+- **Endrer:** forskrift 14.08.2019 nr. 1325
+- **Merknad:** Hjemmel: Fastsatt av Kultur- og likestillingsdepartementet 5. desember 2022 med hjemmel i lov 18. mars 2022 nr. 12 om pengespill (pengespilloven) § 12 og forskrift 5. desember 2022 nr. 2122 om fordeling av Norsk Tippings overskudd til idrettsformål § 2 og § 3. Endret ved forskrift 20 jan 2026 nr. 60.
+- **Kilde:** <https://lovdata.no/forskrift/2022-12-05-2602>
+
+## § 1. Formål og virkeområde
+
+Forskriften gjelder tilskudd til arrangementer for idrett og fysisk aktivitet som enten tilrettelegger for eller er forbeholdt personer med funksjonsnedsettelser.
+
+Tilskuddsordningen skal bidra til at personer med funksjonsnedsettelser kan delta på arrangementer for idrett og fysisk aktivitet, herunder friluftsliv, på lik linje med andre.
+
+*Endret ved forskrift [20 jan 2026 nr. 60](https://lovdata.no/forskrift/2026-01-20-60).*
+
+## § 2. Organisasjoner og virksomheter som er omfattet av forskriften
+
+Det kan gis tilskudd til frivillige organisasjoner og virksomheter som er registrert i Frivillighetsregisteret på søknadstidspunktet.
+
+## § 3. Vilkår for tildeling av tilskudd
+
+Tilskudd kan gis ut fra en samlet skjønnsmessig vurdering av søknaden basert på tilskuddsordningens formål.
+
+Følgende vilkår skal være oppfylt:
+
+a. Søknadssummen må være minimum 200 000 kroner. Søknadssum er begrenset til maksimalt 50 pst. av kostnadsrammen for arrangementet.
+b. Arrangementet må være åpent for påmelding.
+
+Ved vurderingen av søknader kan departementet legge vekt på
+
+a. geografisk spredning i arrangementene
+b. antall personer med funksjonsnedsettelser som er deltaker på arrangementet
+c. samarbeid med andre relevante aktører
+d. om arrangementet har aktivitet for barn og unge
+e. om søker tidligere har mottatt midler til arrangementet.
+
+## § 4. Søknad om tilskudd og krav til dokumentasjon
+
+Søknad om tilskudd til arrangementer eller tilretteleggingstiltak skal inneholde beskrivelse av tiltaket, herunder på hvilken måte tiltaket er egnet til å oppfylle formålet om å bidra til at personer med funksjonsnedsettelser kan delta på arrangementer for idrett og fysisk aktivitet på lik linje med andre.
+
+Budsjett- og finansieringsplan, hvor både søknadssum og andel av egenfinansiering fremgår, skal legges ved søknaden.
+
+Søknaden må være undertegnet av bemyndiget leder for organisasjonen eller virksomheten.
+
+Departementet kan avslå søknader fra søkere som ikke har benyttet tidligere tildelt tilskudd etter forutsetningene.
+
+*Endret ved forskrift [20 jan 2026 nr. 60](https://lovdata.no/forskrift/2026-01-20-60).*
+
+## § 5. Rapport og regnskap
+
+Alle tilskuddsmottakere under denne ordningen plikter å levere rapport og prosjektregnskap innen den fristen som er fastsatt ved tildelingen av tilskudd.
+
+Rapporten skal redegjøre for gjennomføringen av arrangementet og det skal fremgå klart at midlene er benyttet i tråd med søknaden og målet for tilskuddsordningen.
+
+Regnskapet skal være ført slik at det kan sammenlignes med den budsjett- og finansieringsplanen som lå til grunn for søknaden, jf. [§ 4](for-2022-12-05-2602-forskrift-om-tilskudd-til-arrangementer-for-idrett-og-fysisk-aktivitet-for-personer-med-funksjonsned.md) annet ledd.
+
+For tilskudd på under 400 000 kroner kreves det at leder av organisasjonen undertegner regnskap og rapport.
+
+For tilskudd på 400 000 kroner eller mer stilles det krav om forenklet revisorkontroll av regnskapet. Dette kravet kan utgå dersom organisasjonen leverer revisorkontrollert årsregnskap sammen med rapport, der bruken av tilskuddsmidlene er synliggjort i eget prosjektregnskap undertegnet av organisasjonens leder.
+
+## § 6. Kontroll av bruk av midler
+
+Departementet kan kontrollere bruken av tilskuddet. Mottaker av tilskudd plikter å medvirke til slik kontroll, herunder gi relevante opplysninger.
+
+## § 7. Tilbakebetaling
+
+Dersom midlene ikke brukes etter forutsetningene for tildelingen av tilskuddet, kan departementet kreve hele eller deler av tilskuddet tilbake.
+
+## § 8. Økonomisk ramme
+
+Den økonomiske rammen for ordningen fastsettes av departementet hvert år gjennom den årlige fordelingen av Norsk Tippings overskudd til idrettsformål jf. [forskrift om fordeling av Norsk Tippings overskudd til idrettsformål § 2](for-2022-12-05-2122-forskrift-om-fordeling-av-norsk-tippings-overskudd-til-idrettsformaal.md) og [§ 3](for-2022-12-05-2122-forskrift-om-fordeling-av-norsk-tippings-overskudd-til-idrettsformaal.md).
+
+## § 9. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2023. Fra samme tidspunkt oppheves [forskrift 14. august 2019 nr. 1325 om tilskudd til arrangementer for idrett og fysisk aktivitet for personer med funksjonsnedsettelser](https://lovdata.no/forskrift/2019-08-14-1325).

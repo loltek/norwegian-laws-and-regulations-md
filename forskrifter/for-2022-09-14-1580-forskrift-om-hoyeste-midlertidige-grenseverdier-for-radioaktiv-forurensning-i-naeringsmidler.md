@@ -1,0 +1,173 @@
+# Forskrift om høyeste midlertidige grenseverdier for radioaktiv forurensning i næringsmidler og fôr som omsettes, og eventuelle andre nødvendige restriksjoner etter matloven, som følge av en atomhendelse
+
+- **Datokode:** FOR-2022-09-14-1580
+- **DokumentID:** SF/forskrift/2022-09-14-1580
+- **Departement:** Helse- og omsorgsdepartementet; Landbruks- og matdepartementet; Nærings- og fiskeridepartementet
+- **Etat:** Folkehelseavdelingen
+- **Hjemmel:** lov 19.12.2003 nr. 124/§9; lov 19.12.2003 nr. 124/§12; lov 19.12.2003 nr. 124/§13; lov 19.12.2003 nr. 124/§14; lov 19.12.2003 nr. 124/§15; lov 19.12.2003 nr. 124/§16; lov 19.12.2003 nr. 124/§17; lov 19.12.2003 nr. 124/§21; lov 19.12.2003 nr. 124/§33; forskrift 19.12.2003 nr. 1790
+- **Kunngjort:** 2022-09-16 14:55
+- **I kraft fra:** 2022-09-14
+- **Siste rettelse:** 2023-05-16 (vedlegg 3, overskriften)
+- **Merknad:** Hjemmel: Fastsatt av Helse- og omsorgsdepartementet, Landbruks- og matdepartementet og Nærings- og fiskeridepartementet 14. september 2022 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 9, § 12, § 13, § 14, § 15, § 16, § 17, § 21 og § 33, jf. delegeringsvedtak 19. desember 2003 nr. 1790. Rettelser: 16.05.2023 (vedlegg 3, overskriften).
+- **Kilde:** <https://lovdata.no/forskrift/2022-09-14-1580>
+
+## § 1. Formål
+
+Formålet med denne forskriften er å beskytte menneskers helse ved å hindre omsetning av næringsmidler og fôr som etter en atomhendelse er forurenset av radioaktive stoffer.
+
+## § 2. Virkeområde
+
+Denne forskriften fastsetter de høyeste grenseverdiene for radioaktiv forurensning i næringsmidler og fôr som omsettes, som midlertidig kan gjøres gjeldende etter en atomhendelse.
+
+Denne forskriften gir Mattilsynet myndighet til å vedta forskrifter som fastsetter gjeldende midlertidige grenseverdier for radioaktiv forurensning i næringsmidler og fôr, og eventuelle andre nødvendige restriksjoner etter [matloven](../lover/lov-2003-12-19-124-matloven.md), som følge av en atomhendelse.
+
+Forskriften gjelder for norsk land- og sjøterritorium, norske luft- og sjøfartøyer, og innretninger på norsk kontinentalsokkel.
+
+## § 3. Definisjoner
+
+Definisjonene i [forskrift 22. desember 2008 nr. 1620 om allmenne prinsipper og krav i næringsmiddelregelverket (matlovsforskriften) § 1](for-2008-12-22-1620-matlovsforskriften.md) jf. artiklene 2 og 3 nr. 2 og 8 i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178) (matlovsforordningen) av begrepene:
+
+a. næringsmidler,
+b. fôr og
+c. omsetning
+
+gjelder også for bestemmelsene i denne forskriften.
+
+I denne forskriften menes med
+
+a. *mindre viktige næringsmidler:* næringsmidler som er av mindre betydning i det daglige kostholdet, og som kun utgjør et marginalt bidrag til befolkningens inntak av næringsmidler, jf. listen i [vedlegg 2](for-2022-09-14-1580-forskrift-om-hoyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-naeringsmidler.md) del 1.
+b. *atomhendelse:* atomulykke eller en annen akutt hendelse som kan innebære ioniserende stråling eller spredning av radioaktivitet, som må antas å føre til eller har medført vesentlig radioaktiv forurensning i næringsmidler og fôr.
+
+## § 4. Høyeste midlertidige grenseverdier for radioaktiv forurensning i næringsmidler og fôr
+
+De høyeste midlertidige grenseverdiene for radioaktiv forurensning i næringsmidler, mindre viktige næringsmidler og fôr som kan omsettes etter en atomhendelse, framgår av henholdsvis vedlegg 1, vedlegg 2 del 2 og vedlegg 3 i denne forskriften.
+
+Grenseverdiene i vedleggene setter skranker for hvor høye grenseverdier for radioaktiv forurensning i næringsmidler og fôr Mattilsynet etter [§ 5](for-2022-09-14-1580-forskrift-om-hoyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-naeringsmidler.md) kan vedta forskrifter om, som følge av en atomhendelse.
+
+## § 5. Mattilsynets vedtakelse av forskrifter som fastsetter gjeldende midlertidige grenseverdier for radioaktiv forurensning i næringsmidler og fôr, og eventuelle andre nødvendige restriksjoner etter matloven, som følge av en atomhendelse
+
+Hvis Mattilsynet mottar opplysninger om en atomhendelse, kan Mattilsynet vedta forskrifter som fastsetter:
+
+a. gjeldende midlertidige grenseverdier for radioaktiv forurensning i de næringsmidlene og det fôret som kan være forurenset og
+b. andre nødvendige restriksjoner etter [matloven § 9](../lover/lov-2003-12-19-124-matloven.md), [§ 12](../lover/lov-2003-12-19-124-matloven.md), [§ 13](../lover/lov-2003-12-19-124-matloven.md), [§ 14](../lover/lov-2003-12-19-124-matloven.md), [§ 15](../lover/lov-2003-12-19-124-matloven.md), [§ 16](../lover/lov-2003-12-19-124-matloven.md), [§ 17](../lover/lov-2003-12-19-124-matloven.md), [§ 21](../lover/lov-2003-12-19-124-matloven.md) og [§ 33](../lover/lov-2003-12-19-124-matloven.md).
+
+Mattilsynet kan vedta forskrifter etter første ledd uten forutgående høring, og kunngjøre disse på særskilt måte.
+
+## § 6. Revurdering, endring og oppheving av forskrifter vedtatt av Mattilsynet etter § 5
+
+Mattilsynet skal jevnlig revurdere og ved behov endre eller oppheve forskrifter vedtatt etter [§ 5](for-2022-09-14-1580-forskrift-om-hoyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-naeringsmidler.md), basert på typen hendelse, stedet for hendelsen, andre aktuelle tiltak og utviklingen i målte nivåer av radioaktiv forurensning.
+
+Mattilsynet bør så snart som mulig, og senest innen 3 måneder, gjennomføre en første revurdering av grenseverdiene.
+
+## § 7. Rangordningen mellom ulike bestemmelser
+
+Ved motstrid går følgende bestemmelser foran bestemmelser i forskrifter vedtatt av Mattilsynet etter [§ 5](for-2022-09-14-1580-forskrift-om-hoyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-naeringsmidler.md):
+
+a. bestemmelser som regulerer tilsvarende forhold i forskrifter som gjennomfører Norges forpliktelser etter [EØS-avtalen](../lover/lov-1992-11-27-109-eos-loven.md) i norsk rett og
+b. nasjonale bestemmelser i andre forskrifter som fastsetter høyere grenseverdier for radioaktiv forurensning i bestemte næringsmidler eller fôr.
+
+Bestemmelser i forskrifter vedtatt av Mattilsynet etter [§ 5](for-2022-09-14-1580-forskrift-om-hoyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-naeringsmidler.md) gjelder foran nasjonale bestemmelser i andre forskrifter som fastsetter lavere grenseverdier for radioaktiv forurensning i næringsmidler eller fôr.
+
+## § 8. Omsetningsforbud
+
+Det er forbudt å omsette næringsmidler eller fôr som ikke er i samsvar med de gjeldende midlertidige grenseverdiene for radioaktiv forurensning eller andre krav i forskrifter vedtatt av Mattilsynet etter [§ 5](for-2022-09-14-1580-forskrift-om-hoyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-naeringsmidler.md).
+
+## § 9. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene i denne forskriften, jf. [matloven § 23](../lover/lov-2003-12-19-124-matloven.md).
+
+## § 10. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+## § 11. Ikrafttredelse
+
+Denne forskriften trer i kraft straks.
+
+## Vedlegg 1. Høyeste midlertidige grenseverdier for radioaktiv forurensning i næringsmidler, unntatt mindre viktige næringsmidler
+
+| *Isotopgruppe/næringsmiddelgruppe* | *Næringsmiddel (Bq/kg)*[1] |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | *Spedbarnsmat*[2] | *Melke- produkter*[3] | *Andre næringsmidler, unntatt mindre viktige næringsmidler*[4] | *Flytende næringsmidler, inkludert drikkevann*[5] |
+| Sum av isotoper av strontium, særlig Sr-90 | 75 | 125 | 750 | 125 |
+| Sum av isotoper av jod, særlig I-131 | 150 | 500 | 2 000 | 500 |
+| Sum av alfaaktive plutonium- og transplutoniumisotoper, særlig Pu-239 og Am-241 | 1 | 20 | 80 | 20 |
+| Sum av alle andre nuklider med en halveringstid på mer enn ti dager, særlig Cs-134 og Cs-137[6] | 400 | 1 000 | 1 250 | 1 000 |
+
+## Vedlegg 2. Høyeste midlertidige grenseverdier for radioaktiv forurensning i mindre viktige næringsmidler
+
+### 1. Liste over mindre viktige næringsmidler
+
+| *Posisjons-, underposisjons- eller varenummer i den norske tolltariffen* | *Varebeskrivelse* |
+| --- | --- |
+| 0703 20 00 | Hvitløk (friske eller kjølte) |
+| 0709 56 00 | Trøfler (friske eller kjølte) |
+| 0709 99 10 | Kapers (friske eller kjølte) |
+| 0711 90 70 | Kapers (midlertidig konserverte, men utjenlige til direkte forbruk i den foreliggende tilstand) |
+| ex 0712 39 01 | Trøfler (tørkede, hele, oppdelte, knuste eller pulveriserte, men ikke videre tilberedte) |
+| 0714 | Manioka-, arrow- og salepprot, jordskokker, søtpoteter og liknende røtter og knoller med høyt stivelses- eller inulininnhold, friske, kjølte, fryste eller tørkede, også oppdelte eller i form av pelleter; sagomarg |
+| 0814 00 00 | Skall av sitrusfrukter eller meloner (herunder vannmeloner), friske, fryste, tørkede eller midlertidig konserverte i saltlake, i svovelsyrlingvann eller i andre konserverende oppløsninger |
+| 0903 00 00 | Maté |
+| 0904 | Pepper av slekten Piper; tørkede, knuste eller malte frukter av slektene Capsicum eller Pimenta |
+| 0905 00 00 | Vanilje |
+| 0906 | Kanel og kanelblomster |
+| 0907 00 00 | Kryddernellik (hele frukter, tørkede blomster og stilker) |
+| 0908 | Muskat, muskatblomme og kardemomme |
+| 0909 | Anis, stjerneanis, fennikel, koriander, spisskummen, karve; einebær |
+| 0910 | Ingefær, safran, gurkemeie (kurkuma), timian, laurbærblad, karri og andre krydderier |
+| 1106 20 | Mel og pulver av marv av sago eller av røtter eller knoller som hører under posisjon 07.14 |
+| 1108 14 00 | Maniokastivelse (kassavastivelse) |
+| 1210 | Humle, frisk eller tørket, også malt, pulverisert eller i form av pelleter; lupulin |
+| 1211 | Planter, plantedeler, frø og frukter av det slag som hovedsakelig brukes til fremstilling av parfymepreparater, til farmasøytiske preparater, til insekt- og soppbekjempende midler eller liknende, friske, kjølte, fryste eller tørkede, også skårne, knuste eller pulveriserte, unntatt planter eller plantedeler brukt til næringsmiddelproduksjon. |
+| 1301 | Skjellakk og liknende; naturlige gummier, harpikser, gummiharpikser og oleoresiner (f.eks. balsamer) |
+| 1302 | Vegetabilske safter og ekstrakter; pektinstoffer, pektinater og pektater; agar-agar og annet planteslim samt andre fortykningsmidler, også modifiserte, utvunnet av vegetabilske stoffer |
+| 1504 | Fett og oljer samt deres fraksjoner, av fisk eller sjøpattedyr, også raffinerte, men ikke kjemisk omdannede |
+| 1604 31 00 | Kaviar |
+| 1604 32 00 | Kaviaretterlikninger |
+| 1801 00 00 | Kakaobønner, hele eller knuste, også brente |
+| 1802 00 00 | Kakaoskall og annet kakaoavfall |
+| 1803 | Kakaomasse, også avfettet |
+| 2003 90 10 | Trøfler (tilberedte eller konserverte på annen måte enn med eddik eller eddiksyre) |
+| 2006 00 | Grønnsaker, frukter, nøtter, fruktskall og andre plantedeler, kandiserte, glasserte eller på liknende måte tilberedte med sukker |
+| 2102 | Gjær (aktiv eller inaktiv); andre døde, encellede mikroorganismer (unntatt vaksiner som hører under posisjon 30.02); tilberedt bakepulver |
+| 2936 | Provitaminer og vitaminer, naturlige eller syntetisk reproduserte (herunder naturlige konsentrater), derivater derav som hovedsakelig brukes som vitaminer, samt innbyrdes blandinger av nevnte stoffer; oppløsninger av disse produkter, uansett oppløsningsmiddel |
+| 3301 | Flyktige, vegetabilske oljer (også terpenfrie) herunder «konkreter» og «absolutter»; resinoider; ekstraherte oleoresiner; konsentrater av flyktige, vegetabilske oljer i fett, fete oljer, voks eller liknende stoffer, utvunnet ved enfleurage eller maserasjon; terpenholdige biprodukter fra avterpenisering av flyktige, vegetabilske oljer; vandige destillater og vandige oppløsninger av flyktige, vegetabilske oljer |
+
+### 2. Høyeste midlertidige grenseverdier for radioaktiv forurensning i de mindre viktige næringsmidlene oppført i listen i punkt 1:
+
+| *Isotopgruppe* | *Bq/kg* |
+| --- | --- |
+| Sum av isotoper av strontium, særlig Sr-90 | 7 500 |
+| Sum av isotoper av jod, særlig I-131 | 20 000 |
+| Sum av alfaaktive plutonium- og transplutoniumisotoper, særlig Pu-239 og Am-241 | 800 |
+| Sum av alle andre nuklider med en halveringstid på mer enn ti dager, særlig Cs-134 og Cs-137[7] | 12 500 |
+
+## Vedlegg 3. Høyeste midlertidige grenseverdier for radioaktiv forurensning i fôr
+
+For summen av cesium-134 og cesium-137 gjelder følgende høyeste midlertidige grenseverdier for radioaktiv forurensning i fôr:
+
+| *Fôr til* | *Bq/kg*[8] [9] |
+| --- | --- |
+| Svin | 1 250 |
+| Fjærkre, lam, kalver | 2 500 |
+| Andre | 5 000 |
+
+## Fotnoter
+
+**1.** Verdien som gjelder for konsentrerte eller tørkede produkter, beregnes på grunnlag av det rekonstituerte forbruksklare produktet.
+
+**2.** Spedbarnsmat defineres som næringsmidler som er bestemt til ernæring til spedbarn i de første 12 levemåneder, og som i seg selv dekker denne gruppens ernæringsbehov og omsettes i detaljistsalgspakninger, som tydelig er merket som slike.
+
+**3.** Melkeprodukter defineres som produkter under følgende posisjonsnummer i den norske [tolltariffen](https://lovdata.no/forskrift/2021-12-17-3711), i visse tilfeller med de tilpasninger, som senere måtte bli gjort: 0401 og 0402 (unntatt spesialmelk beregnet til spedbarn, i hermetisk forseglede beholdere med et netto innhold som ikke overstiger 500 g, og med et fettinnhold over 10 % men ikke over 27 %).
+
+**4.** I [vedlegg 2](for-2022-09-14-1580-forskrift-om-hoyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-naeringsmidler.md) er det fastsatt en liste over mindre viktige næringsmidler og de tilsvarende grenseverdiene som gjelder for dem.
+
+**5.** Flytende næringsmidler defineres som produkter omfattet av posisjonsnummer 2009 og kapittel 22 i den norske [tolltariffen](https://lovdata.no/forskrift/2021-12-17-3711). I beregningen av verdiene er det tatt hensyn til inntaket av ledningsvann.
+
+**6.** Karbon-14, tritium og kalium-40 er ikke omfattet av denne gruppen.
+
+**7.** Karbon-14, tritium og kalium-40 er ikke omfattet av denne gruppen.
+
+**8.** Disse nivåene skal medvirke til at de høyeste midlertidige grenseverdiene for næringsmidler overholdes; de garanterer ikke i seg selv, at nivåene overholdes under alle omstendigheter, og de innskrenker ikke forpliktelsen til å kontrollere forurensningsnivået i animalske produkter bestemt til humant konsum.
+
+**9.** Disse nivåene gjelder for forbruksklart fôr.

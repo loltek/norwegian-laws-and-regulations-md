@@ -1,0 +1,1001 @@
+# Forskrift om fôrvarer
+
+- **Korttittel:** Forvareforskriften – forforskriften
+- **Datokode:** FOR-2002-11-07-1290
+- **DokumentID:** SF/forskrift/2002-11-07-1290
+- **Departement:** Nærings- og fiskeridepartementet; Landbruks- og matdepartementet
+- **Etat:** Avd. for matpolitikk, Avd. for havbruk, sjømat og marked, Mattilsynet
+- **Hjemmel:** lov 19.12.2003 nr. 124/§5; lov 19.12.2003 nr. 124/§6; lov 19.12.2003 nr. 124/§7; lov 19.12.2003 nr. 124/§9; lov 19.12.2003 nr. 124/§10; lov 19.12.2003 nr. 124/§12; lov 19.12.2003 nr. 124/§14; lov 19.12.2003 nr. 124/§15; lov 19.12.2003 nr. 124/§16; lov 19.12.2003 nr. 124/§17; lov 19.12.2003 nr. 124/§21; lov 19.12.2003 nr. 124/§23; lov 19.12.2003 nr. 124/§32; lov 19.12.2003 nr. 124/§33; lov 19.12.2003 nr. 124/§36; forskrift 19.12.2003 nr. 1790; forskrift 05.05.2004 nr. 884
+- **Publisert i:** I 2002 hefte 16
+- **Kunngjort:** 2002-11-26
+- **I kraft fra:** 2002-11-23
+- **Siste endring i kraft:** 2025-04-30
+- **Sist endret ved:** forskrift 30.04.2025 nr. 744
+- **Endrer:** forskrift 18.03.1999 nr. 364; forskrift 04.07.2001 nr. 1164
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2015-10-10 (EØS-henvisning)
+- **Merknad:** Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) og Fiskeridepartementet (nå Fiskeri- og kystdepartementet) 7. november 2002 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 5, § 6, § 7, § 9, § 10, § 12, § 14, § 15, § 16, § 17, § 21, § 23, § 32 og § 33 første ledd, jf. § 36 andre ledd, jf. delegeringsvedtak 19. desember 2003 nr. 1790. Tilføyd hjemmel: Delegeringsvedtak 5. mai 2004 nr. 884. EØS-henvisninger: EØS-avtalen vedlegg I kap. II nr. 1 direktiv 93/74/EØF (endret ved direktiv 96/25/EF og direktiv 1999/29/EF), direktiv 82/475/EØF (endret ved direktiv 98/67/EF og direktiv 1991/334/EF), direktiv 2002/32/EF (endret ved direktiv 2003/57/EF, direktiv 2003/5/EF, direktiv 2003/100/EF, direktiv 2005/8/EF, direktiv 2005/86/EF, direktiv 2005/87/EF, direktiv 2006/13/EF, direktiv 2006/77/EF, direktiv 2008/76/EF, direktiv 2009/8/EF, direktiv 2009/141/EF, direktiv 2010/6/EF, forordning (EU) nr. 574/2011, forordning (EU) nr. 277/2012, forordning (EU) nr. 744/2012, forordning (EU) nr. 107/2013, forordning (EU) nr. 1275/2013, forordning (EU) 2015/186, forordning (EU) 2015/786, forordning (EU) 2017/2229 og forordning (EU) 2019/1869), forordning (EF) nr. 1831/2003, vedtak 2007/623/EF, forordning (EF) nr. 767/2009. Endret ved forskrifter 28 mai 2003 nr. 641, 30 juni 2003 nr. 976, 27 aug 2003 nr. 1109, 1 okt 2003 nr. 1238, 11 april 2003 nr. 477, 26 aug 2003 nr. 1086, 9 jan 2004 nr. 199, 16 feb 2004 nr. 450, 19 mai 2004 nr. 786, 16 nov 2004 nr. 1469, 12 april 2005 nr. 320, 9 sep 2005 nr. 1044, 25 okt 2005 nr. 1251, 23 jan 2006 nr. 94, 26 okt 2006 nr. 1201, 13 nov 2006 nr. 1263, 20 des 2006 nr. 1519, 29 mars 2007 nr. 511, 31 juli 2007 nr. 941, 20 des 2007 nr. 1694, 6 feb 2009 nr. 148, 3 juni 2009 nr. 585, 14 des 2009 nr. 1538, 14 jan 2010 nr. 65 jf. vedtak 22 feb 2010 nr. 233, 10 feb 2010 nr. 151 som endret ved forskrift 19 feb 2010 nr. 316, 23 juli 2010 nr. 1138, 12 nov 2010 nr. 1425, 19 april 2011 nr. 427, 29 juni 2011 nr. 728, 6 des 2011 nr. 1235, 2 mai 2012 nr. 396, 2 mai 2012 nr. 397, 1 nov 2012 nr. 1038, 2 juli 2013 nr. 890, 26 sep 2013 nr. 1159, 29 okt 2013 nr. 1274, 19 sep 2014 nr. 1235, 5 mai 2015 nr. 461, 11 mai 2015 nr. 492, 5 okt 2015 nr. 1147, 18 mars 2016 nr. 318, 25 april 2016 nr. 428, 7 juni 2017 nr. 905, 5 mars 2018 nr. 298, 25 juni 2020 nr. 1515, 18 jan 2021 nr. 132, 30 april 2025 nr. 744. Rettelser: 10.10.2015 (EØS-henvisning).
+- **Kilde:** <https://lovdata.no/forskrift/2002-11-07-1290>
+
+## Kapittel I – Formål, virkeområde og definisjoner
+
+### § 1. Formål
+
+Formålet med denne forskrift er å sikre at fôret er trygt og dermed ikke er helseskadelig for mennesker eller dyr, eller gjør næringsmidler fra dyr uegnet for konsum. Fôret skal heller ikke ha skadevirkning på miljøet.
+
+*Endret ved [forskrift 25 april 2016 nr. 428](https://lovdata.no/forskrift/2016-04-25-428).*
+
+### § 2. Virkeområde
+
+Forskriften gjelder tilvirkning, innførsel, utførsel og omsetning av fôrvarer til dyr, samt fôring av dyr.
+
+For fôrvarer som tilvirkes og omsettes til vitenskapelig bruk ved private eller offentlige forskningsinstitusjoner, gjelder kun [§ 4a](for-2002-11-07-1290-forvareforskriften-forforskriften.md), [§ 4b](for-2002-11-07-1290-forvareforskriften-forforskriften.md), [§ 5](for-2002-11-07-1290-forvareforskriften-forforskriften.md) og [§ 6](for-2002-11-07-1290-forvareforskriften-forforskriften.md) med tilhørende vedlegg. Tilsynsmyndigheten kan etter søknad gi dispensasjon og fastsette vilkår for dispensasjonen.
+
+*Endret ved [forskrifter 19 mai 2004 nr. 786](https://lovdata.no/forskrift/2004-05-19-786), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010), [12 nov 2010 nr. 1425](https://lovdata.no/forskrift/2010-11-12-1425), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [25 april 2016 nr. 428](https://lovdata.no/forskrift/2016-04-25-428).*
+
+### § 3. Definisjoner
+
+I denne forskriften menes med:
+
+1. *Akvatiske dyr:* Vannlevende dyr i alle stadier av livssyklusen, unntatt sjøpattedyr.
+2. *Daglig rasjon/dagsbehov:* Den totale mengde fôr beregnet med et vanninnhold på 12 %, som i gjennomsnitt er nødvendig for et dyr av en bestemt art, aldersgruppe og ytelse til å dekke dyrets daglige næringsbehov.
+3. *Diettfôr (fôrvarer med særlige ernæringsformål):* Fôrblandinger med det formål å dekke visse ernæringsbehov, som i kraft av sin særlige sammensetning eller produksjonsprosess, kan skilles klart fra vanlige fôrvarer. Fôrvarer med særlige ernæringsformål omfatter ikke medisinfôr som definert i direktiv [90/167/EØF](https://lovdata.no/eu/31990l0167*).
+4. *Dyr:* Dyrearter som mennesker normalt fôrer og holder eller anvender til konsum samt dyr som lever fritt i naturen dersom de fôres med fôrvarer.
+5. *Fôrblanding:* Blanding av minst to fôrmidler, med eller uten tilsetningsstoffer, som er beregnet til ernæring av dyr ved fôring i form av fullfôr eller tilskuddsfôr.
+6. *Fôrmiddel:*[1] Produkter av vegetabilsk eller animalsk opprinnelse, hvis hovedformål er å oppfylle dyrenes ernæringsbehov, i naturlig tilstand, ferske eller konserverte, og avledede produkter av disse etter industriell bearbeiding samt organiske og uorganiske stoffer, med eller uten tilsetningsstoffer, som i ubearbeidet form eller etter bearbeiding er beregnet til ernæring av dyr ved fôring, til framstilling av fôrblandinger eller som bærestoff i premikser.
+7. *Fôrvare (fôr eller dyrefôr):* Alle stoffer eller produkter, herunder tilsetningsstoffer, uansett om de er bearbeidet, delvis bearbeidet eller ubearbeidet, som er beregnet til fôring av dyr, herunder også levende fôr til akvatiske dyr.
+8. *Fullfôr:* En blanding av fôrvarer som på grunn av sin sammensetning er tilstrekkelig til å dekke dyrets dagsbehov.
+9. *Gen:* En DNA-sekvens som koder for et funksjonelt polypeptid, protein eller RNA-molekyl.
+10. *Innførsel:* å ta inn fôrvarer fra EØS-land eller tredjeland.
+11. *Import:* å ta inn fôrvarer fra tredjeland.
+12. *Første mottaker:* Den første virksomheten eller personen som etter innførsel mottar eller foretar en oppdeling av et vareparti.
+13. *Koksidiostatika:* Stoffer som er ment for å drepe eller hindre protozoa.
+14. *Mineralfôrblanding:* Tilskuddsfôr som inneholder minst 40 % råaske.
+15. *Omsetning:* Besittelse med sikte på salg, utbud for salg, distribusjon samt selve salget og enhver annen form for overdragelse med eller uten vederlag.
+16. *Premikser:* Blandinger av tilsetningsstoffer eller blandinger av ett eller flere tilsetningsstoffer med fôrmiddel eller vann som er brukt som bærestoffer, som ikke er ment for direkte fôring til dyr.
+17. *Dyr bestemt til matproduksjon*: Alle dyr som fôres, avles eller holdes for produksjon av næringsmidler beregnet på konsum, herunder dyr som ikke er beregnet på konsum, men tilhører arter som normalt brukes til konsum i Fellesskapet.
+18. *Risikofôrvarer:* Fôrvarer hvor det er en forhøyet sannsynlighet for innhold av salmonella.
+19. *Råvare:* Se fôrmiddel.[1]
+20. *Særlige ernæringsformål:* formålet å oppfylle særlige ernæringsbehov hos visse dyr hvis fordøyelse, næringsopptak eller stoffskifte kan bli eller er forstyrret midlertidig eller kronisk, og som derfor kan ha fordel av å innta fôrvarer som er hensiktsmessig for deres tilstand.
+21. *Tilsetningsstoff:* Stoffer, mikroorganismer eller andre preparater enn fôrmidler eller premikser, som med hensikt tilsettes fôrvarer eller vann for særskilt å oppfylle en eller flere av følgende funksjoner:
+    - virke positivt på fôrets egenskaper
+    - virke positivt på animalske produkters egenskaper
+    - virke positivt på fargen hos akvariefisk og burfugler
+    - tilfredsstille dyrs næringsbehov
+    - virke positivt på den miljøpåvirkningen husdyrproduksjonen gir
+    - virke positivt på animalsk produksjon, ytelse, velferd spesielt ved å påvirke mage- og tarmfloraen og fôrets fordøyelighet.
+22. *Tilskuddsfôr:* Fôrblanding som har et høyt innhold av visse stoffer, og som ved sin sammensetning dekker dagsrasjonen bare dersom det kombineres med andre fôrvarer.
+23. *Tilvirke:* Å dyrke, framstille, foredle, blande, lagre, pakke og/eller merke fôrvarer, enkeltvis eller i blanding.
+24. *Uønskede stoffer:* Ethvert stoff eller produkt, unntatt patogene agens, som finnes i og/eller på produkter som er tenkt brukt til dyrefôr og som representerer en potensiell fare for helseskade hos dyr eller mennesker eller skade på miljøet, eller kan ha uheldig påvirkning på produkter fra matproduserende dyr.
+25. *Virksomhet:* Ethvert privat eller offentlig foretak samt privatpersoner som foretar en hvilken som helst aktivitet som nevnt i § 2 i matloven, bortsett fra aktiviteter i privat og ikke-kommersielt øyemed.
+26. *Substrat:* Det insektene lever av og som gir dem nødvendig næringstilførsel. Substrat er å anse som en fôrvare.
+27. *Pollenerstatning:* En fôrblanding beregnet for bier.
+28. *Påvisning av salmonella:* Prøve hvor salmonella spp. er påvist av et akkreditert laboratorium etter EN ISO 6579-1 eller en alternativ metode som er validert iht. EN ISO 16140-2 og sertifisert av en uavhengig organisasjon.
+
+*Endret ved [forskrifter 9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199), [12 april 2005 nr. 320](https://lovdata.no/forskrift/2005-04-12-320), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010), [2 mai 2012 nr. 396](https://lovdata.no/forskrift/2012-05-02-396) (i kraft 1 mai 2012), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [25 april 2016 nr. 428](https://lovdata.no/forskrift/2016-04-25-428), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+## Kapittel II (Opphevet)
+
+*[Kapittel](for-2002-11-07-1290-forvareforskriften-forforskriften.md) II opphevet 1 mars 2010 ved [forskrift 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) i kraft ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233).*
+
+## Kapittel III – Krav til fôrvarer
+
+### § 4. (Opphevet)
+
+*Endret ved [forskrift 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 7), opphevet ved [forskrift 25 april 2016 nr. 428](https://lovdata.no/forskrift/2016-04-25-428).*
+
+### § 4a. Godkjenning av genmodifiserte fôrvarer og tilsetningsstoffer
+
+Fôrvarer herunder tilsetningsstoffer, som består av, inneholder eller er fremstilt på grunnlag av genmodifiserte organismer, er ikke tillatt omsatt eller markedsført med mindre Mattilsynet har godkjent dette. Unntak gjelder for:
+
+1. produkter som omfattes av [lov 2. april 1993 nr. 38](../lover/lov-1993-04-02-38-genteknologiloven.md) (genteknologiloven),
+2. produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
+
+Godkjenningsplikt etter første ledd gjelder ikke ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale forutsatt at virksomheten kan dokumentere dette, samt forutsatt:
+
+1. tilstedeværelse opp til 0,9% dersom det genmodifiserte materialet er godkjent i EU, eller
+2. tilstedeværelse opp til 0,5% dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av enten EFSA/EUs vitenskapskomiteer eller den norske Vitenskapskomiteen for Mattrygghet samt at analysemetodikk er offentlig tilgjengelig.
+
+I forbindelse med søknad eller godkjenning kan Mattilsynet stille krav om analysemetodikk, prøvemateriale og sporbarhet mv.
+
+Det stilles krav om angivelse av unik identifikasjonskode for genmodifiserte organismer i ledsagende dokument for produkter som består av eller inneholder slike organismer i [forskrift 2. september 2005 nr. 1009](for-2005-09-02-1009-forskrift-om-merking-mv-av-gmo.md) om merking, transport, import og eksport av genmodifiserte organismer.
+
+Fôrvarer og tilsetningsstoff som allerede finnes på det norske markedet pr. 15. september 2005, kan fortsatt omsettes forutsatt at det innen 15. mars 2006 er sendt melding til Mattilsynet med informasjon om fôrvaren eller tilsetningsstoffet. Innen 15. september 2008 må det for disse fôrvarene og tilsetningsstoffene søkes om godkjenning etter [§ 7](for-2002-11-07-1290-forvareforskriften-forforskriften.md)a.
+
+Mattilsynet kan fastsette utfyllende forskrifter for gjennomføringen av bestemmelsene i denne paragraf.
+
+*Tilføyd ved [forskrift 9 sep 2005 nr. 1044](https://lovdata.no/forskrift/2005-09-09-1044) (i kraft 15 sep 2005), endret ved [forskrift 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 7a).*
+
+### § 4b. Merking av genmodifiserte fôrmidler og tilsetningsstoffer
+
+Et fôrmiddel eller tilsetningsstoff skal både ved omsetning og når det inngår i en blanding merkes med enten «genmodifisert» eller «produsert fra genmodifisert [navn på organismen]», umiddelbart etter fôrmiddelets eller tilsetningsstoffets spesifikke navn når:
+
+1. fôrmiddelet eller tilsetningsstoffet består av eller inneholder genmodifiserte organismer, eller
+2. fôrmiddelet eller tilsetningsstoffet er produsert fra, men ikke inneholder genmodifiserte organismer. Merkeplikten gjelder også for genmodifiserte fôrmidler og tilsetningsstoffer hvor DNA og protein som stammer fra genmodifiseringen, ikke kan påvises.
+
+Merkeplikt etter første ledd gjelder ikke:
+
+1. ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale i fôrvarer opp til 0,9 %,
+2. produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materiale herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
+
+*Endret ved [forskrifter 12 april 2005 nr. 320](https://lovdata.no/forskrift/2005-04-12-320), [9 sep 2005 nr. 1044](https://lovdata.no/forskrift/2005-09-09-1044) (i kraft 15 sep 2005), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 25), [19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427) (i kraft 1 mai 2011), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159) (tidligere § 15).*
+
+### § 5. Forbud mot visse genmodifiserte fôrvarer
+
+Det er forbudt å tilvirke, importere og framby fôrvarer som inneholder gener som koder for antibiotikaresistens, der disse genene er tilført ved genmodifisering og kan påvises i sluttproduktet.
+
+*Endret ved [forskrift 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 8).*
+
+### § 6. Uønskede stoffer i fôrvarer
+
+Fôrvarer med større innhold av uønskede stoffer enn fastsatt i vedlegg 1, er forbudt å bruke til fôr.
+
+Fôrvarer med større innhold av uønskede stoffer enn fastsatt i vedlegg 1, skal ikke blandes med den samme eller andre fôrvarer med sikte på fortynning.
+
+Fôrvarer til eksport omfattes av bestemmelsene i vedlegg 1.
+
+I de tilfeller fastsatte maksimumsgrenser eller tiltaksgrenser for innhold av uønskede stoffer overskrides, skal den ansvarlige for fôrvarepartiet foreta undersøkelser for å identifisere årsaken og i samarbeid med Mattilsynet iverksette tiltak for å redusere eller fjerne den.
+
+Framkommer det ny informasjon, eller gjeldende opplysninger revurderes, eller det finnes uønskede stoffer som ikke er oppført i vedlegg 1, men som kan medføre fare for helseskade hos dyr eller mennesker eller skade på miljøet, kan Mattilsynet midlertidig senke fastsatt maksimumsgrense for innhold av stoffene, fastsette ny tiltaksgrense eller forby bruk av fôrmidler der stoffene forekommer.
+
+*Endret ved [forskrifter 27 aug 2003 nr. 1109](https://lovdata.no/forskrift/2003-08-27-1109), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 9), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [19 sep 2014 nr. 1235](https://lovdata.no/forskrift/2014-09-19-1235), [11 mai 2015 nr. 492](https://lovdata.no/forskrift/2015-05-11-492).*
+
+### § 6a. Gjennomføring av forordning [(EU) 2015/786](https://lovdata.no/eu/32015r0786)
+
+EØS-avtalen vedlegg 1 [kapittel II](../lover/lov-1992-11-27-109-eos-loven.md) nr. 145 (forordning [(EU) 2015/786](https://lovdata.no/eu/32015r0786)) om fastsettelse av kriterier for godkjenning av detoksifiseringsprosesser som anvendes på produkter beregnet til fôrvarer, som fastsatt i europaparlamentets- og rådsdirektiv [2002/32/EF](https://lovdata.no/eu/32002l0032), gjelder som forskrift med de tilpasninger som følger av vedlegg 1 [kapittel II](../lover/lov-1992-11-27-109-eos-loven.md), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 mars 2016 nr. 318](https://lovdata.no/forskrift/2016-03-18-318).*
+
+### § 7. (Opphevet 1 mai 2012 ved [forskrift 2 mai 2012 nr. 396](https://lovdata.no/forskrift/2012-05-02-396).)
+
+### § 8. (Opphevet 1 mai 2011 ved [forskrift 19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427).)
+
+## Kapittel IV – Import av fôrvarer uten animalske bestanddeler
+
+*Overskrift endret ved forskrifter [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+### § 9. Import av fôrvarer uten animalske bestanddeler
+
+Alle fôrvarer som importeres, skal meldes til Mattilsynet gjennom godkjent meldesystem innen 24 timer før partiet ankommer landet.
+
+Den som er ansvarlig forimporten, skal påse at melding og kontroll skjer i henhold til første ledd.
+
+Ved import av fôrvarer, når bestemmelsesstedet der omsetningen av fôrvarer skal finne sted er et annet EØS-land, skal fôrvaren følges av et kontrolldokument, jf. [vedlegg 16](for-2002-11-07-1290-forvareforskriften-forforskriften.md). Kontrolldokumentet skal ved grensepassering inn i EØS framlegges for tilsynsmyndigheten, som påfører dokumentet opplysninger om hvilke kontroller fôrvaren har vært gjenstand for. Dersom partiet deles opp, skal et kontrolldokument følge hvert delparti. Kontrolldokumentet skal være utstedt på et av de skandinaviske språkene, tysk eller engelsk. Endringer i kontrolldokumentet som er foretatt av uvedkommende medfører ugyldighet. Kontrolldokumentet skal følge fôrvaren fram til bestemmelsesstedet inntil den er frigitt for fri omsetning. Kontrolldokumentet skal framlegges for tilsynsmyndigheten i det EØS-landet der fôrvaren skal frigis innenfor EØS-området.
+
+Vedimport av fôrvarer til Norge via et EØS-land, skal grensekontrollen gjennomføres på det stedet varen kommer inn i EØS-området. Fôrvarer som tilfredsstiller kravene for import, skal følges av et kontrolldokument, jf. [vedlegg 16](for-2002-11-07-1290-forvareforskriften-forforskriften.md). Kontrolldokumentet skal inneholde opplysninger fra vedkommende lands tilsynsmyndighet om hvilke kontroller fôrvaren har vært gjenstand for. Dokumentet skal følge fôrvaren fram til bestemmelsesstedet og forelegges tilsynsmyndigheten før fôrvaren kan frigis.
+
+*Endret ved [forskrifter 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 18), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159) (tidligere § 10), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+## Kapittel V – Bestemmelser om salmonella og krav til virksomhetenes salmonellakontroll
+
+*Kapitteloverskriften endret ved [forskrifter 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010), [29 juni 2011 nr. 728](https://lovdata.no/forskrift/2011-06-29-728).*
+
+### § 10. Forbud mot omsetning og bruk av fôrblandinger som inneholder salmonella
+
+Det er forbudt å omsette og bruke fôrblandinger til landdyr som inneholder salmonella. Fravær av salmonella i fôrblandinger skal dokumenteres som beskrevet i [vedlegg 14](for-2002-11-07-1290-forvareforskriften-forforskriften.md).
+
+*Tilføyd ved forskrift [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), endret ved forskrifter [7 juni 2017 nr. 905](https://lovdata.no/forskrift/2017-06-07-905), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+### § 11. Særskilte plikter for virksomhetene
+
+Virksomheter som er godkjennings- eller registreringspliktige i henhold til [forskrift 14. januar 2010 nr. 39](for-2010-01-14-39-forskrift-om-forhygiene.md) om fôrhygiene (fôrhygieneforskriften), skal forebygge introduksjon av salmonellabakterier i anlegg, produksjonsutstyr og fôrvarer.
+
+Når salmonella påvises i anlegg, produksjonsutstyr eller fôrvarer hos virksomheter som er godkjennings- eller registreringspliktige i henhold til fôrhygieneforskriften, skal virksomheten varsle Mattilsynet umiddelbart og iverksette nødvendige tiltak for å desimere forekomsten av salmonellabakterier.
+
+Krav til varsling ved påvisning av salmonella følger av [vedlegg 14](for-2002-11-07-1290-forvareforskriften-forforskriften.md) del C, punkt 1.
+
+*Endret ved forskrifter [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 21), [29 juni 2011 nr. 728](https://lovdata.no/forskrift/2011-06-29-728), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+### § 12. Hygienisering av fôrblandinger
+
+Fullfôr og tilskuddsfôr, unntatt vitamin- og mineralfôrblandinger, som er produsert med tanke på omsetning til matproduserende landdyr, skal enten varmebehandles ved pelletering der temperaturen er minst 75 °C målt i fôrvaren før pressing, eller ved andre metoder der fôrets kjernetemperatur kommer opp i minst 81 °C. Hele partiet skal varmebehandles, og produksjonen må skje på en linje der alt annet fôr også får tilsvarende varmebehandling.
+
+Kravet om varmebehandling i første ledd gjelder ikke for substrat til insekter eller pollenerstatning til bier.
+
+Det stilles krav til hygienisering av fôr til akvatiske dyr. Ved produksjon av fullfôr til akvatiske dyr må virksomheten etablere en hygienebarriere i produksjonslinjen som gir tilfredsstillende desimering av salmonellabakterier.
+
+*Endret ved [forskrifter 9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 22), [12 nov 2010 nr. 1425](https://lovdata.no/forskrift/2010-11-12-1425), [29 juni 2011 nr. 728](https://lovdata.no/forskrift/2011-06-29-728), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+### § 13. Krav til virksomhetens kontroll i produksjonsanlegg for fôrblandinger
+
+I produksjonsanlegg for fôrblandinger til matproduserende landdyr skal virksomheten gjennomføre kontroll for salmonella i henhold til vedlegg 14 del B.
+
+I produksjonsanlegg for fôrblandinger til akvatiske dyr skal virksomheten gjennomføre prøvetaking og analyse for salmonella i henhold til et egenkontrollsystem basert på HACCP-prinsippene. Prøvene skal analyseres som beskrevet i [vedlegg 14](for-2002-11-07-1290-forvareforskriften-forforskriften.md) del C, punkt 2.
+
+*Endret ved forskrifter [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 23), [29 juni 2011 nr. 728](https://lovdata.no/forskrift/2011-06-29-728), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+### § 14. Krav til virksomhetens kontroll ved innførsel av fôrvarer
+
+Første mottaker av innførte fôrmidler og fôrblandinger til matproduserende landdyr skal sørge for at det blir tatt ut prøver i henhold til [vedlegg 14](for-2002-11-07-1290-forvareforskriften-forforskriften.md) del A og B, og gjennomført analyser for salmonella i henhold til [vedlegg 14](for-2002-11-07-1290-forvareforskriften-forforskriften.md), del C, punkt 2.
+
+Første mottaker av fôrmidler og fôrblandinger til akvatiske produksjonsdyr, skal sørge for at det blir tatt ut prøver og gjennomført analyser for salmonella i henhold til virksomhetens egenkontrollsystem. Prøvene skal analyseres som beskrevet i [vedlegg 14](for-2002-11-07-1290-forvareforskriften-forforskriften.md), del C, punkt 2.
+
+*Endret ved forskrifter [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 24), [29 juni 2011 nr. 728](https://lovdata.no/forskrift/2011-06-29-728), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+## Kapittel VI (Opphevet)
+
+*Opphevet ved [forskrift 26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159).*
+
+### § 15. (Opphevet ved [forskrift 26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159).)
+
+### § 16. (Opphevet 1 mai 2011 ved [forskrift 19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427).)
+
+### § 17. (Opphevet 1 mai 2011 ved [forskrift 19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427).)
+
+## Kapittel VII – Tilsyn
+
+### § 18. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften i samsvar med [matloven § 23](../lover/lov-2003-12-19-124-matloven.md) om tilsyn og vedtak og kan herunder treffe vedtak etter [§ 24](../lover/lov-2003-12-19-124-matloven.md) om særskilt smittesanering, [§ 25](../lover/lov-2003-12-19-124-matloven.md) om stenging og virksomhetskarantene og [§ 26](../lover/lov-2003-12-19-124-matloven.md) om tvangsmulkt.
+
+*Endret ved [forskrifter 9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 31).*
+
+### § 19. Opplysningsplikt
+
+Virksomheter som omfattes av forskriften skal til enhver tid kunne gi tilsynsmyndigheten alle relevante opplysninger som er nødvendige for tilsynet, inkludert opplysninger om sammensetning, tilvirking, innførsel og omsetning av fôrvarer.
+
+Den som tilvirker, innfører og/eller omsetter fôrvarer skal kunne dokumentere tilgang, forbruk og beholdning.
+
+*Endret ved [forskrifter 11 april 2003 nr. 477](https://lovdata.no/forskrift/2003-04-11-477) (i kraft 6 nov 2003), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 32).*
+
+### § 20. (Opphevet ved [forskrift 26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159).)
+
+### § 21. (Opphevet 1 mai 2011 ved [forskrift 19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427).)
+
+### § 22. (Opphevet 1 mai 2011 ved [forskrift 19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427).)
+
+## Kapittel VIII – Avsluttende bestemmelser
+
+### § 23. Beslag mv.
+
+Tilsynsmyndigheten kan beslaglegge et parti fôrvare dersom det kan være helsefarlig for dyr eller mennesker. Tilsynsmyndigheten skal påse at partiet destrueres eller anvendes på en måte som ikke medfører risiko (fare) for helseskade hos dyr eller mennesker eller skade på miljøet.
+
+Alle utgifter som påløper i forbindelse med vedtak truffet i henhold til første ledd er tilsynsmyndigheten uvedkommende.
+
+*Endret ved [forskrifter 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 41), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159).*
+
+### § 24. Dispensasjon
+
+Mattilsynet kan i særlige tilfelle dispensere fra bestemmelsene i denne forskriften forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser herunder EØS-avtalen.
+
+*Endret ved [forskrifter 9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 43).*
+
+### § 25. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrifter 9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199) (tidligere § 45), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 44).*
+
+### § 26. Ikrafttredelse
+
+Denne forskriften trer i kraft fra 23. november 2002. Fra samme tidspunkt oppheves [forskrift av 4. juli 2001 nr. 1164](https://lovdata.no/forskrift/2001-07-04-1164) om fôrvarer og [forskrift av 18. mars 1999 nr. 364](https://lovdata.no/forskrift/1999-03-18-364) om fôrvarer til fisk.
+
+*Endret ved [forskrifter 9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199) (tidligere § 46), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 45).*
+
+## Vedlegg 1. Grenseverdier for innhold av uønskede stoffer i fôrvarer
+
+*Overskriften endret ved [forskrifter 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010). Overskrift og kapittelstruktur endret ved [forskrift 26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159).*
+
+Tilskuddsfôr som skal fortynnes i henhold til bruksanvisningen, skal etter fortynning ikke ha et større innhold av stoffer enn det som er fastsatt for fullfôr, dersom det ikke er angitt under kolonne 2 og 3.
+
+### Del 1. Grenseverdier for uønskede stoffer i fôrvarer som nevnt i direktiv 2002/32/EF artikkel 3 annet ledd
+
+*Del I: Uønskede forurensende stoffer og nitrogenforbindelser*
+
+| *Uønskede stoffer* | *Produkter beregnet til fôrvarer* | *Øvre grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 %* |
+| --- | --- | --- |
+| 1. Arsen[2] | Fôrmidler, | 2 |
+|  | med unntak av: |  |
+|  | – mel av gress, av tørket luserne og av tørket kløver, samt tørket sukkerbetemasse og tørket melasse av sukkerbetemasse | 4 |
+|  | – palmekjerneekspeller | 4[3] |
+|  | – torv, leonarditt | 5[3] |
+|  | – fosfater, kalkholdige havalger | 10 |
+|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat,[11] kalkholdige skall av marine skjell | 15 |
+|  | – magnesiumoksid, magnesiumkarbonat | 20 |
+|  | – fisk, andre akvatiske dyr og produkter framstilt av disse | 25[3] |
+|  | – makroalgemel og fôrmidler framstilt av makroalger | 40[3] |
+|  | Jernpartikler brukt som sporstoff | 50 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppen forbindelser av sporstoffer, | 30 |
+|  | med unntak av: |  |
+|  | – kobbersulfat-pentahydrat, kobberkarbonat, dikobberkloridtrihydroksid, jern(II)karbonat, dimangankloridtrihydroksid | 50 |
+|  | – sinkoksid, mangan(II)oksid, kobberoksid | 100 |
+|  | Tilskuddsfôr, | 4 |
+|  | med unntak av: |  |
+|  | – mineralfôr | 12 |
+|  | – tilskuddsfôr som er til kjæledyr, og som inneholder fisk, andre akvatiske dyr og produkter framstilt av disse og/eller makroalgemel og fôrmidler framstilt av makroalger | 10[3] |
+|  | – sammensetninger av fôr med særlige ernæringsformål som frigis over lang tid, med en konsentrasjon av sporstoffer som er høyere enn 100 ganger den fastsatte øvre grenseverdien for fullfôr | 30 |
+|  | Fullfôr, | 2 |
+|  | med unntak av: |  |
+|  | – fullfôr til fisk og pelsdyr | 10[3] |
+|  | – fullfôr som er til kjæledyr, og som inneholder fisk, andre akvatiske dyr og produkter framstilt av disse og/eller makroalgemel og fôrmidler framstilt av makroalger | 10[3] |
+| 2. Kadmium | Fôrmidler av vegetabilsk opprinnelse | 1 |
+|  | Fôrmidler av animalsk opprinnelse | 2 |
+|  | Fôrmidler av mineralsk opprinnelse, | 2 |
+|  | med unntak av: |  |
+|  | – fosfater | 10 |
+|  | Tilsetningsstoffer som tilhører den funksjonelle gruppen forbindelser av sporstoffer, | 10 |
+|  | med unntak av: |  |
+|  | – kobberoksid, mangan(II)oksid, sinkoksid og mangansulfat, monohydrat | 30 |
+|  | Tilsetningsstoffer som tilhører de funksjonelle gruppene bindemidler og antiklumpemidler | 2 |
+|  | Premikser[7] | 15 |
+|  | Tilskuddsfôr, | 0,5 |
+|  | med unntak av: |  |
+|  | – mineralfôr |  |
+|  | – – som inneholder < 7 % fosfor[9] | 5 |
+|  | – – som inneholder ≥ 7 % fosfor[9] | 0,75 per 1 % fosfor,[9] høyst 7,5 |
+|  | – – tilskuddsfôr til kjæledyr | 2 |
+|  | – – Diettfôr, som avgir næringsstoffer over lang tid (bolus), til spesielle ernæringsmessige formål og har en konsentrasjon av mikromineraler over 100 ganger fastsatt maksimumsverdi for innhold i fullfôr | 15 |
+|  | Fullfôr, | 0,5 |
+|  | med unntak av: |  |
+|  | – fullfôr til storfe (med unntak av kalver), sauer (med unntak av lam), geiter (med unntak av kje) og fisk | 1 |
+|  | – fullfôr til kjæledyr | 2 |
+| 3. Fluor[8] | Fôrmidler, | 150 |
+|  | med unntak av: |  |
+|  | – fôrmidler av animalsk opprinnelse, med unntak av marine krepsdyr som f.eks. krill og kalkholdige marine skjell | 500 |
+|  | – marine krepsdyr som f.eks. marin krill | 3000 |
+|  | – fosfater | 2000 |
+|  | – kalsiumkarbonat; kalsium- og magnesiumkarbonat[11] | 350 |
+|  | – magnesiumoksid | 600 |
+|  | – kalkholdige marine alger | 1 250 |
+|  | Vermikulitt (E 561) | 3000 |
+|  | Tilskuddsfôr |  |
+|  | – som inneholder ≤ 4 % fosfor[9] | 500 |
+|  | – som inneholder > 4 % fosfor[9] | 125 per 1 % fosfor[9] |
+|  | Fullfôr, | 150 |
+|  | med unntak av: |  |
+|  | – fullfôr til svin, | 100 |
+|  | – fullfôr til fjørfe (med unntak av kyllinger) og fisk | 350 |
+|  | – fullfôr til kyllinger | 250 |
+|  | – fullfôr til storfe, sauer og geiter |  |
+|  | – – i laktasjon | 30 |
+|  | – – andre | 50 |
+| 4. Bly[13] | Fôrmidler, | 10 |
+|  | med unntak av: |  |
+|  | – grøntfôr[4] | 30 |
+|  | – fosfater, kalkholdige havalger og kalkholdige skall av marine skjell | 15 |
+|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat[11] | 20 |
+|  | – gjær | 5 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppen forbindelser av sporstoffer, | 100 |
+|  | med unntak av: |  |
+|  | – sinkoksid | 400 |
+|  | – mangan(II)oksid, jern(II)karbonat, kobberkarbonat og kobber(I)oksid | 200 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler, | 30 |
+|  | med unntak av: |  |
+|  | – klinoptilolitt av vulkansk opprinnelse, natrolitt-fonolitt | 60 |
+|  | Premikser[7] | 200 |
+|  | Tilskuddsfôr, | 10 |
+|  | med unntak av: |  |
+|  | – mineralfôr | 15 |
+|  | – sammensetninger av fôr med særlige ernæringsformål som frigis over lang tid, med en konsentrasjon av sporstoffer som er høyere enn 100 ganger den fastsatte øvre grenseverdien for fullfôr | 60 |
+|  | Fullfôr | 5 |
+| 5. Kvikksølv[5] | Fôrmidler, | 0,1 |
+|  | med unntak av: |  |
+|  | – fisk, andre akvatiske dyr og produkter framstilt av disse, som er beregnet på produksjon av fôrblandinger til dyr bestemt til næringsmiddelproduksjon | 0,5 |
+|  | – fisk, andre akvatiske dyr og produkter framstilt av disse, som er beregnet på produksjon av fôrblandinger til hunder, katter, prydfisk og pelsdyr | 1,0[14] |
+|  | – fisk, andre akvatiske dyr og produkter framstilt av disse som våtfôrmidler på boks til direkte fôring av hunder og katter | 0,3 |
+|  | – kalsiumkarbonat, kalsium- og magnesiumkarbonat[11] | 0,3 |
+|  | Fôrblandinger, | 0,1 |
+|  | med unntak av: |  |
+|  | – mineralfôr | 0,2 |
+|  | – fôrblandinger til fisk | 0,2 |
+|  | – fôrblandinger til hunder, katter, prydfisk og pelsdyr | 0,3 |
+| 6. Nitritt[6] | Fôrmidler, | 15 |
+|  | med unntak av: |  |
+|  | – fiskemel | 30 |
+|  | – ensilasje | – |
+|  | – produkter og biprodukter av sukkerbete og sukkerrør og fra stivelsesframstilling og framstilling av alkoholholdige drikker | – |
+|  | Fullfôr, | 15 |
+|  | med unntak av: |  |
+|  | – fullfôr til hunder og katter og med vanninnhold på over 20 % | – |
+| 7. Melamin[10] | Fôr | 2,5 |
+|  | med unntak av |  |
+|  | – boksefôr til kjæledyr, | 2,5[12] |
+|  | – følgende fôrtilsetningsstoffer: |  |
+|  | – guanidineddiksyre, | 20 |
+|  | – urea, | – |
+|  | – biuret. | – |
+
+*Del II: Mykotoksiner*
+
+| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 %* |
+| --- | --- | --- |
+| 1. Aflatoksin B1 | Fôrmidler | 0,02 |
+|  | Tilskuddsfôr og fullfôr, | 0,01 |
+|  | med unntak av: |  |
+|  | – fôrblandinger til melkekyr og kalver, melkesauer og lam, melkegeiter og kje, smågriser og kyllinger | 0,005 |
+|  | – fôrblandinger til storfe (med unntak av melkekyr og kalver), sauer (med unntak av melkesauer og lam), geiter (med unntak av melkegeiter og kje), svin (med unntak av smågriser) og fjørfe (med unntak av kyllinger) | 0,02 |
+| 2. Meldrøye (*Claviceps purpurea*) | Fôrmidler og fôrblandinger som inneholder umalt korn | 1000 |
+
+*Del III: Naturlige plantegifter*
+
+| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 %* |
+| --- | --- | --- |
+| 1. Fri gossypol | Fôrmidler, | 20 |
+|  | med unntak av: |  |
+|  | – bomullsfrø | 6 000 |
+|  | – bomullsfrøkaker og bomullsfrømel | 1200 |
+|  | Fullfôr, | 20 |
+|  | med unntak av: |  |
+|  | – fullfôr til storfe (med unntak av kalver) | 500 |
+|  | – fullfôr til sauer (med unntak av lam) og geiter (med unntak av kje) | 300 |
+|  | – fullfôr til fjørfe (med unntak av verpehøner) og kalver | 100 |
+|  | – fullfôr til kaniner, lam, kje og svin (med unntak av smågriser) | 60 |
+| 2. Blåsyre | Fôrmidler, | 50 |
+|  | med unntak av: |  |
+|  | – linfrø | 250 |
+|  | – linfrøkaker | 350 |
+|  | – maniokaprodukter og mandelkaker | 100 |
+|  | Fullfôr, | 50 |
+|  | med unntak av: |  |
+|  | – fullfôr til kyllinger (< 6 uker) | 10 |
+| 3. Teobromin | Fullfôr, | 300 |
+|  | med unntak av: |  |
+|  | – fullfôr til svin, | 200 |
+|  | – fullfôr til hunder, kaniner, hester og pelsdyr | 50 |
+| 4. Vinyltiooxazolidon (5-vinyloxazolidin-2-tion) | Fullfôr til fjørfe, | 1000 |
+|  | med unntak av: |  |
+|  | – fullfôr til verpehøner | 500 |
+| 5. Flyktig sennepsolje[15] | Fôrmidler, | 100 |
+|  | med unntak av: – camelina sativa og avledede produkter,[16] produkter avledet av sennepsfrø,[16] rapsfrø og avledede produkter | 4000 |
+|  | Fullfôr, | 150 |
+|  | med unntak av: |  |
+|  | – fullfôr til storfe (med unntak av kalver), sauer (med unntak av lam) og geiter (med unntak av kje) | 1000 |
+|  | – fullfôr til svin (med unntak av smågris) og fjørfe | 500 |
+
+*Del IV: Organiske klorholdige forbindelser (med unntak av dioksiner og PCB)*
+
+| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 %* |
+| --- | --- | --- |
+| 1. Aldrin[17] | Fôrmidler og fôrblandinger, | 0,01[18] |
+| 2. Dieldrin[17] | med unntak av: |  |
+|  | – fett og olje | 0,1[18] |
+|  | – fôrblandinger til fisk | 0,02[18] |
+| 3. Kamfeklor (toksafen) – summen av indikatorforbindelsene CHB 26, 50 og 62[19] | Fisk, andre vanndyr samt produkter av disse, | 0,02 |
+|  | med unntak av: |  |
+|  | – fiskeolje | 0,2 |
+|  | Fullfôr til fisk | 0,05 |
+| 4. Klordan (summen av cis- og transisomerer og av oksyklordan, uttrykt som klordan) | Fôrmidler og fôrblandinger, | 0,02 |
+|  | med unntak av: |  |
+|  | – fett og olje | 0,05 |
+| 5. DDT (summen av DDT-, DDD- (eller TDE-) og DDE-isomerer, uttrykt som DDT) | Fôrmidler og fôrblandinger, | 0,05 |
+|  | med unntak av: |  |
+|  | – fett og olje | 0,5 |
+| 6. Endosulfan (sum av alfa- og betaisomerer og av endosulfansulfat uttrykt som andosulfan) | Fôrmidler og fullfôr, | 0,1 |
+|  | med untak av: |  |
+|  | – bomullsfrø og produkter avledet fra proseseringen, unntatt ren bomullsfrøolje | 0,3 |
+|  | – soyabønner og produkter avledet fra prosesseringen, med unntak av ren soyaolje | 0,5 |
+|  | – ren vegetabilsk olje | 1,0 |
+|  | – fullfôr til fisk, med unntak av laksefisk | 0,005 |
+|  | – fullfôr til laksefisk | 0,05 |
+| 7. Endrin (summen av endrin og delta-keto-endrin, uttrykt som endrin) | Fôrmidler og fôrblandinger, | 0,01 |
+|  | med unntak av: |  |
+|  | – fett og olje | 0,05 |
+| 8. Heptaklor (summen av heptaklor og heptaklorepoksid, uttrykt som heptaklor) | Fôrmidler og fôrblandinger, | 0,01 |
+|  | med unntak av: |  |
+|  | – fett og olje | 0,2 |
+| 9. Heksaklorbenzen (HCB) | Fôrmidler og fôrblandinger, | 0,01 |
+|  | med unntak av: |  |
+|  | – fett og olje | 0,2 |
+| 10. Heksaklorsykloheksan (HCH) |  |  |
+| – alfa-isomerer | Fôrmidler og fôrblandinger, | 0,02 |
+|  | med unntak av: |  |
+|  | – fett og olje | 0,2 |
+| – beta-isomerer | Fôrmidler, | 0,01 |
+|  | med unntak av: |  |
+|  | – fett og olje | 0,1 |
+|  | Fôrblandinger, | 0,01 |
+|  | med unntak av: |  |
+|  | – forblandinger til melkekyr | 0,005 |
+| – gamma-isomerer | Fôrmidler og fôrblandinger, | 0,2 |
+|  | med unntak av: |  |
+|  | – fett og olje | 2,0 |
+
+*Del V: Dioksiner og pcb*
+
+| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i ng WHO-PCDD/F-TEQ/kg (ppt)[20] i fôr med et vanninnhold på 12 %* |
+| --- | --- | --- |
+| 1. Dioksiner (summen av polyklorerte dibenzo-para-dioksiner (PCDD) og polyklorerte dibenzofuraner (PCDF), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005)[21] ) | Fôrmidler av vegetabilsk opprinnelse, | 0,75 |
+|  | med unntak av: |  |
+|  | – vegetabilske oljer og biprodukter av disse | 0,75 |
+|  | Fôrmidler av mineralsk opprinnelse | 0,75 |
+|  | Fôrmidler av animalsk opprinnelse: |  |
+|  | – animalsk fett, herunder melkefett og fett i egg | 1,50 |
+|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 0,75 |
+|  | – fiskeolje | 5,0 |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett[22] og krepsdyrmel | 1,25 |
+|  | – hydrolysater av fiskeprotein som inneholder mer enn 20 % fett, krepsdyrmel | 1,75 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler[24] | 0,75 |
+|  | Tilsetningsstoffer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 1,0 |
+|  | Premikser | 1,0 |
+|  | Fôrblandinger, | 0,75 |
+|  | med unntak av: |  |
+|  | – fôrblandinger til kjæledyr og fisk | 1,75 |
+|  | – fôrblandinger til pelsdyr | – |
+| 2. Summen av dioksiner og dioksinlignende PCB-er (summen av polyklorerte dibenzo-para-dioksiner (PCDD), polyklorerte dibenzofuraner (PCDF) og polyklorerte bifenyler (PCB), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005))[21] | Fôrmidler av vegetabilsk opprinnelse, med unntak av: | 1,25 |
+|  | – vegetabilske oljer og biprodukter av disse | 1,5 |
+|  | Fôrmidler av mineralsk opprinnelse | 1,0 |
+|  | Fôrmidler av animalsk opprinnelse: |  |
+|  | – animalsk fett, herunder melkefett og fett i egg | 2,0 |
+|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 1,25 |
+|  | – fiskeolje | 20,0 |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett[20] | 4,0 |
+|  | – hydrolysert fiskeprotein som inneholder mer enn 20 % fett | 9,0 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler[24] | 1,5 |
+|  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 1,5 |
+|  | Premikser | 1,5 |
+|  | Fôrblandinger, | 1,5 |
+|  | med unntak av: |  |
+|  | – fôrblandinger til kjæledyr og fisk | 5,5 |
+|  | – fôrblandinger til pelsdyr | – |
+
+| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i μg/kg (ppb) i fôr med et vanninnhold på 12 %*[20] |
+| --- | --- | --- |
+| 3. Ikke-dioksinlignende PCB-er (sum av PCB 28, PCB 52, PCB 101, PCB 138, PCB 153 og PCB 180 (ICES – 6))[20] | Fôrmidler av vegetabilsk opprinnelse | 10 |
+|  | Fôrmidler av mineralsk opprinnelse | 10 |
+|  | Fôrmidler av animalsk opprinnelse: |  |
+|  | – animalsk fett, herunder melkefett og fett i egg | 10 |
+|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 10 |
+|  | – fiskeolje | 175 |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett[23] | 30 |
+|  | – hydrolysert fiskeprotein som inneholder mer enn 20 % fett | 50 |
+|  | Fôrtilsetningsstoffer som tilhører funksjonsgruppene bindemidler og antiklumpemidler[24] | 10 |
+|  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 10 |
+|  | Premikser | 10 |
+|  | Fôrblandinger, | 10 |
+|  | med unntak av: |  |
+|  | – fôrblandinger til kjæledyr og fisk | 40 |
+|  | – fôrblandinger til pelsdyr | – |
+
+Forkortelser: «T» = tetra, «Pe» = penta, «Hx» = heksa, «Hp» = hepta, «O» = okta, «CDD» = klordibenzodioksin, «CDF» = klordibenzofuran, «CB» = klorbifenyl.
+
+*Del VI: Skadelige botaniske urenheter*
+
+| *Uønsket stoff* | *Produkter beregnet til fôrvarer* | *Grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 %* |
+| --- | --- | --- |
+| 1. Ugressfrø og frukt som ikke er malt eller knust, og som inneholder alkaloider, glukosider eller andre giftige stoffer, isolert eller sammen, herunder: | Fôrmidler og fôrblandinger | 3000 |
+| – *Datura* sp. |  | 1000 |
+| 2. *Crotalaria* spp. | Fôrmidler og fôrblandinger | 100 |
+| 3. Frø og skall fra *Ricinus communis* L., *Croton tiglium* L. og *Abrus precatorius* L. samt avledede produkter av disse,[25] isolert eller sammen | Fôrmidler og fôrblandinger | 10[26] |
+| 4. Uavskallet bøk – *Fagus silvatica* L. og | Fôrmidler og fôrblandinger | Frø og frukter fra planteartene samt avledede produkter av disse kan forekomme i fôr bare i spormengder som ikke kan bestemmes |
+| 5. Oljejatropha – *Jatropha curcas* L. |  |  |
+| 6. Frø fra *Ambrosia* spp. | Fôrmidler[27] | 50 |
+|  | unntatt: |  |
+|  | hirse (korn av *Panicum miliaceum* L.) og sorghum (korn av *Sorghum bicolor* (L) Moench s.l) som ikke gis direkte til dyr[27] | 200 |
+|  | Fullfôr som inneholder umalt korn og frø | 50 |
+| 7. Frø av: |  |  |
+| – Indisk sennepskål – *Brassica juncea* (L.) Czern. og Coss. ssp. *integrifolia* (West.) Thell. | Fôrmidler og fôrblandinger | Frø må bare forekomme i fôr som spormengder som ikke kan bestemmes |
+| – Sennepskål – *Brassica juncea* (L.) Czern. og Coss. ssp. *juncea* |  |  |
+| – Kinesisk sennepskål – *Brassica juncea* (L.) Czern. og Coss. ssp. *juncea* var. lutea Batalin |  |  |
+| – Svartsennep – *Brassica nigra* (L.) Koch |  |  |
+| – Etiopisk sennepskål – *Brassica carinata* A. Braun |  |  |
+
+*Del VII: Godkjente tilsetningsstoffer som etter uunngåelig overføring forekommer i fôr utenfor målgruppen*
+
+| *Koksidiostatika* | *Produkter beregnet til fôrvarer*[28] | Grenseverdi i mg/kg (ppm) i fôr med et vanninnhold på 12 % |
+| --- | --- | --- |
+| 1. Dekokinat | Fôrmidler | 0,4 |
+|  | Fôrblandinger til |  |
+|  | – eggleggende fjørfe og livkyllinger (> 16 uker), | 0,4 |
+|  | – andre dyrearter. | 1,2 |
+|  | Premikser til bruk i fôr der bruk av dekokinat ikke er tillatt. | [29] |
+| 2. Diclazuril | Fôrmidler | 0,01 |
+|  | Fôrblandinger til |  |
+|  | – eggleggende fjørfe og livkyllinger (> 16 uker) | 0,01 |
+|  | – slaktekaniner og avlskaniner i tiden før slakting da bruk av diclazuril er forbudt (tilbaketrukket fôr) | 0,01 |
+|  | – andre dyrearter enn eggleggende fjørfe (< 16 uker), livkyllinger, perlehøns og livkalkuner | 0,03 |
+|  | Premikser til bruk i fôr der bruk av diclazuril ikke er tillatt | [29] |
+| 3. Halofuginonhydrobromid | Fôrmidler | 0,03 |
+|  | Fôrblandinger til |  |
+|  | – eggleggende fjørfe, livkyllinger og kalkuner (> 12 uker) | 0,03 |
+|  | – oppfôringskyllinger og kalkuner (< 12 uker) i tiden før slakting da bruk av halofuginonhydrobromid er forbudt (tilbaketrukket fôr) | 0,03 |
+|  | – andre dyrearter | 0,09 |
+|  | Premikser til bruk i fôr der bruk av halofuginonhydrobromid ikke er tillatt | [29] |
+| 4. Lasalocid A-natrium | Fôrmidler | 1,25 |
+|  | Fôrblandinger til |  |
+|  | – hunder, kalver, kaniner, hester, melkeproduserende dyr, eggleggende fjørfe, kalkuner (> 16 uker) og livkyllinger (> 16 uker) | 1,25 |
+|  | – slaktekyllinger, livkyllinger (< 16 uker) og kalkuner (< 16 uker) i tiden før slakting da bruk av lasalocid A-natrium er forbudt (tilbaketrukket fôr) | 1,25 |
+|  | – fasaner, perlehøns, vaktler og rapphøns (unntatt eggleggende fjørfe) i tiden før slakting da bruk av lasalocid A-natrium er forbudt (tilbaketrukket fôr) | 1,25 |
+|  | – andre dyrearter | 3,75 |
+|  | Premikser til bruk i fôr der bruk av lasalocid A-natrium ikke er tillatt. | [29] |
+| 5. Alfa-maduramicinammonium | Fôrmidler | 0,05 |
+|  | Fôrblandinger til |  |
+|  | – hester, kaniner, kalkuner (> 16 uker), eggleggende fjørfe og livkyllinger (> 16 uker) | 0,05 |
+|  | – oppfôringskyllinger og kalkuner (< 16 uker) i tiden før slakting da bruk av alfa-maduramicinammonium er forbudt (tilbaketrukket fôr) | 0,05 |
+|  | – andre dyrearter | 0,15 |
+|  | Premikser til bruk i fôr der bruk av alfa-maduramicinammonium ikke er tillatt | [29] |
+| 6. Monensinnatrium | Fôrmidler | 1,25 |
+|  | Fôrblandinger til |  |
+|  | – hester, hunder, små drøvtyggere (sauer og geiter), ender, storfe, melkekyr, eggleggende fjørfe, livkyllinger (> 16 uker) og kalkuner (> 16 uker) | 1,25 |
+|  | – oppfôringskyllinger, livkyllinger (< 16 uker) og kalkuner (< 16 uker) i tiden før slakting da bruk av monensinnatrium er forbudt (tilbaketrukket fôr) | 1,25 |
+|  | – andre dyrearter | 3,75 |
+|  | Premikser til bruk i fôr der bruk av monensinnatrium ikke er tillatt | [29] |
+| 7. Narasin | Fôrmidler | 0,7 |
+|  | Fôrblandinger til |  |
+|  | – kalkuner, kaniner, hester, eggleggende fjørfe og livkyllinger (> 16 uker) | 0,7 |
+|  | – andre dyrearter | 2,1 |
+|  | Premikser til bruk i fôr der bruk av narasin ikke er tillatt | [29] |
+| 8. Nicarbazin | Fôrmidler | 1,25 |
+|  | Fôrblandinger til |  |
+|  | – hester, eggleggende fjørfe og livkyllinger (> 16 uker) | 1,25 |
+|  | – andre dyrearter | 3,75 |
+|  | Premikser til bruk i fôr der bruk av nicarbazin (alene eller kombinert med narasin) ikke er tillatt | [29] |
+| 9. Robenidinhydroklorid | Fôrmidler | 0,7 |
+|  | Fôrblandinger til |  |
+|  | – eggleggende fjørfe og livkyllinger (> 16 uker) | 0,7 |
+|  | – oppfôringskyllinger, oppfôrings- og avlskaniner og kalkuner i tiden før slakting da bruk av robenidinhydroklorid er forbudt (tilbaketrukket fôr) | 0,7 |
+|  | – andre dyrearter | 2,1 |
+|  | Premikser til bruk i fôr der bruk av robenidinhydroklorid ikke er tillatt | [29] |
+| 10. Salinomycin-natrium | Fôrmidler | 0,7 |
+|  | Fôrblandinger til |  |
+|  | – hester, kalkuner, eggleggende fjørfe og livkyllinger (> 12 uker) | 0,7 |
+|  | – oppfôringskyllinger, livkyllinger (< 12 uker) og oppfôringskaniner i tiden før slakting da bruk av salinomycinnatrium er forbudt (tilbaketrukket fôr) | 0,7 |
+|  | – andre dyrearter | 2,1 |
+|  | Premikser til bruk i fôr der bruk av salinomycinnatrium ikke er tillatt | [29] |
+| 11. Semduramicinnatrium | Fôrmidler | 0,25 |
+|  | Fôrblandinger til |  |
+|  | – eggleggende fjørfe og livkyllinger (> 16 uker) | 0,25 |
+|  | – oppfôringskyllinger i tiden før slakting da bruk av semduramicinnatrium er forbudt (tilbaketrukket fôr) | 0,25 |
+|  | – andre dyrearter | 0,75 |
+|  | Premikser til bruk i fôr der bruk av semduramicinnatrium ikke er tillatt | [29] |
+
+*Endret ved [forskrifter 2 mai 2012 nr. 397](https://lovdata.no/forskrift/2012-05-02-397), [1 nov 2012 nr. 1038](https://lovdata.no/forskrift/2012-11-01-1038), [2 juli 2013 nr. 890](https://lovdata.no/forskrift/2013-07-02-890), [29 okt 2013 nr. 1274](https://lovdata.no/forskrift/2013-10-29-1274), [19 sep 2014 nr. 1235](https://lovdata.no/forskrift/2014-09-19-1235), [5 okt 2015 nr. 1147](https://lovdata.no/forskrift/2015-10-05-1147), [5 mars 2018 nr. 298](https://lovdata.no/forskrift/2018-03-05-298), [25 juni 2020 nr. 1515](https://lovdata.no/forskrift/2020-06-25-1515).*
+
+#### Del 2. Tiltaksgrenser for at medlemsstater skal innlede undersøkelser, i samsvar med direktiv 2002/32/EF artikkel 4 annet ledd
+
+*Del: Dioksiner og pcb*
+
+| *Uønskede stoffer* | *Produkter beregnet til fôrvarer* | *Tiltaksgrense i ng WHO-PCDD/F-TEQ/kg (ppt)[31] i fôr med et vanninnhold på 12 %* | *Merknader og tilleggsopplysninger (f.eks. hva slags undersøkelser som skal foretas)* |
+| --- | --- | --- | --- |
+| 1. Dioksiner (summen av polyklorerte dibenzo-para-dioksiner (PCDD) og polyklorerte dibenzofuraner (PCDF), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005)[30] ) | Fôrmidler av vegetabilsk opprinnelse, | 0,5 | [32] |
+|  | med unntak av: |  |  |
+|  | – vegetabilske oljer og biprodukter av disse | 0,5 | 3 |
+|  | Fôrmidler av mineralsk opprinnelse | 0,5 | [32] |
+|  | Fôrmidler av animalsk opprinnelse: |  |  |
+|  | – animalsk fett, herunder melkefett og fett i egg | 0,75 | [32] |
+|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 0,5 | [32] |
+|  | – fiskeolje | 4,0 | [33] |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett og krepsdyrmel | 0,75 | [33] |
+|  | – hydrolysater av fiskeprotein som inneholder mer enn 20 % fett, krepsdyrmel | 1,25 | [33] |
+|  | Tilsetningsstoffer som tilhører de funksjonelle gruppene bindemidler og antiklumpemidler | 0,5 | [32] |
+|  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 0,5 | [32] |
+|  | Premikser | 0,5 | [32] |
+|  | Fôrblandinger, med unntak av: | 0,5 | [32] |
+|  | – fôrblandinger til kjæledyr og fisk | 1,25 | [33] |
+|  | – fôrblandinger til pelsdyr | – |  |
+| 2. Dioksinlignende PCB-er (summen av polyklorerte bifenyler (PCB), uttrykt i toksisitetsekvivalenter i henhold til Verdens helseorganisasjon (WHO), ved bruk av WHO-TEF (toksisitetsekvivalensfaktor, 2005))[30] | Fôrmidler av vegetabilsk opprinnelse, med unntak av: | 0,35 | [32] |
+|  | – vegetabilske oljer og biprodukter av disse | 0,5 | [32] |
+|  | Fôrmidler av mineralsk opprinnelse | 0,35 | [32] |
+|  | Fôrmidler av animalsk opprinnelse: |  |  |
+|  | – animalsk fett, herunder melkefett og fett i egg | 0,75 | [32] |
+|  | – andre produkter fra landdyr, herunder melk og melkeprodukter samt egg og eggprodukter | 0,35 | [32] |
+|  | – fiskeolje | 11,0 | [33] |
+|  | – fisk, andre vanndyr samt produkter av disse, med unntak av fiskeolje og hydrolysater av fiskeprotein som inneholder mer enn 20 % fett[32] | 2,0 | [33] |
+|  | – hydrolysert fiskeprotein som inneholder mer enn 20 % fett | 5,0 | [33] |
+|  | Tilsetningsstoffer som tilhører de funksjonelle gruppene bindemidler og antiklumpemidler | 0,5 | [32] |
+|  | Tilsetningsstoffer i fôrvarer som tilhører den funksjonelle gruppen forbindelser av sporstoffer | 0,35 | [32] |
+|  | Premikser | 0,35 | [32] |
+|  | Fôrblandinger, | 0,5 | [32] |
+|  | med unntak av: |  |  |
+|  | – fôrblandinger til kjæledyr og fisk | 2,5 | [33] |
+|  | – fôrblandinger til pelsdyr | – |  |
+
+| *Forbindelse* | *TEF-verdi* | *Forbindelse* | *TEF-verdi* |
+| --- | --- | --- | --- |
+| *Dibenzo-p-dioksiner (PCDD) og dibenzofuraner (PCDF)* |  | *«Dioksinlignende» PCB-er: Non-orto PCB-er + Mono-orto PCB-er* |  |
+| 2,3,7,8-TCDD | 1 |  |  |
+| 1,2,3,7,8-PeCDD | 1 | *Non-orto PCB-er* |  |
+| 1,2,3,4,7,8-HxCDD | 0,1 | PCB 77 | 0,0001 |
+| 1,2,3,6,7,8-HxCDD | 0,1 | PCB 81 | 0,0003 |
+| 1,2,3,7,8,9-HxCDD | 0,1 | PCB 126 | 0,1 |
+| 1,2,3,4,6,7,8-HpCDD | 0,01 | PCB 169 | 0,03 |
+| OCDD | 0,0003 |  |  |
+|  |  | *Mono-orto PCB-er* |  |
+| 2,3,7,8-TCDF | 0,1 | PCB 105 | 0,00003 |
+| 1,2,3,7,8-PeCDF | 0,03 | PCB 114 | 0,00003 |
+| 2,3,4,7,8-PeCDF | 0,3 | PCB 118 | 0,00003 |
+| 1,2,3,4,7,8-HxCDF | 0,1 | PCB 123 | 0,00003 |
+| 1,2,3,6,7,8-HxCDF | 0,1 | PCB 156 | 0,00003 |
+| 1,2,3,7,8,9-HxCDF | 0,1 | PCB 157 | 0,00003 |
+| 2,3,4,6,7,8-HxCDF | 0,1 | PCB 167 | 0,00003 |
+| 1,2,3,4,6,7,8-HpCDF | 0,01 | PCB 189 | 0,00003 |
+| 1,2,3,4,7,8,9-HpCDF | 0,01 |  |  |
+| OCDF | 0,0003 |  |  |
+
+Forkortelser: «T» = tetra, «Pe» = penta, «Hx» = hexa, «Hp» = hepta, «O» = octa, «CDD» = klordibenzodioksin, «CDF» = klorodibenzofuran, «CB» = klorbifenyl.
+
+*Endret ved [forskrifter 2 mai 2012 nr. 397](https://lovdata.no/forskrift/2012-05-02-397), [1 nov 2012 nr. 1038](https://lovdata.no/forskrift/2012-11-01-1038), [2 juli 2013 nr. 890](https://lovdata.no/forskrift/2013-07-02-890).*
+
+## Vedlegg 2 (Opphevet)
+
+*Opphevet 1 mai 2012 ved [forskrift 2 mai 2012 nr. 396](https://lovdata.no/forskrift/2012-05-02-396).*
+
+## Vedlegg 3 (Opphevet)
+
+*Opphevet ved [forskrift 13 nov 2006 nr. 1263](https://lovdata.no/forskrift/2006-11-13-1263).*
+
+## Vedlegg 4 (Opphevet)
+
+*Opphevet 1 mai 2011 ved [forskrift 19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427).*
+
+## Vedlegg 5 (Opphevet)
+
+*Opphevet ved forskrift [18 jan 2021 nr. 132](https://lovdata.no/forskrift/2021-01-18-132).*
+
+## Vedlegg 6 – 8 (Opphevet)
+
+*Opphevet 1 mai 2001 ved [forskrift 19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427).*
+
+## Vedlegg 9 (Opphevet)
+
+*Opphevet ved [forskrift 12 april 2005 nr. 320](https://lovdata.no/forskrift/2005-04-12-320).*
+
+## Vedlegg 10 (Opphevet)
+
+*Opphevet 1 mai 2012 ved [forskrift 2 mai 2012 nr. 396](https://lovdata.no/forskrift/2012-05-02-396).*
+
+## Vedlegg 11 (Opphevet)
+
+*Opphevet ved [forskrift 10 feb 2010 nr. 151](https://lovdata.no/forskrift/2010-02-10-151) som endret ved [forskrift 19 feb 2010 nr. 316](https://lovdata.no/forskrift/2010-02-19-316) (i kraft 1 mars 2010).*
+
+## Vedlegg 12 (Opphevet)
+
+*Opphevet 1 mai 2001 ved [forskrift 19 april 2011 nr. 427](https://lovdata.no/forskrift/2011-04-19-427).*
+
+## Vedlegg 13 (Opphevet)
+
+*Opphevet ved [forskrift 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010).*
+
+## Vedlegg 14 – Salmonellakontroll
+
+*Overskriften endret ved [forskrift 29 juni 2011 nr. 728](https://lovdata.no/forskrift/2011-06-29-728).*
+
+### Del A Virksomhetenes kontroll for salmonella ved innførsel av fôrvarer til matproduserende landdyr
+
+#### 1. Prøvetaking
+
+Ved innførsel skal det minimum tas representative prøver ved lasting for analyse av salmonella. Det må foreligge rutiner for å forebygge mot kontaminering under transport.
+
+Prøvetakingen skal utføres av prøvetakere med tilstrekkelig opplæring og kunnskap. Uttak av prøver skal skje ved hjelp av automatisk prøvetaker eller annet egnet prøvetakingsutstyr.
+
+Krav til antall sluttprøver som skal analyseres:
+
+| *Partistørrelse, tonn* | *Ikke risikofôrvarer* | *Risikofôrvarer* |
+| --- | --- | --- |
+| 0–50 | 1 | 4 |
+| 50,1–1 000 | 2 | 8 |
+| 1 000,1–10 000 | 4 | 16 |
+| > 10 000 | 8 | 32 |
+
+Hver sluttprøve skal veie minst 250 g og bestå av minimum 10 delprøver.
+
+#### 2. Risikofôrvarer
+
+Risikofôrvarer kan ikke tas i bruk i virksomheten uten at varepartiet er analysert og alle analyser er negative for salmonella.
+
+Følgende fôrmidler er klassifisert som risikofôrvarer:
+
+1. Oljefrø, oljefrukter og produkter fremstilt av disse)[34]
+2. Foredlede produkter av mais
+3. Fiskemel, fjørfemel, svinemel og insektmel.
+
+Virksomheten skal vurdere om det er andre risikofôrvarer for salmonella enn de som er listet over. Dette skal dokumenteres i virksomhetens egenkontrollsystem (HACCP).
+
+Fôrblandinger som inneholder ovennevnte fôrmidler å anse som risikofôrvarer.
+
+#### 3. Fôrvarer som er unntatt fra kravet om prøvetaking
+
+1. Oljer og fett med et vanninnhold under 1 %
+2. Tørket grovfôr i form av halm, høy mv.
+3. Melasse
+4. Premikser
+5. Tilsetningsstoffer
+6. Tilskuddsfôr i form av vitamin- og eller mineralfôrblanding.
+
+*Del A endret ved forskrifter [9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010), [29 juni 2011 nr. 728](https://lovdata.no/forskrift/2011-06-29-728), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [7 juni 2017 nr. 905](https://lovdata.no/forskrift/2017-06-07-905), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+### Del B Virksomhetenes prøvetaking av salmonella i produksjonsmiljø ved lagring og produksjon av fôrvarer til matproduserende landdyr
+
+#### 1. Prøvemateriale
+
+Egnet prøvemateriale er rester av fôr, kakedannelser, belegg og støv. Der det ikke finnes nok prøvemateriale, skal det i stedet tas svaberprøve.
+
+Utvalgte kontrollpunkter må vurderes ut fra sannsynlighet for funn av salmonella og identifiseres i virksomhetens egenkontrollsystem (HACCP).
+
+#### 2. Miljøprøver i mottaksanlegg for innførte fôrmidler
+
+*Antall prøver og prøvetakingsfrekvens*
+
+Ved mottak og lagring av risikofôrmidler, jf. [vedlegg 14](for-2002-11-07-1290-forvareforskriften-forforskriften.md). del A, punkt 2, skal virksomheten ta minimum 4 prøver hver 14. dag. Prøvene skal være fra ulike kontrollpunkter og veie ca. 50 g.
+
+Ved mottak og lagring av ikke-risikofôrmidler skal virksomheten ta slike miljøprøver minimum hver 4. uke.
+
+Minimum en gang i året skal virksomheten foreta en utvidet kontroll med flere prøver av støv og fôrrester i anlegget.
+
+Virksomheten skal ta flere miljøprøver og oftere dersom det er identifisert forhøyet risiko for påvisning av salmonella i virksomhetens egenkontrollsystem (HACCP).
+
+*Kontrollpunkter*
+
+Virksomheten skal identifisere kontrollpunkter hvor det er forhøyet risiko for funn av salmonella i virksomhetens egenkontrollsystem (HACCP). Kontrollpunktene kan være:
+
+a. råvareinntak (losselinjer med tilhørende filter)
+b. elevatorbunner, redlere m.m.
+c. hvis varmebehandling: rommet og området rundt kjøler
+d. luftfilter knyttet til det innvendige transportsystemet
+e. transportutstyr til lagersilo
+f. tømt lagersilo før nytt vareparti.
+
+#### 3. Miljøprøver i anlegg som produserer fôrblandinger
+
+*Antall prøver og prøvetakingsfrekvens*
+
+Ved produksjon av fôrblandinger skal virksomheten ta minimum 3 prøver av produksjonsmiljøet hver 14. dag. Prøvene skal tas fra både uren og ren sone og fra minst 3 ulike kontrollpunkter. Prøvene skal veie ca. 50 g.
+
+Prøvetaking av produksjonsmiljøet skal skje minimum hver 4. uke ved produksjon av fôrblandinger til svin og drøvtyggere med en årlig produksjon på under 10 000 tonn.
+
+Virksomheten skal ta flere miljøprøver og oftere dersom det er identifisert forhøyet risiko for påvisning av salmonella i virksomhetens egenkontrollsystem (HACCP).
+
+*Kontrollpunkter*
+
+Virksomheten skal identifisere kontrollpunkter hvor det er forhøyet risiko for funn av salmonella i virksomhetens egenkontrollsystem (HACCP). Kontrollpunktene kan være:
+
+- Uren sone:
+  a. råvareinntak (transportutstyr herunder elevatorbunner, redlere m.m.)
+  b. aspiratør, avsug og filtre
+  c. rommet og området rundt kjøler
+- Ren sone:
+  a. innvendig i kjøler etter varmebehandling, inkludert luftinntak og luftuttak fra kjøler
+  b. transportutstyr for ferdigvarer.
+
+#### 4. Miljøprøver i kjøretøy for transport av fôrvarer i bulk
+
+Virksomheten skal kontrollere kjøretøy som transporterer risikofôrvarer, jf. [vedlegg 14](for-2002-11-07-1290-forvareforskriften-forforskriften.md) del A pkt. 2, i bulk for salmonella, dersom forhøyet risiko for funn av salmonella er identifisert i virksomhetens egenkontrollsystem (HACCP). Prøvene skal tas før kjøretøyet rengjøres og veie ca. 50 g.
+
+*Del B endret ved [forskrifter 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010), [29 juni 2011 nr. 728](https://lovdata.no/forskrift/2011-06-29-728), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [7 juni 2017 nr. 905](https://lovdata.no/forskrift/2017-06-07-905), [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+### Del C Analysemetoder og oppfølging av positive funn
+
+#### 1. Krav til fôrvarevirksomheten
+
+Prøvetakingen skal utføres av personell som har tilstrekkelig opplæring og kunnskap.
+
+Prøvene skal merkes med informasjon om kontrollpunkt for prøveuttak og type prøvemateriale.
+
+Alle analyseresultater og dokumentasjon på gjennomførte korrigerende tiltak ved påvisning av salmonella skal til enhver tid være tilgjengelige for tilsynsmyndigheten og arkiveres i minst to år.
+
+Varsling til Mattilsynet, jf. [§ 11](for-2002-11-07-1290-forvareforskriften-forforskriften.md), skal skje ved registrering av meldepliktig hendelse i Mattilsynets skjematjenester.
+
+#### 2. Krav til metoder og akkreditering
+
+Prøver skal analyseres i samsvar med den til enhver tid nyeste versjon av EN ISO 6579-1. Alternative analysemetoder validert i samsvar med den til enhver tid nyeste versjonen av EN ISO 16140-2 kan benyttes.
+
+Analysene skal utføres ved laboratorier som er akkrediterte for metodene på relevant prøvemateriale.
+
+#### 3. Krav til laboratorier
+
+Primærlaboratoriet skal straks sende rendyrket isolat av positive funn, sammen med tilgjengelige opplysninger om prøven, til nasjonalt referanselaboratorium for serotyping.
+
+Nasjonalt referanselaboratorium skal fortløpende sende resultatet av serotypingen til Mattilsynet, til virksomheten og til primærlaboratoriet.
+
+*Del C tilføyd ved forskrift [30 april 2025 nr. 744](https://lovdata.no/forskrift/2025-04-30-744).*
+
+## Vedlegg 15 (Opphevet)
+
+*Opphevet ved [forskrift 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010).*
+
+## Vedlegg 16. Kontrolldokument
+
+![](https://lovdata.no/static/SF/sf-20021107-1290-v16-01-01.gif)
+
+*Tilføyd ved [forskrift 26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159).*
+
+## Forordninger
+
+### Forordning (EU) 2015/786
+
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/786](https://lovdata.no/eu/32015r0786) med de endringer og tillegg som følger av EØS-tilpasningen av rettsaken i samsvar med vedlegg I, protokoll 1 til EØS-avtalen og avtalen for øvrig.
+
+For å lese forordning [(EU) 2015/786](https://lovdata.no/eu/32015r0786) se her: [(pdf)](https://lovdata.no/static/SF/32015r0786u.pdf)
+
+Uoffisiell oversettelse.
+
+*Tilføyd ved [forskrift 18 mars 2016 nr. 318](https://lovdata.no/forskrift/2016-03-18-318).*
+
+## Fotnoter
+
+**1.** Et fôrmiddel som brukes i tilvirking av blandinger kan betegnes råvare.
+
+**2.** Grenseverdiene viser til samlet arseninnhold.
+
+**3.** På anmodning fra vedkommende myndighet, skal ansvarlig driftsleder utføre en analyse for å vise at innholdet av uorganisk arsen er lavere enn 2 ppm. Denne analysen er særlig viktig for algearten *Hizikia fusiforme*.
+
+**4.** Grovfôr omfatter produkter beregnet til fôrvarer som høy, ensilasje, friskt gress osv.
+
+**5.** Grenseverdiene viser til samlet kvikksølvinnhold.
+
+**6.** Grenseverdiene er uttrykt som natriumnitritt.
+
+**7.** Grenseverdien som er fastsatt for premikser, tar hensyn til tilsetningsstoffene med det høyeste innholdet av bly og kadmium og ikke hvor følsomme de forskjellige dyreartene er overfor bly og kadmium. Som fastsatt i artikkel 16 i europaparlaments- og rådsforordning [(EF) nr. 1831/2003](https://lovdata.no/eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29) og for å verne dyrs og menneskers helse, er produsenten av premikser ansvarlig ikke bare for å overholde grenseverdiene for premikser, men også for å sikre at bruksanvisningen for premiksene er i samsvar med grenseverdiene for tilskuddsfôr og fullfôr.
+
+**8.** Grenseverdiene gjelder en analytisk bestemmelse av fluor, der ekstraksjon utføres med saltsyre 1 N i 20 minutter ved omgivelsestemperatur. Likeverdige ekstraksjonsmetoder kan anvendes dersom det kan dokumenteres at den anvendte ekstraksjonsmetoden har likeverdig ekstraksjonseffektivitet.
+
+**9.** Prosentandelen av fosfor i fôr med et vanninnhold på 12 %.
+
+**10.** Grenseverdien gjelder bare melamin. Det vil på et senere tidspunkt bli vurdert å la de strukturelt beslektede forbindelsene cyanursyre, ammelin og ammelid inngå i grenseverdien.
+
+**11.** Kalsium og magnesiumkarbonat refererer seg til en naturlig blanding av kalsiumkarbonat og magnesiumkarbonat som beskrevet i Kommisjonsforordning [(EU) nr. 575/2011](https://lovdata.no/eu/32011r0575) av 16. juni 2011 om Formiddelkatalogen (OJ L 159, 17.6.2011).
+
+**12.** Maksimumsgrensen gjelder hermetisk kjæledyrfôr slik det omsettes.
+
+**13.** Ved bestemmelse av bly i kaolinleire og i fôr som inneholder kaolinleire, refererer maksimumsverdien seg til analytisk bestemmelse av bly der ekstraksjonen foretas med salpetersyre (5 % w/w) i 30 minutter ved kokepunktet. Ekvivalente ekstraksjonsmetoder kan godkjennes dersom det kan bevises at den benyttede ekstraksjonsmetoden har tilsvarende ekstraksjonseffekt.
+
+**14.** Grenseverdien gjelder på grunnlag av våtvekt.
+
+**15.** Grenseverdiene er uttrykt som allylisotiocyanat.
+
+**16.** På forespørsel fra myndighetene må ansvarlig virksomhet kunne legge fram analyseresultat for å vise at det totale innholdet av glukosinolater er under 30 mmol/kg. Referansemetoden for analyse er EN-ISO 9167-1:1095.
+
+**17.** Isolert eller sammen, uttrykt som dieldrin.
+
+**18.** Grenseverdi for aldrin og dieldrin, isolert eller sammen, uttrykt som dieldrin.
+
+**19.** Nummerering i henhold til Parlar, foran nummeret skrives enten «CHB» eller «Parlar»:  
+CHB 26: 2-endo,3-ekso,5-endo,6-ekso,8,8,10,10-oktaklorbornan,  
+CHB 50: 2-endo,3-ekso,5-endo,6-ekso,8,8,9,10,10-nonaklorbornan, CHB 62: 2,2,5,5,8,9,9,10,10-nonaklorbornan.
+
+**20.** Øvre konsentrasjoner: De øvre konsentrasjonene beregnes ut fra den antagelsen at alle verdier for de forskjellige forbindelsene som ligger under grensen for mengdebestemmelse, er lik grensen for mengdebestemmelse.
+
+**21.** Tabell over TEF (toksisk ekvivalensfaktor) for dioksiner, furaner og dioksinlignende PCB-er: WHO-TEF til vurdering av helserisiko for mennesker, basert på konklusjoner fra WHOs ekspertmøte for det internasjonale programmet for kjemisk sikkerhet, som ble holdt i Genève i juni 2005 (Martin van den Berg et al., The 2005 World Health Organisation Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223-241 (2006)).
+
+**22.** Fersk fisk og andre vanndyr som leveres direkte og brukes uten mellomliggende behandling til produksjon av fôr til pelsdyr, er ikke underlagt grenseverdiene, mens det gjelder grenseverdier på 3,5 ng WHO-PCDD/F-TEQ/kg produkt og 6,5 ng WHO-PCDD/F-PCB-TEQ/kg produkt for fersk fisk og en grenseverdi på 20,0 ng WHO-PCDD/F-PCB-TEQ/kg produkt for fiskelever som brukes som fôr direkte til kjæledyr, dyr i zoologisk hage eller på sirkus, eller som brukes som fôrmidler til produksjon av fôr til kjæledyr. Produktene eller bearbeidede animalske proteiner fra slike dyr (pels- og kjæledyr, dyr i zoologisk hage og på sirkus) kan ikke inngå i næringsmiddelkjeden og er forbudt å bruke som fôr til produksjonsdyr som holdes, oppfôres eller foredles med tanke på produksjon av næringsmidler.
+
+**23.** Fersk fisk og andre vanndyr som leveres direkte og brukes uten mellomliggende behandling til produksjon av fôr til pelsdyr, er ikke underlagt grenseverdiene, mens det gjelder grenseverdier på 75 μg/kg produkt for fersk fisk og 200 μg/kg produkt for fiskelever som brukes som fôr direkte til kjæledyr, dyr i zoologisk hage eller på sirkus, eller som brukes som fôrmidler til produksjon av fôr til kjæledyr. Produktene eller bearbeidede animalske proteiner fra slike dyr (pels- og kjæledyr, dyr i zoologisk hage og på sirkus) kan ikke inngå i næringsmiddelkjeden og er forbudt å bruke som fôr til produksjonsdyr som holdes, oppfôres eller foredles med tanke på produksjon av næringsmidler.
+
+**24.** Den øvre grenseverdien gjelder også for de fôrtilsetningsstoffene som tilhører funksjonsgruppene stoffer til kontroll med forurensning med radionuklider og stoffer som reduserer forurensning av fôr med mykotoksiner, som også tilhører funksjonsgruppene bindemidler og antiklumpemidler.
+
+| *Forbindelse* | *TEF-verdi* | *Forbindelse* | *TEF-verdi* |
+| --- | --- | --- | --- |
+| *Dibenzo-p-dioksiner (PCDD) og dibenzofuraner (PCDF)* |  | *Dioksinlignende PCB-er: Non-orto PCB-er + Mono-orto PCB-er* |  |
+| 2,3,7,8-TCDD | 1 |  |  |
+| 1,2,3,7,8-PeCDD | 1 | *Non-orto PCB-er* |  |
+| 1,2,3,4,7,8-HxCDD | 0,1 | PCB 77 | 0,0001 |
+| 1,2,3,6,7,8-HxCDD | 0,1 | PCB 81 | 0,0003 |
+| 1,2,3,7,8,9-HxCDD | 0,1 | PCB 126 | 0,1 |
+| 1,2,3,4,6,7,8-HpCDD | 0,01 | PCB 169 | 0,03 |
+| OCDD | 0,0003 |  |  |
+|  |  | *Mono-orto PCB-er* |  |
+| 2,3,7,8-TCDF | 0,1 | PCB 105 | 0,00003 |
+| 1,2,3,7,8-PeCDF | 0,03 | PCB 114 | 0,00003 |
+| 2,3,4,7,8-PeCDF | 0,3 | PCB 118 | 0,00003 |
+| 1,2,3,4,7,8-HxCDF | 0,1 | PCB 123 | 0,00003 |
+| 1,2,3,6,7,8-HxCDF | 0,1 | PCB 156 | 0,00003 |
+| 1,2,3,7,8,9-HxCDF | 0,1 | PCB 157 | 0,00003 |
+| 2,3,4,6,7,8-HxCDF | 0,1 | PCB 167 | 0,00003 |
+| 1,2,3,4,6,7,8-HpCDF | 0,01 | PCB 189 | 0,00003 |
+| 1,2,3,4,7,8,9-HpCDF | 0,01 |  |  |
+| OCDF | 0,0003 |  |  |
+
+**25.** I den grad innholdet kan bestemmes ved analytisk mikroskopi.
+
+**26.** Omfatter også deler av frøskall.
+
+**27.** I de tilfelle det er entydig bestemt at korn eller frø skal males eller knuses er det ikke behov for å kreve rensing av korn og frø som inneholder ikke tillatte mengder frø av *Ambrosia* spp. før knusing eller maling på betingelser av at:
+
+- forsenedelsen er transportert under ett til malings- eller knusingsvirksomheten, og maling- eller knusingsvirksomheten er varslet på forhånd om forekomsten av høye nivåer av *Ambrosia* spp.-frø for å kunne ta ekstra forholdsregler for å unngå spredning til miljøet, og
+- det kreves at sterk bevissthet om at forebyggened tiltak vil bli gjennomført for å unngå at *Ambrosia* spp.-frø blir spredd i miljøet under transport til malings- eller knusingsvirksomhetene, og
+- tilsynsmyndigheten er enig i transporten etter å ha forsikret seg om at de ovenfornevnte betingelsene er oppfuylt.
+
+I tilfelle disse betingelsene ikke er oppfylt, skal forsendelsen renses før enhver transport inn i EU og avrenset må bli destruert på en trygg måte.
+
+**28.** Uten at det berører godkjente grenseverdier innenfor rammen av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](https://lovdata.no/eu/32003r1831) (EUT L 268 av 18.10.2003, s. 29).
+
+**29.** Grenseverdien for stoffet i premiksen er den konsentrasjon som ikke medfører et innhold av stoffet på over 50 % av grenseverdiene som er fastsatt for fôret når bruksanvisningen for premiksen følges.
+
+**30.** Tabell over TEF (toksisk ekvivalensfaktor) for dioksiner, furaner og dioksinlignende PCB-er: WHO-TEF til vurdering av helserisiko for mennesker, basert på konklusjoner fra WHOs ekspertmøte for det internasjonale programmet for kjemisk sikkerhet, som ble holdt i Genève i juni 2005 (Martin van den Berg et al., The 2005 World Health Organisation Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223-241 (2006)).
+
+**31.** Øvre konsentrasjoner: De øvre konsentrasjonene beregnes ut fra den antagelsen at alle verdier for de forskjellige forbindelsene som ligger under grensen for mengdebestemmelse, er lik grensen for mengdebestemmelse.
+
+**32.** Identifisering av forurensningskilden. Så snart kilden er identifisert, treffes egnede tiltak der det er mulig, for å redusere eller fjerne forurensningskilden.
+
+**33.** I mange tilfeller vil det være unødvendig å undersøke forurensningskilden fordi bakgrunnsnivået i noen områder er nær eller over tiltaksgrensen. Dersom tiltaksgrensen er overskredet, skal likevel alle opplysninger om prøvetakingsperiode, sted, fiskearter osv., registreres med tanke på framtidige tiltak for å styre forekomsten av dioksiner og dioksinlignende forbindelser i disse fôrmidlene.
+
+**34.** Jf. [forskrift om merking og omsetning av fôrvarer § 4](for-2011-04-02-360-forskrift-om-merking-mm-av-forvarer.md), forordning [(EU) nr. 68/2013](https://lovdata.no/eu/32013r0068), del C, Liste over fôrmidler punkt 2.

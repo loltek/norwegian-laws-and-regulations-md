@@ -1,0 +1,53 @@
+# Forskrift om regulering av fisket etter kveite nord for 62° N i 2026
+
+- **Datokode:** FOR-2026-05-04-762
+- **DokumentID:** SF/forskrift/2026-05-04-762
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Fiskeriavdelingen
+- **Hjemmel:** lov 06.06.2008 nr. 37/§12; lov 06.06.2008 nr. 37/§16; lov 06.06.2008 nr. 37/§36; lov 06.06.2008 nr. 37/§37; lov 06.06.2008 nr. 37/§59
+- **Kunngjort:** 2026-05-08 15:05
+- **I kraft fra:** 2026-05-04 – 2026-12-31
+- **Merknad:** Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 4. mai 2026 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) §§ 12, 16, 36, 37 og 59.
+- **Kilde:** <https://lovdata.no/forskrift/2026-05-04-762>
+
+## § 1. Generelt forbud
+
+Det er forbudt for norske fartøy å fiske og lande kveite nord for 62° N i 2026.
+
+## § 2. Fartøykvoter
+
+Uten hinder av forbudet i [§ 1](for-2026-05-04-762-forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026.md) kan fartøy under 15 meter med adgang til å delta i direkte fiske etter kveite, og som fisker med konvensjonelle redskap, fiske og lande inntil 4 tonn kveite i 2026. Kveite tatt som bifangst går til fradrag i denne kvoten.
+
+## § 3. Bifangst utenom fredningstiden
+
+For fartøy som ikke har adgang til å delta i direkte fiske etter kveite er det ved fiske etter andre fiskeslag tillatt å ha inntil 20 % bifangst av kveite i vekt i de enkelte fangster og ved landing i perioden fram til og med 19. desember 2026.
+
+Fartøy som ikke har adgang til å delta i direkte fiske etter kveite kan, uavhengig av første ledd, ikke ha mer enn 2,5 tonn kveite som bifangst i perioden fram til og med 19. desember 2026.
+
+## § 4. Kvoteutnyttelse
+
+Hvert fartøy kan bare fiske og lande én kvote av de enkelte fiskeslag innenfor kvoteåret.
+
+Dersom fartøyeier i åpen gruppe skifter ut sitt fartøy, skal det gjøres fradrag i kvoten som tildeles det ervervede fartøyet for det kvantum fartøyeier har fisket og landet innenfor kvoteåret med fartøyet som skiftes ut. Uten hinder av første ledd kan fartøyeier fiske med det ervervede fartøyet selv om tidligere eier har fisket og levert fangst med samme fartøy innenfor kvoteåret, men det skal da gjøres fradrag i kvoten for det kvantum selger av utskiftingsfartøyet har fisket og landet i kvoteåret med fartøyet. Når det kan gjøres fradrag både etter første og annet punktum, skal bare det kvantumet som er størst trekkes fra.
+
+Dersom det er foretatt utskifting flere ganger i løpet av kvoteåret, skal det så langt det passer tas høyde for dette ved fradrag i kvoten etter annet ledd.
+
+## § 5. Overføring av fangst
+
+Det kvantum som kan fiskes med det enkelte fartøy kan ikke overføres til annet fartøy. Det er forbudt å motta og å lande fangst som er fisket av annet fartøy.
+
+## § 6. Bemyndigelse
+
+Fiskeridirektoratet kan endre forskriften og fastsette nærmere bestemmelser som er nødvendige for å oppnå en rasjonell og hensiktsmessig utøvelse eller gjennomføring av fisket.
+
+## § 7. Overtredelsesgebyr
+
+Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, kan ilegges overtredelsesgebyr i henhold til [havressurslova § 59](https://lovdata.no/lov/2008-06-06-37/§59) og [forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven](for-2011-12-20-1437-forskrift-om-tvangsmulkt-mv-ved-brudd-paa-havressurslova-og-deltakerloven.md).
+
+## § 8. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften straffes i henhold til [havressurslova §§ 60](https://lovdata.no/lov/2008-06-06-37/§60), [61](https://lovdata.no/lov/2008-06-06-37/§61), [62](https://lovdata.no/lov/2008-06-06-37/§62), [64](https://lovdata.no/lov/2008-06-06-37/§64) og [65](https://lovdata.no/lov/2008-06-06-37/§65). På samme måte straffes forsøk og medvirkning.
+
+## § 9. Ikrafttredelse
+
+Forskriften trer i kraft straks og gjelder til og med 31. desember 2026.

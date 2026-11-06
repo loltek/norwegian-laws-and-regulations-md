@@ -1,0 +1,205 @@
+# Forskrift om elektronisk kommunikasjon med domstolene
+
+- **Korttittel:** ELSAM-forskriften
+- **Datokode:** FOR-2016-10-28-1258
+- **DokumentID:** SF/forskrift/2016-10-28-1258
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Sivilavdelingen, Domstoladministrasjonen
+- **Hjemmel:** lov 13.08.1915 nr. 5/§163a; lov 13.08.1915 nr. 5/§197a
+- **Publisert i:** I 2016 hefte 14
+- **Kunngjort:** 2016-11-01 14:50
+- **I kraft fra:** 2016-10-28, Domstoladm. bestemmer
+- **Siste endring i kraft:** 2026-05-01
+- **Sist endret ved:** forskrift 26.03.2026 nr. 495 fra 2026-05-01
+- **Endrer:** forskrift 12.02.2012 nr. 140
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2016-11-29 (§ 13 andre ledd)
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 28. oktober 2016 med hjemmel i lov 13. august 1915 nr. 5 om domstolene (domstolloven) § 163a og § 197a. Fremmet av Justis- og beredskapsdepartementet. Endret ved vedtak 28 okt 2016 nr. 1260 (ikrafttredelser), 17 jan 2017 nr. 44 (ikrafttredelser), 4 apr 2017 nr. 436 (ikrafttredelser), 25 okt 2017 nr. 1683 (ikrafttredelser), endret ved forskrifter 15 juni 2018 nr. 876, 10 aug 2018 nr. 1230, endret ved vedtak 19 sep 2018 nr. 1340 (ikrafttredelser), 22 nov 2018 nr. 1743 (ikrafttredelser), 14 des 2018 nr. 1923, 9 mars 2020 nr. 249 (ikrafttredelser), 17 nov 2023 nr. 1855 (i kraft 1 jan 2024), 26 mars 2026 nr. 495 (i kraft 1 mai 2026). Rettelser: 29.11.2016 (§ 13 andre ledd).
+- **Kilde:** <https://lovdata.no/forskrift/2016-10-28-1258>
+
+## § 1. Formål
+
+Forskriften skal legge til rette for sikker og effektiv bruk av elektronisk kommunikasjon med domstolene og bidra til at advokater og andre aktører kan kommunisere med domstolene på en enkel måte.
+
+## § 2. Virkeområde
+
+Forskriften gjelder elektronisk kommunikasjon i nettportalen og ved systemintegrasjon
+
+a. mellom domstolene og aktører i sivile saker, saker som er reist for jordskifteretten og straffesaker
+b. ved krav om salær fra det offentlige fremsatt overfor domstolene.
+
+*Endret ved [forskrift 14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019).*
+
+## § 3. Hvem som kan kommunisere elektronisk i nettportalen
+
+For å kunne sende inn og motta dokumenter elektronisk, skal bruker være registrert i nettportalen, jf. [§ 5](for-2016-10-28-1258-elsam-forskriften.md), såfremt den tekniske løsningen åpner for det. Som bruker kan følgende registrere seg:
+
+a. advokater og autoriserte advokatfullmektiger
+b. salærberettigete som skal framsette krav om salær etter [forskrift 3. desember 1997 nr. 1441](for-1997-12-03-1441-salaerforskriften.md) om salær fra det offentlige til advokater m.v.
+c. rettsoppnevnte sakkyndige, tolker eller andre profesjonelle aktører
+d. meddommere, jordskiftemeddommere og skjønnsmedlemmer
+e. selvprosederende parter
+f. privatpersoner.
+
+Registrering som bruker skjer ved utfylling av et elektronisk skjema utformet av Domstoladministrasjonen. Ved utfylling av skjemaet aksepterer bruker vilkårene for tilgang til og bruk av nettportalen, herunder at skriftlig kommunikasjon med retten så langt mulig skal skje elektronisk. Plikten til elektronisk kommunikasjon gjelder så lenge vedkommende er registrert som bruker av nettportalen.
+
+*Endret ved [forskrift 14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019).*
+
+## § 3a. Obligatorisk bruk av nettportalen for advokater og autoriserte advokatfullmektiger
+
+Advokater og autoriserte advokatfullmektiger plikter å registrere seg som bruker i nettportalen og kommunisere gjennom nettportalen med domstolene som omfattes av forskriften.
+
+Plikten etter første ledd inntrer når vedkommende opptrer som prosessfullmektig i en skjønns- eller tvistesak etter [§ 2 bokstav a](for-2016-10-28-1258-elsam-forskriften.md), opptrer som forsvarer eller bistandsadvokat i straffesak etter [§ 2 bokstav a](for-2016-10-28-1258-elsam-forskriften.md), fremsetter krav om salær etter [§ 2 bokstav b](for-2016-10-28-1258-elsam-forskriften.md), eller når vedkommende blir bedt om å registrere seg i nettportalen av en domstol. Plikten gjelder såfremt den tekniske løsningen åpner for det.
+
+I saker hvor det ikke gjelder plikt som nevnt i første og annet ledd, kan domstolen, om den finner det hensiktsmessig, beslutte at kommunikasjonen mellom domstolen og advokat eller autorisert advokatfullmektig skal skje gjennom nettportalen.
+
+I saker hvor det gjelder plikt som nevnt i første og annet ledd, kan domstolen, om kommunikasjonen medfører uforholdsmessige merkostnader eller ulemper, beslutte at kommunikasjonen med domstolen i saken ikke skal skje gjennom nettportalen.
+
+Dersom kommunikasjonen i nettportalen hindres eller vanskeliggjøres av driftsforstyrrelser eller annen teknisk ustabilitet, kan Domstoladministrasjonen for et avgrenset tidsrom beslutte at en bestemt del eller hele saksporteføljen til en eller flere domstoler ikke skal behandles i nettportalen.
+
+*Tilføyd ved forskrift [10 aug 2018 nr. 1230](https://lovdata.no/forskrift/2018-08-10-1230) (i kraft 15 sep 2018), endret ved forskrifter [14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019), [17 nov 2023 nr. 1855](https://lovdata.no/forskrift/2023-11-17-1855) (i kraft 1 jan 2024).*
+
+## § 3b. Obligatorisk bruk av nettportalen for rettsoppnevnte sakkyndige og tolker
+
+Rettsoppnevnte sakkyndige og tolker plikter å registrere seg som bruker i nettportalen etter oppnevning fra en av domstolene som omfattes av forskriften. Rettsoppnevnte sakkyndige og tolker skal sende inn salærkrav knyttet til oppdrag i domstolene i nettportalen.
+
+I saker hvor det gjelder plikt som nevnt i første ledd, kan domstolen, om bruk av nettportalen medfører uforholdsmessige merkostnader eller ulemper for den salærberettigede, beslutte at salærkravet ikke må sendes inn gjennom nettportalen.
+
+Dersom kommunikasjonen i nettportalen hindres eller vanskeliggjøres av driftsforstyrrelser eller annen teknisk ustabilitet, kan Domstoladministrasjonen for et avgrenset tidsrom beslutte at en bestemt del av eller alle salærkrav til én eller flere domstoler ikke skal behandles i nettportalen.
+
+*Tilføyd ved forskrift [26 mars 2026 nr. 495](https://lovdata.no/forskrift/2026-03-26-495) (i kraft 1 mai 2026, se endringsforskriften for overgangsregel).*
+
+## § 4. Portalmedhjelper
+
+Registrert bruker etter [§ 3](for-2016-10-28-1258-elsam-forskriften.md) første ledd bokstav a og b kan utpeke en eller flere medarbeidere ved samme kontor som portalmedhjelper.
+
+Portalmedhjelper som har egen advokatbevilling, eller som er autorisert advokatfullmektig for registrert bruker, kan utføre prosesshandlinger for registrert bruker, i den grad det er tillatt etter rettspleielovgivningen ved ikke-elektronisk kommunikasjon med domstolene. Andre portalmedhjelpere kan på vegne av registrert bruker utføre det praktiske databehandlingsarbeidet på nettportalen.
+
+Registrert bruker hefter for alle disposisjoner portalmedhjelper foretar. Registrert bruker kan begrense portalmedhjelpers rettigheter i nettportalen.
+
+## § 5. Nettportal for elektronisk innlevering og mottak av dokumenter
+
+Domstoladministrasjonen skal etablere og drive nettportalen for kommunikasjon mellom domstolen og registrert bruker. Nettportalen skal være tilgjengelig for registrert bruker og portalmedhjelper ved pålogging på domstolenes internettsider.
+
+Gjennom nettportalen skal bruker kunne signere og levere inn dokumenter og motta dokumenter, forkynnelser og andre meddelelser fra retten. Saksinformasjon, dokumentliste og saksdokumenter i verserende saker skal være tilgjengelige for bruker gjennom nettportalen. Informasjon og dokumenter lagres ikke i nettportalen, men i domstolenes alminnelige fagsystem.
+
+*Endret ved [forskrift 14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019).*
+
+## § 5a. Løsninger for systemintegrasjon
+
+Domstoladministrasjonen kan etablere løsninger for direkte kommunikasjon mellom domstolenes fagsystemer og aktørers fagsystemer.
+
+En løsning for systemintegrasjon skal være utformet på en betryggende måte. Den skal ha tilfredsstillende løsninger for kommunikasjon, signatur og notoritet. Reglene om informasjonssikkerhet og internkontroll i [§ 12](for-2016-10-28-1258-elsam-forskriften.md) gjelder tilsvarende.
+
+Domstoladministrasjonen kan stille krav til systemene som skal kommunisere med domstolenes fagsystemer, herunder til teknisk og praktisk innretning, forhåndsgodkjenning, sikkerhet og vedlikehold. Domstoladministrasjonen kan nekte bruk av et bestemt system i en løsning for systemintegrasjon. Det kan stilles vilkår for bruk av en løsning for systemintegrasjon.
+
+*Tilføyd ved [forskrift 14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019).*
+
+## § 5b. Kommunikasjon gjennom en løsning for systemintegrasjon
+
+En løsning for systemintegrasjon kan brukes i all kommunikasjon med domstolene, herunder ved forkynning, såfremt den tekniske løsningen åpner for det.
+
+Kommunikasjon gjennom en løsning for systemintegrasjon likestilles med kommunikasjon gjennom nettportalen. Reglene om bruk av nettportalen gjelder så langt de passer.
+
+Kommunikasjon gjennom en løsning for systemintegrasjon oppfyller krav om obligatorisk bruk av nettportalen etter [§ 3a](for-2016-10-28-1258-elsam-forskriften.md). Reglene i [§ 3a](for-2016-10-28-1258-elsam-forskriften.md) annet til femte ledd gjelder tilsvarende.
+
+*Tilføyd ved [forskrift 14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019).*
+
+## § 6. Elektronisk innlevering av dokumenter til retten
+
+Såfremt den tekniske løsningen åpner for det, kan bruker sende inn elektronisk i portalen
+
+a. ethvert dokument som skal sendes retten i sivil sak, sak som er reist for jordskifteretten eller straffesak
+b. arbeidsoppgave etter [forskrift 3. desember 1997 nr. 1441](for-1997-12-03-1441-salaerforskriften.md) om salær fra det offentlige til advokater m.v. [§ 5](for-1997-12-03-1441-salaerforskriften.md) og andre dokumenter som skal sendes retten i tilknytning til salærkravet, herunder senere merknader, redegjørelse og vedlegg til disse.
+
+Retten kan i den enkelte sak pålegge bruker å ettersende papirkopi av dokumenter som er innsendt elektronisk.
+
+*Endret ved forskrifter [14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019), [26 mars 2026 nr. 495](https://lovdata.no/forskrift/2026-03-26-495) (i kraft 1 mai 2026, se endringsforskriften for overgangsregel).*
+
+## § 7. Bekreftelse på at dokument er mottatt
+
+Ved elektronisk innlevering skal bruker motta bekreftelse i nettportalen på at dokument er mottatt. Bekreftelsen skal inneholde saksnummer, dato og tidspunktet for mottakelsen.
+
+*Endret ved [forskrift 14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019).*
+
+## § 8. Fristavbrudd
+
+Skal en prosesshandling foretas innen en frist, avbrytes fristen når prosesshandlingen er foretatt ved elektronisk innsendelse gjennom nettportalen. Dersom den elektroniske innsendelsen hindres eller vanskeliggjøres av driftsforstyrrelser eller annen teknisk ustabilitet i nettportalen, kan fristen avbrytes ved forsendelse til den aktuelle domstolens elektroniske adresse etterfulgt av elektronisk innsendelse gjennom nettportalen når driftsforstyrrelsen eller den tekniske ustabiliteten er opphørt.
+
+*Endret ved forskrift [17 nov 2023 nr. 1855](https://lovdata.no/forskrift/2023-11-17-1855) (i kraft 1 jan 2024).*
+
+## § 9. Elektronisk kommunikasjon fra retten til brukeren
+
+Retten kan i enhver sak som nevnt i [§ 2](for-2016-10-28-1258-elsam-forskriften.md), sende all informasjon elektronisk til registrert bruker av nettportalen. Retten kan gi forkynnelser og meddelelser i elektronisk form.
+
+For elektronisk forkynnelse gjelder [forskrift 11. oktober 1985 nr. 1810](for-1985-10-11-1810-forskrift-om-postforkynning.md) om postforkynning [§ 4](for-1985-10-11-1810-forskrift-om-postforkynning.md) tredje ledd, [§ 7](for-1985-10-11-1810-forskrift-om-postforkynning.md) og [§ 8](for-1985-10-11-1810-forskrift-om-postforkynning.md).
+
+Ved elektronisk forkynnelse gjelder ikke [domstolloven § 162](../lover/lov-1915-08-13-5-domstolloven.md).
+
+Annet og tredje ledd trer i kraft når departementet bestemmer.
+
+*Endret ved [forskrift 10 aug 2018 nr. 1230](https://lovdata.no/forskrift/2018-08-10-1230) (i kraft 15 sep 2018. Endringen gjaldt rettelse i annet ledd. Annet og tredje ledd trer i kraft når departementet bestemmer.)*
+
+## § 10. Varsel om nye dokumenter
+
+Bruker skal motta varsel til den elektroniske adressen bruker har oppgitt når et dokument er sendt til elektronisk forkynnelse gjennom nettportalen, og når et dokument det er forbundet frister med gjøres tilgjengelig i nettportalen.
+
+Nettportalen skal gi bruker god oversikt over nye innkomne dokumenter og løpende frister i sine verserende saker.
+
+*Endret ved [forskrift 14 des 2018 nr. 1923](https://lovdata.no/forskrift/2018-12-14-1923) (i kraft 1 jan 2019).*
+
+## § 11. Krav til elektronisk signatur
+
+Kreves det med hjemmel i lov underskrift på dokumenter som skal innleveres elektronisk, er signering på domstolenes nettportal likestilt med underskrift.
+
+Nettportalen skal sikre tilstrekkelig notoritet for signaturen på det innleverte dokument ved integritetsbeskyttelse, sporbarhet og at det i ettertid ikke er mulig å benekte at dokumentet er sendt.
+
+## § 12. Informasjonssikkerhet og internkontroll
+
+Domstoladministrasjonen skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet for konfidensialitet, integritet og tilgjengelighet. Bestemmelsene i personvernforordningen artikkel 32 og 33 gjelder tilsvarende.
+
+Elektronisk kommunikasjon mellom domstolen og registrert bruker skal sikres med tilfredsstillende innloggingssystem og betryggende metode for autentisering av kommunikasjonspartene. Det skal brukes metoder for å sikre at det i ettertid ikke er mulig å benekte at dokumentet er sendt.
+
+Domstoladministrasjonen skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for de ansatte i domstolene som omfattes av denne forskriften.
+
+*Endret ved [forskrift 15 juni 2018 nr. 876](for-2018-06-15-876-forskrift-om-behandling-av-personopplysninger.md) (i kraft 20 juli 2018).*
+
+## § 13. Arkivering av elektroniske dokumenter og signaturer
+
+Dokumenter som leveres inn elektronisk i portalen, arkiveres i samsvar med domstolenes alminnelige arkivrutiner.
+
+For arkivering av avansert elektronisk signatur gjelder [forskrift 25. juni 2004 nr. 988](for-2004-06-25-988-eforvaltningsforskriften.md) om elektronisk kommunikasjon med og i forvaltningen [§ 28](for-2004-06-25-988-eforvaltningsforskriften.md) tilsvarende.
+
+## § 14. Ikrafttredelse
+
+Forskriften trer i kraft straks for Fredrikstad tingrett, Oslo tingrett, Sunnmøre tingrett, Sør-Trøndelag tingrett, Borgarting lagmannsrett og Frostating lagmannsrett. Fra samme tidspunkt oppheves [forskrift 12. februar 2012 nr. 140](https://lovdata.no/forskrift/2012-02-12-140) om prøveordning med elektronisk kommunikasjon med domstolene.
+
+For øvrige domstoler trer forskriften i kraft fra den tid Domstoladminstrasjonen bestemmer. Domstoladministrasjonen kan beslutte at forskriften skal tre i kraft til forskjellig tid for de forskjellige domstolene.[1]
+
+## Fotnoter
+
+**1.** I henhold til [vedtak 28 okt 2016 nr. 1260](https://lovdata.no/forskrift/2016-10-28-1260), endret ved [vedtak 17 jan 2017 nr. 44](https://lovdata.no/forskrift/2017-01-17-44), [vedtak 4 apr 2017 nr. 436](https://lovdata.no/forskrift/2017-04-04-436), [vedtak 25 okt 2017 nr. 1683](https://lovdata.no/forskrift/2017-10-25-1683), [vedtak 19 sep 2018 nr. 1340](https://lovdata.no/forskrift/2018-09-19-1340), [vedtak 22 nov 2018 nr. 1743](https://lovdata.no/forskrift/2018-11-22-1743) og [vedtak 9 mars 2020 nr. 249](https://lovdata.no/forskrift/2020-03-09-249):  
+Nedre Romerike tingrett 31. oktober 2016,  
+Asker og Bærum tingrett 1. november 2016,  
+Drammen tingrett 2. november 2016,  
+Oslo byfogdembete 3. november 2016,  
+Eidsivating lagmannsrett 9. november 2016,  
+Nord-Troms tingrett og Hålogaland lagmannsrett 10. januar 2017,  
+Stavanger tingrett 31. januar 2017,  
+Jæren tingrett 2. februar 2017,  
+Bergen tingrett 7. februar 2017,  
+Gulating lagmannsrett 8. februar 2017,  
+Fjordane tingrett og Sogn tingrett 27. februar 2017,  
+Kristiansand tingrett 19. april 2017,  
+Nedre Telemark tingrett og Agder lagmannsrett 26. april 2017,  
+Sør-Gudbrandsdal tingrett 8. november 2017,  
+Nord-Gudbrandsdal tingrett 9. november 2017,  
+Rana tingrett 29. november 2017,  
+Alstahaug tingrett 30. november 2017,  
+Brønnøy tingrett 1. desember 2017,  
+Nord-Østerdal tingrett, Valdres tingrett, Sør-Østerdal tingrett, Hedmarken tingrett, Gjøvik tingrett, Øvre Romerike tingrett og Glåmdal tingrett 1. oktober 2018,  
+Hardanger tingrett, Sunnhordaland tingrett, Haugaland tingrett, Dalane tingrett, Lister tingrett, Vest-Telemark tingrett, Aust-Telemark tingrett, Aust-Agder tingrett, Larvik tingrett, Nordre Vestfold tingrett, Tønsberg tingrett og Sandefjord tingrett 24. oktober 2018,  
+Øst-Finnmark tingrett, Sis-Finnmarkkudiggegoddi/Indre Finnmark tingrett, Hammerfest tingrett, Alta tingrett, Senja tingrett, Trondenes tingrett, Vesterålen tingrett, Lofoten tingrett, Ofoten tingrett og Salten tingrett 6. november 2018,  
+Namdal tingrett, Inntrøndelag tingrett, Fosen tingrett, Nordmøre tingrett, Romsdal tingrett, Søre Sunnmøre tingrett, Hallingdal tingrett, Kongsberg og Eiker tingrett, Ringerike tingrett, Follo tingrett, Heggen og Frøland tingrett, Moss tingrett, Sarpsborg tingrett og Halden tingrett 22. november 2018,  
+Høyesterett 11. desember 2018,  
+Akershus og Oslo jordskifterett, Aust-Agder jordskifterett, Finnmark jordskifterett, Glåmdal jordskifterett, Haugalandet og Sunnhordaland jordskifterett, Hedemarken og Sør-Østerdal jordskifterett, Helgeland jordskifterett, Indre Hordaland jordskifterett, Indre Sogn jordskifterett, Lista jordskifterett, Lofoten og Vesterålen jordskifterett, Marnar jordskifterett, Nedre Buskerud jordskifterett, Nedre Telemark jordskifterett, Nord- og Midhordland jordskifterett, Nordfjord jordskifterett, Nord-Gudbrandsdal jordskifterett, Nordmøre jordskifterett, Nord-Troms jordskifterett, Nord-Trøndelag jordskifterett, Nord-Østerdal jordskifterett, Ofoten og Sør-Troms jordskifterett, Romsdal jordskifterett, Salten jordskifterett, Sunnfjord og Ytre Sogn jordskifterett, Sunnmøre jordskifterett, Sør-Rogaland jordskifterett, Sør-Trøndelag jordskifterett, Valdres jordskifterett, Vestfold jordskifterett, Vestoppland og Sør-Gudbrandsdal jordskifterett, Østfold jordskifterett, Øvre Buskerud jordskifterett og Øvre Telemark jordskifterett 10. mars 2020.

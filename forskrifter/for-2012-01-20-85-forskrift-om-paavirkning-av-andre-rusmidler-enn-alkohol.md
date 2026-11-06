@@ -1,0 +1,113 @@
+# Forskrift om faste grenser for påvirkning av andre berusende eller bedøvende middel enn alkohol m.m.
+
+- **Korttittel:** Forskrift om påvirkning av andre rusmidler enn alkohol
+- **Datokode:** FOR-2012-01-20-85
+- **DokumentID:** SF/forskrift/2012-01-20-85
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Veg- og trafikksikkerhetsavd.
+- **Hjemmel:** lov 18.06.1965 nr. 4/§22
+- **Publisert i:** I 2012 hefte 3
+- **Kunngjort:** 2012-01-31 14:50
+- **I kraft fra:** 2012-02-01
+- **Siste endring i kraft:** 2022-03-01
+- **Sist endret ved:** forskrift 24.01.2022 nr. 119 fra 2022-03-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Samferdselsdepartementet 20. januar 2012 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 22 sjette ledd. Endret ved forskrifter 12 jan 2016 nr. 19, 24 jan 2022 nr. 119 som endret ved forskrift 4 feb 2022 nr. 164 (i kraft 1 mars 2022).
+- **Kilde:** <https://lovdata.no/forskrift/2012-01-20-85>
+
+## § 1. Virkeområde
+
+Forskriften angir faste grenser for når man etter [vegtrafikkloven § 22](../lover/lov-1965-06-18-4-vegtrafikkloven.md) tredje ledd blir regnet som påvirket av andre berusende eller bedøvende middel enn alkohol. Grenseverdiene for slike stoffer følger av kolonnen for straffbarhetsgrense i vedlegg I.
+
+Forskriften angir i vedlegg I også grenseverdier for andre berusende eller bedøvende middel enn alkohol svarende til 0,5 promille og 1,2 promille jf. [vegtrafikkloven § 31](../lover/lov-1965-06-18-4-vegtrafikkloven.md) annet ledd bokstav a til c.
+
+Bestemmelsen i første og annet ledd gjelder ikke hvor overskridelsen skyldes legemiddel inntatt i henhold til gjeldende forskrivning fra lege eller tannlege, jf. [vegtrafikkloven § 22](../lover/lov-1965-06-18-4-vegtrafikkloven.md) tredje ledd andre punktum.
+
+Konstatering av om blodprøven inneholder berusende eller bedøvende stoffer som er klassifisert som trafikkfarlige etter vedlegg I, skal skje ved måling av stoffkonsentrasjoner i fullblod. Blodprøven skal være tatt fra levende personer.
+
+Analyseinstitusjonen som utfører analyseoppdraget skal foreta summeringen av konsentrasjoner av benzodiazepiner og opioider og sørge for at dette foregår i henhold til forskriften og ved bruk av omregningsfaktorer som fremgår av vedlegg II. Summering skal ikke utføres for konsentrasjoner under straffbarhetsgrensene.
+
+*Endret ved [forskrift 12 jan 2016 nr. 19](https://lovdata.no/forskrift/2016-01-12-19) (i kraft 1 feb 2016).*
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft 1. februar 2012. Forskriften gjelder overtredelser begått etter denne dato.
+
+## Vedlegg I
+
+| *Stoff* | *Straffbarhetsgrense svarende til 0,2 promille (µM i fullblod)* | *Straffeutmålingsgrense svarende til 0,5 promille (µM i fullblod)* | *Straffeutmålingsgrense svarende til 1,2 promille (µM i fullblod)* |
+| --- | --- | --- | --- |
+| *Benzodiazepiner og lignende* |  |  |  |
+| Alprazolam | 0,010 | 0,020 | 0,050 |
+| Bromazepam | 0,100 | 0,250 | 0,600 |
+| Desmetyldiazepam | 0,400 | 1,000 | 2,400 |
+| Diazepam | 0,200 | 0,500 | 1,200 |
+| Etizolam | 0,040 | 0,100 | 0,240 |
+| Fenazepam | 0,005 | 0,015 | 0,030 |
+| Flunitrazepam | 0,005 | 0,010 | 0,025 |
+| Klobazam | 0,600 | 1,500 | 3,600 |
+| Klonazepam | 0,004 | 0,010 | 0,025 |
+| Lorazepam | 0,030 | 0,075 | 0,180 |
+| Nitrazepam | 0,060 | 0,150 | 0,350 |
+| Oksazepam | 0,600 | 1,500 | 3,000 |
+| Triazolam | 0,001 | 0,0025 | 0,006 |
+| Zolpidem | 0,100 | 0,250 | 0,600 |
+| Zopiklon | 0,030 | 0,060 | 0,150 |
+| *Cannabis* |  |  |  |
+| THC | 0,004 | 0,010 | 0,030 |
+| *GHB* |  |  |  |
+| GHB | 100 | 300 | 1200 |
+| *Hallusinoger* |  |  |  |
+| Ketamin | 0,400 | 1,000 | 2,400 |
+| LSD | 0,001 | [1] | [1] |
+| *Opioider* |  |  |  |
+| Buprenorfin | 0,0006 | 0,0015 | 0,0036 |
+| Metadon | 0,080 | 0,200 | 0,48 |
+| Morfin | 0,030 | 0,080 | 0,200 |
+| Oksykodon | 0,050 | 0,120 | 0,300 |
+| *Sentralstimulerende* |  |  |  |
+| Amfetamin | 0,300 | 1,5 | 3,6 |
+| Kokain | 0,080 | [1] | [1] |
+| MDMA | 0,500 | [1] | [1] |
+| Metamfetamin | 0,300 | 1,5 | 3,6 |
+| Metylfenidat | 0,015 | [1] | [1] |
+
+*Vedlegg I endret ved forskrifter [12 jan 2016 nr. 19](https://lovdata.no/forskrift/2016-01-12-19) (i kraft 1 feb 2016), [24 jan 2022 nr. 119](https://lovdata.no/forskrift/2022-01-24-119) som endret ved forskrift [4 feb 2022 nr. 164](https://lovdata.no/forskrift/2022-02-04-164) (i kraft 1 mars 2022).*
+
+## Vedlegg II – Omregningsfaktorer
+
+§ 1. *Omregningsfaktorer for ulike benzodiazepiner for å komme fram til diazepamekvivalenter*
+
+Omregningsfaktorene er beregnet slik at de utgjør konservative estimater. Den påviste konsentrasjonen av et benzodiazepin multipliseres med omregningsfaktoren for å få den konsentrasjonen som vil svare til konsentrasjonen for diazepam. Eksempel: klonazepam i en konsentrasjon på 0,020 µM tilsvarer 0,96 µM diazepam (0,020 x 48 = 0,96). Denne beregnede konsentrasjonen vil videre kunne summeres med tilsvarende beregnede konsentrasjoner av andre benzodiazepiner. Summen av diazepamekvivalenter vurderes mot de gjeldene straffeutmålingsgrensene for diazepam.
+
+| *Stoff* | *Omregningsfaktor* |
+| --- | --- |
+| Alprazolam | 20 |
+| Bromazepam | 2,0 |
+| Desmetyldiazepam | 0,5 |
+| Etizolam | 5,0 |
+| Fenazepam | 33 |
+| Flunitrazepam | 40 |
+| Klobazam | 0,33 |
+| Klonazepam | 48 |
+| Lorazepam | 6,7 |
+| Nitrazepam | 3,3 |
+| Oksazepam | 0,33 |
+| Triazolam | 200 |
+| Zolpidem | 2,0 |
+| Zopiklon | 6,7 |
+
+§ 2. *Omregningsfaktorer for ulike opioider for å komme fram til morfinekvivalenter*
+
+Den påviste konsentrasjonen av oksykodon eller metadon multipliseres med omregningsfaktoren for å få den konsentrasjonen som vil svare til konsentrasjonen for morfin. Eksempel: oksykodon i en konsentrasjon på 0,090 µM tilsvarer 0,054 µM morfin (0,090 x 0,60 = 0,054). En slik beregnet konsentrasjon av oksykodon vil deretter kunne summeres med morfin eller en tilsvarende beregnet metadonkonsentrasjon. Summen av morfinekvivalenter vurderes mot de gjeldene straffeutmålingsgrensene for morfin.
+
+| *Stoff* | *Omregningsfaktor* |
+| --- | --- |
+| Metadon | 0,38 |
+| Oksykodon | 0,60 |
+
+*Vedlegg II tilføyd ved [forskrift 12 jan 2016 nr. 19](https://lovdata.no/forskrift/2016-01-12-19) (i kraft 1 feb 2016).*
+
+## Fotnoter
+
+**1.** Straffeutmålingsgrenser er ikke fastsatt fordi sammenhengen mellom stoffkonsentrasjon i blodet og ulykkesrisiko/prestasjonsforringelse er svært variabel, eller dårlig dokumentert.

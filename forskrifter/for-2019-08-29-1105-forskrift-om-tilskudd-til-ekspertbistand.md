@@ -1,0 +1,98 @@
+# Forskrift om tilskudd til ekspertbistand
+
+- **Datokode:** FOR-2019-08-29-1105
+- **DokumentID:** SF/forskrift/2019-08-29-1105
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Arbeidsmarkedsavdelingen
+- **Hjemmel:** lov 28.02.1997 nr. 19/§8-7a
+- **Kunngjort:** 2019-09-05 13:20
+- **I kraft fra:** 2019-09-01 – 2028-12-31
+- **Siste endring i kraft:** 2026-03-29
+- **Sist endret ved:** forskrift 29.03.2026 nr. 542
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 29. august 2019 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 8-7a femte ledd. Endret ved forskrifter 25 mars 2022 nr. 470, 16 nov 2022 nr. 1975 (i kraft 23 des 2022), 20 des 2024 nr. 3429 (i kraft 1 jan 2025), 6 mars 2025 nr. 378, 29 mars 2026 nr. 542.
+- **Kilde:** <https://lovdata.no/forskrift/2019-08-29-1105>
+
+## § 1. Formål
+
+Tilskudd til ekstern ekspertbistand skal støtte opp under arbeidet med å forebygge og redusere sykefravær på den enkelte arbeidsplassen. Hensikten med bistanden er at eksperten skal bidra til å løse problemet som leder til sykefravær, med sikte på å tilbakeføre arbeidstakeren til arbeid.
+
+## § 2. Personkrets
+
+Ekspertbistand kan gis til en arbeidsgiver i enkeltsaker der en arbeidstaker har lange og/eller hyppig gjentakende sykefravær. Tilskudd kan gis i sykmeldingsperioden, men også mellom sykmeldingsperioder der hvor sykmeldingsperiodene forekommer hyppig.
+
+## § 3. Innhold
+
+Eksperten skal komme inn og se på situasjonen og prøve å forstå bakgrunnen for sykefraværet. Innholdet i bistanden kan bl.a. være å
+
+- bistå arbeidstaker og arbeidsgiver i en uhensiktsmessig arbeidssituasjon som kan medføre sykefravær, med å se nye muligheter,
+- gjennomføre en arbeidsplassvurdering,
+- bistå i saker hvor det kan ligge en konflikt eller opplevelse av konflikt til grunn,
+- bistå når arbeidstaker og arbeidsgiver er rådville, og ikke vet hva mer som kan gjøres.
+
+Eksperten skal avgi en rapport som beskriver årsaken til sykefraværet, og foreslå tiltak for tilbakeføring til samme arbeid eller til annet arbeid hos samme, eller annen, arbeidsgiver. Opplysninger som eksperten, arbeidsgiver, arbeidstaker og Arbeids- og velferdsetaten blir kjent med i forbindelse med ekspertbistanden, må behandles fortrolig også når opplysningene ikke omfattes av lovbestemte taushetsplikt. Plikten til fortrolighet er ikke tidsbegrenset.
+
+## § 4. Vilkår
+
+Det er et vilkår for å kunne få tilskudd til ekspertbistand at bedriftsinterne tiltak og relevante offentlige støtteordninger er utprøvd eller vurdert. Arbeidsgiveren, Arbeids- og velferdsetaten og den enkelte arbeidstakeren må være enige om at det er hensiktsmessig med ekstern ekspertbistand.
+
+Tilskuddet til ekspertbistand kan ikke ytes til:
+
+- tilrettelegging eller hjelpemidler som kan dekkes etter [folketrygdloven § 10-5](../lover/lov-1997-02-28-19-folketrygdloven.md), jf. [§ 10-7](../lover/lov-1997-02-28-19-folketrygdloven.md),
+- lese- og sekretærhjelp for blinde og svaksynte og tolkehjelp for hørselshemmede, jf. [folketrygdloven § 10-7](../lover/lov-1997-02-28-19-folketrygdloven.md),
+- bruk av bedriftshelsetjeneste, jf. [arbeidsmiljøloven § 3-3](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md),
+- helsetjenester fra spesialisthelsetjenesten og kommunehelsetjenesten,
+- arbeidsmarkedstiltak, eller
+- bistand fra Arbeids- og velferdsetaten.
+
+## § 5. Tilskudd
+
+Tilskuddet gis i form av en refusjon av arbeidsgivers utgifter til eksperten, begrenset opp til et maksimalt tilskuddsbeløp som fastsettes av departementet.
+
+Tilskuddet dekker arbeidsgivers utgifter til ekspertens timepris inkludert ev. mva. samt kilometergodtgjørelse, reiseutgifter, kost- og losji når dette er aktuelt. I tillegg kan også de nevnte utgiftene dekkes når de påløper i forbindelse med forberedelse og rapportering.
+
+Ekspertens utgifter må dokumenteres, og Arbeids- og velferdsetaten må oppbevare opplysninger over tildelt støtte i ti år.
+
+## § 6. Krav til søknad
+
+Arbeidsgiveren må søke før ekspertbistand iverksettes. Søknaden skal inneholde en beskrivelse av den ekspertbistanden som planlegges gjennomført.
+
+I søknaden må det dokumenteres at arbeidsgiveren, Arbeids- og velferdsetaten og den enkelte arbeidstakeren er enige om at det er hensiktsmessig med ekstern ekspertbistand, og hvilken tilrettelegging som er vurdert, igangsatt eller gjennomført, jf. [arbeidsmiljøloven § 4-6](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md).
+
+Tilsagn om tilskudd må være innvilget av Arbeids- og velferdsetaten før arbeidsgiver anskaffer ekspertbistanden.
+
+## § 7. Vedtaksmyndighet og klageadgang
+
+Hvem som får tilbud om tilskudd, avgjøres av Arbeids- og velferdsetaten etter Arbeids- og velferdsdirektoratets nærmere bestemmelse.
+
+Arbeids- og velferdsdirektoratet bestemmer også kompetent organ for anvisning og utbetaling av ytelser etter denne forskriften.
+
+Vedtaket kan påklages til NAV Klageinstans.
+
+## § 8. Kontroll og sanksjoner
+
+Arbeids- og velferdsetaten skal kontrollere at tiltaket er iverksatt og at tilskuddet er benyttet som forutsatt.
+
+Arbeids- og velferdsetaten kan holde tilbake refusjon til arbeidsgiver dersom tiltaket ikke gjennomføres etter forutsetningene.
+
+## § 9. Støtte etter gruppeunntaket for tjenester av allmenn økonomisk betydning
+
+Tilskuddet skal gis innenfor de vilkår som følger av gruppeunntaket for tjenester av allmenn økonomisk betydning, jf. [forskrift 2. januar 2023 nr. 2 om unntak fra notifikasjonsplikt for offentlig støtte § 3](for-2023-01-02-2-forskrift-om-unntak-fra-notifikasjonsplikt-for-offentlig-stotte.md).
+
+*Endret ved forskrift [29 mars 2026 nr. 542](https://lovdata.no/forskrift/2026-03-29-542).*
+
+## § 9a. Forsøk med anskaffelse av ekspertbistand
+
+Som en forsøksordning kan Arbeids- og velferdsetaten i begrenset skala inngå avtaler med relevante kompetanseområder av eksperter. Formålet med forsøket er å få kunnskap om en slik organisering vil kunne bidra til økt bruk av tilskuddsordningen gjennom forenklet forvaltning av ordningen for arbeidsgiver og Arbeids- og velferdsetaten.
+
+Forsøkets virkeområde begrenses til Innlandet fylke.
+
+Anskaffelsen gjøres i overensstemmelse med anskaffelsesreglene. Når ekspertbistand tilbys som en del av dette forsøket gjelder derfor ikke [§ 5](for-2019-08-29-1105-forskrift-om-tilskudd-til-ekspertbistand.md), [§ 6](for-2019-08-29-1105-forskrift-om-tilskudd-til-ekspertbistand.md) og [§ 9](for-2019-08-29-1105-forskrift-om-tilskudd-til-ekspertbistand.md).
+
+*Tilføyd ved forskrift [25 mars 2022 nr. 470](https://lovdata.no/forskrift/2022-03-25-470).*
+
+## § 10. Ikrafttredelse
+
+Forskriften trer i kraft 1. september 2019, og varer til og med 31. desember 2028.
+
+*Endret ved forskrifter [16 nov 2022 nr. 1975](https://lovdata.no/forskrift/2022-11-16-1975) (i kraft 23 des 2022), [20 des 2024 nr. 3429](https://lovdata.no/forskrift/2024-12-20-3429) (i kraft 1 jan 2025), [6 mars 2025 nr. 378](https://lovdata.no/forskrift/2025-03-06-378).*

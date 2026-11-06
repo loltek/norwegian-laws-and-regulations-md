@@ -1,0 +1,30 @@
+# Forskrift om definisjon av marin gassolje i svalbardmiljøloven § 82a
+
+- **Datokode:** FOR-2021-12-13-3514
+- **DokumentID:** SF/forskrift/2021-12-13-3514
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Hav- og forurensningsavdelingen
+- **Hjemmel:** lov 15.06.2001 nr. 79/§82a
+- **Kunngjort:** 2021-12-14 15:30
+- **I kraft fra:** 2022-01-01
+- **Merknad:** Hjemmel: Fastsatt av Klima- og Miljødepartementet 13. desember 2021 med hjemmel i lov 15. juni 2001 nr. 79 om miljøvern på Svalbard (svalbardmiljøloven) § 82a.
+- **Kilde:** <https://lovdata.no/forskrift/2021-12-13-3514>
+
+## § 1. Formål
+
+Denne forskriften har til formål å gi en definisjon av marin gassolje som er tillatt for petroleumsbasert drivstoff i bruk eller om bord på skip som anløper territorialfarvannet ved Svalbard, ved å angi en øvre grense for viskositet, tetthet og stivnepunkt.
+
+## § 2. Definisjon av marin gassolje
+
+Med marin gassolje (MGO) som er tillatt etter [svalbardmiljøloven § 82a](../lover/lov-2001-06-15-79-svalbardmiljoloven.md), menes drivstoff som har
+
+a. kinematisk viskositet ved 40 °C ≤ 6,000 cSt
+b. tetthet ved 15 °C ≤ 890,0 kg/m3 og
+c. stivnepunkt vintergrad ≤ –6 °C eller
+d. stivnepunkt sommergrad ≤ 0 °C
+
+eller er angitt som DMA, DMX, DMZ, DFA, eller DFZ og karakterisert som Marine Distillate fuels i standarden ISO 8217:2017. Drivstoff karakterisert som DMB, DFB eller Marine Residual Fuels i ISO 8217:2017 er forbudt å bruke eller ha om bord. Gasser og andre drivstoff som møter kravene til viskositet, tetthet og stivnepunkt i første ledd, er tillatt.
+
+## § 3. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2022.

@@ -1,0 +1,60 @@
+# Forskrift om bruk av arbeidsformidlingsvirksomhet på skip
+
+- **Datokode:** FOR-2013-08-19-999
+- **DokumentID:** SF/forskrift/2013-08-19-999
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Sjøfartsdirektoratet
+- **Hjemmel:** lov 21.06.2013 nr. 102/§3-9; forskrift 03.07.2013 nr. 974
+- **Publisert i:** I 2013 hefte 12
+- **Kunngjort:** 2013-08-23 15:05
+- **I kraft fra:** 2013-08-20
+- **Siste endring i kraft:** 2024-12-23
+- **Sist endret ved:** forskrift 19.12.2024 nr. 3286 fra 2024-12-23
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Sjøfartsdirektoratet 19. august 2013 med hjemmel i lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven) § 3-9, jf. delegeringsvedtak 3. juli 2013 nr. 974. Endret ved forskrifter 10 nov 2017 nr. 1778, 19 des 2024 nr. 3286 (i kraft 23 des 2024).
+- **Kilde:** <https://lovdata.no/forskrift/2013-08-19-999>
+
+## § 1. Virkeområde
+
+Forskriften gjelder arbeidstaker på skip som ansettes ved bruk av arbeidsformidlingsvirksomhet, herunder fiskefartøy.
+
+*Endret ved [forskrift 10 nov 2017 nr. 1778](https://lovdata.no/forskrift/2017-11-10-1778) (i kraft 16 nov 2017).*
+
+## § 2. Definisjoner
+
+I denne forskriften menes med:
+
+a. *arbeidsformidling:* All aktiv kobling mellom arbeidssøker og arbeidsgiver som utføres av andre enn Arbeids- og velferdsetaten i den hensikt å etablere et arbeidsgiver-/arbeidstakerforhold.
+b. *arbeidsformidlingsvirksomhet:* Person, selskap, institusjon, byrå eller annen organisasjon som primært har til formål å drive med arbeidsformidling av arbeidstakere, eller som driver med formidling av et betydelig antall arbeidstakere selv om dette ikke er virksomhetens primære mål.
+c. *ILO-konvensjon nr. 186:* Den internasjonale konvensjon om sjøfolks arbeids- og levevilkår (MLC).
+d. *ILO-konvensjon nr. 188:* Den internasjonale [konvensjon om arbeidsvilkår i fiskerisektoren (](https://lovdata.no/traktat/2007-06-14-69)ILO 188).
+
+*Endret ved [forskrift 10 nov 2017 nr. 1778](https://lovdata.no/forskrift/2017-11-10-1778) (i kraft 16 nov 2017).*
+
+## § 3. Arbeidsgivers plikter
+
+Når arbeidsgiver ved formidling av arbeidstakere til lasteskip og passasjerskip bruker arbeidsformidlingsvirksomhet som drives i land som ikke har ratifisert MLC, eller ved formidling av arbeidstakere til fiskefartøy bruker arbeidsformidlingsvirksomhet som drives i land som ikke har ratifisert MLC eller ILO 188, skal arbeidsgiver ha dokumentasjon på at arbeidsformidlingsvirksomheten har prosedyrer om at den
+
+a. ikke bruker metoder, mekanismer eller lister beregnet på å hindre arbeidstakere i å få arbeid som de er kvalifisert for,
+b. ikke krever betaling av arbeidstaker for sin formidlingstjeneste,
+c. kontrollerer at arbeidstaker er kvalifisert og har de dokumenter som er nødvendige for vedkommende stilling,
+d. kontrollerer at arbeidstaker får en arbeidsavtale som er i samsvar med gjeldende lover, forskrifter og eventuelle tariffavtaler,
+e. sørger for at arbeidstakeren blir informert om sine rettigheter og plikter etter arbeidsavtalen før eller under ansettelsesprosessen, og at arbeidstakeren får tilstrekkelig adgang til å gjennomgå arbeidsavtalen før og etter at avtalen er undertegnet,
+f. kontrollerer at arbeidstakeren får et eksemplar av arbeidsavtalen,
+g. kontrollerer at arbeidsgiveren er i stand til å beskytte sjøfolkene mot å bli etterlatt i fremmed havn,
+h. fører et oppdatert og fullstendig register over arbeidstakere som formidles av virksomheten,
+i. har etablert et system for behandling av klager vedrørende virksomhetens drift,
+j. har rutiner for å opplyse den kompetente myndighet i det land hvor virksomheten drives om eventuelle klagesaker som ikke er avgjort,
+k. har et beskyttelsessystem, i form av forsikring eller tilsvarende egnet tiltak, som arbeidstaker får informasjon om før eller underveis i ansettelsesprosessen. Beskyttelsessystemet skal kompensere arbeidstakerne for økonomiske tap de måtte lide som følge av at arbeidsformidlingsvirksomheten selv eller arbeidsgiver ikke oppfyller sine forpliktelser i henhold til arbeidsavtalen.
+
+Det er tilstrekkelig at arbeidsgiver kan dokumentere at det er brukt arbeidsformidlingsvirksomhet som drives i
+
+a. Norge
+b. land som har ratifisert MLC, ved formidling av arbeidstakere til lasteskip og passasjerskip
+c. land som har ratifisert MLC eller ILO 188, ved formidling av arbeidstakere til fiskefartøy.
+
+*Endret ved [forskrifter 10 nov 2017 nr. 1778](https://lovdata.no/forskrift/2017-11-10-1778) (i kraft 16 nov 2017), [19 des 2024 nr. 3286](https://lovdata.no/forskrift/2024-12-19-3286) (i kraft 23 des 2024).*
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 20. august 2013.

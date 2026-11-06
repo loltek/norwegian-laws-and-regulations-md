@@ -1,0 +1,965 @@
+# Lov om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)
+
+- **Korttittel:** Endringslov til finansforetaksloven mv.
+- **Datokode:** LOV-2026-06-19-40
+- **DokumentID:** NL/lov/2026-06-19-40
+- **Departement:** Finansdepartementet
+- **Kunngjort:** 2026-06-19 12:05
+- **I kraft fra:** 2026-07-01, Kongen bestemmer
+- **Rettsområde:** Bank, finans og regnskapsrett; EU/EØS-rett > Finansielle tjenester; Selskaper, fond og foreninger; Strafferett > Vinning > Hvitvasking; Erstatnings- og forsikringsrett
+- **EU/EØS-henvisning:** EØS-avtalen vedlegg IX direktiv (EU) 2024/1619.
+- **Endrer:** lov 10.06.2005 nr. 44; lov 29.06.2007 nr. 75; lov 25.11.2011 nr. 44; lov 20.06.2014 nr. 28; lov 20.06.2014 nr. 30; lov 10.04.2015 nr. 17; lov 04.12.2015 nr. 95; lov 23.03.2018 nr. 3; lov 01.06.2018 nr. 23; lov 15.03.2019 nr. 6; lov 20.11.2020 nr. 128; lov 22.12.2021 nr. 163; lov 16.12.2022 nr. 91; lov 21.06.2024 nr. 40; lov 21.06.2024 nr. 41; lov 27.05.2025 nr. 20; lov 06.02.2026 nr. 2; lov 06.02.2026 nr. 3
+- **Merknad:** Prop. 39 L (2025–2026), Innst. 393 L (2025–2026), Lovvedtak 69 (2025–2026). Stortingets første og andre gangs behandling hhv. 5. og 8. juni 2026. Fremmet av Finansdepartementet.
+- **Kilde:** <https://lovdata.no/lov/2026-06-19-40>
+
+Endringer i følgende lover:
+
+1. [Lov 10. juni 2005 nr. 44 om forsikringsvirksomhet (forsikringsvirksomhetsloven)](lov-2005-06-10-44-forsikringsvirksomhetsloven.md).
+2. [Lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven)](lov-2007-06-29-75-verdipapirhandelloven.md).
+3. [Lov 25. november 2011 nr. 44 om verdipapirfond (verdipapirfondloven)](lov-2011-11-25-44-verdipapirfondloven.md).
+4. [Lov 20. juni 2014 nr. 28 om forvaltning av alternative investeringsfond](lov-2014-06-20-28-aif-loven.md).
+5. [Lov 20. juni 2014 nr. 30 om kredittvurderingsbyråer](lov-2014-06-20-30-lov-om-kredittvurderingsbyraaer.md).
+6. [Lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven)](lov-2015-04-10-17-finansforetaksloven.md).
+7. [Lov 4. desember 2015 nr. 95 om fastsettelse av finansielle referanseverdier (referanseverdiloven)](lov-2015-12-04-95-referanseverdiloven.md).
+8. [Lov 23. mars 2018 nr. 3 om Bankenes sikringsfond](lov-2018-03-23-3-lov-om-bankenes-sikringsfond.md).
+9. [Lov 1. juni 2018 nr. 23 om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)](lov-2018-06-01-23-hvitvaskingsloven.md).
+10. [Lov 15. mars 2019 nr. 6 om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)](lov-2019-03-15-6-verdipapirsentralloven.md).
+11. [Lov 20. november 2020 nr. 128 om revisjon og revisorer (revisorloven)](lov-2020-11-20-128-revisorloven.md).
+12. [Lov 22. desember 2021 nr. 163 om forsikringsformidling (forsikringsformidlingsloven)](lov-2021-12-22-163-forsikringsformidlingsloven.md).
+13. [Lov 16. desember 2022 nr. 91 om låneformidling (låneformidlingsloven)](lov-2022-12-16-91-laaneformidlingsloven.md).
+14. [Lov 21. juni 2024 nr. 40 om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter (PRIIPs-loven)](lov-2024-06-21-40-priips-loven.md).
+15. [Lov 21. juni 2024 nr. 41 om Finanstilsynet (finanstilsynsloven)](lov-2024-06-21-41-finanstilsynsloven.md).
+16. [Lov 27. mai 2025 nr. 20 om kryptoeiendeler (kryptoeiendelsloven)](lov-2025-05-27-20-kryptoeiendelsloven.md).
+17. [Lov 6. februar 2026 nr. 2 om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)](lov-2026-02-06-2-folkefinansieringsloven.md).
+18. [Lov 6. februar 2026 nr. 3 om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)](lov-2026-02-06-3-endringslov-til-verdipapirhandelloven-mv.md).
+
+## I
+
+I [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern](lov-2015-04-10-17-finansforetaksloven.md) gjøres følgende endringer:
+
+[§ 1-5 fjerde ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(4) Som kredittinstitusjon regnes bank, kredittforetak og foretak som nevnt i kapitalkravsforordningen artikkel 4 nr. 1 punkt 1 bokstav b.
+
+[§ 1-5 femte ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(5) Som finansinstitusjon regnes foretak som definert i kapitalkravsforordningen artikkel 4 nr.1 punkt 26.
+
+Nåværende femte til niende ledd blir sjette til tiende ledd.
+
+Nåværende tiende og ellevte ledd oppheves.
+
+[§ 1-5](lov-2015-04-10-17-finansforetaksloven.md) nytt ellevte ledd skal lyde:
+
+(11) Når det i denne loven vises til bærekraft eller bærekraftsforhold, menes miljømessige, sosiale og styringsmessige forhold, inkludert forhold som gjelder arbeidstakere, respekt for menneskerettigheter og bekjempelse av korrupsjon og bestikkelser.
+
+[§ 1-5](lov-2015-04-10-17-finansforetaksloven.md) nytt tolvte ledd skal lyde:
+
+(12) Når det i denne loven vises til kapitalkravsforordningen, menes forordning [(EU) nr. 575/2013](https://lovdata.no/eu/32013r0575) som gjennomført i forskrift fastsatt med hjemmel i [§ 1-7 annet ledd](lov-2015-04-10-17-finansforetaksloven.md).
+
+[§ 1-7](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 1-7. Forskrifter mv.**
+
+(1) Departementet kan gi forskrift om gjennomføring, utfylling og avgrensning av loven, og om nærmere krav til finansforetak ut fra hensynet til å fremme finansiell stabilitet.
+
+(2) Departementet kan i forskrift fastsette nærmere regler som gjennomfører EØS-regler om tilsyns- og kapitalkrav for kredittinstitusjoner.
+
+(3) Departementet kan i forskrift gi nærmere regler om hvilke foretak som etter loven her skal anses henholdsvis som store foretak og som mindre og ikke-komplekse foretak.
+
+(4) Kongen i statsråd kan gi Norges Bank i oppgave å fastsette krav i medhold av denne lov til finansforetak ut fra hensynet til å fremme finansiell stabilitet. I vedtaket kan det fastsettes at [sentralbankloven § 1-4 annet ledd](lov-2019-06-21-31-sentralbankloven.md) skal gjelde tilsvarende, og at enkeltvedtak ikke skal kunne påklages.
+
+[§ 1-8](lov-2015-04-10-17-finansforetaksloven.md) oppheves.
+
+[§ 2-1 første ledd annet punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+Finansieringsvirksomhet kan også drives av utenlandske kredittinstitusjoner og finansinstitusjoner som etter denne loven har adgang til å drive slik virksomhet her i riket.
+
+– – –
+
+[§ 2-8 a](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 2-8 a. Konsesjon som kredittinstitusjon for verdipapirforetak**
+
+(1) Verdipapirforetak som har tillatelse til å yte investeringstjenester og drive investeringsvirksomhet som nevnt i [verdipapirhandelloven § 2-1 første ledd nr. 3](lov-2007-06-29-75-verdipapirhandelloven.md) og [6](lov-2007-06-29-75-verdipapirhandelloven.md), og som overskrider en av beløpstersklene i annet ledd bokstav a eller b, må ha tillatelse til å drive virksomhet som kredittinstitusjon.
+
+(2) Verdipapirforetaket skal søke om tillatelse etter første ledd senest på den datoen en av følgende beløpsterskler er overskredet, beregnet over en sammenhengende periode på tolv måneder:
+
+a. gjennomsnittet av samlede månedlige eiendeler utgjør et beløp i norske kroner som minst svarer til 30 milliarder euro,
+b. foretaket inngår i en gruppe med andre foretak som har tillatelse til å yte investeringstjenester og drive investeringsvirksomhet som nevnt i [verdipapirhandelloven § 2-1 første ledd nr. 3](lov-2007-06-29-75-verdipapirhandelloven.md) og [6](lov-2007-06-29-75-verdipapirhandelloven.md), foretakene har hver for seg samlede eiendeler som utgjør et beløp i norske kroner som svarer til mindre enn 30 milliarder euro, og den samlede verdien av alle foretakenes konsoliderte eiendeler, inkludert eiendeler i filialer og datterforetak etablert utenfor EØS, utgjør et beløp i norske kroner som minst svarer til 30 milliarder euro.
+
+(3) Foretaket kan fortsette å yte investeringstjenester og drive investeringsvirksomhet som nevnt i [verdipapirhandelloven § 2-1 første ledd nr. 3](lov-2007-06-29-75-verdipapirhandelloven.md) og [6](lov-2007-06-29-75-verdipapirhandelloven.md) i påvente av tillatelsen til å drive virksomhet som kredittinstitusjon.
+
+(4) For foretak som nevnt i paragrafen her gjelder bestemmelsene om kredittforetak i lov og forskrifter gitt i medhold av lov.
+
+(5) Departementet kan i forskrift fastsette nærmere regler om konsesjonsbehandling for foretak som nevnt i paragrafen her og om beregningen av beløpstersklene.
+
+(6) Finanstilsynet kan ved enkeltvedtak gjøre unntak fra kravet om tillatelse i første ledd, jf. annet ledd. I vurderingen av om det skal gjøres unntak skal Finanstilsynet minst legge vekt på:
+
+a. hvis foretaket er en del av et konsern; konsernets organisering og praksis for regnskapsføring og fordeling av eiendeler mellom foretakene i konsernet,
+b. virksomhetens art, størrelse og kompleksitet i Norge og EØS, og
+c. sammenkoblingen med det finansielle systemet i Norge og EØS.
+
+Finanstilsynet skal vurdere vedtak etter første punktum på nytt hvert tredje år.
+
+[§ 2-10 a annet ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(2) For opplysningsfullmektiger gjelder reglene i [kapittel 3](lov-2015-04-10-17-finansforetaksloven.md) med unntak av [§ 3-1 annet ledd](lov-2015-04-10-17-finansforetaksloven.md) og [tredje ledd bokstav a](lov-2015-04-10-17-finansforetaksloven.md) om eierforhold og bokstav c, d, i og j, og [§ 3-3](lov-2015-04-10-17-finansforetaksloven.md), [§ 3-4](lov-2015-04-10-17-finansforetaksloven.md) og [§ 3-7 bokstav g](lov-2015-04-10-17-finansforetaksloven.md) og [h](lov-2015-04-10-17-finansforetaksloven.md). [Kapittel 4](lov-2015-04-10-17-finansforetaksloven.md) og [5](lov-2015-04-10-17-finansforetaksloven.md) og tilhørende forskrifter gjelder tilsvarende.
+
+[§ 3-1 fjerde ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(4) Søknad etter tredje ledd skal inneholde opplysninger om kvalifikasjoner, yrkeserfaring og forhold nevnt i [§§ 9-1](lov-2015-04-10-17-finansforetaksloven.md) til [9-3](lov-2015-04-10-17-finansforetaksloven.md), samt ordinær politiattest etter [politiregisterloven § 40](lov-2010-05-28-16-politiregisterloven.md) for hvert enkelt styremedlem, varamedlem og observatør i styret, daglig leder, andre personer med stilling som inngår i den faktiske ledelsen av virksomheten eller deler av denne, samt personer med nøkkelfunksjon i foretaket. Departementet kan i forskrift gi nærmere regler om hvilke opplysninger som skal gis.
+
+[§ 3-2 annet ledd bokstav d](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+i. det ikke er godtgjort at finansforetaket vil være i stand til å oppfylle krav til styrets sammensetning som følger av [§ 8-4 første ledd](lov-2015-04-10-17-finansforetaksloven.md), eller krav til forsvarlig virksomhet som følger av [§§ 8-16](lov-2015-04-10-17-finansforetaksloven.md) til [8-20](lov-2015-04-10-17-finansforetaksloven.md), [§§ 13-4](lov-2015-04-10-17-finansforetaksloven.md) til [13-7](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-13](lov-2015-04-10-17-finansforetaksloven.md), [kapittel 14](lov-2015-04-10-17-finansforetaksloven.md) og [§ 16-1](lov-2015-04-10-17-finansforetaksloven.md),
+
+[§ 3-5 første ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(1) Foretaket kan ikke ha styremedlemmer, daglig leder, personer i stillinger som inngår i den faktiske ledelsen av virksomheten eller deler av denne, eller personer med nøkkelfunksjoner som:
+
+a. ikke kan antas å ha de nødvendige kvalifikasjoner og yrkeserfaring til å utøve stillingen eller vervet,
+b. er dømt for straffbart forhold, og det straffbare forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte,
+c. i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.
+
+[§ 3-5 tredje ledd](lov-2015-04-10-17-finansforetaksloven.md) oppheves.
+
+[§ 3-7 første ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(1) Departementet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår for en tillatelse etter denne loven dersom:
+
+a. finansforetaket ikke har begynt sin virksomhet innen ett år fra den dag tillatelsen ble gitt, gir uttrykkelig avkall på tillatelsen eller ikke har drevet aktiv konsesjonspliktig virksomhet siste seks måneder,
+b. finansforetaket har fått tillatelsen ved bruk av uriktige opplysninger eller andre uregelmessigheter,
+c. finansforetaket ikke lenger oppfyller vilkår for tillatelsen,
+d. finansforetaket foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, eller i henhold til konsesjonsvilkår eller vedtekter,
+e. finansforetaket unnlater å etterkomme pålegg fra Finanstilsynet,
+f. styremedlemmer, daglig leder eller person som inngår i den faktiske ledelsen av virksomheten eller deler av denne, har handlet på en slik måte at kravene til ledelsen etter [§ 3-5](lov-2015-04-10-17-finansforetaksloven.md) ikke lenger er oppfylt, herunder at personer i styret eller ledelsen slutter i løpet av det første hele driftsår etter at virksomheten er satt i gang,
+g. eierforholdene i foretaket er endret ved erverv i strid med reglene i [kapittel 6](lov-2015-04-10-17-finansforetaksloven.md) eller
+h. finansforetaket ikke oppfyller soliditetskrav fastsatt i eller i medhold av lov eller det er grunn til å tro at finansforetaket ikke lenger er i stand til å oppfylle sine forpliktelser, herunder særlig ikke vil være i stand til å honorere innskytere,
+i. finansforetaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet,
+j. finansforetaket bare driver virksomhet som nevnt i [§ 2-8 a](lov-2015-04-10-17-finansforetaksloven.md), og i fem sammenhengende år har hatt gjennomsnittlig samlede eiendeler under beløpstersklene som nevnt i den paragrafen.
+
+– – –
+
+[§ 5-3](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 5-3. Filial av finansinstitusjon med hovedsete i en annen EØS-stat**
+
+(1) En finansinstitusjon som er etablert i en annen EØS-stat, kan drive virksomhet gjennom filial her i riket dersom
+
+a. finansinstitusjonen har tillatelse til å drive og driver tilsvarende virksomhet i hjemstaten,
+b. én eller flere kredittinstitusjoner etablert i samme stat som finansinstitusjonen, som har rett til å drive virksomhet her i riket etter [§ 5-2](lov-2015-04-10-17-finansforetaksloven.md), eier aksjer som til sammen representerer minst 90 prosent av stemmene i finansinstitusjonen,
+c. kredittinstitusjonen, eller kredittinstitusjonene, med samtykke fra tilsynsmyndigheten i hjemstaten har påtatt seg solidarisk ansvar for finansinstitusjonens forpliktelser her i riket, og
+d. finansinstitusjonen og kredittinstitusjonen, eller kredittinstitusjonene, omfattes av konsolidert tilsyn etter regler som tilsvarer reglene i [kapittel 18](lov-2015-04-10-17-finansforetaksloven.md).
+
+(2) Bestemmelsene i [§ 5-2](lov-2015-04-10-17-finansforetaksloven.md) gjelder tilsvarende. Opplysningene som skal mottas fra tilsynsmyndighetene i foretakets hjemstat, skal i tillegg inneholde en erklæring om at vilkårene etter første ledd er oppfylt.
+
+(3) Bestemmelsene i første og annet ledd gjelder tilsvarende for datterforetak av finansinstitusjon som nevnt i første ledd.
+
+[§ 5-4 første ledd første punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+For filial som etter reglene i [§§ 5-2](lov-2015-04-10-17-finansforetaksloven.md) og [5-3](lov-2015-04-10-17-finansforetaksloven.md) driver virksomhet her i riket, gjelder [kapittel 1](lov-2015-04-10-17-finansforetaksloven.md) samt bestemmelsene i [§§ 2-19](lov-2015-04-10-17-finansforetaksloven.md) til [2-22](lov-2015-04-10-17-finansforetaksloven.md), [§ 9-1 annet](lov-2015-04-10-17-finansforetaksloven.md) og [tredje ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 9-2](lov-2015-04-10-17-finansforetaksloven.md), [§§ 9-4](lov-2015-04-10-17-finansforetaksloven.md) til [9-6](lov-2015-04-10-17-finansforetaksloven.md), [§ 12-27](lov-2015-04-10-17-finansforetaksloven.md), [§ 12-29](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-5 fjerde ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-7 første ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-17](lov-2015-04-10-17-finansforetaksloven.md), [kapittel 16](lov-2015-04-10-17-finansforetaksloven.md), [§ 17-11 sjette ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 17-12](lov-2015-04-10-17-finansforetaksloven.md), [§ 17-13 første](lov-2015-04-10-17-finansforetaksloven.md) og [tredje ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 19-2](lov-2015-04-10-17-finansforetaksloven.md), [§ 20A-3 annet ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 21-7 annet ledd](lov-2015-04-10-17-finansforetaksloven.md), [§§ 22-1](lov-2015-04-10-17-finansforetaksloven.md) til [22-3](lov-2015-04-10-17-finansforetaksloven.md) og [§§ 22-5](lov-2015-04-10-17-finansforetaksloven.md) til [22-7](lov-2015-04-10-17-finansforetaksloven.md).
+
+[§ 5-5 annet ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(2) Første ledd gjelder tilsvarende for finansinstitusjon som oppfyller vilkårene i [§ 5-3](lov-2015-04-10-17-finansforetaksloven.md) for å kunne drive virksomhet her i riket gjennom filial, og for datterforetak av slik finansinstitusjon.
+
+[§ 5-6](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 5-6. Filial av utenlandske finansforetak med hovedsete utenfor EØS**
+
+(1) Et finansforetak som har hovedsete i fremmed stat, og som ikke oppfyller vilkårene for å drive virksomhet her i riket etter [§§ 5-2](lov-2015-04-10-17-finansforetaksloven.md) og [5-3](lov-2015-04-10-17-finansforetaksloven.md), kan etter tillatelse gitt av departementet etter reglene i [§§ 2-7](lov-2015-04-10-17-finansforetaksloven.md) til [2-18](lov-2015-04-10-17-finansforetaksloven.md) etablere og drive virksomhet gjennom filial her i riket. Reglene i [kapittel 2](lov-2015-04-10-17-finansforetaksloven.md) og [3](lov-2015-04-10-17-finansforetaksloven.md), unntatt [§§ 3-3](lov-2015-04-10-17-finansforetaksloven.md) og [3-4](lov-2015-04-10-17-finansforetaksloven.md), [kapittel 17](lov-2015-04-10-17-finansforetaksloven.md) og bestemmelsene som angitt i eller gitt i medhold av [§ 5-4 første](lov-2015-04-10-17-finansforetaksloven.md) og [fjerde ledd](lov-2015-04-10-17-finansforetaksloven.md), gjelder tilsvarende.
+
+(2) Tillatelse etter første ledd kan bare gis til å drive virksomhet som tilsvarer virksomheten foretaket har tillatelse til å drive i hjemstaten, og bare dersom foretaket er undergitt betryggende tilsyn i hjemstaten og det ikke er grunn til å anta at filialen vil bli benyttet eller forsøkt benyttet til hvitvasking av penger eller finansiering av terrorvirksomhet. Før et utenlandsk finansforetak starter sin virksomhet her i riket,skal det være etablert et tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i foretakets hjemstat og Finanstilsynet.
+
+(3) Finansforetaket skal deponere kapital her i riket som skal forvaltes på betryggende måte av en norsk bank som ikke er del av samme konsern som finansforetaket. Kapitalen kan ikke frigis eller utbetales av banken uten etter samtykke av Finanstilsynet.
+
+(4) Kommer det utenlandske finansforetaket under insolvensbehandling i hjemstaten, eller har Finanstilsynet ellers grunn til å anta at forpliktelser inngått gjennom filialen her i riket ikke vil bli oppfylt, gjelder [§ 20-49](lov-2015-04-10-17-finansforetaksloven.md) og [kapittel 21](lov-2015-04-10-17-finansforetaksloven.md).
+
+(5) Foretaket skal registrere filialen i Foretaksregisteret før filialen begynner sin virksomhet. Personen som forestår ledelsen av filialen, skal ha fullmakt til å handle på vegne av foretaket og til å reise og motta søksmål som gjelder filialens virksomhet her i riket.
+
+(6) Departementet kan i forskrift fastsette nærmere regler med krav til virksomhet i filial som omfattes av første ledd, regler om Finanstilsynets adgang til å pålegge begrensninger eller endringer i virksomheten, og regler om unntak fra krav om tillatelse for å yte tjenester som ytes direkte fra forretningssted utenfor EØS til foretak som inngår i samme konsern, til en annen kredittinstitusjon, eller etter initiativ fra en kunde.
+
+(7) Finanstilsynet kan bestemme at utenlandske foretak med hovedsete utenfor EØS som ønsker å drive virksomhet her i riket, skal utøve virksomhet gjennom datterforetak når dette anses nødvendig for å ivareta lovens formål. Departementet kan fastsette nærmere regler i forskrift.
+
+[§ 5-7](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 5-7. Filial av utenlandske forsikringsforetak og utenlandske pensjonsforetak med hovedsete utenfor EØS**
+
+(1) I tillegg til bestemmelsene angitt i [§ 5-6](lov-2015-04-10-17-finansforetaksloven.md), skal følgende bestemmelser i [forsikringsvirksomhetsloven](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) med tilhørende forskrifter gjelde tilsvarende for virksomheten ved filial av forsikringsforetak i henhold til tillatelse etter [§ 5-6 første ledd](lov-2015-04-10-17-finansforetaksloven.md): [§ 2-7](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 3-1 fjerde ledd](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§§ 3-3](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) til [3-7](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 3-11 første](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [sjette](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) og [syvende ledd](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§§ 3-12](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) til [3-14](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§§ 3-16](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) til [3-18](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 3-22](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 3-24](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 3-25](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 4-6](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) og [§ 4-16](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), samt [kapitlene 5](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [6](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) og [7](lov-2005-06-10-44-forsikringsvirksomhetsloven.md). Når ikke annet følger av bestemmelse gitt i eller i medhold av lov, skal det utenlandske finansforetaket i alle rettsforhold som utspringer av filialens virksomhet, være undergitt norsk rett.
+
+(2) For filial av utenlandsk pensjonsforetak gjelder bestemmelsene som angitt i første ledd i den utstrekning bestemmelsene gjelder for norske pensjonsforetak etter [forsikringsvirksomhetsloven §§ 2-6](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) og [2-11](lov-2005-06-10-44-forsikringsvirksomhetsloven.md).
+
+(3) For forsikringsforetak og pensjonskasser som driver livsforsikring, skal kapital som nevnt i [§ 5-6 tredje ledd](lov-2015-04-10-17-finansforetaksloven.md) minst tilsvare avsetninger beregnet etter reglene i [§§ 14-7](lov-2015-04-10-17-finansforetaksloven.md) til [14-11](lov-2015-04-10-17-finansforetaksloven.md) eller i [§ 14-16](lov-2015-04-10-17-finansforetaksloven.md).
+
+(4) Departementet kan ved forskrift fastsette nærmere regler for virksomhet i filial av utenlandsk forsikrings- eller pensjonsforetak. Departementet kan ved forskrift og enkeltvedtak gjøre unntak fra denne paragrafen når det etter lovgivningen i hjemstaten gjelder tilsvarende regler for virksomheten.
+
+– – –
+
+[§ 6-2](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 6-2. Meldingens innhold og behandlingen av denne**
+
+(1) Melding etter [§ 6-1 første ledd](lov-2015-04-10-17-finansforetaksloven.md) skal angi størrelsen på den eierandelen det tas sikte på å erverve, og størrelsen av den samlede eierandelen i finansforetaket etter ervervet. Meldingen skal opplyse om de forhold som vil være av betydning ved beregningen av eierens samlede eierandel etter reglene i [§ 6-1](lov-2015-04-10-17-finansforetaksloven.md).
+
+(2) Meldingen skal også inneholde de opplysninger som vil være av betydning ved vurderingen av om tillatelse skal gis.
+
+(3) Departementet fastsetter nærmere regler om behandlingen av meldinger etter [§ 6-1](lov-2015-04-10-17-finansforetaksloven.md) i forskrift, herunder frist for å bekrefte mottak, frist for behandling, regler om fristavbrytelse dersom det samtidig med meldingen om ervervet søkes om tillatelse til å etablere holdingforetak i finanskonsern etter [§ 17-3](lov-2015-04-10-17-finansforetaksloven.md) eller om å få unntak fra kravet til slik tillatelse etter [§ 17-3 a](lov-2015-04-10-17-finansforetaksloven.md), samt om samordning av frister dersom et erverv også er meldepliktig etter [§ 13-11 a](lov-2015-04-10-17-finansforetaksloven.md).
+
+[§ 6-4](lov-2015-04-10-17-finansforetaksloven.md) nytt tredje ledd skal lyde:
+
+(3) Departementet kan nekte ervervet hvis erverver er hjemmehørende i et tredjeland som er listeført som et høyrisikoland med strategiske mangler i regimet for bekjempelse av hvitvasking og terrorfinansiering, jf. forskrift med hjemmel i [hvitvaskingsloven § 17 tredje ledd](lov-2018-06-01-23-hvitvaskingsloven.md), eller i et tredjeland omfattet av restriktive tiltak gjennomført i norsk rett og dette etter departementets vurdering påvirker erververs mulighet til å følge krav i hvitvaskingsregelverket.
+
+Nåværende tredje til femte ledd blir fjerde til sjette ledd.
+
+[§ 6-4 femte ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(5) Er spørsmålet om tillatelse ikke avgjort innen utløpet av saksbehandlingsfristen som fastsatt i forskrift, skal tillatelse anses gitt til erverv av den eierandelen som er angitt i meldingen til Finanstilsynet etter [§ 6-1 første ledd](lov-2015-04-10-17-finansforetaksloven.md).
+
+– – –
+
+[§ 8-4](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 8-4. Styrets sammensetning mv.**
+
+(1) Et finansforetak skal ha et allsidig sammensatt styre på minst fem medlemmer som samlet har tilstrekkelig kunnskap og erfaring til å kunne forvalte foretakets virksomhet. Styremedlemmene skal kunne vurdere, utfordre og føre tilsyn med foretakets daglige ledelse, de skal ha tilstrekkelig tid til å ivareta vervet, og de skal oppfylle kravene som følger av [§ 3-5 første ledd](lov-2015-04-10-17-finansforetaksloven.md).
+
+(2) Daglig leder kan ikke være medlem av styret. Styreleder og til sammen minst to tredeler av styret skal ikke være ansatt i foretaket eller i foretak i samme konsern. Styret i en pensjonskasse skal ha minst ett medlem uten annen tilknytning til arbeidsgiver, foretak eller forening med pensjonsordning i pensjonskassen, samt ett medlem som representerer medlemmer, herunder pensjonister, i pensjonsordningen i pensjonskassen.
+
+(3) Styrets leder og de øvrige medlemmene velges av generalforsamlingen når annet ikke følger av [§ 8-4 a](lov-2015-04-10-17-finansforetaksloven.md) eller av [§ 8-15](lov-2015-04-10-17-finansforetaksloven.md). Departementet kan i forskrift fastsette krav om at generalforsamlingen i nærmere angitte foretak skal oppnevne en valgkomité som skal forberede valget, hvem som kan oppnevnes, og nærmere regler om valgkomiteens arbeid. Vedtektene skal inneholde regler om valget.
+
+(4) [Allmennaksjeloven §§ 6-6](lov-1997-06-13-45-allmennaksjeloven.md) til [6-11 a](lov-1997-06-13-45-allmennaksjeloven.md) gjelder for øvrig tilsvarende for foretak som ikke er organisert som aksjeselskap eller allmennaksjeselskap.
+
+(5) Departementet kan i forskrift eller ved enkeltvedtak fastsette nærmere krav til det samlede styret og til det enkelte medlem, herunder begrensninger i antall verv et styremedlem kan ha. Departementet kan i forskrift eller enkeltvedtak gjøre unntak fra minstekravet til antall styremedlemmer eller pålegge foretaket å ha flere styremedlemmer.
+
+Ny [§ 8-4 a](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 8-4 a. Ansattes rett til å velge styremedlemmer**
+
+(1) I foretak med minst 15 ansatte kan et flertall av de ansatte kreve at ett styremedlem og én observatør med varamedlemmer velges av og blant de ansatte.
+
+(2) I foretak med flere enn 50 ansatte som ikke har foretaksforsamling, kan et flertall av de ansatte kreve at inntil en tredel og minst to av styrets medlemmer med varamedlemmer velges av og blant de ansatte. Tilhører et foretak et konsern eller en annen gruppe foretak som er knyttet sammen gjennom eierinteresser eller felles ledelse, kan ansatte i konsernet her regnes som ansatt i foretaket.
+
+(3) [Allmennaksjeloven § 6-11 b](lov-1997-06-13-45-allmennaksjeloven.md) gjelder for øvrig tilsvarende for foretak som ikke er organisert som aksjeselskap og allmennaksjeselskap.
+
+(4) Departementet kan i forskrift gi regler om beregningen av antall ansatte, herunder om bruk av gjennomsnittstall. Videre kan departementet gi forskrift om valget, herunder om vilkår for stemmerett og valgbarhet, valgmåten og tvister om valget, samt om bortfall av verv som styremedlem. Departementet kan i forskrift også gi unntak for pensjonskasser fra kravet om ansatterepresentasjon etter første og annet ledd.
+
+[§ 8-5 første ledd annet punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+Bestemmelsen i § 8-4 a annet ledd gjelder ikke datterforetak i finanskonsern dersom de ansatte er representert i morselskapets styre.
+
+– – –
+
+[§ 8-9](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 8-9. Vurdering av styremedlemmers egnethet og melding til Finanstilsynet**
+
+(1) Foretaket skal vurdere og dokumentere at styremedlemmer hver for seg og samlet oppfyller kravene i [§ 8-4 første ledd](lov-2015-04-10-17-finansforetaksloven.md) før de tiltrer som styremedlemmer, og deretter påse at kravene til enhver tid er oppfylt. Foretaket må også vurdere og dokumentere at varamedlemmer oppfyller kravene i [§ 8-4 første ledd annet punktum](lov-2015-04-10-17-finansforetaksloven.md).
+
+(2) Dersom foretaket kommer til at et valgt styremedlem eller varamedlem ikke oppfyller kravene, skal foretaket påse at vedkommende ikke tiltrer vervet. Dersom foretaket kommer til at eksisterende styremedlemmer ikke oppfyller kravene, skal foretaket informere Finanstilsynet og enten iverksette tiltak slik at kravene igjen oppfylles, eller sørge for at styremedlemmer eller varamedlemmer som ikke oppfyller kravene, fratrer.
+
+(3) Foretaket skal gi Finanstilsynet melding når styrets sammensetning endres. Foretaket skal også gi melding om observatører i styret og endring av disse. Meldingen skal inneholde opplysninger som fastsatt i forskrift med hjemmel i femte ledd.
+
+(4) Finanstilsynet kan gi pålegg om endringer i styret eller fastsette vilkår for å sikre at de krav som følger av [§ 8-4](lov-2015-04-10-17-finansforetaksloven.md), er oppfylt. Finanstilsynet kan også gi pålegg om å fjerne en observatør fra styret som ikke oppfyller kravene i [§ 3-5](lov-2015-04-10-17-finansforetaksloven.md).
+
+(5) Departementet kan i forskrift fastsette nærmere regler om foretakets vurdering av styremedlemmers egnethet og om melding til Finanstilsynet om endring av styrets sammensetning, herunder om meldingens innhold, frist for å sende melding og regler for Finanstilsynets saksbehandling av disse. Departementet kan i forskrift gi regler som unntar finansforetak eller grupper av finansforetak fra plikten til å sende melding etter tredje ledd.
+
+[Kapittel 8 avsnitt III](lov-2015-04-10-17-finansforetaksloven.md) overskriften skal lyde:
+
+**III. Daglig ledelse og personer med nøkkelfunksjoner**
+
+[§ 8-10](lov-2015-04-10-17-finansforetaksloven.md) overskriften skal lyde:
+
+**§ 8-10. Daglig leder**
+
+[§ 8-10](lov-2015-04-10-17-finansforetaksloven.md) nytt femte og sjette ledd skal lyde:
+
+(5) Daglig leder skal ha tilstrekkelig tid til å utføre sine oppgaver i finansforetaket.
+
+(6) Departementet kan i forskrift fastsette nærmere krav til daglig leder og begrense antall verv daglig leder kan ha.
+
+[§ 8-14](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 8-14. Vurdering av daglig leders egnethet og melding til Finanstilsynet**
+
+(1) Finansforetak skal vurdere og dokumentere at kravene i [§ 3-5 første ledd](lov-2015-04-10-17-finansforetaksloven.md) og [§ 8-10 femte ledd](lov-2015-04-10-17-finansforetaksloven.md) er oppfylt før en person tiltrer stillingen som daglig leder og deretter påse at daglig leder til enhver tid oppfyller disse kravene. [§ 8-9 annet ledd](lov-2015-04-10-17-finansforetaksloven.md) gjelder tilsvarende.
+
+(2) Finansforetak skal, så vidt mulig på forhånd, gi Finanstilsynet melding ved bytte av daglig leder. Meldingen skal inneholde opplysninger som fastsatt i forskrift med hjemmel i tredje ledd. [§ 8-9 fjerde ledd](lov-2015-04-10-17-finansforetaksloven.md) gjelder tilsvarende.
+
+(3) Departementet kan i forskrift fastsette nærmere regler om foretakets vurdering av daglig leders egnethet og om melding til Finanstilsynet, herunder om meldingens innhold, frist for å sende melding og regler for Finanstilsynets saksbehandling av disse. Departementet kan i forskrift også gi regler som unntar finansforetak eller grupper av finansforetak fra plikten til å sende melding etter annet ledd.
+
+Ny [§ 8-14 a](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 8-14 a. Vurdering av egnetheten til personer i den faktiske ledelsen og personer med nøkkelfunksjon**
+
+(1) Finansforetak skal vurdere og dokumentere at kravene i [§ 3-5 første ledd](lov-2015-04-10-17-finansforetaksloven.md) er oppfylt før en person tiltrer en stilling som inngår i den faktiske ledelsen av virksomheten eller en nøkkelfunksjon, og deretter påse at vedkommende til enhver tid oppfyller kravene. [§ 8-9 annet ledd](lov-2015-04-10-17-finansforetaksloven.md) gjelder tilsvarende.
+
+(2) Finansforetak skal gi Finanstilsynet melding når personer i den faktiske ledelsen eller personer med nøkkelfunksjoner skiftes ut. Meldingen skal inneholde opplysninger som fastsatt i forskrift med hjemmel i fjerde ledd. [§ 8-9 fjerde ledd](lov-2015-04-10-17-finansforetaksloven.md) gjelder tilsvarende.
+
+(3) Med person i den faktiske ledelsen regnes person med betydelig innflytelse på virksomheten eller deler av denne som formelt inngår i foretakets ledelse. Som person med nøkkelfunksjon regnes person som har betydelig innflytelse på ledelsen av foretaket, men som ikke formelt inngår i ledelsen. Finansdirektør og lederne av interne kontrollfunksjoner skal alltid anses som personer med nøkkelfunksjon dersom stillingen ikke formelt inngår i foretakets ledelse.
+
+(4) Departementet kan i forskrift fastsette nærmere regler om foretakets egnethetsvurdering av personer i den faktiske ledelsen og personer med nøkkelfunksjon, samt om melding til Finanstilsynet, blant annet om meldingens innhold, frist for å sende melding og regler for Finanstilsynets saksbehandling av disse. Departementet kan i forskrift gi regler som helt eller delvis unntar finansforetak eller grupper av finansforetak fra plikten til å sende melding etter annet ledd.
+
+[§ 8-15 femte ledd første punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+[Allmennaksjeloven §§ 6-36](lov-1997-06-13-45-allmennaksjeloven.md) til [6-39](lov-1997-06-13-45-allmennaksjeloven.md) gjelder tilsvarende.
+
+[§ 8-15](lov-2015-04-10-17-finansforetaksloven.md) nytt syvende ledd skal lyde:
+
+(7) Departementet kan gi utfyllende forskrifter til første, tredje og sjette ledd, herunder om vilkår for stemmerett og valgbarhet, valgmåten, tvister om valget og om bortfall av verv som medlem av foretaksforsamlingen. Departementet kan dessuten gi forskrifter om beregning av antallet ansatte og om bruk av gjennomsnittstall.
+
+[Kapittel 8 avsnitt V](lov-2015-04-10-17-finansforetaksloven.md) overskriften skal lyde:
+
+**V. Interne kontrollfunksjoner, revisor mv.**
+
+[§ 8-16](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 8-16. Interne kontrollfunksjoner**
+
+(1) Et finansforetak skal ha interne kontrollfunksjoner med ansvar for internrevisjon, risikostyring og etterlevelse av krav fastsatt i eller i medhold av lov eller forskrift. Forsikringsforetak og pensjonskasser skal i tillegg til kontrollfunksjoner som følger av første punktum, ha interne kontrollfunksjoner med ansvar for aktuarfaglige oppgaver.
+
+(2) De interne kontrollfunksjonene skal være uavhengige og ha kompetanse og ressurser som er tilstrekkelige ut fra foretakets virksomhet.
+
+(3) Leder av intern kontrollfunksjon skal ha direkte tilgang og kunne rapportere direkte til styret. Leder av intern kontrollfunksjon kan ikke avsettes uten samtykke fra styret.
+
+(4) Styret skal organisere og fastsette retningslinjer for internrevisjonen. Styret ansetter og avsetter lederen av internrevisjonen og fastsetter dennes betingelser. Internrevisjonen skal minst én gang i året avgi rapport til styret om risikostyringen og internkontrollen samt sin virksomhet.
+
+(5) Departementet kan i forskrift fastsette nærmere regler om organisering av og rapportering fra interne kontrollfunksjoner og gjøre unntak fra krav om interne kontrollfunksjoner etter første ledd.
+
+[§ 10-6 første ledd annet punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+[Aksjeloven § 8-4](lov-1997-06-13-44-aksjeloven.md) og [allmennaksjeloven § 8-4](lov-1997-06-13-45-allmennaksjeloven.md) gjelder ikke for finansforetak.
+
+[§ 12-1](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 12-1. Tillatelse**
+
+(1) Sammenslåing og deling av finansforetak og opprettelse av finansstiftelse i forbindelse med sammenslåing og deling kan bare gjennomføres etter tillatelse gitt av departementet.
+
+(2) Finansforetak som skal slås sammen eller deles, må sende søknad til Finanstilsynet etter at sammenslåingen eller delingen er vedtatt, men før transaksjonen gjennomføres. Departementet kan i forskrift fastsette nærmere regler om hvilke opplysninger søknaden skal inneholde.
+
+(3) Med sammenslåing og deling menes her:
+
+a. fusjon og fisjon som nevnt i [allmennaksjeloven](lov-1997-06-13-45-allmennaksjeloven.md) og [aksjeloven kapittel 13](lov-1997-06-13-44-aksjeloven.md) og [14](lov-1997-06-13-44-aksjeloven.md)
+b. fusjon og fisjon som nevnt i [samvirkelova § 102](https://lovdata.no/lov/2007-06-29-81/§102) og [§ 119](https://lovdata.no/lov/2007-06-29-81/§119)
+c. tilsvarende sammenslåing og deling som nevnt i bokstav a og b av andre foretak som ikke er allmennaksjeselskap, aksjeselskap eller samvirkeforetak
+d. overdragelse av virksomhet der det overdragende foretaket mottar vederlag i aksjer eller andre andeler som representerer kapitalen i det overtakende foretaket.
+
+For foretak som omfattes av bokstav c, likestilles vederlag som overføres til en stiftelse opprettet av det overdragende foretaket i forbindelse med sammenslåingen eller delingen samt eventuelle rettigheter i et grunnfond i overtagende foretak, med vederlag til eier av et overdragende foretak. Departementet kan gi nærmere regler i forskrift om hvilke typer sammenslåinger og delinger som omfattes av bokstav c.
+
+(4) Vedtektsendringer i forbindelse med sammenslåingen eller delingen skal godkjennes av departementet. Det samme gjelder vedtekter for finansforetak som opprettes som følge av sammenslåingen eller delingen.
+
+(5) Sammenslåing og deling som krever tillatelse etter [kapittel 3](lov-2015-04-10-17-finansforetaksloven.md) eller godkjennelse som holdingforetak i finanskonsern etter [kapittel 17](lov-2015-04-10-17-finansforetaksloven.md), samt sammenslåing og deling som følge av bruk av krisetiltak etter [§ 20-19](lov-2015-04-10-17-finansforetaksloven.md), omfattes ikke av bestemmelsene i dette kapittelet.
+
+(6) Ved en sammenslåing eller deling der alle foretak inngår i samme konsern, herunder kredittinstitusjoner tilknyttet et sentralt organ som er underlagt tilsyn som konsern etter kapitalkravsforordningen artikkel 10, kan departementet etter at søknad etter annet ledd er mottatt, bestemme at sammenslåingen eller delingen ikke krever tillatelse.
+
+(7) Departementet kan i forskrift fastsette nærmere regler om behandling av søknad om tillatelse til sammenslåing og deling av finansforetak.
+
+Ny [§ 12-1 a](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 12-1 a. Vurderingskriterier**
+
+(1) For å sikre at virksomheten i foretakene er betryggende etter gjennomføringen av transaksjonen, og for å sikre at risikoene som foretakene som inngår i transaksjonen er eller kan bli utsatt for som følge av transaksjonen, blir avdekket, skal departementet ved avgjørelse av om tillatelse skal gis etter [§ 12-1 første ledd](lov-2015-04-10-17-finansforetaksloven.md), legge vekt på følgende kriterier:
+
+a. foretakenes omdømme,
+b. foretakenes finansielle soliditet, særlig knyttet til foretakenes virksomhet og planlagt virksomhet etter transaksjonen,
+c. om foretakene som følge av sammenslåingen eller delingen vil være i stand til å overholde og fortsette å overholde kravene fastsatt i denne loven og annen finanslovgivning,
+d. om planen for transaksjonen er realistisk, solid og forsvarlig,
+e. om det er rimelig grunn til å anta at det i forbindelse med den foreslåtte transaksjonen foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at den foreslåtte transaksjonen vil øke risikoen for dette.
+
+(2) Departementet kan bare nekte tillatelse til sammenslåingen eller delingen på grunnlag av kriteriene i første ledd eller hvis saken ikke er tilstrekkelig opplyst selv om det er bedt om utfyllende opplysninger.
+
+Ny [§ 12-1 b](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 12-1 b. Kundeinformasjon og rett til oppsigelse**
+
+(1) Finansforetak som skal slås sammen eller deles, skal uten ugrunnet opphold gi kundene informasjon om vedtaket og hva dette betyr for kundenes rettigheter og sikkerhet. Fører vedtaket til endringer av betydning for kundene, skal kunden ha rett til å si opp kundeforholdet. Foretaket skal gi opplysninger om kundenes rett til å avslutte kundeforholdet.
+
+(2) Ved sammenslåing eller deling av foretak som tar imot innskudd, skal foretaket gi informasjon som nevnt i første ledd minst én måned før transaksjonen gjennomføres. Innskytere kan innen tre måneder etter at informasjonen etter første ledd er mottatt, kreve at kvalifiserte innskudd som ikke er garantert etter [§ 19-4](lov-2015-04-10-17-finansforetaksloven.md), blir utbetalt eller overført til en annen bank.
+
+[§ 12-3](lov-2015-04-10-17-finansforetaksloven.md) overskriften skal lyde:
+
+**§ 12-3. Særlige regler for foretak som ikke er aksjeselskap eller allmennaksjeselskap**
+
+[§ 12-3](lov-2015-04-10-17-finansforetaksloven.md) nytt femte til syvende ledd skal lyde:
+
+(5) Senest én måned etter at planen for sammenslåing eller deling er godkjent, skal Foretaksregisteret gis melding om sammenslåingen eller delingen. Bestemmelsene om kunngjøring og kreditorvarsel og melding om ikrafttredelse i [allmennaksjeloven §§ 13-14](lov-1997-06-13-45-allmennaksjeloven.md) til [13-16](lov-1997-06-13-45-allmennaksjeloven.md) og [14-7](lov-1997-06-13-45-allmennaksjeloven.md) og [14-8](lov-1997-06-13-45-allmennaksjeloven.md) gjelder tilsvarende.
+
+(6) Når fristen fastsatt i kreditorvarselet er utløpt, og forholdet til de kreditorer som i tilfelle har fremsatt innsigelse er avklart, skal det gis melding til Foretaksregisteret om at sammenslåingen eller delingen skal tre i kraft, herunder også melding om registrering av finansforetak eller finansstiftelse som skal opprettes som følge av vedtak om sammenslåing eller deling. Foretaksregisteret skal kontrollere at det er gitt tillatelse, og at vedtektene er godkjent. Når sammenslåingen eller delingen er registrert i Foretaksregisteret, trer sammenslåingen eller delingen i kraft og kan gjennomføres. [Allmennaksjeloven §§ 13-17](lov-1997-06-13-45-allmennaksjeloven.md) til [13-19](lov-1997-06-13-45-allmennaksjeloven.md), [14-8](lov-1997-06-13-45-allmennaksjeloven.md) og [14-9](lov-1997-06-13-45-allmennaksjeloven.md) gjelder tilsvarende.
+
+(7) Bestemmelsene i [allmennaksjeloven §§ 13-20](lov-1997-06-13-45-allmennaksjeloven.md) til [13-23](lov-1997-06-13-45-allmennaksjeloven.md) og [14-10](lov-1997-06-13-45-allmennaksjeloven.md) om søksmålsfrist, virkningene av ugyldighet mv. gjelder tilsvarende.
+
+[§§ 12-5](lov-2015-04-10-17-finansforetaksloven.md), [12-6](lov-2015-04-10-17-finansforetaksloven.md) og [12-7](lov-2015-04-10-17-finansforetaksloven.md) oppheves.
+
+[§ 12-9 tredje ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(3) § 12-1 b første ledd om informasjon til kundene gjelder tilsvarende.
+
+[Kapittel 12 avsnitt VI](lov-2015-04-10-17-finansforetaksloven.md) overskriften skal lyde:
+
+**VI. Porteføljeoverdragelse og virksomhetsoverdragelse**
+
+[§ 12-27](lov-2015-04-10-17-finansforetaksloven.md) overskriften og første ledd skal lyde:
+
+**§ 12-27. Overdragelse av porteføljer mv. for forsikrings- og pensjonsforetak**
+
+(1) Avtale om overdragelse av en forsikringsportefølje, låneportefølje eller annen fordringsmasse som utgjør en vesentlig del av foretakenes virksomhet, og avtale om overtagelse og avhendelse av hele eller vesentlig del av virksomheten med tilhørende eiendeler og forpliktelser, krever godkjennelse av departementet. Departementet avgjør i tvilstilfelle ved enkeltvedtak om avhendelsen eller overtagelsen omfatter en vesentlig del av virksomheten.
+
+Ny [§ 12-29](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 12-29. Overdragelse av porteføljer mv. for kredittinstitusjoner m.fl.**
+
+(1) Kredittinstitusjoner, finansieringsforetak, betalingsforetak, e-pengeforetak og holdingforetak i finanskonsern skal sende skriftlig melding til Finanstilsynet i rimelig tid før foretaket erverver eller avhender eiendeler eller forpliktelser av vesentlig omfang. Departementet kan gi regler i forskrift om hvilke opplysninger meldingen skal inneholde.
+
+(2) Et erverv eller en avhendelse som nevnt i første ledd er av vesentlig omfang hvis den utgjør 10 prosent eller mer av avhenderens eller mottakerens forvaltningskapital. Hvis transaksjonen skjer innenfor et konsern, er den vesentlig hvis den utgjør minst 15 prosent av avhenderens eller mottakerens forvaltningskapital. For holdingforetak i finanskonsern skal tersklene vurderes på konsolidert nivå.
+
+(3) Følgende transaksjoner omfattes ikke av meldeplikten etter første ledd:
+
+a. overføring av misligholdte lån
+b. lån som overføres til kredittforetak for å inngå i sikkerhetsmassen etter reglene om obligasjoner med fortrinnsrett i [kapittel 11 avsnitt II](lov-2015-04-10-17-finansforetaksloven.md)
+c. lån som overføres til spesialforetak for verdipapirisering etter [finansforetaksloven kapittel 11 avsnitt III](lov-2015-04-10-17-finansforetaksloven.md)
+d. transaksjoner i forbindelse med krisetiltak etter [§ 20-19 første ledd bokstav a](lov-2015-04-10-17-finansforetaksloven.md) til [c](lov-2015-04-10-17-finansforetaksloven.md).
+
+(3) Bestemmelsene i [§ 12-1 b](lov-2015-04-10-17-finansforetaksloven.md) gjelder tilsvarende.
+
+(4) Departementet kan fastsette nærmere regler om behandlingen av meldinger etter første ledd i forskrift.
+
+[§ 13-5 første ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(1) Et finansforetak skal organiseres og drives på en forsvarlig måte. Foretaket skal ha en klar organisasjonsstruktur og ansvarsfordeling samt klare og hensiktsmessige styrings- og kontrollordninger. Foretaket skal ha hensiktsmessige retningslinjer og rutiner for å identifisere, styre, overvåke og rapportere risiko foretaket er, eller kan bli, eksponert for. Foretaket skal også ha hensiktsmessige retningslinjer og rutiner for gjennomføring, overvåkning og regelmessig vurdering av godtgjørelsesordninger.
+
+[§ 13-5 annet ledd](lov-2015-04-10-17-finansforetaksloven.md) oppheves. Tredje til sjette ledd blir annet til femte ledd.
+
+[§ 13-6 annet ledd første punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+Ved vurderingen av risiko knyttet til virksomheten og samlet risikoeksponering skal det tas hensyn til kredittrisiko, likviditetsrisiko, finansieringsrisiko, markeds- og valutarisiko, operasjonell risiko, risiko knyttet til bærekraftsforhold og annen risiko knyttet til de enkelte virksomhetsområdene.
+
+[§ 13-6 syvende ledd](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+(7) Departementet kan i forskrift fastsette bestemmelser om overvåking, vurdering, styring og kontroll av risiko og kapitalbehov. Departementet kan i forskrift gjøre unntak fra reglene i denne paragrafen for pensjonsforetak og foretak som omfattes av [§ 14-15](lov-2015-04-10-17-finansforetaksloven.md).
+
+[§ 13-9](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 13-9. Eierandeler i foretak som driver annen virksomhet**
+
+(1) Banker og kredittforetak kan uten hinder av [§ 13-1](lov-2015-04-10-17-finansforetaksloven.md) ha kvalifiserte eierandeler i foretak som ikke er foretak i finansiell sektor, dersom den bokførte verdien av eierandelen ikke overstiger 15 prosent av foretakets tellende kapital etter siste års- eller delårsregnskap. Den samlede beholdningen av slike eierandeler skal ikke i noe tilfelle overstige 60 prosent av foretakets tellende kapital.
+
+(2) Som kvalifisert eierandel regnes en eierandel som representerer ti prosent eller mer av kapitalen eller stemmene i et foretak, eller som for øvrig gir adgang til å utøve en vesentlig innflytelse i ledelsen av foretaket og dets virksomhet. Med foretak i finansiell sektor menes foretak som definert i kapitalkravsforordningen artikkel 4 nr. 1 punkt 27. Med tellende kapital menes kapital som definert i kapitalkravsforordningen artikkel 4 nr. 1 punkt 71 bokstav a.
+
+(3) Departementet kan gi utfyllende regler i forskrift om eierandeler i foretak som driver annen virksomhet. Departementet kan i særlige tilfeller ved enkeltvedtak gjøre unntak fra bestemmelsene i paragrafen her og sette vilkår for unntaket.
+
+Nye [§§ 13-11 a](lov-2015-04-10-17-finansforetaksloven.md) til [13-11 c](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 13-11 a. Erverv som utgjør en vesentlig kapitalandel**
+
+(1) Kredittinstitusjoner og finansieringsforetak som direkte eller indirekte vil gjennomføre erverv som utgjør en vesentlig kapitalandel, må på forhånd sende skriftlig melding til Finanstilsynet. For det tilfellet ervervet utgjør en vesentlig kapitalandel på konsolidert nivå, skal det også sendes melding til konsolidert tilsynsmyndighet. Annet punktum gjelder også holdingforetak i finanskonsern der foretak som nevnt i første punktum inngår, dersom ervervet utgjør en vesentlig kapitalandel på konsolidert nivå.
+
+(2) Med vesentlig kapitalandel menes i denne paragrafen en eierandel i et annet foretak som ved ervervet vil utgjøre 15 prosent eller mer av erververs tellende kapital, jf. kapitalkravsforordningen artikkel 4 nr. 1 punkt 71 bokstav a.
+
+(3) Foretak som nevnt i første ledd som direkte eller indirekte vil avhende en vesentlig kapitalandel, skal på forhånd skriftlig underrette Finanstilsynet, eller konsolidert tilsynsmyndighet.
+
+(4) Meldeplikten gjelder ikke erverv som omfattes av [§ 13-2 annet ledd](lov-2015-04-10-17-finansforetaksloven.md).
+
+**§ 13-11 b. Meldingens innhold og behandlingen av denne**
+
+(1) Melding etter [§ 13-11 a](lov-2015-04-10-17-finansforetaksloven.md) skal angi størrelsen på eierandelen og inneholde de opplysningene som er nødvendige for at Finanstilsynet kan vurdere ervervet.
+
+(2) Departementet kan i forskrift fastsette regler om krav til innholdet i meldingen. Departementet fastsetter nærmere regler om behandlingen av meldinger etter [§ 13-11 a](lov-2015-04-10-17-finansforetaksloven.md) i forskrift, herunder frist for å bekrefte mottak, frist for behandling, regler om fristavbrytelse dersom det samtidig med melding om ervervet søkes om tillatelse til å etablere holdingforetak i finanskonsern etter [§ 17-3](lov-2015-04-10-17-finansforetaksloven.md) eller om å få unntak fra kravet til slik tillatelse etter [§ 17-3 a](lov-2015-04-10-17-finansforetaksloven.md), samt om samordning av frister dersom et erverv også er meldepliktig etter [§ 6-1](lov-2015-04-10-17-finansforetaksloven.md).
+
+(3) Hvis Finanstilsynet ikke skriftlig har nektet ervervet innen utløpet av saksbehandlingsfristen som fastsatt i forskrift, kan ervervet gjennomføres i samsvar med meldingen.
+
+**§ 13-11 c. Vurdering av ervervet**
+
+(1) Ved vurderingen av om ervervet skal nektes, skal Finanstilsynet, for å sikre en forsvarlig og betryggende ledelse av finansforetaket og dets virksomhet, ta hensyn til risikoer som erververen utsettes for eller kan utsettes for som følge av ervervet. Vurderingen skal bygge på følgende kriterier:
+
+a. om erververen vil kunne overholde bestemmelsene gitt i eller i medhold av denne loven, eller annen lovgivning på finansområdet,
+b. om det er rimelig grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.
+
+(2) Finanstilsynet kan bare nekte ervervet hvis det er rimelig grunn til dette på grunnlag av kriteriene i første ledd, eller hvis saken ikke er tilstrekkelig opplyst selv om erververen er bedt om å gi utfyllende opplysninger.
+
+(3) Finanstilsynet kan sette en tidsfrist for gjennomføringen av ervervet.
+
+[Kapittel 14 avsnitt I](lov-2015-04-10-17-finansforetaksloven.md) overskriften skal lyde:
+
+**I. Soliditetskrav for banker, kredittforetak og finansieringsforetak**
+
+[§ 14-1](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 14-1. Minstekrav til kapitaldekning og uvektet kjernekapitalandel**
+
+(1) Banker, kredittforetak, finansieringsforetak og holdingforetak i finanskonsern der slike foretak inngår, skal ha ansvarlig kapital som kan bestå av ren kjernekapital, annen godkjent kjernekapital og tilleggskapital. Slike foretak skal til enhver tid oppfylle
+
+a. minstekrav til risikovektet ren kjernekapitaldekning, risikovektet kjernekapitaldekning og risikovektet kapitaldekning som fastsatt i kapitalkravsforordningen artikkel 92 nr. 1 bokstav a til c, jf. nr. 2 til 6,
+b. minstekrav til uvektet kjernekapitalandel som fastsatt i kapitalkravsforordningen artikkel 92 nr. 1 bokstav d, jf. kapitalkravsforordningen del syv, og
+c. eventuelle høyere kapitalkrav fastsatt av Finanstilsynet med hjemmel i [§ 14-6 annet ledd](lov-2015-04-10-17-finansforetaksloven.md).
+
+(2) Departementet kan i forskrift fastsette nærmere regler om krav til risikovektet kapitaldekning og uvektet kjernekapitalandel, herunder regler om beregning av kapitalkrav og om ansvarlig kapital.
+
+(3) Departementet kan i forskrift eller enkeltvedtak unnta holdingforetak i finanskonsern som omfatter både bank og forsikringsforetak (blandede konsern), fra kravene etter første ledd.
+
+[§ 14-2](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 14-2. Krav til likviditetsreserve og stabil langsiktig finansiering**
+
+(1) Banker, kredittforetak, finansieringsforetak og holdingforetak i finanskonsern der slike foretak inngår, skal oppfylle krav til likviditetsreserve og krav til stabil langsiktig finansiering. Med krav til likviditetsreserve menes krav som fastsatt i kapitalkravsforordningen artikkel 412. Med krav til stabil langsiktig finansiering menes krav som fastsatt i kapitalkravsforordningen artikkel 413.
+
+(2) Departementet kan i forskrift fastsette nærmere regler om krav til likviditetsreserve og stabil finansiering. Departementet kan ved forskrift eller enkeltvedtak unnta foretak fra krav til likviditetsreserve og krav til stabil langsiktig finansiering.
+
+[§ 14-3](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 14-3. Bufferkrav**
+
+(1) Finansforetak skal ha en bevaringsbuffer av ren kjernekapital som utgjør 2,5 prosent av beregningsgrunnlaget som fastsatt i forskrift, i tillegg til minstekravet til risikovektet kapitaldekning etter [§ 14-1](lov-2015-04-10-17-finansforetaksloven.md) og andre bufferkrav etter paragrafen her.
+
+(2) Finansforetak skal ha en systemrisikobuffer bestående av ren kjernekapital i tillegg til minstekravet til risikovektet kapitaldekning etter [§ 14-1](lov-2015-04-10-17-finansforetaksloven.md) og andre bufferkrav etter paragrafen her. Departementet fastsetter beregningsgrunnlag og nivået på bufferkravet for engasjementer i Norge og andre land i forskrift.
+
+(3) Finansforetak skal ha en motsyklisk buffer av ren kjernekapital som utgjør mellom 0 og 2,5 prosent av beregningsgrunnlaget som fastsatt i forskrift, i tillegg til minstekravet til risikovektet kapitaldekning etter [§ 14-1](lov-2015-04-10-17-finansforetaksloven.md) og andre bufferkrav etter paragrafen her. Departementet fastsetter nivået på bufferkravet for engasjementer i Norge og andre land i forskrift. Bufferkravet kan i særlige tilfeller settes høyere enn 2,5 prosent.
+
+(4) Finansforetak som er systemviktige i Norge, skal ha en systemviktighetsbuffer av ren kjernekapital som utgjør mellom 0 og 3 prosent av beregningsgrunnlaget som fastsatt i forskrift, i tillegg til minstekravet til risikovektet kapitaldekning etter [§ 14-1](lov-2015-04-10-17-finansforetaksloven.md) og andre bufferkrav etter paragrafen her. Departementet treffer beslutninger om hvilke foretak som skal regnes som systemviktige og nivået på bufferkravet for det enkelte foretak. Bufferkravet kan i særlige tilfeller settes høyere enn 3 prosent.
+
+(5) Finansforetak som er globalt systemviktige, skal ha en global systemviktighetsbuffer av ren kjernekapital som utgjør mellom 1 og 3 prosent av beregningsgrunnlaget som fastsatt i forskrift, i tillegg til minstekravet til risikovektet kapitaldekning etter [§ 14-1](lov-2015-04-10-17-finansforetaksloven.md) og andre bufferkrav etter paragrafen her. Bufferkravet kan i særlige tilfeller settes høyere enn 3 prosent. Dersom foretaket på konsolidert grunnlag er pålagt å ha en systemviktighetsbuffer etter fjerde ledd, gjelder kravet til global systemviktighetsbuffer bare dersom det sistnevnte kravet er høyere. Departementet kan i forskrift fastsette kriterier for hvilke foretak som skal regnes som globalt systemviktige foretak, og hvordan størrelsen på bufferkravet skal utmåles, samt gi særlige virksomhetsregler og soliditetskrav for globalt systemviktige foretak. Departementet treffer beslutning om hvilke foretak som skal regnes som globalt systemviktige foretak, og nivået på bufferkravet for det enkelte foretaket.
+
+(6) Hvis et finansforetak ikke samtidig kan oppfylle bufferkravene i paragrafen her, skal foretaket utarbeide en plan for økning av kapitalen, og foretaket kan ikke uten samtykke fra Finanstilsynet utbetale utbytte til aksjeeierne eller egenkapitalbeviseiere, bonus til ansatte eller rente på annen godkjent kjernekapital.
+
+(7) Departementet kan gi forskrift med nærmere regler om bufferkravene etter paragrafen her, herunder om beregningen av bufferkravene og konsekvenser dersom bufferkravene ikke er oppfylt.
+
+[§ 14-5](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 14-5. Informasjonsplikt**
+
+(1) Foretak som nevnt i [§ 14-1 første ledd](lov-2015-04-10-17-finansforetaksloven.md) skal offentliggjøre informasjon om virksomheten som fastsatt i kapitalkravsforordningen del åtte og annen informasjon om virksomheten som fastsatt i forskrift i medhold av annet ledd.
+
+(2) Departementet kan i forskrift fastsette nærmere regler om krav til offentliggjøring, herunder bestemmelser som gjør unntak fra [personopplysningsloven](lov-2018-06-15-38-personopplysningsloven.md), og regler som unntar finansieringsforetak fra krav til offentliggjøring etter første ledd.
+
+[§ 14-6 annet ledd](lov-2015-04-10-17-finansforetaksloven.md) nytt annet punktum skal lyde:
+
+Finanstilsynet kan i enkeltvedtak fastsette høyere kapitalkrav eller virksomhetsbegrensninger for å sikre at ansvarlig kapital er i samsvar med foretakets risikoeksponering. Departementet kan i forskrift fastsette regler om fremgangsmåten for fastsettelse av høyere kapitalkrav og virksomhetsbegrensninger etter dette ledd.
+
+[§ 14-6 tredje ledd annet punktum bokstav c](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+i. å endre eller begrense virksomheten, herunder adgangen til å ta imot innskudd,
+
+[§ 14-6 tredje ledd annet punktum bokstav g](lov-2015-04-10-17-finansforetaksloven.md) og ny bokstav h skal lyde:
+
+a. å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital ,
+b. å redusere risikoen knyttet til bærekraftsforhold, herunder risikoer som oppstår som følge av endring og omstilling til regulatoriske bærekraftsmål, ved å endre organiseringen og styringen av virksomheten, strategier og risikostyring, og fastsette strengere mål og tiltak enn i foretakets planer for omstilling.
+
+Overskriften til [avsnitt IV i kapittel 14](lov-2015-04-10-17-finansforetaksloven.md) flyttes til etter [§ 14-17](lov-2015-04-10-17-finansforetaksloven.md).
+
+[§ 14-18](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 14-18. Kapitalkrav for betalingsforetak og e-pengeforetak**
+
+Departementet kan gi forskrift om minstekrav til ansvarlig kapital for betalingsforetak og e-pengeforetak og om tilsynsmyndighetens adgang til å fastsette høyere eller lavere krav til enkeltforetak.
+
+[§ 15-1 første ledd første punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+Departementet kan ved forskrift fastsette nærmere regler for å sikre at finansforetak fastsetter og til enhver tid har og praktiserer en godtgjørelsesordning for hele foretaket og datterforetak som omfatter alle ansatte og tillitsvalgte, herunder gjøre unntak for enkelte datterforetak.
+
+– – –
+
+[§ 17-3 a](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 17-3 a. Unntak fra krav til tillatelse for holdingforetak**
+
+(1) Finanstilsynet skal etter søknad gjøre unntak fra kravet til tillatelse etter [§ 17-3](lov-2015-04-10-17-finansforetaksloven.md) dersom følgende vilkår er oppfylt:
+
+a. foretakets hovedvirksomhet er å eie aksjer i datterforetak,
+b. foretaket er ikke utpekt som krisehåndteringsenhet,
+c. et datterforetak av foretaket er en kredittinstitusjon, eller et datterforetak er et holdingforetak i finanskonsern med tillatelse etter [§ 17-3](lov-2015-04-10-17-finansforetaksloven.md), som er ansvarlig for å oppfylle tilsynskrav som gjelder på konsolidert nivå i konsernet, og kan oppfylle disse kravene på en effektiv måte,
+d. foretaket tar ikke del i ledelsesmessige, operasjonelle eller finansielle beslutninger som berører konsernet eller de regulerte datterforetakene, og
+e. det er ikke noe som hindrer et effektivt tilsyn med konsernet på konsolidert nivå.
+
+(2) For holdingforetak som har fått unntak etter første ledd, kan Finanstilsynet i særlige tilfeller gi unntak fra at foretaket inngår i konsolideringen etter [§ 18-2](lov-2015-04-10-17-finansforetaksloven.md) dersom følgende vilkår er oppfylt:
+
+a. unntaket påvirker ikke effektiviteten i tilsynet av kredittinstitusjonen som er datterforetak, eller med konsernet,
+b. holdingforetaket eier ikke aksjer i andre selskaper enn aksjer i kredittinstitusjonen som er datterforetak, eller i det mellomliggende holdingforetaket som kontrollerer kredittinstitusjonen som er datterforetak, og
+c. holdingforetaket har ikke vesentlig gjeld og ingen eksponeringer som ikke er knyttet til eierskapet i kredittinstitusjonen som er datterforetak, eller i mellomliggende holdingforetak som kontrollerer kredittinstitusjonen som er datterforetak.
+
+[§ 18-1 åttende ledd](lov-2015-04-10-17-finansforetaksloven.md) nytt annet og tredje punktum skal lyde:
+
+Holdingforetak og annet morselskap i finanskonsern kan søke om at bestemmelsene i første til syvende ledd helt eller delvis ikke skal få anvendelse på datterforetak som er etablert i et tredjeland. Finanstilsynet skal gi slik tillatelse i den utstrekning holdingforetaket eller annet morselskap i finanskonsern godtgjør at helt eller delvis anvendelse av bestemmelsene vil stride mot lovgivningen i tredjelandet som datterforetaket er etablert i.
+
+– – –
+
+[§ 20-1 første ledd bokstav a](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+a. banker og kredittforetak, samt verdipapirforetak som er omfattet av minstekravet til startkapital i [verdipapirhandelloven § 9-41 første ledd](lov-2007-06-29-75-verdipapirhandelloven.md),
+
+[§ 20-24 annet ledd første punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+Intern oppkapitalisering kan bare brukes som nevnt i første ledd bokstav a når det er rimelig utsikt til at oppkapitaliseringen, sammen med tiltak i en omorganiseringsplan etter [§ 20-27](lov-2015-04-10-17-finansforetaksloven.md) og andre relevante tiltak, vil gjenopprette foretakets finansielle stilling og levedyktighet.
+
+[§ 20-27 annet ledd første punktum](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+Omorganiseringsplanen skal gi en redegjørelse for tiltak som kan gjenopprette den finansielle stillingen og levedyktigheten til hele eller deler av foretaket innen rimelig tid.
+
+– – –
+
+[Kapittel 22](lov-2015-04-10-17-finansforetaksloven.md) overskriften skal lyde:
+
+**Kapittel 22. Tilsyn, forvaltningstiltak, administrative sanksjoner og straff**
+
+[§ 22-2](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 22-2. Pålegg og tvangstiltak**
+
+(1) Departementet kan gi pålegg om at forhold i strid med denne loven eller bestemmelse gitt med hjemmel i loven skal opphøre. Departementet kan sette en frist for at forholdene bringes i samsvar med pålegget.
+
+(2) For å sikre at bestemmelsene gitt i eller i medhold av denne loven blir etterlevd, kan Finanstilsynet ilegge den som ikke etterkommer pålegg etter første ledd tvangsmulkt. Tvangsmulkten løper for hver dag som går etter utløpet av fristen som er satt for oppfyllelse av pålegget, inntil pålegget er oppfylt. Tvangsmulkten kan ilegges for en periode på opptil seks måneder av gangen. [Forvaltningsloven § 51 annet ledd første punktum](lov-1967-02-10-forvaltningsloven.md) gjelder ikke for vedtak om tvangsmulkt etter paragrafen her. Departementet kan i forskrift gi nærmere regler om fastsettelse av tvangsmulkt, herunder tvangsmulktens størrelse.
+
+(3) Eierandel ervervet i strid med regler om eierkontroll skal umiddelbart tvangsselges. Det samme gjelder dersom en tillatelse er tilbakekalt etter [§ 6-4 sjette ledd](lov-2015-04-10-17-finansforetaksloven.md). [Tvangsfullbyrdelsesloven § 10-6](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md) jf. [§ 8-16](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), kommer ikke til anvendelse. Det kan ikke utøves stemmerett for slike eierandeler. Dersom departementet har grunn til å anta at en eier av en kvalifisert eierandel i et finansforetak utviser eller vil utvise handlemåte som vil være i strid med forsvarlig og betryggende forvaltning av finansforetaket, kan departementet treffe vedtak om pålegg eller forbud etter reglene i første og annet ledd, herunder at det ikke kan utøves stemmerett for eierandelene. Det samme gjelder dersom en tillatelse er tilbakekalt etter [§ 6-4 sjette ledd](lov-2015-04-10-17-finansforetaksloven.md).
+
+(4) Dersom et foretak som nevnt i § 13-11 a første ledd unnlater å underrette om planlagt erverv av vesentlig kapitalandel etter reglene i [§§ 13-11 a](lov-2015-04-10-17-finansforetaksloven.md) og [13-11 b](lov-2015-04-10-17-finansforetaksloven.md), eller har ervervet en vesentlig kapitalandel til tross for at Finanstilsynet har nektet dette, kan Finanstilsynet treffe egnede tiltak, herunder beslutte at stemmeretter ikke kan utøves.
+
+Ny [§ 22-2 a](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 22-2 a. Forvaltningstiltak overfor holdingforetak i finanskonsern**
+
+(1) Dersom et holdingforetak i finanskonsern er etablert i strid med [§ 17-3](lov-2015-04-10-17-finansforetaksloven.md), eller ikke lenger fyller vilkårene for å få tillatelse til å være holdingforetak i finanskonsern etter [§ 17-5 tredje ledd](lov-2015-04-10-17-finansforetaksloven.md), kan Finanstilsynet anvende ett eller flere av følgende virkemidler overfor holdingforetaket:
+
+a. pålegge foretaket å ikke utøve stemmerett til aksjer i datterforetak som er kredittinstitusjon eller verdipapirforetak
+b. pålegge foretaket å overføre aksjene i datterforetak, som er kredittinstitusjon eller verdipapirforetak, til foretakets aksjeeiere
+c. utpeke et annet holdingforetak, eller en annen kredittinstitusjon i konsernet som ansvarlig for overholdelse av soliditets- og sikkerhetskrav på konsolidert nivå
+d. pålegge foretaket å begrense utbetaling av utbytte til aksjeeiere, eller forby slik utbetaling
+e. pålegge foretaket å selge, eller selge seg ned i, kredittinstitusjon, verdipapirforetak eller andre foretak i finansiell sektor
+f. pålegge foretaket å legge frem en plan for overholdelse av krav som gjelder for foretaket.
+
+(2) Finanstilsynet skal ved bruk av virkemidler overfor holdingforetak i blandede konsern ta særlig hensyn til virkningene for konsernet.
+
+Ny [§ 22-5](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 22-5. Overtredelsesgebyr**
+
+(1) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av [kapittel 2](lov-2015-04-10-17-finansforetaksloven.md), [§ 3-5](lov-2015-04-10-17-finansforetaksloven.md), [§ 6-1](lov-2015-04-10-17-finansforetaksloven.md), [§ 6-2](lov-2015-04-10-17-finansforetaksloven.md), [§ 6-5](lov-2015-04-10-17-finansforetaksloven.md), [§ 10-6](lov-2015-04-10-17-finansforetaksloven.md), [§§ 11-6](lov-2015-04-10-17-finansforetaksloven.md) til [11-13](lov-2015-04-10-17-finansforetaksloven.md), [§ 12-1](lov-2015-04-10-17-finansforetaksloven.md), [§ 12-27](lov-2015-04-10-17-finansforetaksloven.md), [§ 12-29](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-5](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-7](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-8](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-10](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-11 a](lov-2015-04-10-17-finansforetaksloven.md), [§ 13-12](lov-2015-04-10-17-finansforetaksloven.md), [§ 14-3 sjette ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 14-5](lov-2015-04-10-17-finansforetaksloven.md), [§ 14-12](lov-2015-04-10-17-finansforetaksloven.md), [kapittel 15](lov-2015-04-10-17-finansforetaksloven.md), [§ 16-1](lov-2015-04-10-17-finansforetaksloven.md), [§ 16-8](lov-2015-04-10-17-finansforetaksloven.md), [§ 17-3](lov-2015-04-10-17-finansforetaksloven.md), [§ 20-5](lov-2015-04-10-17-finansforetaksloven.md), [§ 20-6](lov-2015-04-10-17-finansforetaksloven.md), [§ 20-8](lov-2015-04-10-17-finansforetaksloven.md), [§ 20-13 første](lov-2015-04-10-17-finansforetaksloven.md) og [tredje ledd](lov-2015-04-10-17-finansforetaksloven.md) og forskrifter gitt til utfylling av disse bestemmelsene.
+
+(2) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av kapitalkravsforordningen artikkel 92 nr. 1, artikkel 430 nr. 1 til 3, artikkel 430a, artikkel 431 nr. 1 til 3 og artikkel 451 nr. 1 samt kapitalkravsforordningen andre del, tredje del avdeling II til VI, fjerde del, sjette del avdeling I og IV og syvende del, og forskrifter gitt til utfylling av disse bestemmelsene.
+
+(3) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av verdipapiriseringsforordningen, jf. [§ 11-16](lov-2015-04-10-17-finansforetaksloven.md), artikkel 6 om risikotilbakeholdelse, artikkel 7 om transparenskrav, artikkel 9 om kriterier for långivning, artikkel 27 nr. 4 om meldinger til Den europeiske verdipapir- og markedstilsynsmyndighet, artikkel 28 om meldeplikt til myndighetene og forskrifter gitt til utfylling av disse bestemmelsene. Overtredelsesgebyr kan også ilegges ved bruk av betegnelsen enkle, transparente og standardiserte verdipapiriseringer uten at kravene i verdipapiriseringsforordningen, jf. [§ 11-16](lov-2015-04-10-17-finansforetaksloven.md), artikkel 19 til 26 eller artikkel 27 nr. 1, eller forskrifter gitt til utfylling av disse bestemmelsene, er oppfylt.
+
+(4) Finanstilsynet kan ilegge overtredelsesgebyr dersom det kreves tillatelse, godkjenning eller samtykke etter loven her eller etter bestemmelser gitt i medhold av loven her, og noen handler uten slik tillatelse, godkjenning eller samtykke. Første punktum gjelder tilsvarende dersom noen har fått tillatelse, samtykke eller godkjenning ved hjelp av uriktige opplysninger eller andre uregelmessigheter.
+
+(5) Finanstilsynet kan ilegge overtredelsesgebyr til den som ikke etterkommer plikter som følger av individuelle avgjørelser gitt med hjemmel i loven her eller med hjemmel i forskrifter gitt til utfylling av loven.
+
+(6) I forskrifter om krav til finansforetakenes utlånspraksis gitt med hjemmel i [§ 1-7](lov-2015-04-10-17-finansforetaksloven.md) kan det fastsettes at den som forsettlig eller uaktsomt overtrer forskriften, kan ilegges overtredelsesgebyr.
+
+(7) Medvirkning til overtredelse av bestemmelser og plikter som nevnt i første til sjette ledd kan sanksjoneres på samme måte.
+
+(8) Fysiske personer kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser begått av foretaket eller noen som har handlet på vegne av foretaket. Departementet kan i forskrift fastsette bestemmelser om kvalifisert skyldkrav som vilkår for å ilegge overtredelsesgebyr.
+
+(9) Fysiske personer kan ilegges overtredelsesgebyr på inntil 50 millioner kroner. Foretak kan ilegges overtredelsesgebyr på inntil 50 millioner kroner eller 10 prosent av samlet årsomsetning, dersom dette utgjør et høyere beløp. Overtredelsesgebyret kan fastsettes til inntil to ganger oppnådd fortjeneste eller unngått tap som følge av overtredelsen, dersom dette utgjør et høyere beløp enn etter første og annet punktum.
+
+(10) Departementet kan fastsette utfyllende forskrifter til paragrafen her, herunder om beregning av samlet årsomsetning ved ileggelse av overtredelsesgebyr.
+
+Nåværende [§ 22-5](lov-2015-04-10-17-finansforetaksloven.md) blir [§ 22-6](lov-2015-04-10-17-finansforetaksloven.md) og skal lyde:
+
+**§ 22-6. Momenter ved ileggelse og utmåling av forvaltningstiltak og administrative sanksjoner**
+
+Ved vurderingen av hvilke forvaltningstiltak eller administrative sanksjoner som skal ilegges og ved utmåling av overtredelsesgebyr, kan det tas hensyn til
+
+a. overtredelsens grovhet og varighet,
+b. overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt og eiendeler,
+c. hvor stor vinning som er oppnådd eller tap som er unngått ved overtredelsen,
+d. tap påført tredjemann som følge av overtredelsen,
+e. i hvilken grad overtrederen har samarbeidet med Finanstilsynet,
+f. tidligere overtredelser,
+g. graden av skyld hos overtrederen,
+h. eventuelle følger av overtredelsen for finansiell stabilitet,
+i. tidligere strafferettslige reaksjoner mot den samme fysiske eller juridiske personen for den samme overtredelsen,
+j. forhold som nevnt i [forvaltningsloven § 46 annet ledd](lov-1967-02-10-forvaltningsloven.md), og
+k. andre relevante forhold.
+
+Nåværende [§§ 22-6](lov-2015-04-10-17-finansforetaksloven.md) og [22-7](lov-2015-04-10-17-finansforetaksloven.md) blir [§§ 22-7](lov-2015-04-10-17-finansforetaksloven.md) og 22-8.
+
+§ 22-8 annet ledd første punktum skal lyde:
+
+Enhver som utfører arbeid eller tjeneste for Finanstilsynet eller departementet, har taushetsplikt overfor uvedkommende om opplysninger som omhandler forvaltningstiltak og administrative sanksjoner som knytter seg til overtredelse av regler i loven her, eller forskrifter gitt i medhold av loven, dersom offentliggjøring av opplysningene anses som urimelig etter en forhåndsvurdering, kan skape alvorlig uro på finansmarkedene, kan skade en pågående strafferettslig etterforskning og vedkommende kjenner til dette eller kan påføre de berørte parter uforholdsmessig stor skade.
+
+Ny [§ 22-9](lov-2015-04-10-17-finansforetaksloven.md) skal lyde:
+
+**§ 22-9. Forbud mot å ha ledelsesfunksjon**
+
+(1) Finanstilsynet kan treffe vedtak om at styremedlemmer, andre tillitsvalgte, oppdragstakere eller ansatte i foretak med tillatelse til å drive virksomhet som omfattes av loven, ikke kan ha ledelsesfunksjon i slike foretak dersom vedkommende må anses uskikket til dette på grunn av overtredelse eller medvirkning til overtredelse av bestemmelser gitt i eller i medhold av loven her. Vedtak som nevnt i første punktum kan også omfatte forbud mot å ha ledelsesfunksjon i forsikringsformidlingsforetak.
+
+(2) Et vedtak etter første ledd kan gis med varighet på inntil fem år.
+
+(3) Departementet kan fastsette utfyllende forskrifter til paragrafen her.
+
+## II
+
+I [lov 10. juni 2005 nr. 44 om forsikringsvirksomhet](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) gjøres følgende endringer:
+
+[Kapittel 9](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) overskriften skal lyde:
+
+**Kapittel 9 Tilsyn, forvaltningstiltak, administrative sanksjoner og straff**
+
+Nye [§§ 9-1](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) til [9-3](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) skal lyde:
+
+**§ 9-1. Finanstilsynets taushetsplikt mv.**
+
+Enhver som utfører arbeid eller tjeneste for Finanstilsynet eller departementet, har taushetsplikt overfor uvedkommende om opplysninger som omhandler sanksjoner og andre tiltak som knytter seg til overtredelse av regler i loven her, eller forskrifter i medhold av loven, dersom offentliggjøring av opplysningene kan skape alvorlig uro på finansmarkedene eller påføre de berørte partene uforholdsmessig stor skade. [Forvaltningsloven § 13](lov-1967-02-10-forvaltningsloven.md) og [§§ 13 b](lov-1967-02-10-forvaltningsloven.md) til [13 e](lov-1967-02-10-forvaltningsloven.md) gjelder ikke for opplysninger som nevnt i første punktum.
+
+**§ 9-2. Overtredelsesgebyr**
+
+Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av [§ 2-3](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 2-7](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 3-8](lov-2005-06-10-44-forsikringsvirksomhetsloven.md), [§ 3-11 syvende ledd](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) og [§ 3-23](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) og forskrifter gitt i medhold av disse bestemmelsene. Medvirkning til overtredelse av disse bestemmelsene kan sanksjoneres på samme måte.
+
+Fysiske personer kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser begått av foretaket eller av noen som har handlet på foretakets vegne. Departementet kan i forskrift fastsette bestemmelser om kvalifisert skyldkrav som vilkår for å ilegge overtredelsesgebyr.
+
+Fysiske personer kan ilegges overtredelsesgebyr på inntil 50 millioner kroner. Foretak kan ilegges overtredelsesgebyr på inntil 50 millioner kroner eller 10 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap, dersom dette utgjør et høyere beløp. For et morforetak eller et datterforetak av et morforetak som skal utarbeide konsernregnskap etter direktiv [2013/34/EU](https://lovdata.no/eu/32013l0034), skal den relevante omsetningen være den totale årsomsetningen, eller tilsvarende inntekt etter relevante regnskapsdirektiver, etter siste tilgjengelige konsoliderte årsregnskap godkjent av ledelsen i det overordnede morforetaket. Overtredelsesgebyret kan fastsettes til inntil to ganger oppnådd fortjeneste eller unngått tap som følge av overtredelsen, dersom dette utgjør et høyere beløp enn etter første og annet punktum.
+
+Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen opphørte. Fristen avbrytes ved at Finanstilsynet sender forhåndsvarsel eller treffer vedtak om overtredelsesgebyr.
+
+Departementet kan fastsette utfyllende forskrifter til paragrafen her.
+
+**§ 9-3. Momenter ved ileggelse og utmåling av overtredelsesgebyr**
+
+Ved vurderingen av om overtredelsesgebyr skal ilegges og ved utmåling kan det tas hensyn til
+
+a. overtredelsens grovhet og varighet
+b. graden av skyld hos overtrederen
+c. overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt
+d. oppnådd fortjeneste eller unngått tap
+e. tap påført tredjemann som følge av overtredelsen
+f. vilje til å samarbeide med myndighetene
+g. tidligere overtredelser
+h. forhold som nevnt i [forvaltningsloven § 46 annet ledd](lov-1967-02-10-forvaltningsloven.md)
+i. andre relevante forhold.
+
+Nåværende [§ 9-1](lov-2005-06-10-44-forsikringsvirksomhetsloven.md) blir ny [§ 9-4](lov-2005-06-10-44-forsikringsvirksomhetsloven.md).
+
+## III
+
+I [lov 29. juni 2007 nr. 75 om verdipapirhandel](lov-2007-06-29-75-verdipapirhandelloven.md) gjøres følgende endringer:
+
+[§ 19-8 tredje ledd](lov-2007-06-29-75-verdipapirhandelloven.md) skal lyde:
+
+(3) Et vedtak etter første eller annet ledd kan gis for et tidsrom av inntil fem år.
+
+Nåværende tredje ledd blir nytt fjerde ledd.
+
+[§ 21-9 annet ledd](lov-2007-06-29-75-verdipapirhandelloven.md) skal lyde:
+
+(2) Foretak kan ilegges overtredelsesgebyr etter kapittelet her ved forsettlige eller uaktsomme overtredelser begått av foretaket eller noen som har handlet på foretakets vegne.
+
+## IV
+
+I [lov 25. november 2011 nr. 44 om verdipapirfond](lov-2011-11-25-44-verdipapirfondloven.md) skal [§ 11-6 femte ledd](lov-2011-11-25-44-verdipapirfondloven.md) lyde:
+
+(5) Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på foretakets vegne, forsettlig eller uaktsomt har begått en overtredelse som nevnt i første eller annet ledd.
+
+## V
+
+I [lov 20. juni 2014 nr. 28 om forvaltning av alternative investeringsfond](lov-2014-06-20-28-aif-loven.md) skal [§ 9-6 femte ledd](lov-2014-06-20-28-aif-loven.md) lyde:
+
+(5) Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på foretakets vegne, forsettlig eller uaktsomt har begått en overtredelse som nevnt i første eller annet ledd.
+
+## VI
+
+I [lov 20. juni 2014 nr. 30 om kredittvurderingsbyråer](lov-2014-06-20-30-lov-om-kredittvurderingsbyraaer.md) skal [§ 6 første ledd](lov-2014-06-20-30-lov-om-kredittvurderingsbyraaer.md) lyde:
+
+Finanstilsynet kan ilegge foretaket overtredelsesgebyr dersom foretaket eller noen som har handlet på vegne av foretaket, forsettlig eller uaktsomt har overtrådt kredittvurderingsbyråforordningen artikkel 4 nr. 1 som gjennomført i [§ 1](lov-2014-06-20-30-lov-om-kredittvurderingsbyraaer.md) eller forskrifter gitt til utfylling av disse bestemmelsene.
+
+## VII
+
+I [lov 4. desember 2015 nr. 95 om fastsettelse av finansielle referanseverdier](lov-2015-12-04-95-referanseverdiloven.md) gjøres følgende endringer:
+
+[§ 10 annet ledd](lov-2015-12-04-95-referanseverdiloven.md) skal lyde:
+
+(2) Et vedtak etter første ledd kan gis for et tidsrom av inntil fem år.
+
+Nåværende annet ledd blir nytt tredje ledd.
+
+[§ 12 annet ledd annet punktum](lov-2015-12-04-95-referanseverdiloven.md) skal lyde:
+
+Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på vegne av foretaket, forsettlig eller uaktsomt har begått en overtredelse som nevnt i første ledd.
+
+## VIII
+
+I [lov 23. mars 2018 nr. 3 om Bankenes sikringsfond](lov-2018-03-23-3-lov-om-bankenes-sikringsfond.md) skal [§ 2 tredje ledd](lov-2018-03-23-3-lov-om-bankenes-sikringsfond.md) nytt annet punktum lyde: – – –
+
+## IX
+
+I [lov 1. juni 2018 nr. 23 om tiltak mot hvitvasking og terrorfinansiering](lov-2018-06-01-23-hvitvaskingsloven.md) gjøres følgende endringer:
+
+[§ 48](lov-2018-06-01-23-hvitvaskingsloven.md) nytt fjerde ledd skal lyde:
+
+(4) Et vedtak etter første eller annet ledd kan gis for et tidsrom av inntil fem år.
+
+[§ 49 første ledd](lov-2018-06-01-23-hvitvaskingsloven.md) skal lyde:
+
+(1) Dersom rapporteringspliktige eller noen som har handlet på vegne av et rapporteringspliktig foretak, forsettlig eller uaktsomt har overtrådt [§§ 6](lov-2018-06-01-23-hvitvaskingsloven.md) til [8](lov-2018-06-01-23-hvitvaskingsloven.md), [kapittel 4](lov-2018-06-01-23-hvitvaskingsloven.md), [§§ 25](lov-2018-06-01-23-hvitvaskingsloven.md), [26](lov-2018-06-01-23-hvitvaskingsloven.md), [27](lov-2018-06-01-23-hvitvaskingsloven.md), [28](lov-2018-06-01-23-hvitvaskingsloven.md), [30](lov-2018-06-01-23-hvitvaskingsloven.md), [35](lov-2018-06-01-23-hvitvaskingsloven.md), [36](lov-2018-06-01-23-hvitvaskingsloven.md), [39](lov-2018-06-01-23-hvitvaskingsloven.md), [42](lov-2018-06-01-23-hvitvaskingsloven.md), forskrift gitt i medhold av disse bestemmelsene eller forskrift gitt i medhold av [§ 52](lov-2018-06-01-23-hvitvaskingsloven.md), kan tilsynsmyndigheten ilegge den rapporteringspliktige overtredelsesgebyr. Rapporteringspliktige som ikke er foretak, må ha utvist forsett eller grov uaktsomhet.
+
+## X
+
+I [lov 15. mars 2019 nr. 6 om verdipapirsentraler og verdipapiroppgjør mv.](lov-2019-03-15-6-verdipapirsentralloven.md) gjøres følgende endringer:
+
+[§ 11-8](lov-2019-03-15-6-verdipapirsentralloven.md) nytt annet ledd skal lyde:
+
+Et vedtak etter første ledd kan gis for et tidsrom av inntil fem år.
+
+[§ 11-9 første ledd](lov-2019-03-15-6-verdipapirsentralloven.md) nytt fjerde punktum skal lyde:
+
+Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på vegne av foretaket, forsettlig eller uaktsomt har begått en overtredelse som nevnt i dette leddet.
+
+## XI
+
+I [lov 20. november 2020 nr. 128 om revisjon og revisorer](lov-2020-11-20-128-revisorloven.md) skal [§ 14-5 annet ledd annet punktum](lov-2020-11-20-128-revisorloven.md) lyde:
+
+Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på foretakets vegne, forsettlig eller uaktsomt har overtrådt bestemmelsene nevnt i første ledd.
+
+## XII
+
+I [lov 22. desember 2021 nr. 163 om forsikringsformidling](lov-2021-12-22-163-forsikringsformidlingsloven.md) gjøres følgende endringer:
+
+Nye [§§ 10-6](lov-2021-12-22-163-forsikringsformidlingsloven.md) til [10-8](lov-2021-12-22-163-forsikringsformidlingsloven.md) skal lyde:
+
+**§ 10-6. Forbud mot å ha ledelsesfunksjon**
+
+Finanstilsynet kan treffe vedtak om at styremedlemmer, andre tillitsvalgte, oppdragstakere eller ansatte i foretak med tillatelse til å drive virksomhet som omfattes av loven, ikke kan ha ledelsesfunksjon i slike foretak dersom vedkommende må anses uskikket til dette på grunn av overtredelse eller medvirkning til overtredelse av bestemmelser gitt i eller i medhold av loven her. Vedtak som nevnt i første punktum kan også omfatte forbud mot å ha ledelsesfunksjon i forsikringsforetak.
+
+Et vedtak etter første ledd kan gis med varighet på inntil fem år.
+
+Departementet kan i forskrift gi regler som utfyller bestemmelsene i paragrafen her.
+
+**§ 10-7. Overtredelsesgebyr**
+
+Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av [§ 3-1](lov-2021-12-22-163-forsikringsformidlingsloven.md), [§ 6-1](lov-2021-12-22-163-forsikringsformidlingsloven.md), [§ 6-5](lov-2021-12-22-163-forsikringsformidlingsloven.md), [§ 8-1](lov-2021-12-22-163-forsikringsformidlingsloven.md) og [§ 9-1](lov-2021-12-22-163-forsikringsformidlingsloven.md) og forskrifter i medhold av disse bestemmelsene. Første punktum gjelder tilsvarende dersom noen har fått tillatelse eller blitt registrert etter [§ 3-1](lov-2021-12-22-163-forsikringsformidlingsloven.md) ved hjelp av uriktige opplysninger eller andre uregelmessigheter. Medvirkning til overtredelse av bestemmelser nevnt i første og annet punktum kan sanksjoneres på samme måte.
+
+Fysiske personer kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser begått av foretaket eller noen som har handlet på foretakets vegne. Departementet kan i forskrift fastsette bestemmelser om kvalifisert skyldkrav som vilkår for å ilegge overtredelsesgebyr.
+
+Fysiske personer kan ilegges overtredelsesgebyr på inntil 7 millioner kroner. Foretak kan ilegges overtredelsesgebyr på inntil 50 millioner kroner eller 5 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap, dersom dette utgjør et høyere beløp. For et morforetak eller et datterforetak av et morforetak som skal utarbeide konsernregnskap etter direktiv [2013/34/EU](https://lovdata.no/eu/32013l0034), skal den relevante omsetningen være den totale årsomsetningen, eller tilsvarende inntekt etter relevante regnskapsdirektiver, etter siste tilgjengelige konsoliderte årsregnskap godkjent av ledelsen i det overordnede morforetaket. Overtredelsesgebyret kan fastsettes til inntil to ganger oppnådd fortjeneste eller unngått tap som følge av overtredelsen, dersom dette utgjør et høyere beløp enn etter første og annet punktum.
+
+Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen opphørte. Fristen avbrytes ved at Finanstilsynet sender forhåndsvarsel eller treffer vedtak om overtredelsesgebyr.
+
+Departementet kan i forskrift gi regler som utfyller bestemmelsene i paragrafen her.
+
+**§ 10-8. Momenter ved ileggelse og utmåling av overtredelsesgebyr**
+
+Ved vurderingen av om overtredelsesgebyr skal ilegges, og ved utmåling kan det tas hensyn til
+
+a. overtredelsens grovhet og varighet
+b. graden av skyld hos overtrederen
+c. overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt
+d. oppnådd fortjeneste eller unngått tap
+e. tap påført tredjemann som følge av overtredelsen
+f. vilje til å samarbeide med myndighetene
+g. overtrederens tiltak for å hindre gjentakelse
+h. tidligere overtredelser
+i. forhold som nevnt i [forvaltningsloven § 46 annet ledd](lov-1967-02-10-forvaltningsloven.md)
+j. andre relevante forhold.
+
+## XIII
+
+I [lov 16. desember 2022 nr. 91 om låneformidling](lov-2022-12-16-91-laaneformidlingsloven.md) gjøres følgende endringer:
+
+Nye [§§ 9-5](lov-2022-12-16-91-laaneformidlingsloven.md) til [9-8](lov-2022-12-16-91-laaneformidlingsloven.md) skal lyde:
+
+**§ 9-5. Forbud mot å ha ledelsesfunksjon**
+
+(1) Finanstilsynet kan treffe vedtak om at styremedlemmer, andre tillitsvalgte, oppdragstakere eller ansatte i foretak med tillatelse til å drive virksomhet som omfattes av loven, ikke kan ha ledelsesfunksjon i slike foretak dersom vedkommende må anses uskikket til dette på grunn av overtredelse eller medvirkning til overtredelse av bestemmelser gitt i eller i medhold av loven her.
+
+(2) Et vedtak etter første ledd kan gis med varighet på inntil fem år.
+
+(3) Departementet kan i forskrift fastsette nærmere regler om forbud mot å ha ledelsesfunksjon.
+
+**§ 9-6. Overtredelsesgebyr**
+
+(1) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av [§ 2-1](lov-2022-12-16-91-laaneformidlingsloven.md), [§ 2-3](lov-2022-12-16-91-laaneformidlingsloven.md), [§ 2-4](lov-2022-12-16-91-laaneformidlingsloven.md), [§ 3-1](lov-2022-12-16-91-laaneformidlingsloven.md), [§ 3-2](lov-2022-12-16-91-laaneformidlingsloven.md), [kapittel 5](lov-2022-12-16-91-laaneformidlingsloven.md), [§§ 7-1](lov-2022-12-16-91-laaneformidlingsloven.md) til [7-3](lov-2022-12-16-91-laaneformidlingsloven.md) og forskrifter gitt i medhold av disse bestemmelsene. Første punktum gjelder tilsvarende dersom noen har fått tillatelse ved hjelp av uriktige opplysninger eller andre uregelmessigheter. Medvirkning til overtredelse som nevnt i første og annet punktum kan sanksjoneres på samme måte.
+
+(2) Fysiske personer kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser begått av foretaket eller noen som har handlet på foretakets vegne. Departementet kan i forskrift fastsette bestemmelser om kvalifisert skyldkrav som vilkår for å ilegge overtredelsesgebyr.
+
+(3) Fysiske personer kan ilegges overtredelsesgebyr på inntil 50 millioner kroner. Foretak kan ilegges overtredelsesgebyr på inntil 50 millioner kroner eller 5 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap, dersom dette utgjør et høyere beløp. For et morforetak eller et datterforetak av et morforetak som skal utarbeide konsernregnskap etter direktiv [2013/34/EU](https://lovdata.no/eu/32013l0034), skal den relevante omsetningen være den totale årsomsetningen, eller tilsvarende inntekt etter relevante regnskapsdirektiver, etter siste tilgjengelige konsoliderte årsregnskap godkjent av ledelsen i det overordnede morforetaket. Overtredelsesgebyret kan fastsettes til inntil to ganger oppnådd fortjeneste eller unngått tap som følge av overtredelsen, dersom dette utgjør et høyere beløp enn etter første og annet punktum.
+
+(4) Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen opphørte. Fristen avbrytes ved at Finanstilsynet sender forhåndsvarsel eller treffer vedtak om overtredelsesgebyr.
+
+(5) Departementet kan i forskrift fastsette nærmere regler om overtredelsesgebyr.
+
+**§ 9-7. Momenter ved ileggelse og utmåling av overtredelsesgebyr**
+
+Ved vurderingen av om overtredelsesgebyr skal ilegges, og ved utmåling kan det tas hensyn til
+
+a. overtredelsens grovhet og varighet
+b. graden av skyld hos overtrederen
+c. overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt
+d. oppnådd fortjeneste eller unngått tap
+e. tap påført en tredjeperson som følge av overtredelsen
+f. vilje til å samarbeide med myndighetene
+g. tidligere overtredelser
+h. forhold som nevnt i [forvaltningsloven § 46 annet ledd](lov-1967-02-10-forvaltningsloven.md)
+i. andre relevante forhold.
+
+**§ 9-8. Finanstilsynets taushetsplikt mv.**
+
+Enhver som utfører arbeid eller tjeneste for Finanstilsynet eller departementet, har taushetsplikt overfor uvedkommende om opplysninger som omhandler forvaltningstiltak og administrative sanksjoner som gjelder overtredelse av regler gitt i eller i medhold av loven her, dersom offentliggjøring av opplysningene kan skape alvorlig uro på finansmarkedene eller påføre de berørte partene uforholdsmessig stor skade. [Forvaltningsloven § 13](lov-1967-02-10-forvaltningsloven.md) og [§§ 13 b](lov-1967-02-10-forvaltningsloven.md) til [13 e](lov-1967-02-10-forvaltningsloven.md) gjelder ikke for opplysninger som nevnt i første punktum.
+
+## XIV
+
+I [lov 21. juni 2024 nr. 40 om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter](lov-2024-06-21-40-priips-loven.md) gjøres følgende endringer:
+
+[§ 8](lov-2024-06-21-40-priips-loven.md) skal lyde:
+
+**§ 8. Forbud mot å ha ledelsesfunksjon**
+
+Finanstilsynet kan treffe vedtak om at styremedlemmer, andre tillitsvalgte, oppdragstakere eller ansatte i foretak med tillatelse til å drive virksomhet som omfattes av loven, ikke kan ha ledelsesfunksjon i slike foretak dersom vedkommende må anses uskikket til dette på grunn av overtredelse eller medvirkning til overtredelse av bestemmelser gitt i eller i medhold av loven her.
+
+Et vedtak etter første ledd kan gis med varighet på inntil fem år.
+
+Departementet kan i forskrift gi regler som utfyller reglene i paragrafen her.
+
+Nåværende [§§ 8](lov-2024-06-21-40-priips-loven.md) til [11](lov-2024-06-21-40-priips-loven.md) blir [§§ 9](lov-2024-06-21-40-priips-loven.md) til ny § 12.
+
+## XV
+
+I [lov 21. juni 2024 nr. 41 om Finanstilsynet](lov-2024-06-21-41-finanstilsynsloven.md) skal ny [§ 6-5](lov-2024-06-21-41-finanstilsynsloven.md) lyde:
+
+**§ 6-5. Offentliggjøring av vedtak om administrative sanksjoner mv.**
+
+(1) Finanstilsynet skal i den utstrekning dette ikke vil være i strid med lovbestemt taushetsplikt, offentliggjøre vedtak om forvaltningstiltak eller administrative sanksjoner når det følger av EØS-retten at slik offentliggjøring skal skje.
+
+(2) Offentliggjøringen skal inneholde opplysninger om
+
+a. hvilken bestemmelse som er overtrådt
+b. arten av overtredelsen
+c. type sanksjon eller tiltak som er ilagt
+d. identiteten til den fysiske eller juridiske personen som er ilagt sanksjonen eller tiltaket.
+
+(3) Offentliggjorte vedtak skal være tilgjengelige på Finanstilsynets nettsted i minst fem år. Dersom offentliggjøringen skjer anonymisert, kan informasjonen beholdes lenger dersom det er nødvendig og forholdsmessig.
+
+(4) Departementet kan i forskrift gi nærmere regler om offentliggjøring etter denne paragrafen.
+
+## XVI
+
+I [lov 27. mai 2025 nr. 20 om kryptoeiendeler](lov-2025-05-27-20-kryptoeiendelsloven.md) gjøres følgende endringer:
+
+[§ 10 annet ledd](lov-2025-05-27-20-kryptoeiendelsloven.md) skal lyde:
+
+(2) Et vedtak etter første ledd kan gis for et tidsrom av inntil fem år.
+
+Nåværende annet ledd blir nytt tredje ledd.
+
+## XVII
+
+I [lov 6. februar 2026 nr. 2 om folkefinansiering av næringsvirksomhet](lov-2026-02-06-2-folkefinansieringsloven.md) gjøres følgende endringer:
+
+[§ 2-8 annet ledd](lov-2026-02-06-2-folkefinansieringsloven.md) skal lyde:
+
+(2) Et vedtak etter første ledd kan gis for et tidsrom av inntil fem år.
+
+Nåværende annet ledd blir nytt tredje ledd.
+
+[§ 3-2 annet ledd](lov-2026-02-06-2-folkefinansieringsloven.md) skal lyde:
+
+(2) Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på vegne av foretaket, forsettlig eller uaktsomt har begått en overtredelse som nevnt i [§ 3-1](lov-2026-02-06-2-folkefinansieringsloven.md).
+
+## XVIII
+
+I [lov 6. februar 2026 nr. 3 om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)](lov-2026-02-06-3-endringslov-til-verdipapirhandelloven-mv.md) skal [del III](lov-2026-02-06-3-endringslov-til-verdipapirhandelloven-mv.md) oppheves.
+
+## XIX
+
+1. Loven gjelder fra den tid[1] Kongen bestemmer. Bestemmelsene kan settes i kraft til ulik tid.
+2. Departementet kan gi overgangsregler.
+
+## Fotnoter
+
+**1.** Fra 1. juli 2026 for [endringsloven del I](lov-2026-06-19-40-endringslov-til-finansforetaksloven-mv.md) [(finansforetaksloven) § 2-1 tredje ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 5-1 annet ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 5-2 første ledd bokstav d](lov-2015-04-10-17-finansforetaksloven.md) og [e](lov-2015-04-10-17-finansforetaksloven.md), [§ 5-9](lov-2015-04-10-17-finansforetaksloven.md), [§ 7-5](lov-2015-04-10-17-finansforetaksloven.md), [§ 8-5 fjerde ledd](lov-2015-04-10-17-finansforetaksloven.md), [§ 16-2](lov-2015-04-10-17-finansforetaksloven.md), [§ 19-11 sjette ledd](lov-2015-04-10-17-finansforetaksloven.md), og [§ 20-51 sjette ledd](lov-2015-04-10-17-finansforetaksloven.md) og [endringsloven del VIII](lov-2026-06-19-40-endringslov-til-finansforetaksloven-mv.md) ([lov om Bankenes sikringsfond](lov-2018-03-23-3-lov-om-bankenes-sikringsfond.md)) iflg. [res. 19 juni 2026 nr. 1151](https://lovdata.no/forskrift/2026-06-19-1151).

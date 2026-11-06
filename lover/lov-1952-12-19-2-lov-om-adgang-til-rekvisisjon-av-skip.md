@@ -1,0 +1,67 @@
+# Lov om adgang til rekvisisjon av skip m.v. under krig eller kriseforhold
+
+- **Korttittel:** Lov om adgang til rekvisisjon av skip
+- **Datokode:** LOV-1952-12-19-2
+- **DokumentID:** NL/lov/1952-12-19-2
+- **Departement:** Nærings- og fiskeridepartementet
+- **Siste endring i kraft:** 2015-10-01
+- **Sist endret ved:** lov 19.06.2015 nr. 65 fra 2015-10-01
+- **Rettsområde:** Stats-, statsforfatnings- og statsborgerrett > Forsvaret; Transport og kommunikasjoner > Skipsfart
+- **Siste rettelse:** 2021-09-27 (faglige fotnoter fjernet, struktur, UU-tilpasset)
+- **Merknad:** Jf. lover 29 juni 1951 nr. 19 og 15 des 1950 nr. 7 kap. V.
+- **Kilde:** <https://lovdata.no/lov/1952-12-19-2>
+
+## § 1.
+
+Når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen i den utstrekning han finner at rikets interesser krever det, rekvirere til bruk skip (med tilbehør) som er registrert i Norge eller som eies av
+
+1. norske statsborgere,
+2. personer som er bosatt i Norge eller driver skipsredervirksomhet fra kontor i Norge,
+3. partrederier, aksjeselskaper, allmennaksjeselskaper eller andre selskaper som er registrert eller har sitt sete i Norge, eller som driver skipsredervirksomhet fra kontor i Norge.
+
+Finner Kongen at forholdet til fremmede land som Norge er alliert med, eller andre særlige grunner gjør det nødvendig, kan rekvisisjon også til eie finne sted.
+
+*Endret ved [lov 13 juni 1997 nr. 44](lov-1997-06-13-44-aksjeloven.md) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](https://lovdata.no/forskrift/1998-07-17-615)).*
+
+## § 2.
+
+Under forhold som nevnt i [§ 1](lov-1952-12-19-2-lov-om-adgang-til-rekvisisjon-av-skip.md), første ledd, kan Kongen rekvirere
+
+a. skip under bygging i Norge uansett for hvis regning skipet bygges,
+b. kontrakter om bygging av skip i eller utenfor Norge for regning av personer eller selskaper som nevnt i [§ 1](lov-1952-12-19-2-lov-om-adgang-til-rekvisisjon-av-skip.md), første ledd nr. 1-3.
+
+## § 3.
+
+Under forhold som nevnt i [§ 1](lov-1952-12-19-2-lov-om-adgang-til-rekvisisjon-av-skip.md), første ledd, kan Kongen rekvirere befraktningskontrakter angående utenlandske skip som norske befraktere har inngått.
+
+## § 4.
+
+Rekvisisjon medfører at enhver rådighet som ellers ville ha tilligget eieren (rettighetshaveren), kan utøves av Kongen. Så lenge rekvisisjonen står ved lag, kan eieren ikke uten samtykke av Kongen råde over de rekvirerte gjenstander ved bruk, overdragelse, beheftelse eller på annen måte.
+
+Kongen kan med bindende virkning for eieren (rettighetshaveren) inndrive fordringer og dekke gjeld som knytter seg til det som er rekvirert eller til rederivirksomheten for øvrig, såfremt han finner det nødvendig av hensyn til rekvisisjonens formål eller fordi den hvis rett er rekvirert ikke selv har anledning til å vareta sine interesser.
+
+## § 5.
+
+Regler om utbetaling av erstatning for rekvisisjon i henhold til denne lov fastsettes ved særskilt lov.
+
+Kongen kan treffe bestemmelse om betaling av forskudd på erstatning for rekvirerte skip m.v. innenfor rammen av de inntekter de rekvirerte skip og kontrakter innbringer. Det skal hvert kvartal gis innberetning til Stortinget om det som utbetales.
+
+## § 6.
+
+Rekvisisjon i henhold til denne lov kan skje uten hinder av andre lovbestemmelser om tvangsavståing.
+
+## § 7.
+
+Den som rettsstridig unnlater å etterkomme rekvisisjon etter denne lov eller motsetter seg eller søker å hindre at slik rekvisisjon blir gjennomført, straffes med bøter eller fengsel inntil 3 år, hvis ikke forholdet rammes av et strengere straffebud. Den som ellers forsettlig eller uaktsomt overtrer noen bestemmelse gitt med hjemmel i denne lov, straffes med bøter eller fengsel inntil 3 måneder, hvis ikke forholdet rammes av et strengere straffebud.
+
+Skip, skip under bygging eller kontrakt om bygging av skip som har vært gjenstand for overtredelse av denne lov, kan ved dom inndras hos den skyldige eller den han har handlet på vegne av uten at straffesak behøver å være reist eller å kunne reises mot noen. I stedet for ting eller rettighet som nevnt kan deres verdi helt eller delvis inndras. Inndragning etter denne paragraf er ikke å anse som straff.
+
+*Endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+## § 8.
+
+Myndighet som i denne lov er tillagt Kongen kan han delegere til andre i den utstrekning han finner det hensiktsmessig.
+
+## § 9.
+
+Kongen gir nærmere regler til gjennomføring av denne lov, herunder de nødvendige forskrifter angående overtagelse av rekvirerte skip, skip under bygging eller skipsbygningskontrakter, om driften av skipene, om oppfyllelse av overtatte skipsbygningskontrakter og om overføring til andre av myndighet etter denne lov.

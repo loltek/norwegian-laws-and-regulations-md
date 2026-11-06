@@ -1,0 +1,90 @@
+# Forskrift om kompensasjon ved restriksjoner i bruk av utmarksbeite på grunn av rovvilt
+
+- **Korttittel:** Forskrift om kompensasjon på grunn av rovvilt
+- **Datokode:** FOR-2010-07-09-1087
+- **DokumentID:** SF/forskrift/2010-07-09-1087
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Avd. for matpolitikk
+- **Hjemmel:** lov 19.06.2009 nr. 97/§31; forskrift 11.06.2010 nr. 814
+- **Publisert i:** I 2010 hefte 9
+- **Kunngjort:** 2010-07-13 15:10
+- **I kraft fra:** 2010-07-09
+- **Siste endring i kraft:** 2021-01-01
+- **Sist endret ved:** forskrift 21.12.2020 nr. 3044 fra 2021-01-01
+- **Endrer:** forskrift 05.06.2008 nr. 579
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Landbruks- og matdepartementet 9. juli 2010 med hjemmel i lov 19. juni 2009 nr. 97 om dyrevelferd § 31. Tilføyd hjemmel: Delegeringsvedtak 11. juni 2010 nr. 814. Endret ved forskrifter 18 juni 2013 nr. 661, 3 sep 2014 nr. 1144, 21 des 2020 nr. 3044 (i kraft 1 jan 2021).
+- **Kilde:** <https://lovdata.no/forskrift/2010-07-09-1087>
+
+## § 1. Formål
+
+Formålet med forskriften er å yte økonomisk kompensasjon til dyreeiere som mottar vedtak om restriksjoner i bruk av utmarksbeite på grunn av rovvilt.
+
+*Endret ved [forskrift 18 juni 2013 nr. 661](https://lovdata.no/forskrift/2013-06-18-661) (kommer til anvendelse på vedtak om kompensasjon gitt 1. januar 2013 eller senere).*
+
+## § 2. Vilkår
+
+Kompensasjon etter denne forskriften kan bare gis i tilfeller der Mattilsynet med hjemmel i [dyrevelferdsloven § 30](../lover/lov-2009-06-19-97-dyrevelferdsloven.md) fatter vedtak om begrensninger i bruk av utmarksbeite for sau, geit eller storfe på grunn av rovvilt. Dyreeier må uten ugrunnet opphold ha rettet seg etter Mattilsynets vedtak
+
+## § 3. Beregning av kompensasjon
+
+Det gis bare kompensasjon for Mattilsynets vedtak, jf. [§ 2](for-2010-07-09-1087-forskrift-om-kompensasjon-paa-grunn-av-rovvilt.md), som gjelder i beitesesongen. Beitesesongen er perioden mellom normal dato for beiteslipp og normal sankedato. Statsforvalteren bestemmer disse datoene.
+
+For dyr på innmarksbeite eller annet inngjerdet eller rovdyrsikret beite er kompensasjonen per dyr per dag begrenset til kr 7,- for småfe og kr 32,- for storfe. Kompensasjonen skal innenfor disse rammene beregnes etter de satsene som benyttes til konfliktdempende tiltak i rovviltforvaltningen i vedkommende region. Kompensasjon gis for det antall dyr som skal slippes på eller er sanket fra utmarksbeite. Kompensasjon beregnes fra første dag for den perioden Mattilsynet har fastsatt begrensninger i bruk av utmarksbeitet.
+
+Det gis ikke kompensasjon dersom dyreeier får dekket utgiftene til gjennomføring av tiltaket på annen måte, herunder gjennom tilskudd til forebyggende tiltak. Dersom utgiftene til tiltaket delvis er dekket, skal det gjøres tilsvarende fratrekk ved beregningen av kompensasjon.
+
+*Endret ved [forskrifter 18 juni 2013 nr. 661](https://lovdata.no/forskrift/2013-06-18-661) (kommer til anvendelse på vedtak om kompensasjon gitt 1. januar 2013 eller senere), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021).*
+
+## § 4. Søknad og utbetaling
+
+Søknad om kompensasjon sendes statsforvalteren i dyreeiers bostedsfylke. Søknadsskjema fastsatt av Landbruksdirektoratet skal benyttes. Kopi av vedtak fra Mattilsynet og bekreftelse på at vedtak er fulgt, samt annen nødvendig dokumentasjon legges ved søknaden. Søknadsfristen er 31. oktober det året restriksjonen gjelder.
+
+Krav på kompensasjon kan ikke overdras eller pantsettes.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021).*
+
+## § 5. Opplysningsplikt og kontroll
+
+Søker plikter å gi alle opplysninger som kommunen, statsforvalteren og Landbruksdirektoratet finner nødvendig for å kunne forvalte ordningen.
+
+Kommunen, statsforvalteren og Landbruksdirektoratet kan foreta stedlig kontroll hos mottaker.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021).*
+
+## § 6. Retting av feilutbetalinger
+
+Statsforvalteren og Landbruksdirektoratet kan rette feil i utbetalt kompensasjon, enten ved etterbetaling eller vedtak om tilbakebetaling av kompensasjon fra mottaker.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021).*
+
+## § 7. Avkorting
+
+Hele eller deler av kompensasjonen kan avkortes dersom mottaker
+
+1. ikke har drevet på en faglig forsvarlig måte eller ikke har gjort det som normalt kan forventes for å forebygge eller begrense tap,
+2. uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av kompensasjon.
+
+## § 8. Innkreving av tilbakebetalings- eller avkortingsbeløp mv.
+
+Differansen mellom utbetalt beløp og berettiget kompensasjon som følge av vedtak om tilbakebetaling etter [§ 6](for-2010-07-09-1087-forskrift-om-kompensasjon-paa-grunn-av-rovvilt.md) eller avkorting etter [§ 7](for-2010-07-09-1087-forskrift-om-kompensasjon-paa-grunn-av-rovvilt.md), kan kreves tilbakebetalt fra mottaker eller motregnes i senere tilskuddsutbetalinger som utspringer fra mottakers jordbruksvirksomhet.
+
+Krav fra offentlig myndighet som utspringer av regelverk for jordbruksvirksomhet kan motregnes i kompensasjonsutbetalinger til mottaker.
+
+Der mottaker av kompensasjon ikke var i aktsom god tro om utbetalingen, kan renter kreves fra det tidspunkt tilbakebetalingskravet er kommet fram til mottaker. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av den urettmessige kompensasjonen. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av § 3 i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.
+
+## § 9. Administrasjon, klage og dispensasjon
+
+Vedtak om kompensasjon fattes av Statsforvalteren.
+
+Statsforvalterens vedtak kan påklages til Landbruksdirektoratet etter lov 10. februar 1967 om behandlingsmåten i forvaltningssaker [kapittel VI](../lover/lov-1967-02-10-forvaltningsloven.md). Tilsvarende kan vedtak fattet av Landbruksdirektoratet påklages til Landbruks- og matdepartementet.
+
+Landbruksdirektoratet kan i særlige tilfeller dispensere fra søknadsfristen.
+
+*Endret ved [forskrift 3 sep 2014 nr. 1144](https://lovdata.no/forskrift/2014-09-03-1144), [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021).*
+
+## § 10. Ikrafttredelse
+
+Forskriften trer i kraft straks. Fra samme tid oppheves [forskrift 5. juni 2008 nr. 579](https://lovdata.no/forskrift/2008-06-05-579) om kompensasjon ved restriksjoner i bruk av utmarksbeite pga rovvilt.
+
+*Endret ved [forskrift 18 juni 2013 nr. 661](https://lovdata.no/forskrift/2013-06-18-661).*

@@ -1,0 +1,49 @@
+# Forskrift om ytterligere luftdyktighetsspesifikasjoner for luftfartsselskaper, Part 26
+
+- **Korttittel:** Forskrift om luftdyktighetsspesifikasjoner for luftfartsselskaper
+- **Datokode:** FOR-2015-06-18-719
+- **DokumentID:** SF/forskrift/2015-06-18-719
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Luftfartstilsynet
+- **Hjemmel:** lov 11.06.1993 nr. 101/§4-1; lov 11.06.1993 nr. 101/§9-1; lov 11.06.1993 nr. 101/§15-4; lov 11.06.1993 nr. 101/§16-1; forskrift 06.04.2001 nr. 321; forskrift 10.12.1999 nr. 1273; forskrift 07.08.2013 nr. 956/§4
+- **Publisert i:** I 2015 hefte 7
+- **Kunngjort:** 2015-06-25 15:50
+- **I kraft fra:** 2015-06-18
+- **Siste endring i kraft:** 2026-01-15
+- **Sist endret ved:** forskrift 15.01.2026 nr. 50
+- **Endrer:** forskrift 07.08.2013 nr. 956
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Luftfartstilsynet 18. juni 2015 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-1, § 9-1, § 15-4 og § 16-1, jf. delegeringsvedtak 6. april 2001 nr. 321, delegeringsvedtak 10. desember 1999 nr. 1273 og forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner § 4. EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 66ni (forordning (EU) 2015/640 endret ved forordning (EU) 2019/133, forordning (EU) 2020/1159, forordning (EU) 2021/97, forordning (EU) 2022/1254 og forordning (EU) 2024/2954). Endret ved forskrifter 8 feb 2019 nr. 74, 21 mai 2021 nr. 1562, 22 feb 2023 nr. 245, 27 juni 2024 nr. 1381 (i kraft 1 juli 2024, forordning i pdf fjernet), 17 sep 2024 nr. 2203, 15 jan 2026 nr. 50.
+- **Kilde:** <https://lovdata.no/forskrift/2015-06-18-719>
+
+## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
+
+[EØS-avtalen vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13) nr. 66ni (forordning [(EU) 2015/640](https://lovdata.no/eu/32015r0640)) om ytterligere luftdyktighetsspesifikasjoner for en gitt type drift og om endring av forordning [(EU) nr. 965/2012](https://lovdata.no/eu/32012r0965), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+a. forordning [(EU) 2019/133](https://lovdata.no/eu/32019r0133)
+b. forordning [(EU) 2020/1159](https://lovdata.no/eu/32020r1159)
+c. forordning [(EU) 2021/97](https://lovdata.no/eu/32021r0097)
+d. forordning [(EU) 2022/1254](https://lovdata.no/eu/32022r1254)
+e. forordning [(EU) 2024/2954](https://lovdata.no/eu/32024r2954)
+
+*Endret ved forskrifter [17 sep 2024 nr. 2203](https://lovdata.no/forskrift/2024-09-17-2203), [15 jan 2026 nr. 50](https://lovdata.no/forskrift/2026-01-15-50).*
+
+## § 2. Geografisk virkeområde
+
+Forskriften gjelder i Norge, herunder på Svalbard.
+
+## § 3. Ansvarlig myndighet
+
+Luftfartstilsynet er ansvarlig myndighet etter forordning [(EU) 2015/640](https://lovdata.no/eu/32015r0640).
+
+## § 4. Overtredelsesgebyr
+
+Ved overtredelse av bestemmelser gjennomført i [§ 1](for-2015-06-18-719-forskrift-om-luftdyktighetsspesifikasjoner-for-luftfartsselskaper.md) kan overtredelsesgebyr ilegges, jf. luftfartsloven § 13a-5.
+
+## § 5. Endring i andre forskrifter
+
+[Forskrift 7. august 2013 nr. 956](for-2013-08-07-956-forskrift-om-luftfartsoperasjoner.md) om luftfartsoperasjoner [§ 1](for-2013-08-07-956-forskrift-om-luftfartsoperasjoner.md) skal endres slik: – – –
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft straks.

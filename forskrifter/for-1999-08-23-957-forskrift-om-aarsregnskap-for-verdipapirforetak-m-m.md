@@ -1,0 +1,313 @@
+# Forskrift om årsregnskap m.m. for verdipapirforetak, forvaltningsselskap og AIF-forvaltere med tillatelse
+
+- **Korttittel:** Forskrift om årsregnskap for verdipapirforetak m.m.
+- **Datokode:** FOR-1999-08-23-957
+- **DokumentID:** SF/forskrift/1999-08-23-957
+- **Departement:** Finansdepartementet
+- **Etat:** Finansmarkedsavd.
+- **Hjemmel:** lov 17.07.1998 nr. 56/§10-1
+- **Publisert i:** Avd I 1999 2135
+- **I kraft fra:** 1999-11-01
+- **Siste endring i kraft:** 2024-11-01
+- **Sist endret ved:** forskrift 01.11.2024 nr. 2613
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Finans- og tolldepartementet (nå Finansdepartementet) 23. august 1999 med hjemmel i lov av 17. juli 1998 nr. 56 om årsregnskap m.v (regnskapsloven) § 10-1 tredje ledd. EØS-henvisninger: EØS-avtalen vedlegg IX nr. 21 (direktiv 2001/65/EF). Endret ved forskrifter 23 feb 2004 nr. 432, 20 des 2005 nr. 1600, 21 feb 2006 nr. 245, 30 mars 2007 nr. 371, 29 juni 2007 nr. 876, 18 des 2009 nr. 1689, 18 des 2009 nr. 1726, 20 des 2011 nr. 1422, 22 aug 2014 nr. 1098, 13 des 2016 nr. 1574, 19 des 2019 nr. 2111 (i kraft 31 des 2019), 1 nov 2024 nr. 2613.
+- **Kilde:** <https://lovdata.no/forskrift/1999-08-23-957>
+
+## Kap. 1. Alminnelige bestemmelser
+
+### § 1-1. Forskriftens virkeområde
+
+Forskriften gjelder
+
+1. verdipapirforetak, jf. [lov 29. juni 2007 nr. 75](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) om verdipapirhandel [§ 2-3](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) første ledd, som ikke er kredittinstitusjon
+2. forvaltningsselskap for verdipapirfond, jf. [lov 25. november 2011 nr. 44](../lover/lov-2011-11-25-44-verdipapirfondloven.md) om verdipapirfond [§ 1-2](../lover/lov-2011-11-25-44-verdipapirfondloven.md) første ledd nr. 2
+3. forvaltere av alternative investeringsfond, jf. [lov 20. juni 2014 nr. 28](../lover/lov-2014-06-20-28-aif-loven.md) om forvaltning av alternative investeringsfond [§ 1-2](../lover/lov-2014-06-20-28-aif-loven.md) første ledd bokstav b, som har tillatelse etter [samme lov § 2-2](for-1999-08-23-957-forskrift-om-aarsregnskap-for-verdipapirforetak-m-m.md)
+4. norske filialer av utenlandske verdipapirforetak
+5. morselskap til foretak nevnt i nr. 1-3, jf. [lov 29. juni 2007 nr. 75](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) om verdipapirhandel [§ 9-21](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) første ledd nr. 3.
+
+Regnskapslovens bestemmelser om små foretak gjelder ikke institusjoner som nevnt i første ledd.
+
+*Endret ved [forskrifter 23 feb 2004 nr. 432](https://lovdata.no/forskrift/2004-02-23-432) (fom regnskapsår påbegynt i 2004), [20 des 2005 nr. 1600](https://lovdata.no/forskrift/2005-12-20-1600) (fom regnskapsår som starter 1 jan 2005 eller senere), [21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2006 eller senere), [29 juni 2007 nr. 876](for-2007-06-29-876-verdipapirforskriften.md) (i kraft 1 nov 2007), [18 des 2009 nr. 1689](https://lovdata.no/forskrift/2009-12-18-1689) (fom regnskapsår påbegynt 1 jan 2009 eller senere), [13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017).*
+
+### § 1-2. (Opphevet)
+
+*Opphevet ved [forskrift 30 mars 2007 nr. 371](https://lovdata.no/forskrift/2007-03-30-371) (fom regnskapsår påbegynt 1 jan 2007 eller senere).*
+
+### § 1-3. Definisjoner
+
+Begrepet verdipapirforetak i denne forskrift skal også omfatte forvaltningsselskap for verdipapirfond med tillatelse etter [verdipapirfondloven § 2-1](../lover/lov-2011-11-25-44-verdipapirfondloven.md) annet ledd, forvaltere av alternative investeringsfond med tillatelse etter [AIF-loven § 2-2](../lover/lov-2014-06-20-28-aif-loven.md) tredje ledd, og morselskap som nevnt i [§ 1-1](../lover/lov-2014-06-20-28-aif-loven.md) nr. 5.
+
+*Tilføyd ved [forskrift 21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2006 eller senere), endret ved [forskrift 13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017).*
+
+### § 1-4. Innsending til Finanstilsynet
+
+Foretak nevnt i denne forskrift [§ 1-1](for-1999-08-23-957-forskrift-om-aarsregnskap-for-verdipapirforetak-m-m.md) nr. 1, 2, 3 og 5, skal innen 90 dager etter utløpet av regnskapsåret sende inn styregodkjent årsregnskap med revisors beretning til Finanstilsynet.
+
+*Tilføyd ved [forskrift 13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017).*
+
+## Kap. 2. Årsregnskap og årsberetning
+
+### § 2-1. Rettvisende bilde
+
+Hvis anvendelsen av en bestemmelse i [kapittel 3](for-1999-08-23-957-forskrift-om-aarsregnskap-for-verdipapirforetak-m-m.md) til 5 i denne forskrift i særlige unntakstilfeller er uforenlig med plikten til å gi et rettvisende bilde av årsregnskapet, skal bestemmelsen fravikes for å gi et rettvisende bilde som fastsatt i [regnskapsloven § 3-2a](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd.
+
+*Tilføyd ved [forskrift 20 des 2005 nr. 1600](https://lovdata.no/forskrift/2005-12-20-1600) (fom regnskapsår som starter 1 jan 2005 eller senere).*
+
+### § 2-2. Årsberetningens innhold
+
+I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av [regnskapsloven § 2-2](../lover/lov-1998-07-17-56-regnskapsloven.md):
+
+1. Dersom foretakets kapitaldekning er under gjeldende minimumskrav skal det gjøres oppmerksom på dette og redegjøres for tiltak som er truffet for å sikre foretakets drift.
+
+*Endret ved [forskrifter 23 feb 2004 nr. 432](https://lovdata.no/forskrift/2004-02-23-432) (fom regnskapsår påbegynt i 2004), [20 des 2005 nr. 1600](https://lovdata.no/forskrift/2005-12-20-1600) (fom regnskapsår som starter 1 jan 2005 eller senere, tidligere § 2-1), [13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017), [1 nov 2024 nr. 2613](https://lovdata.no/forskrift/2024-11-01-2613).*
+
+### § 2-3. Begrensninger i unntak fra konsernregnskapsplikten
+
+Unntaket fra konsernregnskapsplikten etter [regnskapsloven § 3-7](../lover/lov-1998-07-17-56-regnskapsloven.md) gjelder bare der verdipapirforetakets morselskap er foretak som nevnt i [§ 1-1](../lover/lov-1998-07-17-56-regnskapsloven.md) eller institusjon som reguleres av forskrift om årsregnskap m.m. for banker, finansieringsforetak og morselskap for slike.
+
+Finanstilsynet kan i særlige tilfeller tillate andre unntak fra konsernregnskapsplikten i samsvar med [regnskapsloven § 3-7](../lover/lov-1998-07-17-56-regnskapsloven.md).
+
+*Endret ved [forskrifter 20 des 2005 nr. 1600](https://lovdata.no/forskrift/2005-12-20-1600) (fom regnskapsår som starter 1 jan 2005 eller senere, tidligere § 2-3), [21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2005 eller senere, tidligere § 2-4), [18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009).*
+
+### § 2-4. Valg av regnskapsmodell
+
+Foretak som nevnt i [§ 1-1](for-1999-08-23-957-forskrift-om-aarsregnskap-for-verdipapirforetak-m-m.md) kan utarbeide selskapsregnskap etter [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd, [forskrift 21. januar 2008 nr. 57](https://lovdata.no/forskrift/2008-01-21-57) om forenklet anvendelse av internasjonale regnskapsstandarder eller ordinære regler i regnskapsloven og denne forskrift. Tilsvarende gjelder ved utarbeidelse av konsernregnskap for foretak som ikke omfattes av forordning [(EF) nr. 1606/2002](https://lovdata.no/eu/32002r1606) artikkel 4.
+
+*Tilføyd ved [forskrift 18 des 2009 nr. 1689](https://lovdata.no/forskrift/2009-12-18-1689) (fom regnskapsår påbegynt 1 jan 2009 eller senere).*
+
+### § 2-5. Regnskap utarbeidet etter [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md)
+
+For årsregnskap utarbeidet i samsvar med [regnskapsloven § 3-9](../lover/lov-1998-07-17-56-regnskapsloven.md), gjelder kun følgende bestemmelser i denne forskrift; [§ 1-1](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 2-2](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 2-4](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 5-9](../lover/lov-1998-07-17-56-regnskapsloven.md) femte ledd, [§ 5-13](../lover/lov-1998-07-17-56-regnskapsloven.md), [§ 5-16](../lover/lov-1998-07-17-56-regnskapsloven.md) og [§ 5-17](../lover/lov-1998-07-17-56-regnskapsloven.md).
+
+*Tilføyd ved [forskrift 20 des 2005 nr. 1600](https://lovdata.no/forskrift/2005-12-20-1600) (fom regnskapsår som starter 1 jan 2005 eller senere). Endret ved [forskrifter 21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2005 eller senere, tidligere § 2-5), [18 des 2009 nr. 1689](https://lovdata.no/forskrift/2009-12-18-1689) (fom regnskapsår påbegynt 1 jan 2009 eller senere, tidligere § 2-4), [22 aug 2014 nr. 1098](https://lovdata.no/forskrift/2014-08-22-1098) (i kraft 30 sep 2014).*
+
+## Kap. 3. Vurderingsregler
+
+### § 3-1. Markedsbaserte finansielle omløpsmidler
+
+Finansielle instrumenter og varederivater som nevnt i [regnskapsloven § 5-8](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd, skal vurderes til virkelig verdi dersom instrumentene
+
+1. er klassifisert som omløpsmiddel,
+2. inngår i en handelsportefølje med henblikk på videresalg, og
+3. omsettes i et aktivt og likvid marked.
+
+*Endret ved [forskrifter 23 feb 2004 nr. 432](https://lovdata.no/forskrift/2004-02-23-432) (fom regnskapsår påbegynt i 2004), [21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2005 eller senere).*
+
+### § 3-2. Gjeld
+
+Denne forskrift [§ 3-1](for-1999-08-23-957-forskrift-om-aarsregnskap-for-verdipapirforetak-m-m.md) gjelder tilsvarende for gjeld. For gjeld som ikke behandles etter første punktum, gjelder vurderingsreglene i [regnskapsloven kapittel 5](../lover/lov-1998-07-17-56-regnskapsloven.md) med unntak av [§ 5-8](../lover/lov-1998-07-17-56-regnskapsloven.md) og [§ 5-13](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd.
+
+## Kap. 4. Resultatregnskap og balanse
+
+### § 4-1. Resultatregnskap
+
+Resultatregnskapets oppstillingsplan som nevnt i [regnskapsloven § 6-1](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd, skal for post 9 annen driftskostnad, oppdeles i følgende poster:
+
+1. Tap på fordringer
+2. Annen driftskostnad.
+
+Resultatregnskapets oppstillingsplan som nevnt i [regnskapsloven § 6-1a](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd post 2 omfatter kostnad solgte tjenester og skal inndeles i følgende poster:
+
+1. tap på fordringer
+2. kostnad solgte tjenester.
+
+*Endret ved [forskrift 21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2006 eller senere).*
+
+### § 4-2. Balanse
+
+Balansens oppstillingsplan som nevnt i [regnskapsloven § 6-2](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd, skal for post B II fordringer, oppdeles i følgende poster:
+
+1. Kundefordringer
+2. Fordringer på verdipapirforetak
+3. Andre fordringer
+4. Krav på innbetaling av selskapskapital.
+
+[Regnskapsloven § 6-2](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd gjelder ikke. Beholdning av egne aksjer skal føres opp til pålydende på egen linje under posten selskapskapital.
+
+Balansens oppstillingsplan som nevnt i [regnskapsloven § 6-2](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd, skal for post D III kortsiktig gjeld, oppdeles i følgende poster:
+
+1. Konvertible lån
+2. Sertifikatlån
+3. Gjeld til kredittinstitusjoner
+4. Gjeld til verdipapirforetak
+5. Gjeld til kunder
+6. Leverandørgjeld
+7. Betalbar skatt
+8. Skyldige offentlige avgifter
+9. Utbytte
+10. Annen kortsiktig gjeld.
+
+*Endret ved [forskrift 21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2006 eller senere).*
+
+### § 4-3. Klientmidler
+
+Finansielle instrumenter og andre midler som oppbevares av verdipapirforetaket, men som tilhører investorene (klientmidler) skal ikke oppføres i verdipapirforetakets balanse.
+
+Dersom klientmidlene overstiger klientansvaret (klientgjelden) er det overskytende verdipapirforetakets eiendel og skal oppføres i verdipapirforetakets balanse.
+
+Dersom klientmidlene ikke fullt ut dekker klientansvaret er underdekningen verdipapirforetakets gjeld til klienten og skal oppføres som kortsiktig gjeld i verdipapirforetakets balanse.
+
+*Endret ved [forskrift 13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017).*
+
+### § 4-4. Nettoføring
+
+Nettoføring av en eiendelspost og en gjeldspost er ikke tillatt med mindre det foreligger en juridisk rett til å motregne postene.
+
+## Kap. 5. Noteopplysninger
+
+### § 5-1. Alminnelig opplysningsplikt
+
+[Regnskapsloven kapittel 7](../lover/lov-1998-07-17-56-regnskapsloven.md) om noteopplysninger gjelder med de unntak og tillegg som følger av bestemmelsene i dette kapittel. Opplysninger i dette kapittel kan utelates når de ikke er av betydning for å bedømme foretakets eller konsernets stilling og resultat.
+
+### § 5-1a. Rettvisende bilde
+
+Hvis anvendelsen av bestemmelsene i regnskapsloven og denne forskrift ikke er tilstrekkelig for å gi et rettvisende bilde som nevnt i [regnskapsloven § 3-2a](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd, skal det gis tilleggsopplysninger.
+
+Dersom foretaket er engasjert i aktiviteter med vesentlig risiko eller vesentlige fordeler som ikke er innregnet i balansen, skal tilleggsopplysningene etter første ledd omfatte en beskrivelse av aktivitetenes finansielle virkning og formålet med dem.
+
+Ethvert fravik som nevnt i [§ 2-1](for-1999-08-23-957-forskrift-om-aarsregnskap-for-verdipapirforetak-m-m.md) i denne forskrift skal angis. [Regnskapsloven § 7-1](../lover/lov-1998-07-17-56-regnskapsloven.md) sjette ledd annet punktum gjelder tilsvarende.
+
+*Tilføyd ved [forskrift 20 des 2005 nr. 1600](https://lovdata.no/forskrift/2005-12-20-1600) (fom regnskapsår som starter 1 jan 2005 eller senere), endret ved [forskrift 20 des 2011 nr. 1422](https://lovdata.no/forskrift/2011-12-20-1422) (fom regnskapsår påbegynt 1 jan 2011 eller senere).*
+
+### § 5-2. Regnskapsprinsipper
+
+Opplysninger om anvendte regnskapsprinsipper etter [regnskapsloven § 7-2](../lover/lov-1998-07-17-56-regnskapsloven.md) skal minst omfatte følgende opplysninger:
+
+1. Prinsippene for beregning av virkelig verdi, herunder om beregningen bygger på observerbare markedsverdier eller om virkelig verdi er beregnet på en annen måte. Det skal opplyses om usikkerheter i beregningene.
+2. Prinsippene for regnskapsmessig behandling av sikringsvurdering og eventuell porteføljevurdering og kriteriene som er lagt til grunn for slik vurdering. Bruk av sikringsvurdering og porteføljevurdering skal begrunnes.
+3. Prinsippene for regnskapsmessig behandling av finansielle derivater, herunder kriteriene for klassifikasjon.
+4. Prinsippene for klassifikasjon av finansielle instrumenter som markedsbaserte finansielle omløpsmidler jf. [§ 3-1](for-1999-08-23-957-forskrift-om-aarsregnskap-for-verdipapirforetak-m-m.md), herunder kriteriene for klassifikasjon av finansielle instrumenter i handelsportefølje.
+5. Prinsippene for regnskapsmessig behandling av gjeld.
+6. Prinsippene for omregning av utenlandsk valuta.
+
+### § 5-3. Endringer i egenkapitalen
+
+[Regnskapsloven § 7-25](../lover/lov-1998-07-17-56-regnskapsloven.md) gjelder ikke. Det skal opplyses om endringer i egenkapital i løpet av regnskapsåret. Det skal gis opplysning om innholdet i hver enkelt endring. Opplysningene kan i stedet gis i oppstillingen av endringer i egenkapitalen.
+
+*Endret ved [forskrift 21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2005 eller senere).*
+
+### § 5-4. Finansiell markedsrisiko
+
+Opplysninger om finansiell markedsrisiko som nevnt i [regnskapsloven § 7-5](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd skal minst omfatte:
+
+1. Opplysninger om hvordan virkelig verdi av finansielle instrumenter som er rentebærende eller har annen rentetilknytning påvirkes av endringer i rentenivået. Som et minimum skal det gis opplysninger om tidsrommet fram til avtalt tidspunkt for endring av rentebetingelser. Renteendringstidspunktene skal inndeles etter følgende intervaller: inntil 1 måned, fra 1 måned til 3 måneder, fra 3 måneder til 1 år, fra 1 år til 5 år, over 5 år, poster uten løpetid og totalt for alle intervaller inklusive poster uten løpetid.
+2. Opplysninger om hvordan virkelig verdi av finansielle instrumenter påvirkes av valutakursendringer. Som minimum skal det gis opplysninger om valutaposisjoner for de viktigste valutaene. Nettoposisjonen per valuta omregnet til norske kroner skal spesifiseres på hovedgrupper av finansielle eiendeler, gjeld og ikke balanseførte derivater.
+3. En redegjørelse for risikoprofilen i aksjeporteføljen.
+
+Dersom risikoprofilen på balansedagen avviker vesentlig fra situasjonen gjennom året eller etter regnskapsårets utgang, skal det gis ytterligere opplysning om dette.
+
+*Endret ved [forskrift 23 feb 2004 nr. 432](https://lovdata.no/forskrift/2004-02-23-432) (fom regnskapsår påbegynt i 2004).*
+
+### § 5-5. Likviditetsrisiko
+
+I tillegg til opplysninger som nevnt i [regnskapsloven §§ 7-19](../lover/lov-1998-07-17-56-regnskapsloven.md) og [7-21](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd, skal det opplyses om avtalt restløpetid fordelt på hovedgrupper av finansielle eiendeler, gjeld og ikke balanseførte derivater. Restløpetiden skal inndeles etter følgende intervaller: inntil 1 måned, fra 1 måned til 3 måneder, fra 3 måneder til 1 år, fra 1 år til 5 år, over 5 år og totalt for alle intervaller. Hvis enkelte av eiendels- eller gjeldspostene skal tilbakebetales i rater, skal restløpetiden være tiden fra balansedagen til det mest sannsynlige forfallstidspunkt for hvert enkelt avdrag.
+
+### § 5-6. Finansielle derivater
+
+Det skal gis opplysninger om formålet med foretakets bruk av finansielle derivater.
+
+Det skal gis opplysninger om egenskaper ved, samt nominelt beløp og virkelig verdi per årsslutt for henholdsvis renterelaterte derivater, valutarelaterte derivater, egenkapitalrelaterte derivater samt andre finansielle derivater, herunder råvarederivater. Opplysningene skal omfatte vesentlige betingelser og forhold som kan påvirke beløpsstørrelse, tidfesting og usikkerhet ved fremtidige kontantstrømmer. Dersom nominelt beløp ikke er representativt for aktiviteten gjennom året skal gjennomsnittlig nominelt beløp for året oppgis. Opplysningene skal gis fordelt på finansielle derivater klassifisert som omløpsmidler i handelsporteføljen og andre finansielle derivater. Virkningen av motregning, jf. [verdipapirhandelloven kapittel 14](../lover/lov-2007-06-29-75-verdipapirhandelloven.md), skal fremkomme. Det skal redegjøres for definisjon av nominelt beløp. [Regnskapsloven § 7-5](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd og [§ 7-17](../lover/lov-1998-07-17-56-regnskapsloven.md) annet ledd gjelder ikke.
+
+*Endret ved [forskrifter 23 feb 2004 nr. 432](https://lovdata.no/forskrift/2004-02-23-432) (fom regnskapsår påbegynt i 2004), [29 juni 2007 nr. 876](for-2007-06-29-876-verdipapirforskriften.md) (i kraft 1 nov 2007), [13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017).*
+
+### § 5-7. Salgsinntekter og land-for-land rapportering
+
+Spesifikasjon av salgsinntekter på virksomhetsområder som nevnt i [regnskapsloven § 7-8](../lover/lov-1998-07-17-56-regnskapsloven.md), skal minst foretas for hver type investeringstjeneste som nevnt i [verdipapirhandelloven § 2-1](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) første ledd, samt samlet for tilknyttede tjenester som nevnt i [verdipapirhandelloven § 2-1](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) annet ledd.
+
+Virksomhetsnavn, virksomhetsområde, geografisk marked, inntekter, antall årsverk, resultat før skattekostnad, skattekostnad og mottatte offentlige subsidier skal spesifiseres på land på konsolidert grunnlag.
+
+*Endret ved [forskrifter 29 juni 2007 nr. 876](for-2007-06-29-876-verdipapirforskriften.md) (i kraft 1 nov 2007), [19 des 2019 nr. 2111](https://lovdata.no/forskrift/2019-12-19-2111) (i kraft 31 des 2019).*
+
+### § 5-8. Egne aksjer
+
+[Regnskapsloven § 7-27](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd gjelder ikke.
+
+*Opphevet ved [forskrift 23 feb 2004 nr. 432](https://lovdata.no/forskrift/2004-02-23-432). Tilføyd ved [forskrift 21 feb 2006 nr. 245](https://lovdata.no/forskrift/2006-02-21-245) (fom regnskapsår påbegynt 1 jan 2006 eller senere).*
+
+### § 5-9. Aksjer og andeler i andre selskaper
+
+[Regnskapsloven § 7-18](../lover/lov-1998-07-17-56-regnskapsloven.md) gjelder ikke.
+
+For investeringer i aksjer og andeler ført under eiendels post A III nr. 6 som er vurdert etter [regnskapsloven § 5-8](../lover/lov-1998-07-17-56-regnskapsloven.md), skal det gis opplysninger som nevnt i [regnskapsloven § 7-17](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd. I tillegg skal det opplyses om andel av balanseført verdi som er børsnoterte verdipapirer. For øvrige investeringer i aksjer og andeler ført under eiendelspost A III nr. 6, skal det opplyses om anskaffelseskost, virkelig verdi dersom slik verdi kan fastsettes, samt andel av balanseført verdi som er børsnoterte verdipapirer.
+
+For markedsbaserte aksjer ført under eiendelspost B III nr. 2 skal det gis opplysninger som nevnt i [regnskapsloven § 7-17](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd. I tillegg skal det opplyses om andel av balanseført verdi som er børsnoterte verdipapirer.
+
+For investeringer i aksjer og andeler ført under eiendelspost B III nr. 5 som er vurdert etter [regnskapsloven § 5-8](../lover/lov-1998-07-17-56-regnskapsloven.md), skal det gis opplysninger som nevnt i [regnskapsloven § 7-17](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd. I tillegg skal det opplyses om andel av balanseført verdi som er børsnoterte verdipapirer. For øvrige investeringer i aksjer og andeler ført under eiendelspost B III nr. 5, skal det opplyses om anskaffelseskost, virkelig verdi dersom slik verdi kan fastsettes, samt andel av balanseført verdi som er børsnoterte verdipapirer.
+
+Investeringer i aksjer og andeler oppført i balansen under post A III nr. 6 og post B III nr. 2 og nr. 5 skal spesifiseres etter selskap. Spesifikasjonen skal omfatte de største investeringene og minst utgjøre 90% av samlet balanseført verdi av investeringene. For hvert selskap skal det opplyses om balanseført verdi, virkelig verdi der slik verdi kan fastsettes, eierandel og antall aksjer.
+
+*Endret ved [forskrift 23 feb 2004 nr. 432](https://lovdata.no/forskrift/2004-02-23-432) (i kraft med virkning for regnskapsår påbegynt i 2004).*
+
+### § 5-10. Obligasjoner
+
+Opplysninger om obligasjoner som nevnt i [regnskapsloven § 7-20](../lover/lov-1998-07-17-56-regnskapsloven.md), skal gis fordelt på obligasjoner klassifisert som anleggsmidler, markedsbaserte obligasjoner og øvrige obligasjoner. Opplysning om gjennomsnittlig rente skal oppgis som gjennomsnittlig effektiv rente. Det skal opplyses om hvordan gjennomsnittlig effektiv rente er beregnet.
+
+### § 5-11. Fordringer
+
+Det skal opplyses om totalt volum av fordringer som foretaket har identifisert som tapsutsatt som følge av svikt i kundens betalingsevne eller betalingsvilje. Opplysningen i første punktum skal uansett omfatte fordringer som ikke er betalt innen 30 dager etter forfall.
+
+For fordringer skal det for hver balansepost opplyses om størrelsen på tapsavsetninger som er ført til fradrag. For hver av postene skal det dessuten opplyses om periodens endringer i spesifiserte tapsavsetninger etter følgende oppsett:
+
+|  |  |
+| --- | --- |
+|  | Spesifisert tapsavsetning 1. januar |
+| – | Periodens konstaterte tap, hvor det tidligere er foretatt spesifisert tapsavsetning |
+| + | Økte spesifiserte tapsavsetninger i perioden |
+| + | Nye spesifiserte tapsavsetninger |
+| – | Tilbakeføring av spesifiserte tapsavsetninger i perioden |
+| = | Spesifisert tapsavsetning 31. desember |
+
+### § 5-12. Ansvarlig lånekapital i andre foretak (eiendel)
+
+For hver post under finansielle anleggsmidler skal det gis opplysninger om foretakets ansvarlige lånekapital i andre foretak.
+
+*Endret ved [forskrift 13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017).*
+
+### § 5-13. Kapitaldekning
+
+Det skal opplyses om foretakets kapitaldekning, herunder risikovektet beregningsgrunnlag, startkapitalkrav, netto ansvarlig kapital og kapitaldekningsprosenten. [Regnskapsloven § 6-6](../lover/lov-1998-07-17-56-regnskapsloven.md) om sammenligningstall gjelder tilsvarende.
+
+Ansvarlig kapital skal spesifiseres på ren kjernekapital, kjernekapital og hver enkelt undergruppe av tilleggskapital, samt på fradrag. Forskjellen mellom ren kjernekapital og balanseført egenkapital skal spesifiseres og forklares.
+
+Beregningsgrunnlaget skal spesifiseres på eiendeler som ikke inngår i handelsporteføljen, poster utenom balansen som ikke inngår i handelsporteføljen, poster som inngår i handelsporteføljen, samt beregningsgrunnlag fra valutarisiko.
+
+Foretak som er omfattet av krav til ansvarlig kapital basert på faste kostnader, skal spesifisere beregningen av faste kostnader som utgjør grunnlaget for det påfølgende års kapitalkrav.
+
+Verdipapirforetak som benytter basismetoden ved beregning av beregningsgrunnlaget for operasjonell risiko, skal spesifisere beregningen fordelt på årstall, driftsinntekter, finansinntekter og eventuelle kostnader.
+
+*Endret ved [forskrift 13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017).*
+
+### § 5-14. Gjeld
+
+Opplysninger om gjennomsnittlig rente på gjeld som nevnt i [regnskapsloven § 7-21](../lover/lov-1998-07-17-56-regnskapsloven.md) fjerde ledd skal også gis for gjeld ført under post D II nr. 4 øvrig langsiktig gjeld. Opplysning om gjennomsnittlig rente skal oppgis som gjennomsnittlig effektiv rente. Det skal i tillegg opplyses om hvordan gjennomsnittlig effektiv rente er beregnet.
+
+*Endret ved [forskrift 13 des 2016 nr. 1574](https://lovdata.no/forskrift/2016-12-13-1574) (i kraft 1 jan 2017).*
+
+### § 5-15. Ansvarlig lånekapital (gjeld)
+
+Det skal gis en oversikt over betingelsene knyttet til ansvarlig lånekapital, herunder opplysning om avdragsstruktur, sikkerheter og rente.
+
+### § 5-16. Klientmidler
+
+Det skal opplyses om størrelsen av finansielle instrumenter og midler som tilhører investorene (klientmidler) som foretaket oppbevarer, samt om størrelsen på foretakets klientansvar (klientgjeld).
+
+Dersom klientmidlene ikke fullt ut dekker klientansvaret skal underdekningen forklares. Tilsvarende gjelder dersom midler innestående på konto for klientmidler overstiger klientansvaret. Opplysningene skal gis henholdsvis for aktiv forvaltning av investorers portefølje og andre investeringstjenester.
+
+### § 5-17. Nøkkeltall
+
+Det skal opplyses om resultat etter skatt som prosent av forvaltningskapitalen.
+
+*Tilføyd ved [forskrift 22 aug 2014 nr. 1098](https://lovdata.no/forskrift/2014-08-22-1098) (i kraft 30 sep 2014).*
+
+## Kap. 6. Avsluttende bestemmelser
+
+### § 6-1. Dispensasjon
+
+Finanstilsynet kan i det enkelte tilfelle dispensere fra bestemmelsene i denne forskrift.
+
+*Endret ved [forskrift 18 des 2009 nr. 1726](https://lovdata.no/forskrift/2009-12-18-1726) (i kraft 21 des 2009).*
+
+### § 6-2. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. november 1999.

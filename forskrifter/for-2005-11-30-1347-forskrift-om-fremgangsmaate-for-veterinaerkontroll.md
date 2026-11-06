@@ -1,0 +1,175 @@
+# Forskrift om gjennomføring av forordning (EF) nr. 136/2004 om fastsettelse av fremgangsmåtene for veterinærkontroller ved EØS grensekontrollstasjoner ved import av produkter fra tredjestater
+
+- **Korttittel:** Forskrift om fremgangsmåte for veterinærkontroll
+- **Datokode:** FOR-2005-11-30-1347
+- **DokumentID:** SF/forskrift/2005-11-30-1347
+- **Departement:** Helse- og omsorgsdepartementet; Landbruks- og matdepartementet; Nærings- og fiskeridepartementet
+- **Etat:** Mattilsynet
+- **Hjemmel:** lov 19.12.2003 nr. 124/§7; lov 19.12.2003 nr. 124/§12; lov 19.12.2003 nr. 124/§14; lov 19.12.2003 nr. 124/§15; lov 19.12.2003 nr. 124/§29; lov 19.12.2003 nr. 124/§33; forskrift 19.12.2003 nr. 1790; forskrift 05.05.2004 nr. 884
+- **Publisert i:** I 2005 hefte 14
+- **Kunngjort:** 2005-12-02
+- **I kraft fra:** 2005-11-30
+- **Siste endring i kraft:** 2022-04-27
+- **Sist endret ved:** forskrift 27.04.2022 nr. 748
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Mattilsynet (tidl. Det sentrale Mattilsynet ved hovedkontoret)30. november 2005 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 7, § 12, § 14, § 15, § 29 og § 33, jf. delegeringsvedtak 19. desember 2003 nr. 1790, delegeringsvedtak 5. mai 2004 nr. 884 og instruks om forskriftsarbeid og delegering av forskriftskompetanse fra Fiskeridepartementet (nå Nærings- og fiskeridepartementet), Helsedepartementet (nå Helse- og omsorgsdepartementet) og Landbruksdepartementet (nå Landbruks- og matdepartementet) til Mattilsynet av 5. mai 2004. EØS-henvisninger: EØS-avtalen vedlegg I kap. I del 1.2 nr. 115 (forordning (EF) nr. 136/2004 som endret ved forordning (EU) nr. 519/2013, forordning (EU) nr. 359/2014 og forordning (EU) nr. 494/2014). Endret ved forskrifter 17 sep 2014 nr. 1294, 8 feb 2017 nr. 144, 9 mars 2020 nr. 719 (i kraft 7 april 2020), 29 des 2020 nr. 3174 (i kraft 1 jan 2021), 27 april 2022 nr. 748.
+- **Kilde:** <https://lovdata.no/forskrift/2005-11-30-1347>
+
+## § 1. Gjennomføring av forordning [(EF) nr. 136/2004](https://lovdata.no/eu/32004r0136)
+
+EØS-avtalen vedlegg I kapittel I del 1.2 nr. 115 (forordning [(EF) nr. 136/2004](https://lovdata.no/eu/32004r0136) som endret ved forordning [(EU) nr. 519/2013](https://lovdata.no/eu/32013r0519), forordning [(EU) nr. 359/2014](https://lovdata.no/eu/32014r0359) og forordning [(EU) nr. 494/2014](https://lovdata.no/eu/32014r0494)) og vedlegg I kapittel I del 1.1 nr. 11bs, kap. II nr. 31qs og vedlegg II kap. XII nr. 164s (forordning [(EU) 2019/2130](https://lovdata.no/eu/32019r2130)) om fastsettelse av fremgangsmåtene for veterinærkontroller ved EØS grensekontrollstasjoner ved import av produkter fra tredjestater gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 17 sep 2014 nr. 1294](https://lovdata.no/forskrift/2014-09-17-1294), [8 feb 2017 nr. 144](https://lovdata.no/forskrift/2017-02-08-144), [9 mars 2020 nr. 719](https://lovdata.no/forskrift/2020-03-09-719) (i kraft 7 april 2020).*
+
+## § 1a. (Opphevet)
+
+*Tilføyd ved forskrift [29 des 2020 nr. 3174](https://lovdata.no/forskrift/2020-12-29-3174) (i kraft 1 jan 2021), opphevet ved forskrift [27 april 2022 nr. 748](https://lovdata.no/forskrift/2022-04-27-748).*
+
+## § 2. (Opphevet)
+
+*Opphevet ved [forskrift 9 mars 2020 nr. 719](https://lovdata.no/forskrift/2020-03-09-719) (i kraft 7 april 2020).*
+
+## § 3. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften i samsvar med [matloven § 23](../lover/lov-2003-12-19-124-matloven.md) om tilsyn og vedtak.
+
+## § 4. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+## § 5. Ikrafttredelse
+
+Denne forskriften trer i kraft straks.
+
+## Forordninger
+
+*Forordninger tilføyd ved [forskrift 17 sep 2014 nr. 1294](https://lovdata.no/forskrift/2014-09-17-1294).*
+
+### Konsolidert forordning (EF) nr. 136/2004
+
+*Tilføyd ved [forskrift 17 sep 2014 nr. 1294](https://lovdata.no/forskrift/2014-09-17-1294), endret ved forskrifter [8 feb 2017 nr. 144](https://lovdata.no/forskrift/2017-02-08-144), [9 mars 2020 nr. 719](https://lovdata.no/forskrift/2020-03-09-719) (i kraft 7 april 2020), [29 des 2020 nr. 3174](https://lovdata.no/forskrift/2020-12-29-3174) (i kraft 1 jan 2021), [27 april 2022 nr. 748](https://lovdata.no/forskrift/2022-04-27-748).*
+
+Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 1.2 nr. 115 (forordning [(EF) nr. 136/2004](https://lovdata.no/eu/32004r0136) som endret ved forordning [(EU) nr. 519/2013](https://lovdata.no/eu/32013r0519), forordning [(EU) nr. 359/2014](https://lovdata.no/eu/32014r0359) og forordning [(EU) nr. 494/2014](https://lovdata.no/eu/32014r0494)) og vedlegg I kapittel I del 1.1 nr. 11bs, kap. II nr. 31qs og vedlegg II kap. XII nr. 164s (forordning [(EU) 2019/2130](https://lovdata.no/eu/32019r2130)) med de endringer som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I til EØS-avtalen.
+
+CVED-sertifikatet nevnt under vedlegg III finnes i pdf-filen nedenfor.
+
+►**B** Kommisjonsforordning [(EF) nr. 136/2004](https://lovdata.no/eu/32004r0136) av 22. januar 2004
+
+som endret ved:
+
+► **M3** Forordning [(EU) nr. 519/2013](https://lovdata.no/eu/32013r0519) av 21. februar 2013
+
+► **M4** Kommisjonens gjennomføringsforordning [(EU) nr. 359/2014](https://lovdata.no/eu/32014r0359) av 9. april 2014
+
+► **M5** Kommisjonens gjennomføringsforordning [(EU) nr. 494/2014](https://lovdata.no/eu/32014r0494) av 13. mai 2014
+
+► **M7** Kommisjonens gjennomføringsforordning [(EU) 2019/2130](https://lovdata.no/eu/32019r2130) av 25. november 2019
+
+#### Kommisjonsforordning [(EF) nr. 136/2004](https://lovdata.no/eu/32004r0136) av 22. januar 2004 om fastsettelse av fremgangsmåtene for veterinærkontroller ved EØS grensekontrollstasjoner ved import av produkter fra tredjestater – med de endringer og tillegg som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
+
+[KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR[1] –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
+
+under henvisning til rådsdirektiv [97/78/EF](https://lovdata.no/eu/31997l0078)[2] av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater, særlig artikkel 3 nr. 5, artikkel 4 nr. 5, artikkel 5 nr. 4, artikkel 8 nr. 7, artikkel 16 nr. 3 og artikkel 19 nr. 1, og
+
+ut fra følgende betraktninger:
+
+1. De opprinnelige kravene til veterinærkontroller av produkter som innføres til Fellesskapet fra tredjestater, ble fastsatt i rådsdirektiv [90/675/EØF](https://lovdata.no/eu/31990l0675), som ble opphevet og erstattet med direktiv [97/78/EF](https://lovdata.no/eu/31997l0078).
+
+2. På bakgrunn av de erfaringene som er gjort siden direktiv [90/675/EØF](https://lovdata.no/eu/31990l0675) ble vedtatt, er det foretatt noen endringer i framgangsmåtene innført ved direktiv [97/78/EF](https://lovdata.no/eu/31997l0078). Kommisjonsvedtak [93/13/EØF](https://lovdata.no/eu/31993d0013) av 22. desember 1992 om fastsettelse av framgangsmåtene for veterinærkontroller ved Fellesskapets grensekontrollstasjoner ved innførsel av produkter fra tredjestater, sist endret ved vedtak [2003/279/EF](https://lovdata.no/eu/32003d0279), ble gjort på grunnlag av førstnevnte direktiv og bør derfor ajourføres.
+
+3. Sertifikatet som utstedes når veterinærkontrollen er gjennomført, og som for tiden er fastsatt i vedlegg B til vedtak [93/13/EØF](https://lovdata.no/eu/31993d0013), bør tilpasses for å ta hensyn til endringene i framgangsmåtene både når det gjelder forsendelser som oppfyller fellesskapsbestemmelsene, og forsendelser som ikke oppfyller fellesskapsbestemmelsene, uansett om det gjelder import til eller transitt gjennom Fellesskapet.
+
+4. Nærmere regler for bruken av nevnte sertifikat er fastsatt i kommisjonsvedtak [2000/208/EF](https://lovdata.no/eu/32000d0208) av 24. februar 2000 om fastsettelse av nærmere regler for gjennomføringen av rådsdirektiv [97/78/EF](https://lovdata.no/eu/31997l0078) med hensyn til transitt på vei av produkter av animalsk opprinnelse fra en tredjestat til en annen tredjestat gjennom Det europeiske fellesskap, og i kommisjonsvedtak [2000/571/EF](https://lovdata.no/eu/32000d0571) av 8. september 2000 om fastsettelse av nærmere regler for veterinærkontroll av produkter fra tredjestater som innføres til frisoner, frilagre, tollagre eller til leverandører som forsyner fartøyer i internasjonal sjøfart.
+
+5. Det er imidlertid nødvendig å fastsette særlige regler for den praktiske håndteringen av sertifikatet i situasjoner der det foretas veterinær klarering av forsendelser ved grensekontrollstasjonen, men der forsendelsene av skattemessige grunner holdes under tollmyndighetenes kontroll en viss tid. I slike tilfeller er det påkrevd med et sporingssystem, og det er nødvendig at de dokumentene som ledsager forsendelsene, er tydeligere.
+
+6. For at ordningen med veterinærkontroller i det felles marked skal virke på en tilfredsstillende måte, bør alle opplysninger om et produkt samles i ett enkelt, enhetlig utformet dokument for å redusere de problemene som oppstår på grunn av språkforskjeller mellom medlemsstatene.
+
+7. Nærmere regler for harmonisert prøvetaking og harmoniserte laboratorieundersøkelser av forskjellige typer produkter vil bli fastsatt i gjennomføringsbestemmelser senere. I mellomtiden bør nasjonale regler fortsatt få anvendelse, unntatt når det gjelder særlige vernetiltak.
+
+8. Erfaringen har vist at det med sikte på å redusere bedrageri og forsøk på å unndra seg kontroller, er av grunnleggende betydning å ha gode opplysningskilder for alle forsendelser som innføres til Fellesskapet. Kontroll av manifester er en viktig del i denne innsamlingen av opplysninger, men dette er en svært omfattende og tidkrevende oppgave som bør automatiseres ved hjelp av elektronisk utstyr i den grad det er mulig.
+
+9. I tillegg til en effektiv innsamling av aktuelle opplysninger fra alle relevante aktører, bør vedkommende myndighet få tilgang til tollmyndighetenes relevante databaser. Alle aktører bør være omfattet av dette databasesystemet for å sikre at ajourførte opplysninger er tilgjengelige for alle berørte parter.
+
+10. Visse planteprodukter som kan overføre infeksjonssykdommer eller smittsomme sykdommer til dyr, skal gjennomgå veterinærkontroll. Det bør utarbeides en liste over slike produkter, samt en liste over tredjestater eller deler av tredjestater som har tillatelse til å eksportere slike produkter til Fellesskapet.
+
+11. Små mengder av produkter av animalsk opprinnelse som passasjerer som ankommer fra tredjestater, har med for personlig konsum, kan unntas fra kravene om veterinærkontroll. Noen av disse produktene er underlagt et vernetiltak i samsvar med kommisjonsvedtak [2002/995/EF](https://lovdata.no/eu/32002d0995) av 9. desember 2002 om fastsettelse av midlertidige vernetiltak ved import av produkter av animalsk opprinnelse for eget konsum. Henvisningene til disse tiltakene bør beholdes i påvente av at det vedtas permanente regler på dette området.
+
+12. Tiltakene i denne forordning erstatter tiltakene fastsatt i vedtak [93/13/EØF](https://lovdata.no/eu/31993d0013), og nevnte vedtak bør derfor oppheves.
+
+13. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+VEDTATT DENNE FORORDNING:]
+
+##### Artikkel 1
+
+► **M7 M7** ◄
+
+##### Artikkel 2
+
+► **M7 M7** ◄
+
+##### Artikkel 3
+
+► **M7 M7** ◄
+
+##### Artikkel 4
+
+► **M7 M7** ◄
+
+##### Artikkel 5
+
+► **M7 M7** ◄
+
+##### Artikkel 6
+
+► **M7 M7** ◄
+
+##### Artikkel 7
+
+► **M7 M7** ◄
+
+##### Artikkel 8 Særlige regler for produkter som er en del av reisendes bagasje eller sendes som små forsendelser til privatpersoner
+
+1. Med forbehold for særlige EØS-regler for visse produkter, skal produktene nevnt I artikkel 16 nr. 1 bokstav a), b) og d) i direktiv [97/78/EF](https://lovdata.no/eu/31997l0078), ikke omfattes av de systematiske veterinærkontrollene som definert i kapittel 1 i nevnte direktiv, dersom de veier mindre enn 1 kg og er beregnet på personlig konsum.
+
+   Slike produkter kan imidlertid innføres til EØS-området bare fra godkjente tredjestater eller deler av godkjente tredjestater.
+2. Nr. 1 skal ikke berøre reglene for dyrehelse og folkehelse fastsatt i det relevante EØS-regelverket.
+3. Når det gjelder små pakker som inneholder produkter av animalsk opprinnelse som innføres til Danmark fra Grønland og Færøyene for privatpersoners direkte konsum, skal vektgrensen fastsatt i nr. 1, være 5 kg.
+4. For fisk som er fanget ved sportsfiske og innføres til Finland, Island, Norge og Sverige fra Russland i reisendes personlige bagasje for privatpersoners direkte konsum, skal vektgrensen fastsatt i nr. 1, være 15 kg, eller det kan innføres én fisk uansett fiskens vekt.
+
+##### Artikkel 9 (Opphevet)
+
+##### Artikkel 10
+
+► **M7 M7** ◄
+
+##### Artikkel 11
+
+► **M7 M7** ◄
+
+##### Artikkel 12 Ikrafttredelse
+
+[Denne forordning trer i kraft 1. mars 2004.
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel, 22. januar 2004.] [3]
+
+##### VEDLEGG I – III
+
+► **M7 M7** ◄
+
+##### VEDLEGG IV (Opphevet)
+
+##### VEDLEGG V (Opphevet)
+
+## Fotnoter
+
+**1.** Ordlyden i fortalen til de rettsaktene som EØS-avtalens vedlegg omhandler, er ikke tilpasset til EØS, jf. EØS-avtalens protokoll 1 nr. 1. Fortalen er bare relevant i en grad den kan bidra til en korrekt tolkning av bestemmelsene i rettsaktene innenfor rammen av EØS-avtalen.
+
+**2.** Rådsdirektiv [97/78/EØF](https://lovdata.no/eu/31997l0078) er gjennomført i norsk rett i all hovedsak ved [forskrift 18. oktober 1999 nr. 1163](https://lovdata.no/forskrift/1999-10-18-1163) om tilsyn og kontroll ved import og transitt mv. av animalske næringsmidler og produkter av animalsk opprinnelse mv. fra tredjeland.
+
+**3.** Ikrafttredelse i EØS følger av EØS-komitéens beslutning nr. 44/2005. Rettsvirkningene i EFTA-landenes interne rett følger av EØS-avtalens artikkel 7.

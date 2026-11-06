@@ -1,0 +1,558 @@
+# Lov om eksplosive varer [gjelder bare for Svalbard]
+
+- **Korttittel:** Lov om eksplosive varer (Svalbard)
+- **Datokode:** LOV-1974-06-14-39
+- **DokumentID:** NL/lov/1974-06-14-39
+- **Departement:** Justis- og beredskapsdepartementet
+- **I kraft fra:** 1977-04-01, 1978-04-01, 1988-01-01
+- **Siste endring i kraft:** 2015-10-01
+- **Sist endret ved:** lov 19.06.2015 nr. 65 fra 2015-10-01
+- **Rettsområde:** Svalbard og biland > Arbeidsforhold; Svalbard og biland > Generelt
+- **Gjelder for:** Gjelder bare for Svalbard
+- **Siste rettelse:** 2021-08-24 (faglige fotnoter fjernet, UU-tilpasset)
+- **Merknad:** Loven er, unntatt for Svalbard, opphevet av ny brann- og eksplosjonsvernlov av 14 juni 2002 nr. 20 (ikr. 1 juli 2002 iflg. res. 14 juni 2002 nr. 536). – Jf. lover 9 juni 1961 nr. 1 (skytevåpen og ammunisjon, opphevet); lov 20 apr 2018 nr. 7, 21 mai 1971 nr. 47 (brannfarlige varer). – Jf. tidligere lov 3 mai 1871.
+- **Kilde:** <https://lovdata.no/lov/1974-06-14-39>
+
+## Kapitel 1. Alminnelige regler.
+
+### § 1. Lovens område.[1]
+
+Denne lov gjelder tilvirking, oppbevaring, transport, herunder lasting og lossing, erverv, bruk og inn- og utførsel av eksplosiv vare samt handel med slik vare.
+
+Unntatt fra denne lov er:
+
+a. eksplosiv vare om bord på skip som går inn under [lov om skipssikkerhet (skipssikkerhetsloven)](lov-2007-02-16-9-skipssikkerhetsloven.md) eller under forskrifter fastsatt med hjemmel i nevnte lov. Loven gjelder likevel for lasting og lossing av skip og for stasjonær oppbevaring av eksplosiv vare på skip.
+b. eksplosiv vare som er bestemt for eller som tilhører Forsvaret, politiet eller Direktoratet for brann- og eksplosjonsvern. Kongen kan fastsette at nærmere angitte bestemmelser i denne lov skal få anvendelse på vare som nevnt og kan for slik vare fastsette forskrifter som avviker fra denne lov.
+c. fyrstikker for så vidt gjelder reglene i kap. 3-6 og kap. 8.
+
+For Svalbard gjelder loven med de endringer som Kongen fastsetter.
+
+Kongen kan fastsette forskrifter om eksplosive varer som avviker fra bestemmelsene i loven når dette er nødvendig for norsk tilpasning til regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge.
+
+*Endret ved lover [11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88), [24 juni 1994 nr. 41](https://lovdata.no/lov/1994-06-24-41) (ikr. 1 juli 1994), [16 feb 2007 nr. 9](lov-2007-02-16-9-skipssikkerhetsloven.md) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](https://lovdata.no/forskrift/2007-02-16-170)).*
+
+### § 2. Eksplosiv vare.[2]
+
+Med eksplosiv vare forstås i denne lov vare som helt eller delvis består av eller inneholder slikt emne at varen kan eksplodere eller forbrenne på eksplosjonsartet måte.
+
+Eksplosive varer inndeles i følgende hovedslag:
+
+a. sprengstoff, slik som nitroglyserin, nitriocellulose, trinitrotoluen, hexogen, dynamitt og nitratsprengstoff,
+b. krutt, slik som røksvakt krutt og svartkrutt,
+c. tennmidler av enhver art som brukes i samband med andre eksplosiver unntatt tennmidler som faller inn under hovedslaget ammunisjon,
+d. ammunisjon, slik som patroner bestående av prosjektil, hylse, drivladning og tennmiddel, hylser av enhver art forsynt med ladning eller tennmiddel, prosjektiler forsynt med ladning, sporlys eller tennmiddel, håndgranater, bomber, raketter og miner samt lys-, brann- og røkbokser,
+e. pyroteknisk vare, slik som fyrverkeri, pyroteknisk leketøy, fyrstikker og lys-, røk og brannsatser eller andre pyrotekniske satser.
+
+Er det tvil om en vare går inn under første ledd eller hvilket hovedslag en vare skal regnes til, avgjøres spørsmålet av departementet.
+
+Eksplosiv gass regnes ikke som eksplosiv vare etter denne lov.
+
+Kongen kan fastsette at loven ikke skal gjelde eksplosiv vare som er bestemt til framstilling av annen ikke-eksplosiv vare. Kongen kan også bestemme at annen vare enn nevnt i første ledd skal regnes som eksplosiv vare etter denne lov. For varer som nevnt i dette ledd kan Kongen bestemme at bare nærmere angitte regler i loven skal få anvendelse og kan for disse varer fastsette forskrifter som avviker fra loven.
+
+### § 3. Godkjenning av eksplosiv vare.[3]
+
+Det er forbudt å eie eller inneha eksplosiv vare som ikke er godkjent av departementet. Forbudet gjelder likevel ikke mindre mengder eksplosiv vare til forsøk som nevnt i §[§ 17](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) og [18](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md).
+
+Ved vurderingen av om eksplosiv vare skal godkjennes, skal departementet i tillegg til sikkerhetsmessige hensyn blant annet legge vekt på varens nytteverdi og hensynet til den alminnelige orden.
+
+Tilsynsmyndighetene kan om nødvendig på eierens eller innehaverens kostnad, tilintetgjøre eksplosiv vare som ikke er godkjent.
+
+Direktoratet for brann- og eksplosjonsvern skal utarbeide og offentliggjøre en fortegnelse over de eksplosive varer som til enhver tid er godkjent. I fortegnelsen skal gis de opplysninger som er av interesse for å vurdere hvordan denne lov skal anvendes på varen.
+
+*Endret ved [lov 11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 4. Om utførelse og montering av maskin, apparat, beholder eller annen innretning og om godkjenning.[4]
+
+Maskin, apparat, beholder eller annen innretning med tilbehør som blir anvendt ved tilvirking, oppbevaring, transport, salg eller bruk av eksplosiv vare, skal være formålstjenlig og betryggende utført og skal til enhver tid være i slik stand at det ikke oppstår fare for brann eller eksplosjon og slik at varen ikke kommer på avveie eller urette hender. Montering skal være utført fagmessig og betryggende.
+
+Departementet kan ved forskrift bestemme at maskin, apparat, beholder eller annen innretning med tilbehør til bruk som nevnt i første ledd ikke må selges, utbys til salg eller brukes her i landet med mindre den er godkjent eller med mindre type av innretning som nevnt er godkjent (typegodkjenning). Godkjenning gis av Direktoratet for brann- og eksplosjonsvern eller den departementet bestemmer.
+
+*Endret ved [lov 11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 4 a. Produktgodkjenning[5]
+
+Produkt underlagt godkjenningsplikt i henhold til [§§ 3](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) eller [4](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) som er produsert og kontrollert i overensstemmelse med regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge, anses godkjent i henhold til loven.[6]
+
+*Tilføyd ved [lov 27 nov 1992 nr. 115](https://lovdata.no/lov/1992-11-27-115) (ikr. 1 jan 1994), endret ved [lov 8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+### § 5. Undersøkelse av eksplosiv vare, innhenting av prøver m.v.[7]
+
+Direktoratet for brann- og eksplosjonsvern kan kreve at den som eier, tilvirker, innfører eller markedsfører eksplosiv vare eller innretning o.l. som nevnt i [§ 3](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) og [§ 4](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md), fremlegger representativ prøve av varen eller innretningen eller iverksetter undersøkelser som finnes nødvendige for å vurdere varens eller innretningens egenskaper eller virkninger. Det samme gjelder annen vare enn nevnt i [§ 2](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) første ledd når dette er nødvendig for å avgjøre om den skal bringes inn under loven. Direktoratet for brann- og eksplosjonsvern kan selv iverksette slike undersøkelser eller foreta nødvendig prøvetaking og kontroll. Kostnadene bæres av den som kravet om undersøkelser, prøvetaking og kontroll er rettet mot. Departementet kan likevel bestemme at kostnadene skal fordeles på flere eiere, tilvirkere, importører eller markedsførere eller at de helt eller delvis skal dekkes av det offentlige. Krav på refusjon av kostnadene er tvangsgrunnlag for utlegg.
+
+*Endret ved lover [11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88), [8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+### § 6. Særlige vilkår eller forbud.[8]
+
+Når det etter denne lov eller forskrifter i medhold av loven blir gitt tillatelse eller godkjenning, kan det, med de begrensninger som følger av [§ 4a](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md), i tillatelsen eller godkjenningen fastsettes særlige vilkår for å forebygge fare for brann eller eksplosjon eller for at varen kommer på avveie eller urette hender.
+
+Når tilvirking eller oppbevaring av eksplosiv vare kan foregå uten tillatelse, kan tilsynsmyndighetene fastsette nærmere vilkår for tilvirkingen eller oppbevaringen. Tilsynsmyndighetene kan videre fastsette begrensninger i eller forbud mot slik tilvirking eller oppbevaring som ellers lovlig kan skje. Forutsetningen for vedtak etter første og annet punktum er at det etter forholdene på stedet foreligger en særlig, fare for brann eller eksplosjon eller for at varen skal komme på avveie eller urette hender. Reglene her gjelder tilsvarende for lasting, lossing og midlertidig oppbevaring av eksplosiv vare under transport.
+
+*Endret ved [lov 27 nov 1992 nr. 115](https://lovdata.no/lov/1992-11-27-115) (ikr. 1 jan 1994).*
+
+### § 7. Varigheten av tillatelse og godkjenning.[9]
+
+Tillatelse og godkjenning etter denne lov skal gis skriftlig og gjelder inntil videre dersom varigheten ikke er særskilt fastsatt.
+
+En tillatelse faller bort hvis den ikke blir nyttet innen den frist som måtte være fastsatt, eller dersom frist ikke er fastsatt, innen to år fra den dag den ble gitt.
+
+Blir gyldig tillatelse ikke lenger nyttet, skal innehaveren sende melding om dette til den myndighet som gav tillatelsen. Tillatelse som ikke blir nyttet, faller bort to år etter opphøret hvis ikke kortere frist er fastsatt i tillatelsen.
+
+En tillatelse kan tilbakekalles:
+
+a. når det er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for tillatelsen,
+b. når de vilkår som gjelder for tillatelsen ikke blir overholdt, eller når tillatelsen blir nyttet på en måte som er i strid med denne lov eller med vedtak som er gjort i medhold av loven,
+c. hvis det oppstår grunn til å frykte for at eksplosiv vare kan bli misbrukt av innehaveren,
+d. når forholdene på stedet av sikkerhetsmessig betydning på noe vesentlig punkt har endret seg etter at tillatelsen ble gitt,
+e. når de sikkerhetsmessige krav som ble stilt da tillatelsen ble gitt på noe vesentlig punkt ikke lenger anses for å svare til de krav som bør stilles.
+
+En godkjenning kan tilbakekalles på samme vilkår som nevnt i fjerde ledd. Typegodkjenning etter [§§ 3](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) og [4](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) kan dessuten tilbakekalles dersom det typegodkjente produkt ikke blir utført i samsvar med godkjenningen.
+
+Når en godkjenning tilbakekalles, kan Direktoratet for brann- og eksplosjonsvern kreve at den som tilvirker eller markedsfører varen eller innretningen tilbakekaller denne fra bruker eller distributør. Direktoratet for brann- og eksplosjonsvern kan selv iverksette slike tiltak og kreve kostnadene dekket av den som kunne fått pålegg om slike tiltak. Krav på refusjon av kostnadene er tvangsgrunnlag for utlegg.
+
+Er innehaver av tillatelse avgått ved døden eller gått konkurs, kan dødsboet eller konkursboet utøve virksomheten inntil ett år fra dødsfallet eller konkursens åpning, dersom ikke kortere varighet er særskilt fastsatt. Boet skal sende vedkommende tilsynsmyndighet melding om at det vil fortsette virksomheten innen en måned fra dødsfallet eller konkursens åpning og plikter å følge de regler som gjelder for virksomheten.
+
+*Endret ved [lov 8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+### § 8. Melding om at virksomhet kan begynne.[10]
+
+Tilvirking, oppbevaring eller handel som det er gitt tillatelse til etter [§§ 16](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md), [17](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md), [22](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) og [26](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) må ikke påbegynnes før tilsynsmyndigheten har inspisert tilvirkings- og oppbevaringsrom, utsalgssted eller maskin, apparat, beholder eller annen innretning med tilbehør til bruk for eksplosiv vare i den tillatte virksomhet og ved skriftlig melding har godkjent at virksomheten kan begynne.
+
+Departementet kan tillate at tilvirking av sprengstoff ved forbrukssted til bruk der kan begynne uten hinder av reglene i første ledd. Likeledes kan Direktoratet for brann- og eksplosjonsvern tillate tilvirking som prøvedrift uten hinder av reglene i første ledd.
+
+*Endret ved [lov 11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 9. Særskilt ansvarshavende.[11]
+
+Ved tilvirking av eksplosiv vare eller ved oppbevaring av slik vare i større mengde skal det være en ansvarshavende som personlig skal føre tilsyn med at virksomheten foregår teknisk riktig og på lovlig måte.
+
+Ansvarshavende og hans stedfortreder skal være godkjent av den myndighet som gir tillatelse til virksomheten. Nevnte myndighet kan samtykke i at stedfortreder ikke blir utpekt.
+
+Ansvarshavende ved bedrift for tilvirking til salg eller stedfortreder ved forfall, skal bo i nærheten av bedriften hvis vedkommende myndighet ikke samtykker i annet bosted.
+
+*Endret ved [lov 11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 10. Overlatelse av eksplosiv vare.[12]
+
+Det er ikke tillatt å overlate eksplosiv vare til noen som etter regler i denne lov eller forskrifter gitt i medhold av loven ikke har adgang til å inneha varen.
+
+Den som lovlig innehar eksplosiv vare, kan uten hinder av reglene i første ledd overlate slik vare til andre til bruk på hans vegne i samsvar med forskrifter etter [§ 35](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) eller etter [arbeidsmiljøloven](lov-2005-06-17-62-arbeidsmiljoloven.md).
+
+Innehar noen under 18 år sprengstoff, krutt eller tennmidler ulovlig, kan tilsynsmyndighetene ta varen i forvaring. Det samme gjelder når noen under 16 år innehar pyroteknisk vare. Varen utleveres etter anmodning av eieren, eller hvis dette er barnet selv, av dets foreldre eller den som har omsorgen for det. Er varen ikke forlangt utlevert innen 3 måneder, kan tilsynsmyndighetene bestemme at den skal selges for eierens regning eller tilintetgjøres.
+
+*Endret ved lover [20 juni 2003 nr. 45](https://lovdata.no/lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](https://lovdata.no/forskrift/2003-06-20-712)), [17 juni 2005 nr. 62](lov-2005-06-17-62-arbeidsmiljoloven.md) (ikr. 1 jan 2006 iflg. res.[17 juni 2005 nr. 609](https://lovdata.no/forskrift/2005-06-17-609)).*
+
+### § 11. Pakking og merking.[13]
+
+Eksplosiv vare som er tilvirket for salg skal være pakket på formålstjenlig og betryggende måte når den leveres fra tilvirker eller handlende.
+
+Den ytre pakning på eksplosiv vare skal være tydelig merket med opplysning om at innholdet er eksplosivt.
+
+### § 11 a. Sikkerhetsdatablad og stoffregister[14]
+
+Departementet kan gi forskrifter om krav til utarbeidelse av sikkerhetsdatablad og stoffregister for opplysninger om egenskaper og sikkerhetstiltak for de stoffer og produkter som omfattes av denne lov.
+
+*Tilføyd ved [lov 11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88), endret ved [lov 8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+### § 12. Oppslag om fare.[15]
+
+Hvor eksplosiv vare forekommer i større mengde, skal det være oppslag som gir opplysning om faren for eksplosjon. Oppslag skal anbringes slik at det er lett synlig og i tilstrekkelig antall.
+
+### § 13. Åpen ild og røyking.[16]
+
+Røyking og bruk av åpen ild eller andre tennkilder er forbudt innenfor anlegg, på område eller i rom hvor eksplosiv vare forekommer under slike forhold at det er fare for brann eller eksplosjon. Oppslag herom skal i nødvendig utstrekning finnes på passende steder.
+
+Kommunestyret kan gi tillatelse til å fravike forbudet for enkelt anledning. I andre tilfelle kan Direktoratet for brann- og eksplosjonsvern gi tillatelse til å fravike forbudet.
+
+*Endret ved lover [11 juni 1993 nr. 85](https://lovdata.no/lov/1993-06-11-85), [11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 14. Forsiktighet for å forebygge fare for brann eller eksplosjon m.v.[17]
+
+Enhver som har befatning med eksplosiv vare skal vise forsiktighet for å forebygge fare for brann eller eksplosjon og for å hindre at varen kommer på avveie eller urette hender.
+
+Departementet gir nærmere regler om internkontroll og internkontrollsystemer for å sikre at krav fastsatt i eller i medhold av denne lov overholdes.
+
+*Endret ved [lov 27 juli 1990 nr. 52](https://lovdata.no/lov/1990-07-27-52).*
+
+## Kapitel 2. Tilvirking.
+
+### § 15. Hva det forstås med tilvirking.[18]
+
+Med tilvirking av eksplosiv vare forstås i denne lov enhver framgangsmåte hvorved slik vare blir framstilt eller bearbeidet.
+
+Som tilvirking regnes ikke klargjøring av ammunisjon, montering av tennmidler eller liknende handling som etter anerkjent praksis i alminnelighet blir foretatt i samband med bruken av varen.
+
+### § 16. Tillatelse til tilvirking.[19]
+
+Tilvirking av eksplosiv vare kan utenom de tilfelle som er nevnt i [§ 18](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md), bare skje med tillatelse av departementet. Tillatelse kan gis for tilvirking til salg eller for tilvirking ved forbrukssted til bruk der samt til forsøk etter [§ 17](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md).
+
+Tillatelse kan bare den få som er skikket til på betryggende måte å drive slik tilvirking som tillatelsen gjelder. Fysisk person må være fylt 20 år. Tillatelsen skal angi hvilken eller hvilke eksplosive varer som kan tilvirkes.
+
+Søknad om tillatelse skal være skriftlig og inneholde de opplysninger som er nødvendige for å kunne ta standpunkt til om tillatelse kan gis. Departementet kan gi nærmere forskrifter om søknaden og om søknadens behandling.
+
+Eksplosiv vare som er tillatt tilvirket ved forbrukssted må ikke uten departementets tillatelse føres bort fra stedet.
+
+### § 17. Tillatelse til forsøk.[20]
+
+Departementet kan gi den som innehar nødvendig teoretisk eller praktisk innsikt og ellers er skikket, tillatelse til å tilvirke bestemte eksplosive varer, derunder eksplosiv vare som ikke er godkjent etter [§ 3](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md), til forsøk med sikte på oppfinnelse eller i vitenskapelig øyemed. Fysisk person må være fylt 20 år. Tillatelse kan bare gis til tilvirking i en mengde som trengs for å vurdere den eksplosive vares praktiske brukbarhet. Tilvirket vare må ikke utleveres til annet formål enn forsøk under kontroll som Direktoratet for brann- og eksplosjonsvern bestemmer.
+
+*Endret ved [lov 11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 18. Tilvirking uten særskilt tillatelse.[21]
+
+Den som har tillatelse til å tilvirke eksplosiv vare for salg, kan i forsøksøyemed tilvirke også eksplosiv vare som ikke omfattes av tillatelsen, derunder eksplosiv vare som ikke er godkjent etter [§ 3](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md). Det må likevel, med mindre Direktoratet for brann- og eksplosjonsvern tillater annet, bare tilvirkes vare av samme hovedslag som tilvirkingstillatelsen omfatter. Tilvirking i forsøksøyemed må bare skje i en mengde som trenges til å vurdere varens praktiske brukbarhet. Varen må ikke føres ut fra tilvirkingsstedets område uten til forsøk som foregår under ledelse og tilsyn av ansvarshavende som nevnt i [§ 9](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) eller under kontroll som Direktoratet for brann- og eksplosjonsvern bestemmer.
+
+I laboratorium på universitet, høgskole, vidaregåande skole som nevnt i [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](https://lovdata.no/lov/1998-07-17-61) og på forskningsanstalt som tilhører staten eller som har statsstøtte, kan tilvirkes eksplosiv vare, derunder eksplosiv vare som ikke er godkjent etter [§ 3](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md), i den utstrekning som trenges til laboratoriemessige forsøk hvis tilvirkingen kan skje på betryggende måte. Tilvirkingen skal skje under ledelse og tilsyn av kyndig lærer eller forsker. Eksplosiv vare som ikke går med til forsøket, skal snarest mulig gjøres uskadelig.
+
+Den som etter [lov av 9 juni 1961 nr. 1](https://lovdata.no/lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. har tillatelse til å inneha skytevåpen, kan selv lade opp ammunisjon til våpenet.
+
+Forbudet i [§ 20](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) mot tilvirking i tettbygd strøk og kravet i [§ 9](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) om ansvarshavende får ikke anvendelse på tilvirking som nevnt i annet og tredje ledd.
+
+*Endret ved lover [11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88), [20 juni 2003 nr. 45](https://lovdata.no/lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](https://lovdata.no/forskrift/2003-06-20-712)).*
+
+### § 19. Rom, bygning eller anlegg.[22]
+
+Rom, bygning eller anlegg hvor eksplosiv vare blir tilvirket skal være utført og innredet slik at det ikke oppstår særlig fare for brann eller eksplosjon, og slik at varen ikke kommer på avveie eller urette hender.
+
+### § 20. Beliggenheten av tilvirkingssted.[23]
+
+Tilvirking av eksplosiv vare må ikke foregå i tettbygd strøk eller på sted hvor virksomheten kan medføre særlig fare for omgivelsene.
+
+Det sted der tilvirking av eksplosiv vare foregår skal være omgitt av et sikringsfelt (sikkerhetssone). Nærmere regler om sikringsfeltets omfang fastsettes i forskrift. Stedet skal, med mindre Direktoratet for brann- og eksplosjonsvern finner det unødvendig, være innhegnet på hensiktsmessig måte.
+
+Hvis tilvirkingen er mindre farlig eller skal foregå i mindre omfang eller hvis det ellers er særlig grunn til det, kan departementet i det enkelte tilfelle tillate at tilvirking foregår i tettbygd strøk og kan fravike forskriftene om sikringsfelt.
+
+*Endret ved [lov 11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 21. Framgangsmåte og formål.[24]
+
+Departementet kan forby framgangsmåte som fører med seg særlig fare under tilvirkingen og det kan fastsette at eksplosiv vare bare må tilvirkes til nærmere bestemt formål.
+
+## Kapitel 3. Oppbevaring.
+
+### § 22. Tillatelse til oppbevaring.[25]
+
+Den som vil oppbevare eksplosiv vare, må ha tillatelse. For søknad herom gjelder [§ 16](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) tredje ledd tilsvarende.
+
+Unntatt fra kravet om tillatelse er ammunisjon som går inn under [§ 18](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) tredje ledd i denne lov og ammunisjon som erverves eller overlates etter reglene i [lov av 9 juni 1961 nr. 1](https://lovdata.no/lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. eller etter forskrifter i medhold av nevnte lov.
+
+Departementet kan i forskrift unnta oppbevaring som nevnt i første ledd fra kravet om tillatelse.
+
+Tillatelse etter første ledd gis av den myndighet som kan gi tillatelse til å tilvirke, erverve eller handle med den vare som skal oppbevares. For øvrig gis tillatelsen av departementet.
+
+I tillatelsen angis hvilke eksplosive varer og den mengde av hver vare som kan oppbevares. Det kan kreves ført fortegnelse over beholdningen etter forskrifter fastsatt av departementet.
+
+### § 23. Rom, bygning eller innretning. Oppbevaringsmåte.[26]
+
+For rom, bygning eller innretning som blir brukt til oppbevaring av eksplosiv vare gjelder reglene i [§ 19](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) tilsvarende.
+
+Eksplosive varer av forskjellig slag må ikke oppbevares i samme oppbevaringsrom med mindre det gjelder eksplosiv vare som departementet i forskrifter har tillatt oppbevart sammen med annen eksplosiv vare.
+
+### § 24. Beliggenheten av oppbevaringssted.[27]
+
+For oppbevaring av eksplosiv vare gjelder bestemmelsene i [§ 20](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) tilsvarende.
+
+## Kapitel 4. Erverv.
+
+### § 25. Tillatelse til erverv.[28]
+
+Den som vil kjøpe eller på annen måte erverve eksplosiv vare må ha tillatelse. For søknad herom gjelder [§ 16](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) tredje ledd tilsvarende.
+
+Unntatt fra kravet om tillatelse etter første ledd er erverv av:
+
+a. ammunisjon som erverves eller overlates etter reglene i [lov av 9 juni 1961 nr. 1](https://lovdata.no/lov/1961-06-09-1) om skytevåpen og ammunisjon m.v.,
+b. eksplosiv vare som tilvirker med tillatelse etter [§ 16](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) jfr. [§ 18](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) første ledd, og [§ 17](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) erverver for tilvirkingen eller vare som han har tillatelse til å tilvirke,
+c. eksplosiv vare som handlende med tillatelse etter [§ 26](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) erverver for videresalg,
+d. pyroteknisk vare som kan erverves etter forskrifter fastsatt av departementet.
+
+Tillatelse som nevnt i første ledd gis av den Kongen bestemmer.
+
+Tillatelse til erverv som nevnt i første ledd, kan bare gis når søkeren har behov for å ha slik eksplosiv vare og ikke av særlige grunner anses uskikket til det. Fysisk person må være over 18 år. Søknad fra person som er fratatt rettslig handleevne, må være tiltrådt av verge. Tillatelsen skal omfatte en bestemt mengde og kan ikke gjøres gjeldende for lengre tidsrom enn 6 måneder uten etter forskrifter fastsatt av departementet.
+
+Hvis ikke annet framgår av tillatelsen, gjelder den bare for erverv av eksplosiv vare hos handlende som etter [§ 26](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) kan drive handel med den vare tillatelsen omfatter.
+
+*Endret ved [lov 26 mars 2010 nr. 9](lov-2010-03-26-9-vergemaalsloven.md) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](https://lovdata.no/forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](https://lovdata.no/lov/2013-04-05-12).*
+
+## Kapitel 5. Handel.
+
+### § 26. Tillatelse til handel.[29]
+
+Den som vil drive handel med eksplosiv vare må ha tillatelse. For søknad herom gjelder [§ 16](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) tredje ledd tilsvarende.
+
+Unntatt fra kravet om tillatelse er handel med:
+
+a. ammunisjon etter [kap. IV i lov om skytevåpen og ammunisjon m.v](https://lovdata.no/lov/1961-06-09-1/kapiv). av 9 juni 1961,
+b. de pyrotekniske varer departementet bestemmer,
+c. de varer av egen eller annens tilvirking som tilvirkingstillatelse for salg etter [§ 16](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) første ledd omfatter. Handel som her nevnt kan bare drives av tilvirkeren fra tilvirkingsstedet eller fra tillatt oppbevaringssted. For tilvirker av sprengstoff eller krutt gjelder unntaket også tennmidler.
+
+Tillatelse gis av den Kongen bestemmer. Tillatelse kan bare gis til den som har handelsrett som kjøpmann og som anses skikket til å drive handel med eksplosiv vare.
+
+Gis tillatelsen til handlende som ikke selv har den daglige ledelse av salget av eksplosiver, kan tillatelsen gjøres betinget av at det er en ansvarshavende for dette salg. For den ansvarshavende gjelder reglene i [§ 9](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) så langt de passer.
+
+Tillatelsen skal gjelde salg fra et bestemt forretningssted og kan ellers begrenses slik vedkommende myndighet bestemmer.
+
+Tillatelse skal ikke gis hvis virksomheten antas å ville føre til vesentlige ulemper for opprettholdelse av den alminnelige orden og sikkerhet.
+
+## Kapitel 6. Transport.
+
+### § 27. Hva det forstås med transport.[30]
+
+Med transport forstås i denne lov enhver flytting av eksplosiv vare fra et sted til et annet når stedene ikke ligger på samme eiendom eller på eiendommer som grenser til hverandre.
+
+Flytting av eksplosiv vare på ferdselsåre som er åpen for alminnelig ferdsel, blir alltid regnet som transport.
+
+### § 28. Ammunisjon til håndvåpen.[31]
+
+Reglene i dette kapittel gjelder ikke håndvåpenammunisjon opp til 2.500 patroner som er ervervet eller overlatt etter [lov av 9 juni 1961 nr. 1](https://lovdata.no/lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. eller forskrifter i medhold av nevnte lov, og som vedkommende selv fører med seg.
+
+### § 29. Tillatelse til transport.[32]
+
+Departementet inndeler de eksplosive varer i klasser (transportklasser) og bestemmer hvilke transportklasser av eksplosive varer som kan transporteres uten tillatelse. For øvrig kan eksplosive varer bare transporteres dersom departementet gir særskilt tillatelse til transporten.
+
+Når eksplosiv vare blir transportert, skal den med mindre departementet ved forskrift tillater noe annet, stå under tilsyn av en person som er ansvarlig for at transporten foregår på lovlig måte og for at varen blir overlevert adressaten.
+
+### § 30. Bil m.v. som blir brukt til transport.[33]
+
+Bil, tilhenger og annet kjøretøy som blir brukt til transport av eksplosiv vare, skal være utført og utstyrt i samsvar med forskrifter fastsatt av departementet. Hvis ikke annet er bestemt i forskrifter, må kjøretøyet ikke brukes til transport som nevnt uten å være kontrollert og godkjent. Kontrollen skal gjentas så ofte det er nødvendig.
+
+Departementet kan i forskrifter bestemme at fører av kjøretøy som nevnt i første ledd skal være godkjent.
+
+Kontroll og godkjenning foretas av Direktoratet for brann- og eksplosjonsvern eller av den departementet bestemmer.
+
+Bevis for godkjenning av kjøretøyet og i tilfelle av fører skal bringes med når det brukes til transport av eksplosiv vare, og skal forevises når representant for tilsynsmyndighetene krever det.
+
+*Endret ved [lov 11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 31. Forskrifter om transport m.v.[34]
+
+Departementet fastsetter forskrifter om transport av eksplosiv vare, derunder om hvem som kan motta eksplosiv vare til transport, om tilsyn med varen og om hva som for øvrig skal iakttas ved transport, ved lasting og lossing og ved midlertidig oppbevaring under transport. Videre fastsettes forskrifter om de mengder eksplosiv vare som kan sendes med de forskjellige transportmidler. I forskriftene kan fastsettes forbud mot transport av eksplosiv vare med transportmiddel bestemt for offentlig personbefordring og med transportmidler som innebærer særlig risiko.
+
+Departementet kan i forskrifter også fastsette bestemmelser om flytting av eksplosiv vare som ikke er transport etter denne lov, jfr. [§ 27](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) første ledd.
+
+## Kapittel 7. Innførsel, utførsel og overføring.
+
+*Overskriften endret ved [lov 24 juni 1994 nr. 41](https://lovdata.no/lov/1994-06-24-41) (ikr. 1 juli 1994).*
+
+### § 32. Tillatelse til innførsel, utførsel og overføring.[35]
+
+Den som vil innføre eller utføre eksplosiv vare må ha tillatelse av departementet. For søknad herom gjelder [§ 16](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) tredje ledd tilsvarende. Tillatelse til innførsel og utførsel gjelder også som tillatelse til overføring når dette kreves i henhold til regelverk som Norge gjennom internasjonal avtale er forpliktet til å følge.[36] Tillatelse til overføring kreves også for innførsel og utførsel av ammunisjon som er omfattet av andre ledd så langt dette er nødvendig som følge av slik internasjonal avtale.
+
+Unntatt fra kravet om tillatelse etter første ledd er ammunisjon som innføres eller utføres etter reglene i lov av 9 juni 1961 om skytevåpen og ammunisjon m.v. samt de pyrotekniske varer som kan innføres eller utføres etter forskrifter fastsatt av departementet.
+
+Tillatelsen skal angi varens art og mengde og gjelde for et bestemt tidsrom som etter søknad kan forlenges.
+
+*Endret ved [lov 24 juni 1994 nr. 41](https://lovdata.no/lov/1994-06-24-41) (ikr. 1 juli 1994).*
+
+### § 33. Hvem som kan gis tillatelse til innførsel.[37]
+
+Tillatelse til innførsel kan bare gis den som etter [§ 26](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) kan drive handel med eksplosiv vare og den som etter [§ 17](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) eller [18](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) annet ledd kan tilvirke slik vare til forsøk.
+
+Gjelder det innførsel bare til eget bruk, kan tillatelse likevel gis den som etter [§ 25](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) første ledd, eller annet ledd bokstav d, kan erverve varen.
+
+### § 34. Særlige bestemmelser.[38]
+
+Departementet kan gi forskrifter om inn- og utførsel av eksplosiv vare, ammunisjon unntatt, jfr. [§ 32](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) annet ledd, som norsk fangstekspedisjon bringer til og fra fangstfelter utenfor norsk territorialfarvann, og for forsendelse av nevnte vare til og fra Svalbard. Departementet kan i forskrifter også fastsette særlige bestemmelser om inn- og utførsel av eksplosiv vare som nevnt som annen norsk ekspedisjon enn fangstekspedisjon bringer til og fra riket.
+
+## Kapitel 8. Bruk.
+
+### § 35. Forskrifter om bruk.[39]
+
+Departementet kan gi forskrifter om bruk av eksplosiv vare, herunder om utlevering til bruk, om stedet der bruk kan foregå, om godkjenning av dem som skal forestå bruken og om tilintetgjøring av varen. Denne bestemmelse gjelder ikke ammunisjon i den utstrekning bruken er regulert ved lov av 9 juni 1961 om skytevåpen og ammunisjon m.v. eller ved forskrifter i medhold av nevnte lov.
+
+## Kapitel 9. Tilsyn, forskrifter, klage m.v.
+
+### § 36. Tilsynsmyndighetene.[40]
+
+Direktoratet for brann- og eksplosjonsvern,[41] kommunestyret og for øvrig de myndigheter Kongen bestemmer, fører tilsyn med at reglene i denne lov og vedtak i medhold av loven blir overholdt.
+
+[Lov av 21 mai 1971 nr. 47 om brannfarlige varer § 35](lov-1971-05-21-47-brannfarligvareloven-svalbard.md) annet, fjerde, femte og sjette ledd gjelder tilsvarende for denne lov.
+
+*Endret ved lover [11 juni 1993 nr. 85](https://lovdata.no/lov/1993-06-11-85), [11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88).*
+
+### § 37. Forskrifter, enkeltvedtak og rettleiing.[42]
+
+Når intet annet er sagt i denne lov, fastsetter departementet de forskrifter som er nødvendige for gjennomføring og utfylling av reglene i loven.
+
+Departementet kan, når særlige grunner foreligger, dispensere fra reglene i denne lov eller i forskrift.
+
+Departementets myndighet og gjøremål etter loven kan delegeres til Direktoratet for brann- og eksplosjonsvern. Departementet kan også gi andre tilsynsmyndigheter fullmakt til å meddele dispensasjoner.
+
+Tilsynsmyndigheten gir de pålegg og treffer de enkeltvedtak ellers som er nødvendige for gjennomføringen av bestemmelsene gitt i eller i medhold av denne lov. Det skal settes en frist for når pålegget skal være utført. Ved overhengende fare kan tilsynsmyndigheten kreve at nødvendige tiltak blir iverksatt straks.
+
+Dispensasjoner og pålegg skal gis skriftlig. Dersom pålegg ikke oppfylles innen fristen kan tilsynsmyndigheten helt eller delvis stanse virksomheten inntil pålegget er utført. Ved overhengende fare kan tilsynsmyndigheten stanse virksomheten selv om pålegg ikke er gitt.
+
+*Endret ved lover [11 juni 1993 nr. 88](https://lovdata.no/lov/1993-06-11-88), [8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+### § 38. Klage.[43]
+
+Om klage over enkeltvedtak gjelder bestemmelsene i [forvaltningsloven kap. VI](lov-1967-02-10-forvaltningsloven.md) med de tilleggsbestemmelser som er fastsatt i [§ 38](lov-1967-02-10-forvaltningsloven.md) i [lov av 21 mai 1971 nr. 47](lov-1971-05-21-47-brannfarligvareloven-svalbard.md) om brannfarlige varer.
+
+### § 39. Stedlige undersøkelser. Opplysning. Kontakt med og rapport til arbeidsgivere og arbeidstakere. Inspeksjonsbok.[44]
+
+[Lov 21 mai 1971 nr. 47 om brannfarlige varer §§ 39](lov-1971-05-21-47-brannfarligvareloven-svalbard.md), [40](lov-1971-05-21-47-brannfarligvareloven-svalbard.md) og [42](lov-1971-05-21-47-brannfarligvareloven-svalbard.md) annet ledd gjelder tilsvarende for loven her. Likeens gjelder samme lovs § 42 første ledd for tjenestemenn i tilsynsmyndigheter etter denne lov.
+
+*Endret ved [lov 16 mai 1986 nr. 21](https://lovdata.no/lov/1986-05-16-21).*
+
+### § 40. Avgiftsplikt.[45]
+
+[Lov av 21. mai 1971 nr. 47](lov-1971-05-21-47-brannfarligvareloven-svalbard.md) om brannfarlige varer samt væsker og gasser under trykk [§ 43](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) første og tredje til femte ledd gjelder tilsvarende.
+
+Kongen kan også pålegge avgift for tillatelse til handel og til inn- og utførsel samt for godkjenning av eksplosiv vare.
+
+*Endret ved lover [16 juni 1994 nr. 16](https://lovdata.no/lov/1994-06-16-16), [8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+## Kapitel 10. Straff, forelegg og tvangsfullbyrdelse.
+
+### § 41. Straff.[46]
+
+Den som legger hindringer i veien for undersøkelser som offentlig myndighet iverksetter etter denne lov, eller unnlater å yte pliktig bistand eller å gi opplysninger som kreves for utførelsen av tilsynet etter denne lov, straffes med bøter såfremt forholdet ikke rammes av strengere straffebud.
+
+*Endret ved lover [8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)), [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 42. Tvangsmulkt[47]
+
+I pålegg etter loven her kan det fastsettes en løpende tvangsmulkt for hver dag/uke/måned som går etter utløpet av den frist som er satt for oppfylling av pålegget, inntil pålegget er oppfylt. Tvangsmulkt kan også fastsettes som engangsmulkt. Direktoratet for brann- og eksplosjonsvern kan frafalle påløpt tvangsmulkt.
+
+*Endret ved lover [11 juni 1993 nr. 85](https://lovdata.no/lov/1993-06-11-85), [8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+### § 43. Forelegg om plikt til å etterkomme pålegg eller forbud[48]
+
+Tilsynsmyndigheten kan utferdige forelegg mot den som innen fastsatt frist unnlater å etterkomme pålegg eller forbud som er gitt med hjemmel i denne lov. Forelegget skal gi opplysninger om bestemmelsene i annet ledd og skal, så langt mulig, forkynnes for den det er rettet mot.
+
+Den forelegget er rettet mot, kan reise søksmål mot det offentlige for å få forelegget prøvet. Blir søksmål ikke reist innen 30 dager fra forkynnelsen, har forelegget samme virkning som rettskraftig dom, og kan fullbyrdes etter reglene for dommer.
+
+Forelegg kan ikke påklages.
+
+*Endret ved lover [26 juni 1992 nr. 86](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), [8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+### § 43 a. Tvangsfullbyrdelse[49]
+
+Blir pålegg i rettskraftig dom eller dermed likestilt forelegg ikke etterkommet, kan vedkommende tilsynsmyndighet selv besørge eller få besørget at pålegget utføres for regning av den som dommen eller forelegget er rettet mot uten at det er nødvendig med kjennelse etter [tvangsfullbyrdelsesloven § 13-14](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md).
+
+Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelsesloven § 13-14](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md) uten at dom eller forelegg kreves.
+
+*Tilføyd ved [lov 8 des 2000 nr. 85](https://lovdata.no/lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](https://lovdata.no/forskrift/2000-12-08-1234)).*
+
+## Kapitel 11. Overgangsbestemmelser, ikrafttreden, oppheving og endring av andre lover.
+
+### § 44. Overgangsbestemmelser.[50]
+
+– – –
+
+1. Tillatelse eller bevilling til tilvirkning av sprengstoff, krutt, tennmidler, ammunisjon eller fyrverkerisaker gitt etter lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande, [lov av 9 juni 1961 nr. 1](https://lovdata.no/lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. og samtykke til forarbeiding av fyrverkerisaker gitt etter [lov av 19 november 1954](https://lovdata.no/lov/1954-11-19) om brannvesenet eller bestemmelser i medhold av disse lover, blir fortsatt gjeldende. Likeledes blir fortsatt gjeldende tillatelse eller bevilling til erverv av handel med eller inn- eller utførsel av sprengstoff, krutt, tennmidler eller fyrverkerisaker gitt etter [lov av 9 juni 1961 nr. 1](https://lovdata.no/lov/1961-06-09-1) eller forskrifter i medhold av loven.
+
+   Reglene i denne lovs § 7 annet ledd, tredje ledd annet punktum, fjerde ledd og femte ledd første punktum får anvendelse på tillatelse, bevilling, samtykke eller godkjenning gitt før lovens ikrafttreden.
+2. Forskrifter og andre alminnelige bestemmelser om sprengstoff, krutt, tennmidler, ammunisjon og fyrverkerisaker gitt i medhold av lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande, [lov av 9 juni 1961 nr. 1](https://lovdata.no/lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. og [lov av 29 mai 1970 nr. 32](https://lovdata.no/lov/1970-05-29-32) om brannvern m.v. gjelder inntil videre i den utstrekning de ikke strider mot denne lov eller bestemmelser gitt i medhold av loven.
+
+– – –
+
+### § 45. Ikrafttreden. Oppheving og endring av andre lover.
+
+1. Denne lov trer i kraft fra den tid Kongen bestemmer.[51] Det kan fastsettes særskilt tidspunkt for lovens ikrafttreden på Svalbard.[52]
+2. Fra samme tid oppheves lov av 3 mai 1871 angående Behandling av ildsfarlige Gjenstande §§ 1-13, [§ 21](lov-1974-06-14-39-lov-om-eksplosive-varer-svalbard.md) og §§ 23-27.
+3. Fra samme tid gjøres følgende endringer: – – –.
+
+## Fotnoter
+
+**1.** Loven gjelder bare for Svalbard.
+
+**2.** Loven gjelder bare for Svalbard.
+
+**3.** Loven gjelder bare for Svalbard.
+
+**4.** Loven gjelder bare for Svalbard.
+
+**5.** Loven gjelder bare for Svalbard.
+
+**6.** Jf. [EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2).
+
+**7.** Loven gjelder bare for Svalbard.
+
+**8.** Loven gjelder bare for Svalbard.
+
+**9.** Loven gjelder bare for Svalbard.
+
+**10.** Loven gjelder bare for Svalbard.
+
+**11.** Loven gjelder bare for Svalbard.
+
+**12.** Loven gjelder bare for Svalbard.
+
+**13.** Loven gjelder bare for Svalbard.
+
+**14.** Loven gjelder bare for Svalbard.
+
+**15.** Loven gjelder bare for Svalbard.
+
+**16.** Loven gjelder bare for Svalbard.
+
+**17.** Loven gjelder bare for Svalbard.
+
+**18.** Loven gjelder bare for Svalbard.
+
+**19.** Loven gjelder bare for Svalbard.
+
+**20.** Loven gjelder bare for Svalbard.
+
+**21.** Loven gjelder bare for Svalbard.
+
+**22.** Loven gjelder bare for Svalbard.
+
+**23.** Loven gjelder bare for Svalbard.
+
+**24.** Loven gjelder bare for Svalbard.
+
+**25.** Loven gjelder bare for Svalbard.
+
+**26.** Loven gjelder bare for Svalbard.
+
+**27.** Loven gjelder bare for Svalbard.
+
+**28.** Loven gjelder bare for Svalbard.
+
+**29.** Loven gjelder bare for Svalbard.
+
+**30.** Loven gjelder bare for Svalbard.
+
+**31.** Loven gjelder bare for Svalbard.
+
+**32.** Loven gjelder bare for Svalbard.
+
+**33.** Loven gjelder bare for Svalbard.
+
+**34.** Loven gjelder bare for Svalbard.
+
+**35.** Loven gjelder bare for Svalbard.
+
+**36.** Jf. [EØS-avtalen vedlegg II kap. XXIX](https://lovdata.no/avtale/avt-1992-05-02-1-v2) nr. 1 (direktiv [93/15](https://lovdata.no/eu/31993l0015)) – jf. EØS-komiteens beslutning nr. [7/94](https://lovdata.no/eu/21994d0007).
+
+**37.** Loven gjelder bare for Svalbard.
+
+**38.** Loven gjelder bare for Svalbard.
+
+**39.** Loven gjelder bare for Svalbard.
+
+**40.** Loven gjelder bare for Svalbard.
+
+**41.** Inkurie: Nå Direktoratet for samfunnssikkerhet og beredskap.
+
+**42.** Loven gjelder bare for Svalbard.
+
+**43.** Loven gjelder bare for Svalbard.
+
+**44.** Loven gjelder bare for Svalbard.
+
+**45.** Loven gjelder bare for Svalbard.
+
+**46.** Loven gjelder bare for Svalbard.
+
+**47.** Loven gjelder bare for Svalbard.
+
+**48.** Loven gjelder bare for Svalbard.
+
+**49.** Loven gjelder bare for Svalbard.
+
+**50.** Loven gjelder bare for Svalbard.
+
+**51.** For Norge utenom Svalbard fra 1 apr 1977, iflg. res. 18 mars 1977, med unntak av § 3 (1) som trådte i kraft 1 apr 1978. Se note til lovens tittel.
+
+**52.** Ved [res. 30 okt 1987 nr. 841](https://lovdata.no/forskrift/1987-10-30-841) er loven med forskrifter, retningslinjer m.v. gitt i medhold av loven, satt i kraft for Svalbard (se [lov 17 juli 1925 nr. 11 § 1](lov-1925-07-17-11-svalbardloven.md) (2)) fra 1 jan 1988, med endringer i medhold av lovens § 1, siste ledd.

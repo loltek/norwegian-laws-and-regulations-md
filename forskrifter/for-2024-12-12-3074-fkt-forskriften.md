@@ -1,0 +1,190 @@
+# Forskrift om tilskudd til forebyggende tiltak mot rovviltskader og konfliktdempende tiltak (FKT-forskriften)
+
+- **Korttittel:** FKT-forskriften
+- **Datokode:** FOR-2024-12-12-3074
+- **DokumentID:** SF/forskrift/2024-12-12-3074
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Naturforvaltningsavdelingen
+- **Kunngjort:** 2024-12-13 11:00
+- **I kraft fra:** 2025-01-01
+- **Endrer:** forskrift 01.01.2013 nr. 3
+- **Merknad:** Hjemmel: Fastsatt av Klima- og miljødepartementet 12. desember 2024 til oppfølging av Stortingets budsjettvedtak under kap. 1420 post 73.
+- **Kilde:** <https://lovdata.no/forskrift/2024-12-12-3074>
+
+## § 1. Formål
+
+Formålet med tilskuddsordningen er å sikre iverksettelse av effektive forebyggende tiltak for å begrense tap og skader som rovvilt kan forårsake på produksjonsdyr i landbruket, samt konfliktdempende tiltak for å begrense ulemper for lokalsamfunn og andre grupper. Landbruks-, dyrevelferds- og miljøvirkemidler skal samlet bidra til måloppnåelsen.
+
+## § 2. Kriterier for vurdering av måloppnåelse
+
+Måloppnåelsen for ordningen blir vurdert ut fra om tilskuddene til forebyggende og konfliktdempende tiltak bidrar til å stimulere til mindre tap og konflikter knyttet til forekomster av rovvilt i de ulike rovviltregionene.
+
+## § 3. Hvem kan søke på tilskuddsordningen
+
+Tilskudd kan gis til foretak med produksjonsdyr i landbruket, til kommuner og lokalsamfunn. Lokale, regionale og landsdekkende organisasjoner og forskningsinstitusjoner kan også motta tilskudd. Tilskudd til tiltak etter [§ 7 nr. 3](for-2024-12-12-3074-fkt-forskriften.md) kan kun gis til kommuner.
+
+Som produksjonsdyr i landbruket regnes i denne forskrift bufe og tamrein. Bufe defineres som sau, geit, storfe og hest. Det kan også gis tilskudd til tiltak som er direkte tapsreduserende for produksjonsdyr i landbruket som bifolk/bikuber, gris, fjørfe og hjortevilt.
+
+Det kan også gis tilskudd til enkeltpersoner for tiltak som har til hensikt å dempe konflikter forårsaket av rovvilt, se [§ 9](for-2024-12-12-3074-fkt-forskriften.md).
+
+## § 4. Hva kan det tildeles tilskudd til
+
+Tilskuddsordningen gir støtte til følgende tiltak:
+
+- tiltak med direkte tapsreduserende effekt bufe [(§ 5)](for-2024-12-12-3074-fkt-forskriften.md)
+- tiltak med direkte tapsreduserende effekt tamrein [(§ 6)](for-2024-12-12-3074-fkt-forskriften.md)
+- andre tiltak som er direkte tapsreduserende [(§ 7)](for-2024-12-12-3074-fkt-forskriften.md)
+- tiltak for å øke kunnskapsgrunnlag [(§ 8)](for-2024-12-12-3074-fkt-forskriften.md)
+- konfliktdempende tiltak [(§ 9)](for-2024-12-12-3074-fkt-forskriften.md).
+
+I konkrete skadesituasjoner kan det være behov for midler til akutte tapsreduserende tiltak, se [§§ 5](for-2024-12-12-3074-fkt-forskriften.md), [6](for-2024-12-12-3074-fkt-forskriften.md) og [7](for-2024-12-12-3074-fkt-forskriften.md). Slike tiltak skal på forhånd avklares med statsforvalteren.
+
+## § 5. Tiltak med direkte tapsreduserende effekt bufe
+
+Foretak med bufe kan søke om midler til tiltak som har en direkte tapsreduserende effekt, eller der slik effekt kan oppnås ved kombinasjon av tiltak. For tiltak hvor nasjonale standarder er utarbeidet, skal standarden følges om ikke annet er bestemt i vedtak om tilskudd.
+
+Som tapsreduserende tiltak regnes:
+
+1. tiltak som fysisk skiller rovdyr og bufe
+   a. tidlig nedsanking av bufe
+   b. forsinket slipp på utmarksbeite
+   c. flytting av bufe til mindre rovviltutsatte beiteområder
+   d. hjemmebeite
+   e. beredskapsareal
+   f. rovdyravvisende gjerder
+   g. bruk av vokterhund på inngjerdet beite.
+2. utvidet tilsynsaktivitet i kombinasjon med følgende tiltak rettet mot produksjon av bufe
+   a. bruk av vokterhund
+   b. planlagt utvidet tilsyn som en nødvendig del av tiltak nevnt i [§ 5 nr. 1](for-2024-12-12-3074-fkt-forskriften.md).
+3. Kortvarig ekstraordinært tilsyn ved akutte rovdyrskader som utføres kveld, natt og morgen og i kombinasjon med bruk av andre tiltak.
+
+## § 6. Tiltak med direkte tapsreduserende effekt tamrein
+
+Foretak med tamrein kan søke om midler til tiltak som har en direkte tapsreduserende effekt, eller der slik effekt kan oppnås ved kombinasjon av tiltak. For tiltak hvor nasjonale standarder er utarbeidet, skal standarden følges om ikke annet er bestemt i vedtak om tilskudd.
+
+Som tapsreduserende tiltak regnes:
+
+1. tiltak som fysisk skiller rovdyr og tamrein
+   a. flytting av tamrein til mindre rovviltutsatte beiteområder
+   b. kalving i gjerde
+   c. tidlig slakting av kalv for å unngå tap til rovvilt og tidlig samling som gjennomføres i forbindelse med slik slakting.
+2. utvidet tilsynsaktivitet i kombinasjon med følgende tiltak rettet mot produksjon av tamrein
+   a. fôring av tamrein i korte perioder av året for å samle flokken med formål å unngå rovvilttap
+   b. planlagt utvidet tilsyn som en nødvendig del av tiltak nevnt i [§ 6 nr. 1](for-2024-12-12-3074-fkt-forskriften.md).
+3. Kortvarig ekstraordinært tilsyn ved akutte rovdyrskader og i kombinasjon med bruk av andre tiltak.
+
+## § 7. Andre tiltak som er direkte tapsreduserende
+
+Som slike tiltak regnes:
+
+1. tilskudd som bidrar til mer effektiv jakt, felling og fangst
+2. tilskudd til skadefellingslag ved vedtak om skadefelling, jf. [rovviltforskriften §§ 9](for-2005-03-18-242-rovviltforskriften.md) og [9a](for-2005-03-18-242-rovviltforskriften.md)
+3. tilskudd til kommuner for tilrettelegging, organisering og forberedelser for fremtidige skadefellingsoppdrag i regi av kommunale/interkommunale fellingslag
+4. andre direkte tapsreduserende tiltak som ikke dekkes av [§§ 5](for-2024-12-12-3074-fkt-forskriften.md) og [6](for-2024-12-12-3074-fkt-forskriften.md).
+
+## § 8. Tiltak for å øke kunnskapsgrunnlaget
+
+Utvikling av praksis og erfaring som senere kan danne grunnlag for iverksettelse av nye tiltak kan prioriteres innenfor ordningen. Som slike tiltak regnes:
+
+1. utprøving av nye forebyggende tiltak mot rovviltskader, samt evaluering av effekter av igangsatte tiltak
+2. tiltak som avklarer tapsforhold, herunder elektronisk overvåking
+3. forsknings- og utredningsoppgaver som bidrar til utvikling og iverksettelse av effektive forebyggende tiltak
+4. nasjonale tiltak som øker kunnskapsgrunnlaget som kommer den todelte målsettingen til gode.
+
+## § 9. Konfliktdempende tiltak
+
+Tiltaket skal bidra til kunnskap om og forståelse for rovvilt, rovviltforvaltning og konflikthåndtering. Tiltak rettet mot barn og unge skal prioriteres.
+
+## § 10. Krav til søknaden
+
+Søknad om tilskudd skal leveres i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen er 1. februar. Statsforvalteren kan i enkelte tilfeller utsette fristen.
+
+Søknader om tiltak etter [§§ 5](for-2024-12-12-3074-fkt-forskriften.md), [6](for-2024-12-12-3074-fkt-forskriften.md) og [7](for-2024-12-12-3074-fkt-forskriften.md) behandles av statsforvalteren i søkerens bostedsfylke/reinbeiteområde. Søknader av nasjonal karakter i [§§ 8](for-2024-12-12-3074-fkt-forskriften.md) og [9](for-2024-12-12-3074-fkt-forskriften.md) behandles av Miljødirektoratet.
+
+Søknaden skal inneholde informasjon om:
+
+a. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
+b. eventuelle opplysninger om søkerens særlige kvalifikasjoner for å gjennomføre tiltaket
+c. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
+d. søknadsbeløp
+e. detaljert budsjett
+f. om det er søkt eller vil bli søkt om tilskudd fra andre offentlige instanser til det omsøkte tiltaket
+g. egenfinansiering og egen arbeidsinnsats
+h. opplysning om søker også utøver økonomisk aktivitet, jf. punkt [§ 14](for-2024-12-12-3074-fkt-forskriften.md)
+i. om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+
+Søknader om tilskudd til akutte skadereduserende tiltak skal leveres i elektronisk søknadssenter etter nærmere avtale med statsforvalteren.
+
+Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
+
+## § 11. Tilleggsopplysninger, kontroll og befaring før vedtak
+
+Statsforvalteren/Miljødirektoratet kan kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden, enn de som fremgår av [§ 10](for-2024-12-12-3074-fkt-forskriften.md) og den mottatte søknaden.
+
+Statsforvalteren/Miljødirektoratet kan i tillegg til opplysningene i søknaden
+
+a. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+b. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+c. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+
+## § 12. Søkers opplysningsplikt
+
+Søker plikter straks å melde fra til statsforvalteren eller Miljødirektoratet dersom
+
+a. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+b. uberettiget tilskudd er utbetalt.
+
+## § 13. Behandling av søknad om tilskudd
+
+Statsforvalteren/Miljødirektoratet avgjør søknaden etter en faglig skjønnsmessig vurdering. I vurderingen skal det sikres at tiltaket er i samsvar med [§§ 5](for-2024-12-12-3074-fkt-forskriften.md)–[9](for-2024-12-12-3074-fkt-forskriften.md) og formålet i [§ 1](for-2024-12-12-3074-fkt-forskriften.md).
+
+Statsforvalterens behandling av søknader skal være i tråd med forvaltningsplan for regionen og Rovviltnemndas føringer.
+
+Miljødirektoratet er klageinstans for vedtak som er fattet av statsforvalteren. Klima- og miljødepartementet er klageinstans for vedtak som er fattet av Miljødirektoratet.
+
+## § 14. Tilskuddsmottakere som driver økonomisk virksomhet
+
+Tilskudd utbetalt etter denne forskrift skal ikke kryssubsidiere økonomisk aktivitet eller vri eller true med å vri konkurransen i EØS-området. Begrepet økonomisk aktivitet skal fortolkes i samsvar med foretaksdefinisjonen etter [EØS-avtalens](../lover/lov-1992-11-27-109-eos-loven.md) regler om offentlig støtte, som sier at et foretak driver økonomisk aktivitet ved å levere varer eller tjenester i et marked.
+
+Tilskuddsmottakere som har både økonomisk og ikke-økonomisk aktivitet skal ha adskilte regnskap for disse. Mottakerne må ha interne retningslinjer som sikrer at felleskostnader fordeles på en forholdsmessig måte mellom den økonomiske aktiviteten og den ikke-økonomiske aktiviteten.
+
+## § 15. Nasjonale satser
+
+Klima- og miljødepartementet fastsetter sats for utbetaling av tilskudd til kompensasjon for tidlig nedsanking av sau og for hjemmebeite hele beitesesongen. Fastsettelsen av satsene skjer på bakgrunn av en vurdering av Norsk institutt for bioøkonomi (NIBIO). Satsene justeres hvert femte år.
+
+Sats for avtalt tidlig nedsanking er 12 kroner per dyr og dag. Sats for avtalt hjemmebeite er 13 kroner per dyr og dag, inkludert utmarksbeitetilskudd.
+
+## § 16. Krav til rapportering
+
+Mottaker av tilskudd skal rapportere på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i vedtaket om tildeling av tilskudd. Rapporten skal minimum inneholde en beskrivelse av:
+
+a. hvordan tiltaket ble gjennomført
+b. om tiltaket ble gjennomført i henhold til avtale
+c. utfordringer underveis
+d. hvorfor/hvorfor ikke tiltaket hadde effekt.
+
+Nærmere krav om rapportering gis i vedtaket om tilskudd.
+
+## § 17. Oppfølging og kontroll
+
+Det gis adgang til at statsforvalteren og Miljødirektoratet kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket og at opplysningene i søknaden er riktige.
+
+Statsforvalteren og Miljødirektoratet gis rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
+
+Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
+
+## § 18. Stans og tilbakebetaling av tilskudd
+
+Statsforvalteren og Miljødirektoratet kan fatte vedtak om midlertidig stans i utbetaling av tilskudd til tilskuddsmottaker som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
+
+Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren ikke anvender tilskuddet i samsvar med kravene i forskriften og tilskuddsvedtaket, kan vedtak om tilskudd omgjøres. Det uriktig utbetalte beløpet kan kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
+
+Dersom rapport ikke er levert innen den frist som er gitt i vedtaket om tilskudd, kan tilsagnet bortfalle, og utbetalt tilskudd kreves tilbakebetalt helt eller delvis.
+
+Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som er for mye utbetalt kreves tilbakebetalt eller trekkes fra på et tilskudd som tildeles senere.
+
+Ved manglende tilbakebetaling vil tilskuddsmottaker ikke være søknadsberettiget før tilbakebetaling er foretatt.
+
+## § 19. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2025. Samtidig oppheves [forskrift 1. januar 2013 nr. 3 om tilskudd til forebyggende tiltak mot rovviltskader og konfliktdempende tiltak](https://lovdata.no/forskrift/2013-01-01-3).

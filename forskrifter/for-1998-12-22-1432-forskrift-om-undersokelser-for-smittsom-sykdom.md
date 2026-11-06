@@ -1,0 +1,77 @@
+# Forskrift om gjennomføring m.m. av undersøkelser for smittsom sykdom av biologisk materiale for ikke-diagnostiske formål.
+
+- **Korttittel:** Forskrift om undersøkelser for smittsom sykdom
+- **Datokode:** FOR-1998-12-22-1432
+- **DokumentID:** SF/forskrift/1998-12-22-1432
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavd.
+- **Hjemmel:** lov 05.08.1994 nr. 55/§3-7
+- **Publisert i:** I 1998 2258
+- **I kraft fra:** 1999-01-01
+- **Siste endring i kraft:** 2013-01-17
+- **Sist endret ved:** forskrift 17.01.2013 nr. 61
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Statens helsetilsyn 22. desember 1998 med hjemmel i lov av 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 3-7 femte ledd. Endret ved forskrifter 19 des 2001 nr. 1541, 17 jan 2013 nr. 61.
+- **Kilde:** <https://lovdata.no/forskrift/1998-12-22-1432>
+
+## Kap. 1. Formål, virkeområde, definisjoner
+
+### § 1-1. Formål
+
+Forskriften har som formål at gjennomføring m.m. av undersøkelser av tilgjengelig biologisk materiale med henblikk på en smittsom sykdom skal skje forsvarlig slik at faglige og personvernmessige hensyn blir ivaretatt.
+
+Forskriften har også til formål at resultatene av kartleggingsundersøkelser og metodeutprøving skal brukes til nytte for smittevernarbeidet.
+
+### § 1-2. Virkeområde
+
+Denne forskriften gjelder for alle laboratorier eller institusjoner som utfører undersøkelser med henblikk på en smittsom sykdom i prøvemateriale fra mennesker.
+
+### § 1-3. Definisjoner
+
+Med *biologisk materiale* menes her prøver av blod, serum, vevsprøver, sekreter, urin, avføring, puss m.m. fra syke eller friske mennesker. Mikrobiologiske isolater omfattes ikke.
+
+Med *tilgjengelig* menes at materiale, som er avgitt/innsamlet i et bestemt øyemed, er oppbevart og kan stilles til disposisjon for annet formål.
+
+Med *ikke-diagnostisk formål* menes at biologisk materiale nyttes til analyser som utføres i annen hensikt enn diagnosestilling, valg av behandling eller kontroll av den som har avgitt materialet.
+
+Med *kartleggingsundersøkelse* forstås en systematisk undersøkelse av et antall prøver av en bestemt art med henblikk på en bestemt smittsom sykdom ved påvisning av smittestoffet direkte, eller av karakteristiske markører eller antistoffer. Seroepidemiologiske undersøkelser som brukes som betegnelse når prøvematerialet er serum, omfattes her av betegnelsen kartleggingsundersøkelser.
+
+Med *metodeutprøving* forstås en systematisk bruk av tilgjengelig biologisk materiale for å fastslå om en analysemetode egner seg for et gitt formål.
+
+Med *avidentifisert* forstås at opplysningene ikke er personidentifiserbare uten gjennom en kodenøkkel.
+
+## Kap. 2. Gjennomføring m.v.
+
+### § 2-1. Faglige krav
+
+Kartleggingsundersøkelser og metodeutprøvinger skal utføres i henhold til vanlig god faglig praksis. Dette innebærer at det skal foreligge en begrunnelse, at utførelsen har god kvalitet og at resultatene vurderes korrekt. Det skal blant annet vurderes hvilke individuelle resultater som kan foranledige videre tiltak i smittevernøyemed, se [§ 2-4](for-1998-12-22-1432-forskrift-om-undersokelser-for-smittsom-sykdom.md).
+
+### § 2-2. Personvern
+
+Prøvemateriale som nyttes til en undersøkelse som omfattes av denne forskriften, skal være avidentifisert. Kun laboratorieleder skal ha tilgang til opplysninger/kodenøkkel som forbinder opplysninger fra prøvematerialet med den person materialet stammer fra.
+
+### § 2-3. Rapportering
+
+Det laboratorium eller den institusjon som har ansvaret for gjennomføringen av en kartleggingsundersøkelse skal avgi rapport til Helsedirektoratet når undersøkelsen er avsluttet med tilråding om eventuelle tiltak.
+
+Rapporteringsplikten kan oppfylles ved å publisere resultatene av undersøkelsen i fagtidsskrift. Resultater av metodeutprøvinger skal gjøres kjent for relevante laboratorier.
+
+*Endret ved [forskrifter 19 des 2001 nr. 1541](https://lovdata.no/forskrift/2001-12-19-1541) (i kraft 1 jan 2002), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61).*
+
+### § 2-4. Tilbakeføring
+
+Gjøres det ved undersøkelser eller utprøvinger som omfattes av denne forskriften et analysefunn som viser at den person prøvematerialet stammer fra har en smittsom sykdom som kan behandles eller krever tiltak for å motvirke smitteoverføring, skal den som er ansvarlig for undersøkelsen/utprøvingen bringe personens identitet på det rene og underrette behandlende lege eller kommunelegen om funnet.
+
+Legen som blir underrettet, skal informere personen det gjelder om funnet og gi tilbud om videre diagnostikk og behandling samt gjennomføre tiltak som kan motvirke overføring av smitte. Er behandlende lege og kommunelegen ikke samme person skal oppfølgingen skje i samråd med kommunelegen. Foreligger det fare for smitteoverføring, skal kommunelegen treffe de nødvendige smitteforebyggende tiltak.
+
+## Kap. 3. Andre bestemmelser
+
+### § 3-1. Økonomiske forhold
+
+Et laboratorium eller en institusjon som har fått pålegg av Helsedirektoratet om å utføre en undersøkelse der tilgjengelig biologisk materiale nyttes, har krav på å få sine utgifter refundert av Helsedirektoratet. Undersøkelsen skal ikke settes i verk før et utgiftsbudsjett er satt opp og tilsagn om dekning av utgiftene er gitt.
+
+*Endret ved [forskrifter 19 des 2001 nr. 1541](https://lovdata.no/forskrift/2001-12-19-1541) (i kraft 1 jan 2002), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61).*
+
+### § 3-2. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 1999.

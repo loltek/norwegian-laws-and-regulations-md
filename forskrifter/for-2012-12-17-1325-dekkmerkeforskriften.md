@@ -1,0 +1,60 @@
+# Forskrift om merking av dekk vedrørende drivstoffeffektivitet m.m. (dekkmerkeforskriften)
+
+- **Korttittel:** Dekkmerkeforskriften
+- **Datokode:** FOR-2012-12-17-1325
+- **DokumentID:** SF/forskrift/2012-12-17-1325
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Vegdirektoratet
+- **Hjemmel:** lov 18.12.1981 nr. 90/§3; lov 18.12.1981 nr. 90/§6; lov 18.12.1981 nr. 90/§7; lov 18.12.1981 nr. 90/§8; lov 18.12.1981 nr. 90/§10; forskrift 07.12.2012 nr. 1185; forskrift 14.12.2012 nr. 1268; forskrift 21.06.2013 nr. 715; forskrift 02.07.2013 nr. 891
+- **Publisert i:** I 2012 hefte 15
+- **Kunngjort:** 2012-12-21 15:10
+- **I kraft fra:** 2013-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 17.12.2025 nr. 2714 fra 2026-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Vegdirektoratet 17. desember 2012 med hjemmel i lov 18. desember 1981 nr. 90 om merking av forbruksvarer m.v. § 3, § 6, § 7 fjerde ledd, § 8 og § 10 fjerde ledd, jf. delegeringsvedtak 7. desember 2012 nr. 1185 og delegeringsvedtak 14. desember 2012 nr. 1268. Tilføyd hjemmel: Delegeringsvedtak 21. juni 2013 nr. 715 og delegeringsvedtak 2. juli 2013 nr. 891. EØS-henvisninger: EØS-avtalen vedlegg IV nr. 53 (forordning (EU) 2020/740). Endret ved forskrifter 8 juli 2013 nr. 895, 19 des 2019 nr. 2054 (i kraft 1 jan 2020), 17 mars 2020 nr. 438 (i kraft 1 mai 2020), 19 sep 2022 nr. 1652, 6 okt 2022 nr. 1726, 19 des 2022 nr. 2522, 17 des 2025 nr. 2714 (i kraft 1 jan 2026).
+- **Kilde:** <https://lovdata.no/forskrift/2012-12-17-1325>
+
+## § 1. Gjennomføring av forordning om merking av dekk mv.
+
+[EØS-avtalen vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4) nr. 53 (Europaparlaments- og rådsforordning [(EU) 2020/740](https://lovdata.no/eu/32020r0740) av 25. mai 2020 om merking av dekk med hensyn til drivstoffeffektivitet og andre parametre, endring av forordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369), og oppheving av forordning [(EF) nr. 1222/2009](https://lovdata.no/eu/32009r1222)), gjelder som forskrift.
+
+*Endret ved [forskrifter 8 juli 2013 nr. 895](https://lovdata.no/forskrift/2013-07-08-895), [19 sep 2022 nr. 1652](https://lovdata.no/forskrift/2022-09-19-1652), [6 okt 2022 nr. 1726](https://lovdata.no/forskrift/2022-10-06-1726).*
+
+## § 2. Tilsyn
+
+Statens vegvesen fører tilsyn med at dekkleverandører, -distributører og enhver annen som utstiller dekk i klassene C1, C2 og C3 på et utsalgssted eller for fjernsalg, oppfyller de krav som er listet opp i art. 4, 5, 6, 7 og 8, jf. vedlegg I, II, III, IV og VII i denne forordning, jf. [§ 1](for-2012-12-17-1325-dekkmerkeforskriften.md).
+
+Foretak som nevnt i første ledd plikter å gi Statens vegvesen adgang til lokalene, utlevere dokumenter og bistå slik det ellers er nødvendig for å gjennomføre tilsyn. Statens vegvesen kan pålegge leverandøren å dekke utgiftene til undersøkelser angitt i vedlegg VI i forordningen, dersom dekket viser seg å være feilmerket.
+
+*Endret ved [forskrifter 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [19 sep 2022 nr. 1652](https://lovdata.no/forskrift/2022-09-19-1652).*
+
+## § 3. Påbud om retting og tvangsmulkt
+
+Statens vegvesen kan treffe vedtak om pålegg om retting innen en gitt frist dersom tilsyn viser at foretak som nevnt i [§ 2](for-2012-12-17-1325-dekkmerkeforskriften.md) første ledd overtrer bestemmelsene i art. 4, 5, 6, 7 og 8, jf. vedlegg I, II, III, IV og VII i forordningen.
+
+Dersom retting ikke er foretatt innen gitt frist, kan Statens vegvesen fastsette en tvangsmulkt. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt som løper fra det tidspunktet en gitt frist for retting er overskredet og til retting er foretatt. Statens vegvesen kan gi nærmere retningslinjer for ileggelse av tvangsmulkt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. [tvangsfullbyrdelsesloven § 7-2](../lover/lov-1992-06-26-86-tvangsfullbyrdelsesloven.md) første ledd bokstav d. Tvangsmulkten kreves inn av Innkrevingsmyndigheten og tilfaller staten.
+
+*Endret ved [forskrifter 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [17 mars 2020 nr. 438](https://lovdata.no/forskrift/2020-03-17-438) (i kraft 1 mai 2020), [19 sep 2022 nr. 1652](https://lovdata.no/forskrift/2022-09-19-1652), [17 des 2025 nr. 2714](https://lovdata.no/forskrift/2025-12-17-2714) (i kraft 1 jan 2026).*
+
+## § 4. Overtredelsesgebyr
+
+Dersom noen på vegne av foretak som nevnt i [§ 2](for-2012-12-17-1325-dekkmerkeforskriften.md) første ledd forsettlig eller uaktsomt overtrer bestemmelsene fastsatt i art. 6, jf. vedlegg II, i forordningen, kan Statens vegvesen ilegge utsalgsstedet et overtredelsesgebyr.
+
+Overtredelsesgebyret utmåles i det enkelte tilfelle. Utmålingen skal foretas med utgangspunkt i de hensyn som oppregnes i [forvaltningsloven § 46](../lover/lov-1967-02-10-forvaltningsloven.md) andre ledd. Øvre ramme for gebyret fastsettes til 20 ganger rettsgebyret, jf. [lov om rettsgebyr](../lover/lov-1982-12-17-86-rettsgebyrloven.md). Statens vegvesen kan gi nærmere retningslinjer for utmålingen av overtredelsesgebyret.
+
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg, jf. [tvangsfullbyrdelsesloven § 7-2 første ledd bokstav d](../lover/lov-1992-06-26-86-tvangsfullbyrdelsesloven.md). Overtredelsesgebyret kreves inn av Innkrevingsmyndigheten og tilfaller staten.
+
+*Endret ved [forskrifter 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [19 sep 2022 nr. 1652](https://lovdata.no/forskrift/2022-09-19-1652), [19 des 2022 nr. 2522](https://lovdata.no/forskrift/2022-12-19-2522), [17 des 2025 nr. 2714](https://lovdata.no/forskrift/2025-12-17-2714) (i kraft 1 jan 2026).*
+
+## § 5. Klage
+
+Enkeltvedtak fattet etter denne forskriften kan påklages til Vegdirektoratet.
+
+*Tilføyd ved forskrift [19 sep 2022 nr. 1652](https://lovdata.no/forskrift/2022-09-19-1652).*
+
+## § 6. Ikrafttreden
+
+Denne forskriften trer i kraft 1. januar 2013.
+
+*Endret ved forskrift [19 sep 2022 nr. 1652](https://lovdata.no/forskrift/2022-09-19-1652) (tidligere § 5).*

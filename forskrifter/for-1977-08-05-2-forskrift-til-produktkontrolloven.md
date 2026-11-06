@@ -1,0 +1,152 @@
+# Forskrifter om gjennomføring av lov om kontroll med produkter og forbrukertjenester
+
+- **Korttittel:** Forskrift til produktkontrolloven
+- **Datokode:** FOR-1977-08-05-2
+- **DokumentID:** SF/forskrift/1977-08-05-2
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Avdeling for klima- og forurensningssaker
+- **Hjemmel:** lov 11.06.1976 nr. 79/§9; lov 11.06.1976 nr. 79/§15
+- **Publisert i:** I 1977 769
+- **I kraft fra:** 1977-09-01
+- **Siste endring i kraft:** 2014-01-01
+- **Sist endret ved:** forskrift 19.12.2013 nr. 1757 fra 2014-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 5. august 1977 med hjemmel i lov 11. juni 1976 nr. 79 om produktkontroll §§ 9 og 15. Fremmet av Miljøverndepartementet. Endret ved forskrifter 7 sep 1990 nr. 731, 14 juni 1991 nr. 378, 11 mai 1994 nr. 344, 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284, 19 des 2013 nr. 1757.
+- **Kilde:** <https://lovdata.no/forskrift/1977-08-05-2>
+
+## Kap. 1. Produktkontrollmyndighetene og deres virksomhet.
+
+### § 1. (Produktkontrollmyndighetene)
+
+Produktkontrollmyndighetene er:
+
+1. Klima- og miljødepartementet
+2. Barne- og familiedepartementet
+3. Elektrisitetstilsynet
+4. Miljødirektoratet.
+
+Klima- og miljødepartementet og Barne- og familiedepartementet kan etter avtale med vedkommende departement tillegge andre myndigheter eller institusjoner oppgaver etter produktkontrolloven.
+
+*Endret ved [forskrifter 11 mai 1994 nr. 344](https://lovdata.no/forskrift/1994-05-11-344), [21 juni 2010 nr. 1073](https://lovdata.no/forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](https://lovdata.no/forskrift/2013-03-15-284) (i kraft 1 juli 2013), [19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+### § 1a. (Fordeling av myndighet mellom Klima- og miljødepartementet og Barne- og familiedepartementet)
+
+Under Klima- og miljødepartementet ligger myndighet etter lov om produktkontroll til forebyggelse av at produkt medfører miljøforstyrrelser i form av forurensning, avfall, støy eller lignende, samt forebyggelse av at produkt medfører helseskade som følge av kjemiske egenskaper.
+
+Under Barne- og familiedepartementet hører myndighet etter lov om kontroll med produkter og forbrukertjenester til forebyggelse av at produkt medfører helseskade som følge av fysiske og/eller mekaniske egenskaper ved produkt, termiske egenskaper, brannegenskaper eller andre egenskaper som kan medføre helseskade og som ikke ligger under Klima- og miljødepartementets myndighetsområde. Under Barne- og familiedepartementet hører videre myndighet til å forebygge helseskader som følge av forbrukertjenester.
+
+*Tilføyd ved [forskrift 11 mai 1994 nr. 344](https://lovdata.no/forskrift/1994-05-11-344), endret ved [forskrift 19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+### § 2. (Opphevet 14 juni 1991 nr. 378.)
+
+### § 3. (Miljødirektoratets oppgaver)
+
+Miljødirektoratet skal ha det administrative hovedansvar for gjennomføringen av den del av produktkontrolloven som er underlagt Klima- og miljødepartementet jfr. [§ 1 a](for-1977-08-05-2-forskrift-til-produktkontrolloven.md).
+
+*Endret ved [forskrifter 21 juni 2010 nr. 1073](https://lovdata.no/forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](https://lovdata.no/forskrift/2013-03-15-284) (i kraft 1 juli 2013), [19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+### § 3a. (Elektrisitetstilsynets oppgaver)
+
+Elektrisitetstilsynet skal ha det administrative hovedansvar for gjennomføringen av den del av produktkontrolloven som er underlagt Barne- og familiedepartementet, jfr. [§ 1 a](for-1977-08-05-2-forskrift-til-produktkontrolloven.md).
+
+*Tilføyd ved [forskrift 11 mai 1994 nr. 344](https://lovdata.no/forskrift/1994-05-11-344).*
+
+### § 4. (Veiledningsplikt)
+
+Elektrisitetstilsynet og Miljødirektoratet skal så langt praktisk mulig gi publikum, næringsdrivende og offentlige organ opplysning for å vurdere om produkt kan medføre helseskade eller miljøforstyrrelser som nevnt i [lovens § 1](for-1977-08-05-2-forskrift-til-produktkontrolloven.md).
+
+Miljødirektoratet og Elektrisitetstilsynet skal for øvrig i den utstrekning det er praktisk mulig gi publikum, næringsdrivende og offentlig organ nødvendig veiledning og informasjon om de regler som gjelder for et produkt og om den praksis som følges.
+
+Elektrisitetstilsynet skal dessuten gi opplysninger, veiledning og informasjon, som nevnt i første og annet ledd, forsåvidt gjelder forbrukertjenester.
+
+Det skal særlig legges vekt på å gi bistand til mindre virksomheter.
+
+*Endret ved [forskrifter 11 mai 1994 nr. 344](https://lovdata.no/forskrift/1994-05-11-344), [21 juni 2010 nr. 1073](https://lovdata.no/forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](https://lovdata.no/forskrift/2013-03-15-284) (i kraft 1 juli 2013).*
+
+### § 5. (Forskrifter etter produktkontrolloven)
+
+Myndighet til å gi forskrifter etter [produktkontrollovens § 4](../lover/lov-1976-06-11-79-produktkontrolloven.md) tilligger Klima- og miljødepartementet og Barne- og familiedepartementet. Dersom forskriften er av prinsipiell interesse skal det andre departement uttale seg før forskriften vedtas. Nye fellesforskrifter fastsettes av Klima- og miljødepartementet og Barne- og familiedepartementet i fellesskap.
+
+*Endret ved [forskrift 19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+### § 6. (Myndighet til å treffe enkeltvedtak etter produktkontrolloven)
+
+Elektrisitetstilsynet og Miljødirektoratet kan på sine respektive områder jfr. [§ 1 a](for-1977-08-05-2-forskrift-til-produktkontrolloven.md):
+
+1. Treffe enkeltvedtak etter [produktkontrollovens § 4](../lover/lov-1976-06-11-79-produktkontrolloven.md).
+2. Gi næringsdrivende og andre pålegg om å fremskaffe opplysninger eller iverksette undersøkelser i overensstemmelse med [produktkontrollovens § 5](../lover/lov-1976-06-11-79-produktkontrolloven.md).
+3. Nedlegge midlertidig forbud etter [produktkontrollovens § 6](../lover/lov-1976-06-11-79-produktkontrolloven.md).
+4. Treffe vedtak om å ilegge eller frafalle tvangsmulkt etter [produktkontrollovens § 13](../lover/lov-1976-06-11-79-produktkontrolloven.md).
+5. Treffe vedtak etter lov om produktkontroll [§ 6](for-1977-08-05-2-forskrift-til-produktkontrolloven.md)a.
+
+*Endret ved [forskrifter 11 mai 1994 nr. 344](https://lovdata.no/forskrift/1994-05-11-344), [21 juni 2010 nr. 1073](https://lovdata.no/forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](https://lovdata.no/forskrift/2013-03-15-284) (i kraft 1 juli 2013).*
+
+### § 7. (Plikt til å føre tilsyn)
+
+Elektrisitetstilsynet og Miljødirektoratet skal føre tilsyn etter [produktkontrollovens § 8](../lover/lov-1976-06-11-79-produktkontrolloven.md).
+
+*Opphevet ved [forskrift 14 juni 1991 nr. 378](https://lovdata.no/forskrift/1991-06-14-378), tilføyd ved [forskrift 11 mai 1994 nr. 344](https://lovdata.no/forskrift/1994-05-11-344), endret ved [forskrifter 21 juni 2010 nr. 1073](https://lovdata.no/forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](https://lovdata.no/forskrift/2013-03-15-284) (i kraft 1 juli 2013).*
+
+### §§ 8-10. (Opphevet 14 juni 1991 nr. 378.)
+
+### § 11. (Behandling av opplysninger det gjelder taushetsplikt for)
+
+Klima- og miljødepartementet og Barne- og familiedepartementet skal på grunnlag av innstilling fra Miljødirektoratet og Elektrisitetstilsynet fastsette instruks om hvordan dokumenter eller registre som inneholder opplysninger som det gjelder taushetsplikt for, skal behandles, oppbevares eller ødelegges og hvordan Miljødirektoratet og Elektrisitetstilsynet skal forholde seg for å sikre at taushetsplikten blir overholdt.
+
+*Endret ved [forskrifter 11 mai 1994 nr. 344](https://lovdata.no/forskrift/1994-05-11-344), [21 juni 2010 nr. 1073](https://lovdata.no/forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](https://lovdata.no/forskrift/2013-03-15-284) (i kraft 1 juli 2013), [19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+### § 12. (Klage)
+
+Klager over vedtak truffet av Miljødirektoratet avgjøres av Klima- og miljødepartementet.
+
+Klage over vedtak truffet av Elektrisitetstilsynet avgjøres av Barne- og familiedepartementet.
+
+*Endret ved [forskrifter 11 mai 1994 nr. 344](https://lovdata.no/forskrift/1994-05-11-344), [21 juni 2010 nr. 1073](https://lovdata.no/forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](https://lovdata.no/forskrift/2013-03-15-284) (i kraft 1 juli 2013), [19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+## Kap. II. Om behandling av forvaltningssaker som faller inn under flere myndigheters ansvarsområde.
+
+### § 13. (Hovedansvarlig myndighet)
+
+I saker som berører flere kontrollmyndigheters ansvarsområde, skal én myndighet etter bestemmelsen i [§ 14](for-1977-08-05-2-forskrift-til-produktkontrolloven.md) ha hovedansvaret for saksbehandlingen.
+
+Organ som har hovedansvaret for behandling av en sak, skal sørge for:
+
+1. Sakens fremdrift.
+2. Samordne innhenting av opplysninger og kontakt med publikum og sakens parter.
+3. Så vidt mulig samordne de forskjellige myndigheters vedtak i tid og innhold.
+
+### § 14. (Ansvarsfordeling)
+
+Produktkontrollmyndighetene skal ha hovedansvaret for saker som behandles etter både produktkontrolloven og spesielle kontrollover. Dette gjelder likevel ikke dersom saken i det vesentlige reiser spørsmål som faller inn under en annen kontrollmyndighet, eller noe annet avtales mellom de berørte myndigheter.
+
+I tvilstilfelle skal produktkontrollmyndighetene ha hovedansvaret inntil de berørte organer i fellesskap har bestemt noe annet.
+
+### § 15. (Varslingsplikt)
+
+Når produktkontrollmyndighetene får en sak til behandling eller selv tar opp en sak som berører ansvarsområdet til annen myndighet, skal vedkommende myndighet straks varsles om dette.
+
+I varslet skal det kort gjøres rede for hva saken gjelder. I varslet skal det også stå at det annet organ innen en nærmere fastsatt frist etter at varslet er mottatt, må gi svar på om det ønsker å behandle saken.
+
+### § 16. (Arbeidet med saker som behandles av flere myndigheter)
+
+Produktkontrollmyndighetene skal så vidt mulig sørge for at saker som det har hovedansvaret for etter [§ 14](for-1977-08-05-2-forskrift-til-produktkontrolloven.md) blir behandlet så raskt at den samordnete behandling ikke fører til unødige forsinkelser. Det skal som hovedregel i samråd med vedkommende myndighet settes frister for andre organers behandling av saken.
+
+I saker som andre myndigheter har hovedansvaret for, skal produktkontrollmyndighetene innrette sitt arbeid slik at de fastsatte frister holdes.
+
+### § 17. (Veiledning om forvaltningens ansvarsområder)
+
+Produktkontrollmyndighetene skal ved henvendelse fra publikum og andre gi opplysninger om hvilket organ som har hovedansvaret for saken henvendelsen gjelder. Om nødvendig skal produktkontrollmyndighetene gi opplysninger om hvem henvendelsen kan rettes til i andre forvaltningsorganer.
+
+Dersom produktkontrollmyndighetene kan gi svar på spørsmål, skal den gjøre det selv om saken hører under et annet organ.
+
+## Kap. III. Forskjellige bestemmelser.
+
+### § 18. (Endring av forskriftene)
+
+Barne- og familiedepartementet og Klima- og miljødepartementet kan i fellesskap foreta endringer av disse forskriftene.
+
+*Endret ved [forskrift 19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+### § 19. (Ikrafttredelse)
+
+Disse forskrifter trer ikraft 1. september 1977.

@@ -1,0 +1,44 @@
+# Vedtak om delegering av myndighet til Direktoratet for medisinske produkter etter legemiddelloven
+
+- **Datokode:** FOR-2024-02-14-256
+- **DokumentID:** DEL/forskrift/2024-02-14-256
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Spesialisthelsetjenesteavdelingen
+- **Hjemmel:** lov 04.12.1992 nr. 132/§2; lov 04.12.1992 nr. 132/§2b; lov 04.12.1992 nr. 132/§4; lov 04.12.1992 nr. 132/§8; lov 04.12.1992 nr. 132/§9; lov 04.12.1992 nr. 132/§10; lov 04.12.1992 nr. 132/§12; lov 04.12.1992 nr. 132/§13; lov 04.12.1992 nr. 132/§13a; lov 04.12.1992 nr. 132/§13b; lov 04.12.1992 nr. 132/§14; lov 04.12.1992 nr. 132/§17; lov 04.12.1992 nr. 132/§20; lov 04.12.1992 nr. 132/§22; lov 04.12.1992 nr. 132/§23; lov 04.12.1992 nr. 132/§25a; lov 04.12.1992 nr. 132/§28; lov 04.12.1992 nr. 132/§28a; lov 04.12.1992 nr. 132/§32; forskrift 08.06.1995 nr. 521
+- **Kunngjort:** 2024-02-14 14:45
+- **I kraft fra:** 2024-02-14
+- **Merknad:** Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 14. februar 2024 med hjemmel i lov 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) § 2, § 2b, § 4, § 8, § 9, § 10, § 12, § 13, § 13a, § 13b, § 14, § 17, § 20, § 22, § 23, § 25a, § 28, § 28a og § 32, jf. delegeringsvedtak 8. juni 1995 nr. 521.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/2024-02-14-256>
+
+I [lov 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven)](../lover/lov-1992-12-04-132-legemiddelloven.md) er følgende bestemmelser delegert til Direktoratet for medisinske produkter:
+
+| *Bestemmelse* | *Myndighet* | *Myndighet i lov lagt til* | *Delegert til* | *Dato* |
+| --- | --- | --- | --- | --- |
+| [§ 2 tredje ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Departementet avgjør i tvilstilfeller om en vare etter loven og forskriftene skal regnes som legemiddel | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 2b](../lover/lov-1992-12-04-132-legemiddelloven.md) | Forordning [(EU) 2019/6](https://lovdata.no/eu/32019r0006) om legemidler til dyr. |  | Direktoratet for medisinske produkter i henhold til de bestemmelser i forordning [(EU) 2019/6](https://lovdata.no/eu/32019r0006) som fremkommer av [forskrift 8. september 2022 nr. 1573 om legemidler til dyr § 2-1](for-2022-09-08-1573-forskrift-om-legemidler-til-dyr.md). | 01.01.2024 |
+| [§ 4 annet ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Kongen kan forby salg av legemiddel som ikke oppfyller krav til kvalitet, sikkerhet og effekt. | Kongen | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 8 tredje ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Markedsføringstillatelse gis på grunnlag av en vurdering av preparatets kvalitet, sikkerhet og effekt. |  | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 9 tredje ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Tilbakekall av markedsføringstillatelse. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 10 annet ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Kongen kan i særlige tilfeller gjøre unntak fra kravene i [§ 8](../lover/lov-1992-12-04-132-legemiddelloven.md). | Kongen | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 12 annet ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Tilvirkning må ikke skje uten godkjenning fra departementet. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 12 sjette ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Godkjenningen kan gis betinget og tidsbegrenset og kan kalles tilbake dersom betingelsene for tillatelsen ikke oppfylles. |  | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 13 første ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Import av legemidler fra stater utenfor det europeiske økonomiske samarbeidsområdet. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 13 annet ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Godkjenningen kan gis tidsbegrenset og kan kalles tilbake dersom betingelsene for tillatelsen ikke oppfylles. |  | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 13 sjette ledd første punktum](../lover/lov-1992-12-04-132-legemiddelloven.md) | Departementet kan gi privatpersoner rett til import av legemidler til eget bruk, uten at det kreves godkjenning etter første eller tredje ledd. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 13a første](../lover/lov-1992-12-04-132-legemiddelloven.md) til [tredje ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Beslagleggelse og destruksjon av ulovlig importerte legemidler. |  | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 13b](../lover/lov-1992-12-04-132-legemiddelloven.md) | Tilbakeholdelse, beslagleggelse og destruksjon av legemidler til dyr |  | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 14 annet ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Engrosomsetning må ikke skje uten særskilt godkjenning fra departementet. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 14 fjerde ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Godkjenningen kan gis betinget og tidsbegrenset og kan kalles tilbake dersom betingelsene for godkjenningen ikke oppfylles. |  | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 17 første ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Leger, tannleger og veterinærer kan av departementet gis tillatelse til å levere legemidler, forbindingssaker og andre sykepleieartikler mot betaling når adgangen til apotek er tungvint | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 17 tredje ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Departementet kan gi sykepleier eller andre tillatelse til å ha et mindre forråd av legemidler mv. til bruk i påkommende tilfelle. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 20 første ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Unntak fra forbudet om bruk av medisinske påstander på stoff, droge eller preparat som ikke er legemiddel | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 20 annet ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | I tilfelle av overtredelse kan departementet pålegge tilvirkeren eller annonsøren å sørge for at en godkjent beriktigelse blir sendt ut eller offentliggjort på tilsvarende måte som den ulovlige reklamen. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 22 første ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Kongen fastsetter hvilke stoffer, droger, planter, sopper og blandinger (narkotika) som skal komme inn under bestemmelsene i dette kapittel og gir forskrifter om tilvirkning, omsetning, innførsel, utførsel, gjennomførsel, utlevering, forsendelse og oppbevaring av disse, samt om dyrking av vekster som skal nyttes til fremstilling av narkotika. | Kongen | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 23 tredje ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Dersom ikke annet er bestemt i forskrifter, må innførsel, utførsel og transitt av narkotika bare skje etter særskilt tillatelse (sertifikat) for hver gang og på de vilkår som er fastsatt i tillatelsen eller i forskrifter. Tillatelsen utstedes av den myndighet som Kongen bestemmer. | Kongen | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 23 femte ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Tilvirkere og selgere er pliktige til å gi de meldinger og opplysninger som departementet krever. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 25a tredje ledd annet punktum](../lover/lov-1992-12-04-132-legemiddelloven.md) | Kontrollmyndigheten skal vurdere søknader om godkjenning og gjennomføre tilsyn. |  | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 28](../lover/lov-1992-12-04-132-legemiddelloven.md) | Tilsyn. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 28a annet](../lover/lov-1992-12-04-132-legemiddelloven.md) og [tredje ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Ileggelse av overtredelsesgebyr | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 28a syvende ledd, første](../lover/lov-1992-12-04-132-legemiddelloven.md) til [tredje punktum](../lover/lov-1992-12-04-132-legemiddelloven.md) | Foreldelse og fristavbrudd |  |  | 01.01.2024 |
+| [§ 32 annet ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Departementet bestemmer hva som skal gjøres med inndratte legemidler. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |
+| [§ 32 tredje ledd](../lover/lov-1992-12-04-132-legemiddelloven.md) | Departementet bestemmer også hva som skal gjøres med narkotika som er å regne som hittegods. | Departementet | Direktoratet for medisinske produkter | 01.01.2024 |

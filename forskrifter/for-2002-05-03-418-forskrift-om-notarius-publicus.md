@@ -1,0 +1,139 @@
+# Forskrift om notarius publicus
+
+- **Datokode:** FOR-2002-05-03-418
+- **DokumentID:** SF/forskrift/2002-05-03-418
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Sivilavd.
+- **Hjemmel:** lov 26.04.2002 nr. 12/§1; lov 26.04.2002 nr. 12/§2
+- **Publisert i:** I 2002 hefte 5
+- **Kunngjort:** 2002-05-07
+- **I kraft fra:** 2002-07-01
+- **Siste endring i kraft:** 2022-02-01
+- **Sist endret ved:** forskrift 07.01.2022 nr. 25 fra 2022-02-01
+- **Endrer:** forskrift 01.10.1993 nr. 922; forskrift 10.10.1997 nr. 1089
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved Kronprinsreg.res. 3. mai 2002 med hjemmel i lov av 26. april 2002 nr. 12 om notarius publicus § 1 og § 2. Fremmet av Justis- og politidepartementet (nå Justis- og beredskapsdepartementet). Endret ved forskrifter 21 des 2007 nr. 1607, 1 feb 2008 nr. 103, 21 juni 2013 nr. 733, 18 des 2015 nr. 1624, 9 april 2021 nr. 1102 (i kraft 26 april 2021), 3 des 2021 nr. 3395, 7 jan 2022 nr. 25 (i kraft 1 feb 2022).
+- **Kilde:** <https://lovdata.no/forskrift/2002-05-03-418>
+
+## § 1. Virkeområde
+
+Forskriften gjelder for alle notarialforretninger med mindre annet følger av lov eller forskrift.
+
+*Endret ved [forskrift 21 juni 2013 nr. 733](https://lovdata.no/forskrift/2013-06-21-733) (i kraft 1 juli 2013).*
+
+## § 2. Tildeling av notarialmyndighet
+
+Foruten dommere ved tingretten, sysselmesteren på Svalbard og norske utenrikstjenestemenn, jf. [lov om notarius publicus § 1](https://lovdata.no/lov/2002-04-26-12/§1), har følgende personer notarialkompetanse til å utføre disse notarialforretningene:
+
+1. Politimesteren i Finnmark er notarius publicus med full notarialmyndighet.
+2. Lensmenn, namsfogdene og politistasjonssjefer med sivile rettspleieoppgaver kan som notarius publicus bekrefte underskrifter på dokumenter, utferdige leveattester og bekrefte rett kopi, samt i forbindelse med slike saker motta forsikring eller tilsvarende erklæring.
+3. Direktøren for Registerenheten i Brønnøysund har myndighet til å notarialbekrefte utskrifter av Brønnøysundregistrenes elektroniske registre, samt rett kopi av dokumenter i Brønnøysundregistrenes papirbaserte registre.
+4. Registerføreren og administrasjonssjefen ved Skipsregistrene har myndighet til å notarialbekrefte sertifikater og attester som registrene selv utsteder.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 103](https://lovdata.no/forskrift/2008-02-01-103), [18 des 2015 nr. 1624](https://lovdata.no/forskrift/2015-12-18-1624) (i kraft 1 jan 2016), [9 april 2021 nr. 1102](https://lovdata.no/forskrift/2021-04-09-1102) (i kraft 26 april 2021), [3 des 2021 nr. 3395](https://lovdata.no/forskrift/2021-12-03-3395), [7 jan 2022 nr. 25](https://lovdata.no/forskrift/2022-01-07-25) (i kraft 1 feb 2022).*
+
+## § 3. Delegering
+
+Notarialmyndighet kan delegeres på følgende måte:
+
+1. Domstolleder kan delegere notarialmyndighet til tjenestemann ved domstolen.
+2. Lensmann, namsfogd og politistasjonssjef med sivile rettspleieoppgaver kan delegere notarialmyndighet til tjenestemann ved tjenesteenheten.
+3. Direktøren for Registerenheten i Brønnøysund kan delegere notarialmyndighet til tjenestemann ved Brønnøysundregistrene.
+4. Politimesteren i Øst-Finnmark kan delegere notarialmyndighet til tjenestemann ved politistasjon.
+5. Sysselmesteren på Svalbard kan delegere notarialmyndighet til ansatte hos Sysselmesteren.
+6. Registerføreren og administrasjonssjefen ved Skipsregistrene kan delegere notarialmyndighet til tjenestemann ved Skipsregistrene.
+
+Delegeringsbeslutningen skal være skriftlig og klart angi ved navn den som får tillagt myndighet. Bemyndigelsen kan begrenses til nærmere angitte sakstyper. Notarius publicus må forvisse seg om at vedkommende tjenestemann har den nødvendige kunnskap og erfaring. Mottakelse av forsikring og avgjørelser om å nekte å utføre en notarialforretning kan bare delegeres til særlig erfarne medarbeidere.
+
+*Endret ved [forskrifter 1 feb 2008 nr. 103](https://lovdata.no/forskrift/2008-02-01-103), [3 des 2021 nr. 3395](https://lovdata.no/forskrift/2021-12-03-3395).*
+
+## § 4. Taushetsplikt
+
+Om taushetsplikt for det en offentlig tjenestemann får vite i forbindelse med utførelsen av notarialforretninger gjelder [forvaltningsloven § 13](../lover/lov-1967-02-10-forvaltningsloven.md) til [§ 13f](../lover/lov-1967-02-10-forvaltningsloven.md) tilsvarende.
+
+## § 5. Veiledningsplikt
+
+Notarius publicus har innenfor sitt saksområde en alminnelig veiledningsplikt om notarialforretningens innhold og betydning og om adgangen til å innhente apostille.
+
+Når det avlegges forsikring, skal det særlig orienteres om det strafferettslige ansvaret forbundet med avleggelse av forsikring, jf. [straffeloven § 221](../lover/lov-2005-05-20-28-straffeloven.md) første ledd bokstav b.
+
+*Endret ved forskrift [7 jan 2022 nr. 25](https://lovdata.no/forskrift/2022-01-07-25) (i kraft 1 feb 2022).*
+
+## § 6. Stedlig kompetanse
+
+Notarius publicus skal som hovedregel utføre notarialforretningene på sitt kontor. Notarialforretninger kan likevel utføres på andre steder innen eget embetsdistrikt.
+
+Notarius publicus ved tingretten kan også utføre notarialforretninger utenfor eget embetsdistrikt.
+
+Rett til å få utført notarialforretninger har alle uten hensyn til om vedkommende er hjemmehørende innenfor eller utenfor embetsdistriktet til notarius publicus.
+
+## § 7. Krav til begjæringens form
+
+Begjæring om notarialforretning kan fremsettes muntlig eller skriftlig.
+
+Notarius publicus kan i særlige tilfeller kreve at begjæring om notarialforretning fremsettes skriftlig.
+
+## § 8. Dokumentasjon ved notarialbekreftelser
+
+Notarius publicus kan kreve at den som fremsetter begjæring om notarialbekreftelse fremlegger den dokumentasjon som notarius publicus finner nødvendig for å vurdere riktigheten av det som skal bekreftes. Mangler den nødvendige dokumentasjon, kan notarius publicus avvise begjæringen eller pålegge rekvirenten innen en nærmere fastsatt frist å fremskaffe dokumentasjonen.
+
+Finner notarius publicus grunn til det, kan han selv fremskaffe den nødvendige dokumentasjon. Medfører dette ikke ubetydelige omkostninger, må rekvirenten forskuddsvis betale disse.
+
+Dersom dokumentasjon for fysiske personers identitet er nødvendig, skal pass, nasjonalt ID-kort utstedt av en EØS- eller EFTA-stat, førerkort utstedt av Norge etter 1. januar 1998 eller bankkort med bilde utstedt i Norge fremlegges. For juridiske personers identitet og for bekreftelse av signaturrett, skal firmaattest fra Brønnøysundregistrene fremlegges.
+
+*Endret ved forskrift [7 jan 2022 nr. 25](https://lovdata.no/forskrift/2022-01-07-25) (i kraft 1 feb 2022).*
+
+## § 9. Språk
+
+Finner notarius publicus det nødvendig for å kunne utføre en notarialforretning at et fremlagt dokument avfattet på utenlandsk språk blir oversatt til norsk, kan det kreves at dokumentet oversettes av statsautorisert translatør, med mindre slik ikke kan skaffes i vedkommende språk eller særlige forhold gjør oversettelse foretatt av andre ubetenkelig.
+
+Notarius publicus kan attestere underskrifter eller motta forsikring på innholdet av dokumenter på et språk som er fremmed for notarius publicus, dersom vedkommende som fremsetter begjæring om notarialforretning erklærer seg kjent med dokumentets innhold, og notarius publicus finner det ubetenkelig.
+
+Notarius publicus kan gi notarialattesten på et fremmed språk som han selv behersker i nødvendig utstrekning.
+
+## § 10. Tolk
+
+Der det er nødvendig skal den som fremsetter begjæring om notarialforretning selv sørge for medvirkning av tolk eller døvetolk, som notarius publicus kan godkjenne.
+
+Utgifter til tolk dekkes av rekvirenten.
+
+## § 11. Avvisning
+
+Foruten i tilfeller som nevnt i [lov om notarius publicus § 3](https://lovdata.no/lov/2002-04-26-12/§3), skal notarius publicus avvise en begjæring om notarialforretning dersom vilkårene i forskriften [§ 6](for-2002-05-03-418-forskrift-om-notarius-publicus.md) til [§ 10](for-2002-05-03-418-forskrift-om-notarius-publicus.md) ikke er oppfylt.
+
+Avvisningen skal meddeles muntlig eller skriftlig på en slik måte og med en slik begrunnelse at den som har anmodet om forretningen gis anledning til å anke avgjørelsen. Det skal orienteres om adgangen til anke, frist, fremgangsmåte og gebyr.
+
+Skal begjæringen om notarialforretning fremsettes overfor en annen notarius publicus, kan begjæringen i stedet for å avvises, oversendes eller henvises til denne.
+
+*Endret ved [forskrift 21 des 2007 nr. 1607](https://lovdata.no/forskrift/2007-12-21-1607) (i kraft 1 jan 2008, jf endringsforskriften for overgangsregler).*
+
+## § 12. Notarialattest
+
+Ved utført notarialbekreftelse gis skriftlig notarialattest. Notarialattest kan gis ved bruk av stempel. Notarialattest ved bekreftelse av forhold knyttet til et dokument bør i den grad det er mulig påføres det omhandlede dokument, eller utferdiges i egen attest som heftes ved. Gjelder attesten et dokument på flere sider eller attesten heftes til dokumentet, skal sidene heftes sammen på en slik måte at de ikke kan tas fra hverandre uten å bryte et segl, stempel eller annen innretning påsatt for å hindre dette.
+
+En notarialattest skal inneholde opplysning om:
+
+1. Det eller de forhold notarialbekreftelsen omfatter
+2. Tid og sted for notarialbekreftelsen
+3. Navnet på den notarialbekreftelsen gjelder, dersom dette er av betydning for bekreftelsen
+4. Særlige omstendigheter ved notarialbekreftelsen.
+
+## § 13. Gebyr for notarialforretninger
+
+For notarialbekreftelser betales 0,25 ganger rettsgebyret for hver notarialattest, jf. [§ 12](for-2002-05-03-418-forskrift-om-notarius-publicus.md). Gebyret betales forskuddsvis. Dette gjelder ikke for notarialforretninger etter [lov 26. april 2002 nr. 12](https://lovdata.no/lov/2002-04-26-12) om notarius publicus [§ 1](https://lovdata.no/lov/2002-04-26-12/§1) annet og tredje ledd og forskriftens [§ 2](for-2002-05-03-418-forskrift-om-notarius-publicus.md) annet ledd nr. 3 og 4.
+
+*Tilføyd ved [forskrift 21 juni 2013 nr. 733](https://lovdata.no/forskrift/2013-06-21-733) (i kraft 1 juli 2013), endret ved [forskrift 18 des 2015 nr. 1624](https://lovdata.no/forskrift/2015-12-18-1624) (i kraft 1 jan 2016).*
+
+## § 14. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2002.
+
+Fra samme tid oppheves:
+
+1. [Forskrift av 1. oktober 1993 nr. 922](https://lovdata.no/forskrift/1993-10-01-922) om begrenset notarialmyndighet for registerføreren og kontorsjefen for Skipsregistrene.
+2. [Kgl.res. av 10. oktober 1997 nr. 1089](https://lovdata.no/forskrift/1997-10-10-1089) om delegering av kompetanse etter lov om rettergangsordningens ikrafttræden [§ 6](for-2002-05-03-418-forskrift-om-notarius-publicus.md) første ledd jf. [§ 6](for-2002-05-03-418-forskrift-om-notarius-publicus.md) tredje ledd til registerenheten i Brønnøysund. Oppheving av delegering.
+3. Kgl.res. av 10. juli 1931 om tildeling av begrenset notarialmyndighet til lensmennene.
+4. Kgl.res. av 7. juli 1913 om tildeling av notarialmyndighet til politimesteren i Rjukan.
+5. Kgl.res. av 3. juni 1927 om tildeling av notarialmyndighet til politimesteren i Vestoppland.
+
+*Endret ved [forskrift 21 juni 2013 nr. 733](https://lovdata.no/forskrift/2013-06-21-733) (i kraft 1 juli 2013, tidligere § 13).*

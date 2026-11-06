@@ -1,0 +1,116 @@
+# Forskrift om matpoteter.
+
+- **Korttittel:** Forskrift om matpoteter
+- **Datokode:** FOR-1999-04-30-634
+- **DokumentID:** SF/forskrift/1999-04-30-634
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Avd. for matpolitikk
+- **Hjemmel:** lov 17.06.1932 nr. 6/§2; lov 17.06.1932 nr. 6/§3; lov 19.12.2003 nr. 124/§9; lov 19.12.2003 nr. 124/§10; lov 19.12.2003 nr. 124/§33; lov 19.12.2003 nr. 124/§36; forskrift 19.12.2003 nr. 1790
+- **Publisert i:** I 1999 1428
+- **I kraft fra:** 1999-04-30
+- **Siste endring i kraft:** 2006-05-01
+- **Sist endret ved:** forskrift 01.03.2006 nr. 429 fra 2006-05-01
+- **Endrer:** forskrift 30.09.1960 nr. 9673; forskrift 15.01.1986 nr. 2342
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt av Landbruksdepartementet 30. april 1999 med hjemmel i lov av 17. juni 1932 nr. 6 om kvalitetskontroll med landbruksvarer m.v. § 2 og § 3 og lov av 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 33 første ledd, jf. § 36 andre ledd, jf. delegeringsvedtak av 19. desember 2003 nr. 1790. Endret ved forskrifter 24 des 1999 nr. 1498, 29 mai 2000 nr. 551, 9 jan 2004 nr. 142 (bl.a hjemmel), 1 mars 2006 nr. 429.
+- **Kilde:** <https://lovdata.no/forskrift/1999-04-30-634>
+
+## § 1. Formål og omfang
+
+Denne forskrift skal sikre at matpoteter som omsettes har god kvalitet.
+
+*Endret ved [forskrift 9 jan 2004 nr. 142](https://lovdata.no/forskrift/2004-01-09-142).*
+
+## § 2. Definisjoner
+
+I denne forskrift forstås med:
+
+1. *Matpotet:* rå, uskrellet potet i vasket eller uvasket tilstand, som omsettes til forbruker.
+2. *Holdbarhetsdato:* siste dato m.h.t. bevaring av de kvalitetskrav som er nevnt i [§ 3](for-1999-04-30-634-forskrift-om-matpoteter.md), forutsatt riktig oppbevaring.
+3. *Omsetning:* besittelse med sikte på salg, utbud for salg, distribusjon, samt selve salget og en hver annen form for overdragelse med eller uten vederlag.
+
+*Endret ved [forskrift 9 jan 2004 nr. 142](https://lovdata.no/forskrift/2004-01-09-142).*
+
+## § 3. Kvalitet
+
+Matpoteter skal oppfylle de tradisjonelle kvalitetskrav som markedet har satt til matpotet som god handelsvare.
+
+Herunder menes at matpoteter skal være:
+
+1. normalt utviklet med typiske sortsegenskaper og med modnings- eller utviklingsgrad som gir full bruksverdi
+2. tilnærmet fri for synlige tegn til sykdom
+3. tørre og faste
+4. uvasket potet kan ha høyst 1% vedhengende jord
+5. fri for fremmed lukt og smak.
+
+## § 4. Størrelse
+
+1. Ved omsetning av sorterte matpoteter gjelder følgende:
+
+   | *Sorteringsområde* | *Maksimum variasjon* | *Betegnelse* |
+   | --- | --- | --- |
+   | Mindre eller lik 42 mm | 10 mm | Små poteter |
+   | 40 – 52 mm | 12 mm | Middels poteter |
+   | 50 – 70 mm | 15 mm | Store poteter |
+   | Større eller lik 65 mm | 20 mm | Ekstra store poteter |
+
+   | *Spesielle regler for mandelpoteter* |  |
+   | --- | --- |
+   | Mindre eller lik 50 g | Små mandelpoteter |
+   | 30 – 100 g | Middels mandelpoteter |
+   | 70 – 150 g | Store mandelpoteter |
+   | Større eller lik 130 g | Ekstra store mandelpoteter |
+2. Bestemmelsen i [§ 4](for-1999-04-30-634-forskrift-om-matpoteter.md) nr. 1 er ikke til hinder for omsetning av poteter som ikke er størrelsessortert.
+
+*Endret ved [forskrifter 29 mai 2000 nr. 551](https://lovdata.no/forskrift/2000-05-29-551), [9 jan 2004 nr. 142](https://lovdata.no/forskrift/2004-01-09-142), [1 mars 2006 nr. 429](https://lovdata.no/forskrift/2006-03-01-429) (i kraft 1 mai 2006).*
+
+## § 5. Merking
+
+Matpoteter skal være merket i henhold til gjeldende forskrifter om merking mv av næringsmidler, med følgende tillegg og presiseringer:
+
+1. Varebetegnelse skal være;  
+   «matpotet – sortsnavn»
+2. pakkedato angitt med dag og måned
+3. for poteter pakket i Norge skal holdbarhetsdato angis med;  
+   «best før...» fulgt av dag, måned
+4. oppbevaringsmåte
+5. pakkeri og produsent. For importerte matpoteter skal opprinnelsesland angis.
+6. For sorterte poteter angis størrelse i millimeter og betegnelse som bestemt i [§ 4](for-1999-04-30-634-forskrift-om-matpoteter.md). For ikke størrelsessorterte poteter skal det stå «Ikke størrelsessortert» e.l.
+
+*Endret ved [forskrift 29 mai 2000 nr. 551](https://lovdata.no/forskrift/2000-05-29-551).*
+
+## § 6. Merking av matpoteter som selges i løs vekt
+
+På salgsstedet skal de opplysninger om opprinnelsesland som kreves i henhold til gjeldende forskrift om merking mv av næringsmidler, samt de opplysninger som kreves i henhold til [§ 5](for-1999-04-30-634-forskrift-om-matpoteter.md) nr. 1 og nr. 6, angis ved oppslag eller liknende.
+
+*Endret ved [forskrift 1 mars 2006 nr. 429](https://lovdata.no/forskrift/2006-03-01-429) (i kraft 1 mai 2006).*
+
+## § 7. Lagring
+
+Matpoteter skal lagres mørkt og kjølig.
+
+## § 8. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.
+
+*Endret ved [forskrift 9 jan 2004 nr. 142](https://lovdata.no/forskrift/2004-01-09-142).*
+
+## § 9. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+*Endret ved [forskrift 9 jan 2004 nr. 142](https://lovdata.no/forskrift/2004-01-09-142).*
+
+## § 10. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrift 9 jan 2004 nr. 142](https://lovdata.no/forskrift/2004-01-09-142).*
+
+## § 11. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.
+
+Samtidig oppheves [forskrift av 30. september 1960 nr. 9673](https://lovdata.no/forskrift/1960-09-30-9673) om omsetning av matpoteter og [forskrift 15. januar 1986 nr. 2342](https://lovdata.no/forskrift/1986-01-15-2342) for kvalitetsbedømmelse, sortering, pakking og merking av norske matpoteter.
+
+*Endret ved [forskrift 9 jan 2004 nr. 142](https://lovdata.no/forskrift/2004-01-09-142) (tidligere § 12).*

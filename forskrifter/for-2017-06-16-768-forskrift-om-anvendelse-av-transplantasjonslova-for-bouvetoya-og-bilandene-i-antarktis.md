@@ -1,0 +1,22 @@
+# Forskrift om anvendelse av transplantasjonslova for Bouvetøya og bilandene i Antarktis
+
+- **Datokode:** FOR-2017-06-16-768
+- **DokumentID:** SF/forskrift/2017-06-16-768
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavd.
+- **Hjemmel:** lov 07.05.2015 nr. 25/§4; lov 07.05.2015 nr. 25/§6; lov 07.05.2015 nr. 25/§17; lov 27.02.1930 nr. 3/§2
+- **Kunngjort:** 2017-06-16 16:15
+- **I kraft fra:** 2017-07-01
+- **Gjelder for:** Bouvetøya, Peter I Øy og Dronning Maud land
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 16. juni 2017 med hjemmel i lov 7. mai 2015 nr. 25 om donasjon og transplantasjon av organ, celler og vev (transplantasjonslova) § 4, § 6 og § 17 og lov 27. februar 1930 nr. 3 om Bouvet-øya, Peter I's øy og Dronning Maud Land m.m. (bilandsloven) § 2. Fremmet av Helse- og omsorgsdepartementet.
+- **Kilde:** <https://lovdata.no/forskrift/2017-06-16-768>
+
+## § 1. Transplantasjonslovas anvendelse for Bouvetøya og bilandene i Antarktis
+
+Transplantasjonslova gjelder for Bouvetøya, Peter I Øy og Dronning Maud land.
+
+Forskrifter med hjemmel i transplantasjonslova gjelder for Bouvetøya, Peter I Øy og Dronning Maud land.
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2017.

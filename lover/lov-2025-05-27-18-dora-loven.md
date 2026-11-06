@@ -1,0 +1,106 @@
+# Lov om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven)
+
+- **Korttittel:** DORA-loven
+- **Datokode:** LOV-2025-05-27-18
+- **DokumentID:** NL/lov/2025-05-27-18
+- **Departement:** Finansdepartementet
+- **Kunngjort:** 2025-05-27 11:45
+- **I kraft fra:** 2025-07-01, Kongen bestemmer
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** lov 19.06.2026 nr. 39 fra 2026-07-01
+- **Rettsområde:** Bank, finans og regnskapsrett > Børs- og verdipapir; EU/EØS-rett > Finansielle tjenester; Selskaper, fond og foreninger > Fond; Bank, finans og regnskapsrett > Banker; Bank, finans og regnskapsrett > Betalingsformidling; Bank, finans og regnskapsrett > Forsikring; Bank, finans og regnskapsrett > Obligasjoner; Bank, finans og regnskapsrett; Erstatnings- og forsikringsrett > Ansvarsforsikringer; Erstatnings- og forsikringsrett > Livsforsikring; Erstatnings- og forsikringsrett > Skadeforsikring; Selskaper, fond og foreninger; EU/EØS-rett > Arbeids- og sosialpolitikk; Pensjons- og trygderett
+- **EU/EØS-henvisning:** EØS-avtalen vedlegg IX nr. 31q (forordning (EU) 2022/2554), direktiv (EU) 2022/2556.
+- **Endrer:** lov 29.06.2007 nr. 75; lov 25.11.2011 nr. 44; lov 20.06.2014 nr. 28; lov 20.06.2014 nr. 30; lov 10.04.2015 nr. 17; lov 04.12.2015 nr. 95; lov 15.03.2019 nr. 6; lov 21.06.2024 nr. 41
+- **Merknad:** Prop. 54 LS (2024–2025), Innst. 265 L (2024–2025), Lovvedtak 54 (2024–2025). Stortingets første og andre gangs behandling hhv. 15. og 20. mai 2025. Fremmet av Finansdepartementet.
+- **Kilde:** <https://lovdata.no/lov/2025-05-27-18>
+
+## § 1. Forordningen om digital operasjonell motstandsdyktighet i finanssektoren
+
+(1) [EØS-avtalen vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9) nr. 31q (forordning [(EU) 2022/2554](https://lovdata.no/eu/32022r2554)) om digital operasjonell motstandsdyktighet i finanssektoren gjelder som lov med de tilpasninger som følger av [vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9), [protokoll 1](https://lovdata.no/avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig.
+
+(2) Når det i loven her vises til DORA-forordningen, menes forordningen slik den til enhver tid er gjennomført og endret etter første eller fjerde ledd.
+
+(3) Departementet kan fastsette utfyllende forskrifter til bestemmelsene i første ledd.
+
+(4) Departementet kan i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene i første ledd til gjennomføring av Norges forpliktelser etter [EØS-avtalen](lov-1992-11-27-109-eos-loven.md).
+
+## § 2. Forordningens anvendelse på andre foretak
+
+(1) Departementet kan i forskrift fastsette at bestemmelsene i [§ 1](lov-2025-05-27-18-dora-loven.md) helt eller delvis skal gjelde for:
+
+a. foretak nevnt i DORA-forordningen artikkel 2 nr. 3,
+b. finansieringsforetak,
+c. låneformidlingsforetak,
+d. inkassoforetak,
+e. eiendomsmeglingsforetak,
+f. morselskap i finanskonsern,
+g. Norsk naturskadepool.
+
+(2) Departementet kan i forskrift fastsette forenklede krav for foretak nevnt i første ledd i samsvar med relevante bestemmelser i DORA-forordningen.
+
+*Endret ved lov [19 juni 2026 nr. 39](lov-2026-06-19-39-endringslov-til-bokforingsloven-mv.md) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](https://lovdata.no/forskrift/2026-06-19-1154)).*
+
+## § 3. Tilsyn mv.
+
+(1) Finanstilsynet er nasjonal tilsynsmyndighet etter DORA-forordningen og fører tilsyn med overholdelse av bestemmelser gitt i eller i medhold av denne loven.
+
+(2) Departementet kan i forskrift fastsette utfyllende krav til rapportering, register over IKT-tjenesteavtaler og annen informasjon som foretak omfattet av [§§ 1](lov-2025-05-27-18-dora-loven.md) eller [2](lov-2025-05-27-18-dora-loven.md) skal gi Finanstilsynet om inngåtte og planlagte avtaler om bruk av tjenester fra IKT-leverandører.
+
+(3) Departementet kan i forskrift fastsette bestemmelser om rapportering av hendelser og deling av informasjon til andre varslingsmottakere enn Finanstilsynet.
+
+(4) Departementet kan i forskrift fastsette bestemmelser om trusselbasert penetrasjonstesting (TLPT), herunder om fordeling av oppgaver og ansvar mellom norske myndighetsorganer i henhold til DORA-forordningen artikkel 26. Departementet kan i forskrift også fastsette bestemmelser om fordeling av myndighetsorganers utgifter knyttet til TLPT mellom foretak som pålegges å gjennomføre slik testing, herunder bestemmelser om innkreving og betaling av slike bidrag til kostnadsdekning. Ilagte bidrag er tvangsgrunnlag for utlegg.
+
+*Endret ved lov [19 juni 2026 nr. 39](lov-2026-06-19-39-endringslov-til-bokforingsloven-mv.md) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](https://lovdata.no/forskrift/2026-06-19-1154)).*
+
+## § 4. Overtredelsesgebyr
+
+(1) Finanstilsynet kan ilegge fysiske personer eller foretak overtredelsesgebyr på inntil 50 millioner kroner ved overtredelse av følgende bestemmelser i DORA-forordningen:
+
+a. artikkel 5 om forvaltning og organisasjon,
+b. artikkel 6 om rammeverk for IKT-risikostyring,
+c. artikkel 8 om identifisering av IKT-relaterte funksjoner og avhengigheter,
+d. artikkel 9 nr. 4 om retningslinjer for sikkerhet mv. som del av rammeverket for IKT-risikostyring, jf. artikkel 6,
+e. artikkel 11 om respons og gjenoppretting,
+f. artikkel 12 om retningslinjer og prosedyrer for sikkerhetskopiering og gjenoppretting,
+g. artikkel 14 om planer for krisekommunikasjon,
+h. artikkel 16 nr. 1 og 2 om forenklet rammeverk for IKT-risikostyring,
+i. artikkel 17 om prosess for håndtering av IKT-relaterte hendelser,
+j. artikkel 19 nr. 1, 3 og 4 om rapportering av alvorlige IKT-relaterte hendelser,
+k. artikkel 24 om generelle krav til gjennomføringen av testing av digital operasjonell motstandsdyktighet,
+l. artikkel 25 nr. 2 om sårbarhetsvurderinger før bruk av nye systemer i verdipapirsentraler og sentrale motparter,
+m. artikkel 28 om generelle prinsipper for forsvarlig styring av IKT-tredjepartsrisiko,
+n. artikkel 42 nr. 3 annet avsnitt om hensyntaken til risiko avdekket hos IKT-leverandører.
+
+Første punktum gjelder tilsvarende ved overtredelse av forskrifter som gjennomfører tekniske reguleringsstandarder fastsatt etter DORA-forordningen artikkel 15 og artikkel 16 nr. 3.
+
+(2) Medvirkning til overtredelse som nevnt i første ledd, kan sanksjoneres på samme måte.
+
+(3) Fysiske personer kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på foretakets vegne, forsettlig eller uaktsomt har begått en overtredelse som nevnt i første eller annet ledd.
+
+(4) Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen er opphørt. Fristen avbrytes ved at Finanstilsynet gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr.
+
+(5) Departementet kan i forskrift fastsette bestemmelser til utfylling og avgrensning av paragrafen her, og renter ved forsinket betaling av overtredelsesgebyret. Departementet kan i forskrift fastsette at den som forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt i medhold av loven, kan ilegges overtredelsesgebyr.
+
+## § 5. Ikrafttredelse og overgangsbestemmelser
+
+(1) Loven gjelder fra den tid[1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
+
+(2) Departementet kan fastsette overgangsregler.
+
+## § 6. Endringer i andre lover
+
+Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:
+
+**1.** I [lov 29. juni 2007 nr. 75 om verdipapirhandel](lov-2007-06-29-75-verdipapirhandelloven.md) gjøres følgende endringer:
+
+– – –
+
+[§ 17-1 første ledd](lov-2007-06-29-75-verdipapirhandelloven.md) skal lyde:
+
+(1) [EØS-avtalen vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9) nr. 31bc (forordning [(EU) nr. 648/2012](https://lovdata.no/eu/32012r0648)) om OTC-derivater, sentrale motparter og transaksjonsregistre (EMIR), som endret ved direktiv [(EU) 2015/849](https://lovdata.no/eu/32015l0849) og forordning [(EU) 2022/2554](https://lovdata.no/eu/32022r2554), jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov-2025-05-27-18-dora-loven.md), gjelder som lov med de tilpasninger som følger av [vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9), [protokoll 1](https://lovdata.no/avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig.
+
+– – –
+
+## Fotnoter
+
+**1.** Fra 1. juli 2025 med unntak av [§ 6 nr. 1](lov-2025-05-27-18-dora-loven.md) om endringer i [verdipapirhandelloven § 17-1 første ledd](lov-2007-06-29-75-verdipapirhandelloven.md), som trer i kraft fra den tid Kongen bestemmer iflg. [res. 20 juni 2025 nr. 1084](https://lovdata.no/forskrift/2025-06-20-1084).

@@ -1,0 +1,326 @@
+# Forskrift om energimerking av energirelaterte produkter (energimerkeforskriften for produkter)
+
+- **Korttittel:** Energimerkeforskriften for produkter
+- **Datokode:** FOR-2013-05-27-534
+- **DokumentID:** SF/forskrift/2013-05-27-534
+- **Departement:** Energidepartementet
+- **Etat:** Norges vassdrags- og energidirektorat (NVE)
+- **Hjemmel:** lov 18.12.1981 nr. 90/§3; lov 18.12.1981 nr. 90/§3a; lov 18.12.1981 nr. 90/§4; lov 18.12.1981 nr. 90/§6; lov 18.12.1981 nr. 90/§7; lov 18.12.1981 nr. 90/§10; forskrift 28.01.2011 nr. 100; forskrift 17.02.2011 nr. 1554; forskrift 29.09.2020 nr. 1917
+- **Publisert i:** I 2013 hefte 7
+- **Kunngjort:** 2013-05-31 15:40
+- **I kraft fra:** 2013-06-01, 2013-09-01
+- **Siste endring i kraft:** 2026-01-06
+- **Sist endret ved:** forskrift 06.01.2026 nr. 8
+- **Endrer:** forskrift 06.09.1996 nr. 892; forskrift 14.04.1999 nr. 524; forskrift 30.06.2004 nr. 1062; forskrift 18.11.2004 nr. 1474; forskrift 06.09.1996 nr. 893; forskrift 03.03.1999 nr. 287; forskrift 10.01.1996 nr. 16
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2018-05-09 (forordning tilføyd)
+- **Merknad:** Hjemmel: Fastsatt av Norges vassdrags- og energidirektorat 27. mai 2013 med hjemmel i lov 18. desember 1981 nr. 90 om merking av forbruksvarer mv. (forbrukermerkeloven) § 3 første ledd bokstavene a, b og c, annet ledd, fjerde ledd og femte ledd, § 3a annet og tredje ledd, § 4, § 6, § 7 fjerde ledd og § 10 fjerde ledd, jf. delegeringsvedtak 28. januar 2011 nr. 100 og delegeringsvedtak 17. februar 2011 nr. 1554. Tilføyd hjemmel: Delegeringsvedtak 29. september 2020 nr. 1917. EØS-henvisninger: EØS-avtalen vedlegg II kap. IV nr. 4 (forordning (EU) 2017/1369), nr. 4c (forordning (EU) 2023/2534), nr. 4e (forordning (EU) nr. 874/2012, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254), nr. 4i (forordning (EU) nr. 1059/2010, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254), nr. 4j (forordning (EU) nr. 1060/2010, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254), nr. 4k (forordning (EU) nr. 1061/2010, endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254), nr. 4l (forordning (EU) nr. 1062/2010, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254), nr. 4m (forordning (EU) nr. 626/2011, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254 og rettet ved forordning (EU) 2020/1059 og som endret ved forordning (EU) 2023/2048), nr. 4o (forordning (EU) nr. 1254/2014, som endret ved forordning (EU) 2017/254 og som rettet ved forordning (EU) 2020/987), nr. 4p (forordning (EU) 2015/1186, som endret ved forordning (EU) 2017/254), nr. 4q (forordning (EU) 2015/1187, som endret ved forordning (EU) 2017/254), nr. 4r (forordning (EU) 2015/1094, som endret ved forordning (EU) 2017/254), nr. 4s (forordning (EU) nr. 811/2013, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254), nr. 4t (forordning (EU) nr. 812/2013, som endret ved forordning (EU) nr. 518/2014 og forordning (EU) 2017/254), nr. 4u (forordning (EU) nr. 65/2014, som endret ved forordning (EU) 2017/254) nr. 4v (forordning (EU) 2019/2013, som endret ved forordning (EU) 2021/340), nr. 4w (forordning (EU) 2019/2014, som endret ved forordning (EU) 2021/340), nr. 4x (forordning (EU) 2019/2015, som endret ved forordning (EU) 2021/340 og forordning (EU) 2023/2048), nr. 4y (forordning (EU) 2019/2016, som endret ved forordning (EU) 2021/340 og (EU) 2023/2048), nr. 4z (forordning (EU) 2019/2017, som endret ved forordning (EU) 2021/340), nr. 4za (forordning (EU) 2019/2018, som endret ved forordning (EU) 2021/340 og forordning (EU) 2023/2048), nr. 4zb (forordning (EU) 2023/1669), og nr. 4zc (forordning (EU) 2024/994). Endret ved forskrifter 18 des 2015 nr. 1785, 2 mars 2016 nr. 232, 2 nov 2017 nr. 1711, 26 mars 2021 nr. 1040, 26 jan 2022 nr. 147, 20 juni 2025 nr. 1180, 6 jan 2026 nr. 8. Rettelser: 01.09.2015 (tekst under Forordninger tilføyd), 11.02.2016 (forordninger i pdf tilføyd), 23.03.2016 (forordning i pdf tilføyd), 01.10.2016 (overskrifter til forordninger slettet), 25.08.2017 (seks forordninger oppdatert til off. versjon), 09.05.2018 (forordning tilføyd).
+- **Kilde:** <https://lovdata.no/forskrift/2013-05-27-534>
+
+## Kapittel 1. Formål, virkeområde, definisjoner mv.
+
+### § 1. Formål
+
+Forskriften utfyller og supplerer Europaparlaments- og rådsforordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) av 4. juli 2017 om fastsetting av en ramme for energimerking og om oppheving av direktiv [2010/30/EU](https://lovdata.no/eu/32010l0030) (energimerkeforordningen) og gjennomfører produktspesifikke forordninger om energimerking.
+
+Forskriften skal fremme utvikling og anvendelse av energirelaterte produkter som ved anvendelse er energieffektive og lite ressursbrukende.
+
+Forskriften skal sikre informasjon til sluttbrukere om energirelaterte produkters bruk av energi og andre ressurser, samt om andre relevante forhold, slik at sluttbrukere får mulighet til å velge mer effektive produkter.
+
+Forskriften har som tilleggsformål å sikre den frie bevegelighet av energirelaterte produkter innenfor Det europeiske økonomiske samarbeidsområde (EØS).
+
+*Endret ved [forskrift 26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040).*
+
+### § 2. Virkeområde
+
+Forskriften gjelder for energirelaterte produkter som er omfattet av energimerkeforordningen og forordninger vedtatt med hjemmel i denne forordningen.
+
+Forskriften gjelder ikke for Svalbard og Jan Mayen.
+
+*Endret ved [forskrift 26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040).*
+
+### § 3. Definisjoner
+
+Definisjonene som følger av energimerkeforordningen og forordninger vedtatt med hjemmel i energimerkeforordningen, gjelder også for denne forskriften.
+
+*Endret ved [forskrift 26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040).*
+
+### § 4. Produktdatabase (EPREL)
+
+Forordning [(EU) 2024/994](https://lovdata.no/eu/32024r0994) om fastsettelse av operasjonelle detaljer vedrørende den produktdatabase som er opprettet i henhold til forordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369), som inntatt i [EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 4zc, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8).*
+
+## Kapittel 2. Produktspesifikke regler
+
+*Hele kapittelet endret ved [forskrift 26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere kapittel 3).*
+
+### § 5. Oppvaskmaskiner til husholdningsbruk
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4i (EU-kommisjonens delegerte forordning [(EU) nr. 1059/2010](https://lovdata.no/eu/32010r1059), som endret ved forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) og forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av oppvaskmaskiner til husholdningsbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4z (EU-kommisjonens delegerte forordning [(EU) 2019/2017](https://lovdata.no/eu/32019r2017) om supplering av europaparlaments- og rådsforordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) for så vidt angår energimerking av oppvaskmaskiner til husholdningsbruk, som endret ved forordning [(EU) 2021/340](https://lovdata.no/eu/32021r0340)), gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+Kravene som følger av første ledd gjelder ikke etter 1. mars 2021.
+
+*Endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 12), [26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 4).*
+
+### § 6. Kjøleapparater
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4j (EU-kommisjonens delegerte forordning [(EU) nr. 1060/2010](https://lovdata.no/eu/32010r1060), som endret ved forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) og forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av kjøleinnretninger til husholdningsbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+[EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 4y (EU-kommisjonens delegerte forordning [(EU) 2019/2016](https://lovdata.no/eu/32019r2016) om supplering av europaparlaments- og rådsforordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) for så vidt angår energimerking av kjøleapparater, som endret ved forordning [(EU) 2021/340](https://lovdata.no/eu/32021r0340) og [(EU) 2023/2048](https://lovdata.no/eu/32023r2048)), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+Kravene som følger av første ledd gjelder ikke etter 1. mars 2021.
+
+*Endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 13), [26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 5).*
+
+### § 7. Husholdningsvaskemaskiner og kombinerte husholdningsvaskemaskiner/-tørketromler
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4k (EU-kommisjonens delegerte forordning [(EU) nr. 1061/2010](https://lovdata.no/eu/32010r1061), som endret ved forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) og forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av vaskemaskiner til husholdningsbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4w (EU-kommisjonens delegerte forordning [(EU) 2019/2014](https://lovdata.no/eu/32019r2014) om supplering av europaparlaments- og rådsforordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) for så vidt angår energimerking av husholdningsvaskemaskiner og kombinerte husholdningsvaskemaskiner/-tørketromler, som endret ved forordning [(EU) 2021/340](https://lovdata.no/eu/32021r0340)), gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+Kravene som følger av første ledd gjelder ikke etter 1. mars 2021.
+
+*Endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 14), [26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 6).*
+
+### § 8. Elektroniske skjermer
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4l (EU-kommisjonens delegerte forordning [(EU) nr. 1062/2010](https://lovdata.no/eu/32010r1062), som endret ved forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) og forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av fjernsyn gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4v (EU-kommisjonens delegerte forordning [(EU) 2019/2013](https://lovdata.no/eu/32019r2013) om supplering av europaparlaments- og rådsforordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) for så vidt angår energimerking av elektroniske skjermer, som endret ved forordning [(EU) 2021/340](https://lovdata.no/eu/32021r0340)), gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+Kravene som følger av første ledd gjelder ikke etter 1. mars 2021.
+
+*Endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 15), [26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 7).*
+
+### § 9. Klimaanlegg
+
+[EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 4m (EU-kommisjonens delegerte forordning [(EU) nr. 626/2011](https://lovdata.no/eu/32011r0626), som endret ved forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) og forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254), og som rettet ved forordning [(EU) 2020/1059](https://lovdata.no/eu/32020r1059), og som endret ved forordning [(EU) 2023/2048](https://lovdata.no/eu/32023r2048)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av klimaanlegg gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 16), [26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 8).*
+
+### § 10. Tørketromler
+
+Forordning [(EU) 2023/2534](https://lovdata.no/eu/32023r2534) om supplering av forordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) for så vidt angår energimerking av husholdningstørketromler, som inntatt i [EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 4c, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 17), [26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 9).*
+
+### § 11. Lyskilder
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4e (EU-kommisjonens delegerte forordning [(EU) nr. 874/2012](https://lovdata.no/eu/32012r0874), som endret ved forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) og forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254), og som rettet ved forordning [(EU) 2020/1059](https://lovdata.no/eu/32020r1059)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av elektriske lamper og lysarmaturer gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig. Artikkel 3 annet ledd og artikkel 4 annet ledd i forordning [(EU) nr. 874/2012](https://lovdata.no/eu/32012r0874) om energimerking av lysarmaturer gjelder ikke.
+
+[EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 4x (EU-kommisjonens delegerte forordning [(EU) 2019/2015](https://lovdata.no/eu/32019r2015) om supplering av europaparlaments- og rådsforordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) for så vidt angår energimerking av lyskilder, som endret ved forordning [(EU) 2021/340](https://lovdata.no/eu/32021r0340) og forordning [(EU) 2023/2048](https://lovdata.no/eu/32023r2048)), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+Kravene som følger av første ledd gjelder ikke etter 1. september 2021.
+
+*Endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 18), [26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 10).*
+
+### § 12. (Opphevet)
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785), endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), opphevet ved [forskrift 26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 19), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 11).*
+
+### § 13. Ventilasjonsaggregater til boliger
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4o (EU-kommisjonens delegerte forordning [(EU) nr. 1254/2014](https://lovdata.no/eu/32014r1254), som endret ved forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254) og som rettet ved forordning [(EU) 2020/987](https://lovdata.no/eu/32020r0987)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av ventilasjonsaggregater til boliger gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785), endret ved forskrifter [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 20), [26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 12).*
+
+### § 14. Varmeovner (fastbrensel, gass, olje)
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4p (EU-kommisjonens delegerte forordning [(EU) 2015/1186](https://lovdata.no/eu/32015r1186), som endret ved forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av varmeovner (fastbrensel, gass, olje) gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785), endret ved forskrifter [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 21), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 13).*
+
+### § 15. Kjeler for fast brensel og pakker med en kjel for fast brensel, supplerende varmeanlegg, temperaturregulatorer og solvarmeinnretninger
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4q (EU-kommisjonens delegerte forordning [(EU) 2015/1187](https://lovdata.no/eu/32015r1187), som endret ved forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av kjeler for fast brensel og pakker med en kjel til fast brensel, supplerende varmeanlegg, temperaturregulatorer og solvarmeinnretninger gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785), endret ved forskrifter [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 22), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 14).*
+
+### § 16. Kjøleskap og fryseskap til yrkesbruk
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4r (EU-kommisjonens delegerte forordning [(EU) 2015/1094](https://lovdata.no/eu/32015r1094), som endret ved forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av kjøleskap og fryseskap til yrkesbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785), endret ved forskrifter [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 23), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 15).*
+
+### § 17. Anlegg for romoppvarming, anlegg for kombinert rom- og tappevannoppvarming, samt pakker med slike anlegg, temperaturregulator og solvarmeinnretning
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4s (EU-kommisjonens delegerte forordning [(EU) nr. 811/2013](https://lovdata.no/eu/32013r0811), som endret ved forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) og forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av anlegg for romoppvarming, anlegg for rom- og tappevannoppvarming, pakker med anlegg for romoppvarming, temperaturregulator og solvarmeinnretning samt pakker med anlegg for rom- og tappevannsoppvarming, temperaturregulator og solvarmeinnretning gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785), endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 24), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 16).*
+
+### § 18. Varmtvannsberedere, varmtvannsbeholdere og pakker med varmtvannsbereder og solvarmeinnretning
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4t (EU-kommisjonens delegerte forordning [(EU) nr. 812/2013](https://lovdata.no/eu/32013r0812), som endret ved forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) og forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av varmtvannsberedere, varmtvannsbeholdere og pakker med varmtvannsbereder og solvarmeinnretning gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785), endret ved forskrifter [2 mars 2016 nr. 232](https://lovdata.no/forskrift/2016-03-02-232), [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 25), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 17).*
+
+### § 19. Stekeovner og avtrekkshetter til husholdningsbruk
+
+[EØS-avtalen vedlegg II](https://lovdata.no/avtale/avt-1992-05-02-1-v2) kap. IV nr. 4u (EU-kommisjonens delegerte forordning [(EU) nr. 65/2014](https://lovdata.no/eu/32014r0065), som endret ved forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254)) om supplering av europaparlaments- og rådsdirektiv [2010/30/EU](https://lovdata.no/eu/32010l0030) for så vidt angår energimerking av stekeovner og avtrekkshetter til husholdningsbruk gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785), endret ved forskrifter [2 nov 2017 nr. 1711](https://lovdata.no/forskrift/2017-11-02-1711), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 26), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 18).*
+
+### § 20. Kjøleapparater til bruk ved direktesalg
+
+[EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 4za (EU-kommisjonens delegerte forordning [(EU) 2019/2018](https://lovdata.no/eu/32019r2018) om supplering av europaparlaments- og rådsforordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) for så vidt angår energimerking av kjøleapparater til bruk ved direktesalg, som endret ved forordning [(EU) 2021/340](https://lovdata.no/eu/32021r0340) og forordning [(EU) 2023/2048](https://lovdata.no/eu/32023r2048)), gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040), endret ved [forskrifter 26 jan 2022 nr. 147](https://lovdata.no/forskrift/2022-01-26-147), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 19).*
+
+### § 21. Smarttelefoner og nettbrett
+
+[EØS-avtalen vedlegg II kap. IV](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapIV) nr. 4zb (EU-kommisjonens delegerte forordning [(EU) 2023/1669](https://lovdata.no/eu/32023r1669) om supplering av europaparlaments- og rådsforordning [(EU) 2017/1369](https://lovdata.no/eu/32017r1369) for så vidt gjelder energimerking av smarttelefoner og nettbrett) gjelder som forskrift med de tilpasninger som følger av [vedlegg IV](https://lovdata.no/avtale/avt-1992-05-02-1-v4), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved forskrift [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180), endret ved forskrift [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 20).*
+
+## Kapittel 3. Diverse bestemmelser
+
+*Hele kapittelet endret ved [forskrift 26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere kapittel 4).*
+
+### § 22. Tilsyn og kontroll
+
+Norges vassdrags- og energidirektorat fører tilsyn med at bestemmelser fastsatt i eller i medhold av forskriften blir oppfylt.
+
+Enhver plikter å medvirke til gjennomføring av tilsyn. Dette omfatter blant annet å fremskaffe opplysninger og dokumentasjon som er nødvendig for å gjennomføre tilsynet.
+
+*Endret ved forskrifter [18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785) (tidligere § 19), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 27), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180) (tidligere § 20), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 21).*
+
+### § 23. Pålegg og øvrige vedtak
+
+Norges vassdrags- og energidirektorat kan gi de pålegg og treffe de øvrige vedtak som er nødvendige for gjennomføring av forskriften og vedtak fastsatt med hjemmel i forskriften.
+
+Vedtak etter første ledd kan blant annet gå ut på
+
+1. å bringe et energirelatert produkt i samsvar med denne forskrift,
+2. å vederlagsfritt avstå prøver på eller fra energirelaterte produkter,
+3. å betale utgiftene til undersøkelse dersom produktet viser seg ikke å være i samsvar med denne forskrift,
+4. begrensning av eller forbud mot omsetning av eller adgangen til å ta i bruk et energirelatert produkt.
+
+*Endret ved forskrifter [18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785) (tidligere § 20), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 28), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180) (tidligere § 21), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 22).*
+
+### § 24. Overtredelsesgebyr
+
+Norges vassdrags- og energidirektorat kan ilegge overtredelsesgebyr etter [lov 18. desember 1981 nr. 90 forbrukermerkeloven § 10](../lover/lov-1981-12-18-90-forbrukermerkeloven.md), til den som overtrer en eller flere av følgende bestemmelser i energimerkeforordningen:
+
+a. artikkel 3 nr. 1 første og tredje punktum, nr. 2, 3, 4 og 5
+b. artikkel 4 nr. 1 og 2, nr. 4 annet punktum og nr. 6 første og tredje punktum
+c. artikkel 5 nr. 1 og
+d. artikkel 6 bokstav a, b, c, d og e.
+
+Overtredelsesgebyr som ilegges for brudd på bestemmelser som nevnt i første ledd, skal utmåles i det enkelte tilfellet (individuell utmåling). Overtredelsesgebyret skal ikke overstige 10 ganger folketrygdens grunnbeløp (G) eller 0,5 % av foretakets gjennomsnittlige omsetning de siste tre regnskapsår, dersom dette blir et høyere beløp.
+
+Norges vassdrags- og energidirektorat kan helt eller delvis frafalle kravet om overtredelsesgebyr.
+
+*Endret ved forskrifter [18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785) (tidligere § 21), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 29), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180) (tidligere § 22), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 23).*
+
+### § 25. Straff
+
+Den som vesentlig overtrer følgende bestemmelser i energimerkeforordningen:
+
+a. artikkel 3 nr. 1 første og tredje punktum, nr. 2, 3, 4 og 5
+b. artikkel 4 nr. 1 og 2, nr. 4 annet punktum og nr. 6 første og tredje punktum
+c. artikkel 5 nr. 1 og
+d. artikkel 6 bokstav a, b, c, d og e,  
+   straffes med bøter etter [lov 18. desember 1981 nr. 90 § 11](../lover/lov-1981-12-18-90-forbrukermerkeloven.md).
+
+*Endret ved forskrifter [18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785) (tidligere § 22), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 30), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180) (tidligere § 23), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 24).*
+
+### § 26. Ikrafttredelse og oppheving av andre forskrifter
+
+Forskriften trer i kraft 1. juni 2013.
+
+Fra samme tidspunkt oppheves [forskrift 6. september 1996 nr. 892](https://lovdata.no/forskrift/1996-09-06-892) om gjennomføringsreglar for rådsdirektiv [92/75/EØF](https://lovdata.no/eu/31992l0075) med omsyn til energimerking av hushaldsvaskemaskiner, [forskrift 14. april 1999 nr. 524](https://lovdata.no/forskrift/1999-04-14-524) om gjennomføringsreglar for rådsdirektiv [92/75/EØF](https://lovdata.no/eu/31992l0075) med omsyn til energimerking av hushaldsoppvaskmaskiner, [forskrift 30. juni 2004 nr. 1062](https://lovdata.no/forskrift/2004-06-30-1062) om nærmere regler for gjennomføring av rådsdirektiv [92/75/EØF](https://lovdata.no/eu/31992l0075) med hensyn til energimerking av kjøleskap, frysere og kombinasjoner av slike, [forskrift 18. november 2004 nr. 1474](https://lovdata.no/forskrift/2004-11-18-1474) om gjennomføringsregler for Rådsdirektiv [92/75/EØF](https://lovdata.no/eu/31992l0075) med hensyn til energimerking av klimaanlegg til husholdningsbruk og [forskrift 6. september 1996 nr. 893](https://lovdata.no/forskrift/1996-09-06-893) om gjennomføringsreglar for rådsdirektiv [92/75/EØF](https://lovdata.no/eu/31992l0075) med omsyn til energimerking av hushaldstørketromlar.
+
+[Forskrift 3. mars 1999 nr. 287](https://lovdata.no/forskrift/1999-03-03-287) om gjennomføringsreglar for rådsdirektiv [92/75/EØF](https://lovdata.no/eu/31992l0075) med omsyn til energimerking av hushaldslamper oppheves med virkning fra 1. september 2013.
+
+*Endret ved forskrifter [18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785) (tidligere § 23), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 31), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180) (tidligere § 24), [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 25).*
+
+### § 27. Endring i andre forskrifter
+
+Med virkning fra den tid denne forskrift settes i kraft, gjøres følgende endringer i andre forskrifter:
+
+I [forskrift 10. januar 1996 nr. 16 om angivelse av husholdningsapparaters energi- og ressursforbruk ved hjelp av merking og standardiserte vareopplysninger](for-1996-01-10-16-forskrift-om-merking-av-husholdningsapparater.md) gjøres følgende endringer: – – –
+
+I [forskrift 3. mars 1999 nr. 287](https://lovdata.no/forskrift/1999-03-03-287) om gjennomføringsreglar for rådsdirektiv [92/75/EØF](https://lovdata.no/eu/31992l0075) med omsyn til energimerking av hushaldslamper gjøres følgende endringer: – – –
+
+Med virkning fra 1. september 2013, gjøres følgende endringer i andre forskrifter:
+
+I [forskrift 10. januar 1996 nr. 16 om angivelse av husholdningsapparaters energi- og ressursforbruk ved hjelp av merking og standardiserte vareopplysninger](for-1996-01-10-16-forskrift-om-merking-av-husholdningsapparater.md) skal [§ 1](for-1996-01-10-16-forskrift-om-merking-av-husholdningsapparater.md) annet ledd lyde: – – –
+
+*Endret ved forskrifter [18 des 2015 nr. 1785](https://lovdata.no/forskrift/2015-12-18-1785) (tidligere § 24), [26 mars 2021 nr. 1040](https://lovdata.no/forskrift/2021-03-26-1040) (tidligere § 32), [20 juni 2025 nr. 1180](https://lovdata.no/forskrift/2025-06-20-1180) (tidligere § 25) [6 jan 2026 nr. 8](https://lovdata.no/forskrift/2026-01-06-8) (tidligere § 26).*
+
+## Forordninger
+
+**Forordningene er ikke konsoliderte.**
+
+For å lese forordning [(EU) nr. 1059/2010](https://lovdata.no/eu/32010r1059) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1060/2010](https://lovdata.no/eu/32010r1060) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1061/2010](https://lovdata.no/eu/32010r1061) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1062/2010](https://lovdata.no/eu/32010r1062) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 626/2011](https://lovdata.no/eu/32011r0626) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 392/2012](https://lovdata.no/eu/32012r0392) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 874/2012](https://lovdata.no/eu/32012r0874) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 665/2013](https://lovdata.no/eu/32013r0665) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 811/2013](https://lovdata.no/eu/32013r0811) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 812/2013](https://lovdata.no/eu/32013r0812) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 65/2014](https://lovdata.no/eu/32014r0065) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 518/2014](https://lovdata.no/eu/32014r0518) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1254/2014](https://lovdata.no/eu/32014r1254) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1094](https://lovdata.no/eu/32015r1094) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1186](https://lovdata.no/eu/32015r1186) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1187](https://lovdata.no/eu/32015r1187) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2017/254](https://lovdata.no/eu/32017r0254) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+*Forordninger tilføyd uten kunngjøring 11 feb 2016, 23 mars 2016, forklarende overskrifter til forordninger fjernet 1 okt 2016, seks forordning oppdatert til off. versjon 25 aug 2017, forordning tilføyd uten kunngjøring 8 mai 2018.*

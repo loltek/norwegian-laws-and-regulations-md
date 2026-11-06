@@ -1,0 +1,20 @@
+{
+  "datasets": [
+    {
+      "dataset": "lover/dataset.json",
+      "description": "Current Norwegian laws (lover)",
+      "format_version": 1,
+      "index": "lover/index.json",
+      "name": "laws",
+      "path": "lover/"
+    },
+    {
+      "dataset": "forskrifter/dataset.json",
+      "description": "Current Norwegian regulations and related central instruments (forskrifter)",
+      "format_version": 1,
+      "index": "forskrifter/index.json",
+      "name": "regulations",
+      "path": "forskrifter/"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+# Forskrift om fredning av truede arter
+
+- **Datokode:** FOR-2001-12-21-1525
+- **DokumentID:** SF/forskrift/2001-12-21-1525
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Avd. for naturforvaltning, Miljødirektoratet
+- **Hjemmel:** lov 19.06.2009 nr. 100/§20; lov 19.06.2009 nr. 100/§77; forskrift 30.04.2010 nr. 947
+- **Publisert i:** I 2001 hefte 16
+- **Kunngjort:** 2002-01-04
+- **I kraft fra:** 2001-12-21
+- **Siste endring i kraft:** 2015-05-29
+- **Sist endret ved:** forskrift 29.05.2015 nr. 562
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 21. desember 2001 med hjemmel i lov av 19. juni 1970 nr. 63 om naturvern § 13, § 14, § 18 nr. 4, jf. § 21 og § 23. Fremmet av Miljøverndepartementet (nå Klima- og miljødepartementet). Tilføyd hjemmel: Lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 20 tredje ledd, jf. § 77 og delegeringsvedtak 30. april 2010 nr. 947. Endret ved forskrifter 13 juli 2005 nr. 821, 6 feb 2008 nr. 113, 18 juni 2010 nr. 948, 20 mai 2011 nr. 517, 20 mai 2011 nr. 521, 20 mai 2011 nr. 522, 20 mai 2011 nr. 523, 15 mars 2013 nr. 284, 19 des 2013 nr. 1757, 29 mai 2015 nr. 561, 29 mai 2015 nr. 562.
+- **Kilde:** <https://lovdata.no/forskrift/2001-12-21-1525>
+
+## I
+
+Formålet med fredningen er å beskytte enkelte arter av truede, sårbare, hensynskrevende eller sjeldne karplanter, kryptogamer (moser, lav og sopp), alger og virvelløse dyr mot skade og ødeleggelse.
+
+## II
+
+Arter og underarter av karplanter (inkl. frø), kryptogamer (moser, lav og sopp), alger og virvelløse dyr i henhold til vedlagte liste er fredet mot direkte skade og ødeleggelse, innsamling og annen form for direkte etterstrebelse.
+
+Klima- og miljødepartementet eller den Klima- og miljødepartementet bestemmer kan etter høring revidere artslisten.
+
+Fredningen omfatter hele landet.
+
+*Endret ved [forskrift 19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+## III
+
+Forvaltningsmyndigheten kan gjøre unntak fra fredningen når formålet med fredningen krever det, samt for vitenskapelige undersøkelser og arbeider, eller tiltak av vesentlig samfunnsmessig betydning, og i andre særlige tilfeller, når det ikke strider mot formålet med fredningen.
+
+## IV
+
+Miljødirektoratet, eller den direktoratet bestemmer, er forvaltningsmyndighet etter denne forskriften.
+
+*Endret ved [forskrift 15 mars 2013 nr. 284](https://lovdata.no/forskrift/2013-03-15-284) (i kraft 1 juli 2013).*
+
+## V
+
+Denne forskrift trer i kraft straks.
+
+## Vedlegg til forskrift om fredning av truede arter
+
+*Artsliste datert (juli 2005) knyttet til forskrift om fredning av truede arter*
+
+*1. Karplanter:*
+
+- Huldrenøkkel (*Botrychium matricariifolium*)
+- Høstmarinøkkel (*Botrychium multifidum)*
+- Dvergmarinøkkel (*Botrychium simplex*)
+- Hjortetunge (*Phyllitis scolopendrium*)
+- Trådbregne (*Pilularia globulifera*)
+- Finnmarksjonsokblom (*Silene involucrata* ssp. *tenella*)
+- Tatarsmelle (*Silene tatarica*)
+- Gul hornvalmue (*Glaucium flavum*)
+- Varangervalmue (*Papaver dahlianum* ssp. *dahlianum*)
+- Kolavalmue (*Papaver lapponicum*)
+- Fjellvalmue (*Papaver radicatum*)
+  1. Vanlig fjellvalmue (ssp. *radicatum*) også kjent som urvalmue, jotunheimvalmue, dovrefjellvalmue, trollheimvalmue, øksendalvalmue, svartisvalmue, tromsvalmue, avkovalmue og stjernøyvalmue
+  2. Læstadiusvalmue (ssp. *laestadianum*)
+- Bergjunker (*Saxifraga paniculata*)
+- Mosesildre (*Saxifraga hypnoides*)
+- Myrsildre (*Saxifraga hirculus*)
+- Kvitmure (*Potentilla rupestris*)
+- Hestekjørvel (*Oenanthe aquatica*)
+- Vasskjeks (*Berula erecta*)
+- Strandtorn (*Eryngium maritimum*)
+- Bittergrønn (*Chimaphila umbellata*)
+- Polarflokk (*Polemonium boreale*)
+- Kammarimjelle (*Melampyrum cristatum*)
+- Dvergtistel (*Cirsium acaule*)
+- Finnmarksvineblom (*Senecio integrifolius*)
+- Jærtistel (*Serratula tinctoria*)
+- Parykknoppurt/skjeggknoppurt (*Centaurea phrygia* alle underarter)
+- Flytegro (*Luronium natans*)
+- Mjukt havfruegras (*Najas flexilis*)
+- Kveinhavre (*Trisetum subalpestre*)
+- Hvit skogfrue (*Cephalanthera longifolia*)
+- Marisko (*Cypripedium calceolus*)
+- Purpurmarihand (*Dactylorhiza purpurella*)
+- Søstermarihand (*Dactylorhiza sambucina*)
+- Narrmarihand (*Anacamptis morio*)
+- Myrflangre (*Epipactis palustris*)
+- Huldreblom (*Epipogium aphyllum*)
+- Knottblom (*Microstylis monophyllos*)
+- Flueblom (*Ophrys insectifera*)
+- Sibirnattfiol (*Platanthera obtusata* ssp. *oligantha*)
+
+*2. Kryptogamer:*
+
+1. *Moser:*
+   - Råtetvebladmose (*Scapania carinthiaca* var. *massalongi*)
+   - Sylmose (*Atractylocarpus alpinus*)
+   - Grønnsko (*Buxbaumia viridis*)
+   - Storskortemose (*Cynodontium suecicum*)
+   - Stammesigd (*Dicranum viride*)
+   - Alvemose (*Hamatocaulis vernicosus*)
+   - Stakesvanemose (*Meesia longiseta*)
+   - Sporebustehette (*Orthotrichium rogeri*)
+2. *Lav:* (ingen)
+3. *Sopp:* (ingen)
+
+*3. Alger:* (ingen)
+
+*4. Virvelløse dyr:*
+
+- Legeigle (*Hirudo medicinalis*)
+- Vannlilje-torvlibelle (*Leucorrhinia caudalis*)
+- Grå torvlibelle (*Leucorrhinia albifrons*)
+- Stor torvlibelle (*Leucorrhinia pectoralis*)
+- Apollosommerfugl (*Parnassius apollo*)
+- Mnemosynesommerfugl (*Parnassius mnemosyne*)
+- Herosommerfugl (*Coenonympha hero*)
+- Sinoberbille (*Cucujus cinnaberinus*)
+- Kjempevannkalv (*Dytiscus latissimus)*
+- En art vannkalv (*Graphoderus bilineatus*)
+- Lakrismjeltblåvinge (*Plebejus argyrognomon*).
+
+*Endret ved [forskrifter 13 juli 2005 nr. 821](https://lovdata.no/forskrift/2005-07-13-821), [6 feb 2008 nr. 113](https://lovdata.no/forskrift/2008-02-06-113), [18 juni 2010 nr. 948](https://lovdata.no/forskrift/2010-06-18-948), [20 mai 2011 nr. 517](for-2011-05-20-517-forskrift-om-dragehode-som-prioritert-art.md), [20 mai 2011 nr. 521](for-2011-05-20-521-forskrift-om-honningblom-som-prioritert-art.md), [20 mai 2011 nr. 522](for-2011-05-20-522-forskrift-om-klippeblaavinge-som-prioritert-art.md), [20 mai 2011 nr. 523](for-2011-05-20-523-forskrift-om-rod-skogfrue-som-prioritert-art.md), [29 mai 2015 nr. 561](for-2015-05-29-561-forskrift-om-skredmjelt-som-prioritert-art.md), [29 mai 2015 nr. 562](for-2015-05-29-562-forskrift-om-svartkurle-som-prioritert-art.md).*

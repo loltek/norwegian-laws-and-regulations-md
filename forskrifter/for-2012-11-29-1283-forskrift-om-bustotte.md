@@ -1,0 +1,181 @@
+# Forskrift om bustøtte
+
+- **Datokode:** FOR-2012-11-29-1283
+- **DokumentID:** SF/forskrift/2012-11-29-1283
+- **Departement:** Kommunal- og distriktsdepartementet
+- **Etat:** Bolig- og bygningsavdelingen
+- **Hjemmel:** lov 24.08.2012 nr. 64/§6; lov 24.08.2012 nr. 64/§7; lov 24.08.2012 nr. 64/§8; lov 24.08.2012 nr. 64/§8a; lov 24.08.2012 nr. 64/§8b; lov 24.08.2012 nr. 64/§10; lov 24.08.2012 nr. 64/§14
+- **Publisert i:** I 2012 hefte 14
+- **Kunngjort:** 2012-12-20 14:50
+- **I kraft fra:** 2013-01-01
+- **Siste endring i kraft:** 2026-09-01
+- **Sist endret ved:** forskrift 25.08.2026 nr. 1681 fra 2026-09-01
+- **Endrer:** forskrift 19.06.2009 nr. 699
+- **Gjelder for:** Norge
+- **Merknad:** Heimel: Fastsett av Kommunal- og regionaldepartementet 29. november 2012 med heimel i lov 24. august 2012 nr. 64 om bustøtte (bustøttelova) § 6, § 7, § 8, § 8a, § 8b, § 10 og § 14. Endra ved forskrifter 19 juni 2013 nr. 676, 12 des 2013 nr. 1495, 17 des 2014 nr. 1772, 19 des 2014 nr. 1857, 16 des 2015 nr. 1688, 17 juni 2016 nr. 721, 19 des 2016 nr. 1738, 21 mai 2017 nr. 646, 25 mai 2018 nr. 767, 19 des 2018 nr. 2142, 24 mai 2019 nr. 685, 1 juli 2019 nr. 944, 19 aug 2019 nr. 1073, 9 des 2019 nr. 1699 (i kraft 1 jan 2020), 4 mai 2020 nr. 935, 18 mai 2020 nr. 1022 (i kraft 1 juni 2020), 18 mai 2020 nr. 1022 (i kraft 1 nov 2020), 18 des 2020 nr. 3025 (i kraft 1 jan 2021), 13 mars 2021 nr. 691, 25 mai 2021 nr. 1693 (i kraft 1 juni 2021), 20 des 2021 nr. 3780, 20 des 2021 nr. 3780 (i kraft 1 jan 2022), 20 des 2021 nr. 3780 (i kraft 1 mars 2022), 20 april 2022 nr. 590, 20 april 2022 nr. 590 (i kraft 1 juni 2022), 25 mai 2022 nr. 915 (i kraft 1 juni 2022), 21 juni 2022 nr. 1122, 22 des 2022 nr. 2501, 30 jan 2023 nr. 112 (i kraft 1 feb 2023), 25 feb 2023 nr. 257 (i kraft 1 mars 2023), 30 mai 2023 nr. 753 (i kraft 1 juni 2023), 10 juli 2023 nr. 1262, 4 jan 2024 nr. 35, 4 jan 2024 nr. 35 (i kraft 1 april 2024), 28 mai 2024 nr. 859 (i kraft 1 juni 2024), 28 juni 2024 nr. 1393 (i kraft 1 juli 2024), 28 aug 2024 nr. 2046 (i kraft 1 sep 2024), 23 sep 2024 nr. 2234 (i kraft 1 okt 2024), 19 des 2024 nr. 3386 (i kraft 1 jan 2025), 27 mai 2025 nr. 902 (i kraft 1 juni 2025), 26 mai 2026 nr. 940 (i kraft 1 juni 2026), 25 aug 2026 nr. 1681 (i kraft 1 sep 2026).
+- **Kilde:** <https://lovdata.no/forskrift/2012-11-29-1283>
+
+## § 1. Utrekning av bustøtte
+
+Utbetalt bustøtte er 73,7 prosent av differansen mellom godkjente buutgifter etter [§ 2](for-2012-11-29-1283-forskrift-om-bustotte.md) og [§ 3](for-2012-11-29-1283-forskrift-om-bustotte.md) og ein eigendel etter [§ 4](for-2012-11-29-1283-forskrift-om-bustotte.md), [§ 5](for-2012-11-29-1283-forskrift-om-bustotte.md), [§ 6](for-2012-11-29-1283-forskrift-om-bustotte.md), [§ 7](for-2012-11-29-1283-forskrift-om-bustotte.md) og [§ 8](for-2012-11-29-1283-forskrift-om-bustotte.md).
+
+*Endra ved [forskrifter 19 des 2014 nr. 1857](https://lovdata.no/forskrift/2014-12-19-1857) (i kraft 1 jan 2015), [16 des 2015 nr. 1688](https://lovdata.no/forskrift/2015-12-16-1688) (i kraft 1 jan 2016).*
+
+## § 2. Utrekning av godkjente buutgifter
+
+Ved utrekning av godkjente buutgifter inngår:
+
+a. Husleige for leigde bustader
+b. Felleskostnader og utgifter til renter, avdrag og gebyr på lån til finansiering av bustaden for bustader i burettslag, eigarseksjonssameige, aksjeleilegheiter og obligasjonsleilegheiter
+c. For andre bustader er godkjente buutgifter
+   1. driftsutgifter med kr 15 262 per år
+   2. utgifter til renter, avdrag og gebyr på lån til finansiering av bustaden
+   3. utgifter til kommunale avgifter som er fastsett på grunnlag av innhenta opplysningar om gjennomsnittet frå kvar kommune
+   4. eigedomsskatt
+   5. festeavgift.
+d. For dei som ikkje betalar for oppvarming heilt eller delvis gjennom husleige eller fellesutgifter, inngår i tillegg utgifter til oppvarming med kr 7 631 per år.
+
+*Endra ved [forskrifter 21 mai 2017 nr. 646](https://lovdata.no/forskrift/2017-05-21-646) (i kraft 1 juni 2017), [25 mai 2018 nr. 767](https://lovdata.no/forskrift/2018-05-25-767) (i kraft 1 juni 2018), [24 mai 2019 nr. 685](https://lovdata.no/forskrift/2019-05-24-685) (i kraft 1 juni 2019), [18 mai 2020 nr. 1022](https://lovdata.no/forskrift/2020-05-18-1022) (i kraft 1 juni 2020), [25 mai 2021 nr. 1693](https://lovdata.no/forskrift/2021-05-25-1693) (i kraft 1 juni 2021), [25 mai 2022 nr. 915](https://lovdata.no/forskrift/2022-05-25-915) (i kraft 1 juni 2022), [30 mai 2023 nr. 753](https://lovdata.no/forskrift/2023-05-30-753) (i kraft 1 juni 2023), [28 mai 2024 nr. 859](https://lovdata.no/forskrift/2024-05-28-859) (i kraft 1 juni 2024), [28 aug 2024 nr. 2046](https://lovdata.no/forskrift/2024-08-28-2046) (i kraft 1 sep 2024), [27 mai 2025 nr. 902](https://lovdata.no/forskrift/2025-05-27-902) (i kraft 1 juni 2025), [26 mai 2026 nr. 940](https://lovdata.no/forskrift/2026-05-26-940) (i kraft 1 juni 2026).*
+
+## § 3. Øvre grense for buutgifter
+
+Årlege buutgifter som ligg innanfor følgjande øvre grenser (buutgiftstak) går inn i utrekninga:
+
+a. kr 92 234 i ein husstand med ein person
+b. kr 113 774 i ein husstand med to personar
+c. kr 125 977 i ein husstand med tre personar
+d. kr 138 182 i ein husstand med fire personar
+e. kr 150 385 i ein husstand med fem personar eller fleire.
+
+I nokre kommunar er den øvre grensa for årlege buutgifter høgare enn i resten av landet. Grensa er:
+
+a. kr 27 982 høgare i Oslo
+b. kr 19 079 høgare i Bergen, Trondheim, Tromsø, Stavanger og Bærum
+c. kr 12 720 høgare i Kristiansand, Lillestrøm, Frogn, Lørenskog, Nordre Follo, Asker, Nesodden, Sola og Sandnes.
+
+Har husstanden særskilt høge buutgifter fordi nokon i husstanden er funksjonshemma og har behov for ein spesialtilpassa bustad, kan den øvre grensa for buutgiftene aukast med kr 5 724 per år.
+
+*Endra ved [forskrifter 19 juni 2013 nr. 676](https://lovdata.no/forskrift/2013-06-19-676) (i kraft 1 juli 2013), [12 des 2013 nr. 1495](https://lovdata.no/forskrift/2013-12-12-1495) (i kraft 1 jan 2014), [19 des 2014 nr. 1857](https://lovdata.no/forskrift/2014-12-19-1857) (i kraft 1 jan 2015), [16 des 2015 nr. 1688](https://lovdata.no/forskrift/2015-12-16-1688) (i kraft 1 jan 2016), [21 mai 2017 nr. 646](https://lovdata.no/forskrift/2017-05-21-646) (i kraft 1 juni 2017), [25 mai 2018 nr. 767](https://lovdata.no/forskrift/2018-05-25-767) (i kraft 1 juni 2018), [19 des 2018 nr. 2142](https://lovdata.no/forskrift/2018-12-19-2142) (i kraft 1 jan 2019), [24 mai 2019 nr. 685](https://lovdata.no/forskrift/2019-05-24-685) (i kraft 1 juni 2019), [1 juli 2019 nr. 944](https://lovdata.no/forskrift/2019-07-01-944), [9 des 2019 nr. 1699](https://lovdata.no/forskrift/2019-12-09-1699) (i kraft 1 jan 2020), [4 mai 2020 nr. 935](https://lovdata.no/forskrift/2020-05-04-935), [18 mai 2020 nr. 1022](https://lovdata.no/forskrift/2020-05-18-1022) (i kraft 1 juni 2020), [18 mai 2020 nr. 1022](https://lovdata.no/forskrift/2020-05-18-1022) (i kraft 1 nov 2020), [13 mars 2021 nr. 691](https://lovdata.no/forskrift/2021-03-13-691), [25 mai 2021 nr. 1693](https://lovdata.no/forskrift/2021-05-25-1693) (i kraft 1 juni 2021), [20 des 2021 nr. 3780](https://lovdata.no/forskrift/2021-12-20-3780) (i kraft 1 jan 2022), [25 mai 2022 nr. 915](https://lovdata.no/forskrift/2022-05-25-915) (i kraft 1 juni 2022), [30 mai 2023 nr. 753](https://lovdata.no/forskrift/2023-05-30-753) (i kraft 1 juni 2023), [28 mai 2024 nr. 859](https://lovdata.no/forskrift/2024-05-28-859) (i kraft 1 juni 2024), [28 juni 2024 nr. 1393](https://lovdata.no/forskrift/2024-06-28-1393) (i kraft 1 juli 2024), [27 mai 2025 nr. 902](https://lovdata.no/forskrift/2025-05-27-902) (i kraft 1 juni 2025), [26 mai 2026 nr. 940](https://lovdata.no/forskrift/2026-05-26-940) (i kraft 1 juni 2026).*
+
+## § 4. Utgangspunktet for fastsetting av eigendelen
+
+Eigendelen som blir trekt i frå buutgiftene, jf. [§ 1](for-2012-11-29-1283-forskrift-om-bustotte.md), blir bestemt av den omrekna inntekta, jf. [§ 7](for-2012-11-29-1283-forskrift-om-bustotte.md).
+
+Minste eigendel er kr 26 576 per år for alle. For husstandar med ei omrekna inntekt over kr 137 462 blir 16,44 prosent av den omrekna inntekta som overstig kr 137 462 lagt til eigendelen.
+
+For husstandar med ei omrekna inntekt over kr 245 278 blir enda 63,56 prosent av den omrekna inntekta som overstig kr 245 278 lagt til eigendelen.
+
+Inntektsgrensa i tredje ledd er kr 295 795 for husstandar som har eit medlem som har varig uføretrygd eller uførepensjon ved yrkesskade, jf. [lov 28. februar 1997 nr. 19 om folketrygd kapittel 12](../lover/lov-1997-02-28-19-folketrygdloven.md), og som i tillegg er ung ufør, jf. [§ 12-13](../lover/lov-1997-02-28-19-folketrygdloven.md) i lova.
+
+Inntektsgrensa i andre ledd er kr 156 275 og inntektsgrensa i tredje ledd er kr 264 613 for husstandar som har eit medlem som er einsleg og har alderspensjon etter [lov 28. februar 1997 nr. 19 om folketrygd kapittel 19](../lover/lov-1997-02-28-19-folketrygdloven.md) og [20](../lover/lov-1997-02-28-19-folketrygdloven.md).
+
+*Endra ved [forskrifter 19 juni 2013 nr. 676](https://lovdata.no/forskrift/2013-06-19-676) (i kraft 1 juli 2013), [16 des 2015 nr. 1688](https://lovdata.no/forskrift/2015-12-16-1688) (i kraft 1 jan 2016), [17 juni 2016 nr. 721](https://lovdata.no/forskrift/2016-06-17-721) (i kraft 1 juli 2016), [19 des 2016 nr. 1738](https://lovdata.no/forskrift/2016-12-19-1738) (i kraft 1 jan 2017), [21 mai 2017 nr. 646](https://lovdata.no/forskrift/2017-05-21-646) (i kraft 1 juni 2017), [25 mai 2018 nr. 767](https://lovdata.no/forskrift/2018-05-25-767) (i kraft 1 juni 2018), [24 mai 2019 nr. 685](https://lovdata.no/forskrift/2019-05-24-685) (i kraft 1 juni 2019), [19 aug 2019 nr. 1073](https://lovdata.no/forskrift/2019-08-19-1073) (i kraft 1 sep 2019), [4 mai 2020 nr. 935](https://lovdata.no/forskrift/2020-05-04-935), [18 mai 2020 nr. 1022](https://lovdata.no/forskrift/2020-05-18-1022) (i kraft 1 juni 2020), [18 mai 2020 nr. 1022](https://lovdata.no/forskrift/2020-05-18-1022) (i kraft 1 nov 2020, endringen antatt å gjelde tredje, ikke annet ledd, Lovdatas anm.), [25 mai 2021 nr. 1693](https://lovdata.no/forskrift/2021-05-25-1693) (i kraft 1 juni 2021), [20 des 2021 nr. 3780](https://lovdata.no/forskrift/2021-12-20-3780), [20 des 2021 nr. 3780](https://lovdata.no/forskrift/2021-12-20-3780) (i kraft 1 jan 2022), [20 des 2021 nr. 3780](https://lovdata.no/forskrift/2021-12-20-3780) (i kraft 1 mars 2022), [20 april 2022 nr. 590](https://lovdata.no/forskrift/2022-04-20-590), [20 april 2022 nr. 590](https://lovdata.no/forskrift/2022-04-20-590) (i kraft 1 juni 2022), [25 mai 2022 nr. 915](https://lovdata.no/forskrift/2022-05-25-915) (i kraft 1 juni 2022), [21 juni 2022 nr. 1122](https://lovdata.no/forskrift/2022-06-21-1122), [22 des 2022 nr. 2501](for-2022-12-22-2501-forskrift-om-endring-i-forskrift-om-bustotte.md), [25 feb 2023 nr. 257](https://lovdata.no/forskrift/2023-02-25-257) (i kraft 1 mars 2023), [30 mai 2023 nr. 753](https://lovdata.no/forskrift/2023-05-30-753) (i kraft 1 juni 2023), [10 juli 2023 nr. 1262](https://lovdata.no/forskrift/2023-07-10-1262), [4 jan 2024 nr. 35](https://lovdata.no/forskrift/2024-01-04-35), [4 jan 2024 nr. 35](https://lovdata.no/forskrift/2024-01-04-35) (i kraft 1 april 2024), [28 mai 2024 nr. 859](https://lovdata.no/forskrift/2024-05-28-859) (i kraft 1 juni 2024), [28 juni 2024 nr. 1393](https://lovdata.no/forskrift/2024-06-28-1393) (i kraft 1 juli 2024), [27 mai 2025 nr. 902](https://lovdata.no/forskrift/2025-05-27-902) (i kraft 1 juni 2025), [26 mai 2026 nr. 940](https://lovdata.no/forskrift/2026-05-26-940) (i kraft 1 juni 2026), [25 aug 2026 nr. 1681](https://lovdata.no/forskrift/2026-08-25-1681) (i kraft 1 sep 2026).*
+
+## § 5. Opplysningar om inntekta og formuen til husstanden
+
+Grunnlaget for omrekning av inntekt jf. [§ 7](for-2012-11-29-1283-forskrift-om-bustotte.md), er inntekta og formuen til alle medlemane i husstanden, med nokre unnatak. Inntekta og formuen til barn under 18 år teller ikkje med, heller ikkje inntekta til vaksne under 20 år når dei ikkje sjølv er hovudsøkjar. Inntekt frå NAV-ytingar som utbetalast i høve til meldekort for 14 dagar av gangen, reknast med med to tredeler av beløpet i månader der tre påfølgjande 14 dagars perioder blir utbetalt i same kalendermånad.
+
+Opplysingar om inntekt blir henta inn frå Skatteetaten kvar månad på bakgrunn av tal frå a-ordninga, jf. [lov 22. juni 2012 nr. 43 om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m](../lover/lov-2012-06-22-43-a-opplysningsloven.md).
+
+I tillegg må søkjaren gje opplysningar om skattbar inntekt og formue som ikkje blir henta inn frå a-ordninga, som til dømes næringsinntekter, kapitalinntekter og formue for heile året. Om ikkje søkjar gjev slike opplysningar, kan Husbanken stipulere tal på grunnlag av siste fastsetting av formues- og inntektsskatt (eventuelt etter korrigering frå skattekontoret, jf. lov 27. mai 2016 nr. 14 om skatteforvaltning (skatteforvaltningsloven) [kapittel 12](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md)). Slike inntekter skal reknast som likt fordelt gjennom heile året, med mindre særlege omstende gjev grunnlag for unnatak.
+
+Husbanken kan sjå bort i frå opplysningar etter a-ordninga, dersom dei openbert ikkje er korrekte.
+
+Skattefrie leigeinntekter skal reknast som inntekt.
+
+All inntekt og formue i eller frå utlandet blir rekna med brutto beløp i norske kroner.
+
+Kvar person i husstanden kan ha ei kapitalinntekt på 6 886 kroner per år utan at inntekta blir teke med i grunnlaget for bustøtte.
+
+Dersom søkjaren kan dokumentere at det er teke refusjon i etterbetaling frå NAV skal refusjonen ikkje reknast med i grunnlaget for bustøtte.
+
+Etterbetalingar av G-regulerte ytingar frå NAV eller frå kommunar som gjeld mai og som vert utbetalt i juni, skal ikkje reknast med i grunnlaget for bustøtte for juni. Dersom søkjaren gjennom ein klage gjer Husbanken merksam på at etterbetalingar for mai som kjem frå andre kjelder eller i seinare månader, skuldast trygdeoppgjeret, kan Husbanken sjå bort frå desse etterbetalingane.
+
+*Endra ved [forskrifter 19 des 2016 nr. 1738](https://lovdata.no/forskrift/2016-12-19-1738) (i kraft 1 jan 2017), [21 mai 2017 nr. 646](https://lovdata.no/forskrift/2017-05-21-646) (i kraft 1 juni 2017), [25 mai 2018 nr. 767](https://lovdata.no/forskrift/2018-05-25-767) (i kraft 1 juni 2018), [24 mai 2019 nr. 685](https://lovdata.no/forskrift/2019-05-24-685) (i kraft 1 juni 2019), [18 mai 2020 nr. 1022](https://lovdata.no/forskrift/2020-05-18-1022) (i kraft 1 juni 2020), [25 mai 2021 nr. 1693](https://lovdata.no/forskrift/2021-05-25-1693) (i kraft 1 juni 2021), [25 mai 2022 nr. 915](https://lovdata.no/forskrift/2022-05-25-915) (i kraft 1 juni 2022), [30 mai 2023 nr. 753](https://lovdata.no/forskrift/2023-05-30-753) (i kraft 1 juni 2023), [28 mai 2024 nr. 859](https://lovdata.no/forskrift/2024-05-28-859) (i kraft 1 juni 2024), [23 sep 2024 nr. 2234](https://lovdata.no/forskrift/2024-09-23-2234) (i kraft 1 okt 2024), [19 des 2024 nr. 3386](https://lovdata.no/forskrift/2024-12-19-3386) (i kraft 1 jan 2025), [27 mai 2025 nr. 902](https://lovdata.no/forskrift/2025-05-27-902) (i kraft 1 juni 2025), [26 mai 2026 nr. 940](https://lovdata.no/forskrift/2026-05-26-940) (i kraft 1 juni 2026).*
+
+## § 6. Formue som blir lagt til inntekt
+
+Til inntekta blir det lagt 65 prosent av den delen av netto formuen til husstanden som er att når eit fribeløp er trekt frå. Fribeløpet er kr 344 231 for husstandar i leigde bustadar. For andre husstandar er fribeløpet formuesverdien av eigen bustad inntil kr 722 883.
+
+*Endra ved [forskrifter 12 des 2013 nr. 1495](https://lovdata.no/forskrift/2013-12-12-1495) (i kraft 1 jan 2014), [19 des 2014 nr. 1857](https://lovdata.no/forskrift/2014-12-19-1857) (i kraft 1 jan 2015), [21 mai 2017 nr. 646](https://lovdata.no/forskrift/2017-05-21-646) (i kraft 1 juni 2017), [25 mai 2018 nr. 767](https://lovdata.no/forskrift/2018-05-25-767) (i kraft 1 juni 2018), [24 mai 2019 nr. 685](https://lovdata.no/forskrift/2019-05-24-685) (i kraft 1 juni 2019), [18 mai 2020 nr. 1022](https://lovdata.no/forskrift/2020-05-18-1022) (i kraft 1 juni 2020), [25 mai 2021 nr. 1693](https://lovdata.no/forskrift/2021-05-25-1693) (i kraft 1 juni 2021), [20 des 2021 nr. 3780](https://lovdata.no/forskrift/2021-12-20-3780), [20 des 2021 nr. 3780](https://lovdata.no/forskrift/2021-12-20-3780) (i kraft 1 mars 2022), [25 mai 2022 nr. 915](https://lovdata.no/forskrift/2022-05-25-915) (i kraft 1 juni 2022), [30 mai 2023 nr. 753](https://lovdata.no/forskrift/2023-05-30-753) (i kraft 1 juni 2023), [28 mai 2024 nr. 859](https://lovdata.no/forskrift/2024-05-28-859) (i kraft 1 juni 2024), [23 sep 2024 nr. 2234](https://lovdata.no/forskrift/2024-09-23-2234) (i kraft 1 okt 2024), [27 mai 2025 nr. 902](https://lovdata.no/forskrift/2025-05-27-902) (i kraft 1 juni 2025), [26 mai 2026 nr. 940](https://lovdata.no/forskrift/2026-05-26-940) (i kraft 1 juni 2026).*
+
+## § 7. Omrekning av inntekt etter talet på personar i husstanden
+
+Det blir fastset ei omrekna inntekt som blir nytta ved utrekninga av eigendel, jf. [§ 4](for-2012-11-29-1283-forskrift-om-bustotte.md). Inntekta til husstanden, medrekna tillegg for formue, blir dividert med ei vekt etter kor stor husstanden er og korleis han er sett saman. Vekta til husstanden kjem fram ved å summere dei einskilde vektene til personane i husstanden. Første person i husstanden har vekta 1,0 og kvar einskild av dei andre personane har ei vekt på 0,13 dersom dei har fylt 18 år, og på 0,15 dersom dei er under 18 år.
+
+*Endra ved forskrifter [20 des 2021 nr. 3780](https://lovdata.no/forskrift/2021-12-20-3780) (i kraft 1 jan 2022), [30 jan 2023 nr. 112](https://lovdata.no/forskrift/2023-01-30-112) (i kraft 1 feb 2023).*
+
+## § 8. Berekningsreglar i samband med iverksetting av uførereforma i 2015
+
+Personar som var del av ein husstand som fekk utbetalt bustøtte for desember 2014, og som då fekk ytingar etter [folketrygdlova kapittel 12](../lover/lov-1997-02-28-19-folketrygdloven.md), skal ha eit frådrag i inntekta så lenge dei får slike ytingar. Det blir først fastsett eit årsbeløp som svarer til dei ytingane vedkomande hadde per 1. desember 2014 og som gjekk inn i grunnlaget for uføretrygd etter [forskrift 3. juli 2014 nr. 947](for-2014-07-03-947-forskrift-om-omregning-av-uforepensjon-til-uforetrygd.md) om omrekning av uførepensjon til uføretrygd. Deretter blir det rekna ut eit årsbeløp som svarer til uføretrygda per 1. januar 2015. Frådraget i inntekta skal svare til differansen mellom dei to beløpa med eit tillegg på 3,43 prosent av denne differansen.
+
+*Tilføyd ved [forskrift 17 des 2014 nr. 1772](https://lovdata.no/forskrift/2014-12-17-1772) (i kraft 1 jan 2015), endra ved [forskrifter 17 juni 2016 nr. 721](https://lovdata.no/forskrift/2016-06-17-721) (i kraft 1 juli 2016), [19 des 2016 nr. 1738](https://lovdata.no/forskrift/2016-12-19-1738) (i kraft 1 jan 2017, tidlegare § 8a).*
+
+## § 9. Søknaden
+
+Ein søknad om bustøtte skal setjast fram på søknadsskjema og innan fristen Husbanken har fastsett. Ufullstendige søknader blir rekna som om dei ikkje er komne innan søknadsfristen. Blir søknaden retta innan éin månad etter søknadsfristen, blir han likevel rekna som komen innan fristen.
+
+Blir søknaden om bustøtte avslått som følgje av behovsprøvinga, skal søknaden prøvast på nytt to månader utan at søkjaren må levere inn ny søknad. Søknader som blir innvilga, skal overførast til ny vurdering månaden etter.
+
+*Endra ved [forskrift 19 des 2016 nr. 1738](https://lovdata.no/forskrift/2016-12-19-1738) (i kraft 1 jan 2017).*
+
+## § 10. Opplysningar om husstanden og bustaden
+
+Den første i kvar månad er utgangspunktet for alle opplysningar om husstanden og bustaden ved utrekninga av bustøtte for denne månaden.
+
+Både dei som faktisk bur i bustaden og dei som er registrerte i folkeregisteret som busette på adressa, blir rekna med i husstanden. Det kan i særlege høve gjevast fritak frå kravet om registrering som busett i bustaden. Barn med delt fast bustad kan reknast med hos båe foreldre.
+
+*Endra ved forskrift [25 mai 2021 nr. 1693](https://lovdata.no/forskrift/2021-05-25-1693) (i kraft 1 juni 2021).*
+
+## § 11. Opplysingsplikt om endringar
+
+Søkjaren skal gje opplysningar til kommunen om endra forhold som søkjaren forstår eller bør forstå har verknad for utrekning og utbetaling av bustøtte.
+
+## § 12. Utlevering av opplysningar
+
+Teieplikta etter forvaltningslova hindrar ikkje Husbanken og kommunane i å gje ut opplysningar frå bustøtteregisteret og bustøttesøknadene til
+
+a. NAV, likningskontor og andre kommunale instansar som i sakshandsaminga si treng opplysningar om dei som får bustøtte og kor mykje bustøtte dei får
+b. revisjon eller anna form for kontroll av verksemda til Husbanken og kommunane.
+
+## § 13. Utbetaling
+
+Bustøtte blir utbetalt på etterskot den 20. kvar månad. Minste utbetaling er 63 kroner per månad.
+
+Husbanken betaler bustøtte direkte til søkjaren. Utbetalinga skal skje direkte til kommunen dersom søkjaren og kommunen har inngått avtale om det jf. lov om bustøtte [§ 9](for-2012-11-29-1283-forskrift-om-bustotte.md).
+
+*Endra ved forskrifter [19 des 2016 nr. 1738](https://lovdata.no/forskrift/2016-12-19-1738) (i kraft 1 jan 2017), [18 des 2020 nr. 3025](https://lovdata.no/forskrift/2020-12-18-3025) (i kraft 1 jan 2021), [25 mai 2021 nr. 1693](https://lovdata.no/forskrift/2021-05-25-1693) (i kraft 1 juni 2021), [25 mai 2022 nr. 915](https://lovdata.no/forskrift/2022-05-25-915) (i kraft 1 juni 2022), [30 mai 2023 nr. 753](https://lovdata.no/forskrift/2023-05-30-753) (i kraft 1 juni 2023), [28 mai 2024 nr. 859](https://lovdata.no/forskrift/2024-05-28-859) (i kraft 1 juni 2024), [27 mai 2025 nr. 902](https://lovdata.no/forskrift/2025-05-27-902) (i kraft 1 juni 2025), [26 mai 2026 nr. 940](https://lovdata.no/forskrift/2026-05-26-940) (i kraft 1 juni 2026).*
+
+## § 14. Ny utrekning av bustøtte
+
+Dersom korrigerte opplysningar frå a-ordninga eller etterkontroll syner at mottakaren har fått utbetalt for lite eller for mykje bustøtte etter forskrifta her, skal det gjennomførast eit etteroppgjer.
+
+Husbanken hentar inn oppdaterte opplysningar frå a-ordninga fram til fastsetting av formue og inntektsskatt for det same året.
+
+Dersom det er utbetalt for høg bustøtte fordi mottakaren hadde høgare inntekt og formue enn det som er lagt til grunn da støtta vart vedteken, skal for mykje utbetalt bustøtte motreknast mot seinare bustøtte eller krevjast tilbake med mindre anna følgjer av siste ledd.
+
+Dersom det er utbetalt for låg bustøtte fordi mottakaren hadde lågare inntekt og formue enn det som er lagt til grunn da støtta vart vedteken, skal for lite utbetalt bustøtte betalast ut til mottakaren med mindre anna følgjer av siste ledd.
+
+For lite utbetalt bustøtte skal ikkje etterbetalast dersom summen er lågare enn 63 kroner. For mykje utbetalt bustøtte skal ikkje betalast tilbake dersom summen er lågare enn eitt rettsgebyr, jf. [lov 17. desember 1982 nr. 86 om rettsgebyr](../lover/lov-1982-12-17-86-rettsgebyrloven.md).
+
+*Endra ved [forskrifter 19 juni 2013 nr. 676](https://lovdata.no/forskrift/2013-06-19-676) (i kraft 1 juli 2013), [12 des 2013 nr. 1495](https://lovdata.no/forskrift/2013-12-12-1495) (i kraft 1 jan 2014), [19 des 2016 nr. 1738](https://lovdata.no/forskrift/2016-12-19-1738) (i kraft 1 jan 2017), [18 des 2020 nr. 3025](https://lovdata.no/forskrift/2020-12-18-3025) (i kraft 1 jan 2021), [25 mai 2021 nr. 1693](https://lovdata.no/forskrift/2021-05-25-1693) (i kraft 1 juni 2021), [25 mai 2022 nr. 915](https://lovdata.no/forskrift/2022-05-25-915) (i kraft 1 juni 2022), [30 mai 2023 nr. 753](https://lovdata.no/forskrift/2023-05-30-753) (i kraft 1 juni 2023), [28 mai 2024 nr. 859](https://lovdata.no/forskrift/2024-05-28-859) (i kraft 1 juni 2024), [27 mai 2025 nr. 902](https://lovdata.no/forskrift/2025-05-27-902) (i kraft 1 juni 2025), [26 mai 2026 nr. 940](https://lovdata.no/forskrift/2026-05-26-940) (i kraft 1 juni 2026).*
+
+## § 15. Rett til motrekning
+
+Bustøtte kan bli nytta til motrekning av eit krav som Husbanken har på tilbakebetaling av feil utbetalt bustøtte.
+
+## § 16. Ikraftsetjing
+
+Forskrifta blir sett i kraft 1. januar 2013. Frå same tidspunkt blir [forskrift 19. juni 2009 nr. 699](https://lovdata.no/forskrift/2009-06-19-699) om bustøtte oppheva.
+
+## § 17. Overgangsordning
+
+Mottakarar som fekk bustøtte i juni 2009 skal ikkje få mindre utbetalt som følgje av endra bustøttereglar frå 1. juli 2009.
+
+Overgangsordninga etter første ledd gjeld ikkje dersom den omrekna inntekta til husstanden blir høgare enn den høgste av den øvre inntektsgrensa for å få bustøtte i juni 2009 og den til kvar tid gjeldande øvre inntektsgrense for å motta bustøtte. Overgangsordninga etter første ledd gjeld i alle høve ikkje dersom husstanden flyttar eller talet på medlemer i husstanden endrar seg.
+
+For andre enn unge uføre, jf. [§ 4](for-2012-11-29-1283-forskrift-om-bustotte.md) siste ledd, blir overgangsordninga trappa ned med 20 prosentpoeng kvart år over fem år frå og med 1. juli 2010.
+
+[§ 13](for-2012-11-29-1283-forskrift-om-bustotte.md) om minste utbetaling gjeld òg for overgangsordningane.
+
+*Endra ved [forskrifter 12 des 2013 nr. 1495](https://lovdata.no/forskrift/2013-12-12-1495) (i kraft 1 jan 2014), [21 mai 2017 nr. 646](https://lovdata.no/forskrift/2017-05-21-646) (i kraft 1 juni 2017), [1 juli 2019 nr. 944](https://lovdata.no/forskrift/2019-07-01-944), [19 aug 2019 nr. 1073](https://lovdata.no/forskrift/2019-08-19-1073) (i kraft 1 sep 2019), [27 mai 2025 nr. 902](https://lovdata.no/forskrift/2025-05-27-902) (i kraft 1 juni 2025).*

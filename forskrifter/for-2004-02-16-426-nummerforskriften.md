@@ -1,0 +1,590 @@
+# Forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)
+
+- **Korttittel:** Nummerforskriften
+- **Datokode:** FOR-2004-02-16-426
+- **DokumentID:** SF/forskrift/2004-02-16-426
+- **Departement:** Digitaliserings- og forvaltningsdepartementet
+- **Etat:** Avdeling for digitaliseringspolitikk (DIA), Nasjonal kommunikasjonsmyndighet (Nkom)
+- **Hjemmel:** lov 04.07.2003 nr. 83/§7-1; lov 04.07.2003 nr. 83/§7-2; lov 04.07.2003 nr. 83/§7-3; lov 04.07.2003 nr. 83/§10-3; forskrift 16.02.2004 nr. 427; forskrift 21.06.2019 nr. 788; forskrift 18.06.2021 nr. 2024; lov 13.12.2024 nr. 76/§12-1; forskrift 20.12.2024 nr. 3413
+- **Publisert i:** I 2004 hefte 4
+- **Kunngjort:** 2004-03-02
+- **I kraft fra:** 2004-02-16
+- **Siste endring i kraft:** 2025-01-01
+- **Sist endret ved:** forskrift 20.12.2024 nr. 3423 fra 2025-01-01
+- **Endrer:** forskrift 02.06.1997 nr. 560
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2024-01-04 (departementstilhørighet)
+- **Merknad:** Hjemmel: Fastsatt av Post- og teletilsynet 16. februar 2004 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 7-1, § 7-2, § 7-3 og § 10-3, jf. Kronprinsreg.res. 4. juli 2003 nr. 881 og delegeringsvedtak 16. februar 2004 nr. 427. Tilføyd hjemmel: Delegeringsvedtak 21. juni 2019 nr. 788 og funksjonsfordelingsvedtak 18. juni 2021 nr. 2024. Lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 12-1 jf delegeringsvedtak 20. desember 2024 nr. 3413. EØS-henvisninger: EØS-avtalen vedlegg XI nr. 5ck (direktiv 2002/20/EF), nr. 5cl (direktiv 2002/21/EF), nr. 5cm (direktiv 2002/22/EF), nr. 5cx (vedtak 2007/116/EF sist endret ved vedtak 2007/698/EF) og vedlegg XIV (direktiv 2002/77/EF). Endret ved forskrifter 25 nov 2008 nr. 1266, 19 feb 2013 nr. 213, 20 des 2013 nr. 1651, 6 mai 2015 nr. 484, 3 mai 2019 nr. 560 (departementsendring), 22 mai 2019 nr. 648, 1 juli 2019 nr. 960 (i kraft 1 sep 2019), 13 des 2019 nr. 1767 (i kraft 1 jan 2020), 12 juni 2023 nr. 841, 20 des 2024 nr. 3423 (i kraft 1 jan 2025). Rettet 01.02.2009 (§ 22a første ledd), 04.01.2024 (departementstilhørighet).
+- **Kilde:** <https://lovdata.no/forskrift/2004-02-16-426>
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Formål
+
+Formålet med forskriften er:
+
+a. å sikre en effektiv og ressursbesparende forvaltning av nummerressurser for elektroniske kommunikasjonsnett og -tjenester
+b. å gi tilbydere av elektroniske kommunikasjonsnett og -tjenester nødvendig og lik tilgang til nummerressurser for levering av elektroniske kommunikasjonstjenester.
+
+### § 2. Virkeområde
+
+Forskriften gjelder forvaltning, tillatelse til bruk og bruken av nummerressurser for elektroniske kommunikasjonsnett og -tjenester.
+
+### § 3. Definisjoner og forkortelser
+
+I denne forskrift menes med:
+
+a. *nummerressurs:* fellesbetegnelse for nummer, nummerserier, navn og adresser, som fastsatt i [kapitlene III](for-2004-02-16-426-nummerforskriften.md), IV, V, VI og VII
+b. *nummerserie:* sammenhengende sekvens av enkeltnummer av en bestemt lengde
+c. *nummerplan:* struktur for og disponering av nummerressurser
+d. *frivillig nummerplan:* nummerplan som anbefales fulgt dersom man benytter nummerressurs fra slik nummerplan for å tilby tilgang til elektronisk kommunikasjonsnett og -tjeneste
+e. *fastnettnummer:* nummer fra nasjonal nummerplan som brukes til fasttelefontjeneste
+f. *spesialnummer:* nummer fra nasjonal nummerplan som brukes til særskilte tjenester
+g. *mobilnummer:* nummer fra nasjonal nummerplan som brukes til mobiltelefontjeneste med tilleggstjenester
+h. *nummer for maskin-til-maskin og tingenes Internett (M2M/IoT) kommunikasjon:* nummer fra nasjonal nummerplan som brukes til automatiserte eller delautomatiserte kommunikasjonstjenester for tale eller datatrafikk der nummeret har liten eller ingen selvstendig betydning for brukeren
+i. *ITU:* Den internasjonale teleunion
+j. *ITU-T:* Den internasjonale teleunion – standardiseringssektoren
+k. *ISO:* Den internasjonale standardiseringsorganisasjon
+l. *IEC:* Den internasjonale elektrotekniske komité
+m. *X.121 internasjonalt datanummer:* globalt entydig adresseinformasjon for en terminal i et datanett, bestående av en identifikasjon av datanettet og et terminalnummer i dette datanettet, maksimalt 14 siffer, i henhold til ITU-T rekommandasjon X.121
+n. *terminalnummer (Network Terminal Number, NTN):* identifikasjon av en terminal innenfor et bestemt datanett, maksimalt 10 siffer, i henhold til ITU-T rekommandasjon X.121
+o. *DNIC (Data Network Identification Code):* de første fire siffer i et X.121 internasjonalt datanummer, identifiserer ett eller flere datanett
+p. *PNIC (Private Network Identification Code):* en kode bestående av maksimalt seks siffer, som etterfølger en bestemt DNIC i et X.121 internasjonalt datanummer
+q. *Nkom:* Nasjonal kommunikasjonsmyndighet.
+r. *radioamatørstasjon:* radioutstyr til bruk for radioamatørvirksomhet.
+
+*Endret ved [forskrifter 19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [22 mai 2019 nr. 648](https://lovdata.no/forskrift/2019-05-22-648), [13 des 2019 nr. 1767](https://lovdata.no/forskrift/2019-12-13-1767) (i kraft 1 jan 2020), [12 juni 2023 nr. 841](https://lovdata.no/forskrift/2023-06-12-841).*
+
+## Kapittel II. Generelle bestemmelser
+
+### § 4. Ansvar for forvaltningen av nummerressurser
+
+Nkom fastsetter og forvalter nasjonale nummerplaner for elektroniske kommunikasjonsnett og -tjenester.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 5. Tillatelse og bruk av nummerressurser fra obligatoriske nummerplaner
+
+Bruk av nummerressurser fra obligatoriske nummerplaner, jf. [kapitlene III](for-2004-02-16-426-nummerforskriften.md), [IV](for-2004-02-16-426-nummerforskriften.md), [V](for-2004-02-16-426-nummerforskriften.md) og [VI](for-2004-02-16-426-nummerforskriften.md), krever tillatelse fra Nkom, jf. [ekomloven § 12-2](../lover/lov-2024-12-13-76-ekomloven.md). Tilbyder av elektronisk kommunikasjonsnett og -tjeneste, eller sluttbruker kan få slik tillatelse. Obligatoriske nummerplaner skal følges dersom man benytter nummerressurser fra disse for å tilby tilgang til elektronisk kommunikasjonsnett og -tjeneste.
+
+Nummerressursene skal brukes på en effektiv og ressursbesparende måte.
+
+Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som får tildelt nummerressurser skal ikke forskjellsbehandle andre tilbydere av elektroniske kommunikasjonstjenester med hensyn til nummerressurser som gir tilgang til egne tjenester.
+
+*Endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 6. Krav til opplysninger fra søkere
+
+Nkom kan stille krav til hvilke opplysninger en søknad om nummerressurser skal inneholde. Slike opplysninger kan bl.a. være:
+
+a. søkerens navn, adresse, norsk organisasjonsnummer, samt navn, telefonnummer og e-postadresser til kontaktperson
+b. ønsket nummerressurs
+c. beskrivelse av tjenesten nummerressursen skal brukes til
+d. dokumentasjon av ressursbehov
+e. planlagt dato for igangsettelse av tjenesten
+f. tilbyderkode den ønskede nummerressursen skal tilordnes.
+
+*Endret ved [forskrifter 19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 7. (Opphevet)
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), opphevet ved forskrift [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 8. Hensyn ved tillatelse til bruk av nummerressurser
+
+Ved behandling av søknad om tillatelse til bruk av nummerressurser kan Nkom bl.a. ta hensyn til følgende forhold:
+
+a. effektiv og ressursbesparende bruk av nummerressursene
+b. behovet for å ha tilstrekkelige nummerressurser tilgjengelig på kort og lang sikt
+c. søkerens, sluttbrukernes og andre berørtes behov og ønsker
+d. eventuelle kostnader for søkeren, andre tilbydere av elektronisk kommunikasjonsnett og -tjeneste, sluttbrukere og andre berørte
+e. utnyttelsesgraden for nummerressurser søkeren tidligere har fått tillatelse til å bruke for tilsvarende formål
+f. søkerens oppfyllelse av vilkår som er satt av Nkom ved tidligere tillatelser til bruk av nummerressurser
+g. relevante rekommandasjoner, standarder eller avtaler.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 9. Fastsettelse av vilkår ved tillatelse til bruk av nummerressurser fra obligatoriske nummerplaner
+
+Nkom kan fastsette følgende vilkår for tillatelse til bruk av nummer:
+
+a. tidsbegrensning for tillatelsen. Varigheten kan likevel innskrenkes hvis nummerplanen endres
+b. krav til hvilken tjeneste nummeret og nummerserien skal brukes til, herunder krav til tilbudet av tjenesten
+c. krav til takstprinsipper og anvendelse av maksimalpriser for den enkelte nummerserie i den hensikt å beskytte forbruker
+d. forpliktende tilbud avgitt av tilbyder under konkurransepreget eller sammenlignende utvelgelsesprosedyre
+e. forpliktelser i samsvar med relevante internasjonale avtaler om bruk av nummer
+f. krav til faktisk og effektiv anvendelse av nummer og nummerserier, herunder frist for når nummer eller nummerserien skal være tatt i bruk
+g. hvilken tilbyderkode som skal brukes sammen med nummer i nummerplanen for telefon m.m. (E.164)
+h. forpliktelser vedrørende nummerportabilitet
+i. forpliktelser til å betale gebyr og avgift
+j. forpliktelser vedrørende utlevering av nummeropplysningsinformasjon.
+k. forpliktelser vedrørende ekstraterritoriell bruk av M2M/IoT-nummer innen EØS-området for å sikre oppfyllelse av regler om forbrukerbeskyttelse og andre nummerrelaterte regler i det landet hvor ressursene brukes.
+
+Ved tildeling av tillatelse for bruk av nummerressurser for en begrenset periode, skal varigheten være lang nok til å nå formålet med tillatelsen.
+
+*Endret ved [forskrifter 19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 10. Overdragelse og tilbakelevering av nummerressurser
+
+Overdragelse av nummerressurser fra obligatoriske nummerplaner krever tillatelse fra Nkom. Nkom kan fastsette vilkår for slike overdragelser.
+
+Ved opphør av virksomhet skal nummerressurser tilbakeleveres til Nkom, med mindre pålegg gis i samsvar med [§ 24](for-2004-02-16-426-nummerforskriften.md).
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 11. Endringer i opplysninger om tilbyderen eller sluttbrukeren
+
+Endring i opplysninger om tilbyder eller sluttbruker gitt i søknad eller senere, skal snarest mulig meldes til Nkom.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 12. Tilbaketrekking av eksklusive nummerressurser
+
+Nkom kan trekke tilbake nummerressurser, hvis disse er eksklusive for tilbyder eller sluttbruker. En nummerressurs er eksklusiv hvis andre ikke har lik tilgang til tilsvarende nummerressurser.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 13. Rapportering til Nkom
+
+Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som har fått tillatelse til bruk av nummerressurser fra obligatoriske nummerplaner, kan pålegges å avgi en årlig rapport til Nkom som viser bruken av nummerressursene. Dersom spesielle hensyn tilsier det, kan Nkom pålegge tilbyder å avgi hyppigere rapporter.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 14. Offentlig tilgjengelig informasjon
+
+Nkom skal offentliggjøre nummerplaner, tillatelser og endringer i tillatelser på en hensiktsmessig måte.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 15. Endring av nummerplan
+
+Finner Nkom det nødvendig å endre en nummerplan, skal alle tilbydere som har tillatelse til bruk av nummerressurser fra nummerplanen, gjøre de nødvendige endringer i sine systemer innen en rimelig frist. Endring av nummerplan kan bl.a. gjøres for å:
+
+a. ha tilstrekkelige nummerressurser tilgjengelig på kort og lang sikt
+b. reservere nummerressurser til andre formål
+c. omdisponere nummerressurser.
+
+Tilbyder skal gi nødvendig informasjon og legge til rette for at overgangen blir minst mulig belastende for sine sluttbrukere.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+## Kapittel III. Nummerplan for telefon m.m. (E.164)
+
+### § 16. Overordnet nummerplan
+
+Nkom fastsetter og forvalter obligatorisk nasjonal nummerplan for telefon m.m. (E.164) i samsvar med ITU-T rekommandasjon E.164. Nkom kan gi tillatelse til bruk av nummerserier og enkeltnummer under landskode 47 tildelt fra ITU.
+
+Hovedkategoriene i nasjonal nummerplan for telefon m.m. (E.164) er følgende:
+
+- 00: Internasjonalt prefiks
+- 01: Reservert for fremtidige endringer i nummerplanen
+- 02000–09999: 5-sifrede spesialnummer
+- 100–115: 3-sifrede standardiserte spesialnummer
+- 116 000–116 999: 6-sifrede EØS-harmoniserte nummer
+- 117–179: 3-sifrede standardiserte spesialnummer
+- 1800–1899: 4-sifrede nummer for nummeropplysningstjenester
+- 190–199: 3-sifrede tilbyderspesifikke spesialnummer
+- 20 00 00 00–39 99 99 99: 8-sifrede fastnettnummer
+- 40 00 00 00–49 99 99 99: 8-sifrede mobilnummer
+- 50 00 00 00–57 99 99 99: 8-sifrede fastnettnummer
+- 58 00 00 00 00 00–58 99 99 99 99 99: 12-sifrede nummer for M2M/IoT-kommunikasjon 59 00 00 00–59 99  99 99: 8-sifrede nummer for M2M/IoT-kommunikasjon
+- 60 00 00 00–79 99 99 99: 8-sifrede fastnettnummer
+- 800 00 000–899 99 999: 8-sifrede spesialnummerserier
+- 90 00 00 00–99 99 99 99: 8-sifrede mobilnummer.
+
+Tildelte nummer kan ikke tilbys for permanent bruk utenfor Norge uten tillatelse fra Nkom. Dette gjelder likevel ikke for:
+
+a. tildelte nummer for M2M/IoT-kommunikasjon
+b. nummerserier avsatt for inngående anrop til telefonkonferanser.
+
+*Endret ved [forskrifter 25 nov 2008 nr. 1266](https://lovdata.no/forskrift/2008-11-25-1266) (i kraft 1 jan 2009 og 1 jan 2010), [19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [22 mai 2019 nr. 648](https://lovdata.no/forskrift/2019-05-22-648), [13 des 2019 nr. 1767](https://lovdata.no/forskrift/2019-12-13-1767) (i kraft 1 jan 2020), [12 juni 2023 nr. 841](https://lovdata.no/forskrift/2023-06-12-841).*
+
+### § 16a. Takstprinsipper ved anrop til visse spesialnummer
+
+Ved anrop til nummer i angitte nummerserier gjelder følgende takstprinsipper på sluttbrukernivå:
+
+a. 800 00 000–800 99 999: Anrop til nummer i denne serien skal være kostnadsfrie for anropende sluttbruker både fra fastnett og mobilnett.
+b. 02000–09999, 100–109, 114–115, 117–179, 190–199, 810 00 000–810 99 999, 815 00 000–815 99 999, 850 00 000–859 99 999: Anrop til nummer i disse seriene skal ikke koste mer enn hva anrop til mobilnummer koster for anropende sluttbruker. Dersom anrop ikke faktureres basert på faktisk forbruk, skal samme faktureringsmetode som ellers benyttes legges til grunn for de nevnte nummerseriene. Dette gjelder både for anrop fra fastnett og mobilnett.
+
+Ved anrop til nummerseriene etter første ledd gjelder følgende takstprinsipper på grossistnivå:
+
+a. Tilbyder av terminering skal ikke ta høyere pris for terminering enn den til enhver tid regulerte maksimalprisen for terminering av tale i offentlige mobilkommunikasjonsnett.
+b. Tilbydere av tilgangstjeneste skal ikke ta høyere pris for originering av slike anrop enn for originering av anrop til mobilnummer.
+
+Takstprinsippene i denne bestemmelsen gjelder for alle tilbydere av elektroniske kommunikasjonsnett og -tjenester, uavhengig om tilbyder selv har fått tillatelse til bruk av slike nummerressurser eller ikke.
+
+*Tilføyd ved forskrift [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 17. Internasjonale anrop
+
+Nkom kan fastsette at spesielle ordninger for bruk av nummerbaserte elektroniske kommunikasjonstjenester i grenseområder kan videreføres eller etableres.
+
+Nkom kan avtale med myndigheter i andre EØS-land å dele en felles nummerplan for alle eller bestemte kategorier nummer.
+
+Tilbyder skal informere sluttbrukere som blir berørt av ordninger eller avtaler etter første og annet ledd.
+
+*Endret ved [forskrifter 20 des 2013 nr. 1651](https://lovdata.no/forskrift/2013-12-20-1651) (i kraft 1 jan 2014), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 18. Nødnummer
+
+Tilbyder av elektronisk kommunikasjonsnett og nummerbasert person-til-person kommunikasjonstjeneste skal sikre at kommunikasjon til nødmeldingstjenestene kan gjennomføres ved bruk av spesialnumrene 110, 112, 113.
+
+Nkom kan fastsette andre nummer som skal kunne brukes for kommunikasjon til ulike typer nødmeldingstjenester.
+
+*Endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 19. Tillatelse og bruk av 8- og 12-sifrede nummer
+
+Nkom kan gi tillatelse til bruk av 8- og 12-sifrede nummerserier til tilbyder av offentlig nummerbasert elektronisk kommunikasjonstjeneste etter søknad.
+
+Tilbyder tildeler 8- og 12-sifrede nummer videre til sluttbrukere.
+
+Tilbyder kan videretildele 8- og 12-sifrede nummer til annen tilbyder. Tilbyder som får et 8- eller 12-sifret nummer videretildelt fra en annen tilbyder kan ikke tildele nummeret videre igjen til en tredje tilbyder.
+
+*Endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [22 mai 2019 nr. 648](https://lovdata.no/forskrift/2019-05-22-648), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 20. Tillatelse og bruk av standardiserte spesialnummer (100-189)
+
+Nkom kan gi tillatelse til bruk av standardiserte spesialnummer til spesielle formål etter søknad.
+
+De standardiserte spesialnumrene skal i hovedsak brukes til to formål:
+
+a. landsomfattende tjenester av stor samfunnsmessig betydning
+b. tjenester som er nært knyttet til den offentlige telefontjenesten og som er med på å forbedre og utvikle denne til beste for sluttbrukerne.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 20a. EØS-harmoniserte nummer
+
+Den 6-sifrede nummerserien som begynner med 116, er en del av nasjonal nummerplan for telefon m.m. (E164) og avsatt til bruk for EØS-harmoniserte tjenester av samfunnsmessig verdi.
+
+Nkom kunngjør og tildeler ledige EØS-harmoniserte nummer. Søknader om nummer sendes Nkom. Nkom kan be om uttalelse til søknadene fra relevant myndighet. Numrene kan tildeles både private og offentlige søkere. 116 112 er unntatt fra tildeling. Nkom kan sette vilkår for tildelingen.
+
+Nkom fører et offentlig register oppdatert for alle tildelte og tilgjengelige 116-nummer.
+
+*Tilføyd ved [forskrift 25 nov 2008 nr. 1266](https://lovdata.no/forskrift/2008-11-25-1266) (i kraft 1 jan 2009), endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 20b. Generelle krav til tjenester på EØS-harmoniserte nummer
+
+Tjenestene skal:
+
+a. tilby informasjon, hjelp eller fungere som en rapporteringskanal for brukerne eller en kombinasjon av disse
+b. være åpen for alle brukere, uten krav om forhåndsregistrering
+c. ikke være tidsbegrenset til kampanjeperioder
+d. ikke medføre noen form for betaling eller betalingsforpliktelse som en forutsetning før en kan benytte seg av tjenesten
+e. ikke ha reklame, underholdning, markedsføring eller salg under en samtale eller så lenge linjen er oppkoblet
+f. ikke bruke samtaleinformasjon for fremtidig salg av kommersielle tjenester.
+
+*Tilføyd ved [forskrift 25 nov 2008 nr. 1266](https://lovdata.no/forskrift/2008-11-25-1266) (i kraft 1 jan 2009).*
+
+### § 20c. Kostnad ved å ringe 116-nummer
+
+Kommunikasjon til 116-nummer skal være gratis for sluttbruker både fra fastnett og mobilnett. Nkom kan gjøre unntak fra dette i særlige tilfeller.
+
+*Tilføyd ved [forskrift 25 nov 2008 nr. 1266](https://lovdata.no/forskrift/2008-11-25-1266) (i kraft 1 jan 2009), endret ved [forskrifter 19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 20d. (Opphevet)
+
+*Tilføyd ved [forskrift 25 nov 2008 nr. 1266](https://lovdata.no/forskrift/2008-11-25-1266) (i kraft 1 jan 2009), endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), opphevet ved forskrift [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 20e. Bortfall av bruksrett til EØS-harmonisert nummer ved manglende bruk
+
+Bruksretten til det EØS-harmoniserte nummeret bortfaller dersom nummeret ikke tas i bruk innen seks måneder etter tildelingen, eller den senere over en periode på minst ett år ikke har vært i vedvarende bruk.
+
+Nkom kan i særlige tilfeller gjøre unntak fra første ledd.
+
+*Tilføyd ved [forskrift 25 nov 2008 nr. 1266](https://lovdata.no/forskrift/2008-11-25-1266) (i kraft 1 jan 2009), endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [22 mai 2019 nr. 648](https://lovdata.no/forskrift/2019-05-22-648).*
+
+### § 20f. Krisetelefon for og om savnede barn – 116 000
+
+Krisetelefon for og om savnede barn skal ta imot henvendelser om savnede barn og videreformidle disse til politiet, tilby støtte og råd til de pårørende, og støtte etterforskningen.
+
+Tjenesten skal være tilgjengelig i hele landet, 7 dager i uken, 24 timer i døgnet.
+
+Sluttbruker skal kunne nå krisetelefon for og om savnede barn på nummer 116 000. Tilbyder skal sikre at sluttbrukere med nedsatt funksjonsevne har tilgang til tjenester under 116 000 så langt det lar seg gjøre. Dette skal også gjelde for sluttbruker med nedsatt funksjonsevne som gjester i norske nett.
+
+*Tilføyd ved [forskrift 1 juli 2019 nr. 960](https://lovdata.no/forskrift/2019-07-01-960) (i kraft 1 sep 2019), endret ved [forskrifter 13 des 2019 nr. 1767](https://lovdata.no/forskrift/2019-12-13-1767) (i kraft 1 jan 2020), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 20g. Hjelpetelefon for offer for vold og overgrep – 116 006
+
+Hjelpetelefon for offer for vold- og overgrep skal tilby:
+
+a. emosjonell støtte,
+b. informere om rettigheter og hvordan de kan benytte seg av rettighetene,
+c. bistå med henvisning til relevante organisasjoner,
+d. informere om prosedyrer ved politianmeldelser og gangen i straffesaker,
+e. informere om muligheter for erstatning og forsikringsforhold, og
+f. bistå offer for kriminalitet med å oppsøke annen relevant hjelp.
+
+Den som er tildelt 116 006-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.
+
+*Tilføyd ved forskrift [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 20h. Hjelpetelefon for barn og unge – 116 111
+
+Hjelpetelefon for barn og unge skal hjelpe de som har behov for omsorg, og vern og bistå med kontakt med relevante tjenester og ressurser. Tjenesten skal gi barn og unge mulighet til å gi uttrykk for sine bekymringer, snakke om problem som påvirker dem direkte, og være en kontakt i en nødsituasjon.
+
+Den som er tildelt 116 111-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.
+
+*Tilføyd ved forskrift [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 20i. Legevakt – 116 117
+
+Tjenesten skal gi medisinsk assistanse ved behov som haster, men som ikke er livstruende. Henvendelser til legevaktnummeret skal besvares av en fagperson, eller av en person med faglig støtte, eller direkte av en lege.
+
+Tjenesten etter første ledd skal være tilgjengelig også utenfor ordinære åpningstider, i helger og på helligdager.
+
+Den som er tildelt 116 117-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.
+
+*Tilføyd ved forskrift [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 20j. Hjelpetelefon for mental helse – 116 123
+
+Hjelpetelefon for mental helses kal tilby emosjonell støtte til personer som lider av ensomhet, opplever en psykologisk krise eller har selvmordstanker.
+
+Den som er tildelt 116 123-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.
+
+*Tilføyd ved forskrift [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 21. Tilbyderspesifikke spesialnummer
+
+Nummerserien 190-199 er avsatt til bruk for tilbyderspesifikke spesialnummer. Tilbyder av talekommunikasjonstjeneste kan benytte denne nummerserien for egendefinerte tjenester. Sluttbrukere kan ikke få tillatelse til bruk av slike numre. Tilbyderspesifikke spesialnummer kan ha ulik lengde.
+
+*Endret ved forskrift [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 22. Tillatelse og bruk av 5-sifrede spesialnummer (02000–09999)
+
+Nkom kan gi tillatelse til bruk av slike nummer til sluttbrukere etter søknad. Nummerserien er delt opp i to hovedkategorier:
+
+a. 5-sifrede nummer for ikke-kommersielle formål av samfunnsnyttig karakter
+b. 5-sifrede nummer for andre formål.
+
+Som ikke-kommersielle formål av samfunnsnyttig karakter regnes blant annet:
+
+a. landsomfattende krise- og kontakttelefoner
+b. landsomfattende offentlige tjenester
+c. landsomfattende nummer for humanitære/ideelle organisasjoner
+d. felles landsomfattende nummer for offentlig legevakt, sykehus, politi eller lignende for bruk ved ikke-nødsituasjoner.
+
+Tillatelse til bruk av 5-sifrede nummer for ikke-kommersielle formål av samfunnsnyttig karakter skal kun foretas fra nummer i laveste priskategori. Hver sluttbruker eller gruppering kan maksimalt disponere tre slike nummer.
+
+*Endret ved [forskrifter 25 nov 2008 nr. 1266](https://lovdata.no/forskrift/2008-11-25-1266) (i kraft 1 jan 2009), [6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [13 des 2019 nr. 1767](https://lovdata.no/forskrift/2019-12-13-1767) (i kraft 1 jan 2020).*
+
+### § 22a. Årlige avgifter til staten for tillatelse til bruk av 5-sifret nummer
+
+Nasjonal kommunikasjonsmyndighet innkrever årlig avgift til staten for tillatelse til bruk av 5-sifret nummer. Avgiftenes størrelse fastsettes årlig i Stortingsvedtak om særavgifter til statskassen.
+
+For 5-sifret nummer for ikke-kommersielle formål av samfunnsnyttig karakter betales det ikke avgift til staten.
+
+Dersom oppsigelse av 5-sifret nummer er sendt Nkom innen 31. desember, skal det ikke betales avgift for det påfølgende året. Avgift bortfaller hvis oppsigelse er sendt innen 1. april eller nytt nummer er tildelt 1. oktober eller senere.
+
+*Tilføyd ved [forskrift 25 nov 2008 nr. 1266](https://lovdata.no/forskrift/2008-11-25-1266) (i kraft 1 jan 2009), endret ved [forskrifter 19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [22 mai 2019 nr. 648](https://lovdata.no/forskrift/2019-05-22-648).*
+
+### § 23. Rapportering til Nkom
+
+Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som har fått tillatelse til bruk av 8- og 12-sifrede nummerserier av Nkom skal innen 1. februar hvert år avgi rapport til Nkom med oversikt over bruken av nummerseriene.
+
+Rapporten skal for hver nummerserie bl.a. inneholde følgende opplysninger:
+
+a. fordeling av nummerserien på ulike tjenester, takster etc.
+b. prosentvis andel av nummer som er i aktiv bruk
+c. prosentvis andel av nummer som er reservert, men ikke i aktiv bruk
+d. prosentvis andel av nummer som er portert til andre tilbydere
+e. antall numre som er portert fra andre tilbydere
+f. prosentvis andel av nummer som er ledige
+g. eventuell videretildeling av nummerserier til andre tilbydere
+h. prognose for utnyttelse av nummerserien for hvert av de neste tre år.
+i. hele eller deler av tildelt nummerserie brukes over landegrensen
+
+*Endret ved [forskrifter 19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 24. Overdragelse og opphør
+
+Dersom viktige hensyn tilsier det og mer enn 50 % av numrene i en nummerserie er utportert til andre tilbydere av offentlige elektroniske kommunikasjonstjenester, kan Nkom overføre nummerserien til den tilbyder som har flest innporterte nummer innenfor nummerserien.
+
+Ved opphør av virksomhet skal ubrukte numre og nummerserier tilbakeleveres til Nkom. Ved opphør av virksomhet som disponerer nummerserier der nummer er utportert, kan Nkom pålegge andre tilbydere som har innportert numre å overta hele nummerserien.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+## Kapittel IV. Nummerplan for tilbyderkoder for tilbyderportabilitet
+
+### § 25. Tilbyderkoder for tilbyderportabilitet
+
+Nkom fastsetter og forvalter nummerplan for tilbyderkoder for tilbyderportabilitet. Tilbyder som disponerer numre i nummerplan for telefon m.m. (E.164) kan få tillatelse til bruk av tilbyderkoder.
+
+Nummerplan for tilbyderkoder er obligatorisk og har følgende struktur:
+
+- 000-899 Identifikasjon av angivende og mottagende tilbyder
+- 900-999 Tilbyderspesifikke koder.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+## Kapittel V. Nummerplan for datanett (X.121)
+
+### § 26. Tillatelse og bruk av DNIC og PNIC
+
+Nkom fastsetter og forvalter nummerplan for datanett, i henhold til ITU-T rekommandasjon X.121. Nummerplanen er obligatorisk. Nkom kan gi tillatelse til bruk av DNIC og PNIC til tilbyder av elektronisk kommunikasjonsnett og -tjeneste etter søknad.
+
+Tillatelse til bruk av en DNIC kan gis tilbyder som har et datanett som bruker adresser i henhold til X.121 og som tilbyr en dataoverføringstjeneste til allmennheten. Nkom kan sette begrensninger på hvilke sifferkombinasjoner en tilbyder kan ta i bruk som de første sifrene i terminalnummer (NTN) under DNIC.
+
+For å sikre effektiv utnyttelse av nasjonale X.121-ressurser, kan Nkom pålegge to eller flere tilbydere å dele en DNIC. De berørte tilbyderne skal i så fall gis minst seks måneders varsel.
+
+Tillatelse til bruk av en PNIC kan gis tilbyder som har et datanett som bruker adresser i henhold til X.121 og som leverer en dataoverføringstjeneste til en mindre gruppe eller til egen virksomhet. En PNIC består normalt av to eller tre siffer i tillegg til den DNIC som Nkom avsetter for tillatelse til bruk av PNIC.
+
+Tilbyder som har fått tillatelse til bruk av en DNIC eller PNIC foretar tildeling av terminalnummer til sine sluttbrukere under den DNIC eller PNIC tilbyderen har fått tillatelse til av Nkom, med de begrensninger Nkom eventuelt har satt på de første sifrene i terminalnummeret.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 27. Bruk av utenlandske DNIC og PNIC i Norge
+
+Tilbyder av elektronisk kommunikasjonsnett og -tjeneste kan i Norge benytte en DNIC eller PNIC som er tildelt av andre lands myndigheter eller av ITU.
+
+Nkom kan avslå søknad om en norsk DNIC eller PNIC til tilbyder som har en DNIC eller PNIC tildelt av andre lands myndigheter eller av ITU.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 28. Samtrafikk
+
+Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som får tillatelse til bruk av en DNIC fra Nkom, plikter innen seks måneder etter at tillatelsen er gitt å opprette avtalemessig regulert samtrafikk med minst én annen tilbyder med DNIC.
+
+Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som får tillatelse til bruk av en PNIC fra Nkom, plikter innen seks måneder etter at tillatelsen er gitt å opprette avtalemessig regulert samtrafikk med minst én annen tilbyder med DNIC eller PNIC.
+
+Dersom samtrafikk ikke er etablert innen seks måneder, kan Nkom trekke tilbake tilbyders rett til å bruke den aktuelle DNIC eller PNIC.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+## Kapittel VI. Andre obligatoriske nummerplaner
+
+### § 29. Nummerplan for identifikasjon av utgivere av kredittkort knyttet til elektronisk kommunikasjonstjeneste (E.118)
+
+Nkom fastsetter og forvalter nummerplan for identifikasjon av utgivere av kredittkort knyttet til elektronisk kommunikasjonstjeneste, i henhold til ITU-T rekommandasjon E.118.
+
+Nkom kan gi tillatelse til bruk av kortutgiverkoder (Issuer Identifier Number, IIN) for kredittkort knyttet til elektronisk kommunikasjonstjeneste, i henhold til ITU-T rekommandasjon E.118.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 30. Nummerplan for ISDN-nett med ansvar for identifikasjon av lukkede brukergrupper (E.167)
+
+Nkom fastsetter og forvalter nummerplan for ISDN-nett med ansvar for administrasjon av lukkede brukergrupper, i henhold til ITU-T rekommandasjon E.167.
+
+Nkom kan gi tillatelse til bruk av ISDN-nettkoder (ISDN Network Identification Codes, INIC) til identifikasjon av nett der tilbyderen er ansvarlig for administrasjon av lukkede brukergrupper, i henhold til ITU-T rekommandasjon E.167.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 31. Nummerplaner for nettkoder knyttet til mobile nett og mobile tjenester (E.212 og E.214)
+
+Nkom fastsetter og forvalter nummerplaner for nettkoder knyttet til mobile nett og mobile tjenester, i henhold til ITU-T rekommandasjonene E.212 og E.214.
+
+Nkom kan gi tillatelse til bruk av mobile nettkoder (Mobile Network Code, MNC) for identifikasjon av mobile terminaler og mobile brukere, i henhold til ITU-T rekommandasjon E.212 og i samsvar med ETS 300 523. Videre kan Nkom gi tillatelse til bruk av nettkoder (Network Code, NC), i henhold til ITU-T rekommandasjon E.214.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 32. Nummerplan for identifikasjonssignaler for skip
+
+Telenor ASA fastsetter og forvalter nummerplan for identifikasjonssignaler for skip (Maritime Mobile Service Identities, MMSI) i henhold til ITUs radioreglement samt gjeldene versjon av ITU-T rekommandasjon ITU-R M.585, etter fullmakt fra Nkom.
+
+Telenor ASA tildeler MMSI-nummer beregnet på automatisk trafikkutveksling mellom stasjoner som deltar i den maritime mobile tjenesten.
+
+*Endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [22 mai 2019 nr. 648](https://lovdata.no/forskrift/2019-05-22-648).*
+
+### § 33. Tildeling av brukernummer for Inmarsatstasjoner i Norge
+
+Telenor ASA tildeler brukernummer for maritime og landmobile Inmarsatstasjoner i Norge, i henhold til ITU-T rekommandasjon E.217, etter fullmakt fra Nkom.
+
+*Endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [22 mai 2019 nr. 648](https://lovdata.no/forskrift/2019-05-22-648).*
+
+### § 34. Nummerplaner for punktkoder for signalering (Q.704 og Q.708)
+
+Nkom fastsetter og forvalter nummerplaner for punktkoder knyttet til signalering, i henhold til ITU-T rekommandasjonene Q.704 og Q.708.
+
+Nkom kan gi tillatelse til bruk av punktkoder for internasjonal signalering (International Signalling Point Codes, ISPC), i henhold til ITU-T rekommandasjonene Q.704 og Q.708.
+
+Nkom kan gi tillatelse til bruk av punktkoder for nasjonal signalering, i henhold til ITU-T rekommandasjon Q.704.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 35. T.35 nummerplan
+
+Nkom fastsetter og forvalter nummerplan for identifikasjon av produsenter som implementerer ikke-standardiserte funksjoner i telekommunikasjonsprodukter, i henhold til ITU-T rekommandasjon T.35.
+
+Nkom kan gi tillatelse til bruk av leverandørkoder (provider codes), i henhold til ITU-T rekommandasjon T.35.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 35a. Nummerplan for identifikasjon av radiokanaler
+
+Nkom fastsetter og forvalter nummerplan for identifikasjon av radiokanaler, RDS PI-, SId- og EId- og andre koder relatert til analog og digital radiodistribusjon i henhold til standardene IEC 62106-2, IEC 62106-4 og ETSI EN 300 401.
+
+RDS PI-, SId- og EId-koder kan ikke tas i bruk uten at det foreligger tillatelse fra Nkom. Bruken av kodene skal være i henhold til standardene IEC 62106-2, IEC 62106-4 og ETSI EN 300 401.
+
+Øvrige koder relatert til digital radiodistribusjon tillates brukt i henhold til standarden ETSI EN 300 401.
+
+Øvrige koder relatert til analog radiodistribusjon tillates brukt i henhold til standardene IEC 62106-2 og IEC 62106-4.
+
+*Tilføyd ved [forskrift 19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [22 mai 2019 nr. 648](https://lovdata.no/forskrift/2019-05-22-648).*
+
+### § 35b. Nummerplan for identifikasjon ved bruk av radioamatørstasjoner
+
+Nkom fastsetter og forvalter nummerplan for identifikasjon (kallesignal) ved bruk av radioamatørstasjoner i henhold til ITUs radioreglement artikkel 19 og appendiks 42.
+
+Nkom kan gi tillatelse til bruk av kallesignal beregnet til radioamatørvirksomhet.
+
+*Tilføyd ved forskrift [12 juni 2023 nr. 841](https://lovdata.no/forskrift/2023-06-12-841).*
+
+## Kapittel VII. Frivillige nummerplaner
+
+### § 36. Registrering av X.400 ADMD og PRMD domenenavn
+
+Nkom registrerer ADMD (Administration Management Domain) og PRMD (Private Management Domain) domenenavn for elektronisk post, i henhold til ITU-T rekommandasjonene X.400/F.400 og F.401.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 37. Tillatelse til bruk av identifikatorer for EDIFACT
+
+Nkom kan gi tillatelse til bruk av identifikatorer for bruk i EDIFACT (Electronic Data Interchange for Administration, Commerce and Transport), segmentene UNB og UNG, i henhold til ISO 9735.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 38. Tillatelse til bruk av ISO-DCC nettadresser
+
+Nkom kan gi tillatelse til bruk av ISO-DCC (ISO Data Country Code) nettadresser, i henhold til ISO/IEC 8348/ITU-T rekommandasjon X.213.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 39. Tillatelse til bruk av objektidentifikatorer
+
+Nkom kan gi tillatelse til bruk av objektidentifikatorer, i henhold til ISO/IEC 8824-1/ITU-T rekommandasjon X.680 og ISO/IEC 9834-1/ITU-T rekommandasjon X.660.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 40. Nkoms avgjørelser vedrørende frivillige nummerplaner
+
+Nkoms avgjørelser etter dette kapittel er ikke enkeltvedtak, jf. [forvaltningsloven § 2](../lover/lov-1967-02-10-forvaltningsloven.md), og kan ikke påklages.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+## Kapittel VIII. Fellesbestemmelser
+
+### § 41. Dispensasjon
+
+Nkom kan dispensere fra bestemmelser i denne forskrift når særlige hensyn tilsier det.
+
+*Endret ved [forskrift 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484).*
+
+### § 42. Klageadgang
+
+Enkeltvedtak fattet av Nkom kan påklages av en part eller andre med rettslig klageinteresse. Klager avgjøres av klagenemnda for elektronisk kommunikasjon, men sendes til Nkom.
+
+*Endret ved [forskrifter 6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 43. Sanksjoner
+
+Ved brudd på forskriften eller vedtak gitt i medhold av forskriften kan Nkom gjennomføre sanksjoner etter [lov om elektronisk kommunikasjon kapittel 15](../lover/lov-2024-12-13-76-ekomloven.md). Brudd på forskriften straffes etter [lov om elektronisk kommunikasjon § 15-14](../lover/lov-2024-12-13-76-ekomloven.md).
+
+Myndigheten kan pålegge en fysisk person eller et foretak overtredelsesgebyr dersom personen, foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomt overtrer [nummerforskriften § 5](for-2004-02-16-426-nummerforskriften.md), [§ 9](for-2004-02-16-426-nummerforskriften.md), [§ 10](for-2004-02-16-426-nummerforskriften.md), [§ 13](for-2004-02-16-426-nummerforskriften.md), [§ 15](for-2004-02-16-426-nummerforskriften.md), [§ 16](for-2004-02-16-426-nummerforskriften.md), [§ 17](for-2004-02-16-426-nummerforskriften.md), [§ 18](for-2004-02-16-426-nummerforskriften.md), [§ 19](for-2004-02-16-426-nummerforskriften.md), [§ 20](for-2004-02-16-426-nummerforskriften.md), [§ 20b](for-2004-02-16-426-nummerforskriften.md), [§ 20c](for-2004-02-16-426-nummerforskriften.md), [§ 20f](for-2004-02-16-426-nummerforskriften.md), [§ 20g](for-2004-02-16-426-nummerforskriften.md), [§ 20h](for-2004-02-16-426-nummerforskriften.md), [§ 20i](for-2004-02-16-426-nummerforskriften.md), [§ 20j](for-2004-02-16-426-nummerforskriften.md), [§ 23](for-2004-02-16-426-nummerforskriften.md), [§ 24](for-2004-02-16-426-nummerforskriften.md) og [§ 35a](for-2004-02-16-426-nummerforskriften.md).
+
+*Endret ved [forskrifter 19 feb 2013 nr. 213](https://lovdata.no/forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](https://lovdata.no/forskrift/2015-05-06-484), [20 des 2024 nr. 3423](https://lovdata.no/forskrift/2024-12-20-3423) (i kraft 1 jan 2025).*
+
+### § 44. Ikrafttredelse mv.
+
+Denne forskrift trer i kraft 16. februar 2004. Fra samme dato oppheves [forskrift 2. juni 1997 nr. 560](https://lovdata.no/forskrift/1997-06-02-560) om tildeling og bruk av nummer, nummerserier, navn og adresser for telenett og teletjenester (nummerforskriften).

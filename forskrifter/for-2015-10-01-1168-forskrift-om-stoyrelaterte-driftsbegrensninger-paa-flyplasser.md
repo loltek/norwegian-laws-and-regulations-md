@@ -1,0 +1,33 @@
+# Forskrift om støyrelaterte driftsbegrensninger ved norske flyplasser
+
+- **Korttittel:** Forskrift om støyrelaterte driftsbegrensninger på flyplasser
+- **Datokode:** FOR-2015-10-01-1168
+- **DokumentID:** SF/forskrift/2015-10-01-1168
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Luft-, post- og teleavd.
+- **Hjemmel:** lov 11.06.1993 nr. 101/§9-1; lov 11.06.1993 nr. 101/§16-1
+- **Publisert i:** I 2015 hefte 12
+- **Kunngjort:** 2015-10-13 15:00
+- **I kraft fra:** 2016-06-13
+- **Endrer:** forskrift 09.01.2006 nr. 22
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Samferdselsdepartementet 1. oktober 2015 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 9-1, jf. § 16-1. EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 66 (forordning (EU) nr. 598/2014).
+- **Kilde:** <https://lovdata.no/forskrift/2015-10-01-1168>
+
+## § 1. Gjennomføring av EØS-forordning
+
+EØS-avtalen vedlegg XIII nr. 66 (forordning [(EU) nr. 598/2014](https://lovdata.no/eu/32014r0598) om fastsettelse av bestemmelser og prosedyrer for innføring av støyrelaterte driftsbegrensninger i Unionens lufthavner innenfor en balansert metode og om oppheving av direktiv [2002/30/EF](https://lovdata.no/eu/32002l0030) – heretter kalt «støyforordningen») gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+## § 2. Kompetent myndighet
+
+Luftfartstilsynet er kompetent myndighet som nevnt i støyforordningen artikkel 3.
+
+## § 3. Klage
+
+Vedtak fattet i medhold av denne forskriften kan påklages i henhold til bestemmelsene om klage i forvaltningsloven.
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 13. juni 2016.
+
+Fra samme tidspunkt oppheves [forskrift 9. januar 2006 nr. 22](https://lovdata.no/forskrift/2006-01-09-22) om innføring av støyrelaterte driftsbegrensninger ved norske flyplasser (BSL E 2-3).

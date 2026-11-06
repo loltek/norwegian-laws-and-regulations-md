@@ -1,0 +1,85 @@
+# Forskrift om forvaltning og bruk av midler i premiefond og innskuddsfond
+
+- **Datokode:** FOR-1989-11-21-1170
+- **DokumentID:** SF/forskrift/1989-11-21-1170
+- **Departement:** Finansdepartementet
+- **Etat:** Økonomiavd.
+- **Hjemmel:** lov 10.06.1988 nr. 39/§7-9; lov 10.06.2005 nr. 44/§17-2; lov 24.11.2000 nr. 81/§1-3; lov 10.04.2015 nr. 17/§23-2
+- **Publisert i:** I 1989 994
+- **I kraft fra:** 1989-11-21
+- **Siste endring i kraft:** 2017-01-01
+- **Sist endret ved:** forskrift 09.12.2016 nr. 1528 fra 2017-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 21. november 1989 med hjemmel i lov 10. juni 1988 nr. 39 om forsikringsvirksomhet § 7-9 og lov 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven) § 1-3. Endret ved forskrifter 25 jan 1995 nr. 84, 22 des 2000 nr. 1442, 9 des 2016 nr. 1528.
+- **Kilde:** <https://lovdata.no/forskrift/1989-11-21-1170>
+
+## § 1. Anvendelsesområde
+
+Forskriften gjelder for:
+
+1. premiefond for foretakspensjonsordning
+2. premiefond for individuell pensjonsavtale
+3. innskuddsfond for innskuddspensjonsordning
+4. premiefond for tjenestepensjonsordning.
+
+*Endret ved [forskrifter 22 des 2000 nr. 1442](https://lovdata.no/forskrift/2000-12-22-1442) (i kraft 1 jan 2001), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017).*
+
+## § 2. Premiefond og innskuddsfond
+
+Premiefond og innskuddsfond kan opprettes i og forvaltes av slik pensjonsinnretning som pensjonsordning eller pensjonsavtale som nevnt i [§ 1](for-1989-11-21-1170-forskrift-om-forvaltning-og-bruk-av-midler-i-premiefond-og-innskuddsfond.md) kan opprettes i. Dessuten kan premiefond og innskuddsfond opprettes i og forvaltes av bank eller forvaltningsselskap for verdipapirfond.
+
+Når en forsikringstaker har opprettet pensjonsordning i flere pensjonsinnretninger, kan det opprettes premiefond eller innskuddsfond for den enkelte pensjonsordning i hver pensjonsinnretning.
+
+Det kan totalt for den enkelte pensjonsordning ikke opprettes mer enn ett premiefond eller innskuddsfond i tillegg til fond som måtte være opprettet i den pensjonsinnretning der pensjonsordning er opprettet.
+
+*Endret ved [forskrifter 22 des 2000 nr. 1442](https://lovdata.no/forskrift/2000-12-22-1442) (i kraft 1 jan 2001), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017, tidligere § 4).*
+
+## § 3. Tilskudd til premiefond og innskuddsfond
+
+Forsikringstaker kan for det enkelte år ikke yte fradragsberettiget tilskudd til premiefond og innskuddsfond, som overstiger de beløp som er fastsatt i [skatteloven av 26. mars 1999 nr. 14](../lover/lov-1999-03-26-14-skatteloven.md).
+
+Har forsikringstaker pensjonsordning i flere pensjonsinnretninger, skal skattelovens bestemmelser om avsetning til premiefond og innskuddsfond gjelde tilsvarende for hver enkelt pensjonsordning.
+
+*Endret ved [forskrifter 22 des 2000 nr. 1442](https://lovdata.no/forskrift/2000-12-22-1442) (i kraft 1 jan 2001), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017, tidligere § 5).*
+
+## § 4. Overføring av midlene
+
+Midler i premiefond og innskuddsfond kan overføres til annen bank eller forvaltningsselskap for verdipapirfond for så vidt dette er i samsvar med [§ 2](for-1989-11-21-1170-forskrift-om-forvaltning-og-bruk-av-midler-i-premiefond-og-innskuddsfond.md) og [§ 3](for-1989-11-21-1170-forskrift-om-forvaltning-og-bruk-av-midler-i-premiefond-og-innskuddsfond.md).
+
+*Endret ved [forskrifter 25 jan 1995 nr. 84](https://lovdata.no/forskrift/1995-01-25-84), [22 des 2000 nr. 1442](https://lovdata.no/forskrift/2000-12-22-1442) (i kraft 1 jan 2001), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017, tidligere § 7).*
+
+## § 5. Plikter for bank og forvaltningsselskap for verdipapirfond
+
+Bank eller forvaltningsselskap for verdipapirfond plikter å påse at midler i premiefond og innskuddsfond ved uttak blir overført til den pensjonsinnretning der pensjonsordningen er etablert. Er det flere banker eller forvaltningsselskap for verdipapirfond, skal disse hver for seg påse at bestemmelsene overholdes. Hver bank eller forvaltningsselskap for verdipapirfond plikter å innhente opplysninger fra arbeidsgiver om hvorvidt det er flere banker eller forvaltningsselskaper for verdipapirfond.
+
+*Endret ved [forskrifter 22 des 2000 nr. 1442](https://lovdata.no/forskrift/2000-12-22-1442) (i kraft 1 jan 2001), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017, tidligere § 8).*
+
+## § 6. Pensjonsinnretningens plikter
+
+Pensjonsinnretningen plikter:
+
+1. å påse at forsikring med fradragsberettiget premie er i overensstemmelse med foretakspensjonsloven, innskuddspensjonsloven, lov om individuell pensjonsordning, tjenestepensjonsloven og forskrift til skatteloven.
+2. å påse at midler i premiefond og innskuddsfond for pensjonsordninger som nevnt i nr. 1 ikke benyttes i strid med reglene.
+3. å påse at midler i premiefond og innskuddsfond blir anvendt etter formålet.
+
+Bestemmelsene i [§ 5](for-1989-11-21-1170-forskrift-om-forvaltning-og-bruk-av-midler-i-premiefond-og-innskuddsfond.md) gjelder tilsvarende når det er flere pensjonsinnretninger.
+
+*Endret ved [forskrifter 22 des 2000 nr. 1442](https://lovdata.no/forskrift/2000-12-22-1442) (i kraft 1 jan 2001), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017, tidligere § 9).*
+
+## § 7. Arbeidsgiverens opplysningsplikt
+
+Arbeidsgiver skal den 1. januar hvert år gi opplysninger om:
+
+1. hvilke pensjonsordninger arbeidsgiveren har
+2. hvor pensjonsordningen er opprettet
+3. hvilken bank eller forvaltningsselskap for verdipapirfond som forvalter premiefond og innskuddsfond.
+
+Opplysningene nevnt i første ledd skal gis til samtlige pensjonsinnretninger hvor pensjonsordning er opprettet, samt til banken eller forvaltningsselskapet for verdipapirfond.
+
+*Endret ved [forskrifter 22 des 2000 nr. 1442](https://lovdata.no/forskrift/2000-12-22-1442) (i kraft 1 jan 2001), [9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017, tidligere § 10).*
+
+## § 8. Ikrafttreden
+
+Forskriften trer i kraft straks.
+
+*Endret ved [forskrift 9 des 2016 nr. 1528](https://lovdata.no/forskrift/2016-12-09-1528) (i kraft 1 jan 2017, tidligere § 11).*

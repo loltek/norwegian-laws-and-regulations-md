@@ -1,0 +1,182 @@
+# Forskrift om spesielle kvoteordninger for kystfiskeflåten
+
+- **Korttittel:** Forskrift om spesielle kystfiskekvoteordninger
+- **Datokode:** FOR-2003-11-07-1309
+- **DokumentID:** SF/forskrift/2003-11-07-1309
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Fiskeriavdelingen
+- **Hjemmel:** lov 06.06.2008 nr. 37/§14; lov 26.03.1999 nr. 15/§21; lov 26.03.1999 nr. 15/§28; lov 26.03.1999 nr. 15/§29; forskrift 07.11.2003 nr. 1309/§13; forskrift 11.02.2000 nr. 99
+- **Publisert i:** I 2003 hefte 14
+- **Kunngjort:** 2003-11-07
+- **I kraft fra:** 2003-11-07, 2004-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 19.12.2025 nr. 2812 fra 2026-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 7. november 2003 med hjemmel i lov av 3. juni 1983 nr. 40 om saltvannsfiske m.v. § 5a. Fremmet av Fiskeridepartementet (nå Nærings- og fiskeridepartementet). Tilføyd hjemmel: Lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 14, lov 26. mars 1999 nr. 15 om retten til å delta i fiske og fangst (deltakerloven) § 21, § 28 og § 29, jf. forskrift 7. november 2003 nr. 1309 om spesielle kvoteordninger for kystfiskeflåten mv. § 13 første ledd og delegeringsvedtak 11. februar 2000 nr. 99. Endret ved forskrifter 16 april 2004 nr. 622, 15 okt 2004 nr. 1352, 6 jan 2006 nr. 10, 18 jan 2007 nr. 46, 30 mars 2007 nr. 391, 8 juni 2007 nr. 586, 24 aug 2007 nr. 1000, 14 des 2007 nr. 1432, 8 feb 2008 nr. 118, 3 sep 2010 nr. 1235, 14 juni 2013 nr. 644, 6 des 2013 nr. 1396, 28 feb 2014 nr. 268, 19 juni 2015 nr. 693, 17 juni 2016 nr. 677, 21 juni 2017 nr. 828, 29 mai 2020 nr. 1096, 27 nov 2020 nr. 2483, 28 okt 2022 nr. 1807 (i kraft 1 nov 2022), 20 des 2024 nr. 3473 (i kraft 1 jan 2025), 19 des 2025 nr. 2812 (i kraft 1 jan 2026).
+- **Kilde:** <https://lovdata.no/forskrift/2003-11-07-1309>
+
+## Kap. 1 – Innledende bestemmelser
+
+### § 1. Hvem forskriften gjelder
+
+Forskriften gjelder for fartøy som eieren har adgang til å delta med i fiskerier som er adgangsbegrenset etter reglene i § 21 i [deltakerloven av 26. mars 1999 nr. 15](../lover/lov-1999-03-26-15-deltakerloven.md).
+
+Med adgangsbegrensede fiskerier menes fiskerier hvor det er stilt krav om tidligere deltakelse eller andre lignende krav, ut over krav om at fiskefartøyet må være innført i merkeregisteret for fiskefartøy og at eier og/eller høvedsmann må være ført i fiskermanntallet.
+
+*Endret ved [forskrift 8 feb 2008 nr. 118](https://lovdata.no/forskrift/2008-02-08-118).*
+
+### § 2. Formål
+
+Drifts- og strukturordningene har som formål å legge til rette for en positiv utvikling av de ulike fartøygruppene i kystflåten, ved å gjøre det mulig å utvide kvotegrunnlaget for det enkelte fartøy og derved legge opp en drift som sikrer virksomhet over en størst mulig del av året, og å legge til rette for spesialisering av driften og derved et mer lønnsomt driftsopplegg for det enkelte fartøy.
+
+### § 3. Definisjoner
+
+Med «driftsordninger» menes ordninger hvor det kan utveksles en eller flere kvoter mellom fartøy, uten at noe fartøy tas permanent ut av fiske.
+
+Med «strukturkvoteordning» menes en ordning hvor det kan utveksles en eller flere kvoter mellom fartøy, dersom et fartøy tas permanent ut av fiske.
+
+Med «hjemmelslengde» menes den lengde fartøyet henter sin kvotefaktor fra.
+
+Med «strukturkvote» menes kvotefaktoren for det fartøyet som tas ut av fiske, avkortet i henhold til [§ 11](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) første ledd.
+
+Med «startet fiske» menes når det er fisket og levert fangst samt skrevet landingsseddel og/eller sluttseddel på fartøyet på det aktuelle fiskeslaget for vedkommende år.
+
+*Endret ved [forskrift 14 juni 2013 nr. 644](https://lovdata.no/forskrift/2013-06-14-644).*
+
+## Kap. 2 – Særlig kvoteordning for fartøy med hjemmelslengde under 11 (13) meter
+
+*Overskriften endret ved [forskrifter 18 jan 2007 nr. 46](https://lovdata.no/forskrift/2007-01-18-46), [20 des 2024 nr. 3473](https://lovdata.no/forskrift/2024-12-20-3473) (i kraft 1 jan 2025), [19 des 2025 nr. 2812](https://lovdata.no/forskrift/2025-12-19-2812) (i kraft 1 jan 2026).*
+
+### § 4. Bruk av særlig kvoteordning
+
+Fiskeridirektoratet kan etter søknad gi fartøyeier tillatelse til bruk av særlig kvoteordning i følgende fiskerier:
+
+a. fisket etter torsk, hyse og sei nord for 62 grader nord
+b. fisket etter makrell med garn/snøre og/eller not
+c. fisket etter sild i Nordsjøen
+d. fisket etter norsk vårgytende sild.
+
+Tillatelse til bruk av særlig kvoteordning kan bare gis dersom følgende vilkår er oppfylt:
+
+a. Fartøyeier må på vedtakstidspunktet være eier av to fartøy med deltakeradgang i lukket gruppe i det aktuelle fiskeriet. Deltakeradgangene må ha hjemmelslengde under 11 meter (13 meter for deltakeradganger i fisket etter makrell med not). Fartøyene må på vedtakstidspunktet ha samme direkte eier.
+b. Fartøyeier må ha eid begge fartøyene det foregående kvoteår.
+c. Det ene fartøyets deltakeradgang må oppgis. Det kan ikke være registrert fangst inneværende år på deltakeradgangen som oppgis.
+d. Fartøyet som oppgir deltakeradgang skal slettes i merkeregisteret. Dette er ikke til hinder for at dette fartøyet senere kan føres inn igjen i merkeregisteret med samme eller annen eier dersom vilkårene for dette er oppfylt. Det kan gjøres unntak fra kravet om sletting i merkeregisteret dersom fartøyet har adgang til å delta i lukket gruppe i et annet fiskeri.
+
+Tillatelse til bruk av særlig kvoteordning gir fartøyeier adgang til å fiske to kvoter i det aktuelle fisket med fartøyet som ikke slettes i merkeregisteret, henholdsvis kvote for fartøyets egen deltakeradgang og kvote for den oppgitte deltakeradgangen. Fartøyet kan ikke delta i kvotesamarbeidsordning i lukket gruppe det samme kvoteåret som fartøyet har tillatelse til bruk av særlig kvoteordning i det samme fiskeriet. Deltakelse i særlig kvoteordning er ikke til hinder for deltakelse i samfiskeordningen etter [høstingsforskriften kapittel VII](for-2021-12-23-3910-hostingsforskriften.md).
+
+*Opphevet ved forskrift [forskrift 14 des 2007 nr. 1432](https://lovdata.no/forskrift/2007-12-14-1432) (i kraft 1 jan 2008), tilføyd ved forskrift [20 des 2024 nr. 3473](https://lovdata.no/forskrift/2024-12-20-3473) (i kraft 1 jan 2025), endret ved forskrift [19 des 2025 nr. 2812](https://lovdata.no/forskrift/2025-12-19-2812) (i kraft 1 jan 2026).*
+
+### § 5. Uttreden av særlig kvoteordning
+
+Fiskeridirektoratet kan etter søknad gi fartøyeier tillatelse til uttreden av den særlige kvoteordningen. Tillatelse til uttreden av den særlige kvoteordningen kan bare gis virkning fra kvoteårsskifte.
+
+Tillatelse til uttreden av den særlige kvoteordningen innebærer at fartøyet som har deltatt i ordningen bare kan fiske kvote for én deltakeradgang i det aktuelle fisket fra og med dato for uttreden.
+
+Det kan i forbindelse med uttreden av den særlige kvoteordningen tildeles deltakeradgang til annet fartøy i medhold av deltakerforskriften og i henhold til søknaden om uttreden. Deltakeradgangen skal gjelde i samme fiskeri og ha samme hjemmelslengde som deltakeradgangen som ble oppgitt ved inntreden i ordningen og kan bare tildeles fartøy med største lengde under 11 meter. Likevel kan deltakeradgang i fisket etter makrell med not tildeles fartøy med største lengde under 13 meter, og deltakeradgang i fisket etter makrell med garn/snøre kan tildeles fartøy med største lengde under 15 meter. Deltakeradgangen kan tildeles uten hensyn til mottakende fartøys øvrige driftsgrunnlag.
+
+*Opphevet ved forskrift [forskrift 14 des 2007 nr. 1432](https://lovdata.no/forskrift/2007-12-14-1432) (i kraft 1 jan 2008), tilføyd ved forskrift [20 des 2024 nr. 3473](https://lovdata.no/forskrift/2024-12-20-3473) (i kraft 1 jan 2025), endret ved forskrift [19 des 2025 nr. 2812](https://lovdata.no/forskrift/2025-12-19-2812) (i kraft 1 jan 2026).*
+
+### § 6. Tildeling av særlig kvote ved tildeling av deltakeradgang
+
+Ved tildeling av deltakeradgang ved salg av fartøy for fortsatt drift, ved utskifting av fartøy eller til erstatning for tilsvarende deltakeradgang, faller kvote for deltakeradgang som er oppgitt etter [§ 4 annet ledd bokstav c](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) bort. Det kan tildeles særlig kvote til erstatning for den bortfalte kvoten til fartøyet som tildeles deltakeradgang som nevnt i første ledd.
+
+*Opphevet ved [forskrift 14 des 2007 nr. 1432](https://lovdata.no/forskrift/2007-12-14-1432) (i kraft 1 jan 2008), tilføyd ved forskrift [19 des 2025 nr. 2812](https://lovdata.no/forskrift/2025-12-19-2812) (i kraft 1 jan 2026).*
+
+## Kap. 3 – Strukturkvoteordning for fartøy med hjemmelslengde mellom 11 og 27,99 meter
+
+*Overskriften endret ved [forskrift 8 juni 2007 nr. 586](https://lovdata.no/forskrift/2007-06-08-586).*
+
+### § 7. Tildeling av strukturkvote
+
+Dersom et fartøy tas permanent ut av fiske på de vilkår som er fastsatt i forskriften her, kan det gis tillatelse til at de enkelte kvotene i adgangsbegrensede fiskerier som nevnt i [§ 1](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) og som ellers ville blitt tildelt for fiske med dette fartøyet, fiskes med ett eller flere andre fartøy som strukturkvote.
+
+Strukturkvotene av de ulike fiskeslag, og kvoten av det enkelte fiskeslag, kan fordeles mellom flere fartøy innenfor de begrensningene som følger av forskriften her.
+
+Det fartøyet som tildeles strukturkvote, må selv ha adgang til å delta i vedkommende fiskeri.
+
+Adgangen til å tildele strukturkvote omfatter ikke kvote av sel, hval, rognkjeks og kongekrabbe.
+
+Dersom et fiskeri blir adgangsbegrenset etter reglene i [deltakerloven § 21](../lover/lov-1999-03-26-15-deltakerloven.md) etter at et fartøy er tatt ut av fiske, kan det tildeles strukturkvote i dette fiskeriet til det eller de gjenværende fartøy dersom det uttatte fartøyet fylte vilkårene for å bli tildelt deltakeradgang i vedkommende fiskeri.
+
+*Opphevet ved [forskrift 6 jan 2006 nr. 10](https://lovdata.no/forskrift/2006-01-06-10), se likevel dennes III for overgangsordning. Tilføyd ved [forskrift 8 juni 2007 nr. 586](https://lovdata.no/forskrift/2007-06-08-586).*
+
+### § 8. Vilkår for tildeling av strukturkvote
+
+Tillatelse etter [§ 7](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) kan gis når:
+
+a. ett eller flere fartøy som nevnt i [§ 1](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) blir meldt ut av registeret over fiskefartøy, og
+b. alle deltakeradganger og konsesjoner knyttet til fartøyet eller fartøyene som blir meldt ut av merkeregisteret, blir oppgitt.
+
+Dersom det er tildelt konsesjoner for fiske med det fartøyet som tas ut av fiske, kan tilsvarende konsesjon tildeles det gjenværende fartøyet dersom fartøyet fyller vilkårene for slik tildeling og den aktuelle konsesjonen har vært nyttet aktivt. Dersom det uttatte fartøyet hadde adgang til å delta i fiskerier som det gjenværende ikke hadde adgang til, kan slik deltakeradgang på tilsvarende vilkår retildeles det gjenværende fartøyet. Vilkårene fastsatt i [§ 9](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) annet og tredje ledd gjelder tilsvarende for slik retildeling av deltakeradgang.
+
+Det kan settes vilkår for tildeling av strukturkvote, når dette følger av alminnelige forvaltningsrettslige regler.
+
+*Endret ved [forskrifter 6 des 2013 nr. 1396](https://lovdata.no/forskrift/2013-12-06-1396), [29 mai 2020 nr. 1096](https://lovdata.no/forskrift/2020-05-29-1096), [27 nov 2020 nr. 2483](https://lovdata.no/forskrift/2020-11-27-2483).*
+
+### § 9. Begrensninger i adgangen til å tildele strukturkvote
+
+Adgangen til å tildele strukturkvote etter [§ 7](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) gjelder bare for fartøy med en hjemmelslengde for kvotetildeling mellom 11 og 27,99 meter. I kystnotfisket etter makrell er nedre grense likevel hjemmelslengde på 13 meter.
+
+Det eller de fartøy som tildeles strukturkvote og det fartøyet som tas ut av fiske, må begge eller alle enten ha en hjemmelslengde for kvotetildeling mellom 11 (13) og 14,99 meter, 15 og 20,99 meter eller mellom 21 og 27,99 meter, i det fiskeriet hvor det skal tildeles strukturkvote. Det kan gjøres unntak fra denne gruppeinndelingen dersom reguleringen av et fiskeri er basert på gruppeinndelinger ved andre størrelsesgrenser. Det kan også gjøres unntak fra denne gruppeinndelingen for fartøy som eies med mer enn 50% av samme person eller samme selskap, dersom samme person har hatt slik eierandel i fartøyene eller i selskapet/selskapene registrert i merkeregisteret siden før 28. mars 2003. Det kan også gjøres unntak fra den nedre grensen på hjemmelslengde 11 meter dersom fartøyet har hjemmelslengde mellom 10 og 11 meter og fartøyene har hatt samme eier(e) registrert i merkeregisteret siden før 16. mars 2007.
+
+Når det gjelder kvote av torsk, hyse og sei må det eller de fartøy som tildeles strukturkvote og det fartøyet som tas ut av fiske, begge eller alle ha vært registrert i samme landsdel i minst 12 måneder før det kan tildeles strukturkvote. Nord-Norge (Finnmark, Troms og Nordland) og Sør-Norge (fra Trøndelag og sørover) regnes i denne sammenheng som hver sin landsdel. Unntak fra dette gjelder bare i de tilfeller som følger av [forskrift 8. desember 2015 nr. 1418](https://lovdata.no/forskrift/2015-12-08-1418) om adgang til å delta i kystfiskefartøygruppens fiske for 2016 [§ 45](https://lovdata.no/forskrift/2015-12-08-1418/§45), eller bestemmelser som kommer til erstatning for denne.
+
+Det kan ikke tildeles strukturkvote dersom
+
+a. deltakeradgangen som oppgis er tildelt i rekrutteringsøyemed, og
+b. fartøyet som tildeles strukturkvote ikke er i samme eie som fartøyet som tas ut av fiske, og som deltakeradgangen oppgis fra.
+
+*Endret ved [forskrifter 8 juni 2007 nr. 586](https://lovdata.no/forskrift/2007-06-08-586), [14 des 2007 nr. 1432](https://lovdata.no/forskrift/2007-12-14-1432) (i kraft 1 jan 2008), [17 juni 2016 nr. 677](https://lovdata.no/forskrift/2016-06-17-677).*
+
+### § 10. Særlige regler for trålfiske etter reker sør for 62° N
+
+Det kan ikke tildeles strukturkvote av reker sør for 62 grader nord til et fartøy som har større lasteromsvolum enn 500 m3, på grunnlag av uttak av et fartøy med mindre lasteromsvolum enn 500 m3. Adgang til å delta i trålfisket etter reker sør for 62 grader nord kan i slike tilfeller heller ikke retildeles etter reglene i [§ 8](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) annet ledd.
+
+*Tilføyd ved [forskrift 24 aug 2007 nr. 1000](https://lovdata.no/forskrift/2007-08-24-1000), endret ved [forskrifter 8 feb 2008 nr. 118](https://lovdata.no/forskrift/2008-02-08-118), [3 sep 2010 nr. 1235](https://lovdata.no/forskrift/2010-09-03-1235).*
+
+### § 11. Årlig tildeling av strukturkvote og avkortning
+
+Strukturkvote tildeles for ett år av gangen, og kan tildeles i inntil 20 år. Strukturkvoter som er tildelt første gang før 2007, kan tildeles i inntil 25 år regnet fra og med 2008. Strukturkvoten skal tilsvare kvotefaktoren for det fartøyet som tas ut av fiske, men avkortet med 10 prosent av denne.
+
+Prøving av om vilkårene for tildeling er oppfylt skal gjøres før første gangs tildeling. Den årlige tildelingen skjer uten ny prøving, med mindre det fremkommer opplysninger som tyder på at vilkårene likevel ikke er oppfylt eller det av andre grunner er nødvendig å ta saken opp til ny prøving.
+
+*Endret ved [forskrifter 6 jan 2006 nr. 10](https://lovdata.no/forskrift/2006-01-06-10), [8 juni 2007 nr. 586](https://lovdata.no/forskrift/2007-06-08-586), [24 aug 2007 nr. 1000](https://lovdata.no/forskrift/2007-08-24-1000) (tidligere § 10), [14 juni 2013 nr. 644](https://lovdata.no/forskrift/2013-06-14-644), [28 feb 2014 nr. 268](https://lovdata.no/forskrift/2014-02-28-268), [27 nov 2020 nr. 2483](https://lovdata.no/forskrift/2020-11-27-2483).*
+
+### § 11a. Tildeling av strukturkvoter ved tildeling av deltakeradgang til erstatning for tilsvarende deltakeradgang
+
+Ved tildeling av deltakeradgang etter [deltakerloven § 21](../lover/lov-1999-03-26-15-deltakerloven.md) tredje ledd eller bestemmelser gitt i medhold av denne faller fartøyets strukturkvoter knyttet til deltakeradgangen som oppgis bort, jf. [§ 7](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) tredje ledd. Det kan tildeles strukturkvote til fartøyet som tildeles slik deltakeradgang, til erstatning for den bortfalte strukturkvoten, dersom vilkårene for tildeling er til stede. Tidsbegrensningene i [§ 11](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) fortsetter å løpe. Det skal ikke skje tildeling etter annet punktum dersom strukturkvote som oppgis er tildelt første gang som følge av at deltakeradgang tildelt i rekrutteringsøyemed er oppgitt.
+
+*Tilføyd ved [forskrift 19 juni 2015 nr. 693](https://lovdata.no/forskrift/2015-06-19-693) (i kraft 1 juli 2015), endret ved [forskrift 17 juni 2016 nr. 677](https://lovdata.no/forskrift/2016-06-17-677).*
+
+### § 11b. Splitting av strukturkvoter
+
+Det kan tildeles strukturkvote eller deler av strukturkvote med virkning fra kommende kvoteår til erstatning for tilsvarende strukturkvote eller deler av strukturkvote som oppgis med virkning fra utløpet av inneværende kvoteår, dersom vilkårene for tildeling er til stede. Tidsbegrensningene i [§ 11](for-2003-11-07-1309-forskrift-om-spesielle-kystfiskekvoteordninger.md) fortsetter å løpe. Det skal ikke skje tildeling etter første punktum dersom strukturkvote som oppgis er tildelt første gang som følge av at deltakeradgang tildelt i rekrutteringsøyemed er oppgitt.
+
+*Tilføyd ved [forskrift 19 juni 2015 nr. 693](https://lovdata.no/forskrift/2015-06-19-693) (i kraft 1 juli 2015), endret ved [forskrift 17 juni 2016 nr. 677](https://lovdata.no/forskrift/2016-06-17-677).*
+
+### § 12. Kvotetak mv.
+
+Fartøy med hjemmelslengde for kvotetildeling mellom 15 og 27,99 meter kan ikke tildeles større kvote enn 4 ganger fartøyets egen kvote, inkludert fartøyets egen kvote. Et fartøy kan likevel tildeles kvote inntil 6 ganger fartøyets egen kvote, inkludert fartøyets egen kvote, i enten torskesektoren eller pelagisk sektor dersom fartøyet ikke tildeles mer enn 2 ganger fartøyets egen kvote inkludert fartøyets egen kvote i den andre sektoren.
+
+Fartøy med hjemmelslengde for kvotetildeling mellom 11 og 14,99 meter kan ikke tildeles større kvote enn 3 ganger fartøyets egen kvote, inkludert fartøyets egen kvote. Dersom fartøyet bare tildeles strukturkvote enten i torskesektoren eller i pelagisk sektor, gjelder likevel et kvotetak på 5 ganger fartøyets egen kvote i hvert enkelt fiskeri i sektoren, inkludert fartøyets egen kvote.
+
+Strukturkvote tildeles for fiske med det enkelte fartøy, men kan tildeles for fiske med annet eller flere andre fartøy etter reglene i forskriften her, eller for fiske med et erstatningsfartøy dersom fartøyet skiftes ut.
+
+*Endret ved [forskrifter 8 juni 2007 nr. 586](https://lovdata.no/forskrift/2007-06-08-586), [24 aug 2007 nr. 1000](https://lovdata.no/forskrift/2007-08-24-1000) (tidligere § 11), [14 juni 2013 nr. 644](https://lovdata.no/forskrift/2013-06-14-644), [21 juni 2017 nr. 828](https://lovdata.no/forskrift/2017-06-21-828) (i kraft 1 juli 2017).*
+
+## Kap. 4 – Vedtaksmyndighet og ikrafttredelse
+
+### § 13. Bemyndigelse og vedtaksmyndighet
+
+Departementet kan endre denne forskriften.
+
+Fiskeridirektoratet fatter vedtak etter denne forskriften. Fiskeridirektoratets klagesaksenhet er klageinstans.
+
+*Endret ved [forskrifter 24 aug 2007 nr. 1000](https://lovdata.no/forskrift/2007-08-24-1000) (tidligere § 12), [28 okt 2022 nr. 1807](https://lovdata.no/forskrift/2022-10-28-1807) (i kraft 1 nov 2022).*
+
+### § 14. Ikrafttredelse
+
+Denne forskrift trer i kraft straks. Tillatelse til å nytte driftsordningene eller tildeling av strukturkvote gjelder likevel først fra og med 1. januar 2004.
+
+*Endret ved [forskrift 24 aug 2007 nr. 1000](https://lovdata.no/forskrift/2007-08-24-1000) (tidligere § 13).*

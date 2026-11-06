@@ -1,0 +1,102 @@
+# Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]
+
+- **Korttittel:** Lønnsgarantiloven
+- **Datokode:** LOV-1973-12-14-61
+- **DokumentID:** NL/lov/1973-12-14-61
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **I kraft fra:** 1974-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** lov 25.04.2025 nr. 12 fra 2026-01-01
+- **Rettsområde:** Arbeidsrett > Arbeidsforhold. Sysselsetting; Konkurs, gjeld og pant > Gjeldsforhandling. Konkurs
+- **EU/EØS-henvisning:** EØS-avtalen vedlegg XVIII nr. 24 (direktiv 2008/94/EF)
+- **Siste rettelse:** 2021-08-27 (faglige fotnoter fjernet)
+- **Kilde:** <https://lovdata.no/lov/1973-12-14-61>
+
+## § 1.
+
+For betaling av krav på lønn og dermed likestilte krav som ikke kan dekkes på grunn av konkursåpning hos arbeidsgiveren, innestår staten etter reglene i denne lov. Det samme gjelder når forsikringsselskap eller bank settes under offentlig administrasjon og ved offentlig skifte av insolvent dødsbo og insolvent selskap som avvikles i medhold av [aksjeloven § 16-15](lov-1997-06-13-44-aksjeloven.md) og [allmennaksjeloven § 16-15](lov-1997-06-13-45-allmennaksjeloven.md).
+
+Garantien omfatter forfalte krav på lønn og annet vederlag for arbeid i tjenesteforhold, herunder feriepenger, krav på arbeidsgiver for pensjon og tapt arbeidsvederlag, samt mulige renter og kostnader ved inndriving av slike krav. Garantien omfatter også kostnader som en arbeidstakerorganisasjon har i forbindelse med inndriving av en arbeidstakers krav.
+
+Kravene dekkes av garantien i den utstrekning de har fortrinnsrett etter [dekningsloven kapittel 9](lov-1984-06-08-59-dekningsloven.md), men med følgende begrensninger:
+
+1. Garantien er i det enkelte tilfelle begrenset til et beløp som svarer til to ganger folketrygdens grunnbeløp på fristdagen.
+2. Etter konkursåpning dekkes krav som nevnt i andre ledd i inntil én måned regnet fra konkursåpningstidspunktet.
+3. Det gis kun dekning for feriepenger som er opptjent i samme år som året for fristdagen i konkursen og året før.
+
+Følgende krav dekkes av garantien, med samme beløpsbegrensning som i tredje ledd nr. 1, selv om de ikke har fortrinnsrett etter [dekningsloven kapittel 9](lov-1984-06-08-59-dekningsloven.md):
+
+1. krav på vederlag som nevnt i [dekningsloven § 9-3](lov-1984-06-08-59-dekningsloven.md) første ledd nr. 1 første ledd bokstav c og d, og
+2. lønnskrav som er forfalt i løpet av de siste 12 måneder før fristdagen. [Dekningsloven § 9-3](lov-1984-06-08-59-dekningsloven.md) første ledd nr. 1 tredje ledd første punktum og [§ 9-3](lov-1984-06-08-59-dekningsloven.md) andre ledd gjelder ikke. Garantien dekker også krav på renter inntil fristdagen og inndrivelseskostnader for krav etter dette ledd.
+
+For banker og forsikringsselskaper under offentlig administrasjon gjelder bestemmelsene i [dekningsloven kapittel 9](lov-1984-06-08-59-dekningsloven.md) tilsvarende så langt de passer. Som fristdag regnes den dagen vedtak om offentlig administrasjon ble truffet.
+
+Garantien omfatter i tillegg rimelige omkostninger arbeidstaker eller en arbeidstakerorganisasjon har i forbindelse med konkursbegjæringen. Kravene dekkes i den utstrekning de er massefordringer etter [dekningsloven § 9-2](lov-1984-06-08-59-dekningsloven.md) andre ledd nr. 1, og boet selv ikke har midler til å dekke dem.
+
+Overdrar arbeidstakeren krav som nevnt i denne paragraf før konkursåpningen, bortfaller statsgarantien. Det samme gjelder hvis tredjemann før konkursåpningen på annen måte trer inn i krav mot arbeidsgiveren etter å ha løst inn eller dekket arbeidstakerens krav. Garantien bortfaller likevel ikke dersom offentlig myndighet trer inn i kravene. Garantien bortfaller heller ikke dersom andre overtar eller trer inn i kravet og det er åpenbart at det ikke skjer som ledd i en skjult driftskreditt eller annet misbruk av lønnsgarantiordningen.
+
+*Endret ved lover 14 mars 1975 nr. 7, [8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md), [10 apr 1992 nr. 42](https://lovdata.no/lov/1992-04-10-42), [13 juni 1997 nr. 44](lov-1997-06-13-44-aksjeloven.md) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](https://lovdata.no/forskrift/1998-07-17-615)), [15 mai 1998 nr. 27](https://lovdata.no/lov/1998-05-15-27) (ikr. 1 jan 1999 iflg. [res. 15 mai 1998 nr. 478](https://lovdata.no/forskrift/1998-05-15-478)), [17 des 2004 nr. 87](https://lovdata.no/lov/2004-12-17-87) (ikr. 1 jan 2005, se dens II), [21 des 2005 nr. 120](https://lovdata.no/lov/2005-12-21-120) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1604](https://lovdata.no/forskrift/2005-12-21-1604)), [14 des 2012 nr. 80](https://lovdata.no/lov/2012-12-14-80) (ikr. 1 jan 2013, se dens VIII), [13 des 2013 nr. 105](https://lovdata.no/lov/2013-12-13-105) (ikr. 1 jan 2014, se dens V), [20 des 2022 nr. 100](https://lovdata.no/lov/2022-12-20-100) (i kraft 1 jan 2023).*
+
+## § 2.
+
+Garantien omfatter lønn m.v. i arbeidsforhold hvor det skal betales arbeidsgiveravgift til folketrygden, med mindre Kongen bestemmer annet.
+
+Garantien finansieres ved en arbeidsgiveravgift som inngår i arbeidsgiveravgiften til folketrygden.
+
+## § 3.
+
+Søknad om utbetaling av garantibeløp forelegges for arbeidsgiveren eller hans bo som skal gis høve til å uttale seg.
+
+## § 4.
+
+Dersom kravet bestrides helt eller delvis av arbeidsgiveren eller hans bo, kan arbeidstakeren henvises til å reise sak om kravet mot arbeidsgiveren eller hans bo innen en viss frist. Oversittes fristen, tapes retten til dekning etter denne lov. Fristen kan i særlige tilfelle forlenges, eller det kan settes ny frist.
+
+## § 5.
+
+Ved utbetaling av garantibeløp etter reglene i denne lov skal det i den utstrekning de foreliggende opplysninger tilsier det foretas pliktige trekk på tilsvarende måte som ved utbetaling fra arbeidsgiveren.
+
+Offentlige myndigheter, arbeidsgiveren og hans bo plikter uten hinder av taushetsplikt å gi de opplysninger som trengs for behandling av saker etter loven her.
+
+*Endret ved lov 16 mars 1979 nr. 7.*
+
+## § 6.
+
+Når staten dekker krav etter garantien, trer den inn i arbeidstakerens krav mot arbeidsgiveren og hans bo. Dette gjelder selv om vilkårene for utbetaling av lønnsgarantien ikke forelå. Ved virksomhetsoverdragelse kan staten også rette regresskrav mot den nye arbeidsgiveren, jf. [arbeidsmiljøloven § 16-2](lov-2005-06-17-62-arbeidsmiljoloven.md) første ledd.
+
+*Endret ved [lover 21 juni 2002 nr. 24](https://lovdata.no/lov/2002-06-21-24), se dens III nr. 2 (ikr. 1 juli 2002 iflg. [res. 21 juni 2002 nr. 577](https://lovdata.no/forskrift/2002-06-21-577)), [17 juni 2005 nr. 62](lov-2005-06-17-62-arbeidsmiljoloven.md) (ikr. 1 jan 2006 iflg. [res. 17 juni 2005 nr. 609](https://lovdata.no/forskrift/2005-06-17-609)).*
+
+## § 7.
+
+Arbeidstakere som tar arbeid for en arbeidsgiver som de vet eller burde vite er ute av stand til å dekke de løpende lønnsforpliktelser, kan nektes dekning. Dekning kan også nektes dersom arbeidstakerne vet eller burde vite at forutsetningen for et ansettelsesforhold eller ansettelsesvilkår eller endring i en arbeidsavtale er at krav helt eller delvis skal dekkes over statsgarantien.
+
+Det samme gjelder dersom arbeidstakeren står i et slikt forhold til arbeidsgiveren at dekning av kravet over statsgarantien må anses som urimelig.
+
+*Endret ved [lover 10 apr 1992 nr. 42](https://lovdata.no/lov/1992-04-10-42), [15 mai 1998 nr. 27](https://lovdata.no/lov/1998-05-15-27) (ikr. 15 mai 1998 iflg. [res. 15 mai 1998 nr. 478](https://lovdata.no/forskrift/1998-05-15-478)), [21 juni 2002 nr. 24](https://lovdata.no/lov/2002-06-21-24), se dens III nr. 2 (ikr. 1 juli 2002 iflg. [res. 21 juni 2002 nr. 577](https://lovdata.no/forskrift/2002-06-21-577)).*
+
+## § 8.
+
+Dersom staten påføres tap ved utbetaling etter loven ved feil eller forsømmelse av arbeidstaker eller noen som handler på hans vegne, kan beløpet kreves tilbakebetalt. Det samme gjelder for mye utbetalt beløp som er oppebåret i strid med redelighet og god tro.
+
+## § 9.
+
+Dersom forholdet ikke går inn under strengere straffebud, straffes med bøter den som mot bedre vitende gir uriktige opplysninger eller fortier vesentlige opplysninger av betydning for rettigheter eller plikter etter denne lov, eller som etter pålegg unnlater å gi slike meldinger og opplysninger som er krevd i eller i medhold av loven.
+
+## § 10.
+
+Departementet fastsetter de nærmere vilkår for lønnsgarantien. For dekning av krav som gjelder tiden etter fristdagen kan det settes som vilkår at arbeidstakeren har meldt seg hos Arbeids- og velferdsetaten. Departementet kan ellers gi regler til gjennomføring og utfylling av denne lov, herunder om adgang til å avskrive tilbakesøkingskrav overfor arbeidsgiveren eller hans bo og om plikt for tingretten og bostyrer til å bistå ved behandling av saker etter loven. Departementet gir nærmere forskrifter om fastsetting av godtgjørelse for arbeidet med saker etter loven, om i hvilken utstrekning godtgjørelsen skal dekkes av konkursboet og om eventuell refusjon fra lønnsgarantiordningen.
+
+Departementet kan gi særlige regler for arbeidstakere på skip eller grupper av disse og herunder gjøre fravik fra reglene i denne lov.
+
+*Endret ved lover 16 mars 1979 nr. 7, [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)), [16 juni 2006 nr. 20](lov-2006-06-16-20-nav-loven.md) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](https://lovdata.no/forskrift/2006-06-16-631)), [25 april 2025 nr. 12](lov-2025-04-25-12-innkrevingsloven.md) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](https://lovdata.no/forskrift/2025-06-10-967)).*
+
+## § 11.
+
+Fra lovens ikrafttredelse gjøres følgende endringer i andre lover: – – –
+
+## § 12.
+
+Denne lov trer i kraft fra den tid Kongen bestemmer.[1]
+
+## Fotnoter
+
+**1.** Fra 1 jan 1974 iflg. res. 14 des 1973.

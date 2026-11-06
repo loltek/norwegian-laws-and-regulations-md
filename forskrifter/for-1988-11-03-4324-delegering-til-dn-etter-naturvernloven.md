@@ -1,0 +1,34 @@
+# Delegering av myndighet til Direktoratet for naturforvaltning etter lov om naturvern § 4, § 6, § 10, § 12, § 13, § 14, § 21, § 22 og § 23
+
+- **Korttittel:** Delegering til DN etter naturvernloven
+- **Datokode:** FOR-1988-11-03-4324
+- **DokumentID:** DEL/forskrift/1988-11-03-4324
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Avd. for naturforvaltning
+- **Hjemmel:** lov 19.06.1970 nr. 63/§4; lov 19.06.1970 nr. 63/§6; lov 19.06.1970 nr. 63/§10; lov 19.06.1970 nr. 63/§12; lov 19.06.1970 nr. 63/§13; lov 19.06.1970 nr. 63/§14; lov 19.06.1970 nr. 63/§21; lov 19.06.1970 nr. 63/§22; lov 19.06.1970 nr. 63/§23; forskrift 03.07.1987 nr. 572; forskrift 15.03.2013 nr. 283
+- **I kraft fra:** 1988-11-15
+- **Siste endring i kraft:** 2014-01-01
+- **Sist endret ved:** forskrift 19.12.2013 nr. 1757 fra 2014-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Miljøverndepartementet (nå Klima- og miljødepartementet) 3. november 1988 med hjemmel i lov 19. juni 1970 nr. 63 om naturvern § 4, § 6, § 10, § 12, § 13, § 14, § 21, § 22 og § 23, jf. delegeringsvedtak 3. juli 1987 nr. 572. Tilføyd hjemmel: Delegering 15 mars 2013 nr. 283 av myndighet til Miljødirektoratet. Endret ved forskrift 19 des 2013 nr. 1757.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/1988-11-03-4324>
+
+Herved delegeres Klima- og miljødepartementets myndighet etter [lov 19. juni 1970 nr. 63](https://lovdata.no/lov/1970-06-19-63) om naturvern [§ 4](https://lovdata.no/lov/1970-06-19-63/§4), [§ 6](https://lovdata.no/lov/1970-06-19-63/§6), [§ 10](https://lovdata.no/lov/1970-06-19-63/§10), [§ 12](https://lovdata.no/lov/1970-06-19-63/§12), [§ 13](https://lovdata.no/lov/1970-06-19-63/§13), [§ 14](https://lovdata.no/lov/1970-06-19-63/§14), [§ 21](https://lovdata.no/lov/1970-06-19-63/§21), [§ 22](https://lovdata.no/lov/1970-06-19-63/§22) og [§ 23](https://lovdata.no/lov/1970-06-19-63/§23), jf. [kgl.res. 3. juli 1987 nr. 572](https://lovdata.no/forskrift/1987-07-03-572), til å
+
+1. endre verneområdets navn
+2. rette feil og unøyaktigheter i beskrivelsen av det vernete område
+3. foreta grenseendringer som omfatter mindre arealer (utvidelse eller innskrenkninger)
+4. gi bestemmelser om skjøtsel forsåvidt det ikke etter annen bestemmelse er lagt til fylkesmannen eller annen forvaltningsmyndighet
+5. gi bestemmelser om merking mv. etter § 21
+6. gi bestemmelser om ferdselsregulering etter § 22 første ledd
+7. gi dispensasjon etter § 23 forsåvidt ikke dispensasjonsmyndigheten etter annen bestemmelse er lagt til fylkesmannen eller annen forvaltningsmyndighet
+8. foreta andre endringer i vernebestemmelsene som ikke strider mot formålet med vernet
+9. oppheve eldre fredninger der verneformålet er bortfalt
+
+til Direktoratet for naturforvaltning, med virkning fra 15. november 1988.
+
+Alle saker vedrørende dette skal etter denne dato sendes direktoratet. Departementet vil ferdigbehandle de sakene som er innkommet før dette tidspunkt.
+
+Delegeringen gjelder tilsvarende i forhold til vernevedtak truffet i medhold av [lov 25. juli 1910 nr. 3](https://lovdata.no/lov/1910-07-25-3) om naturfredning og [lov 1. desember 1954 nr. 2](https://lovdata.no/lov/1954-12-01-2) om naturvern.
+
+*Endret ved [forskrift 19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*

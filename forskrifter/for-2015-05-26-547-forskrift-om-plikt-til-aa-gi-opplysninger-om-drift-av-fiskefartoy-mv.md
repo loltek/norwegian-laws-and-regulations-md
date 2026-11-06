@@ -1,0 +1,40 @@
+# Forskrift om plikt til å gi opplysninger om drift av fiske- og fangstfartøy
+
+- **Korttittel:** Forskrift om plikt til å gi opplysninger om drift av fiskefartøy mv.
+- **Datokode:** FOR-2015-05-26-547
+- **DokumentID:** SF/forskrift/2015-05-26-547
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Fiskeri- og havbruksavd.
+- **Hjemmel:** lov 06.06.2008 nr. 37/§57; lov 06.06.2008 nr. 37/§58
+- **Publisert i:** I 2015 hefte 5
+- **Kunngjort:** 2015-05-29 15:00
+- **I kraft fra:** 2015-05-26
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 26. mai 2015 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 57 og § 58.
+- **Kilde:** <https://lovdata.no/forskrift/2015-05-26-547>
+
+## § 1. Formål
+
+Formålet med denne forskriften er å gi Fiskeridirektoratet mulighet til å utarbeide lønnsomhetsundersøkelser, utvikle forvaltningsstrategier og legge til rette for en best mulig forvaltning av ressursene.
+
+## § 2. Virkeområde
+
+Forskriften gjelder eier og bruker av norske fiske- og fangstfartøy.
+
+## § 3. Opplysninger om drift
+
+Fartøyeier eller bruker av fiske- og fangstfartøy skal når Fiskeridirektoratet bestemmer det sende regnskapsopplysninger og andre opplysninger om fartøyets drift til Fiskeridirektoratet innen nærmere fastsatt frist.
+
+Opplysningene skal leveres i henhold til skjema fastsatt av Fiskeridirektoratet.
+
+## § 4. Bemyndigelse
+
+Fiskeridirektoratet kan fastsette nærmere bestemmelser om hvilke driftsopplysninger som skal gis og hvordan disse skal sendes inn.
+
+## § 5. Tvangsmulkt
+
+For å sikre at pålegg gitt i medhold av denne forskriften blir fulgt, kan Fiskeridirektoratet ilegge den ansvarlige løpende tvangsmulkt.
+
+## § 6. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.

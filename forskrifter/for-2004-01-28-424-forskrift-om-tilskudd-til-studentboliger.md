@@ -1,0 +1,88 @@
+# Forskrift om tilskudd til studentboliger
+
+- **Datokode:** FOR-2004-01-28-424
+- **DokumentID:** SF/forskrift/2004-01-28-424
+- **Departement:** Kunnskapsdepartementet
+- **Etat:** Universitets- og høgskoleavdelingen, Juridisk avdeling
+- **Hjemmel:** lov 29.05.2009 nr. 30
+- **Publisert i:** I 2004 hefte 4
+- **Kunngjort:** 2004-03-02
+- **I kraft fra:** 2004-01-28
+- **Siste endring i kraft:** 2024-10-01
+- **Sist endret ved:** forskrift 30.09.2024 nr. 2343 fra 2024-10-01
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-01-01 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Utdannings- og forskningsdepartementet (nå Kunnskapsdepartementet) 28. januar 2004 med hjemmel i Stortingets årlige budsjettvedtak, jf. lov 29. mai 2009 nr. 30 om Husbanken. Endret ved forskrifter 21 sep 2007 nr. 1077, 2 nov 2009 nr. 1330, 19 des 2012 nr. 1343, 14 feb 2014 nr. 135, 17 des 2020 nr. 2961 (i kraft 1 jan 2021), 30 sep 2024 nr. 2343 (i kraft 1 okt 2024). Rettet 10.01.2014 (hjemmel), 01.01.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2004-01-28-424>
+
+## § 1. Formålet med tilskuddsordningen
+
+Ordningen skal sikre etablering av boliger for studenter ved høyere utdanningsinstitusjoner i Norge. Dette skal bidra til en mer forutsigbar og rimelig bosituasjon for studenter, og være et supplement til det private boligmarkedet.
+
+## § 2. Hvem kan få tilskudd
+
+Tilskudd kan gis til studentsamskipnader og i særlige tilfeller studentboligstiftelser.
+
+*Endret ved forskrift [2 nov 2009 nr. 1330](https://lovdata.no/forskrift/2009-11-02-1330).*
+
+## § 3. Hva det kan gis tilskudd til
+
+Det kan gis tilskudd til:
+
+a. oppføring av studentboliger.
+b. kjøp og ombygging av eksisterende bygningsmasse til studentboliger.
+c. rehabilitering av eksisterende studentboliger i særlige tilfeller.
+
+*Endret ved forskrifter [21 sep 2007 nr. 1077](https://lovdata.no/forskrift/2007-09-21-1077), [2 nov 2009 nr. 1330](https://lovdata.no/forskrift/2009-11-02-1330).*
+
+## § 4. (Opphevet)
+
+*Endret ved forskrift [2 nov 2009 nr. 1330](https://lovdata.no/forskrift/2009-11-02-1330), opphevet ved forskrift [30 sep 2024 nr. 2343](https://lovdata.no/forskrift/2024-09-30-2343) (i kraft 1 okt 2024).*
+
+## § 5. Beregning av tilskudd og fastsettelse av tildelingskriterier
+
+Departementet fastsetter størrelsen på tilskuddet og den øvre kostnadsrammen per hybelenhet.
+
+Departementet fastsetter vilkår for tildeling av tilskuddet i tildelingsbrev til Husbanken.
+
+*Endret ved forskrifter [2 nov 2009 nr. 1330](https://lovdata.no/forskrift/2009-11-02-1330), [30 sep 2024 nr. 2343](https://lovdata.no/forskrift/2024-09-30-2343) (i kraft 1 okt 2024).*
+
+## § 6. Vedtak om tilsagn og utbetaling av tilskudd
+
+Husbanken behandler søknader om tilskudd til studentboliger og vedtar tilsagn om tilskudd. Husbanken behandler søknader om utbetaling av tilskudd.
+
+Det er en forutsetning for utbetaling at Husbanken godkjenner prosjektkostnadene, utforming og tekniske løsninger.
+
+*Endret ved forskrift [30 sep 2024 nr. 2343](https://lovdata.no/forskrift/2024-09-30-2343) (i kraft 1 okt 2024).*
+
+## § 7. Veiledning og oppfølgning
+
+Husbanken skal gi råd til studentsamskipnadene og har ansvaret for å følge opp prosjektene gjennom hele byggeprosessen for å sikre at fastsatte vilkår for tilskuddet etterleves.
+
+*Endret ved [forskrift 2 nov 2009 nr. 1330](https://lovdata.no/forskrift/2009-11-02-1330).*
+
+## § 8. Klageadgang
+
+Klage på Husbankens vedtak, jf. § 6, behandles etter reglene i [forskrift 31. oktober 2012 nr. 1182](for-2012-10-31-1182-forskrift-om-klagenemnd-for-husbanken.md) om klagenemnd for Husbanken.
+
+*Endret ved forskrifter [2 nov 2009 nr. 1330](https://lovdata.no/forskrift/2009-11-02-1330), [14 feb 2014 nr. 135](https://lovdata.no/forskrift/2014-02-14-135).*
+
+## § 9. Krav om tilbakebetaling
+
+Husbanken kan kreve tilskuddet tilbakebetalt dersom forutsetningene for tilskuddet ikke overholdes.
+
+Studentboliger som helt eller delvis er finansiert med tilskudd, kan ikke avhendes eller pantsettes uten Husbankens samtykke. Studentsamskipnader og studentboligstiftelser skal tinglyse en urådighetserklæring i forbindelse med tilsagn om tilskudd.
+
+Hvis studentboligene avhendes, omdisponeres til andre formål eller på annen måte overføres til tredjepart før det har gått 15 år siden bygget ble ferdigstilt, skal hele det mottatte tilskuddet tilbakebetales. Etter 15 år reduseres forpliktelsen med 50 prosent. Deretter reduseres den resterende forpliktelsen med 3,33 prosent av opprinnelig tilskudd de neste 15 årene. Etter 30 år er hele tilskuddet ettergitt. Denne bestemmelsen gjelder også for tidligere mottatte tilskudd.
+
+*Endret ved forskrifter [2 nov 2009 nr. 1330](https://lovdata.no/forskrift/2009-11-02-1330), [19 des 2012 nr. 1343](https://lovdata.no/forskrift/2012-12-19-1343) (i kraft 1 jan 2013), [17 des 2020 nr. 2961](https://lovdata.no/forskrift/2020-12-17-2961) (i kraft 1 jan 2021), [30 sep 2024 nr. 2343](https://lovdata.no/forskrift/2024-09-30-2343) (i kraft 1 okt 2024).*
+
+## § 10. Nærmere retningslinjer
+
+Husbanken kan gi nærmere retningslinjer om tilskuddsordningen.
+
+*Endret ved forskrifter [2 nov 2009 nr. 1330](https://lovdata.no/forskrift/2009-11-02-1330), [30 sep 2024 nr. 2343](https://lovdata.no/forskrift/2024-09-30-2343) (i kraft 1 okt 2024).*
+
+## § 11. Ikrafttredelse
+
+Forskriften trer i kraft straks.

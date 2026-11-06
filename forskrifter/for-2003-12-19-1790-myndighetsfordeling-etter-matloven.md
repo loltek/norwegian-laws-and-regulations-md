@@ -1,0 +1,160 @@
+# Myndighetsfordeling etter lov om matproduksjon og mattrygghet mv. (matloven).
+
+- **Korttittel:** Myndighetsfordeling etter matloven
+- **Datokode:** FOR-2003-12-19-1790
+- **DokumentID:** DEL/forskrift/2003-12-19-1790
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Folkehelseavd.
+- **Hjemmel:** lov 19.12.2003 nr. 124
+- **Publisert i:** I 2003 hefte 18
+- **Kunngjort:** 2004-01-08
+- **I kraft fra:** 2004-01-01
+- **Siste endring i kraft:** 2005-02-18
+- **Sist endret ved:** forskrift 18.02.2005 nr. 218
+- **Endrer:** forskrift 29.04.1988 nr. 312; forskrift 08.04.1960 nr. 9602; forskrift 10.02.1989 nr. 84; forskrift 19.12.1997 nr. 1317
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt ved Kronprinsreg.res. 19. desember 2003 med hjemmel i lov av 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven). Fremmet av Helsedepartementet. Endret 18 feb 2005 nr. 218.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/2003-12-19-1790>
+
+## I
+
+Myndighet etter [lov 19. desember 2003 nr. 124](../lover/lov-2003-12-19-124-matloven.md) om matproduksjon og mattrygghet mv. (matloven) fordeles mellom Helse- og omsorgsdepartementet, Landbruks- og matdepartementet og Fiskeri- og kystdepartementet i tråd med retningslinjene i foredraget.[1]
+
+*Endret ved [forskrift 18 feb 2005 nr. 218](https://lovdata.no/forskrift/2005-02-18-218).*
+
+## II
+
+Helse- og omsorgsdepartementet tildeles myndighet til å utferdige forskrifter med hjemmel i lov om matproduksjon og mattrygghet mv. (matloven) i forhold til følgende lovbestemmelser: [§ 3](../lover/lov-2003-12-19-124-matloven.md), [§ 5](../lover/lov-2003-12-19-124-matloven.md), [§ 6](../lover/lov-2003-12-19-124-matloven.md) siste ledd, [§ 7](../lover/lov-2003-12-19-124-matloven.md) annet, tredje og fjerde ledd, [§ 8](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 9](../lover/lov-2003-12-19-124-matloven.md), [§ 10](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 11](../lover/lov-2003-12-19-124-matloven.md), [§ 12](../lover/lov-2003-12-19-124-matloven.md), [§ 13](../lover/lov-2003-12-19-124-matloven.md) sjette ledd, [§ 14](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 15](../lover/lov-2003-12-19-124-matloven.md), [§ 16](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 20](../lover/lov-2003-12-19-124-matloven.md), [§ 21](../lover/lov-2003-12-19-124-matloven.md), [§ 26](../lover/lov-2003-12-19-124-matloven.md) fjerde ledd, [§ 27](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 29](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 33](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrift 18 feb 2005 nr. 218](https://lovdata.no/forskrift/2005-02-18-218).*
+
+## III
+
+Landbruks- og matdepartementet tildeles myndighet til å utferdige forskrifter med hjemmel i lov om matproduksjon og mattrygghet mv. (matloven) i forhold til følgende lovbestemmelser: [§ 3](../lover/lov-2003-12-19-124-matloven.md), [§ 5](../lover/lov-2003-12-19-124-matloven.md), [§ 6](../lover/lov-2003-12-19-124-matloven.md) siste ledd, [§ 7](../lover/lov-2003-12-19-124-matloven.md) annet og tredje ledd, [§ 8](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 9](../lover/lov-2003-12-19-124-matloven.md), [§ 10](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 11](../lover/lov-2003-12-19-124-matloven.md), [§ 12](../lover/lov-2003-12-19-124-matloven.md), [§ 13](../lover/lov-2003-12-19-124-matloven.md) sjette ledd, [§ 14](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 15](../lover/lov-2003-12-19-124-matloven.md), [§ 16](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 17](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 18](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 19](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 20](../lover/lov-2003-12-19-124-matloven.md), [§ 21](../lover/lov-2003-12-19-124-matloven.md), [§ 22](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 26](../lover/lov-2003-12-19-124-matloven.md) fjerde ledd, [§ 27](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 29](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 30](../lover/lov-2003-12-19-124-matloven.md), [§ 31](../lover/lov-2003-12-19-124-matloven.md), [§ 33](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrift 18 feb 2005 nr. 218](https://lovdata.no/forskrift/2005-02-18-218).*
+
+## IV
+
+Fiskeri- og kystdepartementet tildeles myndighet til å utferdige forskrifter med hjemmel i lov om matproduksjon og mattrygghet mv. (matloven) i forhold til følgende lovbestemmelser: [§ 3](../lover/lov-2003-12-19-124-matloven.md), [§ 5](../lover/lov-2003-12-19-124-matloven.md), [§ 6](../lover/lov-2003-12-19-124-matloven.md) siste ledd, [§ 7](../lover/lov-2003-12-19-124-matloven.md) annet og tredje ledd, [§ 8](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 9](../lover/lov-2003-12-19-124-matloven.md), [§ 10](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 11](../lover/lov-2003-12-19-124-matloven.md), [§ 12](../lover/lov-2003-12-19-124-matloven.md), [§ 13](../lover/lov-2003-12-19-124-matloven.md) sjette ledd, [§ 14](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 15](../lover/lov-2003-12-19-124-matloven.md), [§ 16](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 17](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 19](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 20](../lover/lov-2003-12-19-124-matloven.md), [§ 21](../lover/lov-2003-12-19-124-matloven.md), [§ 26](../lover/lov-2003-12-19-124-matloven.md) fjerde ledd, [§ 27](../lover/lov-2003-12-19-124-matloven.md) tredje ledd, [§ 29](../lover/lov-2003-12-19-124-matloven.md) annet ledd, [§ 30](../lover/lov-2003-12-19-124-matloven.md), [§ 33](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrift 18 feb 2005 nr. 218](https://lovdata.no/forskrift/2005-02-18-218).*
+
+## V
+
+Denne resolusjonen trer i kraft 1. januar 2004.
+
+## VI
+
+Fra 1. januar 2004 oppheves følgende delegeringer:
+
+1. Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av 29. januar 1988[2] om opprettelsen av Statens næringsmiddeltilsyn.
+2. Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av [29. april 1988 nr. 312](https://lovdata.no/forskrift/1988-04-29-312) om myndighetsoverføring til Statens næringsmiddeltilsyn m.v.
+3. Kongelig resolusjon fra Landbruksdepartementet av 1. juli 1994[2] om Omorganisering av Statens næringsmiddeltilsyn.
+4. [Forskrift av 8. april 1960 nr. 9602](https://lovdata.no/forskrift/1960-04-08-9602) om delegasjon av myndighet etter lov om kvalitetskontroll med fiskevarer. Gitt ved kgl.res. av 8. april 1960 i medhold av kvalitetskontrolloven.
+5. [Vedtak av 10. februar 1989 nr. 84](https://lovdata.no/forskrift/1989-02-10-84) om delegering av myndighet til Fiskeridepartementet etter lov om tilsyn med fôrvarer. Fastsatt ved kgl.res. av 10. februar 1989.
+6. [Vedtak av 19. desember 1997 nr. 1317](https://lovdata.no/forskrift/1997-12-19-1317) om delegering av myndighet etter fiskesykdomsloven. Fastsatt ved kgl.res. av 19. desember 1997 med hjemmel i fiskesykdomsloven.
+
+## Vedlegg. Om delegering og myndighetsfordeling etter lov om matproduksjon og mattrygghet mv. (matloven)
+
+Dette forslaget til kronprinsregentens resolusjon om delegering og myndighetsfordeling etter matloven legges frem av Helse- og omsorgsdepartementet i samråd med Landbruks- og matdepartementet og Fiskeri- og kystdepartementet.
+
+*Endret ved [forskrift 18 feb 2005 nr. 218](https://lovdata.no/forskrift/2005-02-18-218).*
+
+### 1. Bakgrunn
+
+Regjeringen iverksetter fra 1. januar 2004 en stor reform på matområdet. Hovedformålet med reformen er å sikre fortsatt god mattrygghet og styrke arbeidet for norske forbrukere. Den viktigste endringen er å legge økt vekt på helkjedeperspektivet og etablere en helhetlig forvaltning fra fjord/jord til bord.
+
+Matforvaltningsreformen inneholder fire hovedelementer:
+
+- modernisering av lovgivningen og det øvrige regelverket
+- restrukturering av departementsansvar – faglig og administrativt
+- organisering av et nytt felles tilsyn for all matproduksjon (Mattilsynet)
+- reorganisering av Mattilsynets støttefunksjoner, hvor det bl.a. opprettes en ny uavhengig vitenskapskomité som skal foreta risikovurderinger.
+
+Regjeringens sentrale mål er:
+
+- å sikre at mat og drikke som produseres og/eller omsettes, er helsemessig trygge for forbrukerne
+- at frambudet av mat skjer på en redelig måte
+- at kvaliteten på de matvarene som frambys, er i samsvar med nasjonalt og internasjonalt fastsatte standarder
+- at Norge har god dyrehelse, plantehelse og dyrevelferd
+- en mer kostnadseffektiv forvaltning enn hva tilfellet er i dag.
+
+*Endret ved [forskrift 18 feb 2005 nr. 218](https://lovdata.no/forskrift/2005-02-18-218).*
+
+### 2. Fordeling av myndighet etter matloven
+
+[Ot.prp.nr.100 (2002–2003)](https://lovdata.no/forarbeid/otprp-100-200203) Om lov om matproduksjon og mattrygghet mv. (matloven) er fremmet for Stortinget av Helse- og omsorgsdepartementet etter samarbeid med Landbruks- og matdepartementet og Fiskeri- og kystdepartementet. Lovutkastet er behandlet av Stortinget denne sesjonen. Loven vil tre i kraft 1. januar 2004. Det er forutsatt at myndighet etter loven skal fordeles mellom de tre matdepartementene.
+
+**2.1 Fordeling av myndighet etter matloven**
+
+I proposisjonen sies det vedrørende fordeling av det konstitusjonelle ansvaret på matområdet at dette vil «fordeles mellom de tre matdepartementene (Helse- og omsorgsdepartementet, Landbruks- og matdepartementet og Fiskeri- og kystdepartementet) etter et vertikalt prinsipp, der grensesnittene i hovedsak går mellom de ulike ledd i matkjeden og ikke etter hvilke hensyn som skal ivaretas.»
+
+Matloven dekker hele produksjonskjeden fra jord/fjord til bord og omfatter derved både innsatsvarer og ferdige produkter i tillegg til plantehelse, dyrehelse og helse til akvatiske organismer. Myndighet etter loven kan deles etter et vertikalt prinsipp, et formålsprinsipp eller ved en kombinasjon av disse prinsippene. Det vertikale prinsippet innebærer at myndighet fordeles mellom departementene ved at delingen settes mellom de ulike ledd i produksjonskjeden av mat (primærproduksjon, videreforedling og omsetning). Formålsprinsippet (deling etter lovens ulike formål) innebærer at myndighet fordeles etter hvilket hensyn som skal ivaretas.
+
+De berørte departementene foreslår at myndighet etter matloven i hovedsak fordeles etter det vertikale prinsippet, og at formålsprinsippet så anvendes for å fingå grensene mellom de tre departementene. Helse- og omsorgsdepartementet har ansvaret for å fremme lovproposisjoner ved eventuelle endringer i matloven.
+
+**2.2 Anvendelse av prinsippene**
+
+*Vertikal deling*
+
+Helse- og omsorgsdepartementet (HOD) foreslår at Landbruks- og matdepartementet (LMD) og Fiskeri- og kystdepartementet (FKD) gis ansvar for regelverk som regulerer alle matlovens formål/områder fra innsatsvareproduksjon til og med primærproduksjonen (slik primærproduksjon er definert i merknader til [matlovens § 2](../lover/lov-2003-12-19-124-matloven.md)), herunder ansvaret for regelverket som regulerer hensynet til humanhelse innenfor denne delen av produksjonskjeden. Dette innebærer at:
+
+1. LMD får ansvar for regelverk relatert til terrestrisk produksjon.
+2. FKD får ansvar for regelverk relatert til akvatisk produksjon.
+
+*Formålsdeling*
+
+Helse- og omsorgsdepartementet foreslår videre at deling av myndighet etter matloven etter primærproduksjonen skal skje etter formålsprinsippet. Dette innebærer at:
+
+1. Regelverk som regulerer plantehelse, tillegges LMD også etter primærproduksjonen.
+2. Regelverk for dyrehelse inkludert regelverk for animalske biprodukter, tillegges LMD og FKD også etter primærproduksjonen. Fordeling mellom departementene skjer på samme måte som i den vertikale delingen.
+3. Regelverk som regulerer kvalitet og hygiene av hensyn til human helse, tillegges HOD etter primærproduksjonen.
+4. Regelverk som regulerer kvalitet og hygiene av andre hensyn enn hensynet til human helse, tillegges LMD og FKD også etter primærproduksjonen. Dette omfatter også regelverk for særskilt opprinnelsesmerking, beskyttede betegnelser og økologi. Fordeling mellom departementene skjer på samme måte som i den vertikale deling.
+5. Regelverk om tilsetningsstoffer, fremmedstoffer i mat, genmodifisert mat, næringsmidler til spesielle formål/kosttilskudd, generelle merkebestemmelser for mat, helsepåstander og emballasje tillegges HOD etter primærproduksjonen.
+6. Regelverk for øvrig som fastsettes av hensyn til aktørene langs matproduksjonskjeden bl.a. for å sikre eksport/markedsadgang, tillegges LMD og FKD også etter primærproduksjonen. Fordeling mellom departementene skjer på samme måte som i den vertikale delingen.
+
+*Spesielt om vann*
+
+Regelverk for produksjon av drikkevann unntas fra deling etter det vertikale prinsippet og formålsprinsippet. Ansvaret tillegges HOD i sin helhet fra nedbørsfelt til tappekran.
+
+*Fellesforskrifter*
+
+Følgende regelverk vil berøre flere departementer:
+
+1. Regelverk som omfatter produksjonskjeden på begge sider av den vertikale delingen eller dekker flere av punktene 1-6 under formålsdelingen og etter den fastsatte ansvarsdelingen, faller under flere departementers ansvarsområde.
+2. Regelverk som ikke er fordelt ved vertikal deling eller formålsdeling.
+
+For regelverk etter pkt. 1 vil ansvaret følge det som er fastsatt ved den vertikale delingen eller formålsdelingen. For regelverk etter pkt. 2 vil ansvaret bli delt mellom landbruksministeren, fiskeriministeren og helseministeren etter en vurdering av de aktuelle hensyn.
+
+Det vil bli lagt stor vekt på samarbeid ved fastsettelse av slike forskrifter. For å ivareta dette og annet samarbeid mellom matdepartementene, er det opprettet en koordinerende gruppe som ledes av Landbruks- og matdepartementet.
+
+*Tilpasning av forskriftene*
+
+Uavhengig av den fordelingen av myndighet som fremgår av ovenstående, kan departementene i januar 2004 gjøre endringer i tidligere gitte forskrifter hjemlet i lover som oppheves, for å tilpasse disse til matloven og ny matforvaltning.
+
+*Fordeling av myndighet mellom departementene og Mattilsynet*
+
+Hovedtyngden av regelverket på matområdet er harmonisert med EUs regelverk. Når det gjelder fastsettelse av forskrifter, bør hovedmønsteret være at dette er en oppgave som tilligger departementene. Mattilsynet vil imidlertid ut fra sin kompetanse i stor grad kunne bistå departementene med forberedelser i form av praktisk utarbeidelse av utkast.
+
+Gjennomføring av EUs sikkerhetsvedtak som forskrifter, er lagt direkte til Mattilsynet i matloven. På enkelte deler av matområdet endres forskriftene en rekke ganger i året. Dette gjelder særlig forskrifter av utpreget teknisk/faglig karakter. Når det gjelder slike forskrifter av utpreget teknisk/faglig karakter og som også er av ikke-politisk karakter, bør fastsettelse av endringsforskrifter kunne skje i Mattilsynet etter delegert kompetanse fra angjeldende departement under den klare forutsetning at departementene blir forelagt disse før fastsettelse.
+
+Forskriftsvedtak etter følgende bestemmelser i matloven bør ut fra sin karakter ikke delegeres til Mattilsynet:
+
+- § 3 nærmere bestemmelser om lovens stedlige virkeområde
+- § 21, 2., 3. og 4. ledd «avgiftsforskrifter»
+- § 22 forskrifter om erstatning
+- § 26 forskrifter om tvangsmulkt
+- § 27 forskrifter om informasjon til allmennheten
+- § 28 om bøtelegging mv.
+- § 31 om kompensasjonsordninger.
+
+Arbeidsfordelingen mellom departementene og Mattilsynet vil bli avklart nærmere gjennom egne delegeringsskriv fra departementene til Mattilsynet.
+
+*Endret ved [forskrift 18 feb 2005 nr. 218](https://lovdata.no/forskrift/2005-02-18-218).*
+
+## Fotnoter
+
+**1.** Foredraget er tatt inn som vedlegg til resolusjonen.
+
+**2.** Ikke kunngjort i Norsk Lovtidend.

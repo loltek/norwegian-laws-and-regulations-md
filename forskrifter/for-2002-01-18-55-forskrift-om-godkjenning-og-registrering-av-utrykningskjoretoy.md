@@ -1,0 +1,88 @@
+# Forskrift om godkjenning og registrering av utrykningskjøretøy
+
+- **Datokode:** FOR-2002-01-18-55
+- **DokumentID:** SF/forskrift/2002-01-18-55
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Vegdirektoratet, Statens vegvesen
+- **Hjemmel:** lov 18.06.1965 nr. 4/§11; forskrift 21.03.1986 nr. 750
+- **Publisert i:** I 2002 hefte 1
+- **Kunngjort:** 2002-01-25
+- **I kraft fra:** 2002-03-01
+- **Siste endring i kraft:** 2020-01-01
+- **Sist endret ved:** forskrift 19.12.2019 nr. 2054 fra 2020-01-01
+- **Endrer:** forskrift 27.05.1986 nr. 1581
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Vegdirektoratet 18. januar 2002 med hjemmel i vegtrafikklov av 18. juni 1965 nr. 4 § 11, jf. kgl.res. av 21. mars 1986 nr. 750. Endret ved forskrifter 9 jan 2003 nr. 22, 10 nov 2005 nr. 1291, 19 nov 2007 nr. 1261, 19 des 2019 nr. 2054 (i kraft 1 jan 2020).
+- **Kilde:** <https://lovdata.no/forskrift/2002-01-18-55>
+
+## § 1.
+
+Utrykningskjøretøy skal være godkjent av Statens vegvesen etter denne forskrift og de tekniske bestemmelser som gjelder for slikt kjøretøy. Godkjenning skal anmerkes i vognkortet, eller på kopi av vedtak når det gjelder tidsbegrenset godkjenning av slikt kjøretøy.
+
+*Endret ved [forskrifter 9 jan 2003 nr. 22](https://lovdata.no/forskrift/2003-01-09-22) (i kraft 1 jan 2003), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*
+
+## § 2.
+
+Godkjenning gis på bakgrunn av søknad fra kjøretøyets eier eller den som disponerer det og vedtak fattet av
+
+1. brannsjefen
+   a. når kjøretøyet tilhører kommunen og disponeres av kommunalt brannvesen
+   b. når annet kjøretøy for et tidsrom av inntil 8 uker er disponert som reserve for godkjent utrykningskjøretøy ved kommunalt brannvesen
+   c. når demonstrasjonskjøretøy blir stilt til disposisjon for kommunalt brannvesen.
+2. politimesteren eller sjefen for de sentrale politiorganene når kjøretøyet eies, leies eller leases av Staten og disponeres innen vedkommende politidistrikt eller av vedkommende organ.
+3. det regionale helseforetak
+   a. når kjøretøyet er registrert som ambulansebil, herunder leilighetsambulanse fram til 1. oktober 2006.
+   b. når demonstrasjonsambulanse blir stilt til disposisjon for institusjon som allerede disponerer ambulansebil godkjent som utrykningskjøretøy.
+   c. når bil spesialutstyrt med medisinsk utstyr blir stilt til disposisjon for sykehus eller kommunal legevakt når søknaden er anbefalt av politimesteren.
+
+      Det regionale helseforetak kan fastsette særlige vilkår eller begrensninger i tilknytning til vedtak etter denne bokstav.
+   d. når kjøretøyet er kommandobil utrustet med sambandsutstyr for koordinering av helsetjenester ved større ulykker og katastrofer og søknaden er anbefalt av politimesteren.
+4. politimesteren når kjøretøyet disponeres av kommunal brannsjef eller hans nærmeste stedfortreder og vedkommende regelmessig må være i beredskap uten fast vaktsted.
+5. vedkommende militære myndighet når kjøretøyet tilhører Forsvaret og registreres etter den spesielle ordningen med gule kjennemerker, eller er kjøretøy som disponeres av Forsvaret.
+6. Direktoratet for sivilt beredskap når kjøretøyet tilhører Sivilforsvaret og ikke går inn under nr. 3.
+7. politimesteren ved Oslo politidistrikt når kjøretøyet disponeres av Regjeringens biltjeneste eller Stortinget.
+8. politimesteren i andre tilfelle.
+
+   Politimesteren kan fastsette særlige vilkår eller begrensninger i tilknytning til vedtak etter dette nummer.
+
+*Endret ved [forskrifter 10 nov 2005 nr. 1291](https://lovdata.no/forskrift/2005-11-10-1291), [19 nov 2007 nr. 1261](https://lovdata.no/forskrift/2007-11-19-1261).*
+
+## § 3.
+
+Vedtak om godkjenning av utrykningskjøretøy skal begrenses til et minst mulig antall kjøretøy. Av kjøretøy som er nevnt i [§ 2](for-2002-01-18-55-forskrift-om-godkjenning-og-registrering-av-utrykningskjoretoy.md) nr. 4 skal det normalt ikke være godkjent mer enn 4 for hvert brannvesen til enhver tid.
+
+## § 4.
+
+Når forutsetningene for godkjenning ikke lenger foreligger, ved eierskifte eller vedtak etter [§ 2](for-2002-01-18-55-forskrift-om-godkjenning-og-registrering-av-utrykningskjoretoy.md) blir trukket tilbake, skal eieren eller den som på eierens vegne disponerer kjøretøyet innen 14 dager framstille kjøretøyet for Statens vegvesen. Statens vegvesen endrer vognkortet i overensstemmelse med kjøretøyets nye status.
+
+*Endret ved [forskrifter 9 jan 2003 nr. 22](https://lovdata.no/forskrift/2003-01-09-22) (i kraft 1 jan 2003), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*
+
+## § 5.
+
+Godkjenning av utrykningskjøretøy og tilbakekalling av slik godkjenning anmerkes av Statens vegvesen i motorvognregisteret (AUTOSYS). Statens vegvesen har dessuten oversikt over de utrykningskjøretøy som til enhver tid er godkjent.
+
+*Endret ved [forskrifter 9 jan 2003 nr. 22](https://lovdata.no/forskrift/2003-01-09-22) (i kraft 1 jan 2003), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*
+
+## § 6.
+
+Klage over vedtak etter [§ 2](for-2002-01-18-55-forskrift-om-godkjenning-og-registrering-av-utrykningskjoretoy.md) behandles av Statens vegvesen.
+
+*Endret ved [forskrift 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*
+
+## § 7.
+
+Når utrykningskjøretøy er tatt ut av beredskap, eller når tjenesten krever at kjøretøyets status som utrykningskjøretøy ikke skal synes, kan særskilt lyd- og lyssignal demonteres. Særskilt lyssignal skal alltid fjernes fra privatpersons kjøretøy når det er tatt ut av beredskap.
+
+Når særskilt lyd- og lyssignal er demontert, regnes kjøretøyet ikke som utrykningskjøretøy.
+
+## § 8.
+
+Denne forskriften trer kraft 1. mars 2002.
+
+Fra samme dato oppheves [forskrift av 27. mai 1986 nr. 1581](https://lovdata.no/forskrift/1986-05-27-1581) om godkjenning og registrering av utrykningskjøretøy.
+
+Kjøretøy som er godkjent etter [forskrift av 27. mai 1986 nr. 1581](https://lovdata.no/forskrift/1986-05-27-1581) om godkjenning og registrering av utrykningskjøretøy og etter [forskrift av 10. august 1978 nr. 1](https://lovdata.no/forskrift/1978-08-10-1) om godkjenning og registrering av utrykningskjøretøy anses som godkjent også etter denne forskrift.
+
+Kjøretøy som nevnt i [§ 2](for-2002-01-18-55-forskrift-om-godkjenning-og-registrering-av-utrykningskjoretoy.md) nr. 1, 2, 3, 5 og 6 anses godkjent som utrykningskjøretøy når det er registrert før 1. oktober 1978, har vært disponert som utrykningskjøretøy før samme dato og bekreftet kopi eller duplikat av vedtak som nevnt i [§ 2](for-2002-01-18-55-forskrift-om-godkjenning-og-registrering-av-utrykningskjoretoy.md) nr. 1, 2, 3, 5 eller 6 ligger ved vognkortet. For kjøretøy som nevnt gjøres anmerkning etter [§ 1](for-2002-01-18-55-forskrift-om-godkjenning-og-registrering-av-utrykningskjoretoy.md) og [§ 5](for-2002-01-18-55-forskrift-om-godkjenning-og-registrering-av-utrykningskjoretoy.md) etter hvert som Statens vegvesen bestemmer.
+
+*Endret ved [forskrifter 9 jan 2003 nr. 22](https://lovdata.no/forskrift/2003-01-09-22) (i kraft 1 jan 2003), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*

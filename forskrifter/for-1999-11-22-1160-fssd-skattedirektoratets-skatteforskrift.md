@@ -1,0 +1,601 @@
+# Forskrift fastsatt av Skattedirektoratet til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14
+
+- **Korttittel:** FSSD Skattedirektoratets skatteforskrift
+- **Datokode:** FOR-1999-11-22-1160
+- **DokumentID:** SF/forskrift/1999-11-22-1160
+- **Departement:** Finansdepartementet
+- **Etat:** Skattedirektoratet
+- **Hjemmel:** lov 26.03.1999 nr. 14/§4-10; lov 26.03.1999 nr. 14/§5-13; lov 26.03.1999 nr. 14/§6-13; lov 26.03.1999 nr. 14/§6-21; lov 26.03.1999 nr. 14/§7-3; lov 26.03.1999 nr. 14/§7-11; lov 26.03.1999 nr. 14/§9-5; lov 26.03.1999 nr. 14/§10-50; lov 26.03.1999 nr. 14/§10-70; lov 26.03.1999 nr. 14/§10-80; lov 26.03.1999 nr. 14/§10-90; lov 26.03.1999 nr. 14/§12-20; lov 26.03.1999 nr. 14/§14-5; lov 26.03.1999 nr. 14/§15-3; lov 26.03.1999 nr. 14/§16-30; forskrift 19.11.1999 nr. 1158/§4-10-9; forskrift 19.11.1999 nr. 1158/§5-13-8; forskrift 19.11.1999 nr. 1158/§6-13-1; forskrift 19.11.1999 nr. 1158/§6-21; forskrift 19.11.1999 nr. 1158/§7-3-1; forskrift 19.11.1999 nr. 1158/§7-11; forskrift 19.11.1999 nr. 1158/§10-63; forskrift 19.11.1999 nr. 1158/§12-2; forskrift 19.11.1999 nr. 1158/§15-3-1; lov 28.02.1997 nr. 19/§23-2; lov 28.02.1997 nr. 19/§24-5; forskrift 20.09.1995 nr. 821; forskrift 18.11.1997 nr. 1168; lov 27.05.2016 nr. 14/§8-14; forskrift 16.09.2016 nr. 1067
+- **Publisert i:** I 1999 2704
+- **I kraft fra:** 2000-01-01
+- **Siste endring i kraft:** 2024-01-01
+- **Sist endret ved:** forskrift 24.11.2023 nr. 1907 fra 2024-01-01
+- **Endrer:** forskrift 18.06.1970 nr. 9839; forskrift 09.12.1975 nr. 4926; forskrift 24.06.1976 nr. 8889; forskrift 27.02.1992 nr. 99; forskrift 27.02.1992 nr. 100; forskrift 30.10.1992 nr. 771; forskrift 30.10.1992 nr. 772; forskrift 09.12.1992 nr. 1042; forskrift 13.07.1995 nr. 686; forskrift 08.12.1997 nr. 1283; forskrift 22.12.1997 nr. 1431; forskrift 01.04.1974 nr. 3538; forskrift/1975-12-22
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2019-04-08 (hjemmel ftrl endret fra 24-6 til 24-5)
+- **Merknad:** Hjemmel: Fastsatt av Skattedirektoratet 22. november 1999 med hjemmel i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven) § 4-10, § 5-13, § 6-13, § 6-21, § 7-3, § 7-11, § 9-5, § 10-50, § 10-70, § 10-80, § 10-90, § 12-20, § 14-5, § 15-3 og § 16-30, jf. forskrift 19. november 1999 nr. 1158 til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14 § 4-10-9, § 5-13-8, § 6-13-1, § 6-21, § 7-3-1, § 7-11, § 10-63, § 12-2 og § 15-3-1, lov 27. mai 2016 nr. 14 om skatteforvaltning (skatteforvaltningsloven) § 8-14, jf. delegeringsvedtak 16. september 2016 nr. 1067 og lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 23-2 og § 24-5, jf. delegeringsvedtak 20. september 1995 nr. 821 og delegeringsvedtak 18. november 1997 nr. 1168. Endret ved forskrifter 17 des 1999 nr. 1475, 14 jan 2000 nr. 33, 27 feb 2002 nr. 202, 16 juni 2005 nr. 596, 15 sep 2005 nr. 1065 og nr. 1096, 4 nov 2005 nr. 1262, 26 sep 2005 nr. 1075, 22 des 2005 nr. 1676, 23 mars 2006 nr. 374, 4 sep 2006 nr. 1021, 15 nov 2006 nr. 1257, 3 okt 2006 nr. 1122, 13 des 2006 nr. 1401, 29 mars 2007 nr. 367, 1 okt 2007 nr. 1099, 19 des 2007 nr. 1567, 14 nov 2007 nr. 1251, 1 okt 2008 nr. 1077, 5 des 2008 nr. 1280, 1 okt 2009 nr. 1248, 26 nov 2009 nr. 1410, 7 juli 2010 nr. 1078, 1 okt 2010 nr. 1840, 19 okt 2010 nr. 1355, 1 mars 2011 nr. 209, 2 des 2011 nr. 1174, 1 okt 2011 nr. 981, 4 nov 2011 nr. 1075, 1 okt 2012 nr. 916, 19 okt 2012 nr. 980, 1 okt 2013 nr. 1198, 24 okt 2013 nr. 1262, 20 des 2013 nr. 1650, 31 okt 2014 nr. 1367, 1 okt 2014 nr. 1270 (utgår), 24 nov 2014 nr. 1457, 23 sep 2015 nr. 1081, 12 nov 2015 nr. 1305, 22 des 2015 nr. 1842, 1 nov 2016 nr. 1266, 9 des 2016 nr. 1507, 30 nov 2016 nr. 1941, 26 sep 2017 nr. 1494, 22 nov 2017 nr. 1806, 4 juni 2018 nr. 808, 23 nov 2018 nr. 1750, 26 sep 2019 nr. 1226 (med virkning fra 1 jan 2020), 6 des 2019 nr. 1659 (med virkning fra inntektsåret 2020), 24 sep 2020 nr. 1812 (med virkning fra 1 jan 2021), 18 nov 2020 nr. 2403 (med virkning fra inntektsåret 2021), 18 jan 2021 nr. 102 (med virkning fra inntektsåret 2021), 24 mars 2021 nr. 1029 (med virkning fra inntektsåret 2020), 19 mai 2021 nr. 1551 (i kraft 1 juni 2021), 23 nov 2021 nr. 3276 (med virkning fra inntektsåret 2022), 3 jan 2022 nr. 48 (med virkning fra inntektsåret 2022), 5 juli 2022 nr. 1307 (med virkning fra inntektsåret 2022), 23 sep 2022 nr. 1668 (med virkning fra 1 jan 2023), 3 okt 2022 nr. 1703 (i kraft 1 jan 2023), 21 nov 2022 nr. 2001 (med virkning fra og med inntektsåret 2023), 31 okt 2023 nr. 1745 (i kraft 1 jan 2023), 24 nov 2023 nr. 1907 (i kraft 1 jan 2024). Rettelser: 04.11.2016 (§ 10-63-2, plassering av Belize), 08.04.2019 (hjemmel ftrl endret fra 24-6 til 24-5).
+- **Kilde:** <https://lovdata.no/forskrift/1999-11-22-1160>
+
+## Kapittel 1. Alminnelige bestemmelser
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 1](../lover/lov-1999-03-26-14-skatteloven.md).
+
+## Kapittel 2. Skattesubjektene og skattepliktens omfang
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 2](../lover/lov-1999-03-26-14-skatteloven.md).
+
+## Kapittel 3. Skattested
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 3](../lover/lov-1999-03-26-14-skatteloven.md).
+
+## Kapittel 4. Formue
+
+### Særlige verdsettelsesregler
+
+*Tilføyd ved forskrift [1 mars 2011 nr. 209](https://lovdata.no/forskrift/2011-03-01-209) (fom inntektsåret 2010).*
+
+#### [§ 4-10](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Boligeiendom
+
+*Tilføyd ved forskrift [1 mars 2011 nr. 209](https://lovdata.no/forskrift/2011-03-01-209) (fom inntektsåret 2010).*
+
+##### § 4-10-1. Anvendelsesområde for verdsetting av flerboligbygg
+
+Boligeiendom med 5 eller flere useksjonerte boenheter verdsettes etter bestemmelsene i [§ 4-10-2](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Utleierom i losjihus, f.eks. pensjonat o.l., regnes ikke som boenhet etter denne forskrift.
+
+*Tilføyd ved forskrift [1 mars 2011 nr. 209](https://lovdata.no/forskrift/2011-03-01-209) (fom inntektsåret 2010). Endret ved forskrift [2 des 2011 nr. 1174](https://lovdata.no/forskrift/2011-12-02-1174) (fom inntektsåret 2011).*
+
+##### § 4-10-2. Verdsettelse
+
+(1) Verdien av boligeiendommen settes til summen av beregnet verdi for hver enkelt boenhet.
+
+(2) Boenhetens verdi skal beregnes etter reglene i [skatteloven § 4-10](../lover/lov-1999-03-26-14-skatteloven.md) annet ledd til fjerde ledd. For boenhet benyttet av eier til fast bolig, anvendes kvadratmetersatsen for primærbolig. For øvrige boenheter anvendes kvadratmetersatsen for sekundærboliger.
+
+*Tilføyd ved forskrift [1 mars 2011 nr. 209](https://lovdata.no/forskrift/2011-03-01-209) (fom inntektsåret 2010), endret ved forskrift [18 jan 2021 nr. 102](https://lovdata.no/forskrift/2021-01-18-102) (med virkning fra inntektsåret 2021).*
+
+##### § 4-10-3. Nedsettelse av formuesverdien
+
+Boligeiendommen regnes som sekundærbolig i forhold til reglene om nedsettelse av formuesverdien etter [skatteloven § 4-10](../lover/lov-1999-03-26-14-skatteloven.md) tredje ledd. Dette gjelder selv om eier bruker en av boenhetene til fast bolig.
+
+*Tilføyd ved forskrift [1 mars 2011 nr. 209](https://lovdata.no/forskrift/2011-03-01-209) (fom inntektsåret 2010), endret ved forskrifter [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017), [18 jan 2021 nr. 102](https://lovdata.no/forskrift/2021-01-18-102) (med virkning fra inntektsåret 2021).*
+
+## Kapittel 5. Alminnelig inntekt – bruttoinntekter
+
+### Arbeidsinntekt
+
+*Tilføyd ved forskrift [22 des 2005 nr. 1676](https://lovdata.no/forskrift/2005-12-22-1676) (fom inntektsåret 2006).*
+
+#### [§ 5-12](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Utfyllende bestemmelser om arbeidsgiverfinansiert elektronisk kommunikasjon
+
+*Opphevet ved forskrift [20 des 2013 nr. 1650](https://lovdata.no/forskrift/2013-12-20-1650) (fom inntektsåret 2014).*
+
+#### [§ 5-13](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Særlig om privat bruk av arbeidsgivers bil
+
+*Tilføyd ved forskrift [22 des 2005 nr. 1676](https://lovdata.no/forskrift/2005-12-22-1676) (fom inntektsåret 2006).*
+
+##### § 5-13-1. (Opphevet)
+
+*Tilføyd ved forskrift [22 des 2005 nr. 1676](https://lovdata.no/forskrift/2005-12-22-1676) (fom inntektsåret 2006), endret ved forskrifter [13 des 2006 nr. 1401](https://lovdata.no/forskrift/2006-12-13-1401) (fom inntektsåret 2007), [14 nov 2007 nr. 1251](https://lovdata.no/forskrift/2007-11-14-1251) (fom inntektsåret 2008), [5 des 2008 nr. 1280](https://lovdata.no/forskrift/2008-12-05-1280) (fom inntektsåret 2009), [26 nov 2009 nr. 1410](https://lovdata.no/forskrift/2009-11-26-1410) (fom inntektsåret 2010), [19 okt 2010 nr. 1355](https://lovdata.no/forskrift/2010-10-19-1355) (fom inntektsåret 2011), [4 nov 2011 nr. 1075](https://lovdata.no/forskrift/2011-11-04-1075) (fom inntektsåret 2012), [19 okt 2012 nr. 980](https://lovdata.no/forskrift/2012-10-19-980) (fom inntektsåret 2013), [24 okt 2013 nr. 1262](https://lovdata.no/forskrift/2013-10-24-1262) (fom inntektsåret 2014), [31 okt 2014 nr. 1367](https://lovdata.no/forskrift/2014-10-31-1367) (fom inntektsåret 2015), [12 nov 2015 nr. 1305](https://lovdata.no/forskrift/2015-11-12-1305) (fom inntektsåret 2016), [30 nov 2016 nr. 1941](https://lovdata.no/forskrift/2016-11-30-1941) (fom inntektsåret 2017), [22 nov 2017 nr. 1806](https://lovdata.no/forskrift/2017-11-22-1806) (fom inntektsåret 2018), [23 nov 2018 nr. 1750](https://lovdata.no/forskrift/2018-11-23-1750) (fom inntektsåret 2019), [6 des 2019 nr. 1659](https://lovdata.no/forskrift/2019-12-06-1659) (fom inntektsåret 2020), [18 nov 2020 nr. 2403](https://lovdata.no/forskrift/2020-11-18-2403) (med virkning fra inntektsåret 2021), [23 nov 2021 nr. 3276](https://lovdata.no/forskrift/2021-11-23-3276) (med virkning fra inntektsåret 2022), [21 nov 2022 nr. 2001](https://lovdata.no/forskrift/2022-11-21-2001) (i kraft 1 jan 2023 med virkning fra og med inntektsåret 2023), opphevet ved forskrift [24 nov 2023 nr. 1907](https://lovdata.no/forskrift/2023-11-24-1907) (i kraft 1 jan 2024 med virkning fra inntektsåret 2024).*
+
+##### § 5-13-2. (Opphevet)
+
+*Tilføyd ved forskrift [22 des 2015 nr. 1842](https://lovdata.no/forskrift/2015-12-22-1842) (fom inntektsåret 2016), opphevet ved forskrift [24 nov 2023 nr. 1907](https://lovdata.no/forskrift/2023-11-24-1907) (i kraft 1 jan 2024 med virkning fra inntektsåret 2024).*
+
+## Kapittel 6. Alminnelig inntekt – fradrag
+
+### Fradrag for kostnader til erverv, vedlikehold eller sikring av inntekt
+
+#### [§ 6-13](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Opphold utenfor hjemmet
+
+##### Krav til legitimasjon vedrørende fradrag for merkostnader til kost og losji ved arbeidsopphold utenfor hjemmet
+
+###### § 6-13-1. Fradrag for merkostnader til kost
+
+(1) Fradrag for merkostnader til kost gis som hovedregel etter satser som fastsettes årlig av Skattedirektoratet. Avgjørende for valg av sats er hvor skattyter har bodd. Fradrag etter de to høyeste satsene (hotellsats eller sats for hybel uten kokemulighet/pensjonat/brakke) forutsetter at skattyter kan legitimere arten av bosted. En slik legitimering innebærer at skattyter ved en fortløpende oppstilling må sannsynliggjøre hvordan han har innrettet seg under arbeidsoppholdet. Oppstillingen skal minst inneholde følgende opplysninger:
+
+a. dato og klokkeslett for avreise og hjemkomst for hver reise,
+b. navn og adresse på overnattingssted/utleier, og ved flere overnattingssteder også dato for overnattingene, og
+c. type losji fordelt på hotell, pensjonat, brakke eller annet nærmere angitt losji. Ved overnatting på hybel, må det oppgis om den har kokemulighet.
+
+(2) Skattyter som er på yrkes- eller tjenestereise, men ikke kan sannsynliggjøre hvordan han har innrettet seg under arbeidsoppholdet, gis fradrag etter laveste sats (sats for hybel med kokemulighet eller overnattet privat).
+
+(3) Skattyter som har fradragsrett og som kan dokumentere høyere kostnader til kost enn fastsatt sats for sannsynliggjort bosted, kan i stedet få fradrag for disse kostnadene. Med dokumentasjon menes kvittering, bilag og lignende.
+
+*Endret ved forskrifter [4 juni 2018 nr. 808](https://lovdata.no/forskrift/2018-06-04-808) (med virkning for inntektsåret 2018), [31 okt 2023 nr. 1745](https://lovdata.no/forskrift/2023-10-31-1745) (i kraft 1 jan 2023).*
+
+###### § 6-13-2. Fradrag for merkostnader til losji
+
+Fradrag for merkostnader til losji gis kun når skattyter kan dokumentere kostnadene med kvitteringer, bilag og lignende. Skattyter som under arbeidsopphold utenfor hjemmet bor i brakke eller campingvogn som han selv eier, gis likevel fradrag etter en sats som fastsettes årlig av Skattedirektoratet.
+
+#### [§ 6-21](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Representasjon
+
+##### Avgrensing av representasjonskostnader – fradrag for sosiale kostnader og kostnader til reklame mv.
+
+*Endret ved forskrift [29 mars 2007 nr. 367](https://lovdata.no/forskrift/2007-03-29-367) (fom inntektsåret 2007).*
+
+###### § 6-21-1. Anvendelsesområde for bestemmelsene om avgrensning av representasjonskostnader
+
+(1) Kostnader til representasjon er ikke fradragsberettigede utover det som fremgår i denne forskrift.
+
+(2) Med representasjon menes tiltak som henvender seg utad til personer, bedrifter mv. som ikke er knyttet til bedriften.
+
+(3) Fradragsrett som nevnt i [§ 6-21-2](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) til [§ 6-21-7](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) tilkommer næringsdrivende og bare for kostnader som knytter seg til næringen.
+
+(4) Rett til fradrag som nevnt i [§ 6-21-2](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) til [§ 6-21-7](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) gjelder også for kostnader i utlandet.
+
+*Endret ved forskrift [29 mars 2007 nr. 367](https://lovdata.no/forskrift/2007-03-29-367) (fom inntektsåret 2007).*
+
+###### § 6-21-2. Kostnad til bevertning
+
+(1) Det gis fradrag for kostnad til en beskjeden bevertning av kunder eller forretningsforbindelser, når bevertningen finner sted i forretningstiden eller i umiddelbar forbindelse med forhandlinger eller demonstrasjoner av varer eller tjenester. Det gis ikke fradrag for kostnad til kjøp av brennevin og tobakksvarer. Bevertningen må finne sted på arbeidsstedet eller på spisested i nærheten av dette hvis det ikke er rimelige serveringsmuligheter på arbeidsstedet for det antall personer det gjelder. Kostnad ved uteservering må under enhver omstendighet ikke overstige den beløpsgrensen som fastsettes i Skattedirektoratets årlige satsforskrift. Overstiger kostnaden denne grensen, anses hele beløpet som ikke fradragsberettiget kostnad ved representasjon. Det er videre en forutsetning at det i forbindelse med måltid som nevnt ikke serveres brennevin. I så fall gis det ikke fradrag for kostnad til mat.
+
+(2) Det gis ikke delvis fradrag for kostnad ved bevertning som faller på eget personale i forbindelse med en tilstelning av representativ art.
+
+(3) Journalisters kostnad til bevertning av intervjuobjekter mv. vil være fradragsberettigede når de etter forholdene må anses rimelige og ikke har karakter av selskapelighet.
+
+(4) Det er fradragsrett for bekostning av kunders reiser i anledning av fremvisning av varekolleksjoner og lignende når dette er formålstjenlig fordi vareutvalget er av slikt omfang og beskaffenhet at det vanskelig lar seg gjøre å foreta hensiktsmessig fremvisning andre steder. Faktiske kostnader til kost og losji er også fradragsberettigede såfremt disse ikke overstiger henholdsvis kost etter hotellsatsen uten frokost og satsen for ulegitimert nattillegg i Skattedirektoratets årlige satsforskrift. Tilsvarende gjelder ved innkalling av agenter og kommisjonærer som ikke utelukkende arbeider i bedriftens tjeneste. Andre kostnader i forbindelse med kundereiser kan ikke for noen del fradras inntekten. Kostnader ved kundereiser til utlandet utenfor EØS-området kan ikke føres til fradrag med mindre helt særlige forhold skulle tilsi det.
+
+*Endret ved forskrifter [29 mars 2007 nr. 367](https://lovdata.no/forskrift/2007-03-29-367) (fom inntektsåret 2007), [7 juli 2010 nr. 1078](https://lovdata.no/forskrift/2010-07-07-1078) (fom inntektsåret 2010), [4 juni 2018 nr. 808](https://lovdata.no/forskrift/2018-06-04-808) (med virkning for inntektsåret 2018), [24 mars 2021 nr. 1029](https://lovdata.no/forskrift/2021-03-24-1029) (med virkning fra inntektsåret 2020), [21 nov 2022 nr. 2001](https://lovdata.no/forskrift/2022-11-21-2001) (i kraft 1 jan 2023 med virkning fra og med inntektsåret 2023).*
+
+###### § 6-21-3. Avgrensning av sosiale kostnader ved velferdstiltak, møter og tilstelninger som omfatter de ansatte i bedriften mv.
+
+(1) Det gis fradrag for kostnader til velferdstiltak når kostnadene er pådratt av hensyn til de ansattes interesser. Ved velferdstiltak hvor det også deltar personer som ikke er knyttet til bedriften, gis det fradrag for de deler av kostnadene som etter en forholdsmessig fordeling faller på de personene som er knyttet til bedriften. Som knyttet til bedriften anses eier, ansatt, styremedlem, aksjonær mv. med ledsager.
+
+(2) Det gis fradrag for kostnader til møter og tilstelninger for personer som er knyttet til den skattepliktiges bedrift.
+
+(3) Ved tilstelninger av ekstraordinær art som for eksempel bedriftsjubileum, innvielse av nybygg mv. som også har representasjonsformål, gis det fradrag for den del av kostnadene ved bevertningen som etter en forholdsmessig fordeling faller på personer som er knyttet til bedriften.
+
+(4) Det gis fradrag for kostnader til interne møter i bedriftens organer (generalforsamling, bedriftsforsamling, styre) når kostnadene etter forholdene må anses rimelige og møtet ikke har karakter av selskapelighet.
+
+*Endret ved forskrift [29 mars 2007 nr. 367](https://lovdata.no/forskrift/2007-03-29-367) (fom inntektsåret 2007).*
+
+###### § 6-21-4. Gaver
+
+Det gis ikke fradrag for kostnader til gaver i noen form til kunder eller forretningsforbindelser eller til deres familie. Det samme gjelder for gaver til forretningsforbindelsers personale eller kunder eller til fordel for disse.
+
+###### § 6-21-5. Reklame, gavegjenstand mv.
+
+(1) Er firmamerke og/eller firmanavn fast knyttet til en gavegjenstand, anses kostnadene som fradragsberettigede reklamekostnader dersom gavegjenstanden er utformet med reklame for øye i et større antall eksemplarer og ikke overstiger den beløpsgrensen som fastsettes i Skattedirektoratets årlige satsforskrift.
+
+(2) Kontantbeløp, gjenstander mv. som gis til lotterier, er vanligvis å anse som gaver og er ikke fradragsberettiget. Tilsvarende gjelder kostnader til annonser i blader som utgis av foreninger, hvis det betales vesentlig mer enn en naturlig annonsepris skulle betinge. Det samme gjelder også andre former for reklame hvis vederlag ikke kan antas fastsatt på forretningsmessig grunnlag. I den grad det foreligger reklameverdi, begrenses fradragsretten til den reelle reklameverdien for virksomhetsutøveren.
+
+*Endret ved forskrifter [29 mars 2007 nr. 367](https://lovdata.no/forskrift/2007-03-29-367) (fom inntektsåret 2007), [21 nov 2022 nr. 2001](https://lovdata.no/forskrift/2022-11-21-2001) (i kraft 1 jan 2023 med virkning fra og med inntektsåret 2023).*
+
+###### § 6-21-6. Oppmerksomheter
+
+Enkle oppmerksomheter overfor forretningsforbindelser som ikke overstiger den beløpsgrensen som fastsettes i Skattedirektoratets årlige satsforskrift er fradragsberettigede. Det samme gjelder kranser ved dødsfall uten hensyn til beløpsgrensen nevnt i første punktum.
+
+*Endret ved forskrifter [29 mars 2007 nr. 367](https://lovdata.no/forskrift/2007-03-29-367) (fom inntektsåret 2007), [21 nov 2022 nr. 2001](https://lovdata.no/forskrift/2022-11-21-2001) (i kraft 1 jan 2023 med virkning fra og med inntektsåret 2023).*
+
+###### § 6-21-7. Representasjonsbygninger, -båter og -biler
+
+(1) Det gis ikke fradrag for kostnader til rene representasjonsbygninger. Kostnad ved bolig som er stilt til disposisjon for bedriftens leder mv. er fradragsberettiget. Dersom boligen er større eller mer kostbart innredet enn vedkommendes eget behov skulle tilsi, gis det ikke fradrag for den del av boligen som etter skattemyndighetenes skjønn må regnes som kostnad ved representasjon. Tilsvarende gjelder også i de tilfeller hvor bedriften ligger på et sted hvor det ikke finnes andre representasjonsmuligheter enn hjemmerepresentasjon, og bedriften holder en større eller en mer kostbar bolig med dette for øye.
+
+(2) Det gis ikke fradrag for kostnad til anskaffelse og hold av representasjonsbåter.
+
+(3) Hvis det av representative grunner er kjøpt en mer kostbar bil enn den som ellers ville blitt anskaffet, skal fradraget for kostnader til bil reduseres tilsvarende.
+
+*Endret ved forskrift [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017).*
+
+## Kapittel 7. Særregler om inntekt fra egen bolig eller fritidsbolig
+
+*Overskriften endret ved forskrift [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005).*
+
+### [§ 7-3](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Andelshavere i boligselskaper
+
+*Endret ved forskrift [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-12).*
+
+#### § 7-3-1. Vilkår for å fastsette skatt på andelshaverens hånd
+
+(1) Ved vurderingen av om prosentkravet i [skatteloven § 7-3](../lover/lov-1999-03-26-14-skatteloven.md) tredje ledd er oppfylt, tas det normalt ikke hensyn til at boenheter i selskapet er fremleiet fra den enkelte andelshaver til tredjemann. Er andeler derimot utleid direkte fra boligselskapet, skal dette tas hensyn til.
+
+(2) Retten til å få fastsatt skatten etter [skatteloven § 7-3](../lover/lov-1999-03-26-14-skatteloven.md) kan falle bort selv om prosentkravet i [skatteloven § 7-3](../lover/lov-1999-03-26-14-skatteloven.md) tredje ledd er oppfylt, dersom boligselskapets hovedformål ikke er å gi andelshaverne bolig eller fritidsbolig i hus eiet av selskapet. Dette gjelder blant annet når en større andel av leilighetene fremleies, eller hvor leilighetene leies ut over lengre tidsrom.
+
+*Endret ved forskrifter [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-12-1), [15 sep 2005 nr. 1065](https://lovdata.no/forskrift/2005-09-15-1065) (fom inntektsåret 2005), [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017).*
+
+#### § 7-3-2. Leie til eie
+
+(1) Med leie til eie som nevnt i [skatteloven § 7-3](../lover/lov-1999-03-26-14-skatteloven.md) fjerde ledd tredje strekpunkt, menes avtale om utleie til fysisk person som innenfor en forhåndsbestemt periode på inntil fem år gis rett til å kjøpe andelen. Fristen regnes fra leietakerens innflytting eller fra inngåelse av kontrakt hvis leietakeren allerede bor i boligen ved kontraktsinngåelsen. I avtalen må det være fastsatt hvilke prinsipper prisen skal fastsettes etter. Ved oppsigelse fra leietakerens side før det har gått 3 år fra innflyttingsdato eller dato for kontraktinngåelse, kan boligen benyttes i en ny leie til eie-kontrakt. Samme bolig kan likevel ikke leies ut mer enn to ganger ved slik leie til eie-kontrakt.
+
+(2) Leieinntekter og dekning av felleskostnader fra boligbyggelag og annen yrkesutøver som leier ut boenheter ved leie til eie kan utgjøre inntil 30 prosent av samlede leieinntekter og dekning av felleskostnader.
+
+(3) Avtale om deleie/sameie hvor fysisk person blir eier av en ideell andel på minst 50 prosent av en borettslagsandel, og boligbyggelag eller annen yrkesutøver som nevnt i [burettslagslova § 2-12](https://lovdata.no/lov/2003-06-06-39/§2-12) blir eier av den andre andelen og leier ut denne til den personlige andelseieren til markedspris, anses ikke som leie til eie etter [skatteloven § 7-3](../lover/lov-1999-03-26-14-skatteloven.md) fjerde ledd tredje strekpunkt.
+
+*Tilføyd ved forskrift [3 jan 2022 nr. 48](https://lovdata.no/forskrift/2022-01-03-48) (med virkning fra inntektsåret 2022).*
+
+#### § 7-3-3. Dispensasjonsadgang
+
+(1) Skattemyndighetene kan dispensere fra kravet om at minst 85 prosent av leieinntektene skal komme fra andelshavere mv.
+
+(2) Dispensasjon kan blant annet gis i følgende tilfeller:
+
+a. Når kravet om 85 prosent unntaksvis ikke er oppfylt i enkelte inntektsår.
+b. Når formålet med utleie av lokaler til andre enn andelshavere mv. er å yte service overfor andelshaverne, for eksempel ved utleie av lokaler til barnehave, selskapslokale og lignende.
+c. Når et forholdsmessig lite areal leies ut til andre enn andelshavere mv. og grunnen til at kravet om 85 prosent ikke oppfylles er at markedsleie for andre enn andelshavere mv. er forholdsvis høyere enn andelshavernes husleie.
+d. Når kravet om 85 prosent ikke er oppfylt på grunn av ekstraordinær innbetaling av andel av fellesgjelden jf. [burettslagslova § 2-15](https://lovdata.no/lov/2003-06-06-39/§2-15) andre punktum (IN-ordningen).
+
+*Endret ved forskrifter [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-12-2), [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017), [3 jan 2022 nr. 48](https://lovdata.no/forskrift/2022-01-03-48) (med virkning fra inntektsåret 2022, tidligere § 7-3-2).*
+
+#### § 7-3-4. Søknad om dispensasjon
+
+(1) Dispensasjon for det enkelte inntektsår gis etter søknad fra boligselskapet til skattekontoret.
+
+(2) Søknad om dispensasjon skal inneholde:
+
+a. opplysning om den prosentandel av boligselskapets totale leieinntekter som i inntektsåret kommer fra andre enn andelshavere mv.,
+b. antall andelshavere mv. og antall øvrige leietakere,
+c. prosent av det totale areal som disponeres av andre enn andelshavere mv., samt deres formål for denne bruken, og
+d. en kort begrunnelse for hvorfor fastsetting av skatten etter [skatteloven § 7-3](../lover/lov-1999-03-26-14-skatteloven.md) vil gi et riktigere resultat enn fastsetting etter regnskap.
+
+(3) Har boligselskapet i ett eller flere av de fem siste år ikke oppfylt kravet om 85 prosent, skal dette oppgis. Det skal videre oppgis hvorvidt det i disse årene er gitt dispensasjon.
+
+(4) Søknadsfristen er 1. november i inntektsåret. Forutsatt at søknaden tilfredsstiller kravene i denne paragraf, skal den være behandlet og avgjørelsen være meddelt boligselskapet innen 15. desember i inntektsåret. Er avgjørelsen ikke meddelt boligselskapet innen denne fristen, anses søknaden som innvilget.
+
+*Endret ved forskrifter [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-12-3), [19 des 2007 nr. 1567](https://lovdata.no/forskrift/2007-12-19-1567) (i kraft 1 jan 2008), [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017), [3 jan 2022 nr. 48](https://lovdata.no/forskrift/2022-01-03-48) (med virkning fra inntektsåret 2022, tidligere § 7-3-3).*
+
+#### § 7-3-5. Fastsetting av skatt for boligselskap som ikke oppfyller vilkårene for fastsetting av skatt på andelshaverens hånd
+
+Boligselskap som ikke oppfyller krav til å få fastsatt skatten etter reglene i [skatteloven § 7-3](../lover/lov-1999-03-26-14-skatteloven.md), og som heller ikke har fått dispensasjon, skal få fastsatt skatten som eget skattesubjekt etter reglene i [skatteloven kapittel 10](../lover/lov-1999-03-26-14-skatteloven.md).
+
+*Endret ved forskrifter [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-12-4), [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017), [3 jan 2022 nr. 48](https://lovdata.no/forskrift/2022-01-03-48) (med virkning fra inntektsåret 2022, tidligere § 7-3-4).*
+
+### Forskjellige bestemmelser
+
+#### [§ 7-11](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Utfyllende bestemmelser om inntekt fra egen bolig- eller fritidseiendom
+
+*Endret ved forskrift [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-21).*
+
+##### § 7-11-1. (Opphevet)
+
+*Endret ved forskrifter [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-21-10), [15 nov 2006 nr. 1257](https://lovdata.no/forskrift/2006-11-15-1257) (fom inntektsåret 2006, tidligere § 7-11-2), [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017), opphevet ved forskrift [5 juli 2022 nr. 1307](https://lovdata.no/forskrift/2022-07-05-1307) (med virkning fra inntektsåret 2022).*
+
+##### § 7-11-2. Skattlegging av eier av seksjon i boligsameie
+
+(1) For eierseksjon, jf. [lov 16. juni 2017 nr. 65 om eierseksjoner (eierseksjonsloven) § 4](../lover/lov-2017-06-16-65-eierseksjonsloven.md) første ledd bokstav a jf. [§ 2](../lover/lov-2017-06-16-65-eierseksjonsloven.md), som sameieren bruker som egen bolig, skal eierseksjonens andel av sameiets felles skattepliktige inntekter, som for eksempel renteinntekter og gevinst ved realisasjon av sameiets eiendommer, regnes som inntekt.
+
+(2) Det gis fradrag for eierseksjonens andel av sameiets felles fradragsberettigede kostnader, som for eksempel renteutgifter og tap ved realisasjon av sameiets eiendommer.
+
+(3) Har skattyter vært sameier i boligsameiet en del av året, skal skattyters andel av sameiets inntekter og kostnader beregnes for det antall hele måneder skattyteren har vært sameier. Overdragelsesmåneden henføres til den nye sameieren.
+
+(4) I tillegg til eierseksjonens formuesverdi, skal den enkelte sameier skattlegges for sin andel av felles bankinnskudd og andre formuesposter utenom boligkomplekset. Tilsvarende kommer den enkelte sameiers andel av felles gjeldsposter til fradrag. Boligsameiets felles formue og gjeld fordeles på boligsameiets sameiere pr. 1. januar året etter inntektsåret.
+
+(5) Boligsameierens andel beregnes ut fra sameiebrøken, jf. [eierseksjonsloven § 7](../lover/lov-2017-06-16-65-eierseksjonsloven.md) første ledd bokstav b jf. [§ 4](../lover/lov-2017-06-16-65-eierseksjonsloven.md) første ledd bokstav i. Er en annen nøkkel for fordeling av sameiets fellesutgifter vedtatt etter [eierseksjonsloven § 29](../lover/lov-2017-06-16-65-eierseksjonsloven.md) annet ledd, skal denne legges til grunn for fordelingen.
+
+*Endret ved forskrifter [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-21-20), [15 nov 2006 nr. 1257](https://lovdata.no/forskrift/2006-11-15-1257) (fom inntektsåret 2006, tidligere § 7-11-3), [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017), [5 juli 2022 nr. 1307](https://lovdata.no/forskrift/2022-07-05-1307) (med virkning fra inntektsåret 2022), [3 okt 2022 nr. 1703](https://lovdata.no/forskrift/2022-10-03-1703) (i kraft 1 jan 2023 med virkning fra og med inntektsåret 2023).*
+
+##### § 7-11-3. Skattlegging av eier av seksjon i boligsameie som ikke er formelt seksjonert
+
+Bestemmelsene i [§ 7-11-2](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) gjelder tilsvarende så langt de passer for eierseksjon som faller inn under definisjonen i [eierseksjonsloven § 4](../lover/lov-2017-06-16-65-eierseksjonsloven.md) første ledd bokstav a jf. [§ 2](../lover/lov-2017-06-16-65-eierseksjonsloven.md), selv om formell seksjonering ikke har funnet sted.
+
+*Endret ved forskrifter [16 juni 2005 nr. 596](https://lovdata.no/forskrift/2005-06-16-596) (fom inntektsåret 2005, tidligere § 7-21-21), [15 nov 2006 nr. 1257](https://lovdata.no/forskrift/2006-11-15-1257) (fom inntektsåret 2006, tidligere § 7-11-4), [5 juli 2022 nr. 1307](https://lovdata.no/forskrift/2022-07-05-1307) (med virkning fra inntektsåret 2022).*
+
+## Kapittel 8. Særregler om fastsettelse av inntekt i visse næringer
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 8](../lover/lov-1999-03-26-14-skatteloven.md).
+
+## Kapittel 9. Særregler om gevinst og tap ved realisasjon mv.
+
+### [§ 9-5](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Beregning av gevinst eller tap ved realisasjon av andel i boligselskap
+
+#### § 9-5-1. Gevinstberegningen ved realisasjon av andelsleilighet
+
+(1) Som gevinst regnes differansen mellom andelens inngangsverdi og utgangsverdi, fratrukket omkostningene ved realisasjonen.
+
+(2) Ved beregningen av gevinst eller tap skal det korrigeres for endringer i andelens forholdsmessige del av formue og gjeld i eiertiden. Formue omfatter i denne sammenheng bare de eiendeler som ikke inngår i boligselskapets formuesverdi. Andelseierens innskudd regnes ikke som boligselskapets gjeld ved gevinstberegningen.
+
+(3) Ved gevinstberegningen legges de bokførte verdier den 1. januar i realisasjonsåret til grunn. Dersom boligselskapets formuesstilling er vesentlig endret fra 1. januar til realisasjonstidspunktet, skal dette tas hensyn til ved beregningen. Dersom andelen realiseres før byggeregnskapet er avsluttet, legges dette tilsvarende til grunn.
+
+(4) Når det må antas at vederlaget i betydelig grad er påvirket av at eiendeler som ikke inngår i boligselskapets formuesverdi har en annen verdi enn den bokførte, eller at vederlaget er påvirket av vilkårene for selskapets gjeldsforpliktelser, skal det tas hensyn til verdiforskjellen ved gevinstberegningen.
+
+*Endret ved forskrift [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017).*
+
+## Kapittel 10. Særregler om inntektsbeskatning av selskaper, selskapsdeltakere og samvirkeforetak
+
+### Aksjonærbidrag
+
+#### [§ 10-20](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Fradragsrett for aksjonærbidrag
+
+##### A. Om oppgaveplikt for aksjeselskap som driver ny virksomhet
+
+###### § 10-20-1. (Opphevet)
+
+*Opphevet ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005.)*
+
+###### § 10-20-2. (Opphevet)
+
+*Opphevet ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005.)*
+
+##### B. Om registrering mv. av aksjeselskaper og allmennaksjeselskaper som driver ny virksomhet
+
+###### § 10-20-10. (Opphevet)
+
+*Opphevet ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005.)*
+
+###### § 10-20-11. (Opphevet)
+
+*Opphevet ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005.)*
+
+###### § 10-20-12. (Opphevet)
+
+*Opphevet ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005.)*
+
+###### § 10-20-13. (Opphevet)
+
+*Opphevet ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005.)*
+
+###### § 10-20-14. (Opphevet)
+
+*Opphevet ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005.)*
+
+### Samvirkeforetak
+
+*Tilføyd ved forskrift [14 jan 2000 nr. 33](https://lovdata.no/forskrift/2000-01-14-33) (i kraft 1 jan 2000).*
+
+#### [§ 10-50](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Bonus fra samvirkeforetak
+
+*Tilføyd ved forskrift [14 jan 2000 nr. 33](https://lovdata.no/forskrift/2000-01-14-33) (i kraft 1 jan 2000). Endret ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005).*
+
+##### § 10-50-1. Legitimasjon av forbruksforeningers omsetning med medlemmer
+
+(1) Forbruksforeninger, jf. [skatteloven § 10-50](../lover/lov-1999-03-26-14-skatteloven.md) (2) a, skal legitimere sin omsetning med medlemmer ved at hvert enkelt kjøp registreres fortløpende med kundens medlemsnummer og kjøpesum, eller ved innlevering av kjøpemerker ved årets utgang. Kontantomsetning kan registreres elektronisk. Fakturert omsetning kan legitimeres ved fakturakopi påført medlemsnummer.
+
+(2) Omsetningen med medlemmer skal fremgå av regnskapet, og vise medlemsomsetningen for hvert samvirkelag.
+
+(3) Dersom kontantomsetning med medlemmene ikke fullt ut kan legitimeres etter første og annet ledd, kan legitimasjonen suppleres på en betryggende måte som sannsynliggjør den totale medlemsomsetningen.
+
+*Tilføyd ved forskrift [14 jan 2000 nr. 33](https://lovdata.no/forskrift/2000-01-14-33) (i kraft 1 jan 2000). Endret ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005).*
+
+##### § 10-50-2. Fastsetting av forbruksforenings omsetning
+
+Forbruksforeningens omsetning med medlemmer legitimert etter [§ 10-50-1](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) blir å regne som forbruksforeningens totale omsetning med medlemmer.
+
+*Tilføyd ved forskrift [14 jan 2000 nr. 33](https://lovdata.no/forskrift/2000-01-14-33) (i kraft 1 jan 2000).*
+
+##### § 10-50-3. Legitimasjon av omsetning i andre typer samvirkeforetak
+
+For øvrige typer samvirkeforetak som omfattes av [skatteloven § 10-50](../lover/lov-1999-03-26-14-skatteloven.md), må omsetning med medlemmer og likestilt omsetning fremgå av regnskapsbilag som angir navn og eventuelt medlemsnummer.
+
+*Tilføyd ved forskrift [14 jan 2000 nr. 33](https://lovdata.no/forskrift/2000-01-14-33) (i kraft 1 jan 2000).*
+
+##### § 10-50-4. Samvirkeforetaks skattemessige næringsinntekt
+
+Samvirkeforetaks skattemessige næringsinntekt fra omsetning med medlemmer fastsettes til en forholdsmessig del av den totale skattemessig næringsinntekt i samme forhold som forholdet mellom medlemsomsetningen og foretakets regulære omsetning. Med skattemessig næringsinntekt menes her inntekten etter fradrag for finanskostnader og tillegg for finansinntekter og eventuelle utleieinntekter, men før fradrag for kjøpsutbytte, jf. [skatteloven § 10-50](../lover/lov-1999-03-26-14-skatteloven.md).
+
+*Tilføyd ved forskrift [14 jan 2000 nr. 33](https://lovdata.no/forskrift/2000-01-14-33) (i kraft 1 jan 2000). Endret ved forskrift [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005).*
+
+### Skattlegging av eiere av norsk-kontrollerte selskaper mv. hjemmehørende i lavskattland
+
+*Tilføyd ved forskrift [26 sep 2005 nr. 1075](https://lovdata.no/forskrift/2005-09-26-1075) (fom inntektsåret 2006).*
+
+#### [§ 10-63](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Lavskattland
+
+*Tilføyd ved forskrift [26 sep 2005 nr. 1075](https://lovdata.no/forskrift/2005-09-26-1075) (fom inntektsåret 2006), endret ved forskrifter [3 okt 2006 nr. 1122](https://lovdata.no/forskrift/2006-10-03-1122) (fom 1 jan 2007), [1 okt 2007 nr. 1099](https://lovdata.no/forskrift/2007-10-01-1099) (fom 1 jan 2008), [1 okt 2008 nr. 1077](https://lovdata.no/forskrift/2008-10-01-1077) (fom 1 jan 2009), [1 okt 2009 nr. 1248](https://lovdata.no/forskrift/2009-10-01-1248) (fom 1 jan 2010), [1 okt 2010 nr. 1840](https://lovdata.no/forskrift/2010-10-01-1840) (fom 1 jan 2011), [1 okt 2011 nr. 981](https://lovdata.no/forskrift/2011-10-01-981) (fom 1 jan 2012), [1 okt 2012 nr. 916](https://lovdata.no/forskrift/2012-10-01-916) (fom 1 jan 2013), [1 okt 2013 nr. 1198](https://lovdata.no/forskrift/2013-10-01-1198) (fom 1 jan 2014), [24 nov 2014 nr. 1457](https://lovdata.no/forskrift/2014-11-24-1457) (fom 1 jan 2015), [23 sep 2015 nr. 1081](https://lovdata.no/forskrift/2015-09-23-1081) (fom 1 jan 2016), [1 nov 2016 nr. 1266](https://lovdata.no/forskrift/2016-11-01-1266) (fom 1 jan 2017), [26 sep 2017 nr. 1494](https://lovdata.no/forskrift/2017-09-26-1494) (fom 1 jan 2018), [26 sep 2019 nr. 1226](https://lovdata.no/forskrift/2019-09-26-1226) (fom 1 jan 2020, se endringsforskriften), [24 sep 2020 nr. 1812](https://lovdata.no/forskrift/2020-09-24-1812) (fom 1 jan 2021, se endringsforskriften).*
+
+##### § 10-63-1.
+
+Opplisting av land som skal anses som lavskattland og land som ikke skal anses som lavskattland i [§ 10-63-2](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) og [§ 10-63-3](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) er, med de unntak som følger av bestemmelsene, bindende uten nærmere vurdering etter [skatteloven § 10-63](../lover/lov-1999-03-26-14-skatteloven.md). Dette gjelder både ved beskatning av inntekt og tap på investeringer i lavskattland, jf. [skatteloven § 2-38](../lover/lov-1999-03-26-14-skatteloven.md) tredje ledd a, ved NOKUS-beskatning, jf. [skatteloven § 10-60](../lover/lov-1999-03-26-14-skatteloven.md) flg. og ved beregning av kreditfradrag, jf. [skatteloven § 16-21](../lover/lov-1999-03-26-14-skatteloven.md) første ledd bokstav a.
+
+*Tilføyd ved forskrift [26 sep 2005 nr. 1075](https://lovdata.no/forskrift/2005-09-26-1075) (fom inntektsåret 2006), endret ved forskrifter [3 okt 2006 nr. 1122](https://lovdata.no/forskrift/2006-10-03-1122) (fom 1 jan 2007), [1 okt 2007 nr. 1099](https://lovdata.no/forskrift/2007-10-01-1099) (fom 1 jan 2008), [1 okt 2008 nr. 1077](https://lovdata.no/forskrift/2008-10-01-1077) (fom 1 jan 2009), [1 okt 2009 nr. 1248](https://lovdata.no/forskrift/2009-10-01-1248) (fom 1 jan 2010), [1 okt 2010 nr. 1840](https://lovdata.no/forskrift/2010-10-01-1840) (fom 1 jan 2011), [1 okt 2011 nr. 981](https://lovdata.no/forskrift/2011-10-01-981) (fom 1 jan 2012), [1 okt 2012 nr. 916](https://lovdata.no/forskrift/2012-10-01-916) (fom 1 jan 2013), [1 okt 2013 nr. 1198](https://lovdata.no/forskrift/2013-10-01-1198) (fom 1 jan 2014), [24 nov 2014 nr. 1457](https://lovdata.no/forskrift/2014-11-24-1457) (fom 1 jan 2015), [23 sep 2015 nr. 1081](https://lovdata.no/forskrift/2015-09-23-1081) (fom 1 jan 2016), [1 nov 2016 nr. 1266](https://lovdata.no/forskrift/2016-11-01-1266) (fom 1 jan 2017), [26 sep 2017 nr. 1494](https://lovdata.no/forskrift/2017-09-26-1494) (fom 1 jan 2018), [26 sep 2019 nr. 1226](https://lovdata.no/forskrift/2019-09-26-1226) (fom 1 jan 2020, se endringsforskriften), [24 sep 2020 nr. 1812](https://lovdata.no/forskrift/2020-09-24-1812) (fom 1 jan 2021, se endringsforskriften), [23 sep 2022 nr. 1668](https://lovdata.no/forskrift/2022-09-23-1668) (med virkning fra 1 jan 2023, se endringsforskriften).*
+
+##### § 10-63-2.
+
+Følgende land anses som lavskattland:
+
+- Andorra
+- Anguilla
+- Antigua og Barbuda
+- Bahamas
+- Bahrain, med unntak for selskap som er skattepliktig for aktiviteter i oljesektoren
+- Belize
+- Bermuda
+- BES Islands (Bonaire, St. Eustatius og Saba)
+- Caymanøyene
+- De forente arabiske emirater
+- Isle of Man
+- Jomfruøyene (amerikanske)
+- Jomfruøyene (britiske)
+- Kanaløyene (Jersey, Guernsey, Lihou, Jethou, Herm, Alderney, Great Sark, Little Sark og Brecqhou)
+- Kosovo
+- Liberia
+- Macao
+- Marshalløyene
+- Maldivene
+- Mauritius
+- Moldova
+- Monaco
+- Montenegro
+- Nord-Makedonia
+- Paraguay
+- Palau (Belau)
+- Qatar, med unntak for selskap som er skattepliktig for aktiviteter i oljesektoren
+- San-Barthélemy (Saint Barts, Saint Barth)
+- St. Kitts og Nevis
+- St. Vincent og Grenadinene
+- Turks- og Caicosøyene
+- Usbekistan
+- Vanuatu.
+
+*Tilføyd ved forskrift [26 sep 2005 nr. 1075](https://lovdata.no/forskrift/2005-09-26-1075) (fom inntektsåret 2006), endret ved forskrifter [3 okt 2006 nr. 1122](https://lovdata.no/forskrift/2006-10-03-1122) (fom 1 jan 2007), [1 okt 2007 nr. 1099](https://lovdata.no/forskrift/2007-10-01-1099) (fom 1 jan 2008), [1 okt 2008 nr. 1077](https://lovdata.no/forskrift/2008-10-01-1077) (fom 1 jan 2009), [1 okt 2009 nr. 1248](https://lovdata.no/forskrift/2009-10-01-1248) (fom 1 jan 2010), [1 okt 2010 nr. 1840](https://lovdata.no/forskrift/2010-10-01-1840) (fom 1 jan 2011), [1 okt 2011 nr. 981](https://lovdata.no/forskrift/2011-10-01-981) (fom 1 jan 2012), [1 okt 2012 nr. 916](https://lovdata.no/forskrift/2012-10-01-916) (fom 1 jan 2013), [1 okt 2013 nr. 1198](https://lovdata.no/forskrift/2013-10-01-1198) (fom 1 jan 2014), [24 nov 2014 nr. 1457](https://lovdata.no/forskrift/2014-11-24-1457) (fom 1 jan 2015), [23 sep 2015 nr. 1081](https://lovdata.no/forskrift/2015-09-23-1081) (fom 1 jan 2016), [1 nov 2016 nr. 1266](https://lovdata.no/forskrift/2016-11-01-1266) (fom 1 jan 2017), [26 sep 2017 nr. 1494](https://lovdata.no/forskrift/2017-09-26-1494) (fom 1 jan 2018), [26 sep 2019 nr. 1226](https://lovdata.no/forskrift/2019-09-26-1226) (fom 1 jan 2020, se endringsforskriften), [24 sep 2020 nr. 1812](https://lovdata.no/forskrift/2020-09-24-1812) (fom 1 jan 2021, se endringsforskriften), [23 sep 2022 nr. 1668](https://lovdata.no/forskrift/2022-09-23-1668) (med virkning fra 1 jan 2023, se endringsforskriften).*
+
+##### § 10-63-3.
+
+(1) Landene nedenfor anses ikke som lavskattland, med unntak for selskap som beskattes med redusert sats, som fritas for skatteplikt gjennom ulike incentivordninger eller som på annen måte fritas for beskatning:
+
+- Australia
+- Canada
+- Chile
+- India
+- Japan
+- Kina
+- New Zealand
+- Sør Afrika
+- USA.
+
+(2) Opplistingen av land som ikke anses som lavskattland i denne paragraf er likevel ikke bindende uten nærmere vurdering, jf. [§ 10-63-1](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md), hvis selskapets inntekt i dette landet hovedsakelig er inntekt som nevnt i [skatteloven § 2-38](../lover/lov-1999-03-26-14-skatteloven.md) annet ledd som er skattefri, og inntekten skriver seg fra investering i lavskattland.
+
+(3) Første ledd gjelder ikke ved avgjørelsen av om «annen selvstendig innretning eller formuesmasse» som nevnt i [skatteloven § 10-60](../lover/lov-1999-03-26-14-skatteloven.md) annet punktum, skal anses hjemmehørende i et lavskattland eller ikke.
+
+*Tilføyd ved forskrift [26 sep 2005 nr. 1075](https://lovdata.no/forskrift/2005-09-26-1075) (fom inntektsåret 2006), endret ved forskrifter [3 okt 2006 nr. 1122](https://lovdata.no/forskrift/2006-10-03-1122) (fom 1 jan 2007), [1 okt 2007 nr. 1099](https://lovdata.no/forskrift/2007-10-01-1099) (fom 1 jan 2008), [1 okt 2008 nr. 1077](https://lovdata.no/forskrift/2008-10-01-1077) (fom 1 jan 2009), [1 okt 2009 nr. 1248](https://lovdata.no/forskrift/2009-10-01-1248) (fom 1 jan 2010), [1 okt 2010 nr. 1840](https://lovdata.no/forskrift/2010-10-01-1840) (fom 1 jan 2011), [1 okt 2011 nr. 981](https://lovdata.no/forskrift/2011-10-01-981) (fom 1 jan 2012), [1 okt 2012 nr. 916](https://lovdata.no/forskrift/2012-10-01-916) (fom 1 jan 2013), [1 okt 2013 nr. 1198](https://lovdata.no/forskrift/2013-10-01-1198) (fom 1 jan 2014), [24 nov 2014 nr. 1457](https://lovdata.no/forskrift/2014-11-24-1457) (fom 1 jan 2015), [23 sep 2015 nr. 1081](https://lovdata.no/forskrift/2015-09-23-1081) (fom 1 jan 2016), [1 nov 2016 nr. 1266](https://lovdata.no/forskrift/2016-11-01-1266) (fom 1 jan 2017), [26 sep 2017 nr. 1494](https://lovdata.no/forskrift/2017-09-26-1494) (fom 1 jan 2018), [26 sep 2019 nr. 1226](https://lovdata.no/forskrift/2019-09-26-1226) (fom 1 jan 2020, se endringsforskriften), [24 sep 2020 nr. 1812](https://lovdata.no/forskrift/2020-09-24-1812) (fom 1 jan 2021, se endringsforskriften), [23 sep 2022 nr. 1668](https://lovdata.no/forskrift/2022-09-23-1668) (med virkning fra 1 jan 2023, se endringsforskriften).*
+
+## Kapittel 11. Omdanning
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 11](../lover/lov-1999-03-26-14-skatteloven.md).
+
+## Kapittel 12. Personinntekt
+
+### Fellesregler for personinntekt
+
+#### [§ 12-2](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Hva personinntekt omfatter
+
+##### Fastsettelse av personinntekt, trygdeavgift og arbeidsgiveravgift i særlige tilfeller
+
+###### § 12-2-1. Personinntekt og trygdeavgift når arbeidsgiveravgiftsgrunnlaget er fastsatt
+
+Den avgjørelse skattemyndighetene har truffet ved eventuell fastsetting av grunnlaget for arbeidsgiveravgift med hensyn til om en ytelse anses opptjent utenfor eller som ledd i næringsvirksomhet, jf. [folketrygdloven § 23-2](../lover/lov-1997-02-28-19-folketrygdloven.md) første og annet ledd, blir å legge til grunn ved fastsetting av mottakerens personinntekt og trygdeavgift, jf. [skatteloven § 12-2](../lover/lov-1999-03-26-14-skatteloven.md) og [folketrygdloven § 23-3](../lover/lov-1997-02-28-19-folketrygdloven.md) og [§ 24-1](../lover/lov-1997-02-28-19-folketrygdloven.md) første ledd.
+
+*Endret ved forskrifter [19 des 2007 nr. 1567](https://lovdata.no/forskrift/2007-12-19-1567) (i kraft 1 jan 2008), [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017).*
+
+###### § 12-2-2. Godtgjørelse for forfatterhonorarer
+
+(1) Som personinntekt etter [skatteloven § 12-2](../lover/lov-1999-03-26-14-skatteloven.md) første ledd bokstav a, og som avgiftspliktig ytelse etter [folketrygdloven § 23-2](../lover/lov-1997-02-28-19-folketrygdloven.md) første ledd, regnes godtgjørelse fra forlegger til forfatter og oversetter når godtgjørelsen ikke beregnes etter salg (royalty).
+
+(2) Som personinntekt etter [skatteloven § 12-10](../lover/lov-1999-03-26-14-skatteloven.md) og [§ 12-2 bokstav g](../lover/lov-1999-03-26-14-skatteloven.md), regnes godtgjørelse fra forlegger til forfatter og oversetter når godtgjørelsen beregnes etter salg (royalty).
+
+*Endret ved forskrifter [27 feb 2002 nr. 202](https://lovdata.no/forskrift/2002-02-27-202) (fom inntektsåret 2002), [4 sep 2006 nr. 1021](https://lovdata.no/forskrift/2006-09-04-1021) (fom inntektsåret 2006), [31 okt 2023 nr. 1745](https://lovdata.no/forskrift/2023-10-31-1745) (i kraft 1 jan 2023).*
+
+###### § 12-2-3. Karensgodtgjørelse
+
+Som personinntekt etter [skatteloven § 12-2](../lover/lov-1999-03-26-14-skatteloven.md) første ledd a, og som avgiftspliktig ytelse etter [folketrygdloven § 23-2](../lover/lov-1997-02-28-19-folketrygdloven.md) første ledd, regnes godtgjørelse som utbetales en arbeidstaker for at denne skal avstå fra å ta stilling i en konkurrerende bedrift eller fra selv å etablere konkurrerende virksomhet i et bestemt tidsrom (karensgodtgjørelse). Dette gjelder selv om godtgjørelsen utbetales etter at arbeidsforholdet er opphørt.
+
+###### § 12-2-4. Godtgjørelse for idrettsutøvelse som innbetales til fond for idrettsutøvere
+
+(1) Godtgjørelse for idrettsutøvelse fra bedrifter og sponsorer mv. som innbetales til fond for idrettsutøvere godkjent av Finansdepartementet, regnes ikke som personinntekt etter [skatteloven § 12-2](../lover/lov-1999-03-26-14-skatteloven.md).
+
+(2) Godtgjørelse som nevnt i første ledd regnes som avgiftspliktig ytelse etter [folketrygdloven § 23-2](../lover/lov-1997-02-28-19-folketrygdloven.md) første ledd.
+
+###### § 12-2-5. Godtgjørelse for idrettsutøvelse som utbetales fra fond for idrettsutøvere
+
+(1) Godtgjørelse for idrettsutøvelse som utbetales fra fond for idrettsutøvere godkjent av Finansdepartementet, regnes som personinntekt etter [skatteloven § 12-2](../lover/lov-1999-03-26-14-skatteloven.md) første ledd a.
+
+(2) Godtgjørelse som nevnt i første ledd regnes ikke som avgiftspliktig ytelse etter [folketrygdloven § 23-2](../lover/lov-1997-02-28-19-folketrygdloven.md).
+
+###### § 12-2-6. Godtgjørelse for pass av barn – barnepassvirksomhet
+
+(1) Som personinntekt etter [skatteloven § 12-2](../lover/lov-1999-03-26-14-skatteloven.md) første ledd bokstav a regnes godtgjørelse som en barnepasser mottar ved pass av barn som ikke har fylt 12 år før utgangen av inntektsåret eller barn som har særlig behov for omsorg og pleie, når barnepasset skjer i barnepassers hjem.
+
+(2) Utgiftsgodtgjørelse for barnepass som nevnt i første ledd gitt etter Skattedirektoratets årlige satsforskrift, anses ikke å gi overskudd og regnes ikke med ved fastsettelse av personinntekten.
+
+*Endret ved forskrift [21 nov 2022 nr. 2001](https://lovdata.no/forskrift/2022-11-21-2001) (i kraft 1 jan 2023 med virkning fra og med inntektsåret 2023).*
+
+###### § 12-2-7. Godtgjørelse for transport av skogsvirke
+
+(1) Som personinntekt etter [skatteloven § 12-2](../lover/lov-1999-03-26-14-skatteloven.md) første ledd a, og som avgiftspliktig ytelse etter [folketrygdloven § 23-2](../lover/lov-1997-02-28-19-folketrygdloven.md) første ledd, regnes godtgjørelse for transport av skogsvirke med egen hest eller traktor når utøveren av slik transport ikke har plikt til å beregne og betale merverdiavgift av godtgjørelsen.
+
+(2) Arbeidsgiveravgiften beregnes av samme grunnlag som fastsatt for feriegodtgjørelse i henhold til den til enhver tid gjeldende overenskomst for skogbruket.
+
+(3) Som personinntekt etter [skatteloven § 12-10](../lover/lov-1999-03-26-14-skatteloven.md) og [§ 12-2](../lover/lov-1999-03-26-14-skatteloven.md) bokstav f, regnes godtgjørelse for transport av skogsvirke med egen hest eller traktor når utøveren av slik transport har plikt til å beregne og betale merverdiavgift av vederlagene. Slik godtgjørelse regnes ikke som avgiftspliktig ytelse etter [folketrygdloven § 23-2](../lover/lov-1997-02-28-19-folketrygdloven.md).
+
+*Endret ved forskrift [4 sep 2006 nr. 1021](https://lovdata.no/forskrift/2006-09-04-1021) (fom inntektsåret 2006).*
+
+## Kapittel 13. Skjønnsfastsettelse av formue og inntekt ved interessefelleskap
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 13](../lover/lov-1999-03-26-14-skatteloven.md).
+
+## Kapittel 14. Tidfesting av inntekt og fradrag i inntekt
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 14](../lover/lov-1999-03-26-14-skatteloven.md).
+
+*Endret ved forskrift [17 des 1999 nr. 1475](https://lovdata.no/forskrift/1999-12-17-1475).*
+
+## Kapittel 15. Skattesatser
+
+### [§ 15-3](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Kommunale og fylkeskommunale [skattevedtak](https://lovdata.no/forskrift/1993-11-12-1043)
+
+#### § 15-3-1. Forlengelse av frist for kommunenes og fylkeskommunenes forskuddsvedtak
+
+(1) Søknad fra et kommunestyre eller et fylkesting om forlengelse av fristen for forskuddsvedtak sendes Skattedirektoratet, og må være postlagt innen 24. oktober i året forut for vedkommende inntektsår.
+
+(2) I søknaden skal det gis opplysning om:
+
+a. grunnen til at det anses påkrevet å få forlenget den vedtaksfristen som er fastsatt i [skatteloven § 15-3](../lover/lov-1999-03-26-14-skatteloven.md) første ledd,
+b. hvor lang fristforlengelse det søkes om,
+c. foregående års forskuddsvedtak, og
+d. hvilket forskuddsvedtak (skattøre for inntektsskatt og promillesats for formuesskatt) det mest sannsynlig vil bli spørsmål om å nytte for det kommende året, eventuelt innstillinger eller vedtak som allerede måtte foreligge i saken.
+
+(3) Med søknaden må følge uttalelse fra skattekontoret om muligheten av å kunne gjennomføre forskuddsutskrivningen på forsvarlig måte og innen rimelig tid dersom den omsøkte fristforlengelse blir innvilget.
+
+(4) Gjenpart av søknaden sendes statsforvalteren og skattekontoret.
+
+(5) Erklæring fra skattekontoret som nevnt i tredje ledd kan sløyfes dersom kommunestyret eller fylkestinget erklærer at det anser det utenfor tvil at det må nyttes høyeste lovlige satser for inntekts- og formuesskatt. Søknad om utsettelse med forskuddsvedtaket sendes i så fall gjennom statsforvalteren. For øvrig gjelder bestemmelsene i første og annet ledd og gjenpart av søknaden sendes skattekontoret som nevnt i fjerde ledd.
+
+*Endret ved forskrifter [19 des 2007 nr. 1567](https://lovdata.no/forskrift/2007-12-19-1567) (i kraft 1 jan 2008), [19 mai 2021 nr. 1551](https://lovdata.no/forskrift/2021-05-19-1551) (i kraft 1 juni 2021).*
+
+## Kapittel 16. Fradrag i skatt og refusjon
+
+### Fradrag i norsk skatt ved skattlegging av utbytte mv. fra utenlandsk datterselskap
+
+#### [§ 16-30](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md). Fradrag i norsk skatt for skatt betalt i utlandet av utbytte eller overskudd fra utenlandsk datterselskap
+
+##### § 16-30-1. Dokumentasjonsplikt for den utenlandske skatten
+
+(1) Skattyter som krever fradrag som nevnt i [skatteloven § 16-30](../lover/lov-1999-03-26-14-skatteloven.md), skal i vedlegg til skattemeldingen dokumentere:
+
+a. morselskapets eierandel og andel av stemmene som kan avgis på generalforsamlingen i det utenlandske datterselskapet i en sammenhengende periode på to år som omfatter tidspunktet for innvinning av utbytte,
+b. det utbytte morselskapet har mottatt, eventuell kildeskatt av utbyttet som er betalt til datterselskapets hjemstat samt hvordan og for hvilken periode utbyttet er beregnet,
+c. de selskaps- og regnskapsrettslige regler i datterselskapets hjemstat om inntektsår og utbytteutdeling,
+d. inntektsskatten som datterselskapet faktisk har betalt til sin hjemstat og det skattemessige overskudd denne skatten er fastsatt på, for det inntektsåret som utbyttet kan henføres til og de fire forutgående år når fradrag kreves for disse,
+e. at beløpet som det kreves fradrag for utgjør utenlandsk skatt som er fradragsberettiget i norsk skatt,
+f. at beløpet er innbetalt til datterselskapets hjemstat, og
+g. at beløpet utgjør endelig fastsatt skatt ved ordinær fastsetting i datterselskapets hjemstat.
+
+(2) Når det foreligger skatteavtale med datterselskapets hjemstat er det i forhold til første ledd e tilstrekkelig å dokumentere at skatten er omfattet av avtalen, samt hva slags skatt det kreves fradrag for. Kravet i første ledd g om at skatten må være endelig fastsatt ved ordinær fastsetting gjelder ikke hvor skatten er en kildeskatt ilagt etter skatteavtale.
+
+(3) Dersom det kreves at skatt betalt av datterdatterselskapet i utlandet skal tas med ved beregningen av den utenlandske skatten som kan kreves fradratt i norsk skatt, gjelder dokumentasjonskravene i første ledd b – g tilsvarende vedrørende datterdatterselskapet. I tillegg må morselskapet dokumentere datterselskapets eierandel i datterdatterselskapet, og hvordan datterdatterselskapets utbytte er beskattet i datterselskapet i en sammenhengende periode på to år som omfatter tidspunktet for innvinning av utbytte.
+
+(4) Skattemyndighetene kan kreve ytterligere dokumentasjon, herunder kan kreves fremlagt regnskap for datter- eller datterdatterselskapet.
+
+*Endret ved forskrifter [4 nov 2005 nr. 1262](https://lovdata.no/forskrift/2005-11-04-1262) (fom inntektsåret 2005), [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017).*
+
+##### § 16-30-2. Verifisering og oversettelse av dokumentasjon
+
+(1) Skattemyndighetene kan kreve at dokumentasjon etter [§ 16-30-1](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) i denne forskrift fremlegges i notarialbekreftet kopi.
+
+(2) Skattemyndighetene kan kreve at dokumentasjon etter [§ 16-30-1](for-1999-11-22-1160-fssd-skattedirektoratets-skatteforskrift.md) i denne forskrift fremlegges sammen med oversettelse til norsk av autorisert translatør.
+
+*Endret ved forskrift [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017).*
+
+##### § 16-30-3. Opplysningsplikt om endret fastsetting
+
+Et norsk morselskap som har fått fradrag i norsk skatt for skatt betalt av utenlandsk datter- eller datterdatterselskap har plikt til å informere norske skattemyndigheter dersom datter- eller datterdatterselskapets fastsetting i utlandet endres slik at den utenlandske skatten tilbakebetales eller nedsettes.
+
+*Endret ved forskrift [9 des 2016 nr. 1507](https://lovdata.no/forskrift/2016-12-09-1507) (i kraft 1 jan 2017).*
+
+## Kapittel 17. Skattebegrensning
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 17](../lover/lov-1999-03-26-14-skatteloven.md).
+
+## Kapittel 18. Særregler ved skattlegging av kraftforetak
+
+Skattedirektoratet har ikke fastsatt utfyllende bestemmelser til [skattelovens kapittel 18](../lover/lov-1999-03-26-14-skatteloven.md).
+
+## Kapittel 19. Ikrafttredelse mv.
+
+### § 19-1. Ikrafttredelse
+
+(1) Denne forskrift trer i kraft 1. januar 2000. Fra samme dato oppheves følgende forskrifter:
+
+a. [Forskrift av 18. juni 1970 nr. 9839](https://lovdata.no/forskrift/1970-06-18-9839) om forlengelse av frist for kommunenes og fylkeskommunenes forskuddsvedtak
+b. [Forskrift av 9. desember 1975 nr. 4926](https://lovdata.no/forskrift/1975-12-09-4926) om skattlegging m.v. av gevinst ved salg av andel/aksje i boligselskap
+c. [Forskrift av 24. juni 1976 nr. 8889](https://lovdata.no/forskrift/1976-06-24-8889) om prosentligning m.v. av bolig og fritidseiendommer
+d. [Forskrift av 27. februar 1992 nr. 99](https://lovdata.no/forskrift/1992-02-27-99) om registrering m.v. av aksjeselskaper som driver ny virksomhet
+e. [Forskrift av 27. februar 1992 nr. 100](https://lovdata.no/forskrift/1992-02-27-100) om oppgaveplikt for aksjeselskap som driver ny virksomhet
+f. [Forskrift av 30. oktober 1992 nr. 771](https://lovdata.no/forskrift/1992-10-30-771) om ligning av andelshavere i boligselskaper
+g. [Forskrift av 30. oktober 1992 nr. 772](https://lovdata.no/forskrift/1992-10-30-772) om adgang til prosentligning i boligselskaper
+h. [Forskrift av 9. desember 1992 nr. 1042](https://lovdata.no/forskrift/1992-12-09-1042) om krav til legitimasjon vedrørende fradrag for merutgifter til kost og losji ved arbeidsopphold utenfor hjemmet
+i. [Forskrift av 13. juli 1995 nr. 686](https://lovdata.no/forskrift/1995-07-13-686) om beskatning av prosentlignet eierseksjon i boligsameie
+j. [Forskrift av 8. desember 1997 nr. 1283](https://lovdata.no/forskrift/1997-12-08-1283) om fastsettelse av personinntekt, trygdeavgift og arbeidsgiveravgift i særlige tilfeller
+k. [Forskrift av 22. desember 1997 nr. 1431](https://lovdata.no/forskrift/1997-12-22-1431) om dokumentasjonsplikt ved krav om fradrag i norsk skatt for skatt betalt av utenlandsk datterselskap mv.
+
+(2) Fra denne forskrifts ikrafttredelse opphører følgende å gjelde:
+
+a. Riksskattestyrets rundskriv av [1. april 1974 (nr. 3538)](https://lovdata.no/forskrift/1974-04-01-3538) om avgrensning av representasjonsutgifter mot sosiale utgifter og reklameutgifter m.v.
+b. Direktøren for skattevesenets retningslinjer av 22. desember 1975 om fordeling av særfradrag mellom ektefeller som lignes felles med fordeling av skatten.

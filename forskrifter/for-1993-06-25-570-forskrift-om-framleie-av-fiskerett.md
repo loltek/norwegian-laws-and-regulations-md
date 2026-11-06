@@ -1,0 +1,56 @@
+# Forskrift om framleie av fiskerett.
+
+- **Korttittel:** Forskrift om framleie av fiskerett
+- **Datokode:** FOR-1993-06-25-570
+- **DokumentID:** SF/forskrift/1993-06-25-570
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Avd. for naturvern og kulturminner
+- **Hjemmel:** lov 15.05.1992 nr. 47/§27; forskrift 27.11.1992 nr. 864
+- **Publisert i:** Avd I 1993 782
+- **I kraft fra:** 1993-10-01
+- **Siste endring i kraft:** 2021-09-10
+- **Sist endret ved:** forskrift 14.12.2020 nr. 3367 fra 2021-09-10
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt av Miljøverndepartementet 25. juni 1993 med hjemmel i lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv § 27 jf kgl.res. av 27. november 1992 nr. 864. Endret ved forskrift 14 des 2020 nr. 3367 (i kraft 10 sep 2021).
+- **Kilde:** <https://lovdata.no/forskrift/1993-06-25-570>
+
+## § 1. Virkeområde
+
+Denne forskrift omfatter framleie, dvs. videre utleie av en leiet fiskerett.
+
+Forskriften omfatter ikke samarbeidsavtaler mellom rettighetshavere, eller mellom rettighetshavere og lokale turistbedrifter. Den omfatter heller ikke tradisjonelle forvaltningsavtaler mellom rettighetshavere og ideelle organisasjoner.
+
+## § 2. Forbud mot framleie
+
+Uten tillatelse fra statsforvalteren er framleie av fiskerett forbudt.
+
+Ved avgjørelse av søknad om tillatelse til framleie skal det legges vekt på hvordan allmennheten tilgodeses ved framleien og mulighetene for fiske i de omkringliggende områder. Det kan settes vilkår for tillatelsen. Statsforvalteren skal straks gis melding om vesentlige endringer i forutsetningene eller vilkårene for tillatelsen.
+
+*Endret ved forskrift [14 des 2020 nr. 3367](https://lovdata.no/forskrift/2020-12-14-3367) (i kraft 10 sep 2021).*
+
+## § 3. Unntak
+
+Tillatelse fra statsforvalteren er likevel ikke nødvendig hvor
+
+1. leieren enten er
+   a. en ideell organisasjon tilknyttet en landsomfattende organisasjon med sportsfiske som en hovedaktivitet, eller
+   b. en ideell lokal organisasjon med sportsfiske som en hovedaktivitet og minst 100 medlemmer,og
+2. eventuelt overskudd av framleien etter at leiesummen og utgifter ved framleien er dekket, i sin helhet går til tiltak for fiskebestandene i området.
+
+Statsforvalteren kan til enhver tid kreve de opplysninger denne finner nødvendig for å avgjøre om et framleieforhold faller inn under første ledd.
+
+*Endret ved forskrift [14 des 2020 nr. 3367](https://lovdata.no/forskrift/2020-12-14-3367) (i kraft 10 sep 2021).*
+
+## § 4. Meldeplikt
+
+Alle framleieforhold som ikke har grunnlag i gitt tillatelse skal skriftlig meldes til statsforvalteren innen utgangen av det kalenderår framleien starter. Meldingen skal inneholde en redegjørelse for de aktuelle bestemmelser i forhold til [§ 3](for-1993-06-25-570-forskrift-om-framleie-av-fiskerett.md).
+
+*Endret ved forskrift [14 des 2020 nr. 3367](https://lovdata.no/forskrift/2020-12-14-3367) (i kraft 10 sep 2021).*
+
+## § 5. Straff
+
+Overtredelse av denne forskrift er straffbart, jf § 49 i lov om laksefisk og innlandsfisk m.v.
+
+## § 6. Ikrafttreden
+
+Denne forskrift trer i kraft 1. oktober 1993.

@@ -1,0 +1,94 @@
+# Forskrift om forsøksprosjekt om kartlegging av domfeltes behov for tiltak med sikte på å lette tilbakeføring til et kriminalitetsfritt liv
+
+- **Korttittel:** Forskrift om forsøksprosjekt kartlegging av domfeltes behov
+- **Datokode:** FOR-2011-09-30-978
+- **DokumentID:** SF/forskrift/2011-09-30-978
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Kriminalomsorgsavd.
+- **Hjemmel:** lov 18.05.2001 nr. 21/§5; lov 18.05.2001 nr. 21/§4; forskrift 22.02.2002 nr. 182
+- **Publisert i:** I 2011 hefte 9
+- **Kunngjort:** 2011-10-04 13:40
+- **I kraft fra:** 2011-11-01
+- **Siste endring i kraft:** 2013-09-24
+- **Sist endret ved:** forskrift 24.09.2013 nr. 1129
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Justis- og politidepartementet 30. september 2011 med hjemmel i lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. (straffegjennomføringsloven) § 5, jf. § 4. Tilføyd hjemmel: Delegeringsvedtak 22. februar 2002 nr. 182. Endret ved forskrift 24 sep 2013 nr. 1129.
+- **Kilde:** <https://lovdata.no/forskrift/2011-09-30-978>
+
+## I
+
+### § 1. Grunnlag for behandlingen, formål og målgruppe
+
+Det skal opprettes et personregister for forsøksprosjektet. Personopplysningsloven og konsesjon gitt av Datatilsynet 10. februar 2011 gjelder for behandlingen av personopplysningene.
+
+Alle domfelte kan gis tilbud om behovskartlegging mens de gjennomfører straff. I tilbudet om behovskartlegging skal det likevel gis prioritet til domfelte som gjennomfører lengre straffer og som skal oppholde seg i Norge etter gjennomført straff.
+
+Formålet med kartleggingen er å avklare domfeltes behov knyttet til bolig, utdannelse, arbeid, helsehjelp, hjelp til å ordne sin økonomi og andre tiltak som har betydning for domfeltes tilbakeføring til samfunnet.
+
+Kartleggingen skal bidra til et styrket samarbeid med forvaltningssamarbeidsparter og andre som har ansvar for tiltak knyttet til bolig, arbeid, utdanning, helse, økonomi mv.
+
+For å sikre kunnskap om i hvilken grad kartleggingen lykkes i å bidra til tilbakeføring og for statistiske formål, kan opplysningene også brukes i forskningsøyemed. Det er et vilkår at opplysningene gjøres anonyme.
+
+### § 2. Vilkår
+
+For å bli behovskartlagt etter forskriften her må den domfelte gi et skriftlig samtykke på eget skjema. Det er ingen plikt til å delta i kartleggingen. I skjemaet skal det gå fram at det ikke skal ha noen negative konsekvenser for straffegjennomføringen dersom vedkommende ikke ønsker å delta, jf. [straffegjennomføringsloven § 4](../lover/lov-2001-05-18-21-straffegjennomforingsloven.md). Den domfelte skal også gjøres oppmerksom på muligheten for å trekke seg fra kartleggingen.
+
+Den domfelte skal i skjemaet samtykke til utlevering av nødvendige opplysninger til forvaltningssamarbeidsparter, jf. § 5 nr. 4 i forskriften her.
+
+Det skal framgå i samtykkeskjemaet at opplysningene ikke kan nyttes til andre formål enn de som er nevnt i [§ 1](for-2011-09-30-978-forskrift-om-forsoksprosjekt-kartlegging-av-domfeltes-behov.md). Dette gjelder likevel ikke opplysninger som den domfelte gir om:
+
+a. planer om å unndra seg straffegjennomføringen,
+b. utøvd vold eller trusler mot ansatte eller andre innsatte eller planer om dette,
+c. utøvd vold eller trusler mot nærstående eller andre personer utenfor kriminalomsorgen eller planer om dette.
+
+Disse opplysningene skal meddeles enhetsledelsen.
+
+Det skal også framgå av samtykkeskjemaet at opplysninger som domfelte gir under kartleggingen også kan meddeles til politiet, jf. [forvaltningsloven § 13b](../lover/lov-1967-02-10-forvaltningsloven.md) nr. 6 og meldeplikt etter [straffeloven § 139](../lover/lov-2005-05-20-28-straffeloven.md).
+
+### § 3. Samarbeid med forvaltningssamarbeidsparter
+
+For å sikre at domfeltes behov for oppfølging blir fulgt opp av forvaltningssamarbeidsparter, skal relevante kartleggingsopplysninger utleveres til dem innenfor rammene i [§ 5](for-2011-09-30-978-forskrift-om-forsoksprosjekt-kartlegging-av-domfeltes-behov.md) nr. 4. Arbeids- og velferdsforvaltningen, helsetjenesten og skoleverket skal alltid involveres i samarbeidet dersom domfelte har behov for bistand fra disse.
+
+### § 4. Hvem kan gjennomføre kartlegging
+
+Bare tilsatte i kriminalomsorgen som er godkjent som kartleggere og som har fått opplæring, kan gjennomføre behovskartlegging. De skal bare ha tilgang til opplysninger som er innhentet i kartlegging de selv har deltatt i, eller skal delta i, se likevel [§ 5](for-2011-09-30-978-forskrift-om-forsoksprosjekt-kartlegging-av-domfeltes-behov.md) nr. 3.
+
+### § 5. Personvern
+
+For å ivareta personvernet skal følgende gjelde:
+
+1. De svar som den domfelte avgir, skal gjennomgås og gis en vurdering av kriminalomsorgen. Domfelte skal få se vurderingene og gis mulighet til å imøtegå dem.
+2. Den domfelte kan når som helst trekke tilbake samtykket til å delta.
+3. Bare tilsatte i kriminalomsorgen som har tjenstlig behov, kan gis tilgang til kartleggingsopplysninger. Kriminalomsorgens retningslinjer for tilgangskontroll gjelder tilsvarende.
+4. Det skal bare utleveres kartleggingsinformasjon etter [§ 3](for-2011-09-30-978-forskrift-om-forsoksprosjekt-kartlegging-av-domfeltes-behov.md) som forvaltningssamarbeidsparten, innenfor sitt arbeidsområde, trenger for å gi den domfelte best mulig oppfølging. Forvaltningssamarbeidsparten skal skriftlig forplikte seg til å oppfylle kravene til informasjonssikkerhet etter personopplysningsforskriften, jf. [personopplysningsforskriften § 2-15](https://lovdata.no/forskrift/2000-12-15-1265/§2-15) første, fjerde og femte ledd.
+5. Kriminalomsorgens regler om sperring og sletting/kassasjon av informasjon gjelder. Etter de frister som er fastsatt i kriminalomsorgens bevarings- og kassasjonsregler, skal arkivverdig materiale overleveres Riksarkivet, jf. [arkivloven § 9](https://lovdata.no/lov/1992-12-04-126/§9) og [forvaltningsloven § 13d](../lover/lov-1967-02-10-forvaltningsloven.md). Materiale som ikke er arkivverdig, skal slettes når det ikke lenger er bruk for det.
+
+### § 6. Innholdet i kartleggingsverktøyet
+
+Kartlegging skal foretas ved hjelp av et IKT-verktøy. Verktøyet skal gi mulighet til å behandle og lagre informasjon som er relevante for å oppnå formålene som er nevnt i [§ 1](for-2011-09-30-978-forskrift-om-forsoksprosjekt-kartlegging-av-domfeltes-behov.md). Spørsmålene kan ta sikte på å avdekke kriminell bakgrunn og tidligere dommer, boforhold, utdanningsnivå, arbeidsforhold, økonomi, nettverk, narkotika- og alkoholbruk.
+
+Følgende områder kan også inngå:
+
+- erfaring fra og holdning til å la seg behandle for misbruk av narkotika og alkohol,
+- lovbrudd vedkommende er dømt for,
+- fysisk og psykisk helsetilstand,
+- vurdering av egen aggresjon og bruk av vold og som offer for vold, og
+- egen vurdering av framtidsmulighetene.
+
+Dersom det skal legges til nye spørsmål i spørreskjemaet, må disse i sin helhet være relevante for formålet som nevnt i [§ 1](for-2011-09-30-978-forskrift-om-forsoksprosjekt-kartlegging-av-domfeltes-behov.md). Endringer må godkjennes av Kriminalomsorgsdirektoratet.
+
+*Endret ved [forskrift 24 sep 2013 nr. 1129](https://lovdata.no/forskrift/2013-09-24-1129).*
+
+### § 7. Innhenting av opplysninger fra andre
+
+Dersom det skal innhentes opplysninger fra andre enn den domfelte til bruk i kartleggingen, skal den domfelte samtykke til dette.
+
+### § 8. Virkeområde
+
+Forskriften gjelder forsøksprosjekt som etableres ved de fengsler og friomsorgskontorer som Kriminalomsorgsdirektoratet bestemmer.
+
+*Endret ved [forskrift 24 sep 2013 nr. 1129](https://lovdata.no/forskrift/2013-09-24-1129).*
+
+## II
+
+Forskriften trer i kraft 1. november 2011.

@@ -1,0 +1,106 @@
+# Forskrift om universell utforming av motorvogn i løyvepliktig transport mv.
+
+- **Korttittel:** Forskrift om utforming av løyvepliktig motorvogn
+- **Datokode:** FOR-2009-12-03-1438
+- **DokumentID:** SF/forskrift/2009-12-03-1438
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Trafikksikkerhets- og beredskapsavd.
+- **Hjemmel:** lov 21.06.2002 nr. 45/§35; lov 18.06.1965 nr. 4/§13
+- **Publisert i:** I 2009 hefte 13
+- **Kunngjort:** 2009-12-04 14:15
+- **I kraft fra:** 2010-01-01
+- **Siste endring i kraft:** 2023-06-19
+- **Sist endret ved:** forskrift 19.06.2023 nr. 976
+- **Endrer:** forskrift 04.01.1984 nr. 599
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Samferdselsdepartementet 3. desember 2009 med hjemmel i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 35. Tilføyd hjemmel: Lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 13. Endret ved forskrifter 17 sep 2012 nr. 892, 13 aug 2020 nr. 1637 (i kraft 1 nov 2020), 3 sep 2020 nr. 1720 (i kraft 1 nov 2020), 19 juni 2023 nr. 976.
+- **Kilde:** <https://lovdata.no/forskrift/2009-12-03-1438>
+
+## § 1. Virkeområde
+
+Forskriften gjelder for løyvepliktig persontransport i rute og i løyvepliktig transport hvor motorvognen brukes til transport for personer med nedsatt funksjonsevne, jf. [yrkestransportlova § 4](https://lovdata.no/lov/2002-06-21-45/§4), [§ 6](https://lovdata.no/lov/2002-06-21-45/§6) og [§ 9](https://lovdata.no/lov/2002-06-21-45/§9). Forskriften gjelder ikke buss klasse I, med unntak av § 4 femte ledd. § 4 femte ledd gjelder all løyvepliktig persontransport, både i og utenfor rute.
+
+*Endret ved forskrifter [13 aug 2020 nr. 1637](https://lovdata.no/forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse), [19 juni 2023 nr. 976](https://lovdata.no/forskrift/2023-06-19-976).*
+
+## § 2. Definisjoner
+
+Definisjonene i [forskrift 5. juli 2012 nr. 817](https://lovdata.no/forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil (bilforskriften) gjelder så langt de passer.
+
+Ellers gjelder følgende definisjoner for denne forskriften:
+
+a. *Bil for transport for personer med nedsatt funksjonsevne:* Motorvogn i løyvepliktig transport som er spesielt utformet eller utstyrt for transport for funksjonshemmede.
+b. *Passasjerplass:* Plass som er beregnet for transport av passasjerer.
+c. *Sitteplass:* Plass beregnet for sittende passasjerer i faste eller demonterbare stoler.
+d. *Rullestolplass:* Plass beregnet for passasjer sittende i rullestol.
+
+*Endret ved [forskrift 13 aug 2020 nr. 1637](https://lovdata.no/forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse).*
+
+## § 3. Godkjenning
+
+Buss som er omfattet av forskriften må være godkjent av Statens vegvesen etter kravene som følger av bilforskriften, samt kravene i [§ 4](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md). Ved godkjenning må det fremlegges dokumentasjon på at kravene i [§ 4](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md) er oppfylt.
+
+Personbil som er omfattet av forskriften må være godkjent av Statens vegvesen etter kravene som følger av bilforskriften, samt kravene i [§ 6](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md). Ved godkjenning må det fremlegges dokumentasjon på at kravene i [§ 6](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md) er oppfylt.
+
+Dokumentasjon som nevnt i første og andre ledd skal utstedes av fabrikanten av karosseriet, understellet, sikkerhetsutstyret eller den komplette motorvogna, eventuelt av et kompetent uavhengig laboratorium.
+
+*Endret ved [forskrift 13 aug 2020 nr. 1637](https://lovdata.no/forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse).*
+
+## § 4. Krav til buss
+
+Buss som er omfattet av forskriften skal oppfylle kravene i ECE-regulativ 107.05, vedlegg 8.
+
+I tillegg skal buss som benyttes i løyvepliktig persontransport i rute ha:
+
+a. Automatisk holdeplassannonsering med tale og elektronisk tavle inne i bussen plassert slik at den kan ses tydelig fra reservert plass.
+b. Utvendig utroperanlegg (lydfyr) som annonserer hvilken buss det er som ankommer holdeplassen.
+
+Valg av ombordstigningsinnretning må baseres på bussens konstruksjon. Det skal være minst en rullestolplass i hver buss.
+
+Buss klasse II skal ha bilbelter som tilfredsstiller kravene i ECE-regulativ 16.06. Festepunkter for bilbeltene skal tilfredsstille kravene i ECE-regulativ 14.07.
+
+Buss i klasse I, II og III som omfattes av forskriften og som førstegangsregistreres i Norge fra og med 1. oktober 2023 skal tilfredsstille kravene til frontbeskyttelse beskrevet i FN-regulativ nr. 29 pkt. 5 når kollisjonstesten er gjennomført i henhold til vedlegg 3 test A der anslagsverdien for pendelen skal være i henhold til pkt. 5.5.2. Vilkårene i pkt. 5.1.6 kan benyttes som alternativ til mekanisk prøving.
+
+*Endret ved [forskrifter 17 sep 2012 nr. 892](https://lovdata.no/forskrift/2012-09-17-892), [13 aug 2020 nr. 1637](https://lovdata.no/forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse), [3 sep 2020 nr. 1720](https://lovdata.no/forskrift/2020-09-03-1720) (i kraft 1 nov 2020), [19 juni 2023 nr. 976](https://lovdata.no/forskrift/2023-06-19-976).*
+
+## § 5. (Opphevet)
+
+*Opphevet ved [forskrift 3 sep 2020 nr. 1720](https://lovdata.no/forskrift/2020-09-03-1720) (i kraft 1 nov 2020).*
+
+## § 6. Krav til personbil
+
+Personbil skal tilfredsstille kravene i direktiv [2007/46/EF](https://lovdata.no/eu/32007l0046) vedlegg XI tillegg 3 under overskrift «Supplerende krav for testing av festeanordning til rullestolen og rullestolbrukeren». I tillegg gjelder følgende:
+
+a. Rullestolplass skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.6.1.
+b. Sitteplass i tilknytning til rullestolområdet skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.7.
+c. Belysning skal være i henhold til ECE-regulativ 107.05 vedlegg 3 pkt. 7.6.12.
+d. Heis, ramper og lignende skal være i henhold til ECE-regulativ 107.05 vedlegg 8 pkt. 3.11.
+e. Plass for brannslukningsapparat og førstehjelpsutstyr skal være i henhold til ECE-regulativ 107.05 vedlegg 3 pkt. 7.5.4.
+f. Arbeidslys skal være i henhold til [kjøretøyforskriften § 28-5](for-1994-10-04-918-kjoretoyforskriften.md) [pkt](for-1994-10-04-918-kjoretoyforskriften.md). 8.
+
+*Endret ved [forskrift 13 aug 2020 nr. 1637](https://lovdata.no/forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse).*
+
+## § 7. Kontroll
+
+Buss som er omfattet av forskriften skal til enhver tid oppfylle kravene i [§ 4](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md) under utføring av løyvepliktig transport, jf. likevel [§ 8](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md).
+
+Personbil som er omfattet av forskriften skal til enhver tid oppfylle kravene i [§ 6](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md) under utføring av løyvepliktig transport, jf. likevel [§ 8](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md).
+
+Statens vegvesen og politiet fører kontroll med at forskriften blir fulgt. Ved mangelfull utrustning eller bruk av materiell som ikke oppfyller kravene i forskriften eller funksjonerer tilfredsstillende gjelder [yrkestransportlova § 40](https://lovdata.no/lov/2002-06-21-45/§40) og [§ 41](https://lovdata.no/lov/2002-06-21-45/§41) tilsvarende.
+
+*Endret ved [forskrift 13 aug 2020 nr. 1637](https://lovdata.no/forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse).*
+
+## § 8. Unntak
+
+For kjøretøy som er omfattet av forskriften kan Statens vegvesen i enkelttilfeller gjøre unntak fra et eller flere av kravene i [§ 4](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md) og [§ 6](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md). Det kan ikke gjøres unntak fra kravene til innstigningshjelpemiddel, innfesting av rullestol, bilbelter, brannslokkingsutstyr, førstehjelpsutstyr og arbeidslys. For kravene i [§ 4](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md) annet ledd kan også løyvemyndigheten gjøre unntak.
+
+*Endret ved [forskrift 13 aug 2020 nr. 1637](https://lovdata.no/forskrift/2020-08-13-1637) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelse).*
+
+## § 9. Ikrafttreden og overgangsbestemmelser
+
+Forskriften trer i kraft 1. januar 2010.
+
+Avtale om anskaffelse av nye transportmidler inngått etter 1. januar 2010 skal oppfylle kravene i forskriften. Transportmidler som er godkjent tidligere og som bygges om kan godkjennes i tråd med [§ 3](for-2009-12-03-1438-forskrift-om-utforming-av-loyvepliktig-motorvogn.md).
+
+Kjøretøy godkjent med hjemmel i [forskrift 4. januar 1984 nr. 599](https://lovdata.no/forskrift/1984-01-04-599) om løyvepliktig transport av funksjonshemmede – tekniske krav til bil, anses fortsatt som godkjent for løyvepliktig transport for funksjonshemmede.
+
+Fra 1. januar 2010 oppheves [forskrift 4. januar 1984 nr. 599](https://lovdata.no/forskrift/1984-01-04-599) om løyvepliktig transport av funksjonshemmede – tekniske krav til bil.

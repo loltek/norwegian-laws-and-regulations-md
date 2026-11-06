@@ -1,0 +1,82 @@
+# Forskrift om medlemskap i trygden under fengselsopphold mv.
+
+- **Korttittel:** Forskrift om medlemskap i trygden, fengselsopphold mv.
+- **Datokode:** FOR-2012-06-22-603
+- **DokumentID:** SF/forskrift/2012-06-22-603
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Pensjonsavd.
+- **Hjemmel:** lov 28.02.1997 nr. 19/§2-17
+- **Publisert i:** I 2012 hefte 8
+- **Kunngjort:** 2012-06-26 14:50
+- **I kraft fra:** 2012-07-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Arbeidsdepartementet 22. juni 2012 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 2-17 femte ledd.
+- **Kilde:** <https://lovdata.no/forskrift/2012-06-22-603>
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Hva forskriften gjelder
+
+Forskriften her gir regler til utfylling og gjennomføring av bestemmelsene i [folketrygdloven § 2-17](../lover/lov-1997-02-28-19-folketrygdloven.md) første til fjerde ledd om medlemskap i trygden under fengselsopphold mv.
+
+### § 2. Definisjoner
+
+Med «frihetsberøvelse» menes fengselsopphold mv. som angitt i loven § 2-17 første ledd første punktum.
+
+Med «utvisning fra riket» menes utvisning på grunnlag av de samme forhold som begrunnet frihetsberøvelsen.
+
+Med «pensjon» menes enhver ytelse som tilstås og beregnes på grunnlag av tidsrom med medlemskap i folketrygden.
+
+### § 3. Medlemskap under frihetsberøvelse
+
+Frihetsberøvelse gir ikke grunnlag for medlemskap i folketrygden, jf. loven § 2-17 første ledd første punktum. Personer som var medlemmer da frihetsberøvelsen tok til, opprettholder likevel sitt medlemskap, jf. loven § 2-17 første ledd andre punktum. Slikt medlemskap har samme omfang som medlemskapet før frihetsberøvelsen tok til.
+
+Ved opphold i Norge etter at frihetsberøvelsen er opphørt, vurderes medlemskapet i trygden etter reglene i [folketrygdloven kapittel 2](../lover/lov-1997-02-28-19-folketrygdloven.md), jf. likevel bestemmelsene i § 5 til § 7.
+
+## Kapittel 2. Ytelser under frihetsberøvelse
+
+### § 4. Generelt
+
+Personer som er medlemmer i folketrygden kan gis ytelser under frihetsberøvelse i den utstrekning dette følger av de enkelte kapitlene i loven og i den utstrekning medlemskapet omfatter disse ytelsene. For pensjon gjelder i tillegg de begrensningene som framgår av [§ 5](for-2012-06-22-603-forskrift-om-medlemskap-i-trygden-fengselsopphold-mv.md) til [§ 7](for-2012-06-22-603-forskrift-om-medlemskap-i-trygden-fengselsopphold-mv.md).
+
+Bestemmelsene i loven § 2-17 andre ledd og § 5 i forskriften her gjelder ikke for tilfelle der vilkårene for pensjon var oppfylt før de nevnte bestemmelsene trådte i kraft.
+
+### § 5. Sak om utvisning fra riket
+
+Dersom stønadstilfellet inntrer etter at det er tatt opp sak om utvisning fra riket, skal det ved tilståelse og beregning av pensjon ses det bort fra tidsrom under frihetsberøvelse.
+
+Når det er tatt opp utvisningssak, skal løpende pensjon som er tilstått eller beregnet under hensyn til tidsrom under frihetsberøvelse, omregnes eller eventuelt stanses.
+
+Dersom vedkommende ikke blir utvist, skal sak behandlet etter første eller andre ledd revurderes og pensjon tilstås eller omregnes med etterbetaling.
+
+Ved anvendelsen av bestemmelsene i første til tredje ledd skal opphold i Norge mellom frihetsberøvelsens opphør og det endelige vedtaket om utvisning fra riket regnes som tidsrom under frihetsberøvelse.
+
+Som tidsrom under frihetsberøvelse etter paragrafen her regnes bare tidsrom etter at loven § 2-17 og forskriften her trådte i kraft.
+
+### § 6. Krav om trygdetilknytning før stønadstilfellet
+
+Ved anvendelsen av § 4 og § 5 anses vedkommende å fylle kravene i loven om perioder med medlemskap i folketrygden før stønadstilfellet inntrer, forutsatt at kravene var oppfylt umiddelbart før frihetsberøvelsen tok til, eventuelt etter sammenlegging med trygdeperioder i andre land etter [EØS-avtalen](../lover/lov-1992-11-27-109-eos-loven.md) eller en bilateral trygdeavtale.
+
+### § 7. Vedtak om utvisning
+
+Ved endelig vedtak om utvisning fra riket faller medlemskapet i folketrygden bort, se [folketrygdloven § 2-1](../lover/lov-1997-02-28-19-folketrygdloven.md) og [§ 2-2](../lover/lov-1997-02-28-19-folketrygdloven.md). Tilståelse, beregning og utbetaling av pensjon skjer da etter reglene for personer uten trygdemessig tilknytning til Norge, likevel slik at [§ 6](for-2012-06-22-603-forskrift-om-medlemskap-i-trygden-fengselsopphold-mv.md) gjelder tilsvarende når stønadstilfellet inntrer etter utvisningsvedtaket, men før vedkommende har forlatt riket.
+
+### § 8. Etterlatte
+
+Bestemmelsene i § 5 til § 7 gjelder ikke for tilfelle som nevnt i loven § 2-17 tredje ledd.
+
+### § 9. Helsetjenester
+
+Retten til helsehjelp for personer som ikke har fast bopel i riket under frihetsberøvelsen følger av [forskrift 16. desember 2011 nr. 1255](for-2011-12-16-1255-forskrift-om-tjenester-til-personer-uten-fast-opphold.md) om rett til helse- og omsorgstjenester til personer uten fast opphold i riket [§ 3](for-2012-06-22-603-forskrift-om-medlemskap-i-trygden-fengselsopphold-mv.md) og [§ 5](for-2012-06-22-603-forskrift-om-medlemskap-i-trygden-fengselsopphold-mv.md) bokstav e.
+
+Utgifter til kommunale helse- og omsorgstjenester til innsatte uten fast bopel dekkes etter de ordinære reglene, likevel slik at utgifter til akutt behandling i kommunal legevakt dekkes som om den innsatte var medlem i folketrygden. Utgifter til øvrige helsetjenester dekkes bare i den utstrekning disse ikke dekkes av andre eller av vedkommendes egne midler. Dagpenger under frihetsberøvelsen til dekning av personlige utgifter regnes ikke som egne midler.
+
+Bestemmelsene i andre ledd andre og tredje punktum gis virkning bare for behandling gjennomført etter at loven § 2-17 trådte i kraft.
+
+Bestemmelsene i andre ledd andre og tredje punktum og tredje ledd gjelder tilsvarende når medlemskapet i folketrygden ikke omfatter dekning av utgifter til helsetjenester.
+
+## Kapittel III. Ikrafttredelse
+
+### § 10. Ikrafttredelse
+
+Forskriften her trer i kraft 1. juli 2012.

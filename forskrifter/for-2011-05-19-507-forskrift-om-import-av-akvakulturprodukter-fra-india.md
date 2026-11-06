@@ -1,0 +1,85 @@
+# Forskrift om særskilte beskyttelsestiltak ved import av akvakulturprodukter fra India til konsum
+
+- **Korttittel:** Forskrift om import av akvakulturprodukter fra India
+- **Datokode:** FOR-2011-05-19-507
+- **DokumentID:** SF/forskrift/2011-05-19-507
+- **Departement:** Helse- og omsorgsdepartementet; Landbruks- og matdepartementet; Nærings- og fiskeridepartementet
+- **Etat:** Mattilsynet
+- **Hjemmel:** lov 19.12.2003 nr. 124/§12; lov 19.12.2003 nr. 124/§16; lov 19.12.2003 nr. 124/§23
+- **Publisert i:** I 2011 hefte 5
+- **Kunngjort:** 2011-05-20 14:00
+- **I kraft fra:** 2011-05-19
+- **Siste endring i kraft:** 2016-10-26
+- **Sist endret ved:** forskrift 06.10.2016 nr. 1176 fra 2016-10-26
+- **Endrer:** forskrift 13.10.2009 nr. 1265
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Mattilsynet 19. mai 2011 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 23 tredje ledd, jf. § 12 og § 16. EØS-henvisninger: EØS-avtalen vedlegg I kap. I del 7.1 nr. 13 og vedlegg II kap. XII nr. 54zzzc (beslutning 2010/381/EU som endret ved beslutning 2012/690/EU og beslutning (EU) 2016/1774). Endret ved forskrifter 8 nov 2012 nr. 1044, 6 okt 2016 nr. 1176.
+- **Kilde:** <https://lovdata.no/forskrift/2011-05-19-507>
+
+## § 1. Formål
+
+Formålet med forskriften er å sikre helsemessige trygge næringsmidler ved å sikre at akvakulturprodukter fra India ment til konsum ikke inneholder helseskadelige rester av veterinære legemidler.
+
+*Endret ved [forskrift 6 okt 2016 nr. 1176](https://lovdata.no/forskrift/2016-10-06-1176) (i kraft 26 okt 2016).*
+
+## § 2. Virkeområde
+
+Forskriften gjelder produkter fra akvakulturanlegg i India ment til konsum.
+
+*Endret ved [forskrift 6 okt 2016 nr. 1176](https://lovdata.no/forskrift/2016-10-06-1176) (i kraft 26 okt 2016).*
+
+## § 3. Definisjoner
+
+I denne forskrift menes med:
+
+a. *restmengder av farmakologisk virksomme stoffer:* farmakologiske virksomme stoffer, uttrykt i mg/kg eller µg/kg våtvekt, som er igjen i næringsmidler av animalsk opprinnelse, enten det er aktive stoffer, hjelpestoffer eller nedbrytningsstoffer og deres metabolitter
+b. *forsendelse:* enhver forsendelse fra India av produkter fra akvakulturanlegg som er beregnet på konsum.
+
+*Endret ved [forskrift 6 okt 2016 nr. 1176](https://lovdata.no/forskrift/2016-10-06-1176) (i kraft 26 okt 2016).*
+
+## § 4. Krav til helsesertifikat
+
+Hver forsendelse skal følges av et helsesertifikat.
+
+Helsesertifikatet skal bekrefte at forsendelsen ikke overskrider grenseverdier for restmengder av klorampenikol, tetracyklin, oksytetracyklin og klortetracyklin, samt metabolitter av nitrofuraner. Prøvene skal være analysert ved bruk av analytiske metoder i samsvar med artikkel 3 og 4 i vedtak [2002/657/EF](https://lovdata.no/eu/32002d0657*).
+
+## § 5. Unntak fra kravet om helsesertifikat
+
+Forsendelser kan tillates importert uten helsesertifikat i samsvar med [§ 4](for-2011-05-19-507-forskrift-om-import-av-akvakulturprodukter-fra-india.md) i denne forskriften, forutsatt at hver forsendelse prøvetas av Mattilsynet ved ankomst til Norge og analyseres for restmengder av klorampenikol, tetracyklin, oksytetracyklin, klortetracyklin og metabolitter av nitrofuraner.
+
+## § 6. Veterinær grensekontroll
+
+Forsendelser som omfattes av denne forskriften, skal prøvetas av Mattilsynet på følgende måte:
+
+a. det skal tas prøver av 50 % av forsendelsene som ankommer grensekontrollstasjonene. I de tilfellene der en forsendelse består av akvakulturprodukter fra mer enn en virksomhet skal det tas prøver av akvakulturprodukter fra hver av virksomhetene.
+b. prøvene som tas skal undersøkes for forekomst av restmengder av farmakologisk virksomme stoffer som angitt i [forskrift 10. oktober 1996 nr. 997](https://lovdata.no/forskrift/1996-10-10-997) om grenseverdier for rester av veterinærpreparater i næringsmidler av animalsk opprinnelse (veterinærpreparatrestforskriften) [§ 2](https://lovdata.no/forskrift/1996-10-10-997/§2), og særskilt for klorampenikol, tetracyklin, oksytetracyklin, klortetracyklin og metabolitter av nitrofuraner.
+
+*Endret ved [forskrifter 8 nov 2012 nr. 1044](https://lovdata.no/forskrift/2012-11-08-1044) (i kraft 9 nov 2012), [6 okt 2016 nr. 1176](https://lovdata.no/forskrift/2016-10-06-1176) (i kraft 26 okt 2016).*
+
+## § 7. Tilbakeholdelse av forsendelser
+
+Alle forsendelser som prøvetas, skal holdes tilbake inntil prøvesvar foreligger. Forsendelsene kan kun importeres dersom prøvesvarene viser at grenseverdiene angitt i veterinærpreparatrestforskriften [§ 2](for-2011-05-19-507-forskrift-om-import-av-akvakulturprodukter-fra-india.md) er overholdt.
+
+## § 8. Varsling til EU-kommisjonen
+
+Mattilsynet skal straks varsle EU-kommisjonen dersom resultatene de analytiske prøvene viser forekomst av farmakologisk virksomme stoffer på et nivå som overstiger grenseverdiene jf. veterinærpreparatrestforskriften [§ 2](for-2011-05-19-507-forskrift-om-import-av-akvakulturprodukter-fra-india.md).
+
+Resultatene av prøvene skal sendes til EU-kommisjonen gjennom hurtigvarslingssystemet RASFF.
+
+*Endret ved [forskrift 6 okt 2016 nr. 1176](https://lovdata.no/forskrift/2016-10-06-1176) (i kraft 26 okt 2016).*
+
+## § 9. Utgifter og kostnadsdekning
+
+Alle kostnader knyttet til kontrollen skal dekkes av importøren eller dennes representant.
+
+## § 10. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. [matloven § 23](../lover/lov-2003-12-19-124-matloven.md), for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til [matloven § 24](../lover/lov-2003-12-19-124-matloven.md) til [§ 26](../lover/lov-2003-12-19-124-matloven.md).
+
+## § 11. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+## § 12. Ikrafttredelse
+
+Forskriften trer i kraft straks. Samtidig oppheves [forskrift 13. oktober 2009 nr. 1265](https://lovdata.no/forskrift/2009-10-13-1265) om særskilte beskyttelsesvedtak ved import fra India av krepsdyr fra akvakulturanlegg til konsum eller fôr.

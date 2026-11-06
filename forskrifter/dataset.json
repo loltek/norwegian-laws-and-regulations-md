@@ -1,0 +1,16 @@
+{
+  "document_count": 5120,
+  "excluded_languages": [
+    "nn",
+    "se",
+    "sma",
+    "sme",
+    "smj",
+    "smn",
+    "sms"
+  ],
+  "format_version": 1,
+  "generated_at": "2026-11-06T05:37:03Z",
+  "source_file_count": 5156,
+  "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2"
+}

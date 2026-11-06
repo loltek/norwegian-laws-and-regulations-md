@@ -1,0 +1,64 @@
+# Lov om infrastruktur for alternativt drivstoff
+
+- **Datokode:** LOV-2020-06-19-95
+- **DokumentID:** NL/lov/2020-06-19-95
+- **Departement:** Samferdselsdepartementet
+- **Kunngjort:** 2020-06-19 12:30
+- **I kraft fra:** 2020-07-01
+- **Siste endring i kraft:** 2023-07-01
+- **Sist endret ved:** lov 16.06.2023 nr. 74 fra 2023-07-01
+- **Rettsområde:** EU/EØS-rett > Transport; Transport og kommunikasjoner
+- **EU/EØS-henvisning:** EØS-avtalen vedlegg XIII nr. 5a (direktiv 2014/94/EU).
+- **Merknad:** Loven oppheves ved lov 19 juni 2026 nr. 63 (i kraft fra den tid Kongen bestemmer).
+- **Kilde:** <https://lovdata.no/lov/2020-06-19-95>
+
+## § 1. Virkeområde
+
+Loven gjelder for offentlig tilgjengelige ladepunkter for elektriske kjøretøy og energistasjoner. Loven gjelder for virksomheter som etablerer eller drifter slike anlegg som er offentlig tilgjengelig.
+
+Med ladepunkt menes et grensesnitt hvor ett elektrisk kjøretøy om gangen kan lades eller få byttet batteri.
+
+Et ladepunkt eller en fyllestasjon er offentlig tilgjengelig hvis allmennhetens tilgang ikke er begrenset. Ladepunkt som er forbeholdt definerte brukere i borettslag, sameier mv. er ikke offentlig tilgjengelig.
+
+*Endret ved lov [16 juni 2023 nr. 74](https://lovdata.no/lov/2023-06-16-74) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 901](https://lovdata.no/forskrift/2023-06-16-901)).*
+
+## § 2. Avtaler om lading
+
+Prisen for å lade et elektrisk drevet kjøretøy på et ladepunkt som er tilgjengelig for allmennheten, skal være objektiv og ikke-diskriminerende.
+
+Offentlig tilgjengelige ladepunkter skal gi brukere av elektriske kjøretøy adgang til å lade uten å måtte inngå en forhåndsavtale med operatøren. Operatøren er den som er driftsansvarlig for ladepunktet.
+
+*Endret ved lov [16 juni 2023 nr. 74](https://lovdata.no/lov/2023-06-16-74) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 901](https://lovdata.no/forskrift/2023-06-16-901)).*
+
+## § 3. Forskrift om betalingsløsninger og tekniske krav mv.
+
+Departementet kan i forskrift gi nærmere regler om
+
+a. betalingsløsninger ved lading av elektrisk drevet kjøretøy
+b. krav til informasjon på energistasjoner, på ladepunkter, på kjøretøy og hos bilforhandlere.
+
+Departementet kan også gi forskrift om tekniske spesifikasjoner til anlegg for overføring av alternativt drivstoff til kjøretøy. Med alternativt drivstoff menes drivstoff eller energikilder som helt eller delvis fungerer som en erstatning for fossile oljekilder i energiforsyningen til transport, og som potensielt kan bidra til avkarbonisering og forbedre transportsektorens miljøprestasjon. Dette omfatter bl.a. elektrisitet, hydrogen, biodrivstoff, syntetisk og parafinsk drivstoff, naturgass, herunder biometan, i gassform (komprimert naturgass (CNG) og flytende form (flytende naturgass (LNG)) og flytende petroleumsgass (LPG).
+
+*Endret ved lov [16 juni 2023 nr. 74](https://lovdata.no/lov/2023-06-16-74) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 901](https://lovdata.no/forskrift/2023-06-16-901)).*
+
+## § 4. Tilsyn og kontroll
+
+Departementet kan utpeke ansvarlig myndighet for å føre tilsyn og kontroll med overholdelse av loven og forskrift gitt i medhold av loven.
+
+## § 5. Overtredelsesgebyr
+
+Departementet kan gi nærmere forskrifter om overtredelsesgebyr, herunder bestemmelser om fastsettelse og beregning av gebyret. For øvrig gjelder [forvaltningsloven §§ 44](lov-1967-02-10-forvaltningsloven.md) og [46](lov-1967-02-10-forvaltningsloven.md).
+
+## § 6. Overgangsbestemmelse
+
+Loven gjelder ikke for ladepunkter og energistasjoner som er etablert før loven trer i kraft.
+
+*Endret ved lov [16 juni 2023 nr. 74](https://lovdata.no/lov/2023-06-16-74) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 901](https://lovdata.no/forskrift/2023-06-16-901)).*
+
+## § 7. Ikrafttreden
+
+Loven gjelder fra den tid[1] Kongen bestemmer.
+
+## Fotnoter
+
+**1.** Fra 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1276](https://lovdata.no/forskrift/2020-06-19-1276).

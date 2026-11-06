@@ -1,0 +1,14 @@
+# Overføring av Kongens myndighet etter lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer m.m. § 10 første ledd fra Helse- og omsorgsdepartementet til Klima- og miljødepartementet for så vidt gjelder kompetanse til å godkjenne søknader om klinisk utprøving av legemidler som består av eller inneholder genmodifiserte organismer, til dyr
+
+- **Datokode:** FOR-2025-09-26-1936
+- **DokumentID:** DEL/forskrift/2025-09-26-1936
+- **Departement:** Statsministerens kontor
+- **Etat:** Administrativ og konstitusjonell avdeling
+- **Hjemmel:** lov 02.04.1993 nr. 38/§10
+- **Kunngjort:** 2025-09-26 15:05
+- **I kraft fra:** 2025-10-01
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 26. september 2025 med hjemmel i lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven) § 10. Fremmet av Statsministerens kontor.
+- **Kilde:** <https://lovdata.no/DEL/forskrift/2025-09-26-1936>
+
+1. Overføring av Kongens myndighet etter [lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte organismer m.m. § 10 første ledd](../lover/lov-1993-04-02-38-genteknologiloven.md) fra Helse- og omsorgsdepartementet til Klima- og miljødepartementet for så vidt gjelder kompetanse til å godkjenne søknader om klinisk utprøving av legemidler som består av eller inneholder genmodifiserte organismer, til dyr.
+2. Endringen trer i kraft fra og med 1. oktober 2025.

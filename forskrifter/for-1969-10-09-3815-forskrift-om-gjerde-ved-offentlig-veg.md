@@ -1,0 +1,37 @@
+# Forskrift om gjerde ved offentlig veg
+
+- **Datokode:** FOR-1969-10-09-3815
+- **DokumentID:** SF/forskrift/1969-10-09-3815
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Vegdirektoratet
+- **Hjemmel:** lov 21.06.1963 nr. 23/§45
+- **Publisert i:** I 1969 s 1246
+- **Siste endring i kraft:** 2020-01-01
+- **Sist endret ved:** forskrift 13.12.2019 nr. 1984 fra 2020-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Vegdirektoratet i medhold av veglovens § 45 annet ledd. EØS-henvisninger: Samferdselsdepartementet sendte 5. september 2016 melding til EFTAs overvåkingsorgan om tekniske regler, jf. lov 17. desember 2004 nr. 101 om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven) § 11, jf. § 10. EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv 98/34/EF, som endret ved direktiv 98/48/EF). Endret ved forskrifter 1 feb 2003 nr. 112, 7 okt 2005 nr. 1220, 23 mai 2014 nr. 728, 5 sep 2016 nr. 1962 (EØS-høring), 5 sep 2017 nr. 1352 (stadfestelse etter gjennomført EØS-høring), 13 des 2019 nr. 1984 (i kraft 1 jan 2020).
+- **Kilde:** <https://lovdata.no/forskrift/1969-10-09-3815>
+
+1. Følgende gjerdetyper kan brukes:
+   a. Vanlig trådgjerde
+   b. Netting-gjerde (sauegjerde)
+   c. Flettverksgjerde
+2. Hvor ikke spesielle forhold tilsier noe annet, skal gjerdet ha en høyde av 1,10 m over terrenget. All netting og tråd skal være av god kvalitet og dessuten korresjonsbestandig eller rustbeskyttet. Trådtykkelsen skal være minst 2 mm. Netting-gjerde skal være utstyrt med en langsgående tråd av minst 2 mm tykkelse i toppen.
+
+   Trestolper skal være impregnerte og ha et minstetverrsnitt 3″ x 3″ eller 3″. Stolper av materiale som er utsatt for korrosjon skal behandles med korrosjonsbeskyttende maling av nøytral farge.
+
+   Stolpene skal være forsvarlig fundamentert. Innbyrdes avstand mellom stolpene skal ikke overstige 2,5 m.
+3. Vegmyndighetene kan tillate bruk også av andre gjerdetyper når forholdene tilsier det, dog skal følgende bestemmelser legges til grunn:
+   a. Stakittgjerde, gjerde av bord, skigard, steingjerde eller annet gjerde som er snøsamlende eller sikthemmende må ikke brukes ved veg der slike gjerder medvirker til oppsamling av snø på vegområdet, eller hindrer nødvendig sikt.
+   b. Det må ikke brukes piggtråd.
+   c. Grunneier kan på egen bekostning sette opp elektrisk gjerde mot offentlig veg. Elektrisk gjerde forutsettes utført og satt opp etter forskrifter fastsatt av Direktoratet for samfunnssikkerhet og beredskap.
+4. For gjerde langs motorveg og motortrafikkveg kan Vegdirektoratet fastsette nærmere bestemmelser i hvert enkelt tilfelle.
+5. Når særlige hensyn gjør det nødvendig kan vegmyndighetene stille spesielle krav til gjerde, f.eks. høye gjerder forbi skoler, idrettsområder e.l., gjerder ved forretningsområder, parkeringsplasser, ferjeleier mv.
+6. Gjerde langs offentlig veg skal vedlikeholdes forsvarlig. Det må sørges for at gjerdet holdes godt innrettet, at stolpene står vertikalt og at tråd og netting holdes godt strammet.
+
+   Skadede deler skiftes ut og fornyelse av gjerdet eller deler av dette foretas så snart det viser seg nødvendig. For steingjerdet sørges for at muren er i orden.
+
+   Det vises til [veglovens § 47](https://lovdata.no/lov/1963-06-21-23/§47) om tiltak som vegmyndighetene kan iverksette dersom vedlikeholdet forsømmes.
+7. De tidligere regler fastsatt 19. september 1964 opphører å gjelde.
+
+*Endret ved [forskrifter 1 feb 2003 nr. 112](https://lovdata.no/forskrift/2003-02-01-112), [7 okt 2005 nr. 1220](https://lovdata.no/forskrift/2005-10-07-1220) (i kraft 1 juni 2006), [23 mai 2014 nr. 728](https://lovdata.no/forskrift/2014-05-23-728) (i kraft 1 juli 2014), [13 des 2019 nr. 1984](https://lovdata.no/forskrift/2019-12-13-1984) (i kraft 1 jan 2020).*

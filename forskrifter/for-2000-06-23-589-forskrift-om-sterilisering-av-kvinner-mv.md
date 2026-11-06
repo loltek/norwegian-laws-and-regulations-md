@@ -1,0 +1,72 @@
+# Forskrift om godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner og om innberetning til Helsedirektoratet om sterilisering.
+
+- **Korttittel:** Forskrift om sterilisering av kvinner mv.
+- **Datokode:** FOR-2000-06-23-589
+- **DokumentID:** SF/forskrift/2000-06-23-589
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavd.
+- **Hjemmel:** lov 03.06.1977 nr. 57/§14; forskrift 21.12.2001 nr. 1478
+- **Publisert i:** Avd I 2000 1249
+- **I kraft fra:** 2000-06-23
+- **Siste endring i kraft:** 2021-11-01
+- **Sist endret ved:** forskrift 08.10.2021 nr. 2958 fra 2021-11-01
+- **Endrer:** forskrift 28.10.1977 nr. 3; forskrift 09.01.1998 nr. 21
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 23. juni 2000 med hjemmel i lov av 3. juni 1977 nr. 57 om sterilisering § 14. Fremmet av Sosial- og helsedepartementet. Endret ved forskrifter 21 des 2001 nr. 1484, 1 sep 2003 nr. 1111, 25 sep 2006 nr. 1089 (bl.a tittel), 17 jan 2013 nr. 61, 8 okt 2021 nr. 2958 (i kraft 1 nov 2021).
+- **Kilde:** <https://lovdata.no/forskrift/2000-06-23-589>
+
+## Kapittel 1. Godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner
+
+### § 1. Formål
+
+Bestemmelsene i [kapittel 1](for-2000-06-23-589-forskrift-om-sterilisering-av-kvinner-mv.md) skal sikre at sterilisering av kvinner utenfor private og offentlige sykehus, foregår i virksomheter hvor det anses forsvarlig.
+
+### § 2. Virkeområde
+
+Bestemmelsene i [kapittel 1](for-2000-06-23-589-forskrift-om-sterilisering-av-kvinner-mv.md) gjelder sterilisering av kvinner ved laparoskopisk teknikk i virksomheter utenfor sykehus.
+
+### § 3. Statsforvalterens godkjenning
+
+Statsforvalteren kan godkjenne at sterilisering av kvinner foretas i kirurgiske poliklinikker eller i annen ambulant spesialistpraksis utenfor sykehus hvor det anses forsvarlig. For at godkjenning skal kunne gis, må følgende krav være oppfylt:
+
+- inngrepene skal utføres av leger som er spesialister i kvinnesykdommer og fødselshjelp eller spesialister i generell kirurgi, med dokumentert trening innen laparaskopi.
+- virksomheten skal ha rutiner som sikrer mulighet for blodtyping og for gjennomføring av blodtransfusjon ved akutt komplikasjon.
+- spesialist i anestesiologi skal ha ansvaret for overvåkning av pasienten under og etter steriliseringsinngrepet.
+- virksomheten må ha tilfredsstillende rutiner for kontakt med kirurgisk ekspertise for rask håndtering av akutte komplikasjoner.
+
+Godkjenningen kan tilbakekalles dersom virksomheten ikke drives i henhold til lov og forskrift.
+
+*Endret ved forskrifter [1 sep 2003 nr. 1111](https://lovdata.no/forskrift/2003-09-01-1111), [8 okt 2021 nr. 2958](https://lovdata.no/forskrift/2021-10-08-2958) (i kraft 1 nov 2021).*
+
+### § 4. Dispensasjon
+
+Helsedirektoratet kan gi dispensasjon fra kravene i [§ 3](for-2000-06-23-589-forskrift-om-sterilisering-av-kvinner-mv.md).
+
+*Endret ved [forskrifter 21 des 2001 nr. 1484](https://lovdata.no/forskrift/2001-12-21-1484) (i kraft 1 jan 2002), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61).*
+
+## Kapittel 2. Innberetning til Helsedirektoratet om sterilisering
+
+*Overskrift endret ved [forskrifter 21 des 2001 nr. 1484](https://lovdata.no/forskrift/2001-12-21-1484) (i kraft 1 jan 2002), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61).*
+
+### § 5. Innberetning om inngrepene
+
+Lege og sykehus som foretar inngrep etter [lov 3. juni 1977 nr. 57](../lover/lov-1977-06-03-57-steriliseringsloven.md) om sterilisering skal innberette om inngrepene slik Helsedirektoratet fastsetter.
+
+*Endret ved [forskrifter 21 des 2001 nr. 1484](https://lovdata.no/forskrift/2001-12-21-1484) (i kraft 1 jan 2002), [25 sep 2006 nr. 1089](https://lovdata.no/forskrift/2006-09-25-1089), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61).*
+
+### § 5a. Innberetning fra steriliseringsnemndene
+
+Steriliseringsnemndene skal sende innberetning om behandlede søknader i nemnda på skjema som Helsedirektoratet til enhver tid har fastsatt. Innberetningen skal sendes Steriliseringsrådet.
+
+*Tilføyd ved [forskrift 25 sep 2006 nr. 1089](https://lovdata.no/forskrift/2006-09-25-1089), endret ved [forskrift 17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61).*
+
+## Kapittel 3. Ikrafttredelse
+
+### § 6. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+Fra samme tidspunkt oppheves:
+
+- [Forskrifter av 28. oktober 1977 nr. 3](https://lovdata.no/forskrift/1977-10-28-3) om innberetning til departementet ang sterilisering.
+- [Forskrift av 9. januar 1998 nr. 21](https://lovdata.no/forskrift/1998-01-09-21) om godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner.

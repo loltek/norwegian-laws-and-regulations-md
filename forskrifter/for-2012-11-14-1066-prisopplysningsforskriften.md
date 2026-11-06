@@ -1,0 +1,353 @@
+# Forskrift om prisopplysninger mv. for varer og tjenester
+
+- **Korttittel:** Prisopplysningsforskriften
+- **Datokode:** FOR-2012-11-14-1066
+- **DokumentID:** SF/forskrift/2012-11-14-1066
+- **Departement:** Barne- og familiedepartementet
+- **Etat:** Forbruker-, tros- og livssynsavdelingen
+- **Hjemmel:** lov 09.01.2009 nr. 2/§10
+- **Publisert i:** I 2012 hefte 12
+- **Kunngjort:** 2012-11-16 14:00
+- **I kraft fra:** 2013-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 05.11.2025 nr. 2212 fra 2026-01-01
+- **Endrer:** forskrift 22.12.1993 nr. 1221; forskrift 26.01.1996 nr. 122; forskrift 07.06.1996 nr. 666; forskrift 28.11.1997 nr. 1382; forskrift 12.12.1997 nr. 1393; forskrift 06.12.1999 nr. 1256
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2019-01-16 (tilføyd EØS-henvisning i innledningen)
+- **Merknad:** Hjemmel: Fastsatt av Barne-, likestillings- og inkluderingsdepartementet 14. november 2012 med hjemmel i lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven) § 10 annet og tredje ledd. EØS-henvisninger: EØS-avtalen vedlegg XIX nr. 1a (direktiv 98/6/EF endret ved direktiv (EU) 2019/2161) om forbrukervern ved opplysning om priser for forbruksvarer. Endret ved forskrifter 2 juni 2017 nr. 688, 6 des 2017 nr. 1937, 20 juni 2018 nr. 934, 12 des 2018 nr. 2156, 18 mars 2019 nr. 253, 23 sep 2022 nr. 1694 (i kraft 1 nov 2022, bl.a. tittel), 20 juni 2023 nr. 979 (i kraft 1 okt 2023), 21 juni 2024 nr. 1165 (i kraft 1 juli 2024), 16 okt 2024 nr. 2491 (i kraft 1 jan 2025), 5 nov 2025 nr. 2212 (i kraft 1 jan 2026). Rettelser: 16.01.2019 (tilføyd EØS-henvisning i innledningen).
+- **Kilde:** <https://lovdata.no/forskrift/2012-11-14-1066>
+
+## Kapittel 1. Innledning
+
+### § 1. Virkeområde
+
+Forskriften gjelder næringsdrivende som er etablert i Norge og selger varer og tjenester til forbruker.
+
+[Kapittel 2](for-2012-11-14-1066-prisopplysningsforskriften.md) gjelder ikke ved auksjonssalg.
+
+[§ 11 første ledd annet punktum](for-2012-11-14-1066-prisopplysningsforskriften.md) gjelder for all prisopplysning for en tjeneste. [Kapittel 3](for-2012-11-14-1066-prisopplysningsforskriften.md) for øvrig gjelder ikke der det i lov eller forskrift er fastsatt regler om prisopplysning for en tjeneste. [Lov 29. juni 2007 nr. 73 om eiendomsmegling](../lover/lov-2007-06-29-73-eiendomsmeglingsloven.md) og [lov 19. juni 2009 nr. 103 om tjenestevirksomhet](../lover/lov-2009-06-19-103-tjenesteloven.md) anses ikke å ha regler om prisopplysning for en tjeneste og forskriften gjelder. [Lov 18. desember 2020 nr. 146 om finansavtaler](../lover/lov-2020-12-18-146-finansavtaleloven.md) anses å ha regler om prisopplysning for en tjeneste og forskriften gjelder ikke. [§ 14](for-2012-11-14-1066-prisopplysningsforskriften.md) gjelder likevel for banktjenester. [Lov 25. november 2011 nr. 44 om verdipapirfond](../lover/lov-2011-11-25-44-verdipapirfondloven.md) anses å ha bestemmelser om prisopplysning for en tjeneste og forskriften gjelder ikke. [§ 14](for-2012-11-14-1066-prisopplysningsforskriften.md) gjelder likevel for verdipapirfondstjenester. [Lov 21. desember 2005 nr. 124 om obligatorisk tjenestepensjon](../lover/lov-2005-12-21-124-otp-loven.md) har bestemmelser om pristariffer og forskriften gjelder ikke. [§ 14](for-2012-11-14-1066-prisopplysningsforskriften.md) gjelder likevel for tjenester knyttet til pensjonsprodukter.
+
+*Endret ved forskrift [5 nov 2025 nr. 2212](https://lovdata.no/forskrift/2025-11-05-2212) (i kraft 1 jan 2026).*
+
+### § 2. Formålsbestemmelse
+
+Formålet med forskriften er å fremme god prisinformasjon for å bedre konkurransen mellom næringsdrivende og gjøre det enklere for forbrukeren å sammenligne priser.
+
+### § 3. Merverdiavgift mv.
+
+Alle priser det opplyses om skal inkludere merverdiavgift og offentlige avgifter.
+
+## Kapittel 2. Prisopplysning for varer
+
+### § 4. Definisjoner
+
+I dette kapitlet menes med
+
+a. *salgspris*: den fullstendige prisen for en bestemt mengde av varen
+b. *enhetspris*: den fullstendige prisen som angis per liter eller kubikkmeter for varer som selges etter volum, per kilo for varer som selges etter vekt, per meter for varer som selges etter lengde og per kvadratmeter for varer som selges etter flatemål
+c. *varer som selges i løs vekt*: varer som ikke er ferdigpakket, og som veies eller måles opp i forbindelse med kjøpet
+d. *næringsmiddel*: vare som er bestemt for å konsumeres av mennesker, med unntak av legemidler
+e. *nettomengde*: den nettovekten eller det nettovolumet som står oppgitt på en vares pakning, det vil si den varemengden som pakningen anses å inneholde
+f. *hovedvare*: vare uten lake, saus eller lignende, og som er ferdig til bruk uten at annen vare må tilsettes.
+
+### § 5. Krav til prisopplysning
+
+Næringsdrivende skal opplyse om en vares salgspris og enhetspris slik at prisene lett kan ses. Salgsprisen og enhetsprisen skal oppgis like tydelig på eller i umiddelbar nærhet av varen. Enhetsprisen skal angis med to desimaler til venstre for salgsprisen. Prisopplysningsplikten gjelder uten hensyn til hvor varen forevises.
+
+Opplyses det i skriftlig markedsføring om en vares salgspris, skal også enhetsprisen fremgå.
+
+Er salgsprisen identisk med enhetsprisen, er det ikke nødvendig å oppgi enhetsprisen. Selges varer i løs vekt, er det tilstrekkelig å oppgi enhetsprisen.
+
+Kravet til prisopplysning gjelder ikke for tobakksvarer.
+
+*Endret ved [forskrifter 2 juni 2017 nr. 688](https://lovdata.no/forskrift/2017-06-02-688) (i kraft 1 juli 2017), [12 des 2018 nr. 2156](https://lovdata.no/forskrift/2018-12-12-2156) (i kraft 1 jan 2019).*
+
+### § 6. Beregning av enhetspris per kilo og liter
+
+Enhetspris per kilo og liter beregnes slik
+
+a. for produkter som består utelukkende av en hovedvare: salgsprisen divideres med nettomengden av varen
+b. for næringsmidler med saus, lake, vann eller lignende: salgsprisen divideres med mengden av hovedvaren
+c. for næringsmidler som krever tilsetning av vann, krydder eller annen vare med ubetydelig verdi: salgsprisen divideres med mengden av varen som er ferdig til bruk, når anbefalt blandingsforhold legges til grunn.
+
+Ved beregning av enhetspris for varer som ikke selges i løs vekt skal det korrigeres for forventet svinn i tiden frem til salg til forbruker. For varer som frembys i standard nettovekt eller -volum kan enhetsprisen likevel oppgis på grunnlag av standardmengde dersom
+
+a. vekt eller volum ikke avviker mer enn 5 % fra standard mengde eller
+b. vekt eller volum ligger innenfor de toleransegrenser som er fastsatt i [forskrift 21. desember 2007 nr. 1730](https://lovdata.no/forskrift/2007-12-21-1730) om krav til nettoinnhold med videre i ferdigpakninger.
+
+Andre ledd bokstav a gjelder ikke ferdigpakninger.
+
+*Endret ved [forskrift 18 mars 2019 nr. 253](https://lovdata.no/forskrift/2019-03-18-253).*
+
+### § 7. Særskilt måleenhet for beregning av enhetspris
+
+Enhetsprisen skal oppgis per stykk ved salg av servietter, kaffefilter, stearinlys, bleier, bind, tamponger og plast- og bæreposer.
+
+Enhetsprisen skal oppgis per 100 meter ved salg på rull av tørkepapir, toalettpapir, matpapir, bakepapir, aluminiumsfolie, plastfolie, innpakningspapir og limbånd eller tape.
+
+Enhetsprisen skal oppgis per standard vask eller behandling ved salg av følgende varer med anbefalt dosering: rengjøringsmidler til husholdningsbruk, bløtleggingsmidler og tøymyknere.
+
+### § 8. Tvil om en vares enhetspris
+
+Ved tvil avgjør Forbrukertilsynet hvilken måleenhet som skal danne grunnlag for beregningen av en vares enhetspris.
+
+*Endret ved [forskrift 6 des 2017 nr. 1937](https://lovdata.no/forskrift/2017-12-06-1937) (i kraft 1 jan 2018).*
+
+### § 9. Unntak fra krav om enhetspris
+
+Følgende næringsmidler er unntatt fra plikten til å oppgi enhetsprisen:
+
+a. pakninger med nettomengde under 50 gram eller 50 milliliter
+b. varer med ulik enhetspris som selges ferdigpakket i én pakning
+c. ferdig forberedte måltider med klart adskilte komponenter som selges ferdigpakket i én pakning
+d. smørbrød, snitter, kanapéer og lignende
+e. grønnsaker og urter som selges i potte eller bunt
+f. små spesialtomater som selges i beger eller brett
+g. blomkål, brokkoli, stangselleri, agurk, salat og kinakål
+h. konditorvarer, unntatt tørre kaker og kjeks
+i. næringsmidler som krever tilsetning av vare hvor tilsetningsvarens verdi ikke er ubetydelig
+j. kosttilskudd, jf. [forskrift 20. mai 2004 nr. 755](for-2004-05-20-755-forskrift-om-kosttilskudd.md) om kosttilskudd.
+
+Følgende andre varer er unntatt fra plikten til å oppgi enhetsprisen:
+
+a. varer som ikke kan deles uten at varens beskaffenhet eller egenskaper endres
+b. pakninger med nettomengde under 50 gram eller 50 milliliter
+c. varer med ulik enhetspris som selges ferdigpakket i én pakning
+d. legemidler.
+
+### § 9a. Prisnedsettelse
+
+Der prisen på varer markedsføres som nedsatt, skal den næringsdrivende gi informasjon om varens førpris.
+
+Førprisen er den laveste prisen som den næringsdrivende har anvendt i minimum 30 dager før markedsføringen startet. Med laveste pris menes prisen som har blitt anvendt for varen overfor allmennheten, eller andre større grupper av forbrukere som tilhører ulike lojalitetsprogrammer eller kundeklubber. Der prisnedsettelsen øker gradvis, er førprisen den laveste prisen før første prisnedsettelse.
+
+For varer som kan forringes eller foreldes raskt er førprisen den laveste prisen som den næringsdrivende har anvendt umiddelbart før markedsføringen startet.
+
+*Tilføyd ved forskrift [20 juni 2023 nr. 979](https://lovdata.no/forskrift/2023-06-20-979) (i kraft 1 okt 2023), endret ved forskrift [16 okt 2024 nr. 2491](https://lovdata.no/forskrift/2024-10-16-2491) (i kraft 1 jan 2025).*
+
+## Kapittel 3. Prisopplysning for tjenester
+
+### § 10. Opplysningspliktens innhold
+
+Den næringsdrivende skal opplyse om de fullstendige prisene på de tjenestene som tilbys.
+
+Varierer stykkprisen på en tjeneste innenfor et bestemt intervall, skal høyeste og laveste pris innenfor intervallet opplyses. Eventuelle minstepriser skal oppgis.
+
+Er ikke annet opplyst, skal en pris dekke alle materialer og ytelser, også fra underleverandører, som inngår i tjenesten som tilbys. Har den næringsdrivende forretningsvilkår som medfører tillegg til prisen på en tjeneste, skal tilleggene oppgis særskilt.
+
+Er det ikke praktisk mulig å oppgi prisen på en tjeneste som fastsatt i første til tredje ledd, skal den næringsdrivende informere om hvordan prisen på en tjeneste blir beregnet.
+
+Kravene gjelder også ved muntlig prisopplysning, og dersom det ved markedsføring opplyses om priser eller enhetspriser.
+
+Den næringsdrivende skal informere om sine betalingsbetingelser før det inngås avtale med forbruker.
+
+### § 11. Prisliste og prisoppslag
+
+Prisopplysning skal gis ved lett synlig prisoppslag eller ved prisliste lagt frem på det stedet tjenesten vanligvis bestilles. Har den næringsdrivende hjemmeside på Internett, skal oppdatert prisliste også fremgå av hjemmesiden.
+
+Prisliste og prisoppslag skal, så langt det er praktisk mulig, inneholde opplysninger om den næringsdrivendes betalingsbetingelser.
+
+### § 12. Pristilbud
+
+Dersom forbrukeren ber om det, skal den næringsdrivende gi skriftlig pristilbud før avtale om en tjeneste inngås. Pristilbudet skal, med mindre forbrukeren uttrykker ønske om noe annet, inneholde alle deltjenester og varer som inngår i tjenesten og angi totalprisen så langt det er praktisk mulig.
+
+Er prisen på deltjenester og varer usikker, skal forholdene som vil påvirke den endelige prisen, oppgis. Dersom den næringsdrivende etter at tjenesten er påbegynt levert oppdager nye forhold som gjør at prisen vil øke i forhold til tilbudet, skal forbrukeren straks orienteres om det.
+
+### § 13. Spesifisert regning
+
+Den næringsdrivende skal gi forbrukeren spesifisert regning når tjenesten er utført. Regningen skal være så utfyllende at forbrukeren kan kontrollere hvilke varer og tjenester som er mottatt og hvilke priser som er beregnet.
+
+Plikten til å gi spesifisert regning gjelder ikke ved nyoppføring av bolig.
+
+Tilbys håndverkertjenester til en forbruker til forhåndsavtalt pris, plikter den næringsdrivende bare å gi spesifisert regning når forbrukeren krever regning, jf. [lov 16. juni 1989 nr. 63](../lover/lov-1989-06-16-63-haandverkertjenesteloven.md) om håndverktjenester m.m. for forbrukere [§ 36](../lover/lov-1989-06-16-63-haandverkertjenesteloven.md).
+
+### § 14. Prisopplysninger til nettbaserte prisportaler
+
+Næringsdrivende skal registrere prisopplysninger for følgende tjenester i følgende prisportaler:
+
+a. for tannhelsetjenester registreres prisopplysninger i prisportal for tannhelsetjenester
+b. for banktjenester registreres prisopplysninger i Finansportalen
+c. for tjenester knyttet til verdipapirfond registreres prisopplysninger i Finansportalen
+d. for tjenester knyttet til pensjonsprodukter registreres prisopplysninger i Finansportalen. Med pensjonsprodukt menes produkt som kommer til utbetaling ved oppnåelse av fastsatt alder.
+
+Næringsdrivende har plikt til å registrere prisopplysninger på den måte som fastsettes av prisportalen.
+
+*Endret ved forskrift [5 nov 2025 nr. 2212](https://lovdata.no/forskrift/2025-11-05-2212) (i kraft 1 jan 2026).*
+
+## Kapittel 4. Særlig om prisopplysning for gravferdstjenester
+
+### § 15. Prisopplysninger for gravferdstjenester
+
+Et gravferdsbyrå skal ha skriftlige prisopplysninger til utdeling. Prisopplysningene skal tilbys en forbruker uoppfordret ved første gangs henvendelse eller konsultasjon.
+
+Prisopplysningene skal inneholde
+
+a. en liste over priser på alle gravferdsbyråets produkter
+b. en prisoversikt for gravferd, jf. [§ 16](for-2012-11-14-1066-prisopplysningsforskriften.md)
+c. informasjon om hovedpunktene i [folketrygdloven kapittel 7](../lover/lov-1997-02-28-19-folketrygdloven.md) om gravferdsstønad og stønad ved båretransport.
+
+Dersom gravferdsbyrået krever betaling for konsultasjon utenfor byråets lokaler, skal det opplyses om det senest når forbrukeren inngår avtale om konsultasjon. Det samme gjelder dersom byrået krever høyere priser for konsultasjon utenfor ordinær arbeidstid.
+
+### § 16. Prisoversikt for gravferd
+
+I en oversikt over pris for gravferd skal det opplyses om hvilket geografisk område prisene gjelder for. Dersom gravferdsbyrået krever inn kommunale avgifter, skal disse fremgå av prisoversikten.
+
+Prisoversikten skal inneholde minimums- og maksimumspriser for varer og tjenester som gravferdsbyrået leverer eller formidler. Minimums- og maksimumsprisene skal summeres hver for seg, slik at laveste og høyeste totalsum fremgår.
+
+Minimums- og maksimumspriser skal oppgis for
+
+a. kiste, stell og nedlegging i kiste med
+   1. kiste, inkludert alt tilhørende utstyr og svøp/skjorte
+   2. stell og nedlegging i kiste.
+b. transport med
+   1. bringing av den døde på båre fra dødssted til oppbevaringssted
+   2. bringing av kiste til dødssted eller oppbevaringssted for avdøde
+   3. transport fra dødssted eller oppbevaringssted til seremonisted
+   4. transport av utstyr og mannskap til seremoni som byrået tar betalt for
+   5. transport av båre etter seremoni når det er nødvendig
+   6. øvrige tjenester knyttet til transport som byrået tar betalt for.
+c. seremoni med
+   1. priser på assistanse fra henholdsvis én og to gravferdskonsulenter
+   2. pynt og hva pynten inkluderer
+   3. program i 50 eksemplarer
+   4. kistedekorasjon og
+   5. øvrige tjenester knyttet til seremoni som byrået tar betalt for.
+d. honorarer og gebyrer med
+   1. byråets avgiftspliktige og avgiftsfrie honorarer og gebyrer og hva som inngår i honorarene.
+
+Prisoversikten skal inneholde pris for én dødsannonse over én spalte med størrelse på cirka 75 mm i den mest brukte avisen i distriktet.
+
+Minimumsprisen som oppgis etter tredje ledd bokstav d skal dekke planlegging, tilrettelegging og bestilling av varer og tjenester etter tredje ledd bokstav a til c og dødsannonse etter fjerde ledd.
+
+Prisoversikten skal fremgå av byråets hjemmeside på Internett.
+
+### § 17. Pristilbud
+
+Det skal opplyses om varer og tjenester som ikke er inkludert i pristilbudet og som kan medføre vesentlige utgifter i tilknytning til en gravferd. Slike varer og tjenester kan være utgifter til minnesamvær, musikkinnslag, gravstein, inskripsjon og kommunale avgifter.
+
+Inngår transport som gir grunnlag for søknad om transportrefusjon i gravferden, skal byråets pris for transport og refusjonsbeløpet fra folketrygden fremgå av pristilbudet. Byråets transportpris skal oppgis selv om avdøde er under 18 år og det gis full gravferdsstøtte etter [folketrygdloven § 7-2](../lover/lov-1997-02-28-19-folketrygdloven.md) annet ledd første punktum.
+
+Forbrukeren skal gis rimelig tid til å sette seg inn i pristilbudet før hun eller han inngår en avtale om gravferdstjeneste.
+
+## Kapittel 5. Særlig om prisopplysning for tannhelsetjenester
+
+### § 18. Pristilbud for tannhelsetjenester
+
+Vil totalprisen overstige kr 5000 skal tilbyderen av tannhelsetjeneste uoppfordret gi forbrukeren et skriftlig tilbud med totalprisen før behandlingen starter. Pristilbudet kan gis muntlig dersom all behandling foregår i den første konsultasjonen.
+
+Yter folketrygden stønad til tannbehandlingen, skal stønadsbeløpet fremgå av pristilbudet.
+
+## Kapittel 6. Særlig om prisopplysning for transport og salg av elektrisk kraft
+
+### § 19. Definisjoner
+
+I dette kapitlet menes med
+
+a. *spotpris:* prisen i dagen-før-markedet på elektrisk kraft per kWh i det aktuelle prisområdet
+b. *tilleggstjenester:* valgfrie tjenester eller produkter som formidles eller tilbys av kraftleverandøren, og som faktureres i tillegg til de obligatoriske priselementene som kraftleverandøren har satt for levering av elektrisk kraft under den aktuelle avtalen.
+
+*Endret ved forskrift [23 sep 2022 nr. 1694](https://lovdata.no/forskrift/2022-09-23-1694) (i kraft 1 nov 2022).*
+
+### § 20. Opplysninger ved oppfordring til kjøp av kraftavtaler
+
+Ved kommersiell kommunikasjon som utgjør en oppfordring til kjøp etter [markedsføringsloven § 8 tredje](../lover/lov-2009-01-09-2-markedsforingsloven.md) og [fjerde ledd](../lover/lov-2009-01-09-2-markedsforingsloven.md), regnes følgende opplysninger som vesentlige:
+
+a. om avtaletypen er spotpris, fastpris, standard variabel eller annen. Dersom avtalen ikke følger spotpris time for time, skal det opplyses om dette
+b. alle obligatoriske priselementer og størrelsen på disse. Dersom størrelsen på priselementene som kraftleverandøren fastsetter ikke med rimelighet kan utregnes på forhånd, skal det fremgå hvordan prisen beregnes
+c. avtalens og priselementenes varighet, herunder eventuelle garantiers varighet, dersom denne er begrenset
+d. eventuell bindingstid og eventuelt bruddgebyr
+e. perioden det må forskuddsbetales for, dersom avtalen krever forskuddsbetaling
+f. eventuelle vilkår for å kvalifisere for avtalen
+g. at eventuelle tilleggstjenester som tilbys ikke er obligatoriske
+h. at avtalen kan sammenlignes med andre avtaler på Forbrukerrådets strømprisportal. Ved oppfordring til kjøp fremsatt digitalt, skal hyperlenke til Forbrukerrådets strømprisportal inntas.
+
+*Endret ved forskrifter [23 sep 2022 nr. 1694](https://lovdata.no/forskrift/2022-09-23-1694) (i kraft 1 nov 2022), [21 juni 2024 nr. 1165](https://lovdata.no/forskrift/2024-06-21-1165) (i kraft 1 juli 2024).*
+
+### § 21. Prislister
+
+Kraftleverandøren skal ha oppdatert prisliste lett tilgjengelig på det stedet eller i de kanaler der forbrukeren kan inngå kraftavtaler. Har kraftleverandøren hjemmeside, skal oppdatert prisliste også fremgå der. Opplysningene i prislisten skal presenteres på en klar og tydelig måte.
+
+Prislisten skal inneholde en samlet oversikt over priser og vilkår for alle kraftleverandørens ulike kraftavtaler, herunder kraftavtaler som ikke lenger tilbys, men som kraftleverandøren har aktive kundeforhold på.
+
+Prislisten skal for hver enkelt kraftavtale per prisområde angi navnet på kraftavtalen, avtaletypen, pris og lenke til avtalevilkår. Dersom kraftleverandøren opererer med ulike priselementer på de samme kraftavtalene, skal det opplyses om laveste og høyeste pris i form av et prisintervall fra–til. Prislisten skal inneholde informasjon om at forbrukeren kan sammenligne kraftavtaler på Forbrukerrådets strømprisportal.
+
+*Endret ved forskrift [23 sep 2022 nr. 1694](https://lovdata.no/forskrift/2022-09-23-1694) (i kraft 1 nov 2022).*
+
+### § 22. Varsling av endringer i eller opphør av kraftavtalen
+
+Kraftleverandøren skal varsle forbruker om alle endringer i eller opphør av kraftavtalen, herunder endringer i prisen som er avtalt ved inngåelsen av kraftavtalen. Unntak gjelder for endringer i spotprisen.
+
+I varselet til forbruker skal det informeres om årsaken til endringen eller opphøret, og at forbrukeren har rett til å si opp kraftavtalen kostnadsfritt, jf. [energiloven § 4A-4 annet ledd](../lover/lov-1990-06-29-50-energiloven.md). Varselet skal utformes på en slik måte at innholdet og endringen er klart og tydelig for forbrukeren. I varselet skal pris og vilkår før og etter endringen synliggjøres.
+
+Varselet skal gis separat og må ikke sammenblandes med annen informasjon fra kraftleverandør.
+
+Varselet skal gis til forbruker i form av SMS og e-post. I de tilfeller der forbrukeren ikke har samtykket til digital kommunikasjonsform, skal varselet gis i brev.
+
+Varselet skal gis på et passende tidspunkt, og senest 30 dager før endringen eller opphøret skal tre i kraft.
+
+*Endret ved forskrifter [23 sep 2022 nr. 1694](https://lovdata.no/forskrift/2022-09-23-1694) (i kraft 1 nov 2022), [21 juni 2024 nr. 1165](https://lovdata.no/forskrift/2024-06-21-1165) (i kraft 1 juli 2024).*
+
+## Kapittel 7. Særlig om prisopplysning for serveringssteder
+
+### § 23. Definisjon
+
+Med et serveringssted menes restaurant, kafé, pub og annet sted som serverer mat eller drikke i næringsvirksomhet.
+
+### § 24. Prisoppslag
+
+Et serveringssted skal ha daterte prisoppslag som lett kan ses av forbrukerne før de går inn i serveringsstedet. Prisopplysningene kan gis i form av prisintervall for kategorier i menyen, og skal inneholde eventuelle inngangspenger og lignende.
+
+### § 25. Drikkevarer
+
+Prisopplysningene for drikkevarer skal gi informasjon om mengdene.
+
+Prisopplysningsplikten for alkoholholdige drikkevarer som er omfattet av reklameforbudet i § 9-2 i [lov 2. juni 1989 nr. 27](../lover/lov-1989-06-02-27-alkoholloven.md) om omsetning av alkoholholdig drikk m.v. er begrenset til prisintervall innenfor hver kategori av vin og øl.
+
+Kravene til prisoppslag i [§ 11](for-2012-11-14-1066-prisopplysningsforskriften.md) og [§ 24](for-2012-11-14-1066-prisopplysningsforskriften.md) gjelder ikke brennevin.
+
+## Kapittel 7A. Dagligvareportalen
+
+*Tilføyd ved [forskrift 2 juni 2017 nr. 688](https://lovdata.no/forskrift/2017-06-02-688) (i kraft 1 juli 2017), opphevet ved [forskrift 12 des 2018 nr. 2156](https://lovdata.no/forskrift/2018-12-12-2156) (i kraft 1 jan 2019).*
+
+### § 25a. (Opphevet)
+
+*Tilføyd ved [forskrift 2 juni 2017 nr. 688](https://lovdata.no/forskrift/2017-06-02-688) (i kraft 1 juli 2017), opphevet ved [forskrift 12 des 2018 nr. 2156](https://lovdata.no/forskrift/2018-12-12-2156) (i kraft 1 jan 2019).*
+
+### § 25b. (Opphevet)
+
+*Tilføyd ved [forskrift 2 juni 2017 nr. 688](https://lovdata.no/forskrift/2017-06-02-688) (i kraft 1 juli 2017), opphevet ved [forskrift 12 des 2018 nr. 2156](https://lovdata.no/forskrift/2018-12-12-2156) (i kraft 1 jan 2019).*
+
+### § 25c. (Opphevet)
+
+*Tilføyd ved [forskrift 2 juni 2017 nr. 688](https://lovdata.no/forskrift/2017-06-02-688) (i kraft 1 juli 2017), opphevet ved [forskrift 12 des 2018 nr. 2156](https://lovdata.no/forskrift/2018-12-12-2156) (i kraft 1 jan 2019).*
+
+## Kapittel 7B. Særlig om prisopplysninger for drosjetjenester
+
+*Tilføyd ved [forskrift 20 juni 2018 nr. 934](https://lovdata.no/forskrift/2018-06-20-934) (i kraft 1 juli 2018).*
+
+### § 25d. Pristilbud for drosjetjenester
+
+Dersom forbrukeren oppgir et tilstrekkelig avgrenset bestemmelsessted for en ønsket drosjetjeneste, skal tilbyderen uoppfordret gi forbrukeren et pristilbud før de inngår en avtale om transport. Pristilbudet skal angi totalprisen for drosjetjenesten.
+
+Tilbyderen skal opplyse forbrukeren om at forbrukeren skal betale den laveste totalprisen av pristilbudet, en fastpris som eventuelt tilbys på strekningen og parallelltaksten med eventuelle tillegg, jf. [forskrift 30. september 2010 nr. 1307](for-2010-09-30-1307-forskrift-om-makspriser-for-drosjebilkjoring.md) om takstberegning og maksimalpriser for løyvepliktig drosjetransport med motorvogn [§ 3](for-2010-09-30-1307-forskrift-om-makspriser-for-drosjebilkjoring.md) andre ledd, jf. [§ 2](for-2010-09-30-1307-forskrift-om-makspriser-for-drosjebilkjoring.md) andre punktum.
+
+*Tilføyd ved [forskrift 20 juni 2018 nr. 934](https://lovdata.no/forskrift/2018-06-20-934) (i kraft 1 juli 2018).*
+
+### § 25e. Spesifisert kvittering for en drosjetjeneste
+
+Tilbyderen skal gi forbrukeren en spesifisert kvittering når drosjetjenesten er utført. Kvitteringen skal inneholde pristilbudet etter [§ 25d](for-2012-11-14-1066-prisopplysningsforskriften.md) og utfyllende opplysninger om hvordan parallelltaksten er beregnet, det vil si oppgi de aktuelle takstelementene og tilleggene etter [forskrift 30. september 2010 nr. 1307](for-2010-09-30-1307-forskrift-om-makspriser-for-drosjebilkjoring.md) om takstberegning og maskimalpriser for løyvepliktig drosjetransport med motorvogn.
+
+*Tilføyd ved [forskrift 20 juni 2018 nr. 934](https://lovdata.no/forskrift/2018-06-20-934) (i kraft 1 juli 2018).*
+
+## Kapittel 8. Avsluttende bestemmelser
+
+### § 26. Ikrafttredelse
+
+Forskriften gjelder fra 1. januar 2013. Fra samme tid oppheves
+
+- [forskrift 22. desember 1993 nr. 1221](https://lovdata.no/forskrift/1993-12-22-1221) om prisopplysning ved overnattings- og serveringssteder
+- [forskrift 26. januar 1996 nr. 122](https://lovdata.no/forskrift/1996-01-26-122) om prisopplysning ved tannlegetjenester m.m.
+- [forskrift 7. juni 1996 nr. 666](https://lovdata.no/forskrift/1996-06-07-666) om prisopplysning ved transport og salg av elektrisk kraft
+- [forskrift 28. november 1997 nr. 1382](https://lovdata.no/forskrift/1997-11-28-1382) om prisopplysning for tjenester
+- [forskrift 12. desember 1997 nr. 1393](https://lovdata.no/forskrift/1997-12-12-1393) om prisopplysning for gravferdstjenester
+- [forskrift 6. desember 1999 nr. 1256](https://lovdata.no/forskrift/1999-12-06-1256) om prisopplysning for varer.

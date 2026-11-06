@@ -1,0 +1,151 @@
+# Forskrift om kondensert melk og melkepulver
+
+- **Datokode:** FOR-2003-07-08-930
+- **DokumentID:** SF/forskrift/2003-07-08-930
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Avd. for matpolitikk
+- **Hjemmel:** lov 19.12.2003 nr. 124/§9; forskrift 19.12.2003 nr. 1790
+- **Publisert i:** I 2003 hefte 10
+- **Kunngjort:** 2003-07-11
+- **I kraft fra:** 2003-07-17
+- **Siste endring i kraft:** 2008-09-12
+- **Sist endret ved:** forskrift 12.09.2008 nr. 1012
+- **Endrer:** forskrift 20.12.1993 nr. 1376
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2003-09-10 (§ 4 og vedlegg 1)
+- **Merknad:** Hjemmel: Fastsatt av Landbruks- og matdepartementet (tidligere Landbruksdepartementet) 8. juli 2003 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 9 første ledd, jf. delegeringsvedtak 19. desember 2003 nr. 1790. EØS-henvisninger: EØS-avtalen vedlegg II kap. XII nr. 54zs (direktiv 2001/114/EF endret ved direktiv 2007/61/EF). Endret ved forskrifter 9 jan 2004 nr. 147 (bl.a hjemmel), 12 sep 2008 nr. 1012 (bl.a hjemmel).
+- **Kilde:** <https://lovdata.no/forskrift/2003-07-08-930>
+
+## § 1. Omfang
+
+Denne forskriften omfatter bestemmelser om produktspesifikasjoner og merking av kondensert melk og melkepulver som skal omsettes.
+
+Forskriften gjelder ikke for produkter som omfattes av gjeldende forskrift om morsmelkerstatning og tilskuddsblandinger.
+
+*Endret ved [forskrift 9 jan 2004 nr. 147](https://lovdata.no/forskrift/2004-01-09-147).*
+
+## § 2. Generelt
+
+Produktene som omfattes av denne forskriften skal oppfylle produktdefinisjonene i vedlegg 1 og skal omsettes med de varebetegnelsene som er angitt i vedlegget.
+
+*Endret ved [forskrift 9 jan 2004 nr. 147](https://lovdata.no/forskrift/2004-01-09-147).*
+
+## § 3. Varebetegnelser
+
+Varebetegnelsene i vedlegg 1 er forbeholdt produktene som er definert der.
+
+## § 4. Merking
+
+Produktene som omfattes av denne forskriften skal ved omsetning være merket etter gjeldende forskrifter om merking mv. av næringsmidler, identifikasjonsmerking av næringsmiddelpartier og deklarasjon av næringsinnhold, med de tillegg og unntak som følger av denne forskriften.
+
+Disse tilleggene og unntakene er:
+
+1. I merkingen skal melkefettinnholdet angis i vektprosent av det ferdige produktet. Dette gjelder ikke for produktene som er definert i vedlegg 1 nr. 1 bokstav d, g, og nr. 2 bokstav d. Det prosentvise innhold fettfritt melketørrstoff skal angis for produktene som er definert i vedlegg 1 nr. 1. Angivelsen skal gis i samme synsfelt som varebetegnelsen.
+2. For produktene som er definert i vedlegg 1 nr. 2 skal merkingen inneholde bruksanvisning for oppløsnings- eller rekonstitueringsmåten. Fettinnholdet i det oppløste eller rekonstituerte produktet skal angis.
+3. Produkter som veier under 20 g pr. enhet kan merkes med bare varebetegnelsen hvis de pakkes i en felles ytteremballasje som er merket i samsvar med denne forskriften.
+4. For produktene som er definert i vedlegg 1 nr. 2 skal det angis i merkingen at «produktet ikke er beregnet som næringsmiddel for barn under 12 måneder».
+
+*Endret ved [forskrift 9 jan 2004 nr. 147](https://lovdata.no/forskrift/2004-01-09-147).*
+
+## § 5. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.
+
+*Endret ved [forskrift 9 jan 2004 nr. 147](https://lovdata.no/forskrift/2004-01-09-147).*
+
+## § 6. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+*Endret ved [forskrift 9 jan 2004 nr. 147](https://lovdata.no/forskrift/2004-01-09-147).*
+
+## § 7. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrift 9 jan 2004 nr. 147](https://lovdata.no/forskrift/2004-01-09-147).*
+
+## § 8. Overgangsbestemmelse
+
+Omsetning av produktene som omfattes av forskriften, og som er merket innen 17. juli 2004 i samsvar med [forskrift av 20. desember 1993 nr. 1376](https://lovdata.no/forskrift/1993-12-20-1376) om konservert helt eller delvis dehydrert melk, er tillatt inntil lagrene er brukt opp.
+
+*Endret ved [forskrift 9 jan 2004 nr. 147](https://lovdata.no/forskrift/2004-01-09-147).*
+
+## § 9. Ikrafttredelse
+
+Denne forskriften trer i kraft 17. juli 2003. Samtidig oppheves [forskrift av 20. desember 1993 nr. 1376](https://lovdata.no/forskrift/1993-12-20-1376) om konservert helt eller delvis dehydrert melk.
+
+## Vedlegg 1. Varebetegnelser og produktdefinisjoner
+
+1) *Kondensert melk*
+
+Kondensert melk er det flytende produktet, søtet eller usøtet, som framkommer ved delvis fjerning av vann fra melk. Melkeråvaren kan være helmelk, helt eller delvis skummet melk, eller en blanding av forannevnte. Melkeråvaren kan tilsettes fløte og/eller melkepulver. I det ferdige produktet skal andelen av melkepulver utgjøre maksimum 25% av produktets totale tørrstoffinnhold.
+
+– Ulike typer usøtet kondensert melk:
+
+a. Usøtet kondensert melk med høyt fettinnhold
+
+   Kondensert melk med minimum 15 vektprosent fett og minimum 26,5 vektprosent melketørrstoff totalt.
+b. Usøtet kondensert melk
+
+   Kondensert melk med minimum 7,5 vektprosent fett og minimum 25 vektprosent melketørrstoff totalt.
+c. Usøtet kondensert delvis skummet melk
+
+   Kondensert melk med minimum 1 og mindre enn 7,5 vektprosent fett, og minimum 20 vektprosent melketørrstoff totalt.
+d. Usøtet kondensert skummet melk
+
+   Kondensert melk med maksimum 1 vektprosent fett og minimum 20 vektprosent melketørrstoff totalt.
+
+– Ulike typer søtet kondensert melk:
+
+a. Søtet kondensert melk
+
+   Kondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med minimum 8 vektprosent fett og minimum 28 vektprosent melketørrstoff totalt.
+b. Søtet kondensert delvis skummet melk
+
+   Kondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med minimum 1 og mindre enn 8 vektprosent fett og minimum 24 vektprosent melketørrstoff totalt.
+c. Søtet kondensert skummet melk
+
+   Kondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med maksimum 1 vektprosent fett og minimum 24 vektprosent melketørrstoff totalt.
+
+2) *Melkepulver*
+
+Melkepulver er det produktet i pulverform som framkommer ved fjerning av vann fra melk til det gjenstår maksimum 5 vektprosent vann. Melkeråvaren kan være helmelk, helt eller delvis skummet melk, fløte eller en blanding av forannevnte.
+
+a. Melkepulver med høyt fettinnhold
+
+   Melkepulver med minimum 42 vektprosent fett.
+b. Melkepulver av helmelk
+
+   Melkepulver med minimum 26 og mindre enn 42 vektprosent fett.
+c. Melkepulver av delvis skummet melk
+
+   Melkepulver med mer enn 1,5 og mindre enn 26 vektprosent fett.
+d. Melkepulver av skummet melk
+
+   Melkepulver med maksimum 1,5 vektprosent fett.
+
+3) *Framstilling*
+
+a. Ved framstilling av produktene som er definert i vedlegg 1 nr. 1 bokstav e, f og g, er det tillatt å tilsette laktose i en mengde på maksimum 0,03 vektprosent av det ferdige produktet.
+b. Med forbehold for bestemmelsene i forskrift om særlige hygieneregler for næringsmidler av animalsk opprinnelse, konserveres produktene i nr. 1 og 2 på følgende måter:
+   - ved varmebehandling (sterilisering, UHT osv.) for produktene i vedlegg 1 nr. 1 bokstav a, b, c og d,
+   - ved tilsetning av sukrose for produktene i vedlegg 1 nr. 1 bokstav e, f og g,
+   - ved fjerning av vann for produktene i vedlegg 1 nr. 2.
+c. Med forbehold for kravene til sammensetning i dette vedleggets [pkt. 1](for-2003-07-08-930-forskrift-om-kondensert-melk-og-melkepulver.md) og 2, kan proteininnholdet i melk justeres til et minimumsnivå på 34 vektprosent (uttrykt i fettfritt tørrstoff) gjennom tilsetning og/eller fjerning av melkebestanddeler på en slik måte at forholdet mellom myseprotein og kasein ikke endres i melken.
+
+4) *Tillatte råvarer for justering av proteininnhold*
+
+For justering av proteininnhold kan følgende råvarer brukes:
+
+- Retentat fra melk
+
+  Retentat er det produktet som framkommer når melkeprotein konsentreres ved ultrafiltrering av melk. Melkeråvaren kan være helmelk, delvis skummet melk eller skummet melk.
+- Permeat fra melk
+
+  Permeat er det produktet som framkommer når melkeprotein og melkefett fjernes ved ultrafiltrering av melk. Melkeråvaren kan være helmelk, delvis skummet melk eller skummet melk.
+- Laktose
+
+  Laktose er en naturlig bestanddel i melk, vanligvis framstilt fra myse. Mysen har et vannfritt laktoseinnhold på minst 99,0 % m/m uttrykt som tørrstoff. Laktosen kan være vannfri eller inneholde ett molekyl krystallvann, eller være en blanding av begge formene.
+
+*Vedlegget endret ved [forskrifter 9 jan 2004 nr. 147](https://lovdata.no/forskrift/2004-01-09-147), [12 sep 2008 nr. 1012](https://lovdata.no/forskrift/2008-09-12-1012).*

@@ -1,0 +1,72 @@
+# Forskrift om godkjenning for utdanningsstøtte i Norge
+
+- **Datokode:** FOR-2020-03-27-562
+- **DokumentID:** SF/forskrift/2020-03-27-562
+- **Departement:** Kunnskapsdepartementet
+- **Etat:** Avdeling for videregående opplæring, fagskole og kompetansepolitikk (VFK)
+- **Hjemmel:** lov 03.06.2005 nr. 37/§4; lov 03.06.2005 nr. 37/§21
+- **Kunngjort:** 2020-04-03 10:30
+- **I kraft fra:** 2020-04-15
+- **Siste endring i kraft:** 2025-04-15
+- **Sist endret ved:** forskrift 27.02.2025 nr. 349 fra 2025-04-15
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-06-29 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Kunnskapsdepartementet 27. mars 2020 med hjemmel i lov 3. juni 2005 nr. 37 om utdanningsstøtte (utdanningsstøtteloven) § 4 og § 21. Endret ved forskrifter 24 mars 2021 nr. 1027, 23 juni 2021 nr. 2173 (i kraft straks, med virkning fra 16 aug 2021), 4 mars 2024 nr. 377 (i kraft 15 april 2024, med virkning fra 16 aug 2024), 27 feb 2025 nr. 349 (i kraft 15 april 2025 med virkning fra 16 aug 2025). Rettelser 29.06.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2020-03-27-562>
+
+## § 1. Virkeområde
+
+Forskriften gjelder godkjenning for utdanningsstøtte fra Lånekassen av utdanninger i Norge.
+
+## § 2. Krav til utdanningene
+
+En utdanning som tilbys av et lærested i Norge godkjennes for utdanningsstøtte dersom utdanningen omfattes av [§ 3](for-2020-03-27-562-forskrift-om-godkjenning-for-utdanningsstotte-i-norge.md) eller [§ 4](for-2020-03-27-562-forskrift-om-godkjenning-for-utdanningsstotte-i-norge.md) og varer i minst ett semester.
+
+Det gjøres unntak fra kravet om varighet for grunnutdanning for yrkessjåfør og forkurs eller sommerkurs ved universiteter og høyskoler. Det kan også gjøres unntak for utdanning som har sammenheng med søkerens yrke eller tidligere utdanning.
+
+Hvis en utdanning ikke lenger oppfyller vilkårene for godkjenning, har søkeren rett til lån og stipend ut påbegynt semester. Et høstsemester varer normalt fra 16. august til 15. januar, og et vårsemester fra 16. januar til 15. juni.
+
+## § 3. Krav om godkjenning etter en utdanningslov
+
+Videregående opplæring etter [opplæringslova](https://lovdata.no/lov/2023-06-09-30) eller [privatskolelova](https://lovdata.no/lov/2003-07-04-84) godkjennes for utdanningsstøtte.
+
+Forberedende opplæring for voksne etter [opplæringslova](https://lovdata.no/lov/2023-06-09-30) godkjennes for utdanningsstøtte. Opplæringen skal være stedbasert.
+
+Utdanning etter [folkehøyskoleloven](https://lovdata.no/lov/2002-12-06-72) eller etter [privatskolelova § 6A-1](https://lovdata.no/lov/2003-07-04-84/§6A-1) godkjennes for utdanningsstøtte.
+
+Utdanning etter [universitets- og høyskoleloven](https://lovdata.no/lov/2005-04-01-15) eller [fagskoleloven](../lover/lov-2018-06-08-28-fagskoleloven.md) godkjennes for utdanningsstøtte.
+
+Utdanning som tilsvarer universitets- og høyskoleutdanning ved offentlige utdanningsinstitusjoner eller som følger læreplaner for videregående opplæring ved nettskoler eller studieforbund som er godkjent etter voksenopplæringsloven, godkjennes for utdanningsstøtte. Utdanningen skal føre frem til eksamen.
+
+*Endret ved forskrifter [24 mars 2021 nr. 1027](https://lovdata.no/forskrift/2021-03-24-1027), [4 mars 2024 nr. 377](https://lovdata.no/forskrift/2024-03-04-377) (i kraft 15 april 2024, med virkning fra 16 aug 2024).*
+
+## § 4. Andre utdanninger som godkjennes
+
+Utdanning som følger læreplaner for videregående opplæring og som fører frem til eksamen for privatister, godkjennes for utdanningsstøtte.
+
+Grunnutdanning for yrkessjåfør ved trafikkskoler som er godkjent av Statens vegvesen, godkjennes for utdanningsstøtte. Som grunnutdanning for yrkessjåfør menes komprimert utdanning på 140 timer. Nødvendig førerkortopplæring i klasse C, CE eller D godkjennes for utdanningsstøtte dersom opplæringen gjennomføres i sammenheng med grunnutdanningen.
+
+Utdanning på nivå med det andre året i en amerikansk bachelorutdanning ved American College of Norway godkjennes for utdanningsstøtte.
+
+Utdanning på nivå med norsk videregående opplæring som følger læreplaner fastsatt av International Baccalaureate Organization (IBO), godkjennes for utdanningsstøtte.
+
+*Endret ved forskrift [4 mars 2024 nr. 377](https://lovdata.no/forskrift/2024-03-04-377) (i kraft 15 april 2024, med virkning fra 16 aug 2024).*
+
+## § 5. Utdanninger som ikke godkjennes
+
+Følgende utdanninger godkjennes ikke for utdanningsstøtte:
+
+a. utdanning i Forsvaret
+b. etatsopplæring eller oppdragsutdanning som ikke er rettet mot enkeltstudenter og der alle studentene jobber i samme virksomhet. Som etatsopplæring regnes utdanninger i virksomhet som kvalifiserer til et yrke, er lønnet og medfører plikttjeneste etterpå. Som oppdragsutdanning regnes utdanningstilbud som tilbys mot vederlag, og finansieres av andre enn utdanningsinstitusjonen.
+c. norskopplæring når opplæringen ikke skjer i kombinasjon med annen godkjent utdanning
+d. ph.d.-utdanning.
+
+*Endret ved forskrifter [23 juni 2021 nr. 2173](https://lovdata.no/forskrift/2021-06-23-2173) (i kraft straks, med virkning fra 16 aug 2021), [4 mars 2024 nr. 377](https://lovdata.no/forskrift/2024-03-04-377) (i kraft 15 april 2024, med virkning fra 16 aug 2024), [27 feb 2025 nr. 349](https://lovdata.no/forskrift/2025-02-27-349) (i kraft 15 april 2025 med virkning fra 16 aug 2025).*
+
+## § 6. Plikt til å melde fra om endringer
+
+Et lærested med utdanninger som er godkjent for utdanningsstøtte, har plikt til å melde fra fortløpende om vesentlige endringer i utdanningene som kan ha betydning for godkjenningen.
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft fra 15. april 2020.

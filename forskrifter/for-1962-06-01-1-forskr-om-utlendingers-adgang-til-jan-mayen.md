@@ -1,0 +1,99 @@
+# Forskrifter om utlendingers adgang til Jan Mayen
+
+- **Korttittel:** Forskr. om utlendingers adgang til Jan Mayen
+- **Datokode:** FOR-1962-06-01-1
+- **DokumentID:** SF/forskrift/1962-06-01-1
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Polaravd.
+- **Hjemmel:** lov 27.02.1930 nr. 2/§2; lov 15.05.2008 nr. 35/§6
+- **Publisert i:** II 1965 s 227
+- **I kraft fra:** 1962-07-01
+- **Siste endring i kraft:** 2022-05-01
+- **Sist endret ved:** forskrift 29.04.2022 nr. 645 fra 2022-05-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Justisdepartementet (1. juni 1962 med hjemmel i Kronprinsreg.res. 25. januar 1957 nr. 9750, jf. lov 27. februar 1930 nr. 2 om Jan Mayen § 2, jf. lov 27. juli 1956 § 29 om utlendingers adgang til riket m.v. (Fremmedloven). Tilføyd hjemmel: Lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven) § 6. Endret ved forskrift 29 april 2022 nr. 645 (i kraft 1 mai 2022).
+- **Kilde:** <https://lovdata.no/forskrift/1962-06-01-1>
+
+## I. Passplikt m.v.
+
+### § 1. (Opphevet)
+
+**Opphevet* ved [forskrift 29 april 2022 nr. 645](https://lovdata.no/forskrift/2022-04-29-645) (i kraft 1 mai 2022).*
+
+### § 2. (Opphevet)
+
+**Opphevet* ved [forskrift 29 april 2022 nr. 645](https://lovdata.no/forskrift/2022-04-29-645) (i kraft 1 mai 2022).*
+
+## II. Visumplikt.
+
+### § 3. (Opphevet)
+
+**Opphevet* ved [forskrift 29 april 2022 nr. 645](https://lovdata.no/forskrift/2022-04-29-645) (i kraft 1 mai 2022).*
+
+## III. Inn- og utreisekontroll.
+
+### § 4. (Opphevet)
+
+**Opphevet* ved [forskrift 29 april 2022 nr. 645](https://lovdata.no/forskrift/2022-04-29-645) (i kraft 1 mai 2022).*
+
+### § 5. (Opphevet)
+
+**Opphevet* ved [forskrift 29 april 2022 nr. 645](https://lovdata.no/forskrift/2022-04-29-645) (i kraft 1 mai 2022).*
+
+### § 6. (Opphevet)
+
+**Opphevet* ved [forskrift 29 april 2022 nr. 645](https://lovdata.no/forskrift/2022-04-29-645) (i kraft 1 mai 2022).*
+
+### § 7. (Opphevet)
+
+**Opphevet* ved [forskrift 29 april 2022 nr. 645](https://lovdata.no/forskrift/2022-04-29-645) (i kraft 1 mai 2022).*
+
+## IV. Oppholdstillatelse.
+
+### § 8.
+
+Utlending som kommer til Jan Mayen, kan av politiet gis tillatelse til å oppholde seg der i inntil 1 uke under forutsetning av at han etter oppholdstidens utløp vil kunne forlate øya med skip eller fly. Dersom en utlending akter å ta opphold ut over 1 uke, må han på forhånd skaffe seg tillatelse til det av Justisdepartementet. Eventuell tillatelse gis gebyrfritt.
+
+Utlending som nektes oppholdstillatelse, skal pålegges straks å forlate Jan Mayen.
+
+### § 9.
+
+Politiet skal føre register over utlendinger som gis tillatelse til å oppholde seg på Jan Mayen.
+
+## V. Arbeidstillatelse.
+
+### § 10.
+
+Utlending som vil ta arbeid av enhver art på Jan Mayen må på forhånd skaffe seg særskilt tillatelse til det av Justisdepartementet.
+
+## VI. Avvisning og utvisning.
+
+### § 11.
+
+Utlending som kommer til Jan Mayen uten gyldig pass eller med uvisert pass i de tilfeller hvor visum er foreskrevet, eller som ikke iakttar bestemmelsene i disse forskrifter, skal som regel avvises (nektes adgang til Jan Mayen).
+
+For øvrig kan politiet avvise enhver utlending dersom hans forhold tilsier det.
+
+### § 12.
+
+Utlending som går i land på Jan Mayen uten å melde seg og legitimere seg som bestemt i disse forskrifter eller som handler i strid med lover og forskrifter som gjelder på Jan Mayen, kan utvises etter beslutning av politiet.
+
+Før utvisningsbeslutning treffes, skal utlendingen gis anledning til å forklare seg, og hans forklaring skal nedtegnes.
+
+Utvisningsbeslutningen anmerkes i utlendingens pass. Den utviste kan pålegges å betale utgiftene ved iverksettelse av utvisningsbeslutningen.
+
+### § 13.
+
+Den som er besluttet utvist kan ikke reise inn igjen i riket uten etter særskilt tillatelse fra Justisdepartementet. Kommer han til riket uten slik tillatelse, vil han kunne straffes etter [straffelovens § 342](../lover/lov-2005-05-20-28-straffeloven.md). Han skal gjøres oppmerksom på dette når beslutningen om utvisning blir meddelt.
+
+### § 14.
+
+Politiet fører eget register over foretatte utvisninger, og det sender straks telegrafisk innberetning om utvisningsbeslutninger til politimesteren i Troms med angivelse av utlendingens fulle navn, fødselsår og fødselsdatum, samt når utvisningsbeslutningen er truffet og grunnen til denne.
+
+Politimesteren i Troms sender straks innberetningen videre til Statens utlendingskontor, som videresender den til Justisdepartementet.
+
+## VII. Ikrafttreden.
+
+### § 15.
+
+Disse forskrifter trer i kraft fra og med 1. juli 1962.

@@ -1,0 +1,165 @@
+# Forskrift om fastsetting av myndighet mv. etter kulturminneloven
+
+- **Datokode:** FOR-2019-02-15-127
+- **DokumentID:** SF/forskrift/2019-02-15-127
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Kulturminneavd.
+- **Hjemmel:** lov 09.06.1978 nr. 50/§28; lov/1967-02-10/§28
+- **Kunngjort:** 2019-02-18 14:30
+- **I kraft fra:** 2020-01-01
+- **Siste endring i kraft:** 2020-01-01
+- **Sist endret ved:** forskrift 13.12.2019 nr. 1747 fra 2020-01-01, forskrift 13.12.2019 nr. 1749
+- **Endrer:** forskrift 09.02.1979 nr. 8785
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 15. februar 2019 med hjemmel i lov 9. juni 1978 nr. 50 om kulturminner § 28 og lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 28 fjerde ledd. Fremmet av Klima- og miljødepartementet. Endret ved forskrifter 13 des 2019 nr. 1749 (ikrafttredelse), 13 des 2019 nr. 1747 (i kraft 1 jan 2020).
+- **Kilde:** <https://lovdata.no/forskrift/2019-02-15-127>
+
+## § 1. Definisjoner
+
+I forskriften menes med
+
+a. *universitetsmuseene:*
+   - Arkeologisk museum, Universitetet i Stavanger
+   - Kulturhistorisk museum, Universitetet i Oslo
+   - Tromsø Museum, Universitetet i Tromsø
+   - Universitetsmuseet i Bergen, Universitetet i Bergen
+   - Vitenskapsmuseet, Norges teknisk-naturvitenskapelige universitet (NTNU)
+b. *sjøfartsmuseene:*
+   - Museum Stavanger, avdeling Stavanger maritime museum
+   - Museum Vest, avdeling Bergens Sjøfartsmuseum
+   - Norsk Folkemuseum, avdeling Norsk Maritim Museum
+   - Tromsø Museum, Universitetet i Tromsø
+   - Vitenskapsmuseet, Norges teknisk-naturvitenskapelige universitet (NTNU)
+c. *forvaltningsmuseene:*
+   - universitetsmuseene og sjøfartsmuseene
+d. *NIKU:*
+   - Norsk institutt for kulturminneforskning.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 2. Riksantikvarens myndighet
+
+(1) Riksantikvaren har myndighet etter [kulturminneloven § 4](../lover/lov-1978-06-09-50-kulturminneloven.md) og [§ 5](../lover/lov-1978-06-09-50-kulturminneloven.md). Riksantikvaren har myndighet etter [kulturminneloven § 6](../lover/lov-1978-06-09-50-kulturminneloven.md) til å avgrense sikringssonen rundt automatisk fredete kulturminner som omfattes av sjette ledd og rundt byggverk som nevnt i [kulturminneloven § 4](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd. Riksantikvaren har myndighet etter [kulturminneloven § 9](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd fjerde punktum og [§ 10](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd. Riksantikvaren har myndighet til å avgjøre om det skal gjennomføres tiltak som nevnt i [kulturminneloven § 11](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd bokstav a og b.
+
+(2) Riksantikvaren har myndighet etter [kulturminneloven § 8](../lover/lov-1978-06-09-50-kulturminneloven.md) og [§ 14](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd i saker som gjelder kulturminner som omfattes av sjette ledd.
+
+(3) Riksantikvaren har myndighet til å gi tillatelse etter [kulturminneloven § 8](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd til forskningsinitierte granskinger som gjennomføres av andre enn rette myndighet etter denne forskriften.
+
+(4) Riksantikvaren har myndighet etter [kulturminneloven § 12](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd, [§ 13](../lover/lov-1978-06-09-50-kulturminneloven.md) første og tredje ledd, [§ 14](../lover/lov-1978-06-09-50-kulturminneloven.md) fjerde ledd, [§ 15](../lover/lov-1978-06-09-50-kulturminneloven.md), [§ 19](../lover/lov-1978-06-09-50-kulturminneloven.md) første og andre ledd, [§ 22](../lover/lov-1978-06-09-50-kulturminneloven.md) nr. 4 og [§ 22a](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd. Riksantikvaren sørger for tinglysing etter [kulturminneloven § 22](../lover/lov-1978-06-09-50-kulturminneloven.md) nr. 5. Riksantikvaren har i tillegg myndighet etter [kulturminneloven § 14a](../lover/lov-1978-06-09-50-kulturminneloven.md) første og andre ledd, [§ 23](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd og [§ 23 c](../lover/lov-1978-06-09-50-kulturminneloven.md) i saker som gjelder båter. Riksantikvaren har myndighet etter [kulturminneloven § 14a](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd første punktum til å avmerke vedtak om fredning i vedkommende skipsregister.
+
+(5) Riksantikvaren har myndighet etter [kulturminneloven § 15a](../lover/lov-1978-06-09-50-kulturminneloven.md), jf. [§ 14a](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd andre punktum og [§ 22a](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd, og etter [§ 19](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd og [§ 20](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd i saker som omfattes av sjette ledd. Riksantikvaren har også myndighet etter § 16 til § 18 og § 21 i saker som gjelder kulturminner som omfattes av sjette ledd. Riksantikvaren kan gi samtykke i alle saker etter [kulturminneloven § 17](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd andre punktum, gi tilskudd etter [§ 17](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd og forlenge fristen etter [§ 18](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd tredje punktum.
+
+(6) Riksantikvaren har myndighet til å fastsette hvilke kulturminner og kulturmiljøer som Riksantikvaren skal ha forvaltningsansvaret for. Dette kan gjelde kulturminner og kulturmiljøer som
+
+a. er særlig viktige for landets kulturhistorie
+b. betraktes som viktige nasjonale symboler
+c. er knyttet til statsmakten og til utøvelse av statlige funksjoner som er sentrale for landet
+d. Norge har et internasjonalt ansvar for å bevare
+e. har særlig vitenskapelig betydning, eller
+f. det kreves særskilt kompetanse å forvalte.
+
+(7) Riksantikvaren har myndighet etter kulturminneloven i saker som gjelder kirker.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 3. Fylkeskommunens myndighet
+
+(1) Fylkeskommunen har myndighet etter [kulturminneloven § 3](../lover/lov-1978-06-09-50-kulturminneloven.md).
+
+(2) Fylkeskommunen har myndighet etter [kulturminneloven § 6](../lover/lov-1978-06-09-50-kulturminneloven.md) og [§ 8](../lover/lov-1978-06-09-50-kulturminneloven.md) og [§ 9](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd første og tredje punktum. Fylkeskommunen kan søke etter, registrere, vedlikeholde mv. automatisk fredete kulturminner etter [kulturminneloven § 11](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd bokstav a. Fylkeskommunen har myndighet til å avgjøre om det skal gjennomføres tiltak som nevnt i [kulturminneloven § 11](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd bokstav b. Fylkeskommunen har myndighet for skipsfunn etter [kulturminneloven § 14](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd og tredje ledd første punktum. Myndigheten etter første til fjerde punktum gjelder ikke i saker som omfattes av [§ 2](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md) sjette ledd.
+
+(3) Fylkeskommunen har myndighet etter [kulturminneloven § 13](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd.
+
+(4) Fylkeskommunen har myndighet etter [kulturminneloven § 15a](../lover/lov-1978-06-09-50-kulturminneloven.md), jf. [§ 14a](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd andre punktum og [§ 22a](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd, og etter [§ 19](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd, [§ 20](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd og [§ 22](../lover/lov-1978-06-09-50-kulturminneloven.md) nr. 4. Fylkeskommunen har myndighet etter [kulturminneloven § 16](../lover/lov-1978-06-09-50-kulturminneloven.md) til [§ 18](../lover/lov-1978-06-09-50-kulturminneloven.md) og [§ 21](../lover/lov-1978-06-09-50-kulturminneloven.md), med unntak av saker etter [§ 2](../lover/lov-1978-06-09-50-kulturminneloven.md) femte ledd tredje punktum. Myndigheten etter første og andre punktum gjelder ikke i saker som omfattes av [§ 2](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md) sjette ledd.
+
+(5) Melding etter [kulturminneloven § 25](../lover/lov-1978-06-09-50-kulturminneloven.md) skal sendes fylkeskommunen.
+
+(6) Fylkeskommunens myndighet etter kulturminneloven gjelder ikke kirker.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 4. Sametingets myndighet
+
+For samiske kulturminner har Sametinget tilsvarende myndighet som fylkeskommunen har etter [§ 3](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md) for øvrige kulturminner.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 5. Universitetsmuseenes myndighet
+
+(1) Universitetsmuseene har myndighet til å gjennomføre tiltak etter [kulturminneloven § 11](../lover/lov-1978-06-09-50-kulturminneloven.md) og [§ 13](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd i saker som gjelder kulturminner som befinner seg på land. Dette gjelder ikke for middelalderske byanlegg, kirker, kirketufter, kirkegårder, klosteranlegg, forsvarsverk og rester av alle slike kulturminner.
+
+(2) Universitetsmuseene har myndighet til å gjennomføre tiltak etter [kulturminneloven § 14](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd første punktum for skipsfunn fra før 1537, som befinner seg på land.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 6. Sjøfartsmuseenes myndighet
+
+Sjøfartsmuseene har myndighet til å gjennomføre tiltak etter [kulturminneloven § 11](../lover/lov-1978-06-09-50-kulturminneloven.md), [§ 13](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd og [§ 14](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd første punktum og tredje ledd andre punktum i saker som gjelder
+
+a. automatisk fredete kulturminner som befinner seg under vann
+b. skipsfunn eldre enn 100 år som befinner seg under vann
+c. skipsfunn yngre enn 1536 som befinner seg på land.
+
+## § 7. Underretningsplikt mv.
+
+(1) Riksantikvaren, fylkeskommunene, Sametinget, forvaltningsmuseene og NIKU har underretningsplikt overfor hverandre i saker som er av gjensidig interesse.
+
+(2) Forvaltningsmuseene og NIKU skal underrette vedkommende myndighet om resultatet av gransking av automatisk fredete kulturminner eller skipsfunn, eller sikringstiltak på samme, senest innen tre uker etter at granskingen eller sikringstiltaket er avsluttet.
+
+(3) Dersom fylkeskommunen eller Sametinget, i saker som berører kulturminner eller kulturmiljøer av nasjonal eller vesentlig regional verdi, vil fatte et vedtak som er i strid med de faglige tilrådinger i saken, skal Riksantikvaren underrettes. Riksantikvaren kan beslutte å overta slike saker, uavhengig av om det er gitt underretning, og overtar da fylkeskommunens myndighet etter denne forskriften [§ 3](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md) eller Sametingets myndighet etter [§ 4](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md).
+
+(4) Riksantikvaren kan overta saker fra fylkeskommunen eller Sametinget når nasjonale kulturminneverdier er truet, og overtar fylkeskommunens myndighet etter denne forskriften [§ 3](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md) eller Sametingets myndighet etter [§ 4](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md).
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 8. Tilråding, prosjektplan og budsjett
+
+Før behandling av en søknad om tillatelse etter [kulturminneloven § 8](../lover/lov-1978-06-09-50-kulturminneloven.md) første, andre eller fjerde ledd eller [§ 14](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd, gir forvaltningsmuseene og NIKU på anmodning sin tilråding i saken, og utarbeider en prosjektplan og et forslag til budsjett. Ved tillatelse etter [kulturminneloven § 8](../lover/lov-1978-06-09-50-kulturminneloven.md) fjerde ledd kan, i samråd med tiltakshaver, prosjektplan og forslag til budsjett utstå til gjennomføring av planen.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 9. Gjennomføring av arkeologiske utgravinger mv.
+
+Blir det gitt tillatelse etter [kulturminneloven § 8](../lover/lov-1978-06-09-50-kulturminneloven.md) første eller andre ledd, eller akseptert arealplan etter plan- og bygningsloven, jf. [kulturminneloven § 8](../lover/lov-1978-06-09-50-kulturminneloven.md) fjerde ledd, eller gitt tillatelse etter [kulturminneloven § 14](../lover/lov-1978-06-09-50-kulturminneloven.md) andre ledd, skal
+
+a. universitetsmuseene gjennomføre utgravinger mv. på land av automatisk fredete kulturminner og skipsfunn fra før 1537, med unntak av kulturminner som nevnt i bokstav c
+b. sjøfartsmuseene gjennomføre utgravinger mv. under vann av automatisk fredete kulturminner og skipsfunn eldre enn 100 år, og av skipsfunn yngre enn 1536 som befinner seg på land
+c. NIKU gjennomføre utgravinger mv. av middelalderske byanlegg, kirker, kirketufter, kirkegårder, klosteranlegg, forsvarsverk og rester av alle slike kulturminner.
+
+## § 10. Særskilte registreringsoppgaver mv.
+
+Riksantikvaren kan, uavhengig av ansvarsfordelingen i denne forskriften, beslutte at forvaltningsmuseene eller NIKU skal utføre særskilte tiltak etter [kulturminneloven § 11](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd bokstav a for bestemte saker eller innenfor et bestemt tidsrom.
+
+## § 11. Forskningsinititerte granskinger og sikringstiltak
+
+(1) Forvaltningsmuseene skal underrette Riksantikvaren, fylkeskommunen og Sametinget om sine forskningsinitierte granskinger etter denne forskriften [§ 5](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md) og [§ 6](for-2019-02-15-127-forskrift-om-fastsetting-av-myndighet-mv-etter-kulturminneloven.md) senest tre måneder før granskingen starter. Riksantikvaren kan i særlige tilfeller fastsette en annen frist.
+
+(2) I saker som gjelder middelalderske byanlegg, kirker, kirketufter, kirkegårder, klosteranlegg, forsvarsverk og rester av alle slike kulturminner, kan Riksantikvaren beslutte at NIKU skal gjennomføre forskningsinitierte granskinger eller sikringstiltak etter [kulturminneloven § 11](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd bokstav b og [§ 13](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd andre punktum.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 12. Statens eiendomsrett til løse kulturminner og skipsfunn
+
+(1) Universitetsmuseene skal forvalte statens eiendomsrett til løse kulturminner, jf. [kulturminneloven § 12](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd. Museene kan etter [kulturminneloven § 13](../lover/lov-1978-06-09-50-kulturminneloven.md) fjerde ledd overlate funnet helt eller delvis til finner eller grunneier.
+
+(2) Sjøfartsmuseene skal forvalte statens eiendomsrett til skipsfunn, jf. [kulturminneloven § 14](../lover/lov-1978-06-09-50-kulturminneloven.md) første ledd. Museene kan etter [kulturminneloven § 14](../lover/lov-1978-06-09-50-kulturminneloven.md) tredje ledd andre punktum overlate funnet helt eller delvis til finner eller grunneier.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 13. Klage
+
+Riksantikvaren er klageinstans for vedtak fattet av fylkeskommunen eller Sametinget i medhold av denne forskriften. Klima- og miljødepartementet er klageinstans for vedtak fattet av Riksantikvaren i medhold av denne forskriften.
+
+*Endret ved [forskrift 13 des 2019 nr. 1747](https://lovdata.no/forskrift/2019-12-13-1747) (i kraft 1 jan 2020).*
+
+## § 14. Avgjørelsesmyndighet
+
+Er det tvil om hvem som har myndighet i en sak og det ikke oppnås enighet om det, avgjør departementet spørsmålet.
+
+## § 15. Ikrafttredelse
+
+Forskriften trer i kraft fra den tid Kongen bestemmer.[1] Samtidig oppheves [forskrift 9. februar 1979 nr. 8785](https://lovdata.no/forskrift/1979-02-09-8785) om faglig ansvarsfordeling mv. etter kulturminneloven.
+
+## Fotnoter
+
+**1.** Fra 1 jan 2020 iflg. [res. 13 des 2019 nr. 1749](https://lovdata.no/forskrift/2019-12-13-1749).

@@ -1,0 +1,144 @@
+# Forskrift om register over befolkningen på Svalbard
+
+- **Korttittel:** Forskrift om folkeregister på Svalbard
+- **Datokode:** FOR-1994-02-04-111
+- **DokumentID:** SF/forskrift/1994-02-04-111
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Polaravd.
+- **Hjemmel:** lov 17.07.1925 nr. 11/§4
+- **Publisert i:** Avd I 1994 175
+- **I kraft fra:** 1994-11-01
+- **Siste endring i kraft:** 2021-07-01
+- **Sist endret ved:** forskrift 23.06.2021 nr. 2222 fra 2021-07-01
+- **Gjelder for:** Svalbard
+- **Siste rettelse:** 2021-07-01 (tegnsetting i lister tilpasset universell utforming).
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 4. februar 1994 med hjemmel i lov av 17. juli 1925 nr. 11 om Svalbard § 4. Fremmet av Justis- og politidepartementet (nå Justis- og beredskapsdepartementet). Endret ved forskrifter 24 okt 1994 nr. 977 (ikrafttr.), 9 mars 1995 nr. 244, 21 april 1999 nr. 530 jf. 7 des 1999 nr. 1261, 1 des 2006 nr. 1323, 3 jan 2008 nr. 19, 23 juni 2011 nr. 676, 31 mai 2013 nr. 561, 1 des 2006 nr. 1323 som endret ved forskrift 7 nov 2016 nr. 1288, 23 juni 2021 nr. 2222 (i kraft 1 juli 2021). Rettelser: 01.07.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/1994-02-04-111>
+
+## § 1.
+
+Det etableres et register over befolkningen på Svalbard. Registeret føres av skattekontoret.
+
+*Endret ved [forskrift 21 april 1999 nr. 530](https://lovdata.no/forskrift/1999-04-21-530) (i kraft 15 des 1999 jf [forskrift 7 des 1999 nr. 1261](https://lovdata.no/forskrift/1999-12-07-1261)), [3 jan 2008 nr. 19](https://lovdata.no/forskrift/2008-01-03-19) (i kraft 1 jan 2008).*
+
+## § 2.
+
+Registeret skal omfatte alle personer som bor på Svalbard. En person regnes for å bo på Svalbard når han eller hun har tatt opphold på øygruppen og har til hensikt å oppholde seg der i minst 6 måneder.
+
+En person regnes for å ha flyttet fra Svalbard fra og med det år personen har oppholdt seg utenfor Svalbard mer enn 183 dager i en tolvmånedersperiode.
+
+Annet ledd gjelder ikke sjøfolk, personer under utdanning, vernepliktige mannskaper og sivilarbeidere under førstegangstjeneste, innsatte i fengsel, innlagte på sykehus eller medlemmer av storting eller regjering, med mindre bostedsforholdene endrer seg slik at det er naturlig å regne dem som boende utenfor Svalbard. Personer under utdanning som velger å la seg registrere på nytt bosted ved studiested i Norge, skal likevel regnes for å ha flyttet fra Svalbard.
+
+*Endret ved [forskrifter 1 des 2006 nr. 1323](https://lovdata.no/forskrift/2006-12-01-1323) (i kraft 1 jan 2007), [23 juni 2011 nr. 676](https://lovdata.no/forskrift/2011-06-23-676).*
+
+## § 3.
+
+Registeret skal inneholde følgende opplysninger om personer som nevnt i [§ 2](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md).
+
+a. fullt navn
+b. fødselsdato
+c. kjønn
+d. statsborgerskap
+e. dato for begynnelse og slutt på Svalbard oppholdet
+f. adresse på Svalbard
+g. siste bosted før svalbardoppholdet. For personer som flytter til Svalbard fra annen del av Norge, angis bostedsadresse og -kommune, for andre angis land.
+h. ekteskapelig status
+i. familienummer
+j. fødselsnummer for personer med norsk fødselsnummer
+k. D-nummer for personer som ikke har norsk fødselsnummer. D-nummer tildeles i samsvar med [forskrift 9. november 2007 nr. 1268](https://lovdata.no/forskrift/2007-11-09-1268) om folkeregistrering.
+
+Registeret kan inneholde arbeidsgivers navn og organisasjonsnummer.
+
+*Endret ved [forskrifter 9 mars 1995 nr. 244](https://lovdata.no/forskrift/1995-03-09-244), [1 des 2006 nr. 1323](https://lovdata.no/forskrift/2006-12-01-1323) (i kraft 1 jan 2007), [3 jan 2008 nr. 19](https://lovdata.no/forskrift/2008-01-03-19) (i kraft 1 jan 2008), [1 des 2006 nr. 1323](https://lovdata.no/forskrift/2006-12-01-1323) som endret ved [forskrift 7 nov 2016 nr. 1288](https://lovdata.no/forskrift/2016-11-07-1288) (i kraft 7 nov 2016).*
+
+## § 4.
+
+Enhver som omfattes av [§ 2](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md), skal innen 8 dager etter oppholdets begynnelse melde seg til registerfører og vise fram pass eller tilsvarende legitimasjonsdokument. Dersom det først etter oppholdets begynnelse blir klart at dette vil vare ut over 6 måneder, skal melding sendes snarest mulig etter slik avklaring. Melding skal skrives på skjema fastsatt av registerfører. På samme måte plikter enhver å sende melding dersom det inntrer endringer i de opplysninger som er nevnt i [§ 3](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md). Ved flytting fra Svalbard må melding sendes senest ved avreise.
+
+Vergen eller nærmeste pårørende er ansvarlig for at meldinger som nevnt i første ledd også blir sendt for barn og personer som er fratatt rettslig handleevne. Ved fødsel og dødsfall påhviler plikten også legen, eventuelt jordmoren dersom det ikke var lege til stede ved fødselen.
+
+Registerfører kan kreve at opplysninger som nevnt i [§ 3](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md), jf. [§ 4](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md) første og annet ledd bekreftes årlig.
+
+Registerfører kan treffe vedtak, om at en person strykes i registeret, når det foreligger opplysninger fra fastlandskommune om flytting fra Svalbard eller når meldeplikt som nevnt i [§ 4](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md) første, annet eller tredje ledd ikke er overholdt. Registerførers avgjørelse om å stryke en person i registeret er et enkeltvedtak, jf. [forvaltningsloven § 2](../lover/lov-1967-02-10-forvaltningsloven.md)b.
+
+Klageorgan er Skattedirektoratet.
+
+*Endret ved [forskrifter 21 april 1999 nr. 530](https://lovdata.no/forskrift/1999-04-21-530) (nytt femte ledd i kraft 15 des 1999 jf [forskrift 7 des 1999 nr. 1261](https://lovdata.no/forskrift/1999-12-07-1261)), [1 des 2006 nr. 1323](https://lovdata.no/forskrift/2006-12-01-1323) (i kraft 1 jan 2007), [31 mai 2013 nr. 561](https://lovdata.no/forskrift/2013-05-31-561) (i kraft 1 juli 2013).*
+
+## § 5.
+
+Registerfører kan av arbeidsgiver kreve opplysninger om ansatte som oppholder seg på Svalbard og om start og opphør av arbeidsforhold.
+
+Arbeidsgivere med ansatte som ikke er registrert i Arbeidsgiver-/Arbeidstakerregisteret, plikter årlig å sende registerføreren en oversikt over de ansatte som bor på Svalbard. Registerføreren fastsetter nærmere frist for innsending, og kan i særlige tilfeller kreve slik oversikt oftere enn en gang i året.
+
+Arbeidsgivere har plikt til å orientere nyansatte på Svalbard om plikten til å sende melding til registeret, og utlevere skjema som nevnt i [§ 4](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md).
+
+*Endret ved [forskrifter 21 april 1999 nr. 530](https://lovdata.no/forskrift/1999-04-21-530), [1 des 2006 nr. 1323](https://lovdata.no/forskrift/2006-12-01-1323) (i kraft 1 jan 2007).*
+
+## § 5a.
+
+Etter pålegg fra registerfører for befolkningsregisteret på Svalbard plikter offentlige myndigheter å gi opplysninger som er nødvendig for registrering i befolkningsregisteret. Det samme gjelder Posten og den som avgir hus eller husrom.
+
+*Tilføyd ved [forskrift 21 april 1999 nr. 530](https://lovdata.no/forskrift/1999-04-21-530).*
+
+## § 5b.
+
+Den som avgir hus eller husrom til beboelse for andre, plikter å gi melding som nevnt i [§ 4](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md) om de personer som flytter til eller fra hans eiendom eller husvære. Denne plikt faller bort når den som flytter, viser bevitnelse fra befolkningsregisteret for at han selv har gitt påbudt melding.
+
+Gårdens bestyrer eller forretningsfører har samme ansvar som eieren for at melding som nevnt i [§ 4](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md) blir avgitt i rett tid.
+
+*Tilføyd ved [forskrift 1 des 2006 nr. 1323](https://lovdata.no/forskrift/2006-12-01-1323) (i kraft 1 jan 2007).*
+
+## § 6.
+
+Enhver som i stillings medfør eller i medhold av bestemmelser i denne forskrift har adgang til å gjøre seg kjent med opplysninger i registeret om noens personlige forhold, er pliktig til å bevare taushet om det han eller hun får kjennskap til. Taushetsplikten gjelder også etter at tjenesten eller arbeidet er avsluttet. Opplysninger som nevnt i første punktum kan heller ikke utnyttes i egen virksomhet eller i tjeneste eller arbeid for andre.
+
+## § 7.
+
+En norsk offentlig myndighet kan til bruk for sin virksomhet gis opplysninger om navngitte, identifiserbare personer fra registeret uten hinder av taushetsplikt.
+
+Registerføreren bestemmer ut fra hensynet til registerets daglige gjøremål i hvilken utstrekning slike opplysninger skal gis.
+
+Registerføreren kan også gis opplysninger til offentlig myndighet som krever opplysningene med hjemmel i særskilt lov.
+
+Statistisk sentralbyrå har rett til å utnytte registeret for statistikkformål og å bli varslet om planlagte endringer av registeret.
+
+Registerføreren kan etter skriftlig søknad gi offentlige tjenestemenn adgang til registrene for å foreta undersøkelser som en offentlig myndighet trenger i sitt arbeid. Det kan knyttes vilkår til slik tillatelse.
+
+*Endret ved [forskrift 21 april 1999 nr. 530](https://lovdata.no/forskrift/1999-04-21-530).*
+
+## § 8.
+
+Registerføreren kan gi private personer og institusjoner som har et begrunnet behov, opplysninger om noen få navngitte, identifiserbare personers fulle navn, fødselsdato og personnummer, adresse og eventuell dødsdato, hvis ikke opplysningene er undergitt taushetsplikt.
+
+Forskere kan gis opplysninger fra registeret dersom det godtgjøres et begrunnet behov.
+
+Registerføreren avgjør ut fra hensynet til registerets daglige gjøremål om og i hvilken utstrekning slike opplysninger som nevnt i første og annet ledd skal gis.
+
+## § 9.
+
+Alle har rett til å få opplyst hvilke opplysninger som finnes om dem selv i registeret.
+
+## § 10.
+
+Sysselmesteren kan engasjere lokale registerførere til hjelp for registerføringen i de utenlandske bosettingene på Svalbard. Etter nærmere bestemmelser gitt av Sysselmesteren kan disse forestå den daglige registerføringen, og sende periodiske utskrifter av registeret til Sysselmesteren.
+
+Dersom særlige grunner tilsier det, kan en ordning som nevnt i første ledd også gjennomføres for norske bosettinger utenfor Longyearbyen.
+
+*Endret ved forskrift [23 juni 2021 nr. 2222](https://lovdata.no/forskrift/2021-06-23-2222) (i kraft 1 juli 2021).*
+
+## § 11.
+
+Den som forsettlig eller uaktsomt overtrer meldingsplikten i [§ 4](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md) eller [§ 5](for-1994-02-04-111-forskrift-om-folkeregister-paa-svalbard.md) eller pålegg gitt i medhold av disse bestemmelser, straffes i medhold av [Svalbardloven § 4](../lover/lov-1925-07-17-11-svalbardloven.md).
+
+## § 12.
+
+Justisdepartementet kan endre denne forskriften.
+
+## § 13.
+
+Denne forskrift trer i kraft fra den tid Justisdepartementet bestemmer.[1]
+
+## Fotnoter
+
+**1.** 1 nov 1994 iflg. [forskrift 24 okt 1994 nr. 977](https://lovdata.no/forskrift/1994-10-24-977).

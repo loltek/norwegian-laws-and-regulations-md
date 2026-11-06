@@ -1,0 +1,343 @@
+# Forskrift om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg på næringsmidler
+
+- **Korttittel:** Forskrift om beskyttelse av betegnelser
+- **Datokode:** FOR-2002-07-05-698
+- **DokumentID:** SF/forskrift/2002-07-05-698
+- **Departement:** Landbruks- og matdepartementet; Nærings- og fiskeridepartementet
+- **Etat:** Avdeling for matpolitikk
+- **Hjemmel:** lov 19.12.2003 nr. 124/§21; lov 19.12.2003 nr. 124/§23; lov 19.12.2003 nr. 124/§28; lov 19.12.2003 nr. 124/§30; lov 19.12.2003 nr. 124/§33; forskrift 19.12.2003 nr. 1790; lov/1967-02-10/§38
+- **Publisert i:** I 2002 hefte 7
+- **Kunngjort:** 2002-07-08
+- **I kraft fra:** 2002-07-05
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 19.12.2025 nr. 2824 fra 2026-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved Kronprinsreg.res. 5. juli 2002 med hjemmel i lov av 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 21, § 23, § 28 og § 33, jf. delegeringsvedtak av 19. desember 2003 nr. 1790 og lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 38 tredje ledd. Fremmet av Landbruksdepartementet (nå Landbruks- og matdepartementet). Endret ved forskrifter 24 okt 2003 nr. 1281, 13 feb 2004 nr. 383, 19 mars 2007 nr. 300, 18 mai 2007 nr. 526, 23 des 2009 nr. 1805, 17 des 2010 nr. 1852, 19 des 2011 nr. 1417, 18 des 2012 nr. 1327, 19 des 2013 nr. 1639, 22 des 2014 nr. 1900, 28 des 2015 nr. 1845, 22 des 2016 nr. 1876, 18 des 2017 nr. 2232, 12 des 2018 nr. 2027, 19 des 2019 nr. 2078 (i kraft 1 jan 2020), 23 des 2020 nr. 3173 (i kraft 1 jan 2021), 21 des 2021 nr. 3934 (i kraft 1 jan 2022), 20 des 2022 nr. 2372 (i kraft 1 jan 2023), 18 des 2023 nr. 2174 (i kraft 1 jan 2024), 19 des 2024 nr. 3318 (i kraft 1 jan 2025), 19 des 2025 nr. 2824 (i kraft 1 jan 2026).
+- **Kilde:** <https://lovdata.no/forskrift/2002-07-05-698>
+
+## Kapittel I. Formål, omfang og definisjoner
+
+### § 1. Formål
+
+Formålet med denne forskriften er å beskytte produktbetegnelser på næringsmidler ut fra opprinnelse, geografi og tradisjonelt særpreg, herunder sikre redelig omsetning av disse produktene.
+
+*Endret ved [forskrifter 24 okt 2003 nr. 1281](https://lovdata.no/forskrift/2003-10-24-1281), [13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383), [19 mars 2007 nr. 300](https://lovdata.no/forskrift/2007-03-19-300).*
+
+### § 2. Omfang og virkeområde
+
+Forskriften gjelder for næringsmidler. Forskriften fastsetter vilkår for beskyttelse etter søknad av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg.
+
+Unntatt fra forskriftens bestemmelser er opprinnelsesbetegnelser og geografiske betegnelser for vin, alkoholsterke og aromatiserte drikker mv., kildevann og naturlig mineralvann.
+
+Reglene i forskriften gjelder også for utenlandske betegnelser.
+
+Forskriften, og forskrifter gitt i medhold av denne, vil stå tilbake for Norges folkerettslige forpliktelser.
+
+*Endret ved [forskrifter 24 okt 2003 nr. 1281](https://lovdata.no/forskrift/2003-10-24-1281), [19 mars 2007 nr. 300](https://lovdata.no/forskrift/2007-03-19-300).*
+
+### § 3. Definisjoner mv.
+
+I denne forskrift forstås ved:
+
+1. *sammenslutning:* enhver organisasjon, uavhengig av rettslig status, av primærprodusenter og/eller bearbeidere som samarbeider om samme næringsmiddel.
+
+   Andre interessenter kan også inngå i sammenslutningen.
+2. *produktforskrift:* forskrift som gir produktspesifikasjonen for hvert enkelt næringsmiddel som har en beskyttet betegnelse etter denne forskrift.
+
+*Endret ved [forskrift 19 mars 2007 nr. 300](https://lovdata.no/forskrift/2007-03-19-300).*
+
+### § 4. Bruk av betegnelser og merker
+
+Kun produsenter, foredlere eller andre som er gitt beskyttelse i henhold til denne forskrift, samt forskrifter gitt i medhold av den, kan benytte betegnelsene «beskyttet opprinnelsesbetegnelse» eller «beskytta opphavsnemning», «beskyttet geografisk betegnelse» eller «beskytta geografisk nemning», «beskyttet tradisjonelt særpreg» eller «beskytta tradisjonelt særpreg», det aktuelle merket med bokmål eller nynorsk tekst, og det navn som er beskyttet i medhold av den særskilte produktforskrift.
+
+Sammen med merking etter første ledd kan de nord- eller sørsamiske betegnelsene «suddjejuvvon álgonamahus» eller «vaarjelamme maadtoedïejvese», «suddjejuvvon geográfalaš namahus» eller «vaarjelamme eatnemedïejvese», «suddjejuvvon árbevirolaš erenoamášvuohta» eller «vaarjelamme vuekiedïejvese», og det aktuelle merket med nord- eller sørsamisk tekst, benyttes.
+
+*Endret ved [forskrift 19 mars 2007 nr. 300](https://lovdata.no/forskrift/2007-03-19-300).*
+
+## Kapittel II. Opprinnelsesbetegnelser og geografiske betegnelser
+
+### § 5. Beskyttelse av opprinnelsesbetegnelser
+
+En opprinnelsesbetegnelse for et næringsmiddel kan beskyttes dersom følgende vilkår er oppfylt:
+
+1. betegnelsen må angi navnet på et bestemt område eller et bestemt sted,
+2. næringsmidlet som omsettes under betegnelsen må ha sin opprinnelse i dette området eller på dette sted,
+3. næringsmidlets særegne kvalitet eller andre kjennetegn må hovedsakelig eller fullstendig kunne tilskrives områdets eller stedets geografiske miljø med dets naturbetingede og menneskelige faktorer, og
+4. næringsmidlet må være endelig produsert, bearbeidet og foredlet i dette området eller på dette stedet.
+
+*Endret ved [forskrifter 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383), [18 mai 2007 nr. 526](https://lovdata.no/forskrift/2007-05-18-526).*
+
+### § 6. Unntak fra vilkårene i [§ 5](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md)
+
+Et ikke-geografisk navn kan likevel beskyttes som opprinnelsesbetegnelse for et næringsmiddel, dersom navnet tradisjonelt er forbundet med et bestemt område eller sted. Øvrige vilkår i [§ 5](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) må være oppfylt.
+
+Selv om råvarene i et næringsmiddel kommer fra et større eller annet område enn det området hvor det er bearbeidet, kan en geografisk betegnelse beskyttes som opprinnelsesbetegnelse på tross av vilkårene i [§ 5](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) nr. 2, 3 og 4 dersom:
+
+1. produksjonsområdet for råvaren er definert,
+2. det gjelder særlige betingelser for fremstilling av råvaren,
+3. det finnes en kontrollordning som sikrer at disse betingelsene er overholdt, og
+4. betegnelsen er et tradisjonelt kjennetegn og har et omdømme og en anseelse av usedvanlig karakter.
+
+Med råvarer menes i denne bestemmelsen levende dyr, kjøtt og melk.
+
+*Endret ved [forskrift 19 mars 2007 nr. 300](https://lovdata.no/forskrift/2007-03-19-300).*
+
+### § 7. Beskyttelse av geografiske betegnelser
+
+En geografisk betegnelse for et næringsmiddel kan beskyttes dersom følgende vilkår er oppfylt:
+
+1. betegnelsen må angi navnet på et område eller et bestemt sted,
+2. næringsmidlet som omsettes under betegnelsen må ha sin opprinnelse i dette området eller på dette bestemte sted,
+3. næringsmidlets særegne kvalitet, omdømme eller egenskaper, kan tilskrives den geografiske opprinnelsen, og
+4. næringsmidlet er produsert, bearbeidet eller foredlet i det definerte geografiske området.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 8. Navn og betegnelser som ikke kan beskyttes
+
+Betegnelser som angir næringsmidlets art kan ikke beskyttes. Med dette siktes det til navnet på et næringsmiddel som, selv om det henviser til stedet eller området der næringsmidlet først ble fremstilt og brakt i handelen, er blitt en fellesbetegnelse for næringsmidlet.
+
+For å fastslå om en betegnelse er blitt en artsbetegnelse, tas det hensyn til alle faktorer, spesielt de faktiske forhold der navnet har sin opprinnelse og der det anvendes, og relevante forskrifter.
+
+Betegnelser som kan forveksles med navnet på en plantesort eller en dyrerase, og derfor vil kunne villede offentligheten med hensyn til næringsmidlets virkelige opprinnelse, kan ikke beskyttes som opprinnelsesbetegnelse eller geografisk betegnelse.
+
+### § 9. Søknadens innhold
+
+Søknad om beskyttelse av opprinnelsesbetegnelser og geografiske betegnelser skal inneholde:
+
+1. næringsmidlets varebetegnelse inkludert opprinnelsesbetegnelsen eller den geografiske betegnelsen,
+2. en beskrivelse av næringsmidlet med opplysninger om råvarer, de viktigste fysiske, kjemiske, mikrobiologiske eller organoleptiske egenskaper,
+3. en avgrensing av det geografiske området samt, dersom det er relevant, opplysninger som viser at kravene i [§ 6](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) er oppfylt,
+4. opplysninger som bekrefter at næringsmidlet stammer fra det angitte geografiske området, jf. [§ 5](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) eller [§ 7](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md),
+5. en beskrivelse av hvilken metode som er benyttet ved fremstilling av næringsmidlet samt, dersom det er relevant, opplysninger om den opprinnelige, tradisjonelle metoden i området. Pakkingen skal beskrives dersom søker kan fastslå og godtgjøre at det er avgjørende for næringsmidlets kvalitet, sporbarhet og kontroll at pakkingen skjer innenfor det avgrensede geografiske området.
+6. angivelse av faktorer som bekrefter tilknytning til det geografiske miljø eller den geografiske opprinnelse, jf. [§ 5](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) eller [§ 7](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) og
+7. forslag til merking av produktet.
+
+*Endret ved [forskrift 19 mars 2007 nr. 300](https://lovdata.no/forskrift/2007-03-19-300).*
+
+### § 10. Beskyttelsens omfang
+
+Opprinnelsesbetegnelser og geografiske betegnelser er beskyttet mot:
+
+1. enhver direkte eller indirekte bruk av en beskyttet betegnelse for næringsmidler som ikke tilfredsstiller kravene i den aktuelle produktforskriften, dersom næringsmidlene kan sammenlignes med de næringsmidler som er beskyttet under denne betegnelsen, eller dersom bruken av betegnelsen innebærer utnyttelse av den beskyttede betegnelsens omdømme,
+2. enhver urettmessig bruk, etterligning eller antydning, selv om næringmidlets virkelige opprinnelse er angitt, eller hvis den beskyttede betegnelsen er anvendt i oversettelse eller fulgt av uttrykk som «art», «type», «måte», «som fremstilt i», «etterligning» eller «lignende»,
+3. enhver annen form for uriktig eller villedende angivelse av næringsmidlets opphav, opprinnelse, art og hovedegenskaper på pakningen og emballasje, i reklame eller i dokumenter for de aktuelle næringsmidlene, samt anvendelse av emballasje som kan gi et feilaktig inntrykk av opprinnelse, og
+4. enhver annen form for praksis, som kan villede offentligheten med hensyn til næringsmidlets virkelige opprinnelse.
+
+Når en beskyttet betegnelse inneholder en artsbetegnelse, er det likevel tillatt å bruke artsbetegnelsen på lignende næringsmidler.
+
+Beskyttede betegnelser kan ikke bli artsbetegnelser.
+
+Rett til betegnelse gir ikke innehaveren rett til å nekte andre å bruke sitt navn eller firma eller sin adresse i næringsvirksomhet i samsvar med god forretningsskikk.
+
+## Kapittel III. Vilkår for beskyttelse av tradisjonelt særpreg
+
+### § 11. Beskyttelse av betegnelser for tradisjonelt særpreg
+
+Tradisjonelt særpreg er et kjennetegn som klart skiller et næringsmiddel fra andre lignende næringsmidler i samme kategori. Næringsmidlets utseende anses ikke som et slikt kjennetegn. Særpreget kan ikke utelukkende være en kvantitativ eller kvalitativ sammensetning eller en produksjonsmåte som er gitt i forskrift eller standard, med mindre forskriften eller standarden er utarbeidet for å definere et særpreg.
+
+En betegnelse for tradisjonelt særpreg for et næringsmiddel kan beskyttes dersom følgende vilkår er oppfylt:
+
+1. næringsmidlet må være fremstilt av tradisjonelle råvarer, ha en tradisjonell sammensetning, eller ha en produksjons- eller bearbeidingsmåte som gjenspeiler den tradisjonelle produksjons- eller bearbeidingsmåten,
+2. navnet i seg selv må være særpreget og tradisjonelt, eller uttrykke næringsmidlets særpreg. Geografiske navn kan beskyttes så fremt de ikke er beskyttet etter [kapittel II](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md).
+
+Et navn som uttrykker særpreg i henhold til bestemmelsene her kan ikke beskyttes hvis det:
+
+1. utelukkende henviser til generelle påstander som anvendes for en kategori av næringsmidler, eller til påstander som omfattes i en særforskrift,
+2. er villedende, for eksempel ved at det henviser til et innlysende kjennetegn ved produktet, eller ikke svarer til produktspesifikasjonen eller til forbrukernes forventninger basert på produktets særlige kjennetegn.
+
+En betegnelse for tradisjonelt særpreg kan ikke beskyttes dersom næringsmidlets særpreg beror på geografisk opprinnelse, eller utelukkende skyldes anvendelse av en teknologisk fornyelse.
+
+*Endret ved [forskrift 19 mars 2007 nr. 300](https://lovdata.no/forskrift/2007-03-19-300).*
+
+### § 12. Søknadens innhold
+
+En søknad om beskyttelse av betegnelser for tradisjonelt særpreg skal inneholde:
+
+1. næringsmidlets varebetegnelse, inkludert betegnelsen for tradisjonelt særpreg,
+2. en beskrivelse av produksjonsmetoden sammen med opplysninger om beskaffenhet og egenskaper hos råvarer, benyttede ingredienser eller tilberedningsmetoden med henblikk på næringsmidlets særpreg,
+3. en beskrivelse av forhold som gjør det mulig å bedømme den tradisjonelle karakter som omhandles i [§ 11](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) annet ledd nr. 1,
+4. en beskrivelse av næringsmidlets særlige kjennetegn med angivelse av dets viktigste fysiske, kjemiske, mikrobiologiske eller organoleptiske egenskaper som har sammenheng med særpreget, og
+5. minimumskrav og prosedyrer for produktkontroll.
+
+*Endret ved [forskrift 19 mars 2007 nr. 300](https://lovdata.no/forskrift/2007-03-19-300).*
+
+### § 13. Beskyttelsens omfang
+
+Betegnelser for tradisjonelt særpreg skal beskyttes mot enhver praksis som vil kunne villede forbrukerne. Dette omfatter blant annet å tillegge næringsmidler en beskyttelse som de ikke har.
+
+Betegnelsen for tradisjonelt særpreg sammen med merket som er omhandlet i [§ 4](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) er forbeholdt næringsmidler som oppfyller vilkårene i den særskilte produktforskriften.
+
+Navnet som sådant er forbeholdt næringsmidler som oppfyller vilkårene i den aktuelle produktforskriften bare når:
+
+1. sammenslutningen har anmodet om det i sin søknad, og
+2. det ikke fremkommer under behandlingen av søknaden at navnet anvendes på lovlig måte, er anerkjent og er av økonomisk betydning for lignende næringsmidler.
+
+Rett til betegnelse gir ikke innehaveren rett til å nekte andre å bruke sitt navn eller firma eller sin adresse i næringsvirksomhet i samsvar med god forretningsskikk.
+
+## Kapittel IV. Fellesbestemmelser
+
+### § 14. Krav til søker
+
+Enhver sammenslutning kan søke om at det fastsettes en forskrift (produktforskrift) om beskyttelse av en opprinnelsesbetegnelse, geografisk betegnelse eller betegnelse for tradisjonelt særpreg.
+
+En fysisk eller juridisk person som ikke er en sammenslutning, kan i særskilte og velbegrunnede tilfeller søke om at det fastsettes en produktforskrift dersom følgende vilkår er oppfylt:
+
+1. personen er den eneste eksisterende produsent i det avgrensede geografiske området, og
+2. det finnes faste og vedvarende lokale metoder som kun benyttes av vedkommende person, og
+3. det avgrensede området har kjennetegn som er vesensforskjellige fra de omkringliggende områders eller produktets kjennetegn er forskjellige.
+
+### § 15. Søknadsbehandling mv.
+
+Det kan kun søkes for næringsmidler som søker selv fremstiller, bearbeider eller foredler.
+
+Søknad om fastsettelse av produktforskrift skal innleveres til Mattilsynet eller den instans som Mattilsynet bemyndiger til å forestå søknadsbehandling.
+
+Dersom en søknad ikke er i samsvar med kravene i henholdsvis [§ 9](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) eller [§ 12](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) eller det for øvrig er noe til hinder for å behandle søknaden, skal søkeren gis melding om dette. Søkeren skal gis en passende frist til å svare og i tilfelle rette manglene.
+
+Mangler ved søknaden skal ikke være til hinder for at søknaden anses som innlevert den dagen da søknaden kom inn til Mattilsynet eller den instans Mattilsynet bemyndiger, forutsatt at manglene blir rettet innen en fastsatt frist.
+
+Unnlater søkeren innen fristens utløp å uttale seg eller rette mangelen, skal søknaden henlegges. Behandlingen av søknaden gjenopptas dersom søkeren innen to måneder etter utløpet av fristen uttaler seg eller retter mangelen. Gjenopptagelse gis bare en gang under behandlingen av søknaden. Har søkeren svart på meldingen innen den fastsatte fristen, men det fremdeles hefter mangler ved søknaden, skal søknaden avslås, med mindre Mattilsynet eller den instans Mattilsynet bemyndiger finner at søkeren bør få ny melding med ny frist.
+
+Utkast til produktforskrift kunngjøres i Norsk varemerketidende og sendes på alminnelig høring.
+
+Dersom Mattilsynet finner at alle vilkårene er oppfylt, skal Mattilsynet fastsette en produktforskrift. Forskriften skal kunngjøres i Norsk varemerketidende. Forskriften kunngjøres ikke i Norsk Lovtidend.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 16. Endring av produktforskrift
+
+Dersom teknikk og vitenskap endres eller det reiser seg behov for å omdefinere et geografisk område, kan opprinnelig søker eller andre rettmessige brukere av en beskyttet opprinnelsesbetegnelse eller geografisk betegnelse søke Mattilsynet om endring av produktforskrift om beskyttelse av en opprinnelsesbetegnelse eller geografisk betegnelse.
+
+Opprinnelig søker eller andre rettmessige brukere kan søke Mattilsynet om endring av produktforskrift om beskyttelse av betegnelse for tradisjonelt særpreg.
+
+Søknader etter første og andre ledd kunngjøres i Norsk varemerketidende og sendes på alminnelig høring. Dersom det fremsettes innsigelser fra andre som rettmessig produserer eller bearbeider produkter som dekkes av produktforskriften, kan den ikke endres.
+
+Endret produktforskrift kunngjøres i Norsk varemerketidende. Forskriftsendringen kunngjøres ikke i Norsk Lovtidend.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 17. Prioritetsbestemmelse
+
+Dersom det til samme tid foreligger flere søknader om fastsettelse av produktforskrift for identiske eller forvekselbare betegnelser, skal den søknaden som først innkom til Mattilsynet eller til den instans som er bemyndiget av Mattilsynet til å foreta søknadsbehandlingen, ha fortrinnsrett.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 18. Forholdet til yngre varemerker og fellesmerker
+
+Et varemerke eller fellesmerke kan ikke registreres dersom merket, når det brukes i næringsvirksomhet, ville være egnet til å forveksles med en betegnelse som er beskyttet etter en produktforskrift, dersom søknaden om registrering av merket er innlevert etter at søknad om fastsettelse av produktforskrift er innlevert etter forskriften her.
+
+### § 19. Forholdet til eldre varemerker m.m.
+
+Det kan ikke fastsettes produktforskrift om beskyttelse av en betegnelse dersom det på bakgrunn av et varemerkes eller fellesmerkes omdømme, anseelse og varigheten av anvendelsen vil kunne villede forbrukere med hensyn til produktets virkelige opprinnelse.
+
+En opprinnelsesbetegnelse, geografisk betegnelse eller betegnelse for tradisjonelt særpreg kan ikke beskyttes dersom det fra før finnes et varemerke eller fellesmerke som:
+
+1. er identisk med eller ligner på opprinnelsesbetegnelsen eller den geografiske betegnelsen, og
+2. gjelder for et samme eller lignende næringsmiddel, og
+3. kan villede forbrukere med hensyn til næringsmidlets virkelige opprinnelse, og
+4. er registrert eller søkt registrert før datoen for innkommet søknad om beskyttelse av en opprinnelsesbetegnelse, geografisk betegnelse eller betegnelse for tradisjonelt særpreg i henhold til denne forskriften.
+
+Bestemmelsene her får tilsvarende anvendelse for vernede firma og andre forretningskjennetegn, planteforedleretter og vernede personnavn.
+
+### § 20. Innsigelse mot søknad om fastsettelse av produktforskrift
+
+Enhver kan innen tre måneder fra kunngjøringen fremsette en skriftlig og begrunnet innsigelse mot en søknad om fastsettelse av produktforskrift.
+
+En innsigelse skal tas til følge og søknaden avslås dersom:
+
+1. innsigelsen viser at forskriftens vilkår ikke er oppfylt, eller
+2. innsigelsen viser at den foreslåtte beskyttede betegnelse helt eller delvis vil gjøre inngrep i en ensbetydende betegnelse, et varemerke, fellesmerke, et vernet firma eller annet forretningskjennetegn, en planteforedlerrett eller et vernet personnavn, eller
+3. innsigelsen viser at det foreslåtte navn er en artsbetegnelse.
+
+Innsigelsen skal innleveres til Mattilsynet, eller den instans som Mattilsynet bemyndiger.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 21. Omprøving og domstolprøving av produktforskrift
+
+Den som har rettslig interesse i det, kan fremsette krav om at en produktforskrift skal oppheves helt eller delvis av Mattilsynet, eller kjennes helt eller delvis ugyldig ved søksmål.
+
+Krav om at Mattilsynet skal oppheve en produktforskrift, skal være skriftlig og begrunnet.
+
+Produktforskriften skal oppheves eller kjennes ugyldig så langt den er i strid med forskriften her.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 22. Godkjenning
+
+Enhver kan benytte en beskyttet betegnelse på de vilkårene som er fastsatt i denne forskriften og i produktforskriften. Bruken må forhåndsgodkjennes av Mattilsynet. Godkjennelsen kan trekkes tilbake dersom brukeren ikke lenger oppfyller vilkårene i denne forskriften og produktforskriften. Godkjennelsen kan omgjøres dersom produktforskriften blir opphevet eller endret.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 23. Konsumpsjon
+
+Opprinnelig søker eller andre rettmessige brukere av en beskyttet betegnelse kan ikke motsette seg bruk av betegnelsen for varer som er brakt i handelen under denne betegnelsen av opprinnelig søker eller andre rettmessige brukere, eller med samtykke fra en av disse.
+
+Bestemmelsen i første ledd gjelder ikke dersom opprinnelig søker eller andre rettmessige brukere har rimelig grunn til å motsette seg fortsatt omsetning av varene, særlig dersom varenes tilstand er endret eller forringet etter at de er brakt i handelen.
+
+### § 24. Verifikasjon
+
+En produsent som oppfyller kravene i denne forskriften og en produktforskrift kan kreve verifikasjon fra Mattilsynet eller den instans som Mattilsynet bemyndiger, på at produktforskriften etterleves.
+
+Gebyr for kostnadene pålegges den aktuelle produsent.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+## Kapittel V. Håndheving og klage mv.
+
+### § 25. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.
+
+Mattilsynet kan delegere tilsyns- og vedtaksmyndighet til andre offentlige eller private kontrollinstanser.
+
+*Endret ved [forskrift 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 26. Klage
+
+Vedtak truffet i medhold av denne forskrift eller i medhold av en produktforskrift kan påklages etter reglene i [forvaltningsloven kapittel VI](../lover/lov-1967-02-10-forvaltningsloven.md), med de særreglene som følger av paragrafen her.
+
+Vedtak i sak om fastsettelse eller endring av en produktforskrift kan bare påklages dersom søknaden ikke tas til følge. Klagen må være fremsatt av søkeren.
+
+Avgjørelsen av en innsigelse etter [§ 16](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) eller [§ 20](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) og avgjørelsen av et krav om administrativ omprøving etter [§ 21](for-2002-07-05-698-forskrift-om-beskyttelse-av-betegnelser.md) kan påklages av den som avgjørelsen har gått imot.
+
+*Endret ved [forskrifter 24 okt 2003 nr. 1281](https://lovdata.no/forskrift/2003-10-24-1281), [13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 27. Gebyr
+
+Det skal betales gebyr for behandling av søknader om
+
+1. fastsettelse av produktforskrift,
+2. godkjenning etter gjeldende produktforskrift,
+3. gjenopptagelse av søknad om fastsettelse av produktforskrift etter henleggelse, og
+4. endring av produktforskrift.
+
+Gebyret er beregnet pr. søknad og skal betales til den instans som er bemyndiget av Mattilsynet til å foreta saksbehandlingen. Gebyret skal betales ved innsendelse av søknad og størrelsen er:
+
+- For søknad etter første ledd nr. 1 og 2 skal det betales kr 40 705.
+- For søknad etter første ledd nr. 3 og 4 skal det betales kr 24 075.
+
+*Endret ved [forskrifter 13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383), [23 des 2009 nr. 1805](https://lovdata.no/forskrift/2009-12-23-1805) (i kraft 1 jan 2010), [17 des 2010 nr. 1852](https://lovdata.no/forskrift/2010-12-17-1852), [19 des 2011 nr. 1417](https://lovdata.no/forskrift/2011-12-19-1417) (i kraft 1 jan 2012), [18 des 2012 nr. 1327](https://lovdata.no/forskrift/2012-12-18-1327) (i kraft 1 jan 2013), [19 des 2013 nr. 1639](https://lovdata.no/forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [22 des 2014 nr. 1900](https://lovdata.no/forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](https://lovdata.no/forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](https://lovdata.no/forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [18 des 2017 nr. 2232](https://lovdata.no/forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](https://lovdata.no/forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](https://lovdata.no/forskrift/2019-12-19-2078) (i kraft 1 jan 2020), [23 des 2020 nr. 3173](https://lovdata.no/forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](https://lovdata.no/forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](https://lovdata.no/forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](https://lovdata.no/forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](https://lovdata.no/forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](https://lovdata.no/forskrift/2025-12-19-2824) (i kraft 1 jan 2026).*
+
+### § 27a. Vederlag og erstatning
+
+Den som forsettlig eller uaktsomt bruker en beskyttet betegnelse i strid med denne forskriften, plikter å betale rettmessige brukere et rimelig vederlag for bruken. Vederlaget skal som et minimum tilsvare den vinning den urettmessige bruker har oppnådd. I tillegg skal erstatning gis for ytterligere skade.
+
+En sammenslutning kan på vegne av de enkelte rettmessige brukere av en beskyttet betegnelse i sammenslutningen kreve vederlag og erstatning for skade som er påført disse rettmessige brukerne.
+
+Vederlaget kan nedsettes og erstatningen lempes når det bare er lite å legge den urettmessige bruker til last.
+
+Er bruken skjedd i god tro, kan retten i den utstrekning det finnes rimelig pålegge den urettmessige bruker å betale vederlag og erstatning etter bestemmelsene foran her.
+
+*Tilføyd ved [forskrift 24 okt 2003 nr. 1281](https://lovdata.no/forskrift/2003-10-24-1281).*
+
+### § 28. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](../lover/lov-2003-12-19-124-matloven.md).
+
+*Endret ved [forskrifter 24 okt 2003 nr. 1281](https://lovdata.no/forskrift/2003-10-24-1281), [13 feb 2004 nr. 383](https://lovdata.no/forskrift/2004-02-13-383).*
+
+### § 29. Ikrafttredelse
+
+Denne forskriften trer i kraft straks.

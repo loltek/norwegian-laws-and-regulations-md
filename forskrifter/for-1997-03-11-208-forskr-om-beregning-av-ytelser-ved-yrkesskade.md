@@ -1,0 +1,55 @@
+# Forskrift om beregning av uførepensjon og godskriving av pensjonspoeng ved yrkesskade.
+
+- **Korttittel:** Forskr. om beregning av ytelser ved yrkesskade
+- **Datokode:** FOR-1997-03-11-208
+- **DokumentID:** SF/forskrift/1997-03-11-208
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Trygdeavd.
+- **Hjemmel:** lov 28.02.1997 nr. 19/§3-30
+- **Publisert i:** I 1997 524
+- **I kraft fra:** 1997-05-01
+- **Siste endring i kraft:** 2002-01-01
+- **Sist endret ved:** forskrift 21.12.2001 nr. 1555 fra 2002-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt av Sosial- og helsedepartementet 11. mars 1997 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd § 3-30 femte ledd. Endret 21 des 2001 nr. 1555 (bl.a tittel).
+- **Kilde:** <https://lovdata.no/forskrift/1997-03-11-208>
+
+## § 1. Omfang
+
+Denne forskriften gjelder
+
+a. beregning av uførepensjon når uførheten på grunn av en yrkesskade er gradert, og
+b. godskriving av pensjonspoeng for en person som mottar uførepensjon som helt eller delvis skyldes yrkesskade.
+
+*Endret ved [forskrift 21 des 2001 nr. 1555](https://lovdata.no/forskrift/2001-12-21-1555) (i kraft 1 jan 2002).*
+
+## § 2. Ytelser som delvis skyldes yrkesskade
+
+Når en person har rett til uførepensjon og uførheten bare delvis skyldes en yrkesskade, skal den delen som skyldes yrkesskaden og den delen som skyldes andre forhold, beregnes hver for seg. Samlet ytelse skal svare til summen av delytelsene.
+
+Den delen som skyldes yrkesskade beregnes etter forholdene på uføretidspunktet, se [folketrygdloven § 12-10](../lover/lov-1997-02-28-19-folketrygdloven.md), jf. [§ 12-18](../lover/lov-1997-02-28-19-folketrygdloven.md) første ledd bokstav d.
+
+*Endret ved [forskrift 21 des 2001 nr. 1555](https://lovdata.no/forskrift/2001-12-21-1555) (i kraft 1 jan 2002).*
+
+## § 3. Ytterligere nedsatt inntektsevne
+
+Når et medlem som har rett til uførepensjon får sin inntektsevne ytterligere nedsatt på grunn av en yrkesskade, oppjusteres antatt årlig arbeidsinntekt på skadetidspunktet. Dette gjøres ved at denne inntekten divideres med en så stor brøkdel som restarbeidsevnen utgjorde av hel arbeidsevne.
+
+Dersom den opprinnelige uførheten skyldes en yrkesskade, skal det når tilleggspensjonen blir beregnet legges til grunn det av de to følgende alternativene som gir høyest poengtall:
+
+a. Det poengtallet som ble lagt til grunn da tilleggspensjonen for den første yrkesskaden ble beregnet.
+b. Det poengtallet som etter [folketrygdloven § 3-30](../lover/lov-1997-02-28-19-folketrygdloven.md) første ledd bokstav c, legges til grunn når antatt inntekt er oppjustert etter første ledd i paragrafen her.
+
+*Endret ved [forskrift 21 des 2001 nr. 1555](https://lovdata.no/forskrift/2001-12-21-1555) (i kraft 1 jan 2002).*
+
+## § 4. Godskriving av pensjonspoeng når uførheten helt eller delvis skyldes yrkesskade
+
+Den som mottar uførepensjon som helt eller delvis skyldes yrkesskade, får godskrevet pensjonspoeng for hvert år han eller hun har mottatt slik pensjon etter et av de følgende alternativene:
+
+a. Dersom pensjonisten mottar hel uførepensjon på grunn av en yrkesskade, skal de godskrevne pensjonspoengene for hvert år svare til det poengtallet som etter [folketrygdloven § 3-30](../lover/lov-1997-02-28-19-folketrygdloven.md) første ledd bokstav c legges til grunn for beregningen av tilleggspensjonen.
+b. Dersom pensjonisten mottar gradert uførepensjon på grunn av en yrkesskade, skal de godskrevne pensjonspoengene svare til en så stor del av det nevnte poengtallet som den graderte pensjonen utgjør av hel pensjon.
+c. Dersom bare en del av uførepensjonen gis på grunnlag av en yrkesskade, skal de godskrevne pensjonspoengene svare til summen av det framtidig poengtallet som godskrives etter [folketrygdloven § 3-19](../lover/lov-1997-02-28-19-folketrygdloven.md), og det poengtallet som godskrives etter bokstav b i paragrafen her.
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft den 1. mai 1997.

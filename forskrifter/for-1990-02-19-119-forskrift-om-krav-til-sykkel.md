@@ -1,0 +1,60 @@
+# Forskrift om krav til sykkel
+
+- **Datokode:** FOR-1990-02-19-119
+- **DokumentID:** SF/forskrift/1990-02-19-119
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Vegdirektoratet
+- **Hjemmel:** lov 18.06.1965 nr. 4/§2; lov 18.06.1965 nr. 4/§13; lov 18.06.1965 nr. 4/§14; lov 18.06.1965 nr. 4/§15; lov 18.06.1965 nr. 4/§16; forskrift 24.11.1980 nr. 1
+- **Publisert i:** I 1990 199
+- **I kraft fra:** 1990-04-01
+- **Siste endring i kraft:** 2022-06-15
+- **Sist endret ved:** forskrift 25.05.2022 nr. 930 fra 2022-06-15
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Vegdirektoratet 19. februar 1990 med hjemmel i vegtrafikkloven av 18. juni 1965 §§ 13 – 16, jfr. Samferdselsdepartementets delegeringsvedtak av 24. november 1980 nr. 1. Endret ved forskrifter 27 juni 2001 nr. 813, 22 des 2006 nr. 1605, 26 juli 2013 nr. 931, 23 mars 2015 nr. 281, 9 april 2018 nr. 545, 11 mai 2021 nr. 1480 (i kraft 18 mai 2021), 25 mai 2022 nr. 930 (i kraft 15 juni 2022).
+- **Kilde:** <https://lovdata.no/forskrift/1990-02-19-119>
+
+## § 1. Forskriftens virkeområde
+
+Forskriften gjelder for sykkel som tas i bruk første gang i Norge 1. januar 1971 eller senere.
+
+## § 2. Definisjon
+
+Sykkel: Kjøretøy som drives frem ved trå- eller veivanordning, unntatt kjøretøy som bare er beregnet for lek.
+
+Som sykkel regnes også kjøretøy som nevnt i første ledd og som er utstyrt med elektrisk hjelpemotor med maksimal nominell effekt på høyst 0,25 kW hvor hjelpemotorens effekt reduseres gradvis og opphører når kjøretøyet oppnår en hastighet på 25 km/t, eller tidligere hvis syklisten slutter å trå/veive. Det tillates at kjøretøyet har fremdrift kun ved motorkraft opp til 6 km/t. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter [vegtrafikkloven § 2](../lover/lov-1965-06-18-4-vegtrafikkloven.md).
+
+Sykkel med to sitteplasser kan ha elektrisk hjelpemotor med nominell effekt på høyst 0,5 kW når det kan dokumenteres at kjøretøyet er tildelt eller utlånt som hjelpemiddel fra Arbeids- og velferdsetaten. Det er tilstrekkelig at én av syklistene trår/veiver for at hjelpemotoren skal gi effekt. For øvrig gjelder kravene i forrige ledd. Kjøretøy som nevnt i dette ledd anses ikke som motorvogn etter [vegtrafikkloven § 2](../lover/lov-1965-06-18-4-vegtrafikkloven.md).
+
+Sykkel som tilfredsstiller kravene i NS-EN 15194 anses å oppfylle definisjonen i annet ledd.
+
+*Endret ved [forskrifter 26 juli 2013 nr. 931](https://lovdata.no/forskrift/2013-07-26-931), [23 mars 2015 nr. 281](https://lovdata.no/forskrift/2015-03-23-281), [9 april 2018 nr. 545](https://lovdata.no/forskrift/2018-04-09-545) (i kraft 10 april 2018), [11 mai 2021 nr. 1480](https://lovdata.no/forskrift/2021-05-11-1480) (i kraft 18 mai 2021), [25 mai 2022 nr. 930](https://lovdata.no/forskrift/2022-05-25-930) (i kraft 15 juni 2022).*
+
+## § 3. Alminnelige bestemmelser om konstruksjon, utstyr, merking m.m.
+
+1. Sykkel skal være bygd, innrettet, utstyrt og vedlikeholdt slik at den tåler de påkjenninger som den vanligvis utsettes for og kan nyttes uten å volde unødig fare eller ulempe.
+2. Sykkel skal være tydelig og varig merket med fabrikasjonsnummer, som skal være angitt på rammen. Det skal være plassert og utført slik at det er godt synlig og slik at det ikke lett kan fjernes eller endres.
+
+## § 4. Bremser
+
+1. Sykkel skal ha minst to separate bremser, som er slik at bremsingen kan kontrolleres og sykkelen kunne stanses på sikker, effektiv og hurtig måte.
+2. Den ene bremsen skal virke på forhjulet og den andre på bakhjulet.
+3. Betjeningsinnretningene (håndtak, pedaler) skal virke uavhenging av hverandre. Den må kunne brukes med begge hendene på styret.
+
+## § 5. Lys og refleks
+
+1. Sykkel skal ha rød refleks bak. På begge sider av pedalene skal det være hvit eller gul refleks. Ved bruk av sykkel utstyrt med klikkpedaler hvorpå det ikke kan monteres refleks, skal sykkelen ha refleks på pedalarmene. Refleksanordningene skal være av godkjent type.
+2. Sykkel, som brukes i mørket eller i usiktbart vær på alminnelig beferdet veg eller område, skal foran ha lykt som gir gult eller hvitt lys og/eller flerfunksjonslykt som kan gi blinkende eller fast hvitt lys. Bak skal sykkel ha lykt som gir rødt lys og/eller lykt som gir blinkende rødt lys.
+3. Lyktene skal være festet til sykkelen.
+4. Lyktene skal kunne sees tydelig i en avstand på 300 m. Lykter som gir blinkende lys skal blinke med minst 120 blink pr. minutt.
+
+*Endret ved [forskrifter 27 juni 2001 nr. 813](https://lovdata.no/forskrift/2001-06-27-813), [22 des 2006 nr. 1605](https://lovdata.no/forskrift/2006-12-22-1605) (i kraft 1 mars 2007).*
+
+## § 6. Lydsignal
+
+Sykkel skal ha signalklokke. Annet varselapparat er forbudt.
+
+## § 7. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. april 1990.
+
+*Endret ved [forskrifter 9 april 2018 nr. 545](https://lovdata.no/forskrift/2018-04-09-545) (i kraft 10 april 2018, tidligere § 7), [25 mai 2022 nr. 930](https://lovdata.no/forskrift/2022-05-25-930) (i kraft 15 juni 2022, tidligere § 11).*

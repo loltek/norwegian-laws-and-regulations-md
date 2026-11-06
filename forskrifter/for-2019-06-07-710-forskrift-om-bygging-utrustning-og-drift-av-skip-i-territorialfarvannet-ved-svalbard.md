@@ -1,0 +1,171 @@
+# Forskrift om bygging, utrustning og drift av skip i territorialfarvannet ved Svalbard
+
+- **Datokode:** FOR-2019-06-07-710
+- **DokumentID:** SF/forskrift/2019-06-07-710
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Sjøfartsdirektoratet
+- **Hjemmel:** lov 16.02.2007 nr. 9/§2; lov 16.02.2007 nr. 9/§6; lov 16.02.2007 nr. 9/§7; lov 16.02.2007 nr. 9/§9; lov 16.02.2007 nr. 9/§11; lov 16.02.2007 nr. 9/§12; lov 16.02.2007 nr. 9/§13; lov 16.02.2007 nr. 9/§14; lov 16.02.2007 nr. 9/§15; lov 16.02.2007 nr. 9/§16; lov 16.02.2007 nr. 9/§17; lov 16.02.2007 nr. 9/§21; lov 16.02.2007 nr. 9/§22; lov 16.02.2007 nr. 9/§27; lov 16.02.2007 nr. 9/§43; lov 16.02.2007 nr. 9/§44; lov 16.02.2007 nr. 9/§45; forskrift 16.02.2007 nr. 171; forskrift 31.05.2007 nr. 590
+- **Kunngjort:** 2019-06-11 14:35
+- **I kraft fra:** 2020-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 19.03.2025 nr. 563 fra 2026-01-01, forskrift 26.06.2025 nr. 1372
+- **Gjelder for:** Svalbard
+- **Merknad:** Hjemmel: Fastsatt av Sjøfartsdirektoratet 7. juni 2019 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2, § 6, § 7, § 9, § 11, § 12, § 13, § 14, § 15, § 16, § 17, § 21, § 22, § 27, § 43, § 44 og § 45, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590. Endret ved forskrifter 18 des 2023 nr. 2173 (i kraft 1 jan 2024), 26 juni 2025 nr. 1372, 19 mars 2025 nr. 563 (i kraft 1 jan 2026, bl.a. tittel).
+- **Kilde:** <https://lovdata.no/forskrift/2019-06-07-710>
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1. Virkeområde
+
+Med de begrensninger som følger av folkeretten, gjelder forskriften for norske og utenlandske passasjerskip i fart i territorialfarvannet ved Svalbard.
+
+[§ 4a](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md) i forskriften her gjelder for norske og utenlandske skip med største lengde 24 meter eller mer med bruttotonnasje under 500 som fører 12 eller færre passasjerer i fart i territorialfarvannet ved Svalbard.
+
+*Endret ved forskrift [19 mars 2025 nr. 563](https://lovdata.no/forskrift/2025-03-19-563) (i kraft 1 jan 2026).*
+
+### § 2. Tilsyn og dokumentasjon
+
+Skipet skal ha om bord en bekreftelse fra flaggstaten på at det er ført tilsyn etter IMO-resolusjon A 1104(29), og at kravene i denne forskriften er oppfylt. Bekreftelsen skal
+
+a. være på norsk eller engelsk
+b. fornyes hvert femte år.
+
+### § 3. Definisjoner
+
+I denne forskriften betyr
+
+a. «passasjer»: enhver person med unntak av
+   1. skipsføreren og medlemmer av besetningen eller andre personer ansatt eller beskjeftiget i skipets tjeneste i hvilken som helst stilling om bord
+   2. barn under ett år,
+b. «passasjerskip»: skip som fører flere enn 12 passasjerer, unntatt skip som tilhører forsvaret eller benyttes i dets tjeneste,
+c. «SOLAS» den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 konsolidert utgave 2020 som endret ved MSC.456(101), MSC.474(102), 482(103) og MSC.496(105).
+
+*Endret ved forskrift [18 des 2023 nr. 2173](https://lovdata.no/forskrift/2023-12-18-2173) (i kraft 1 jan 2024).*
+
+## Kapittel 2. Felles bestemmelser
+
+### § 4. Planlegging og gjennomføring av sjøreisen
+
+Polarkoden del I-B regel 10.2 og 10.3 gjelder som forskrift.
+
+Skip skal opereres i sikker avstand til brefronter. Avstanden skal være minimum fem ganger brefrontens høyde, men ikke mindre enn 200 meter.
+
+### § 4a. Kvalifikasjoner dekksoffiserer
+
+Polarkoden del I-A kapittel 12 og STCW-konvensjonen regel V/4, jf. STCW-koden del A-V/4 gjelder som forskrift.
+
+*Tilføyd ved forskrift [19 mars 2025 nr. 563](https://lovdata.no/forskrift/2025-03-19-563) (i kraft 1 jan 2026).*
+
+### § 5. Sykerom og prosedyre for evakuering med helikopter
+
+Skipet skal være utrustet med sykerom, medisiner og utstyr i samsvar med anbefalingene i MSC.1/Circ. 1129.
+
+Skipet skal ha en prosedyre for evakuering med helikopter i samsvar med anbefalingene i «International Aeronautical and Maritime Search and Rescue Manual (IAMSAR Manual)».
+
+### § 6. Krav til fartøy som brukes som tenderfartøy
+
+Fartøy som er en del av passasjerskipets utrustning og brukes til å frakte passasjerer mellom skip og land (tenderfartøy) skal følge kravene i denne bestemmelsen.
+
+Tenderfartøy skal opereres i sikker avstand til brefronter. Avstanden skal være minimum fem ganger brefrontens høyde, men ikke mindre enn 200 meter.
+
+### § 7. Beskyttelse mot isbjørn
+
+For å beskytte personer etter evakuering til is eller land, skal skipet ha prosedyrer og utstyr som avverger angrep fra isbjørn, uten å skade eller avlive dyret.
+
+## Kapittel 3. Hurtiggående passasjerskip
+
+### § 8. Hurtiggående passasjerskip
+
+Passasjerskip som er hurtiggående etter definisjonen i SOLAS kapittel X regel 1, skal være sertifisert etter de internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO-resolusjon MSC.97(73), som endret ved MSC.175(79), MSC.222(82), MSC.260(84), MSC.271(85), MSC.326(90), MSC.352(92), MSC 424(98) og MSC.439(99) (HSC2000-koden).
+
+Kategori A-fartøy kan bare operere i Isfjorden og skal være utstyrt med redningsflåter som oppfyller LSA-koden.
+
+HSC2000-koden kapittel 13 gjelder også for skip med bruttotonnasje under 150.
+
+Denne forskriften [§ 17](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md) og [§ 18](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md) gjelder tilsvarende for hurtiggående passasjerskip.
+
+## Kapittel 4. Passasjerskip som ikke har sikkerhetssertifikat for passasjerskip eller sikkerhetssertifikat for hurtiggående passasjerskip
+
+### § 9. Virkeområde for [kapittel 4](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md)
+
+[§ 10](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md) til [§ 19](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md) gjelder for skip som ikke har sikkerhetssertifikat for passasjerskip etter SOLAS kapittel I eller sikkerhetssertifikat for hurtiggående passasjerskip etter HSC2000-koden [kapittel 1](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md).
+
+### § 10. Bygging – konstruksjon, oppdeling og stabilitet, maskineri og elektriske anlegg
+
+SOLAS kapittel II-1 gjelder som forskrift, med unntak av regel 1.4 og 9.5.
+
+Passasjerområder skal være utformet i samsvar med MSC.1/Circ.735 på skip som ble kjølstrukket eller var på et tilsvarende byggetrinn 1. januar 2020 eller senere.
+
+Personheiser skal utformes, bygges, installeres, utrustes, testes og kontrolleres etter et anerkjent klasseselskaps regler og (ISO) 8383 «Lifts on Ships – Specific Requirements».
+
+### § 11. Bygging – brannvern, branndeteksjon og brannslokking
+
+SOLAS kapittel II-2 gjelder som forskrift, med unntak av regel 1.4.4.1.
+
+### § 12. Redningsredskaper og -arrangementer
+
+SOLAS kapittel III gjelder som forskrift, med unntak av regel 2.1 og 21.
+
+Skipet skal ha redningsfarkoster som oppfyller punkt 4.2 «oppblåsbare redningsflåter», 4.5 «delvis overbygde livbåter» eller punkt 4.6 «helt overbygde livbåter» i LSA-koden med en samlet kapasitet til minst 125 % av det totale antallet personer skipet er sertifisert for. Redningsfarkostene skal, så langt det er praktisk mulig, være jevnt fordelt på hver side av skipet. Redningsflåter skal betjenes av et marint evakueringssystem (MES) i samsvar med kravene i avsnitt 6.2 i LSA-koden eller utsettingsredskaper i samsvar med punkt 6.1.5 i LSA-koden.
+
+Redningsfarkostene skal ha en samlet kapasitet tilstrekkelig for det antall personer skipet er sertifisert til å føre, selv om én redningsfarkost skulle gå tapt eller bli ubrukelig. Ved beregning av kapasiteten skal det tas hensyn til om én enkelt feil i felleskomponenter kan føre til at flere redningsfarkoster går tapt eller blir ubrukelige.
+
+Alle redningsfarkoster som kreves for å sørge for at det totale antallet personer om bord kan forlate skipet, skal kunne settes ut med det antall personer og den mengde utstyr som de er beregnet for, innen 30 minutter fra det gis signal om å forlate skipet.
+
+Skipet skal ha minst én MOB-båt. En livbåt kan erstatte MOB-båt dersom livbåten og utsettings- og ombordtakingsarrangementene oppfyller kravene som stilles til en MOB-båt.
+
+Antall MOB-båter og/eller livbåter skal være tilstrekkelig til å sikre at hver MOB-båt eller livbåt ikke må samle mer enn ni redningsflåter etter evakuering.
+
+*Endret ved forskrift [26 juni 2025 nr. 1372](https://lovdata.no/forskrift/2025-06-26-1372).*
+
+### § 13. Radiokommunikasjon
+
+SOLAS kapittel IV gjelder som forskrift, med unntak av regel 1.1 og 3.
+
+### § 14. Sikker navigasjon
+
+SOLAS kapittel V gjelder som forskrift, med unntak av regel 1.2, 1.4 og 3.
+
+Skipet skal ha sikkerhetsbemanning fastsatt av flaggstaten.
+
+### § 15. Frakt av last og brennolje
+
+SOLAS kapittel VI gjelder som forskrift, med unntak av regel 1.1.
+
+### § 16. Frakt av farlig last
+
+SOLAS kapittel VII gjelder som forskrift, med unntak av regel 2.1.
+
+### § 17. Sikkerhetsstyring
+
+Skipet skal ha gyldig sertifikat for sikkerhetsstyring i henhold til SOLAS kapittel IX utstedt fra sin flaggstat.
+
+### § 18. Polare sikkerhetstiltak
+
+SOLAS kapittel XIV gjelder som forskrift, med unntak av regel 2.1 og 3.
+
+Polarkoden del I-A og de sikkerhetsrelaterte bestemmelsene i innledningen gjelder som forskrift, med unntak av del I-A [kapittel 1](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md) regel 1.3 om sertifikater og tilsyn.
+
+Maksimal forventet redningstid er den tiden som er lagt til grunn ved utformingen av overlevelsesutstyr og -systemer, og kan være mindre enn fem dager.
+
+### § 19. Lastelinje
+
+For skip med lengde (L) 24 meter eller mer gjelder kravene i den internasjonale konvensjonen om lastelinjer av 1966, endret ved 1988-protokollen, konsolidert utgave 2005, vedlegg B, vedlegg I som endret ved IMO-resolusjon MSC.223(82), Res.MSC.270(85), Res.MSC.329(90), Res.MSC.345(91) og Res.MSC.356(92) (lastelinjekonvensjonen) som forskrift.
+
+Skip med lengde (L) under 24 meter skal følge alle krav til lukningsmidler, karm- og terskelhøyder, lufterør- og ventilatorhøyder, lenseportareal og overbordventiler for avløp som er angitt i lastelinjekonvensjonen.
+
+## Kapittel 5. Avsluttende bestemmelser
+
+### § 20. Dispensasjon
+
+Flaggstaten kan etter skriftlig søknad fra rederiet godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene gir et likeverdig sikkerhetsnivå med forskriftens krav.
+
+Skipet skal ha om bord en liste over likeverdige løsninger som er akseptert av flaggstaten.
+
+### § 21. Overgangsbestemmelse
+
+Skip som har operert i Norges territorialfarvann ved Svalbard hvert år de siste tre årene, trenger ikke oppfylle kravene i denne forskriften, med unntak av [§ 4](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md) og [§ 7](for-2019-06-07-710-forskrift-om-bygging-utrustning-og-drift-av-skip-i-territorialfarvannet-ved-svalbard.md), før 1. januar 2025.
+
+### § 22. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2020.

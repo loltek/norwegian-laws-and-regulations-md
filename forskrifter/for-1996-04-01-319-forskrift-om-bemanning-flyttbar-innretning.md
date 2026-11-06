@@ -1,0 +1,189 @@
+# Forskrift om bemanning av flyttbare innretninger
+
+- **Korttittel:** Forskrift om bemanning, flyttbar innretning
+- **Datokode:** FOR-1996-04-01-319
+- **DokumentID:** SF/forskrift/1996-04-01-319
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Sjøfartsdir.
+- **Hjemmel:** lov 16.02.2007 nr. 9/§14; lov 16.02.2007 nr. 9/§15; lov 16.02.2007 nr. 9/§16; lov 16.02.2007 nr. 9/§45; forskrift 16.02.2007 nr. 171; forskrift 31.05.2007 nr. 590
+- **Publisert i:** Avd I 1996 388
+- **I kraft fra:** 1996-05-15
+- **Siste endring i kraft:** 2016-07-01
+- **Sist endret ved:** forskrift 28.06.2016 nr. 833 fra 2016-07-01
+- **Endrer:** forskrift 23.03.1982 nr. 576
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Sjøfartsdirektoratet 1. april 1996 med hjemmel i lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. Hjemmel er endret til lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 14, § 15, § 16 og § 45, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590. EØS-henvisninger: EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv 98/34/EF). Endret ved forskrifter 2 mars 1999 nr. 414, 11 april 2003 nr. 545, 29 juni 2007 nr. 1006 (bl.a. hjemmel), 14 mars 2008 nr. 305, 28 juni 2016 nr. 833.
+- **Kilde:** <https://lovdata.no/forskrift/1996-04-01-319>
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Virkeområde
+
+1. Forskriften gjelder bemanning av flyttbare innretninger som er registrert i norsk skipsregister.
+2. Innretninger som er registrert i norsk skipsregister, kan, frem til neste sertifikatutstedelse, følge de krav som gjaldt ved siste sertifikatutstedelse.
+
+*Endret ved [forskrifter 11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), [28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+### § 2. (Opphevet)
+
+*Endret ved [forskrifter 2 mars 1999 nr 414](https://lovdata.no/forskrift/1999-03-02-414) (i kraft 1 sept 1999), [11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](https://lovdata.no/forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [14 mars 2008 nr. 305](https://lovdata.no/forskrift/2008-03-14-305) (i kraft 24 mars 2008), opphevet ved [forskrift 28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+## Kapittel II. Generelle bestemmelser
+
+### § 3. (Opphevet)
+
+*Endret ved [forskrift 11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), opphevet ved [forskrift 28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+### § 4. Plikter
+
+Rederiet, plattformsjef og andre som har sitt arbeid om bord skal utføre sine plikter i henhold til skipssikkerhetsloven og med de utfyllende bestemmelser som følger av denne forskrift.
+
+*Endret ved [forskrifter 2 mars 1999 nr. 414](https://lovdata.no/forskrift/1999-03-02-414) (i kraft 1 sept 1999), [11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](https://lovdata.no/forskrift/2007-06-29-1006) (i kraft 1 juli 2007).*
+
+### § 5. Dispensasjon
+
+(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+a. Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.
+b. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+
+(2) Uttalelse fra verneombud skal legges ved dispensasjonssøknaden.
+
+*Endret ved [forskrifter 11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), [28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+## Kapittel III. Bemanning ved operasjon, forflytning og arbeidskonflikt
+
+*Overskriften endret ved [forskrifter 11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), [28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+### § 6. Dokumentasjon
+
+**1.**
+
+Rederiet skal sende Sjøfartsdirektoratet følgende dokumentasjon i ett eksemplar:
+
+**1.1.**
+
+Organisasjonsplan.
+
+**1.2.**
+
+Stillingsinstruks for hver stilling i organisasjonsplanen.
+
+**1.3**
+
+Begrunnet forslag til sikkerhetsbemanning ved operasjon og forflytning, jf. [§ 8](for-1996-04-01-319-forskrift-om-bemanning-flyttbar-innretning.md), og ved arbeidskonflikt. Forslagene settes opp i tabellform med bruksområder og farvann. Tabellen skal inneholde stillingsbetegnelser med tilhørende sertifikater og kvalifikasjonsbevis i henhold til [forskrift 22. desember 2011 nr. 1523](for-2011-12-22-1523-forskrift-om-kvalifikasjoner-mv-for-sjofolk.md) om kvalifikasjoner og sertifikater for sjøfolk.
+
+**1.4.**
+
+Informasjon om andre forhold av betydning for sikker drift.
+
+**2.**
+
+Sjøfartsdirektoratet kan kreve tilleggsdokumentasjon innenfor de områder som er angitt i nr. 1.
+
+*Endret ved [forskrifter 11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](https://lovdata.no/forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+### § 7. Bemanningsoppgave
+
+1. Sjøfartsdirektoratet utsteder bemanningsoppgave med bestemte stillingsbetegnelser, sertifikater og kvalifikasjonskrav. Bemanningsoppgaven gjelder ikke bemanning under havne- og verkstedopphold, eller under opplag, jf. [§ 10](for-1996-04-01-319-forskrift-om-bemanning-flyttbar-innretning.md) og [§ 11](for-1996-04-01-319-forskrift-om-bemanning-flyttbar-innretning.md).
+2. Bemanningsoppgaven skal være oppslått slik at alle om bord kan gjøre seg kjent med innholdet.
+
+*Endret ved [forskrifter 11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), [28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+### § 8. Sikkerhetsbemanning
+
+**1.**
+
+Rederiet skal i samråd med plattformsjef og verneombud foreslå den sikkerhetsbemanning som er nødvendig for å ivareta sikkerheten for innretningen og de om bord, og hindre forurensning av det marine miljø.
+
+**2.**
+
+Forslaget skal baseres på innretningens
+
+a. risikoanalyse,
+b. beredskapsanalyse,
+c. sikkerhetsstyringssystem,
+d. organisasjonsplan,
+e. stillingsinstruks for hver stilling,
+f. fartsområde.
+
+**3.**
+
+Den sikkerhetsbemanningen som foreslås skal dekke alle aktuelle operasjoner, oppgaver og funksjoner for sikker drift av den flyttbare innretningen, herunder:
+
+**3.1.**
+
+vakthold, øvelser og beredskap
+
+**3.2.**
+
+operasjon og vedlikehold av sikkerhetskritisk driftssystem og sikrings- og bekjempelsessystem, jf. [forskrift 22. desember 1993 nr. 1239](for-1993-12-22-1239-forskrift-om-risikoanalyse-flyttb-innr.md) om risikoanalyse for flyttbare innretninger [§ 25](for-1993-12-22-1239-forskrift-om-risikoanalyse-flyttb-innr.md)
+
+**3.3.**
+
+operasjon og vedlikehold av kontrollrom
+
+**3.4.**
+
+operasjoner tilknyttet forsyningsskip og beredskapsfartøy
+
+**3.5.**
+
+operasjoner tilknyttet forflytning.
+
+**4.**
+
+Flyttbare innretninger som benyttes til boligformål (flotell), skal ha sikkerhetsleder i egen stilling.
+
+**5.**
+
+Ved forflytning av oppjekkbare innretninger skal antall og sammensetning av sikkerhetsbemanningen være begrenset til personell som skal ivareta sikkerhetsrelaterte oppgaver.
+
+**6.**
+
+Plattformsjefen skal ha øverste myndighet om bord og kvalifikasjoner i henhold til [forskrift 22. desember 2011 nr. 1523](for-2011-12-22-1523-forskrift-om-kvalifikasjoner-mv-for-sjofolk.md) om kvalifikasjoner og sertifikater for sjøfolk [§ 70](for-2011-12-22-1523-forskrift-om-kvalifikasjoner-mv-for-sjofolk.md) – § 72.
+
+*Endret ved [forskrifter 2 mars 1999 nr. 414](https://lovdata.no/forskrift/1999-03-02-414) (i kraft 1 sept 1999), [11 april 2003 nr. 545](https://lovdata.no/forskrift/2003-04-11-545) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](https://lovdata.no/forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+### § 9. (Opphevet)
+
+*Opphevet ved [forskrift 28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+## Kapittel IV. Bemanning under havneopphold, verkstedsopphold og opplag
+
+### § 10. Havneopphold
+
+1. Bemanning under havneopphold skal fastsettes av rederiet i samråd med plattformsjef og verneombud, basert på liste over sikkerhetsrelaterte oppgaver som opphører under havneopphold, jf. [§ 8](for-1996-04-01-319-forskrift-om-bemanning-flyttbar-innretning.md) nr. 3.
+
+2. Ved fastsettelse av bemanningen skal det tas hensyn til sikkerheten ved arbeid, besøk mv. som foregår om bord av andre enn innretningens bemanning, og som i henhold til ovennevnte er plattformsjefens ansvar.
+
+3. Fastsatt bemanning skal føres i dekksdagboken.
+
+*Endret ved [forskrifter 29 juni 2007 nr. 1006](https://lovdata.no/forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+### § 11. Verkstedopphold og opplag
+
+1. Bemanning under verkstedsopphold og opplag fastsettes av rederiet i samråd med plattformsjefen og verneombud basert på lister over
+
+a. hvilke sikkerhetsrelaterte oppgaver som opphører under verkstedsopphold eller opplag, jf. [§ 8](for-1996-04-01-319-forskrift-om-bemanning-flyttbar-innretning.md) nr. 3.
+b. sikkerhetsrelaterte oppgaver hvor det foreligger ansvarsoverdragelse.
+
+2. Sikkerhetsrelaterte oppgaver som er overdratt til andre skal føres i dekksdagbok og signeres av bemyndiget person for ansvarsovertager.
+
+3. Ved fastsettelse av bemanningen skal det tas hensyn til sikkerheten ved arbeid, besøk mv. som foregår om bord av andre enn innretningens bemanning.
+
+*Endret ved [forskrifter 29 juni 2007 nr. 1006](https://lovdata.no/forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [28 juni 2016 nr. 833](https://lovdata.no/forskrift/2016-06-28-833) (i kraft 1 juli 2016).*
+
+## Kapittel V. Avsluttende bestemmelser
+
+### § 12. Ikrafttredelse m.v.
+
+Denne forskrift trer i kraft 15. mai 1996.
+
+Fra samme dato oppheves [forskrift av 23. mars 1982 nr. 576](https://lovdata.no/forskrift/1982-03-23-576) om bemanning av norske borefartøy og andre flyttbare innretninger i sjøen.
+
+Fra samme tid oppheves også i brev av 14. mai 1982 under tittelen:
+
+«Minimum bemanning om bord i norske borefartøy og andre flyttbare/innretninger i sjøen under arbeidskonflikt».
+
+*Endret ved [forskrift 29 juni 2007 nr. 1006](https://lovdata.no/forskrift/2007-06-29-1006) (i kraft 1 juli 2007, tidligere § 13).*

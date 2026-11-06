@@ -1,0 +1,131 @@
+# Forskrift om krav til utstyr og installasjon av posisjonsrapporteringsutstyr
+
+- **Korttittel:** Forskrift om posisjonsrapporteringsutstyr
+- **Datokode:** FOR-2010-03-24-454
+- **DokumentID:** SF/forskrift/2010-03-24-454
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Fiskeridirektoratet
+- **Hjemmel:** lov 06.06.2008 nr. 37/§34; lov 06.06.2008 nr. 37/§35; lov 06.06.2008 nr. 37/§36; lov 06.06.2008 nr. 37/§37; lov 06.06.2008 nr. 37/§43; forskrift 21.12.2009 nr. 1743/§22; forskrift 21.12.2009 nr. 1743/§33
+- **Publisert i:** I 2010 hefte 5
+- **Kunngjort:** 2010-03-30 14:10
+- **I kraft fra:** 2010-03-24
+- **Siste endring i kraft:** 2024-11-20
+- **Sist endret ved:** forskrift 20.11.2024 nr. 2800
+- **Endrer:** forskrift 23.12.1999 nr. 1592; forskrift 13.06.2000 nr. 674; forskrift 28.04.1999 nr. 536
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Fiskeridirektoratet 24. mars 2010 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 34, § 35, § 36, § 37 og § 43 og forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy § 22 og § 33. Endret ved forskrifter 11 juni 2010 nr. 1340, 28 juni 2024 nr. 1522, 20 nov 2024 nr. 2800. Endres ved forskrift 14 okt 2026 nr. 2060 (i kraft 1 april 2027).
+- **Kilde:** <https://lovdata.no/forskrift/2010-03-24-454>
+
+## Kapittel I. Virkeområde
+
+### § 1. Virkeområde
+
+Denne forskrift gjelder for norske fiske- og fangstfartøy som i henhold til [forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy](for-2009-12-21-1743-ers-forskriften.md) skal ha posisjonsrapporteringsutstyr om bord, samt produsent, tjenesteleverandør og installatør av slikt utstyr.
+
+*Endret ved forskrift [28 juni 2024 nr. 1522](https://lovdata.no/forskrift/2024-06-28-1522).*
+
+## Kapittel II. Krav til posisjonsrapporteringsutstyr
+
+### § 2. Krav til posisjonsrapporteringsutstyr om bord i fiske- og fangstfartøy
+
+Posisjonsrapporteringsutstyr skal være typegodkjent av Fiskeridirektoratet og tilfredsstille følgende krav:
+
+a. ha radioteknisk typegodkjennelse i tråd med gjeldende regelverk,
+b. være installert i henhold til bestemmelsene i [kapittel III](for-2010-03-24-454-forskrift-om-posisjonsrapporteringsutstyr.md) og IV i denne forskriften,
+c. automatisk kunne sende meldinger i maskinlesbar form minst 1 gang per time med følgende innhold:
+   i. entydig identifikasjon av fartøyet,
+   ii. fartøyets geografiske posisjon med posisjonsfeil på under 500 meter med et konfidensintervall på 99 %,
+   iii. dato og tidspunkt for fartøyets posisjon,
+   iv. fart og kurs i rapporteringsøyeblikket,
+   v. identifikasjon av hvilken rapporttype som sendes,
+d. være sikret mot manipulering og deaktivering, herunder sikret mot at andre enn spesielt autorisert personell skal kunne endre meldingsplanen eller meldingen som sendes til Fiskeridirektoratet,
+e. fungere slik at Fiskeridirektoratet skal kunne motta posisjonsopplysninger fra tilfeldige tidspunkt i tillegg til de posisjonsopplysninger som sendes i henhold til eventuell forhåndskodet rapporteringsplan,
+f. være av en slik art at fartøyet kan spores i alle områder der fartøy vil oppholde seg,
+g. være sikret mot påvirkning fra annet teknisk utstyr om bord i fartøyet.
+
+***Endres** ved forskrift [14 okt 2026 nr. 2060](for-2026-10-14-2060-forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fis.md) (i kraft 1 april 2027).*
+
+### § 3. Krav til tjenesteleverandør som videreformidler sporingsopplysninger fra fartøy
+
+Tjenesteleverandør som videreformidler sporingsopplysningene fra fartøy skal tilfredsstille følgende krav:
+
+a. sporingsmeldingene skal sendes over sikre linjer i tilnærmet sann tid i forhold til rapporteringsøyeblikket, på et format som godkjennes av Fiskeridirektoratet.
+b. tjenesteleverandøren skal avgi erklæring overfor Fiskeridirektoratet om at sporingsopplysningene vil bli behandlet på en måte som er sikker ut fra personvernhensyn. På forespørsel må tjenesteleverandøren kunne legge frem dokumentasjon på de tiltak som er iverksatt for å sikre dette.
+
+## Kapittel III. Generelle krav til installering av posisjonsrapporteringsutstyr
+
+### § 4. Generelle krav til installering av posisjonsrapporteringsutstyr
+
+Posisjonsrapporteringsutstyret skal installeres:
+
+a. på en slik måte og i slike lokaliteter om bord at gjeldende bestemmelser for posisjonsrapportering oppfylles, jf. [forskrift 21. desember 2009 nr. 1743](for-2009-12-21-1743-ers-forskriften.md) om posisjonsrapportering og elektronisk rapportering for norske fiske og fangstfartøy.
+b. slik det er konfigurert og fremstilt ved typegodkjenning for sporingsformål av Fiskeridirektoratet.
+c. av autorisert personell og i overensstemmelse med godkjent anvisning fra produsent eller tjenesteleverandør.
+
+### § 5. Forsegling, plombering og plassering av posisjonsrapporteringsutstyr
+
+Sender eller mottakerenheter skal:
+
+a. forsegles av autorisert personell slik at det kan oppdages ved brudd på segl dersom enheten er åpnet eller er forsøkt åpnet,
+b. av autorisert personell festes til fast innretning om bord på en slik måte at den ikke skal kunne flyttes uten at det oppdages ved brudd på segl eller annen sikring.
+
+De ulike enheter av posisjonsrapporteringsutstyret skal plasseres slik at de:
+
+a. ikke er til hinder for sikker manøvrering eller drift av fartøyet.
+b. er best mulig beskyttet mot vær, vind og vibrasjoner .
+c. ikke blir utsatt for påvirkning fra annet teknisk utstyr om bord i fartøyet.
+d. er tilgjengelige for inspeksjon og vedlikehold.
+
+### § 6. Aktivering og deaktivering av posisjonsrapporteringsutstyr
+
+Når posisjonsrapporteringsutstyr installeres, eller enhetens forsegling brytes, skal autorisert installatør informere Fiskeridirektoratet gjennom innsending av skjema. Installasjon eller reparasjon av utstyret anses ikke å være gjennomført før Fiskeridirektoratet har mottatt og godkjent skjemaet. Kvittering på eventuelt godkjent skjema sendes til eier av fartøyet.
+
+Dersom et fartøy med posisjonsrapporteringsutstyr om bord selges til utlandet, skal fartøyets eier informere Fiskeridirektoratet om dette i god tid, og senest to uker før eierskifte finner sted.
+
+*Endret ved forskrift [20 nov 2024 nr. 2800](https://lovdata.no/forskrift/2024-11-20-2800).*
+
+### § 7. Strømtilførsel til posisjonsrapporteringsutstyret
+
+Det er skipsførers ansvar å tilse at posisjonsrapporteringsutstyret om bord har kontinuerlig strømtilførsel.
+
+Strømtilførselen til satellittsporingsutstyret skal ikke brytes uten ved nødvendig strømbrudd grunnet vedlikehold av sporingsutstyret, verkstedsopphold eller når fartøyet skal ligge uvirksom i mer enn 30 dager. Det skal sendes skriftlig melding til Fiskeridirektoratet før strøm brytes. Når strømmen til sporingsutstyret er brutt er det krav om at fartøyet ikke endrer posisjon.
+
+*Endret ved [forskrift 11 juni 2010 nr. 1340](https://lovdata.no/forskrift/2010-06-11-1340).*
+
+## Kapittel IV. Spesielle krav til installering av posisjonsrapporteringsutsytr (Inmarsat)
+
+***Oppheves** ved forskrift [14 okt 2026 nr. 2060](for-2026-10-14-2060-forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fis.md) (i kraft 1 april 2027).*
+
+### § 8. Inmarsat-utstyr
+
+Inmarsat-utstyr består av sender eller mottakerenhet, antenne og strømforsyningsenhet. Sender eller mottakerenhet skal plasseres på et tørt sted i fartøyet. Antennen skal plasseres slik at best mulig kontakt med satellitt oppnås og slik at signalene ikke blir uleselige på grunn av nærliggende konstruksjoner.
+
+Skadet eller ødelagt kabel som forbinder sender eller mottakerenhet og antenne skal erstattes med kabel anbefalt for sporingsformål av utstyrsleverandør.
+
+Dersom utstyret skal programmeres med definisjoner som skal angi bestemte funksjoner («Macro Encode Messages», MEM-koder) og format for tidsangivelse utover gjeldende Inmarsat-standarder, skal koder og formater være i overensstemmelse med de krav som stilles i forbindelse med godkjennelse fra Fiskeridirektoratet.
+
+Dersom satellittsporingsutstyret som benyttes om bord i fiskefartøyene samtidig skal fungere som radioutstyr i det globale maritime nød- og sikkerhetssystemet GMDSS, skal utstyret installeres i henhold til gjeldende regelverk for installasjon av slikt GMDSS-utstyr.
+
+***Oppheves** ved forskrift [14 okt 2026 nr. 2060](for-2026-10-14-2060-forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fis.md) (i kraft 1 april 2027).*
+
+## Kapittel V. Generelle bestemmelser, straff og ikrafttredelse
+
+***Endres** ved forskrift [14 okt 2026 nr. 2060](for-2026-10-14-2060-forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fis.md) (i kraft 1 april 2027).*
+
+### § 9. Autorisasjon
+
+Autorisasjon etter denne forskrift gis av Fiskeridirektoratet.
+
+***Endres** ved forskrift [14 okt 2026 nr. 2060](for-2026-10-14-2060-forskrift-om-endring-i-forskrift-om-posisjonsrapportering-og-elektronisk-rapportering-for-norske-fis.md) (i kraft 1 april 2027).*
+
+### § 10. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser i denne forskriften straffes etter lov om forvaltning av viltlevande marine ressursar (havressurslova) av [6. juni 2008 nr. 37 § 62](https://lovdata.no/lov/2008-06-06-37/§62) og [§ 64](https://lovdata.no/lov/2008-06-06-37/§64). På samme måte straffes medvirkning og forsøk.
+
+### § 11. Ikrafttredelse
+
+Denne forskrift trer i kraft straks. Samtidig oppheves [forskrift 23. desember 1999 nr. 1592](https://lovdata.no/forskrift/1999-12-23-1592) om krav til utstyr som skal benyttes om bord i fiskefartøy til sporing via satellitt, [forskrift 13. juni 2000 nr. 674](https://lovdata.no/forskrift/2000-06-13-674) om installasjon av satellittsporingsutstyr om bord i fiske- og fangstfartøy og [forskrift 28. april 1999 nr. 536](https://lovdata.no/forskrift/1999-04-28-536) om innføring av satellittbasert overvåkning av fiskefartøyers aktivitet for fartøy som har installert satellittutstyr om bord.
+
+## Vedlegg 1 (Opphevet)
+
+*Opphevet ved forskrift [28 juni 2024 nr. 1522](https://lovdata.no/forskrift/2024-06-28-1522).*

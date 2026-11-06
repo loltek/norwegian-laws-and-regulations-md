@@ -1,0 +1,147 @@
+# Forskrift om forbud mot tobakksreklame m.v.
+
+- **Datokode:** FOR-1995-12-15-989
+- **DokumentID:** SF/forskrift/1995-12-15-989
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Folkehelseavd.
+- **Hjemmel:** lov 09.03.1973 nr. 14/§2; lov 09.03.1973 nr. 14/§4; lov 09.03.1973 nr. 14/§9; lov 09.03.1973 nr. 14/§10; lov 09.03.1973 nr. 14/§17; lov 09.03.1973 nr. 14/§22; lov 09.03.1973 nr. 14/§24; lov 09.03.1973 nr. 14/§43
+- **Publisert i:** I 1995 1624
+- **I kraft fra:** 1996-01-01
+- **Siste endring i kraft:** 2020-04-20
+- **Sist endret ved:** forskrift 20.04.2020 nr. 848
+- **Endrer:** forskrift 25.10.1974 nr. 1; forskrift 25.10.1974 nr. 9; forskrift 29.11.1977 nr. 2
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 15. desember 1995 med hjemmel i lov av 9. mars 1973 nr. 14 om vern mot tobakksskader § 2 sjette ledd, § 4, § 9, § 10, § 17 tredje ledd, § 22 femte ledd, § 24 fjerde ledd og § 43. Fremmet av Sosial- og helsedepartementet (nå Helse- og omsorgsdepartementet). Endret ved forskrifter 18 sep 1998 nr. 874, 21 des 2001 nr. 1484, 6 juni 2003 nr. 693, 18 feb 2005 nr. 167, 15 mai 2009 nr. 515, 21 juni 2013 nr. 727, 16 juni 2017 nr. 771, 20 april 2020 nr. 848.
+- **Kilde:** <https://lovdata.no/forskrift/1995-12-15-989>
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Formål
+
+Formålet med denne forskriften er å begrense de helseskader som bruk av tobakk medfører, herunder å hindre barn og unge i å begynne med tobakk.
+
+### § 2. Virkeområde
+
+Forskriften gjelder alle former for reklame for tobakksvarer, tobakkssurrogater, tobakksimitasjoner og tobakksutstyr, herunder indirekte reklame.
+
+Forskriften gjelder for innpakninger for tobakksvarer.
+
+*Endret ved [forskrifter 15 mai 2009 nr. 515](https://lovdata.no/forskrift/2009-05-15-515) (i kraft 1 juli 2009), [16 juni 2017 nr. 771](https://lovdata.no/forskrift/2017-06-16-771) (i kraft 1 juli 2017).*
+
+### § 3. Geografisk virkeområde
+
+Forskriften gjelder også for Svalbard og Jan Mayen.
+
+### § 4. Definisjoner
+
+I denne forskrift forstås med:
+
+a. *Tobakksvarer:* Varer som kan røykes, innsnuses, suges eller tygges såfremt de helt eller delvis består av tobakk
+b. *Reklame:* Massekommunikasjon i markedsføringsøyemed, herunder avbildninger av tobakksvarer, røykeutstyr, tobakksimitasjoner og tobakkssurrogater, avbildninger av varemerker (logo, symbol, navn e.l.), plakater, skilt og lignende innretninger, utstillinger, lavprisannonsering, samt distribusjon til forbrukere av trykksaker, vareprøver mv.
+c. *Indirekte reklame for tobakksvarer:*
+   1. Bruk av et merke som hovedsakelig er kjent som et merke for tobakksvarer, i reklame for andre varer og tjenester.
+   2. Lansering av tobakksvarer ved hjelp av et varemerke som er kjent som, eller i bruk som merke for andre varer og tjenester.
+   3. Bruk av bestemte farger og layout/utforming som forbindes med bestemte tobakksvarer.
+   4. Bruk av tobakksvarer og røykesituasjoner i reklame for andre varer og tjenester.
+
+*Endret ved [forskrifter 15 mai 2009 nr. 515](https://lovdata.no/forskrift/2009-05-15-515) (i kraft 1 juli 2009), [21 juni 2013 nr. 727](https://lovdata.no/forskrift/2013-06-21-727) (i kraft 1 juli 2013).*
+
+## Kapittel II. Bestemmelser om tobakksreklame og innpakninger for tobakksvarer
+
+### § 5. Forbud mot tobakksreklame
+
+Alle former for reklame for tobakksvarer, herunder indirekte tobakksreklame, er forbudt. Forbudet gjelder også for tobakksutstyr.
+
+*Endret ved [forskrifter 15 mai 2009 nr. 515](https://lovdata.no/forskrift/2009-05-15-515) (i kraft 1 juli 2009), [16 juni 2017 nr. 771](https://lovdata.no/forskrift/2017-06-16-771) (i kraft 1 juli 2017).*
+
+### § 6. (Opphevet)
+
+*Endret ved [forskrift 18 sep 1998 nr. 874](https://lovdata.no/forskrift/1998-09-18-874), opphevet ved [forskrift 16 juni 2017 nr. 771](https://lovdata.no/forskrift/2017-06-16-771) (i kraft 1 juli 2017).*
+
+### § 7. Plikt til å fjerne ulovlig reklame
+
+Den som eier eller disponerer vedkommende virksomhet har plikt til å fjerne ulovlig reklame.
+
+### § 7a. Pris- og produktopplysninger
+
+På utsalgssteder for tobakksvarer og røykeutstyr kan pris- og produktopplysninger kun gis i nøytrale lister med svart skrift på et hvitt ark uten bruk av illustrasjoner, farger, logo mv. Utforming og bruk av lister kan bare skje i den utstrekning det er hensiktsmessig for en rasjonell omsetning.
+
+Det er ikke tillatt å fremheve noen tobakkstyper, merkenavn eller priser fremfor andre.
+
+Lister med pris- og produktopplysninger kan henges opp ved kassen eller fremvises til kunden på forespørsel. Det er ikke tillatt med mer enn én liste ved hver kasse.
+
+Denne bestemmelsen gjelder ikke for spesialforretninger for tobakksvarer og utsalgssteder for avgiftsfritt salg på flyplasser.
+
+*Tilføyd ved [forskrift 21 juni 2013 nr. 727](https://lovdata.no/forskrift/2013-06-21-727) (i kraft 1 juli 2013).*
+
+### § 7b. Unntak fra oppstillingsforbudet og aldersgrensen
+
+Aldersgrensene i [tobakksskadeloven § 17](../lover/lov-1973-03-09-14-tobakksskadeloven.md) og oppstillingsforbudet i [tobakksskadeloven § 24](../lover/lov-1973-03-09-14-tobakksskadeloven.md) gjelder ikke for tobakksimitasjoner i form av godteri. Slike varer må ikke benytte varemerke eller design som er kjent som eller kan forveksles med et varemerke eller design for tobakksvarer.
+
+Unntaket i første ledd gjelder ikke realistiske imitasjoner som kan forveksles med tobakksvarer eller som er særskilt rettet mot barn og unge.
+
+*Tilføyd ved [forskrift 16 juni 2017 nr. 771](https://lovdata.no/forskrift/2017-06-16-771) (i kraft 1 juli 2017).*
+
+## Kapittel III. Unntaksbestemmelser
+
+### § 8. Unntak fra forbudet mot tobakksreklame
+
+I den utstrekning et forhold vil rammes av reklameforbudet i [tobakksskadeloven § 22](../lover/lov-1973-03-09-14-tobakksskadeloven.md), herunder bestemmelsene i forskriften her, gjøres følgende unntak:
+
+1. Annonsering eller annen opplysning i trykt skrift om etablering av ny spesialforretning for tobakksvarer, med angivelse av utsalgets navn, sted og åpningstider samt vareutvalg, begrenset til følgende betegnelser: Sigaretter, sigarer, røyketobakk, skråtobakk, tobakk, snus, råtobakk, sigarettpapir, sigarettrullere, piper. Opplysningene kan bare gis i skrift og farge som vanlig ellers i vedkommende annonse eller trykt skrift og uten illustrasjoner. Tilsvarende gjelder ved eierskifte av utsalget.
+2. Utendørs skilt av sedvanlig størrelse og utstyr, i nøytral typografisk utforming som bare har opplysningsfunksjon, som f.eks. «Tobakk», i tilknytning til spesialforretninger for tobakk. Unntaket omfatter ikke lysreklame eller bevegelige skilt.
+3. Ren produktinformasjon direkte til videreforhandlere, i nøytral typografisk utforming med svart skrift på hvit bakgrunn uten bruk av illustrasjoner.
+4. Annonsering av ledige stillinger innen tobakksfremstilling, spesialforretninger for tobakksvarer e.l., som bare inneholder opplysninger som er nødvendige for å gjøre seg kjent med hva stillingen innebærer.
+5. Oppstilling av tobakksvarer og røykeutstyr inne i spesialforretninger i den utstrekning slik plassering er hensiktsmessig for en rasjonell omsetning. Unntaket gjelder ikke utstyr for plassering av varer som på grunn av sin størrelse eller utforming vil gi reklameeffekt.
+6. Reklame i utenlandsk trykt skrift som innføres til Norge, når hovedformålet med reklamen, tidsskriftet eller importen ikke er å reklamere for tobakksvarer i Norge.
+7. Indirekte reklame av uvesentlig omfang i utenlandske programmer sendt over norsk fjernsyn og norske kabelnett, samt i utenlandsk produsert film.
+
+*Endret ved [forskrifter 15 mai 2009 nr. 515](https://lovdata.no/forskrift/2009-05-15-515) (i kraft 1 jan 2010), [21 juni 2013 nr. 727](https://lovdata.no/forskrift/2013-06-21-727) (i kraft 1 juli 2013), [20 april 2020 nr. 848](https://lovdata.no/forskrift/2020-04-20-848).*
+
+### § 9. Særskilt om reklame for andre varer og tjenester
+
+I butikk/forretning er det tillatt å stille ut andre varer og tjenester enn tobakksvarer som benytter et merke som hovedsakelig er kjent som et merke for tobakksvare. Plakater eller skilt i tilknytning til utsalget er det bare tillatt å benytte i opplysningsøyemed. Bestemmelsene i forskriftens [§ 8](for-1995-12-15-989-forskrift-om-forbud-mot-tobakksreklame-m-v.md) gjelder tilsvarende.
+
+*Endret ved [forskrift 15 mai 2009 nr. 515](https://lovdata.no/forskrift/2009-05-15-515) (i kraft 1 jan 2010).*
+
+## Kapittel IV. Administrative bestemmelser
+
+### § 10. Tilsyn
+
+Departementet har det overordnede ansvar for håndhevingen av disse forskrifter. Direktoratet fører tilsyn med at reglene i denne forskriften overholdes.
+
+*Endret ved [forskrifter 21 des 2001 nr. 1484](https://lovdata.no/forskrift/2001-12-21-1484) (i kraft 1 jan 2002), [18 feb 2005 nr. 167](https://lovdata.no/forskrift/2005-02-18-167), [15 mai 2009 nr. 515](https://lovdata.no/forskrift/2009-05-15-515) (i kraft 1 juli 2009).*
+
+### § 11. Pålegg om retting og tvangsmulkt
+
+Direktoratet kan pålegge retting og fastsette tvangsmulkt etter bestemmelsene i [tobakksskadeloven § 36](../lover/lov-1973-03-09-14-tobakksskadeloven.md). Slike vedtak kan påklages til Markedsrådet.
+
+*Tilføyd ved [forskrift 6 juni 2003 nr. 693](https://lovdata.no/forskrift/2003-06-06-693) (i kraft 1 juli 2003), endret ved [forskrifter 15 mai 2009 nr. 515](https://lovdata.no/forskrift/2009-05-15-515) (i kraft 1 juli 2009), [21 juni 2013 nr. 727](https://lovdata.no/forskrift/2013-06-21-727) (i kraft 1 juli 2013).*
+
+### § 12. Dispensasjon
+
+Direktoratet kan i særskilte tilfeller dispensere fra denne forskriften.
+
+*Endret ved [forskrifter 21 des 2001 nr. 1484](https://lovdata.no/forskrift/2001-12-21-1484) (i kraft 1 jan 2002), [6 juni 2003 nr. 693](https://lovdata.no/forskrift/2003-06-06-693) (i kraft 1 juli 2003, tidligere § 11), [15 mai 2009 nr. 515](https://lovdata.no/forskrift/2009-05-15-515) (i kraft 1 juli 2009).*
+
+### § 13. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften, straffes med bøter. Medvirkning straffes på samme måte. Forsøk straffes som fullbyrdet forseelse.
+
+*Endret ved [forskrift 6 juni 2003 nr. 693](https://lovdata.no/forskrift/2003-06-06-693) (i kraft 1 juli 2003, tidligere § 12).*
+
+### § 14. Overgangsregler
+
+Bruk av et merke som hovedsakelig er kjent som et merke for tobakksvarer, i reklame for andre varer og tjenester, og bruk av bestemte farger og layout/utforming som forbindes med bestemte tobakksvarer, jf forskriftens [§ 4](for-1995-12-15-989-forskrift-om-forbud-mot-tobakksreklame-m-v.md) nr 3 bokstav a og c, jf [§ 5](for-1995-12-15-989-forskrift-om-forbud-mot-tobakksreklame-m-v.md), tillates inntil 1. januar 1997.
+
+Allerede produserte tobakksvarepakninger, som det er forbudt å omsette etter forskriftens [§ 6](for-1995-12-15-989-forskrift-om-forbud-mot-tobakksreklame-m-v.md), tillates omsatt inntil 1. januar 1997.
+
+*Endret ved [forskrift 6 juni 2003 nr. 693](https://lovdata.no/forskrift/2003-06-06-693) (i kraft 1 juli 2003, tidligere § 13).*
+
+### § 15.
+
+Ikrafttredelse m.v.
+
+Denne forskriften trer i kraft 1. januar 1996. Samtidig oppheves [forskrift av 25. oktober 1974 nr. 1](https://lovdata.no/forskrift/1974-10-25-1) om forbud mot tobakksreklame, [forskrift av 25. oktober 1974 nr. 9](https://lovdata.no/forskrift/1974-10-25-9) om unntak fra reklameforbudet og [forskrift av 29. november 1977 nr. 2](https://lovdata.no/forskrift/1977-11-29-2) om vilkår for unntak fra reklameforbudet for vindusutstilling av tobakksvarer.
+
+*Endret ved [forskrift 6 juni 2003 nr. 693](https://lovdata.no/forskrift/2003-06-06-693) (i kraft 1 juli 2003, tidligere § 14).*

@@ -1,0 +1,79 @@
+# Forskrift om familiebarnehager
+
+- **Datokode:** FOR-2005-12-16-1555
+- **DokumentID:** SF/forskrift/2005-12-16-1555
+- **Departement:** Kunnskapsdepartementet
+- **Etat:** Barnehageavd.
+- **Hjemmel:** lov 17.06.2005 nr. 64/§15
+- **Publisert i:** I 2005 hefte 16
+- **Kunngjort:** 2005-12-21
+- **I kraft fra:** 2006-01-01
+- **Siste endring i kraft:** 2021-06-01
+- **Sist endret ved:** forskrift 18.05.2021 nr. 1550 fra 2021-06-01
+- **Endrer:** forskrift 01.12.1995 nr. 942
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2026-08-01 (hjemmel)
+- **Merknad:** Hjemmel: Fastsatt av Barne- og familiedepartementet 16. desember 2005 med hjemmel i lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 15 tredje ledd. Endret ved forskrifter 30 juni 2016 nr. 865, 22 juni 2017 nr. 1048, 18 mai 2021 nr. 1550 (i kraft 1 juni 2021). Rettelser: 09.04.2021 (hjemmel), 01.08.2026 (hjemmel).
+- **Kilde:** <https://lovdata.no/forskrift/2005-12-16-1555>
+
+## § 1. Forskriftens formål og virkeområde
+
+Forskriftens formål er å gi særskilte regler for godkjenning av familiebarnehager og for norm for pedagogisk bemanning i familiebarnehagene. En familiebarnehage er en barnehageform der barna får et tilbud i private hjem. Assistentene i familiebarnehagen skal motta veiledning av en barnehagelærer. Ut over de særskilte regler som gis i denne forskriften, gjelder de bestemmelser som er fastsatt i eller med hjemmel i barnehageloven.
+
+*Endret ved [forskrift 30 juni 2016 nr. 865](https://lovdata.no/forskrift/2016-06-30-865) (i kraft 1 aug 2016).*
+
+## § 2. Godkjenning av organiseringen
+
+Kommunen skal foreta en kontroll av at familiebarnehagen tilfredsstiller krav i eller i medhold av barnehageloven og godkjenne den sammenslutning/ordningen som samlet sett utgjør familiebarnehagen.
+
+Familiebarnehagen skal som hovedregel være et fellesskap mellom minst to hjem, eller mellom minst ett hjem og en vanlig barnehage. I særlige tilfeller kan kommunen godkjenne enkeltstående hjem som én familiebarnehage.
+
+## § 3. Godkjenning av hjemmene
+
+Virksomheten skal fortrinnsvis foregå i bebodde hjem. Ved godkjenning av det enkelte hjem og eventuelt baselokale skal det vurderes om hjemmet og lokalet egner seg for familiebarnehagedrift.
+
+Kommunen kan i særlige tilfeller godkjenne ubebodde lokaler som ett hjem i en familiebarnehage. Ved slik godkjenning skal lokalenes hjemlige kvaliteter vektlegges.
+
+Det kan ikke gis godkjenning til doble grupper i ubebodde lokaler.
+
+## § 4. Antall barn
+
+Et hjem kan godkjennes for maksimalt fem barn over tre år som er til stede samtidig. Et hjem som er egnet for det kan godkjennes for dobbel gruppe med maksimalt ti barn over tre år som er til stede samtidig.
+
+Er flertallet av barna under tre år, må antallet reduseres.
+
+Det kan settes begrensning ved antall barn i et hjem på grunnlag av hjemmets egnethet.
+
+Det skal som hovedregel være minst to barn i et familiebarnehagehjem. Hjemmets egne barn under opplæringspliktig alder, som deltar i ordningen, teller med. I en familiebarnehagegruppe må minst halvparten av barna være andre enn hjemmets egne.
+
+## § 5. Pedagogisk veiledning
+
+I familiebarnehager skal det gis pedagogisk veiledning til assistenten i det enkelte hjem i barnehagens åpningstid. Den pedagogiske veiledningen skal gis av utdannet barnehagelærer. Likeverdig med barnehagelærerutdanning er annen treårig pedagogisk utdanning på høgskolenivå med videreutdanning i barnehagepedagogikk.
+
+*Endret ved [forskrift 30 juni 2016 nr. 865](https://lovdata.no/forskrift/2016-06-30-865) (i kraft 1 aug 2016).*
+
+## § 6. Bemanningsnorm
+
+I en familiebarnehage kan det være maksimalt 30 barn per barnehagelærer som gir pedagogisk veiledning.
+
+Én assistent kan ha ansvaret for inntil fem barn der flertallet av barna er over tre år. Er flertallet under tre år, må antallet reduseres.
+
+Bemanningen må være forsvarlig i forhold til barnas alder og forutsetninger.
+
+*Endret ved [forskrift 30 juni 2016 nr. 865](https://lovdata.no/forskrift/2016-06-30-865) (i kraft 1 aug 2016).*
+
+## § 6a. Dispensasjon
+
+Eier av familiebarnehage kan søke om midlertidig dispensasjon fra utdanningskravet etter reglene i forskrift om pedagogisk bemanning og dispensasjon i barnehager.
+
+*Tilføyd ved [forskrift 22 juni 2017 nr. 1048](https://lovdata.no/forskrift/2017-06-22-1048) (i kraft 1 aug 2017).*
+
+## § 7. Klage
+
+Kommunens vedtak om godkjenning kan påklages til statsforvalteren.
+
+*Endret ved forskrift [18 mai 2021 nr. 1550](https://lovdata.no/forskrift/2021-05-18-1550) (i kraft 1 juni 2021).*
+
+## § 8. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2006. Fra samme tidspunkt oppheves [forskrift 1. desember 1995 nr. 942](https://lovdata.no/forskrift/1995-12-01-942) om familiebarnehager, fastsatt med hjemmel i [lov 5. mai 1995 nr. 19](https://lovdata.no/lov/1995-05-05-19) om barnehager (barnehageloven) [§ 14](https://lovdata.no/lov/1995-05-05-19/§14).

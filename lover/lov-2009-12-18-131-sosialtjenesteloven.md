@@ -1,0 +1,447 @@
+# Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven)
+
+- **Korttittel:** Sosialtjenesteloven – sotjl
+- **Datokode:** LOV-2009-12-18-131
+- **DokumentID:** NL/lov/2009-12-18-131
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Kunngjort:** 2009-12-18 14:20
+- **I kraft fra:** 2010-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** lov 20.06.2025 nr. 39 fra 2026-01-01
+- **Rettsområde:** Arbeidsrett > Arbeidsforhold. Sysselsetting; Pensjons- og trygderett > Utenfor folketrygdloven > Sosiale tjenester
+- **Siste rettelse:** 2021-07-01 (faglige fotnoter fjernet)
+- **Merknad:** Korttittel tilføyd ved lov 24 apr 2015 nr. 20 (ikr. 1 juli 2015 iflg. res. 24 apr 2015 nr. 399). Se tidl. kap. 5 og kap. 5A i lov 13 des 1991 nr. 81.
+- **Kilde:** <https://lovdata.no/lov/2009-12-18-131>
+
+## Kapittel 1. Lovens formål og virkeområde
+
+### § 1. Lovens formål
+
+Formålet med loven er å bedre levekårene for vanskeligstilte, bidra til sosial og økonomisk trygghet, herunder at den enkelte får mulighet til å leve og bo selvstendig, og fremme overgang til arbeid, sosial inkludering og aktiv deltakelse i samfunnet.
+
+Loven skal bidra til at utsatte barn og unge og deres familier får et helhetlig og samordnet tjenestetilbud.
+
+Loven skal bidra til likeverd og likestilling og forebygge sosiale problemer.
+
+### § 2. Lovens virkeområde
+
+Lovens bestemmelser om tjenester gjelder for alle som oppholder seg i riket. Kongen kan gi forskrifter som begrenser anvendelsen av loven på personer som ikke er norske statsborgere, eller som ikke har bopel i riket. Kongen kan også gi forskrifter om anvendelse av loven på personer som oppholder seg i utlandet, men som har tilknytning til riket.
+
+Kongen kan gi forskrifter om lovens anvendelse på Svalbard.
+
+*Endret ved lov [17 des 2010 nr. 80](https://lovdata.no/lov/2010-12-17-80).*
+
+## Kapittel 2. Ansvar etter loven
+
+### § 3. Kommunens ansvar
+
+Kommunen er ansvarlig for å utføre oppgavene etter denne loven som ikke er lagt til et statlig organ, og å yte tjenester etter loven til alle som oppholder seg i kommunen.
+
+For den som oppholder seg i institusjon eller bolig med heldøgns omsorgstjenester, skal tjenestene likevel ytes av den kommunen som var oppholdskommune forut for inntaket i institusjon eller bolig med heldøgns omsorgstjenester. Dette gjelder også tjenester før utskriving i forbindelse med utskriving og etablering.
+
+Etter utskrivingen skal de sosiale tjenestene ytes av den kommunen der vedkommende tar opphold. Tar vedkommende opphold i den kommunen som institusjonen eller boligen ligger i, kan utgiftene kreves refundert av oppholdskommunen forut for inntaket.
+
+Kommunens myndighet etter denne loven kan etter reglene i kommuneloven delegeres til et interkommunalt organ eller en annen kommune.
+
+### § 4. Krav til forsvarlighet
+
+Tjenester som ytes etter denne loven skal være forsvarlige.
+
+### § 5. Internkontroll
+
+Kommunen skal ha internkontroll etter reglene i [kommuneloven § 25-1](lov-2018-06-22-83-kommuneloven.md).
+
+*Endret ved lov [19 juni 2020 nr. 89](https://lovdata.no/lov/2020-06-19-89) (ikr. 1 jan 2021 iflg. [res. 25 sep 2020 nr. 1825](https://lovdata.no/forskrift/2020-09-25-1825)).*
+
+### § 6. Opplæring av kommunens personell
+
+Kommunen har ansvaret for nødvendig opplæring av kommunens personell i arbeids- og velferdsforvaltningen. Kongen kan gi forskrifter om opplæringen.
+
+### § 7. Kommunens økonomiske ansvar
+
+Den enkelte kommune skal sørge for nødvendige bevilgninger for å yte tjenester som kommunen har ansvaret for etter denne loven.
+
+Kostnadene ved tjenester som nevnt i første ledd skal dekkes av den kommunen som etter [§ 3](lov-2009-12-18-131-sosialtjenesteloven.md) er ansvarlig for å yte tjenesten. Bare etter regelen i [§ 3](lov-2009-12-18-131-sosialtjenesteloven.md) tredje ledd kan det kreves at disse kostnadene skal dekkes av andre.
+
+### § 8. Statens ansvar og myndighet
+
+Departementet skal
+
+a. følge med at loven og forskriftene og andre bestemmelser som gjelder for tjenester etter denne loven, blir anvendt riktig og på en måte som fremmer lovens formål på en god og hensiktsmessig måte,
+b. sørge for at erfaringene med loven blir vurdert, og at det blir gjennomført nødvendige endringer i regelverket,
+c. gi de retningslinjene og instruksene som er nødvendige for å nå det målet som er nevnt i bokstav a,
+d. arbeide for at det blir satt i gang forskning som kan få betydning for løsningen av oppgaver etter loven,
+e. sørge for at det finnes et forsvarlig tilbud for utdanning av personale, og at de som skal anvende loven ellers, får forsvarlig veiledning,
+f. sørge for at det blir utarbeidet informasjonsmateriell som sosialtjenesten kan bruke, jf. [§ 12](lov-2009-12-18-131-sosialtjenesteloven.md).
+
+Departementet kan kreve at kommunale organer som hører under denne loven, uten hinder av taushetsplikten gir de opplysninger og meldinger som er nødvendige for at departementet kan utføre sine oppgaver etter første ledd.
+
+Statlig tilsyn med lovligheten av kommunens virksomhet utøves etter nærmere regler i [§§ 9](lov-2009-12-18-131-sosialtjenesteloven.md) og [10](lov-2009-12-18-131-sosialtjenesteloven.md).
+
+### § 9. Statsforvalterens tilsynsvirksomhet
+
+Statsforvalteren skal føre tilsyn med at kommunen oppfyller sine plikter etter [kapittel 4](lov-2009-12-18-131-sosialtjenesteloven.md), [§ 13](lov-2009-12-18-131-sosialtjenesteloven.md) andre ledd første punktum, tredje ledd, fjerde ledd første punktum og [§ 16](lov-2009-12-18-131-sosialtjenesteloven.md) første ledd. Statsforvalteren skal også føre tilsyn med kommunens internkontroll med pliktene etter [kapittel 4](lov-2009-12-18-131-sosialtjenesteloven.md), jf. [kommuneloven § 25-1](lov-2018-06-22-83-kommuneloven.md).
+
+Reglene i [kommuneloven kapittel 30](lov-2018-06-22-83-kommuneloven.md) gjelder for tilsyn etter første ledd.
+
+Departementet kan gi forskrifter med nærmere bestemmelser om statsforvalterens tilsyn.
+
+*Endret ved lover [22 juni 2018 nr. 83](lov-2018-06-22-83-kommuneloven.md) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](https://lovdata.no/forskrift/2019-06-25-879)), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)), [17 juni 2022 nr. 42](https://lovdata.no/lov/2022-06-17-42), [11 juni 2021 nr. 78](https://lovdata.no/lov/2021-06-11-78) som endret ved lov [17 juni 2022 nr. 42](https://lovdata.no/lov/2022-06-17-42) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](https://lovdata.no/forskrift/2022-05-20-871)).*
+
+### § 10. Statens helsetilsyns tilsynsvirksomhet
+
+Statens helsetilsyn har det overordnede faglige tilsynet med kommunens virksomhet i arbeids- og velferdsforvaltningen.
+
+### § 11. Tilskudd fra staten
+
+Staten skal yte årlig rammetilskudd til delvis dekning av kommunens utgifter. Tilskuddene fordeles gjennom inntektssystemet for kommunene etter regler fastsatt av Kongen.
+
+## Kapittel 3. Generelle oppgaver
+
+### § 12. Informasjon og generell forebyggende virksomhet
+
+Kommunen skal gjøre seg kjent med innbyggernes levekår, vie spesiell oppmerksomhet til trekk ved utviklingen som kan skape eller opprettholde sosiale problemer, og søke å finne tiltak som kan forebygge slike problemer.
+
+Kommunen skal søke å legge forholdene til rette for å utvikle og styrke sosialt fellesskap og solidaritet i nærmiljøet.
+
+Kommunen skal spre kunnskap om sosiale forhold og tjenester i kommunen.
+
+### § 13. Samarbeid med andre offentlige organer og tjenesteytere og samordning
+
+Kommunen i arbeids- og velferdsforvaltningen skal medvirke til at sosiale hensyn blir ivaretatt av andre offentlige organer som har betydning for at formålet med loven blir oppnådd.
+
+Kommunen i arbeids- og velferdsforvaltningen skal samarbeide med andre sektorer, forvaltningsnivåer og tjenesteytere dersom samarbeid er nødvendig for å gi en person oppfølging og et helhetlig og samordnet tjenestetilbud, og når dette kan bidra til å løse oppgavene som kommunen i arbeids- og velferdsforvaltningener pålagt etter denne loven. Blir det påvist mangler ved de tjenester som andre deler av forvaltningen skal yte til personer med et særlig hjelpebehov, skal kommunen i arbeids- og velferdsforvaltningen om nødvendig ta opp saken med rette vedkommende. Er det uklarhet eller uenighet om hvor ansvaret ligger, skal kommunen i arbeids- og velferdsforvaltningen søke å klargjøre forholdet.
+
+Kommunen skal samordne tjenestetilbudet etter andre ledd. Ved behov skal kommunen bestemme hvilken kommunal tjenesteyter som skal ivareta samordningen. Dersom det er oppnevnt barnekoordinator etter [helse- og omsorgstjenesteloven § 7-2 a](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md), skal koordinatoren sørge for samordning av tjenestetilbudet.
+
+Kommunen i arbeids- og velferdsforvaltningen skal, i tillegg til å følge opp enkelte personer, samarbeide med andre sektorer, forvaltningsnivåer og tjenesteytere, slik at kommunen i arbeids- og velferdsforvaltningen og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift. Som ledd i disse oppgavene skal kommunen i arbeids- og velferdsforvaltningen gi uttalelser og råd og delta i den kommunale og fylkeskommunale planleggingsvirksomheten og i de samarbeidsorganene som blir opprettet.
+
+Med tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som utfører oppgaver på vegne av slike tjenesteytere, barnehager som får tilskudd etter [barnehageloven § 19](lov-2005-06-17-64-barnehageloven.md) og skoler som får statstilskudd etter [privatskolelova § 6-1](https://lovdata.no/lov/2003-07-04-84/§6-1).
+
+*Endret ved lov [11 juni 2021 nr. 78](https://lovdata.no/lov/2021-06-11-78) som endret ved lov [10 juni 2022 nr. 39](https://lovdata.no/lov/2022-06-10-39) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](https://lovdata.no/forskrift/2022-05-20-871)).*
+
+### § 14. Samarbeid med frivillige organisasjoner
+
+Kommunen bør samarbeide med brukergruppenes organisasjoner og med frivillige organisasjoner som arbeider med de samme oppgavene som kommunen i arbeids- og velferdsforvaltningen.
+
+### § 15. Boliger til vanskeligstilte
+
+Kommunen skal bistå vanskeligstilte på boligmarkedet etter reglene i [lov 20. desember 2022 nr. 121 om kommunenes ansvar på det boligsosiale feltet](lov-2022-12-20-121-boligsosialloven.md). Kommunen i arbeids- og velferdsforvaltningen skal medvirke i kommunens boligsosiale arbeid.
+
+*Endret ved lov [20 des 2022 nr. 121](lov-2022-12-20-121-boligsosialloven.md) (i kraft 1 juli 2023 iflg. [res. 20 des 2022 nr. 2299](https://lovdata.no/forskrift/2022-12-20-2299)).*
+
+### § 16. Beredskapsplan, hjelpeplikt og gjensidig bistand
+
+Kommunen plikter å utarbeide en beredskapsplan for kommunen i arbeids- og velferdsforvaltningen i samsvar med lov om helsemessig og sosial beredskap. Sosialberedskapsplanen skal samordnes med kommunens øvrige beredskapsplaner.
+
+Kommunen skal gi nødvendig hjelp under ulykker eller andre akutte situasjoner.
+
+Dersom forholdene tilsier det, skal kommunen yte bistand til andre kommuner ved ulykker og andre akutte situasjoner. Anmodning om bistand fremmes av den kommunen som har bistandsbehovet.
+
+Den kommunen som mottar bistand etter tredje ledd, skal yte kommunen som bidrar med hjelp, kompensasjon for utgiftene, med mindre noe annet er avtalt.
+
+## Kapittel 4. Individuelle tjenester
+
+### § 17. Opplysning, råd og veiledning
+
+Kommunen skal gi opplysning, råd og veiledning som kan bidra til å løse eller forebygge sosiale problemer. Kan kommunen ikke selv gi slik hjelp, skal den så vidt mulig sørge for at andre gjør det.
+
+### § 18. Stønad til livsopphold
+
+De som ikke kan sørge for sitt livsopphold gjennom arbeid eller ved å gjøre gjeldende økonomiske rettigheter, har krav på økonomisk stønad.
+
+Stønaden bør ta sikte på å gjøre vedkommende selvhjulpen.
+
+Ved vurdering av søknad om stønad til familier skal det ikke tas hensyn til barnetrygd og barns inntekt av arbeid i fritid og skoleferier.
+
+Departementet kan gi veiledende retningslinjer om stønadsnivået.
+
+*Endret ved lover [18 des 2015 nr. 106](https://lovdata.no/lov/2015-12-18-106) (ikr. 1 jan 2016 iflg. [res. 18 des 2015 nr. 1582](https://lovdata.no/forskrift/2015-12-18-1582)), [17 juni 2022 nr. 42](https://lovdata.no/lov/2022-06-17-42) (i kraft 1 sep 2022).*
+
+### § 19. Stønad i særlige tilfeller
+
+Kommunen kan i særlige tilfeller, selv om vilkårene i [§ 18](lov-2009-12-18-131-sosialtjenesteloven.md) ikke er tilstede, yte økonomisk hjelp til personer som trenger det for å kunne overvinne eller tilpasse seg en vanskelig livssituasjon.
+
+### § 20. Bruk av vilkår
+
+Det kan settes vilkår for tildeling av økonomisk stønad, herunder at mottakeren i stønadsperioden skal utføre passende arbeidsoppgaver i bostedskommunen, se også [§ 21](lov-2009-12-18-131-sosialtjenesteloven.md) tredje ledd og [§ 25](lov-2009-12-18-131-sosialtjenesteloven.md).
+
+Vilkårene må ha nær sammenheng med vedtaket. De må ikke være uforholdsmessig byrdefulle for stønadsmottaker eller begrense hans eller hennes handle- eller valgfrihet på en urimelig måte. Vilkårene må heller ikke være i strid med andre bestemmelser i loven her eller andre lover.
+
+Ved brudd på vilkår kan det fattes vedtak om at stønaden reduseres, forutsatt at det i vedtaket om stønad er informert om muligheten for slik reduksjon. Departementet kan i forskrift gi nærmere regler om reduksjon av stønaden.
+
+*Endret ved lov [20 des 2016 nr. 105](https://lovdata.no/lov/2016-12-20-105) (i kraft 1 jan 2017). **Endres** ved lov [24 apr 2015 nr. 20](lov-2015-04-24-20-endringslov-til-arbeidsmiljoloven-og-sosialtjenesteloven.md) som endret ved lov [18 des 2020 nr. 142](https://lovdata.no/lov/2020-12-18-142) (ikr. fra den tid Kongen bestemmer).*
+
+### § 20 a. Bruk av vilkår for personer under 30 år
+
+Det skal stilles vilkår om aktivitet for tildeling av økonomisk stønad til personer under 30 år. Dersom manglende norsk- eller samiskkunnskaper er årsaken til at personen ikke er selvhjulpen, skal det vurderes å stille vilkår om norsk- eller samiskopplæring. Dersom vedkommende har hatt rett og plikt til å delta i introduksjonsprogram, jf. [integreringsloven § 8](lov-2020-11-06-127-integreringsloven.md), og manglende norskkunnskaper er årsaken til at personen ikke er selvhjulpen, skal det stilles vilkår om norskopplæring. Tredje punktum gjelder ikke for samiskspråklige stønadsmottakere. Det skal ikke stilles vilkår om aktivitet når tungtveiende grunner taler mot det.
+
+Det kan også stilles andre vilkår for tildeling av økonomisk stønad, inkludert vilkår etter [§ 25](lov-2009-12-18-131-sosialtjenesteloven.md).
+
+Vilkårene må ha nær sammenheng med vedtaket. De må ikke være uforholdsmessig byrdefulle for stønadsmottakeren eller begrense hans eller hennes handle- og valgfrihet på en urimelig måte. Vilkårene må heller ikke være i strid med andre bestemmelser i loven her eller i andre lover.
+
+Ved brudd på vilkår kan det fattes vedtak om at stønaden reduseres, forutsatt at det i vedtaket om stønad er informert om muligheten for slik reduksjon.
+
+Kommunen kan innhente opplysninger om stønadsmottakeres rett og plikt til deltakelse i introduksjonsprogram fra Nasjonalt introduksjonsregister.
+
+Departementet kan i forskrift gi nærmere regler om plikten til å stille vilkår om aktivitet og reduksjon av stønaden.
+
+*Tilføyd ved lov [20 des 2016 nr. 105](https://lovdata.no/lov/2016-12-20-105) (i kraft 1 jan 2017), endret ved lov [18 des 2020 nr. 142](https://lovdata.no/lov/2020-12-18-142) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2836](https://lovdata.no/forskrift/2020-12-18-2836)).*
+
+### § 21. Stønadsformer
+
+Økonomisk stønad gis som bidrag, lån, garanti for lån, eller varer og tjenester.
+
+Økonomisk stønad i form av lån bør vurderes i forhold til om stønadsmottakeren vil bli i stand til å tilbakebetale lånet.
+
+Er stønaden gitt som lån eller garanti for lån, skal vedtaket inneholde bestemmelser om lånevilkårene.
+
+Hvis det på grunn av særlige forhold må antas at stønadsmottakeren ikke vil bruke stønaden i samsvar med vilkår som er fastsatt etter [§ 20](lov-2009-12-18-131-sosialtjenesteloven.md), kan det vedtas at stønaden helt eller delvis skal gis i form av varer og tjenester.
+
+### § 22. Utbetaling av stønad
+
+Når det ikke er truffet vedtak som nevnt i [§ 21](lov-2009-12-18-131-sosialtjenesteloven.md) fjerde ledd, skal stønaden utbetales til den som har søkt om stønad. Dersom stønaden skal komme flere til gode, kan det bestemmes at den skal deles mellom dem.
+
+### § 23. Følgen av at det er gitt uriktige opplysninger
+
+Har noen fått utbetalt stønad fordi vedkommende, eller noen som har handlet på vedkommendes vegne, forsettlig eller grovt uaktsomt har gitt uriktige opplysninger eller har fortiet opplysninger, kan det vedtas at bidraget skal betales tilbake, eller at en avtale om lån eller garanti for lån skal falle bort.
+
+### § 24. Inndrivelse av lån og andre former for dekning
+
+Krav på tilbakebetaling av lån er tvangsgrunnlag for utlegg. Det samme er krav som er oppstått fordi kommunen har innfridd et garantiansvar og tilbakebetalingskrav som bygger på [§ 23](lov-2009-12-18-131-sosialtjenesteloven.md).
+
+### § 25. Refusjon i underholdsbidrag
+
+Stønad som blir gitt i påvente av at søkeren får avgjort krav om underholdsbidrag, kan gis på vilkår av at retten til underholdsbidrag skal overtas av kommunen. Kommunen kan la kravet om underholdsbidrag inndrive etter de reglene som ellers gjelder for slike krav. Det samme gjelder stønad som blir gitt fordi underholdsbidraget ikke betales.
+
+Folketrygdens refusjonsrett etter [forskotteringsloven § 10](lov-1989-02-17-2-forskotteringsloven.md) har fortrinnsrett overfor kommunens refusjonsrett etter første ledd.
+
+*Endret ved lov [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019).*
+
+### § 26. Refusjon i ytelser fra folketrygden m.m.
+
+Dersom en mottaker av økonomisk stønad med tilbakevirkning får innvilget ytelser etter lov om folketrygd eller [lovene om krigspensjonering 13. desember 1946 nr. 21](lov-1946-12-13-21-lov-om-krigspensjon-for-militaerpersoner.md) og [22](lov-1946-12-13-22-lov-om-krigspensjonering-for-sivile-m-v.md), kan kommunen kreve hel eller delvis refusjon i det beløpet som skal etterbetales, til dekning av sine utlegg til samme formål og for samme tidsrom. Er stønadsmottakeren gift, kan det kreves refusjon etter regelen i første punktum også hos ektefellen så fremt stønaden er kommet ektefellen til gode.
+
+### § 27. Midlertidig botilbud
+
+Kommunen er forpliktet til å finne midlertidig botilbud for dem som ikke klarer det selv.
+
+### § 28. Rett til individuell plan
+
+Den som har behov for langvarige og koordinerte tjenester, har rett til å få utarbeidet individuell plan. Planen skal utformes i samarbeid med tjenestemottakeren, jf. [§ 42](lov-2009-12-18-131-sosialtjenesteloven.md).
+
+Kommunen skal samarbeide med andre tjenesteytere om planen for å bidra til et helhetlig tilbud for den det gjelder.
+
+Kongen i statsråd kan i forskrift gi nærmere bestemmelser om hvem rettigheten gjelder for etter første ledd og [§ 33](lov-2009-12-18-131-sosialtjenesteloven.md) første punktum, og om innholdet i individuelle planer.
+
+*Endret ved lov [11 juni 2021 nr. 78](https://lovdata.no/lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](https://lovdata.no/forskrift/2022-05-20-871)).*
+
+### § 29. Kvalifiseringsprogram
+
+Kvalifiseringsprogram gjelder for personer mellom 18 og 67 år med vesentlig nedsatt arbeids- og inntektsevne og ingen eller svært begrensede ytelser til livsopphold etter folketrygdloven eller arbeidsmarkedsloven.
+
+Rett til kvalifiseringsprogram forutsetter at søkeren har gjennomgått en arbeidsevnevurdering og at tett og koordinert bistand gjennom deltakelse i programmet vurderes som hensiktsmessig og nødvendig for å styrke vedkommendes mulighet for deltakelse i arbeidslivet.
+
+Kommunen er ikke forpliktet til å innvilge program dersom det på grunn av forhold ved søkeren vil være uforholdsmessig byrdefullt å tilby et program.
+
+Departementet kan i forskrift gi nærmere regler om retten til kvalifiseringsprogram og om bruken av arbeidsevnevurderinger.
+
+*Endret ved lover [17 des 2010 nr. 80](https://lovdata.no/lov/2010-12-17-80), [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019).*
+
+### § 30. Kvalifiseringsprogrammets innhold
+
+Innholdet i kvalifiseringsprogrammet skal tilpasses den enkeltes behov og forutsetninger. Den vesentlige delen av programmet skal bestå av tiltak som direkte forventes å styrke deltakers muligheter for overgang til arbeid etter endt program. Programmet kan også inneholde tiltak som kan være med på å støtte opp under og forberede overgang til arbeid. Det kan settes av tid til aktiviteter som bedrer deltakers helse.
+
+Programmet skal være helårig og på full tid. Inntil 50 prosent stilling eller gjennomføring av læretid kan kombineres med fortsatt deltakelse i kvalifiseringsprogrammet. Summen av inntektsgivende arbeid og andre aktiviteter innenfor programmet skal minst utgjøre full tid.
+
+Departementet kan i forskrift gi nærmere regler om programmets innhold.
+
+*Endret ved lov [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019).*
+
+### § 31. Iverksetting av programmet
+
+Kommunen skal tilrettelegge og iverksette kvalifiseringsprogram for person som omfattes av bestemmelsene i [§§ 29](lov-2009-12-18-131-sosialtjenesteloven.md) og [30](lov-2009-12-18-131-sosialtjenesteloven.md) fra det tidspunktet kvalifiseringsprogrammet angir, men senest innen seks måneder etter at søknad om deltakelse har kommet inn.
+
+### § 32. Programmets varighet
+
+Kvalifiseringsprogrammet gis så lenge deltakeren oppfyller vilkårene i [§ 29](lov-2009-12-18-131-sosialtjenesteloven.md), men ikke lenger enn to år. Når særlige grunner tilsier det, kan programmet forlenges med inntil ett år. Godkjent permisjon og opphold etter vedtak om avbrudd, jf. [§ 34](lov-2009-12-18-131-sosialtjenesteloven.md) første ledd, regnes ikke med i programmets varighet.
+
+Departementet kan i forskrift fastsette nærmere regler om varigheten av kvalifiseringsprogrammet.
+
+*Endret ved lov [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019).*
+
+### § 33. Individuell plan for deltakere i kvalifiseringsprogram
+
+Deltakere i kvalifiseringsprogram har rett til individuell plan. Planen skal utformes i samarbeid med deltakeren, jf. [§ 42](lov-2009-12-18-131-sosialtjenesteloven.md). Kommunens ansvar etter [§ 28](lov-2009-12-18-131-sosialtjenesteloven.md) annet og tredje ledd gjelder tilsvarende.
+
+### § 34. Avbrudd i og avslutning av program
+
+Kommunen kan avbryte programmet for en periode eller avslutte programmet dersom det er saklig begrunnet i forhold ved deltakeren. Programmet skal avsluttes når det er sannsynlig at deltakeren ikke vil gjenoppta deltakelsen i programmet. Kommunen skal også avslutte programmet dersom det har vært avbrutt i ett år.
+
+Programmet kan ikke avsluttes på grunn av fravær knyttet til ordinært arbeid, fødsel eller adopsjon det første året etter fraværets start.
+
+*Endret ved lov [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019).*
+
+### § 35. Kvalifiseringsstønad
+
+For den tiden en person deltar i kvalifiseringsprogram, har vedkommende rett til kvalifiseringsstønad. En person har ikke rett til kvalifiseringsstønad i perioden programmet er avbrutt etter [§ 34](lov-2009-12-18-131-sosialtjenesteloven.md) første ledd.
+
+Kvalifiseringsstønaden skal på årsbasis være lik 2,041 ganger folketrygdens grunnbeløp. Deltaker under 25 år mottar 2/3 stønad.
+
+Antall stønadsdager hvert år settes til 260, slik at stønaden per dag utgjør 1/260 av stønaden på årsbasis.
+
+Til den som forsørger barn, ytes et barnetillegg. Departementet gir forskrifter om barnetillegg, herunder om tilleggets størrelse mv.
+
+*Endret ved lover [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019), [20 des 2023 nr. 95](https://lovdata.no/lov/2023-12-20-95) (i kraft 1 juli 2024 iflg. [res. 20 des 2023 nr. 2132](https://lovdata.no/forskrift/2023-12-20-2132)).*
+
+### § 36. Reduksjon i kvalifiseringsstønad ved fravær
+
+Ved fravær reduseres kvalifiseringsstønaden tilsvarende. Det gjelder ikke ved fravær som skyldes sykdom eller andre tvingende velferdsgrunner, og som det er gitt tillatelse til.
+
+Departementet kan i forskrift fastsette nærmere regler om når det kan gis tillatelse til fravær med stønad etter første ledd annet punktum.
+
+*Endret ved lov [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019).*
+
+### § 37. Samordning mellom kvalifiseringsstønad og arbeidsinntekt mv.
+
+I den utstrekning en deltaker i kvalifiseringsprogram har inntektsgivende arbeid eller lærlingelønn, reduseres stønaden inkludert barnetillegg tilsvarende, beregnet i forhold til antall timer med inntektsgivende arbeid eller gjennomføring av læretid. Stønaden reduseres ikke på grunn av mottatte barnebidrag.
+
+*Endret ved lov [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019).*
+
+### § 38. Samordning mellom kvalifiseringsstønad og andre offentlige ytelser
+
+Kvalifiseringsstønaden reduseres i den utstrekning vedkommende har rett til dagpenger under arbeidsløshet, sykepenger, eller foreldrepenger.
+
+Dersom en mottaker av kvalifiseringsstønad får etterbetalt uføretrygd eller ytelser som nevnt i første ledd, kan kommunen kreve hel eller delvis refusjon i det beløpet som skal etterbetales, til dekning av sine utlegg til samme formål og for samme tidsrom.
+
+*Endret ved lover [14 des 2012 nr. 80](https://lovdata.no/lov/2012-12-14-80), [20 juni 2014 nr. 24](https://lovdata.no/lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](https://lovdata.no/forskrift/2014-06-20-799)), [20 des 2018 nr. 98](https://lovdata.no/lov/2018-12-20-98) (ikr. 1 jan 2019).*
+
+### § 39. Utbetaling av kvalifiseringsstønad
+
+Utbetaling av kvalifiseringsstønad skjer etterskuddsvis på grunnlag av registrert frammøte. Kommunen beslutter hvordan og til hvilke tidspunkter utbetaling skal skje.
+
+### § 40. Trekk i framtidige utbetalinger m.m.
+
+Dersom en person har fått utbetalt høyere kvalifiseringsstønad enn det vedkommende har krav på, kan det overskytende trekkes i framtidig stønad.
+
+Dersom det er gitt uriktige opplysninger gjelder [§ 23](lov-2009-12-18-131-sosialtjenesteloven.md) tilsvarende for kvalifiseringsstønad.
+
+## Kapittel 5. Saksbehandlingen
+
+### § 41. Anvendelse av forvaltningsloven
+
+Forvaltningsloven gjelder med de særregler som er fastsatt i loven her.
+
+Avgjørelser om tildeling av sosiale tjenester skal regnes som enkeltvedtak.
+
+### § 42. Plikt til å rådføre seg med tjenestemottaker
+
+Tjenestetilbudet skal så langt som mulig utformes i samarbeid med tjenestemottaker. Det skal legges stor vekt på hva vedkommende mener.
+
+### § 43. Innhenting av opplysninger
+
+Opplysninger skal så langt som mulig innhentes i samarbeid med tjenestemottaker eller slik at vedkommende har kjennskap til innhentingen.
+
+I saker som gjelder tjenester etter denne loven, kan kommunen kreve opplysninger fra andre offentlige organer. Like med offentlige organer regnes organisasjoner og private som utfører oppgaver for stat, fylkeskommune eller kommune. Har tjenestemottaker ikke samtykket i at opplysningene blir innhentet, skal spørsmålet om opplysningene kan gis uten hinder av taushetsplikt, avgjøres etter de taushetsbestemmelser som gjelder for avgiverorganet.
+
+I saker som gjelder tjenester etter denne loven, skal kommunen, uten hinder av taushetsplikt, ha tilgang til nødvendige opplysninger i Folkeregisteret. Kommunen skal også ha tilgang til opplysningene i registeret i forbindelse med utredning og produksjon av statistikk.
+
+*Endret ved lov [22 juni 2018 nr. 68](https://lovdata.no/lov/2018-06-22-68) (ikr. 1 okt 2018).*
+
+### § 43 a. Behandling av personopplysninger
+
+Kommunen, statsforvalteren, Statens helsetilsyn og Arbeids- og velferdsdirektoratet kan behandle personopplysninger, herunder personopplysninger som nevnt i [personvernforordningen artikkel 9](lov-2018-06-15-38-personopplysningsloven.md) og [10](lov-2018-06-15-38-personopplysningsloven.md), når dette er nødvendig for utførelsen av oppgaver etter loven her.
+
+Departementet kan gi forskrift om behandlingen, blant annet om formålet med behandlingen, behandlingsansvar, hvilke typer personopplysninger som kan behandles, hvem det kan behandles personopplysninger om, registerføring og tilgang til registre.
+
+*Tilføyd ved lov [4 des 2020 nr. 132](https://lovdata.no/lov/2020-12-04-132), endret ved lover [7 mai 2021 nr. 30](https://lovdata.no/lov/2021-05-07-30), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+### § 44. Taushetsplikt
+
+Enhver som utfører tjeneste eller arbeid for kommunen etter denne loven, har taushetsplikt etter [forvaltningsloven §§ 13](lov-1967-02-10-forvaltningsloven.md) til [13 e](lov-1967-02-10-forvaltningsloven.md) og [13 g](lov-1967-02-10-forvaltningsloven.md). Overtredelse straffes etter [straffeloven § 209](lov-2005-05-20-28-straffeloven.md).
+
+Taushetsplikten gjelder også fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted. Opplysning om en tjenestemottakers oppholdssted kan likevel gis når det er klart at det ikke vil skade tilliten til kommunen.
+
+Det kan bare gis opplysninger til andre forvaltningsorganer etter [forvaltningsloven § 13 b](lov-1967-02-10-forvaltningsloven.md) nr. 6 når dette er nødvendig for å fremme kommunen i arbeids- og velferdsforvaltningens oppgaver.
+
+Uten hinder av taushetsplikten kan kommunen etter forespørsel utlevere tjenestemottakerens kontaktopplysninger og opplysninger om mulig oppholdssted til politiet og kriminalomsorgen til bruk i deres tjeneste.
+
+Dersom et barns interesser tilsier det, kan statsforvalteren eller departementet bestemme at opplysninger skal være undergitt taushetsplikt, selv om foreldrene har samtykket i at de gjøres kjent.
+
+*Endret ved lover [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015), [16 juni 2017 nr. 45](https://lovdata.no/lov/2017-06-16-45) (ikr. 1 jan 2018 iflg. [res. 3 nov 2017 nr. 1732](https://lovdata.no/forskrift/2017-11-03-1732)), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)), [18 juni 2021 nr. 127](https://lovdata.no/lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](https://lovdata.no/forskrift/2021-06-18-2026)).*
+
+### § 45. Opplysningsplikt til barnevernet
+
+Enhver som utfører tjeneste eller arbeid etter denne loven, skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten.
+
+Enhver som utfører tjeneste eller arbeid etter denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold
+
+a. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,
+b. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,
+c. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,
+d. når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmiddel, eller ved andre utpreget skadelige handlinger,
+e. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+
+Enhver som utfører tjeneste eller arbeid etter denne loven, plikter også å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov-2021-06-18-97-barnevernsloven.md).
+
+*Endret ved lover [20 apr 2018 nr. 5](https://lovdata.no/lov/2018-04-20-5) (ikr. 1 juli 2018 iflg. [res. 8 juni 2018 nr. 839](https://lovdata.no/forskrift/2018-06-08-839)), [18 juni 2021 nr. 97](lov-2021-06-18-97-barnevernsloven.md) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](https://lovdata.no/forskrift/2022-10-14-1739)), [20 juni 2025 nr. 39](lov-2025-06-20-39-endringslov-til-barnevernsloven-mv.md) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](https://lovdata.no/forskrift/2025-12-19-2711)).*
+
+### § 46. Folkevalgt organs sammensetning i enkeltsaker
+
+Dersom et folkevalgt organ etter kommunestyrets beslutning skal behandle saker vedrørende enkeltpersoner etter denne lov, skal organet ha tre til fem medlemmer.
+
+### § 47. Klage over kommunens vedtak
+
+Enkeltvedtak som kommunen har truffet etter denne loven, kan påklages til statsforvalteren.
+
+*Endret ved lov [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+### § 48. Statsforvalterens kompetanse i klagesaker
+
+Statsforvalteren kan prøve alle sider av vedtaket. Når det gjelder prøvingen av det frie skjønn, kan statsforvalteren likevel bare endre vedtaket når skjønnet er åpenbart urimelig.
+
+Dersom et vedtak som gir klageren medhold, ikke kan settes i verk straks, kan statsforvalteren bestemme at det straks skal settes i verk midlertidige tiltak som skal dekke et øyeblikkelig behov.
+
+*Endret ved lov [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+### § 49. Avgjørelse av tvister
+
+Oppstår det tvist mellom kommuner om ansvar etter [§ 3](lov-2009-12-18-131-sosialtjenesteloven.md), kan kommunene kreve at statsforvalteren avgjør tvisten. Departementet kan gi nærmere regler om behandlingsmåten.
+
+*Endret ved lov [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+### § 49 a. Oppfyllelse av enkeltvedtak som er kjent ugyldig
+
+En kommune må oppfylle et vedtak fra et statlig forvaltningsorgan som gir en privat part rett til tjenester etter loven her, selv om kommunen får vedtaket kjent ugyldig gjennom søksmål etter [tvisteloven § 1-4 a](lov-2005-06-17-90-tvisteloven.md). Vedtak kan i tilfeller som nevnt i første punktum bare omgjøres til skade for den private parten etter [forvaltningsloven § 35](lov-1967-02-10-forvaltningsloven.md) første ledd bokstav c dersom det er ugyldig fordi den private parten, eller noen som handlet på den private partens vegne, forsettlig eller grovt uaktsomt har gitt uriktige opplysninger eller holdt tilbake opplysninger.
+
+*Tilføyd ved lov [16 juni 2017 nr. 63](https://lovdata.no/lov/2017-06-16-63) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 757](https://lovdata.no/forskrift/2017-06-16-757)).*
+
+## Kapittel 6. Ikrafttredelse, overgangsbestemmelser og endringer i andre lover
+
+### § 50. Lovens ikrafttredelse
+
+Loven trer i kraft fra den tid Kongen bestemmer.[1]
+
+Lovens bestemmelser om kvalifiseringsprogram og kvalifiseringsstønad gjelder for den enkelte kommunen fra det tidspunktet det er inngått avtale mellom Arbeids- og velferdsetaten og kommunen etter [arbeids- og velferdsforvaltningsloven §§ 13](lov-2006-06-16-20-nav-loven.md) og [14](lov-2006-06-16-20-nav-loven.md), og felles lokalt kontor er etablert. Fra 1. januar 2010 gjelder bestemmelsene for alle landets kommuner.
+
+### § 51. Overgangsbestemmelser
+
+Kongen kan gi forskrifter om lovens anvendelse for vedtak som er truffet etter lover som blir opphevet ved denne loven, og om saker som er under behandling etter disse lovene.
+
+### § 51 a. Forskrifter om unntak ved allmennfarlig smittsom sykdom mv.
+
+Bestemmelsen i denne paragrafen gjelder ved utbrudd eller fare for utbrudd av allmennfarlig smittsom sykdom.
+
+Departementet kan gi forskrift om midlertidige unntak fra bestemmelsene i [§ 20](lov-2009-12-18-131-sosialtjenesteloven.md), [§ 20 a](lov-2009-12-18-131-sosialtjenesteloven.md) og [§§ 29](lov-2009-12-18-131-sosialtjenesteloven.md) til [40](lov-2009-12-18-131-sosialtjenesteloven.md).
+
+Departementet kan gi forskrift om midlertidige unntak fra bestemmelsen i [§ 26](lov-2009-12-18-131-sosialtjenesteloven.md) om refusjon i ytelser fra folketrygden m.m.
+
+*Tilføyd ved lov [27 mars 2020 nr. 10](https://lovdata.no/lov/2020-03-27-10), endret ved lover [15 april 2020 nr. 19](https://lovdata.no/lov/2020-04-15-19) (med virkning fra 16 mars 2020), [17 juni 2022 nr. 42](https://lovdata.no/lov/2022-06-17-42).*
+
+### § 52. Endringer i andre lover
+
+Med virkning fra lovens ikrafttredelse gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Fra 1 jan 2010 iflg. [res. 18 des 2009 nr. 1584](https://lovdata.no/forskrift/2009-12-18-1584).

@@ -1,0 +1,118 @@
+# Forskrift om konsolidering mv. i tverrsektorielle grupper
+
+- **Datokode:** FOR-2015-12-18-1764
+- **DokumentID:** SF/forskrift/2015-12-18-1764
+- **Departement:** Finansdepartementet
+- **Etat:** Finansmarkedsavdelingen
+- **Hjemmel:** lov 10.04.2015 nr. 17/§18-2; lov 10.04.2015 nr. 17/§18-7; lov 29.06.2007 nr. 75/§9-21; lov 29.06.2007 nr. 75/§9-46
+- **Publisert i:** I 2015 hefte 16
+- **Kunngjort:** 2015-12-29 16:15
+- **I kraft fra:** 2016-01-31
+- **Siste endring i kraft:** 2023-11-03
+- **Sist endret ved:** forskrift 03.11.2023 nr. 1776
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-02-12 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 18. desember 2015 med hjemmel i lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 18-2 fjerde ledd og § 18-7 og lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven) § 9-21 og § 9-46. EØS-henvisninger: EØS-avtalen vedlegg IX (forordning (EU) nr. 342/2014 og forordning (EU) 2015/2303), nr. 31eac (forordning (EU) 2022/2454). Endret ved forskrifter 9 feb 2021 nr. 373, 3 nov 2023 nr. 1776 (bl.a. hjemmel). Rettet 12.02.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2015-12-18-1764>
+
+## § 1. Virkeområde
+
+Forskriften gjelder
+
+a. banker, kredittforetak og finansieringsforetak,
+b. forsikringsforetak,
+c. holdingselskap i finanskonsern,
+d. verdipapirforetak, forvaltningsselskap for verdipapirfond med tillatelse til å yte aktiv forvaltning og forvalter av alternative investeringsfond med tillatelse til å yte aktiv forvaltning, og
+e. morselskap som nevnt i [verdipapirhandelloven § 9-21](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) første ledd nr. 3.
+
+Finanstilsynet kan bestemme at regler i denne forskrift også skal gjelde annet eierforetak som nevnt i [finansforetaksloven § 17-6](../lover/lov-2015-04-10-17-finansforetaksloven.md) annet ledd bokstav c.
+
+Forskriften gjelder ikke for foretak i tverrsektorielle finansielle grupper som har avgrenset tverrsektoriell virksomhet og som er underlagt konsolideringsreglene i CRR/CRD IV-forskriften eller reglene om forsikringsgrupper i Solvens II-forskriften. Finanstilsynet kan ved enkeltvedtak bestemme at forskriften likevel skal gjelde for foretak som nevnt i første punktum når andre forhold enn dem nevnt i [§ 2](for-2015-12-18-1764-forskrift-om-konsolidering-mv-i-tverrsektorielle-grupper.md) annet ledd tilsier at gruppens tverrsektorielle virksomhet er av et slikt omfang at den ikke kan anses som avgrenset.
+
+Konsolidering etter [finansforetaksloven § 18-2](../lover/lov-2015-04-10-17-finansforetaksloven.md), [verdipapirhandelloven § 9-21](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) og denne forskrift skal foretas når foretaket har deltakerinteresser i eller felles ledelse med et annet foretak slik at de sammen utgjør en tverrsektoriell finansiell gruppe. Plikten gjelder øverste norske foretak i gruppen.
+
+## § 2. Definisjoner
+
+Som tverrsektoriell finansiell gruppe regnes en gruppe som i tillegg til å omfatte forsikringsforetak også omfatter minst ett av følgende foretak: bank, kredittforetak, finansieringsforetak, verdipapirforetak, forvaltningsselskap for verdipapirfond med tillatelse til å yte aktiv forvaltning eller forvalter av alternative investeringsfond med tillatelse til å yte aktiv forvaltning.
+
+Som grupper med avgrenset tverrsektoriell virksomhet regnes grupper der kredittinstitusjonsvirksomheten og verdipapirforetaksvirksomheten til sammen, eller forsikringsvirksomheten alene, på konsolidert basis har
+
+a. en forvaltningskapital som utgjør mindre enn 10 prosent av gruppens konsoliderte forvaltningskapital eller et beløp som svarer til 6 milliarder euro, eller
+b. et kapitalkrav som utgjør mindre enn 10 prosent av gruppens konsoliderte kapitalkrav, jf. [§ 3](for-2015-12-18-1764-forskrift-om-konsolidering-mv-i-tverrsektorielle-grupper.md).
+
+Som deltakerinteresser regnes direkte eller indirekte eierandel på 20 prosent eller mer av stemmene eller kapitalen i et annet foretak.
+
+Som felles ledelse regnes der to eller flere foretak har de samme personene som utgjør flertallet i foretakenes styrende eller kontrollerende organer.
+
+Som risikokonsentrasjon regnes eksponeringer som kan true soliditeten eller den finansielle stillingen til foretak i gruppen.
+
+Som konserninterne transaksjoner regnes transaksjoner og engasjementer mellom foretak i et finanskonsern, mellom finansforetak og tilknyttet foretak, og mellom finansforetak og deltakende foretak, samt transaksjoner gjennomført med en person som har nære forbindelser til gruppen.
+
+## § 3. Oppfyllelse av soliditetskrav på konsolidert basis
+
+Summen av ansvarlig kapital for kredittinstitusjonsvirksomheten og verdipapirforetaksvirksomheten og ansvarlig kapital for forsikringsvirksomheten, begge beregnet på konsolidert basis, skal være tilstrekkelig til å dekke summen av sektorkravene som nevnt i annet og tredje ledd.
+
+Som sektorkrav for kredittinstitusjonsvirksomheten og verdipapirforetaksvirksomheten regnes summen av
+
+a. kravet til kapital for banker, kredittforetak og finansieringsforetak etter [finansforetaksloven § 14-1](../lover/lov-2015-04-10-17-finansforetaksloven.md) og [§ 14-3](../lover/lov-2015-04-10-17-finansforetaksloven.md) samt eventuelle kapitalkrav etter [finansforetaksloven § 14-6](../lover/lov-2015-04-10-17-finansforetaksloven.md) og
+b. kravet til kapital for verdipapirforetak, forvaltningsselskap for verdipapirfond med tillatelse til å yte aktiv forvaltning og forvalter av alternative investeringsfond med tillatelse til å yte aktiv forvaltning etter [verdipapirhandelloven § 9-15](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) og [§ 9-15](../lover/lov-2007-06-29-75-verdipapirhandelloven.md)a samt eventuelle kapitalkrav etter [§ 9-16](../lover/lov-2007-06-29-75-verdipapirhandelloven.md) sjette ledd.
+
+Som sektorkrav for forsikringsforetak regnes solvenskapitalkravet etter [finansforetaksloven § 14-10](../lover/lov-2015-04-10-17-finansforetaksloven.md) medregnet eventuelle kapitalkravstillegg etter [finansforetaksloven § 14-13](../lover/lov-2015-04-10-17-finansforetaksloven.md).
+
+## § 4. Konsolideringsmetode
+
+Konsolidert ansvarlig kapital, beregningsgrunnlag og solvenskapitalkrav skal beregnes etter samme prinsipper som ved konsolidering etter regnskapsreglene, men slik at forholdsmessig konsolidering benyttes i stedet for egenkapitalmetoden. Konsolideringen skal omfatte ikke-balanseførte forpliktelser. Ikke-balanseførte interne poster mellom foretakene skal elimineres. Finanstilsynet kan ved enkeltvedtak bestemme at det skal foretas beregninger etter en alternativ metode.
+
+Ved beregning av ansvarlig kapital, beregningsgrunnlag og solvenskapitalkrav innenfor sektorene og vurdering av foretakene som skal konsolideres inn, gjelder de ulike sektorreglene, herunder bestemmelsene om verdivurdering i [finansforetaksloven § 14-8](../lover/lov-2015-04-10-17-finansforetaksloven.md).
+
+Ved beregning av ansvarlig kapital på konsolidert basis skal det tas hensyn til begrensninger i muligheten for å overføre og gjøre disponibel kapitalen på tvers av sektorene og foretakene i gruppen.
+
+## § 5. Medregning av ansvarlig kapital mellom sektorer
+
+Ved beregning av ansvarlig kapital på konsolidert basis kan kapital som nevnt i annet til fjerde ledd og som ikke skal elimineres etter [§ 6](for-2015-12-18-1764-forskrift-om-konsolidering-mv-i-tverrsektorielle-grupper.md), bare medregnes i den grad kapitalen benyttes til å dekke kravet til ansvarlig kapital på konsolidert basis for den sektoren foretaket eller delkonsernet tilhører.
+
+For foretak som er omfattet av CRR/CRD IV-forskriften, kan følgende kapital bare medregnes på sektornivå:
+
+a. minoritetsinteresser
+b. fondsobligasjonskapital og ansvarlig lånekapital utstedt til foretak som ikke inngår på konsolidert basis (tredjeparter).
+
+For forsikringsforetak kan følgende kapitalelementer bare medregnes på sektornivå:
+
+a. minoritetsinteresser
+b. fondsobligasjonskapital og ansvarlig lånekapital utstedt til selskap som ikke inngår på konsolidert basis (tredjeparter)
+c. forventet fortjeneste knyttet til fremtidige premier
+d. netto utsatt skattefordel
+e. supplerende kapital som ikke er innbetalt
+f. risikoutjevningsfond.
+
+Finanstilsynet kan ved enkeltvedtak bestemme at også andre særskilte kapitalelementer bare skal kunne medregnes på sektornivå.
+
+Annen ansvarlig kapital enn den som er nevnt i annet til fjerde ledd og som ikke skal elimineres etter [§ 6](for-2015-12-18-1764-forskrift-om-konsolidering-mv-i-tverrsektorielle-grupper.md), medregnes fullt ut ved beregningen av dekningen av det konsoliderte kapitalkravet.
+
+## § 6. Medregning av ansvarlig kapital fra datterforetak etter sektorregler
+
+Ved beregning av sektorkravet til ansvarlig kapital for banker mv. og verdipapirforetak på konsolidert basis, jf. [§ 3](for-2015-12-18-1764-forskrift-om-konsolidering-mv-i-tverrsektorielle-grupper.md) andre ledd kan kapital etter [§ 5](for-2015-12-18-1764-forskrift-om-konsolidering-mv-i-tverrsektorielle-grupper.md) annet ledd, bare medregnes i den grad kapitalen benyttes til å dekke kravet til ansvarlig kapital på konsolidert basis for datterforetaket. Andelen som ikke kan medregnes, er differansen mellom datterforetakets ansvarlige kapital og kapitalkravet for datterforetaket på konsolidert basis, dividert på datterforetakets ansvarlige kapital.
+
+Ved beregning av oppfyllelsen av sektorkravet til ansvarlig kapital for forsikringsforetak på konsolidert basis skal det gjøres fradrag for minoritetsinteresser som ikke kan inngå i beregningen av gruppesolvens. Minoritetsinteresser som ikke kan inngå, beregnes som differansen mellom datterselskapets ansvarlige kapital og solvenskapitalkravet for datterselskapet på gruppenivå multiplisert med minoritetsandelen. Hvis øvrig ansvarlig kapital som etter Finanstilsynets vurdering ikke kan gjøres tilgjengelig for å dekke solvenskapitalkravet på gruppenivå, overstiger solvenskapitalkravet for datterselskapet på gruppenivå, skal datterforetakets ansvarlige kapital reduseres med denne differansen før minoritetsinteressene som ikke kan inngå, beregnes.
+
+## § 7. Rapportering
+
+Tverrsektorielle finansielle grupper skal minst årlig rapportere risikokonsentrasjon på gruppenivå til Finanstilsynet på den måte Finanstilsynet fastsetter.
+
+Tverrsektorielle finansielle grupper skal årlig sende inn til Finanstilsynet en oversikt over gruppens juridiske struktur og organisering.
+
+Tverrsektorielle finansielle grupper skal minst årlig rapportere til Finanstilsynet gruppeinterne transaksjoner på den måte Finanstilsynet fastsetter.
+
+## § 8. Inkorporasjonsbestemmelse
+
+Følgende utfyllende forordninger gjelder som norsk forskrift med de tilpasningene som følger av [EØS-avtalen vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig:
+
+1. [EØS-avtalen vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) nr. 342/2014](https://lovdata.no/eu/32014r0342) om utfylling av europaparlaments- og rådsdirektiv [2002/87/EF](https://lovdata.no/eu/32002l0087), europaparlaments- og rådsforordning [(EU) nr. 575/2013](https://lovdata.no/eu/32013r0575) og europaparlaments- og rådsdirektiv [2009/138/EF](https://lovdata.no/eu/32009l0138) med hensyn til tekniske reguleringsstandarder for anvendelse av beregningsmetodene for kapitaldekningskrav for finansielle konglomerater
+2. [EØS-avtalen vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9) delegert kommisjonsforordning [(EU) 2015/2303](https://lovdata.no/eu/32015r2303) om utfylling av europaparlaments- og rådsdirektiv [2002/87/EF](https://lovdata.no/eu/32002l0087), europaparlaments- og rådsforordning [(EU) nr. 575/2013](https://lovdata.no/eu/32013r0575) og europaparlaments- og rådsdirektiv [2009/138/EF](https://lovdata.no/eu/32009l0138) med hensyn til tekniske reguleringsstandarder som spesifiserer definisjoner og samordner det utvidede tilsynet med risikokonsentrasjoner og konserninterne transaksjoner.
+3. [EØS-avtalen vedlegg IX](https://lovdata.no/avtale/avt-1992-05-02-1-v9) nr. 31eac forordning [(EU) 2022/2454](https://lovdata.no/eu/32022r2454) om fastsettelse av tekniske gjennomføringsstandarder for anvendelse av europaparlaments- og rådsdirektiv [2002/87/EF](https://lovdata.no/eu/32002l0087) med hensyn til tilsynsrapportering av risikokonsentrasjoner og konserninterne transaksjoner.
+
+*Endret ved forskrifter [9 feb 2021 nr. 373](https://lovdata.no/forskrift/2021-02-09-373), [3 nov 2023 nr. 1776](https://lovdata.no/forskrift/2023-11-03-1776).*
+
+## § 9. Ikrafttreden
+
+Forskriften trer i kraft 31. januar 2016.

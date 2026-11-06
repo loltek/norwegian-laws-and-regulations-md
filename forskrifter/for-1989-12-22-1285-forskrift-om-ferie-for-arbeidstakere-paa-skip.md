@@ -1,0 +1,76 @@
+# Forskrift om ferie for arbeidstakere på skip
+
+- **Datokode:** FOR-1989-12-22-1285
+- **DokumentID:** SF/forskrift/1989-12-22-1285
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Maritim avd.
+- **Hjemmel:** lov 29.04.1988 nr. 21/§2; forskrift 05.07.2002 nr. 718
+- **Publisert i:** I 1989 1236
+- **I kraft fra:** 1990-01-01
+- **Siste endring i kraft:** 2017-08-07
+- **Sist endret ved:** forskrift 07.08.2017 nr. 1236
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 22. desember 1989 med hjemmel i lov 29. april 1988 nr. 21 om ferie § 2 nr. 2. Fremmet av Kommunal- og arbeidsdepartementet. Tilføyd hjemmel: Myndighetsansvar for forskriften overført til Nærings- og handelsdepartementet 5 juli 2002, jf. kgl.res. 5 juli 2002 nr. 718. Endret ved forskrift 7 aug 2017 nr. 1236.
+- **Kilde:** <https://lovdata.no/forskrift/1989-12-22-1285>
+
+## § 1. Virkeområde
+
+Forskriften gjelder for enhver arbeidstaker som omfattes av [lov 21. juni 2013 nr. 102](../lover/lov-2013-06-21-102-skipsarbeidsloven.md) om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven).
+
+*Endret ved [forskrift 7 aug 2017 nr. 1236](https://lovdata.no/forskrift/2017-08-07-1236).*
+
+## § 2. Tid og sted for ferien
+
+For arbeidstakere på skip i utenriks sjøfart kan hovedferie som omfatter 18 virkedager gis utenfor hovedferieperioden 1. juni – 30. september.
+
+Arbeidsgiver kan ikke gi arbeidstaker ferie i havner utenfor det land der vedkommende ble ansatt eller hører hjemme.
+
+## § 3. Ferieavvikling under fødsels- og omsorgspermisjon
+
+Arbeidsgiver kan ikke uten arbeidstakers samtykke legge ferie i permisjonstid som fedre har i tilknytning til fødsel i medhold av [forskrift 3. februar 1986 nr. 234](https://lovdata.no/forskrift/1986-02-03-234) om permisjon ved svangerskap, fødsel, adopsjon og i barnets første leveår [§ 8](https://lovdata.no/forskrift/1986-02-03-234/§8).
+
+Faller permisjonstid som nevnt i første ledd sammen med allerede fastsatt ferie, kan arbeidstaker kreve utsettelse av de virkedager ferie som er blitt omfattet av permisjonstiden.
+
+På de vilkår som følger av [ferieloven §§ 6](../lover/lov-1988-04-29-21-ferieloven.md) og [7](../lover/lov-1988-04-29-21-ferieloven.md) kan arbeidsgiver legge ferie i den tid da arbeidstaker har utvidet omsorgspermisjon etter [forskrift 3. februar 1986 nr. 234](https://lovdata.no/forskrift/1986-02-03-234) om permisjon ved svangerskap, fødsel, adopsjon og i barnets første leveår [§§ 9](https://lovdata.no/forskrift/1986-02-03-234/§9) og [10](https://lovdata.no/forskrift/1986-02-03-234/§10).
+
+Reglene i denne paragraf kan ikke til skade for arbeidstaker fravikes ved tariffavtale eller annen forhåndsavtale.
+
+## § 4. Opptjening av feriepenger under sykdom, fødsels- og omsorgspermisjon mv
+
+Arbeidstaker som ikke er trygdet etter [lov 17. juni 1966 nr. 12](https://lovdata.no/lov/1966-06-17-12) om folketrygd, men som har minst 3 måneders forutgående tjenestetid, opptjener rett til feriepenger fra arbeidsgiver også for den tid vedkommende i opptjeningsåret er borte fra arbeidet under:
+
+1. arbeidsuførhet som følge av sykdom eller skade, i opp til sammenlagt 3 måneder. Arbeidsgiver kan kreve at arbeidsuførheten blir dokumentert ved legeerklæring.
+2. svangerskap, opp til 12 uker omkring fødselen.
+3. omsorgspermisjon ved adopsjon for inntil 12 uker.
+
+Feriepenger under slikt fravær utregnes på grunnlag av den gjennomsnittlige arbeidsfortjeneste i vanlig arbeidstid de siste 4 ukene før ferien eller før fratreden.
+
+Arbeidstaker som ikke har vært i arbeid i virksomheten etter fraværet kan ikke kreve feriepenger etter de foregående ledd, med mindre uteblivelsen skyldes arbeidsgivers oppsigelse eller helsemessige forhold.
+
+Reglene i denne paragraf kan fravikes ved tariffavtale.
+
+## § 5. Utbetaling av feriepenger
+
+I forbindelse med utbetaling av feriepenger ved opphør av arbeidsforholdet ([ferieloven § 11](../lover/lov-1988-04-29-21-ferieloven.md) nr. 3), eller ved dødsfall ([ferieloven § 11](../lover/lov-1988-04-29-21-ferieloven.md) nr. 5), gjelder ikke fradragsregelen i [ferieloven § 11](../lover/lov-1988-04-29-21-ferieloven.md) nr. 3 annet ledd overfor arbeidstakere som i det forkortede opptjeningsår 1. mai – 31. desember 1988 var omfattet av forskrift 19. mars 1948 om ferie for sjømenn.
+
+## § 6. Utbetalingsmåte, trekk i feriepenger
+
+[Lov 21. juni 2013 nr. 102](../lover/lov-2013-06-21-102-skipsarbeidsloven.md) om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven) [§ 4-3](../lover/lov-2013-06-21-102-skipsarbeidsloven.md) gjelder tilsvarende for adgangen til å gjøre fradrag i feriepenger.
+
+*Endret ved [forskrift 7 aug 2017 nr. 1236](https://lovdata.no/forskrift/2017-08-07-1236).*
+
+## § 7. Fravikelighet
+
+Forskriften her kan ikke fravikes til skade for arbeidstaker med mindre det er særskilt fastsatt i forskriften at en bestemmelse kan fravikes ved avtale. Avtale som fraviker forskriften til skade for arbeidstaker, må inngås skriftlig for å kunne påberopes av arbeidsgiver.
+
+Arbeidsgiver som er bundet av tariffavtalebestemmelse som fraviker forskriften, kan anvende den overfor alle arbeidstakere som utfører arbeid av den art avtalen omfatter, såfremt et flertall av dem er bundet av avtalen.
+
+## § 8. Ikrafttreden og overgangsregler
+
+I. Forskriften her trer i kraft 1. januar 1990. Fra samme tidspunkt oppheves forskrift 19. mars 1948 om ferie for sjømenn.
+
+II. Avvikling av feriefritid i ferieåret 1. januar – 31. desember 1990, skal skje etter reglene i [lov 29. april 1988 nr. 21](../lover/lov-1988-04-29-21-ferieloven.md) om ferie.
+
+I opptjeningsåret 1. januar – 31. desember 1989 opptjener arbeidstakere som omfattes av forskrift 19. mars 1948 om ferie for sjømenn feriepenger etter bestemmelsene i nevnte forskrift punkt III. Feriepenger som opptjenes i denne periode utbetales etter reglene i [lov 29. april 1988 nr. 21](../lover/lov-1988-04-29-21-ferieloven.md) om ferie [§ 11](../lover/lov-1988-04-29-21-ferieloven.md).
+
+Overgangsreglene her kan fravikes ved tariffavtale.

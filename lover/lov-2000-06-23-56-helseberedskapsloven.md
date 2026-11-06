@@ -1,0 +1,239 @@
+# Lov om helsemessig og sosial beredskap (helseberedskapsloven)
+
+- **Korttittel:** Helseberedskapsloven – hlsberedskl
+- **Datokode:** LOV-2000-06-23-56
+- **DokumentID:** NL/lov/2000-06-23-56
+- **Departement:** Helse- og omsorgsdepartementet
+- **I kraft fra:** 2001-07-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** lov 20.06.2025 nr. 69 fra 2026-01-01
+- **Rettsområde:** HMS og beredskaps- og sikkerhetsrett > Beredskap; Helse- og omsorgsrett
+- **Endrer:** lov 02.12.1955 nr. 2
+- **Siste rettelse:** 2021-07-02 (faglige fotnoter fjernet, UU-tilpasning)
+- **Merknad:** Lovens tittel endret ved lov 24 juni 2011 nr. 29 (ikr. 1 jan 2012 iflg. res. 24 juni 2011 nr. 637). – Jf. lov 15 des 1950 nr. 7. – Jf. tidligere lov 2 des 1955 nr. 2 om helsemessig beredskap.
+- **Kilde:** <https://lovdata.no/lov/2000-06-23-56>
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1-1. Lovens formål og virkemidler
+
+Formålet med loven er å verne befolkningens liv og helse og bidra til at nødvendig helsehjelp, helse- og omsorgstjenester og sosiale tjenester kan tilbys befolkningen under krig og ved kriser og katastrofer i fredstid.
+
+For å ivareta lovens formål, skal virksomheter loven omfatter kunne fortsette og om nødvendig legge om og utvide driften under krig og ved kriser og katastrofer i fredstid, på basis av den daglige tjeneste, oppdaterte planverk og regelmessige øvelser, slik det er bestemt i eller i medhold av loven.
+
+*Endret ved [lov 24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 1-2. Lovens stedlige virkeområde
+
+Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen og fastsette særlige regler under hensyn til de stedlige forhold. Kongen kan gi forskrift om og i hvilken utstrekning loven skal gjelde på norske skip i utenriksfart, i norske sivile luftfartøyer i internasjonal trafikk, og på installasjoner og fartøy i arbeid på norsk kontinentalsokkel.
+
+### § 1-3. Virksomheter loven gjelder for
+
+Denne lov gjelder for:
+
+a. den offentlige helse- og omsorgstjeneste og sosialtjeneste og kommunens folkehelsearbeid etter [folkehelseloven kapittel 2](lov-2011-06-24-29-folkehelseloven.md) og 3,
+b. private som i henhold til lov eller avtale tilbyr helse- og omsorgstjenester eller sosialtjenester til befolkningen,
+c. private som uten formell tilknytning til kommune, fylkeskommune, regionalt helseforetak eller staten tilbyr helse- og omsorgstjenester eller sosialtjenester,
+d. Mattilsynet,
+e. offentlige næringsmiddellaboratorier,
+f. private næringsmiddellaboratorier,
+g. vannverk,
+h. apotek, grossister og tilvirkere av legemidler,
+i. bandasjister, tilvirkere og andre omsettere av medisinsk utstyr.
+
+Departementet kan i forskrift bestemme at også andre virksomheter som tilbyr materiell, utstyr og tjenester av betydning for helse- og omsorgstjenesten og sosialtjenesten, skal omfattes av loven.
+
+*Endret ved [lover 15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)), [24 juni 2011 nr. 29](lov-2011-06-24-29-folkehelseloven.md) (ikr. 1 jan 2012 iflg. [res. 24 juni 2011 nr. 637](https://lovdata.no/forskrift/2011-06-24-637)), [17 juni 2016 nr. 48](https://lovdata.no/lov/2016-06-17-48) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 706](https://lovdata.no/forskrift/2016-06-17-706)), [12 jan 2024 nr. 3](https://lovdata.no/lov/2024-01-12-3) (i kraft 12 jan 2024 iflg. [res. 12 jan 2024 nr. 59](https://lovdata.no/forskrift/2024-01-12-59)).*
+
+### § 1-4. Personell loven gjelder for
+
+Denne lov gjelder for personell som tjenestegjør i virksomheter loven omfatter. Departementet kan i forskrift bestemme at personell som har tjenestegjort i slike virksomheter, og særskilt kvalifisert personell, skal omfattes av loven.
+
+### § 1-5. Når fullmaktsbestemmelsene i loven gjelder
+
+[§§ 3-1](lov-2000-06-23-56-helseberedskapsloven.md), [4-1](lov-2000-06-23-56-helseberedskapsloven.md), [5-1](lov-2000-06-23-56-helseberedskapsloven.md) og [5-2](lov-2000-06-23-56-helseberedskapsloven.md) får anvendelse:
+
+1. når riket er i krig eller når krig truer,
+2. ved kriser eller katastrofer i fredstid etter beslutning av Kongen. Dersom det er nødvendig for å sikre liv og helse, kan departementet treffe en foreløpig beslutning om anvendelse. En slik beslutning skal bekreftes av Kongen så snart som mulig. En beslutning om anvendelse gis for et begrenset tidsrom og maksimalt for 1 måned. Beslutningen kan gjentas for inntil 1 måned av gangen.
+
+## Kapittel 2. Ansvar for forberedelser og gjennomføring
+
+### § 2-1. Ansvarsprinsippet
+
+Den som har ansvaret for en tjeneste, har også ansvaret for nødvendige beredskapsforberedelser og for den utøvende tjeneste, herunder finansiering, under krig og ved kriser og katastrofer i fredstid, med mindre noe annet er bestemt i eller i medhold av lov. Tilsvarende skal den som fører tilsyn med en virksomhet, også føre tilsyn med virksomhetens beredskap.
+
+### § 2-2. Planlegging og krav til beredskapsforberedelser og beredskapsarbeid
+
+Kommuner, fylkeskommuner, regionale helseforetak og staten plikter å utarbeide en beredskapsplan for de helse- og omsorgstjenester eller sosialtjenester de skal sørge for et tilbud av eller er ansvarlige for. Kommuner skal også utarbeide beredskapsplan for sine oppgaver etter [folkehelseloven §§ 7 a](lov-2011-06-24-29-folkehelseloven.md) til [7 c](lov-2011-06-24-29-folkehelseloven.md) og [kapittel 3](lov-2011-06-24-29-folkehelseloven.md). Beredskapsplanen skal også omfatte tjenester som etter lov eller avtale tilbys av private virksomheter som en del av de respektive tjenester. Det skal også i nødvendig utstrekning utarbeides delplaner for aktuelle institusjoner og tjenesteområder.
+
+Sykehus som omfattes av [§ 1-3](lov-2000-06-23-56-helseberedskapsloven.md) første ledd bokstavene a og b, og virksomheter nevnt i bokstavene d, e, f og g, plikter å utarbeide beredskapsplan for virksomheten.
+
+Departementet kan gi forskrift om at virksomheter nevnt i [§ 1-3](lov-2000-06-23-56-helseberedskapsloven.md) første ledd bokstavene c og h, samt virksomheter omfattet av loven etter [§ 1-3](lov-2000-06-23-56-helseberedskapsloven.md) annet ledd, skal ha plikt til å utarbeide beredskapsplan for virksomheten. Departementet kan bestemme at virksomheter som nevnt skal inngå i beredskapsplan som nevnt i første ledd.
+
+Departementet kan gi forskrift om krav til beredskapsforberedelsene og beredskapsarbeidet, herunder sette krav til driftssikkerhet, lagring av materiell og utstyr, og til øvelser og opplæring av personell.
+
+Departementet kan gi forskrift om plikt for virksomheter etter loven til å kvalitetssikre beredskapsforberedelsene og beredskapsarbeidet.
+
+*Endret ved [lover 15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [14 juni 2013 nr. 39](https://lovdata.no/lov/2013-06-14-39) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 641](https://lovdata.no/forskrift/2013-06-14-641)), [7 mai 2020 nr. 37](lov-2020-05-07-37-lov-om-medisinsk-utstyr.md) (ikr. 7 mai 2020 iflg. [res. 7 mai 2020 nr. 949](https://lovdata.no/forskrift/2020-05-07-949)), [20 juni 2025 nr. 69](https://lovdata.no/lov/2025-06-20-69) (i kraft 1 jan 2026 iflg. [res. 20. juni 2025 nr. 1141](https://lovdata.no/forskrift/2025-06-20-1141)).*
+
+### § 2-3. Varsel og rapportering
+
+Virksomheter loven omfatter, plikter å varsle om forhold innen helse- og omsorgstjenesten eller sosialtjenesten som kan gi grunnlag for tiltak etter denne lov. Varsel gis til departementet eller den myndighet departementet bestemmer.
+
+Departementet kan pålegge virksomheter som nevnt i første ledd formell rapportering om forhold av betydning for helse- og omsorgstjenesten eller sosialtjenesten. Departementet kan gi forskrift om rapporteringsplikten.
+
+*Endret ved [lov 24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 2-4. Beredskapsregistre
+
+Folkehelseinstituttet, Helsedirektoratet og Direktoratet for strålevern og atomsikkerhet kan etablere registre med helseopplysninger for å håndtere beredskapssituasjoner. Slike registre kan etableres for å gi oversikt og kunnskap om utbredelse, årsakssammenhenger og konsekvenser ved miljøhendelser, ved mistanke om utbrudd av sykdom relatert til eksponering for helseskadelige miljøfaktorer og ved andre typer kriser og beredskapssituasjoner. Det kan også etableres registre for å ivareta internasjonale rapporteringsplikter og administrative oppgaver i en beredskapssituasjon. Organet som etablerer registeret, er dataansvarlig.
+
+Ved etableringen av registre skal den dataansvarlige dokumentere at helseopplysningene behandles i samsvar med [helseregisterloven § 6](lov-2014-06-20-43-helseregisterloven.md), herunder beskrive formålet med behandlingen og hvilke helseopplysninger som behandles. Beredskapsregistre kan inneholde helseopplysninger med direkte personidentifiserende kjennetegn.
+
+Opplysningene kan behandles uten samtykke fra den registrerte og tilgjengeliggjøres uten hinder av lovbestemt taushetsplikt dersom det er nødvendig for å oppnå registerets formål. Opplysningene skal behandles i samsvar med helseregisterloven.
+
+Den dataansvarlige kan uten hinder av lovbestemt taushetsplikt kreve opplysninger som er nødvendige for registerets formål fra helsepersonell, fra virksomheter i helse- og omsorgstjenesten og fra personell og virksomheter som nevnt i [folkehelseloven § 29](lov-2011-06-24-29-folkehelseloven.md) andre og tredje ledd.
+
+Opplysningene skal slettes eller anonymiseres når hendelsen er avklart og evaluert. Departementet kan bestemme at helseopplysninger likevel kan behandles etter at hendelsen er avklart. Dette kan bestemmes når det er nødvendig for å gi kunnskap om langtidseffekter og samfunnets interesse i den videre behandlingen klart overstiger ulempene som kan påføres den enkelte.
+
+*Tilføyd ved [lov 3 mars 2017 nr. 8](https://lovdata.no/lov/2017-03-03-8) (ikr. 3 mars 2017 iflg. [res. 3 mars 2017 nr. 242](https://lovdata.no/forskrift/2017-03-03-242)), endret ved [lover 21 juni 2017 nr. 89](https://lovdata.no/lov/2017-06-21-89) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 908](https://lovdata.no/forskrift/2017-06-21-908)), [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [20 des 2018 nr. 113](https://lovdata.no/lov/2018-12-20-113) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2060](https://lovdata.no/forskrift/2018-12-20-2060)).*
+
+## Kapittel 3. Rekvisisjon av fast eiendom, rettigheter og løsøre
+
+### § 3-1. Rekvisisjon
+
+Når betingelsene i [§ 1-5](lov-2000-06-23-56-helseberedskapsloven.md) er oppfylt, kan departementet med de begrensninger som følger av annet ledd mot erstatning kreve avstått til staten til eie, bruk eller annen særlig rådighet fast eiendom, rettigheter og løsøre av ethvert slag som trengs til bruk for helse- og omsorgstjenester eller sosiale tjenester, til bolig for personell eller lagring av materiell og utstyr. Avståelse til bruk omfatter rett til å foreta de endringer ved gjenstanden eller den faste eiendom som anses nødvendig.
+
+Eiendomsrett til fast eiendom kan bare kreves avstått i medhold av denne lov når riket er i krig eller når krig truer, og avståelsens formål ikke kan oppnås gjennom tidsbegrenset bruksrett eller annen særlig rådighet over eiendommen.
+
+Departementet kan gi tillatelse til at også andre kan kreve slik avståelse som nevnt i første ledd. Annet ledd gjelder i så fall tilsvarende. Departementet kan bestemme at den som får tillatelse som nevnt i første punktum, skal dekke utgiftene ved avståelsen helt eller delvis.
+
+Departementet kan gi eier eller bruker av løsøre pålegg om at tingen skal stilles til rådighet på angitt sted.
+
+Avståelsen kan kreves gjennomført straks, selv om erstatning ikke er betalt eller fastsatt. Rekvirerende myndighet skal i så fall sørge for å innhente de beskrivelser og opplysninger som er nødvendig for fastsetting av erstatning. Skjønn etter [§ 3-3](lov-2000-06-23-56-helseberedskapsloven.md) skal holdes så snart som mulig. Når det er nødvendig, kan avståelsen gjennomføres ved politiets hjelp.
+
+Krav om avståelse skal fremsettes skriftlig. Når avståelse har funnet sted, skal det utstedes skriftlig kvittering med nøyaktig angivelse av det som er avstått, samt tid og sted for avståelsen.
+
+*Endret ved [lov 24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 3-2. Forberedende tiltak med sikte på rekvisisjon
+
+Som ledd i forberedende tiltak kan de myndigheter som Kongen bestemmer, peke ut fast eiendom og løsøre som skal avstås etter [§ 3-1](lov-2000-06-23-56-helseberedskapsloven.md), og gi eier og bruker av løsøre pålegg om at tingen i nærmere angitte tilfelle skal stilles til rådighet på angitt sted.
+
+Eier og bruker av fast eiendom eller løsøre plikter etter krav fra myndighetene å erkjenne mottakelse av melding om tiltak eller pålegg som nevnt, samt å gi opplysninger og å gi adgang til inspeksjon. Løsøre kan om nødvendig pålegges brakt til bestemt sted for inspeksjon. Slike pålegg skal oppfylles uten erstatning, med mindre annet er bestemt av Kongen.
+
+Fast eiendom og løsøre kan etter avgjørelse av de myndigheter Kongen bestemmer, utbedres eller på annen måte forandres for å gjøres tjenlig for det påtenkte formål.
+
+### § 3-3. Erstatningsutmåling
+
+Erstatning for avståelse etter [§ 3-1](lov-2000-06-23-56-helseberedskapsloven.md) og for tap og utgifter ved å etterkomme pålegg etter [§ 3-2](lov-2000-06-23-56-helseberedskapsloven.md) fastsettes i mangel av minnelig overenskomst ved skjønn etter lov om skjønn og ekspropriasjonssaker [1. juni 1917 nr. 1](lov-1917-06-01-1-skjonnsprosessloven.md), med mindre noe annet bestemmes i eller i medhold av denne lov.
+
+Kongen kan bestemme at skjønn skal avgis av de nemnder som oppnevnes etter [lov 29. juni 1951 nr. 19](lov-1951-06-29-19-rekvisisjonsloven.md) om militære rekvisisjoner [§ 13](lov-1951-06-29-19-rekvisisjonsloven.md), jf. [§ 14](lov-1951-06-29-19-rekvisisjonsloven.md).
+
+### § 3-4. Om fastsettelse av takster
+
+Departementet kan fastsette takster for bruk av husrom, lagerrom og løsøre og for utgifter ved å etterkomme pålegg etter [§ 3-1](lov-2000-06-23-56-helseberedskapsloven.md) og [§ 3-2](lov-2000-06-23-56-helseberedskapsloven.md) første ledd. Takstene kan fastsettes for hele riket eller for deler av det.
+
+### § 3-5. Samordning av rekvisisjoner
+
+Når militære myndigheter har rekvisisjonsrett etter [lov 29. juni 1951 nr. 19](lov-1951-06-29-19-rekvisisjonsloven.md) om militære rekvisisjoner, får [§ 8](lov-1951-06-29-19-rekvisisjonsloven.md) i samme lov tilsvarende anvendelse ved krav om avståelse etter loven her i den utstrekning Kongen bestemmer.
+
+## Kapittel 4. Tjenesteplikt, beordring og registrering
+
+### § 4-1. Tjenesteplikt og beordring
+
+Når betingelsene i [§ 1-5](lov-2000-06-23-56-helseberedskapsloven.md) er oppfylt, kan personell som er beordringspliktig etter [§ 1-4](lov-2000-06-23-56-helseberedskapsloven.md) pålegges av arbeidsgiver å forbli i tjeneste ut over ordinær arbeidstid. På samme vilkår kan departementet pålegge personell som nevnt å møte frem på nærmere angitt sted og utføre nærmere tilvist arbeid innen virksomheter loven omfatter.
+
+Den som gir pålegg etter første ledd annet punktum, har instruksjonsmyndighet over den som får pålegget. Pålegg etter første ledd skal ikke ha andre virkninger i forholdet mellom arbeidstaker og arbeidsgiver. [Arbeidsmiljøloven § 15-10](lov-2005-06-17-62-arbeidsmiljoloven.md) gjelder tilsvarende for fravær på grunn av bestemmelser i denne loven.
+
+Pålegg etter første ledd kan ikke gis til gravide eller til personer under 18 eller over 65 år.
+
+Ved kriser eller katastrofer i fredstid kan pålegg etter første ledd ikke gis til personer som alene har omsorgen for barn under 16 år eller for funksjonshemmede. I krig eller når krig truer, bør de samme personer så langt det er mulig fritas for pålegg som nevnt. Dersom pålegg likevel gis, er den som gir pålegget ansvarlig for å skaffe nødvendig omsorgsavlastning.
+
+Tjenesteplikt etter paragrafen her gjelder bare i den utstrekning styrkeoppbygging i Forsvaret ikke er til hinder, med mindre noe annet er bestemt i lov.
+
+Plikten etter første ledd gjelder uavhengig av bestemmelsene om arbeidstid i arbeidsmiljøloven.
+
+*Endret ved [lover 17 juni 2005 nr. 62](lov-2005-06-17-62-arbeidsmiljoloven.md) (ikr. 1 jan 2006 iflg. [res. 17 juni 2005 nr. 609](https://lovdata.no/forskrift/2005-06-17-609)), [12 aug 2016 nr. 77](lov-2016-08-12-77-forsvarsloven.md) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](https://lovdata.no/forskrift/2017-06-16-778)).*
+
+### § 4-2. Forberedende tiltak, registrerings- og øvelsesplikt
+
+Personell som er beordringspliktig etter [§ 1-4](lov-2000-06-23-56-helseberedskapsloven.md) plikter å la seg registrere, samt å stille seg til disposisjon for gjennomføring av tiltak etter loven. Vedkommende personell plikter å medvirke til at nødvendige opplysninger for registrering og disponering kan skaffes til veie. Personell som ikke er styrkedisponert i Forsvaret, kan i fredstid pålegges å delta på kurs og øvelser av inntil 3 ukers varighet.
+
+Bestemmelsene i [§ 4-1](lov-2000-06-23-56-helseberedskapsloven.md) annet ledd annet og tredje punktum gjelder tilsvarende for deltakelse på kurs og øvelser etter denne paragraf. Det samme gjelder bestemmelsen i [arbeidsmiljøloven § 12-12](lov-2005-06-17-62-arbeidsmiljoloven.md).
+
+Departementet kan gi forskrift om gjennomføringen av registreringen.
+
+*Endret ved [lover 17 juni 2005 nr. 62](lov-2005-06-17-62-arbeidsmiljoloven.md) (ikr. 1 jan 2006 iflg. [res. 17 juni 2005 nr. 609](https://lovdata.no/forskrift/2005-06-17-609)), [12 aug 2016 nr. 77](lov-2016-08-12-77-forsvarsloven.md) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](https://lovdata.no/forskrift/2017-06-16-778)).*
+
+## Kapittel 5. Øvrige fullmakter
+
+### § 5-1. Ansvars-, oppgave- og ressursfordeling
+
+Når betingelsene i [§ 1-5](lov-2000-06-23-56-helseberedskapsloven.md) er oppfylt, kan departementet pålegge en eller flere virksomheter som omfattes av loven å ta imot og å gi nødvendige helse- og omsorgstjenester eller sosiale tjenester til personer, uten hensyn til hvor disse bor eller oppholder seg. Departementet kan videre bestemme at en slik virksomhets ressurser innen helse- og omsorgstjenesten eller sosialtjenesten, herunder personellressurser, skal stilles til rådighet for en kommune, en fylkeskommune, et regionalt helseforetak eller staten.
+
+*Endret ved [lover 15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 5-2. Omlegging og omsetningsrestriksjoner
+
+Når betingelsene i [§ 1-5](lov-2000-06-23-56-helseberedskapsloven.md) er oppfylt, kan departementet pålegge virksomheter som omfattes av loven helt eller delvis å legge om driften, utvide driften eller flytte virksomheten. Virksomheter som omfattes av [§ 1-3 første ledd bokstav g](lov-2000-06-23-56-helseberedskapsloven.md), [h](lov-2000-06-23-56-helseberedskapsloven.md) og i, kan på samme vilkår pålegges å innføre restriksjoner på omsetningen og rasjonere sine varer.
+
+*Endret ved [lover 7 mai 2020 nr. 37](lov-2020-05-07-37-lov-om-medisinsk-utstyr.md) (ikr. 7 mai 2020 iflg. [res. 7 mai 2020 nr. 949](https://lovdata.no/forskrift/2020-05-07-949)), [26 mai 2020 nr. 45](https://lovdata.no/lov/2020-05-26-45), [26 mai 2020 nr. 45](https://lovdata.no/lov/2020-05-26-45) (ikr. 1 jan 2021, annet ledd opphevet), [18 des 2020 nr. 145](https://lovdata.no/lov/2020-12-18-145) (ikr. 1 jan 2021), [18 des 2020 nr. 145](https://lovdata.no/lov/2020-12-18-145) (ikr. 1 juni 2021, andre ledd opphevet), [28 mai 2021 nr. 44](https://lovdata.no/lov/2021-05-28-44) (ikr. 1 juni 2021), [28 mai 2021 nr. 44](https://lovdata.no/lov/2021-05-28-44) (i kraft 1 juli 2023, endring endret ved lover [29 nov 2021 nr. 143](https://lovdata.no/lov/2021-11-29-143), [17 juni 2022 nr. 53](https://lovdata.no/lov/2022-06-17-53)), [12 jan 2024 nr. 3](https://lovdata.no/lov/2024-01-12-3) (i kraft 12 jan 2024 iflg. [res. 12 jan 2024 nr. 59](https://lovdata.no/forskrift/2024-01-12-59)).*
+
+### § 5-3. Forberedende tiltak med sikte på omlegging og omsetningsrestriksjoner
+
+For å kunne gjennomføre tiltak etter [§ 5-2](lov-2000-06-23-56-helseberedskapsloven.md), kan departementet pålegge virksomhetene å utføre nærmere bestemte forberedelser.
+
+## Kapittel 6. Forskjellige bestemmelser
+
+### § 6-1. Finansiering
+
+Utgifter ved påbud etter [§§ 3-1](lov-2000-06-23-56-helseberedskapsloven.md), [4-1](lov-2000-06-23-56-helseberedskapsloven.md), [5-1](lov-2000-06-23-56-helseberedskapsloven.md) og [5-2](lov-2000-06-23-56-helseberedskapsloven.md) utredes av staten.
+
+Departementet kan pålegge kommuner, fylkeskommuner og regionale helseforetak å yte hel eller delvis refusjon av utgifter etter første ledd.
+
+*Endret ved [lov 15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)).*
+
+### § 6-2. Forskrifter
+
+Departementet kan gi forskrifter til utfylling og gjennomføring av denne loven, herunder om tilsyn med planlegging og gjennomføring av tiltak etter loven og om administrasjon og drift av helse- og omsorgstjenesten og sosialtjenesten under krig, samt ved kriser og katastrofer i fredstid.
+
+Når betingelsene i [§ 1-5](lov-2000-06-23-56-helseberedskapsloven.md) er oppfylt, kan Kongen gi forskrifter om drift, organisering og ansvarsforhold som fraviker gjeldende helse- og sosiallovgivning.
+
+*Endret ved [lover 24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [26 mai 2020 nr. 45](https://lovdata.no/lov/2020-05-26-45), [26 mai 2020 nr. 45](https://lovdata.no/lov/2020-05-26-45) (ikr. 1 jan 2021, tredje og fjerde ledd opphevet), [18 des 2020 nr. 145](https://lovdata.no/lov/2020-12-18-145) (ikr. 1 jan 2021), [18 des 2020 nr. 145](https://lovdata.no/lov/2020-12-18-145) (ikr. 1 juni 2021, tredje og fjerde ledd opphevet), [28 mai 2021 nr. 44](https://lovdata.no/lov/2021-05-28-44) (ikr. 1 juni 2021), [28 mai 2021 nr. 44](https://lovdata.no/lov/2021-05-28-44) (i kraft 1 juli 2023, endring endret ved lov [29 nov 2021 nr. 143](https://lovdata.no/lov/2021-11-29-143) og lov [17 juni 2022 nr. 53](https://lovdata.no/lov/2022-06-17-53)).*
+
+### § 6-3. Forholdet til forvaltningsloven
+
+[Lov 10. februar 1967](lov-1967-02-10-forvaltningsloven.md) om behandlingsmåten i forvaltningssaker gjelder for behandling av saker etter denne lov, med mindre noe annet er bestemt i eller med hjemmel i lov. Under krig eller ved kriser eller katastrofer i fredstid kan forhåndsvarsel til sakens parter unnlates dersom forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Kongen kan bestemme at vedtak etter denne lov ikke kan kreves grunngitt og ikke skal kunne påklages under krig eller ved kriser eller katastrofer i fredstid.
+
+### § 6-4. Rettsvirkninger ved ikke å etterkomme pålegg etter loven
+
+Dersom pålegg etter denne lov som staten ikke skal utrede utgiftene ved etter [§ 6-1](lov-2000-06-23-56-helseberedskapsloven.md), ikke etterkommes i løpet av en rimelig fastsatt frist, kan det som pålegget går ut på utføres for eiers regning.
+
+Krav om refusjon for utgift er tvangsgrunnlag for utlegg.
+
+### § 6-5. Straff
+
+Den som forsettlig eller uaktsomt overtrer denne lov eller forskrifter eller pålegg som er gitt med hjemmel i loven, straffes med bøter eller fengsel i inntil 6 måneder, hvis forholdet ikke rammes av et strengere straffebud.
+
+*Endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+## Kapittel 7. Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover
+
+### § 7-1. Ikrafttredelse
+
+Loven trer i kraft fra den tid Kongen bestemmer.[1] Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til forskjellig tid.
+
+Fra samme dato oppheves [lov 2. desember 1955 nr. 2](https://lovdata.no/lov/1955-12-02-2) om helsemessig beredskap.
+
+### § 7-2. Overgangsbestemmelser
+
+Kongen kan i forskrift fastsette overgangsordninger i forbindelse med at loven trer i kraft, herunder at krav og pålegg i eller i medhold av loven skal oppfylles innen en bestemt frist.
+
+### § 7-3. Endringer i andre lover
+
+Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Fra 1 juli 2001 iflg. [res. 22 juni 2001 nr. 698](https://lovdata.no/forskrift/2001-06-22-698).

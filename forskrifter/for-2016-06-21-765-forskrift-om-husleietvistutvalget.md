@@ -1,0 +1,235 @@
+# Forskrift om Husleietvistutvalget
+
+- **Datokode:** FOR-2016-06-21-765
+- **DokumentID:** SF/forskrift/2016-06-21-765
+- **Departement:** Kommunal- og distriktsdepartementet
+- **Etat:** Bolig- og bygningsavd.
+- **Hjemmel:** lov 26.03.1999 nr. 17/§12-5
+- **Publisert i:** I 2016 hefte 9
+- **Kunngjort:** 2016-06-23 15:00
+- **I kraft fra:** 2016-07-01
+- **Siste endring i kraft:** 2026-03-06
+- **Sist endret ved:** forskrift 06.03.2026 nr. 357
+- **Endrer:** forskrift 28.09.2000 nr. 1020
+- **Siste rettelse:** 2026-06-24 (§ 20).
+- **Merknad:** Hjemmel: Fastsatt av Kommunal- og moderniseringsdepartementet 21. juni 2016 med hjemmel i lov 26. mars 1999 nr. 17 om husleieavtaler (husleieloven) § 12-5. Endret ved forskrifter 10 nov 2017 nr. 1815, 9 des 2019 nr. 1696 (i kraft 1 jan 2020), 22 juni 2021 nr. 2124 (i kraft 1 sep 2021), 19 des 2023 nr. 2160 (i kraft 1 jan 2024), 19 des 2025 nr. 2738 (i kraft 1 jan 2026), 6 mars 2026 nr. 357. Rettelser: 01.09.2021 (tegnsetting i lister tilpasset universell utforming), 24 juni 2026 (§ 20).
+- **Kilde:** <https://lovdata.no/forskrift/2016-06-21-765>
+
+## § 1. Formål
+
+Husleietvistutvalget skal legge til rette for at partene ved mekling eller avgjørelse i tvister om leie av bolig, får løst saken på en hurtig, billig og kompetent måte.
+
+## § 2. Saklig virkeområde
+
+Husleietvistutvalget behandler tvister om leie av bolig som reguleres av husleielovene.
+
+## § 3. Geografisk virkeområde
+
+Husleietvistutvalget behandler tvister om leie av bolig som ligger i Norge, herunder Svalbard.
+
+*Endret ved [forskrifter 10 nov 2017 nr. 1815](https://lovdata.no/forskrift/2017-11-10-1815) (i kraft 1 jan 2018), [9 des 2019 nr. 1696](https://lovdata.no/forskrift/2019-12-09-1696) (i kraft 1 jan 2020), [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021).*
+
+## § 4. Sammensetning
+
+(1) Husleietvistutvalget skal ledes av en direktør som tilsettes av Husbanken. Direktøren skal oppfylle vilkårene for å være tingrettsdommer etter [domstolloven § 53](../lover/lov-1915-08-13-5-domstolloven.md) til [§ 55](../lover/lov-1915-08-13-5-domstolloven.md).
+
+(2) Til å lede den enkelte sak (saksleder) kan Husleietvistutvalget tilsette eller engasjere en eller flere personer som oppfyller vilkårene for å være tingrettsdommer etter [domstolloven § 53](../lover/lov-1915-08-13-5-domstolloven.md) til [§ 55](../lover/lov-1915-08-13-5-domstolloven.md).
+
+(3) Etter å ha innhentet forslag fra organisasjoner som representerer leiere og utleiere, skal departementet oppnevne like mange utvalgsmedlemmer fra hver side. Utvalgets størrelse avgjøres av departementet. Utvalgsmedlemmene oppnevnes for tre år. Husleietvistutvalget avgjør sammensetningen av utvalget i den enkelte sak.
+
+(4) I den enkelte sak hvor det skal treffes vedtak, skal Husleietvistutvalget bestå av en nøytral saksleder, et utvalgsmedlem fra leiersiden og et utvalgsmedlem fra utleiersiden. Bestemmelsene i [domstolloven § 106](../lover/lov-1915-08-13-5-domstolloven.md) og [§ 108](../lover/lov-1915-08-13-5-domstolloven.md) gjelder tilsvarende.
+
+(5) Et medlem som mener det er inhabilt i en sak, skal si fra så snart som mulig etter innkallingen til møtet. Medlemmet skal ikke delta i behandlingen av saken. Et medlem skal heller ikke delta i behandlingen av en sak der saksleder mener medlemmet er inhabilt.
+
+(6) Saksleder kan treffe vedtak alene når:
+
+a. den innklagede har unnlatt å gi tilsvar, eller
+b. den innklagede i tilsvar uttrykkelig har erkjent kravet, eller
+c. saken gjelder formuesverdier og tvistesummen er 150 000 kroner eller lavere. For fastsettelse av tvistesummen gjelder bestemmelsene i [tvisteloven kapittel 17](../lover/lov-2005-06-17-90-tvisteloven.md) tilsvarende så langt de passer.
+
+Ved saksleders vurdering av om saken skal avgjøres av saksleder alene, skal det særlig legges vekt på om kravene har grunnlag i et pågående leieforhold. Saker med krav om oppsigelse etter [husleieloven § 9-8](../lover/lov-1999-03-26-17-husleieloven.md), heving etter [§ 9-9](../lover/lov-1999-03-26-17-husleieloven.md) og fastsettelse av gjengs leie etter [§ 4-3](../lover/lov-1999-03-26-17-husleieloven.md) skal alltid behandles av fullt utvalg, unntatt når den innklagede i tilsvar uttrykkelig har erkjent kravet.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021), [19 des 2023 nr. 2160](https://lovdata.no/forskrift/2023-12-19-2160) (i kraft 1 jan 2024), [6 mars 2026 nr. 357](https://lovdata.no/forskrift/2026-03-06-357).*
+
+## § 5. Framgangsmåte ved forkynning og signatur mv.
+
+(1) Husleietvistutvalgets dokumenter skal forkynnes i vanlig brev vedlagt mottakskvittering for utfylling og retur, eller på slik måte som angitt i [domstolloven § 163a](../lover/lov-1915-08-13-5-domstolloven.md). Blir mottakskvittering ikke returnert, skal dokumentet likevel regnes som forkynt dersom det er sannsynliggjort at adressaten har mottatt dokumentet, for eksempel ved bekreftelse på telefon, e-post eller lignende, og det ikke er grunn til å tvile på at vedkommende er rett person.
+
+(2) For øvrig gjelder reglene i [domstolloven kapittel 9](../lover/lov-1915-08-13-5-domstolloven.md) om forkynnelser, meddelelser og elektronisk kommunikasjon så langt de passer.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021), [6 mars 2026 nr. 357](https://lovdata.no/forskrift/2026-03-06-357).*
+
+## § 5a. Forkynning av krav
+
+(1) Husleietvistutvalget sørger for at klagen og andre prosesskriv med nye krav som tas til behandling, forkynnes for motparten.
+
+(2) Husleietvistutvalget sørger for at begjæring om gjenåpning etter [§ 13 sjuende ledd](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md), forkynnes for motparten. Forkynning kan likevel unnlates ved forenklet avgjørelse etter [tvisteloven § 31-9 første ledd](../lover/lov-2005-06-17-90-tvisteloven.md).
+
+(3) Husleietvistutvalget sørger for at krav om oppfriskning etter [§ 13 åttende ledd](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md), forkynnes for motparten. Forkynning kan likevel unnlates når Husleietvistutvalget mener at det er sannsynlighetsovervekt for at kravet om oppfriskning ikke kan føre fram.
+
+*Tilføyd ved forskrift [6 mars 2026 nr. 357](https://lovdata.no/forskrift/2026-03-06-357).*
+
+## § 6. Klage til Husleietvistutvalget
+
+(1) En klage til Husleietvistutvalget kan framsettes skriftlig, muntlig eller via elektronisk klageskjema på Husleietvistutvalgets nettside. En muntlig klage skal settes opp skriftlig av Husleietvistutvalget. Klagen skal signeres. Ved klage som fremsettes via Husleietvistutvalgets elektroniske klageskjema regnes sikker identifisering ved innlogging i ID-porten som signatur.
+
+(2) Klagen skal inneholde partenes navn og adresse, leieforholdets adresse, en kort forklaring om hva saken gjelder og hva klageren krever (påstanden). Hver påstand skal begrunnes og være utformet som det resultatet parten vil at utvalget skal komme fram til.
+
+(3) Klagen bør nevne de bevis som ønskes lagt fram, og opplyse om klageren ønsker mekling.
+
+*Endret ved forskrift [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021).*
+
+## § 7. Saksforberedelsen
+
+(1) Etter å ha mottatt og registrert en klage, skal Husleietvistutvalget utpeke en saksleder som har ansvaret for forberedelsen av saken.
+
+(2) Sakslederen skal avvise saken dersom
+
+a. tvisten ligger utenfor Husleietvistutvalgets virkeområde
+b. klageren ikke er klageberettiget
+c. klagen ikke oppfyller vilkårene i [§ 6](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md)
+d. tvisten ikke kan behandles av utvalget av andre grunner, for eksempel fordi det vil være i strid med [§ 16](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md) eller [§ 17](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md) eller tvisten allerede er rettskraftig avgjort
+e. gebyret etter [§ 18](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md) annet ledd ikke blir betalt.
+
+(3) Har klagen mangler som kan avhjelpes, skal Husleietvistutvalget sette en frist for retting eller endring.
+
+(4) Vedtak om å avvise klagen, skal begrunnes. Vedtaket skal forkynnes for klageren, som kan bringe avvisningsvedtaket inn for tingretten innen én måned etter at vedtaket ble forkynt.
+
+(5) Dersom saken ikke blir avvist, skal klagen forkynnes for motparten snarest mulig. Motparten gis samtidig en frist til å gi tilsvar.
+
+(6) Et tilsvar kan framsettes skriftlig eller muntlig for Husleietvistutvalget. Et skriftlig tilsvar skal opplyse om motpartens vurdering av kravene som er fremmet, og eventuelle begrunnede motkrav. Tilsvaret bør inneholde en påstand. Påstanden skal være utformet som det resultat motparten vil at utvalget skal komme fram til.
+
+## § 8. Saksstyring under saksforberedelsen
+
+(1) Husleietvistutvalget skal aktivt styre saksforberedelsen for å oppnå rask, prosessøkonomisk og forsvarlig behandling. Det bør være et rimelig forhold mellom tvistens betydning og omfanget av bevisførselen. [Tvisteloven § 21-8](../lover/lov-2005-06-17-90-tvisteloven.md) om begrensning av bevisførsel gjelder tilsvarende så langt den passer. Husleietvistutvalget kan gi veiledning som bidrar til at tvisten får en riktig avgjørelse ut fra de faktiske forhold og de aktuelle reglene. Veiledningen må gis på en måte som ikke svekker tilliten til at Husleietvistutvalget er upartisk.
+
+(2) Husleietvistutvalget kan forlenge frister det har gitt når det anses hensiktsmessig for saksgangen.
+
+*Endret ved forskrift [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021).*
+
+## § 9. Fullmektig
+
+En part kan gi fullmakt til andre myndige personer til å opptre på sine vegne i en sak for Husleietvistutvalget.
+
+## § 10. Varsling om å møte med medhjelper eller fullmektig
+
+Vil en part møte med advokat eller annen person som fullmektig eller medhjelper under mekling, befaring eller annet møte i Husleietvistutvalget, skal motparten og Husleietvistutvalget ha melding om dette senest en uke på forhånd. Har en part gitt slik melding, kan motparten møte med fullmektig eller medhjelper uten å varsle.
+
+## § 11. Mekling
+
+(1) Husleietvistutvalget bestemmer om partene skal få tilbud om mekling. Mekling kan gjennomføres ved ordinært møte, telefonkonferanse, videokonferanse eller lignende.
+
+(2) Sakslederen bestemmer framgangsmåten for meklingen, blant annet om det skal holdes møter med partene samlet eller hver for seg. Sakslederen skal informere partene om at de kan trekke seg på ethvert stadium i meklingsprosessen. Sakslederen kan komme med konkrete forslag til løsning under meklingen. Sakslederen har taushetsplikt om det som kommer fram i møtene.
+
+(3) Sakslederen skal informere partene om virkningen av forlik, jf. [§ 14](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md). Blir det inngått et forlik, skal det nedtegnes og underskrives av partene. Sakslederen påser at forliket nøyaktig angir det partene er enige om. Skal forliket kunne fullbyrdes, påser sakslederen at det blir fastsatt frist for oppfyllelse, og eventuelt konsekvenser av at forliket ikke overholdes. Protokoll for meklingen undertegnes av sakslederen.
+
+(4) Dersom en mekling ikke har ført fram, skal det utpekes ny saksleder. Dette gjelder likevel ikke dersom partene ønsker at den samme sakslederen fortsetter behandlingen av saken og sakslederen ikke finner det betenkelig.
+
+## § 12. Behandlingen i Husleietvistutvalget
+
+(1) En sak som ikke blir avgjort ved forlik, skal behandles av Husleietvistutvalget. Husleietvistutvalget kan bestemme at behandlingen i utvalgsmøtet skal gå for lukkede dører.
+
+(2) Saksleder sørger at det blir innhentet tilstrekkelige opplysninger før behandling finner sted. Opplysningene innhentes på den måten sakslederen finner hensiktsmessig. Partene har ansvaret for egen bevisføring. Bevisføringen skal som hovedregel være skriftlig.
+
+(3) Husleietvistutvalget skal avgjøre tvisten på grunnlag av de opplysningene som er framkommet under saksforberedelsen. Om nødvendig kan det innhentes ytterligere opplysninger før avgjørelse tas, for eksempel at det avholdes befaring eller at parter, sakkyndige eller vitner innkalles til muntlig forklaring. Muntlige forklaringer kan avholdes som fysisk møte, telefonmøte, videokonferanse eller lignende. Skriftlige vitneforklaringer og erklæringer fra sakkyndige kan også framlegges som bevis.
+
+(4) Partene skal gis mulighet til å være til stede når bevis føres muntlig for utvalget og når utvalget avholder befaring. I saker med krav om oppsigelse etter [husleieloven § 9-8](../lover/lov-1999-03-26-17-husleieloven.md) eller heving etter [§ 9-9](../lover/lov-1999-03-26-17-husleieloven.md) skal saksleder særlig vurdere om det er behov for å gjennomføre muntlig partsmøte. Muntlig partsmøte kan avholdes som fysisk møte, telefonmøte, videokonferanse eller lignende.
+
+(5) Dersom en part som er gjort kjent med virkningen av å forholde seg passiv, likevel ikke har gitt tilsvar innen tilsvarsfristen, ikke har svart på en henvendelse fra utvalget innen en fastsatt frist eller har unnlatt å møte for utvalget, kan saken avgjøres på grunnlag av de opplysninger og bevis som foreligger. Dette gjelder likevel ikke dersom det er opplyst eller sannsynlig at parten har gyldig grunn for passiviteten. I vurderingen av om det foreligger en gyldig grunn for passivitet, gjelder [tvisteloven § 16-12](../lover/lov-2005-06-17-90-tvisteloven.md) andre ledd og [§ 13-4](../lover/lov-2005-06-17-90-tvisteloven.md) så langt de passer.
+
+(6) Partene skal underveis i saksbehandlingen og før avgjørelsen treffes, gjøres kjent med avgjørelsesgrunnlaget.
+
+*Endret ved forskrifter [19 des 2023 nr. 2160](https://lovdata.no/forskrift/2023-12-19-2160) (i kraft 1 jan 2024), [6 mars 2026 nr. 357](https://lovdata.no/forskrift/2026-03-06-357).*
+
+## § 13. Avgjørelser av Husleietvistutvalget
+
+(1) Når saken anses tilstrekkelig opplyst, avgjør Husleietvistutvalget saken ved et skriftlig begrunnet vedtak. Dersom vedtaket ikke er enstemmig, skal også mindretallets syn og begrunnelse framgå. Avgjørelsen kan ikke gå lengre enn partenes påstander.
+
+(2) Vedtaket skal treffes innen 90 dager etter at saken er tilstrekkelig opplyst. I svært komplekse saker kan fristen forlenges. Partene skal uten unødig opphold informeres om eventuell forlengelse av fristen, og samtidig opplyses om når vedtaket kan forventes.
+
+(3) Vedtak er bindende for utvalget når det er truffet. Vedtak er truffet når alle utvalgsmedlemmene har undertegnet det. I saker som avgjøres av saksleder alene, er vedtak truffet når saksleder har undertegnet.
+
+(4) Vedtaket skal forkynnes for partene, og virkningene etter [§ 14](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md) skal gjøres kjent for dem.
+
+(5) Husleietvistutvalgets vedtak kan ikke påklages, men kan bringes inn for tingretten, jf. [§ 15](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md).
+
+(6) [Tvisteloven § 19-8](../lover/lov-2005-06-17-90-tvisteloven.md) om retting av feil og [§ 19-9](../lover/lov-2005-06-17-90-tvisteloven.md) om tilleggsavgjørelse gjelder tilsvarende så langt de passer.
+
+(7) Reglene om gjenåpning i [tvisteloven kapittel 31](../lover/lov-2005-06-17-90-tvisteloven.md) gjelder tilsvarende så langt de passer for saker ved Husleietvistutvalget. Begjæring om gjenåpning fremmes for Husleietvistutvalget.
+
+(8) Dersom et vedtak i en sak er truffet på grunnlag av bestemmelsen i § 4 (6) bokstav a, kan Husleietvistutvalget etter krav fra en part oppfriske saken dersom
+
+a. det er sannsynliggjort at tilsvar har blitt fremsatt for Husleietvistutvalget innen tilsvarsfristens utløp, eller
+b. parten sannsynliggjør at tilsvar ikke er inngitt som følge av en gyldig passivitetsgrunn, jf. § 12 (5) siste punktum.
+
+Krav etter denne bestemmelsen må fremsettes for Husleietvistutvalget innen én måned etter at vedtaket er forkynt. Husleietvistutvalgets avgjørelse om oppfriskning etter denne bestemmelsen treffes ved skriftlig vedtak. Et vedtak som går ut på at saken skal oppfriskes etter denne bestemmelse, kan ikke påklages eller kreves overprøvd for tingretten ved stevning.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021), [19 des 2023 nr. 2160](https://lovdata.no/forskrift/2023-12-19-2160) (i kraft 1 jan 2024).*
+
+## § 14. Rettsvirkninger av klage, forlik og vedtak
+
+(1) En klage til Husleietvistutvalget avbryter fristen for å reise søksmål etter husleielovene.
+
+(2) Husleietvistutvalget er å anse som forvaltningsorgan etter [foreldelsesloven § 16](../lover/lov-1979-05-18-18-foreldelsesloven.md) slik at en klage til Husleietvistutvalget avbryter foreldelse.
+
+(3) Forlik etter [§ 11](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md) og vedtak etter [§ 13](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md), som ikke er brakt inn for domstolene etter reglene i [§ 15](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md), har samme virkning som en rettskraftig dom og kan fullbyrdes etter reglene for dommer. For vedtak om betaling av penger gjelder [tvangsfullbyrdelsesloven § 4-12 annet ledd](../lover/lov-1992-06-26-86-tvangsfullbyrdelsesloven.md) tilsvarende når oppfyllelsesfristen er oversittet, selv om vedtaket ikke har fått rettskraftvirkninger.
+
+(4) For forlik gjelder [tvisteloven § 19-12](../lover/lov-2005-06-17-90-tvisteloven.md) så langt den passer.
+
+*Endret ved forskrift [6 mars 2026 nr. 357](https://lovdata.no/forskrift/2026-03-06-357).*
+
+## § 15. Søksmål for tingretten
+
+(1) Husleietvistutvalgets vedtak etter [§ 12](for-2016-06-21-765-forskrift-om-husleietvistutvalget.md) kan innen én måned etter forkynning overprøves ved søksmål for tingretten, uten forliksrådsbehandling. En stevning sendes direkte til tingretten. Fristen beregnes etter reglene i domstolloven kapittel 8.
+
+(2) Retten kan gi oppfrisking mot oversitting av fristen i første ledd etter reglene i [tvisteloven § 16-12](../lover/lov-2005-06-17-90-tvisteloven.md) til [§ 16-14](../lover/lov-2005-06-17-90-tvisteloven.md).
+
+(3) Retten skal varsle Husleietvistutvalget om saker som bringes inn for domstolene etter bestemmelsene i paragrafen her ved oversendelse av kopi av stevningen. Den domstol som rettskraftig avgjør tvisten skal informere Husleietvistutvalget om resultatet ved gjenpart av avgjørelsen.
+
+## § 16. Forholdet til voldgiftsklausuler
+
+Har partene etter at tvisten oppstod avtalt å løse tvisten ved voldgift, kan ingen av dem alene bringe saken inn for Husleietvistutvalget. Partene kan likevel bringe saken inn for Husleietvistutvalget hvis de blir enige om det.
+
+## § 17. Forholdet til andre tvisteorganer
+
+(1) Så lenge en tvist er under behandling av Husleietvistutvalget, kan ikke de samme partene bringe den inn for domstol eller takstnemnd etter [husleieloven § 12-2](../lover/lov-1999-03-26-17-husleieloven.md). Saken regnes å være under behandling av Husleietvistutvalget fra klagen er kommet inn til utvalget. Tvist som er begjært avgjort av Husleietvistutvalget senest samme dag som den er krevd avgjort av domstol eller takstnemnd etter [husleieloven § 12-2](../lover/lov-1999-03-26-17-husleieloven.md), skal avgjøres av Husleietvistutvalget.
+
+(2) Så lenge en tvist er under behandling ved domstol eller takstnemnd etter [husleieloven § 12-2](../lover/lov-1999-03-26-17-husleieloven.md), kan den ikke bringes inn for Husleietvistutvalg av de samme parter. Selv om saken er under behandling ved domstol eller takstnemnd, kan den bringes inn for Husleietvistutvalget dersom alle parter i saken er enige om at den skal avsluttes ved domstolen eller nemnden uten realitetsavgjørelse. Saken regnes å være under behandling ved domstolen fra en forliksklage er kommet inn til forliksrådet eller en stevning er kommet inn til tingretten. Saken regnes å være under behandling ved takstnemnd fra en begjæring om oppnevning av takstnemnd er kommet inn til tingretten.
+
+(3) En tvist som er avgjort av domstol eller takstnemnd etter [husleieloven § 12-2](../lover/lov-1999-03-26-17-husleieloven.md) kan ikke bringes inn for Husleietvistutvalget.
+
+## § 18. Sakskostnader
+
+(1) Staten dekker Husleietvistutvalgets kostnader.
+
+(2) For Husleietvistutvalgets behandling av tvister betales et saksbehandlingsgebyr til staten. Saksbehandlingsgebyret er 1,54 × rettsgebyret når klagen settes fram av utleier, og 0,2 × rettsgebyret når klagen settes fram av leier. Saksbehandlingsgebyret betales av den som setter fram et krav om behandling av Husleietvistutvalget, og skal være innbetalt før saken tas til behandling.
+
+(3) Blir tvisten forlikt og det ikke er avtalt noe annet, bærer hver av partene sine sakskostnader.
+
+(4) Blir saken ikke forlikt, fastsetter Husleietvistutvalget hvem som skal bære sakskostnadene, herunder saksbehandlingsgebyret. Ansvar for å bære saksbehandlingsgebyret fordeles etter prinsippene i [tvisteloven § 20-2](../lover/lov-2005-06-17-90-tvisteloven.md), [§ 20-3](../lover/lov-2005-06-17-90-tvisteloven.md) og [§ 20-4](../lover/lov-2005-06-17-90-tvisteloven.md). En part som har fått medhold fullt ut eller i det vesentlige, kan tilkjennes erstatning fra motparten for kostnader som har vært strengt nødvendige for å vinne fram. Eventuelle advokatutgifter anses i hovedsak bare som strengt nødvendige kostnader dersom begge partene har vært bistått av advokat, og det ville virke urimelig ikke å refundere kostnadene. Når det ses bort fra merverdiavgift, kan advokatutgifter uansett bare erstattes med inntil 20 prosent av sakens tvistesum, likevel alltid inntil kr 2 500 og aldri mer enn kr 50 000. Merverdiavgift av kostnad som er erstattet etter femte punktum, kan erstattes når ikke sakens rettsforhold hovedsakelig skriver seg fra virksomhet hos parten som er merverdiavgiftspliktig.
+
+(5) Husleietvistutvalgets avgjørelse om kostnadsfordeling kan ankes til tingretten innen én måned etter at avgjørelsen er forkynt.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021), [19 des 2025 nr. 2738](https://lovdata.no/forskrift/2025-12-19-2738) (i kraft 1 jan 2026), [6 mars 2026 nr. 357](https://lovdata.no/forskrift/2026-03-06-357).*
+
+## § 19. Publisering av enkeltsaker
+
+Et bredt utvalg av Husleieutvalgets avgjørelser, herunder samtlige avgjørelser av prinsipiell betydning, skal offentliggjøres i anonymisert form.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021), [6 mars 2026 nr. 357](https://lovdata.no/forskrift/2026-03-06-357).*
+
+## § 20. Innsynsrett
+
+(1) For partenes og allmennhetens rett til innsyn i Husleietvistutvalgets saksdokumenter gjelder reglene i [tvisteloven § 14-1](../lover/lov-2005-06-17-90-tvisteloven.md) til [§ 14-5](../lover/lov-2005-06-17-90-tvisteloven.md) så langt de passer.
+
+(2) Et avslag på krav om innsyn skal være skriftlig, opplyse om hvilken bestemmelse som ligger til grunn for avslaget, med eventuelle ledd, bokstaver og nummer, og opplyse om retten til å klage og klagefristen. Departementet er klageinstans. Ved behandling av klage gjelder reglene i [forvaltningsloven kapittel VI](../lover/lov-1967-02-10-forvaltningsloven.md).
+
+*Tilføyd ved forskrift [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021).*
+
+## § 21. Ikraftsetting
+
+(1) Forskriften trer i kraft 1. juli 2016.
+
+(2) Fra samme tid oppheves [forskrift 28. september 2000 nr. 1020](https://lovdata.no/forskrift/2000-09-28-1020) om husleietvistutvalget, Oslo, Akershus, Hordaland, Sør-Trøndelag og Nord-Trøndelag.
+
+*Endret ved forskrift [22 juni 2021 nr. 2124](https://lovdata.no/forskrift/2021-06-22-2124) (i kraft 1 sep 2021, tidligere § 20).*

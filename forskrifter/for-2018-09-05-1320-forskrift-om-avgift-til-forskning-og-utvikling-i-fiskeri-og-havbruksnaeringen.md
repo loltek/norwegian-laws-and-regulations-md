@@ -1,0 +1,76 @@
+# Forskrift om avgift til forskning og utvikling i fiskeri- og havbruksnæringen
+
+- **Datokode:** FOR-2018-09-05-1320
+- **DokumentID:** SF/forskrift/2018-09-05-1320
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Handelspolitisk avdeling
+- **Hjemmel:** lov 07.07.2000 nr. 68/§2; lov 07.07.2000 nr. 68/§5
+- **Kunngjort:** 2018-09-14 13:15
+- **I kraft fra:** 2019-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 09.12.2025 nr. 2491 fra 2026-01-01
+- **Endrer:** forskrift 11.10.2000 nr. 1056
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 5. september 2018 med hjemmel i lov 7. juli 2000 nr. 68 om avgift til forskning og utvikling i fiskeri- og havbruksnæringen § 2 og § 5. Endret ved forskrifter 16 juni 2023 nr. 941 (i kraft 1 juli 2023), 9 des 2025 nr. 2491 (i kraft 1 jan 2026).
+- **Kilde:** <https://lovdata.no/forskrift/2018-09-05-1320>
+
+## § 1. Avgift
+
+Det skal svares en FoU-avgift som skal beregnes av fob-verdien av eksportert fisk, fiskevarer og marine produkter.
+
+FoU-avgiften skal utgjøre 0,3 prosent av avgiftsgrunnlaget.
+
+FoU-avgiften er tvangsgrunnlag for utlegg.
+
+Tollmyndighetene er avgiftsmyndighet for FoU-avgiften, og fastsettelse skal følge bestemmelsene i [forskrift 13. desember 2000 nr. 1253 om samordnet innkreving av avgift på fiskeeksport](for-2000-12-13-1253-forskrift-om-innkreving-av-fiskeeksportavgift.md). Innkreving av FoU-avgiften skal samordnes med avgift etter [forskrift 22. mars 1991 nr. 157 om regulering av eksporten av fisk, fiskevarer og marine produkter](for-1991-03-22-157-forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter.md) og foretas av innkrevingsmyndigheten i samsvar med bestemmelsene i [forskrift 13. desember 2000 nr. 1253 om samordnet innkreving av avgift på fiskeeksport](for-2000-12-13-1253-forskrift-om-innkreving-av-fiskeeksportavgift.md).
+
+*Endret ved forskrifter [16 juni 2023 nr. 941](https://lovdata.no/forskrift/2023-06-16-941) (i kraft 1 juli 2023), [9 des 2025 nr. 2491](https://lovdata.no/forskrift/2025-12-09-2491) (i kraft 1 jan 2026).*
+
+## § 2. Forvaltning av avgiftsmidlene
+
+Avgiftsmidlene som innkreves med hjemmel i [lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen](../lover/lov-2000-07-07-68-lov-om-eksportavgift-paa-fiskevarer.md) forvaltes av Fiskeri- og havbruksnæringens forskningsfinansiering AS (FHF).
+
+Det skal innhentes forslag på styremedlemmer fra fiskeri- og havbruksnæringen. Det skal være god kompetanse fra næringen i styret for aksjeselskapet.
+
+Aksjeselskapet skal utføre de oppgaver som er fastsatt i loven, i denne forskrift og i vedtekter for aksjeselskapet.
+
+Aksjeselskapet skal:
+
+a. utarbeide strategier for bruk av avgiftsmidlene på grunnlag av en løpende dialog med fiskeri- og havbruksnæringen
+b. fastsette kriterier og rutiner for tildeling av avgiftsmidlene og tildele dem iht. vedtatte strategier, kriterier og rutiner. Kriterier og rutiner for tildeling av midler skal være allment tilgjengelige.
+c. foreta en overordnet oppfølging av og kontroll med bruken av avgiftsmidlene
+d. foreta en samlet årlig rapportering om anvendelse av avgiftsmidlene til Nærings- og fiskeridepartementet.
+
+*Endret ved forskrift [16 juni 2023 nr. 941](https://lovdata.no/forskrift/2023-06-16-941) (i kraft 1 juli 2023).*
+
+## § 3. Anvendelse av midlene
+
+Avgiftsmidlene skal benyttes til forsknings- og utviklingsarbeid til nytte for hele eller deler av fiskeri- og havbruksnæringen, for å legge til rette for økt verdiskaping, miljøtilpasning, omstilling og nyskaping i fiskeri- og havbruksnæringen. Det skal over tid legges opp til en rimelig fordeling mellom de ulike delene av næringen.
+
+Aksjeselskapet skal sørge for at anvendelsen av avgiftsmidlene samordnes med annen offentlig finansiert forskning innenfor det marine området.
+
+Midlene tildeles ved tilskudd til forskningsprogrammer og prosjekter. Midlene skal som hovedregel tildeles etter konkurranse. Forskningsprosjekter finansiert av selskapet skal følge anerkjente forskningsetiske normer.
+
+Resultatene av den forskning som helt eller delvis finansieres av fiskeri- og havbruksnæringens felles forskningsfinansiering skal være allment tilgjengelig i henhold til retningslinjer for offentlig støtte. Avgiftsmidlene kan ikke benyttes som privat egenandel i brukerstyrte prosjekter hvor resultatene forbeholdes de enkelte deltakende foretak.
+
+Utgifter til forvaltning og administrasjon av aksjeselskapet dekkes av avgiftsmidlene.
+
+## § 4. Klage
+
+De vedtak som treffes i tilknytning til innkreving av avgiften etter denne forskrift kan påklages til Nærings- og fiskeridepartementet etter forvaltningslovens bestemmelser.
+
+## § 5. Behandling av personopplysninger
+
+Aksjeselskapet kan behandle personopplysninger når dette er nødvendig for å utøve myndighet eller utføre de oppgavene som framgår av denne forskriften.
+
+Helseopplysninger som nevnt i personvernforordningen artikkel 9 nr. 1 kan behandles etter første ledd når dette er nødvendig ut fra formålet med behandlingen.
+
+## § 6. Oppløsning
+
+Ved oppløsning eller nedleggelse av ordningen skal ordningens midler, etter at ordningens forpliktelser er dekket, anvendes i samsvar med lovens formål.
+
+## § 7. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 2019.
+
+Fra samme tidspunkt oppheves: [forskrift 11. oktober 2000 nr. 1056](https://lovdata.no/forskrift/2000-10-11-1056) om avgift til forskning og utvikling i fiskeri- og havbruksnæringen.

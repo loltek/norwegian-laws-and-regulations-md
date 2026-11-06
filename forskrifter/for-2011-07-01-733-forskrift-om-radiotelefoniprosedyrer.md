@@ -1,0 +1,56 @@
+# Forskrift om radiotelefoniprosedyrer
+
+- **Datokode:** FOR-2011-07-01-733
+- **DokumentID:** SF/forskrift/2011-07-01-733
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Luftfartstilsynet
+- **Hjemmel:** lov 11.06.1993 nr. 101/§9-1; forskrift 10.12.1999 nr. 1273
+- **Publisert i:** I 2011 hefte 7
+- **Kunngjort:** 2011-07-08 15:50
+- **I kraft fra:** 2011-09-22
+- **Siste endring i kraft:** 2018-02-28
+- **Sist endret ved:** forskrift 28.02.2018 nr. 287
+- **Endrer:** forskrift 10.12.2002 nr. 1782
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2018-06-14 (veiledning fjernet)
+- **Merknad:** Hjemmel: Fastsatt av Luftfartstilsynet 1. juli 2011 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 9-1 og delegeringsvedtak 10. desember 1999 nr. 1273. Endret ved forskrifter 14 des 2016 nr. 1579, 28 feb 2018 nr. 287. Rettelser: 13.09.2011 (veiledning tilføyd), 14.06.2018 (veiledning fjernet).
+- **Kilde:** <https://lovdata.no/forskrift/2011-07-01-733>
+
+## § 1. Virkeområde
+
+Forskriften gjelder for alle norske luftfartsstasjoner innenfor norsk område, samt områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å utøve lufttrafikktjeneste. Forskriften gjelder luftfartsstasjoner som utøver mobil kommunikasjonstjeneste for luftfarten samt for enhver luftfartøystasjon som gjør bruk av eller har mulighet for å gjøre bruk av slik tjeneste.
+
+Forskriften gjelder også radiokommunikasjon mellom bakkepersonell og lufttrafikktjenesten, med unntak av de bestemmelser som spesifikt gjelder radiokommunikasjon mellom luftfartsstasjon og luftfartøystasjon.
+
+## § 2. Norske særbestemmelser til ICAO Annex 10 Volume II
+
+Forskriften gir norske særbestemmelser til relevante standarder i ICAO Annex 10 Volume II.
+
+## § 3. (Opphevet)
+
+*Opphevet ved [forskrift 28 feb 2018 nr. 287](https://lovdata.no/forskrift/2018-02-28-287).*
+
+## § 4. (Opphevet)
+
+*Opphevet ved [forskrift 14 des 2016 nr. 1579](https://lovdata.no/forskrift/2016-12-14-1579) (i kraft 12 okt 2017).*
+
+## § 5. Norske særbestemmelser til Annex 10 Volume II, kapittel 5, punkt 5.2.1.7
+
+I tillegg til det som følger av punkt 5.2.1.7.1.2 kan følgende tjeneste og betegnelse benyttes:
+
+Vektorering for sluttinnlegget – DIRECTOR
+
+I tillegg til det som følger av punkt 5.2.1.7 gjelder følgende for kallesignal på radiotelefoni for kjøretøy og bakkepersonell:
+
+a. Den enkelte lufthavn skal utarbeide et system for kallesignal for identifisering av kjøretøy og bakkepersonell som skal ha radiokommunikasjon med lufttrafikktjenesten.
+b. Kallesignal for kjøretøy og bakkepersonell skal ikke forkortes.
+
+## § 6. Norske særbestemmelser til Annex 10 Volume II, kapittel 5, punkt 5.2.2.1.2 og 5.2.2.1.3
+
+I tillegg til det som følger av punktene 5.2.2.1.2 og 5.2.2.1.3 skal Luftfartsstasjoner, når de er åpne, holde lyttevakt på de kanaler som er kunngjort for vedkommende stasjon.
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft 22. september 2011.
+
+Fra samme dato oppheves [forskrift 10. desember 2002 nr. 1782](https://lovdata.no/forskrift/2002-12-10-1782) om flytelefoniprosedyrer.

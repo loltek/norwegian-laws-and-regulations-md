@@ -1,0 +1,169 @@
+# Forskrift om erstatning for tap og følgekostnader når tamrein blir drept eller skadet av rovvilt.
+
+- **Korttittel:** Forskrift om erstatning for tap av tamrein
+- **Datokode:** FOR-2001-05-04-468
+- **DokumentID:** SF/forskrift/2001-05-04-468
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Naturforvaltningsavdelingen
+- **Hjemmel:** lov 19.06.2009 nr. 100/§19; lov 19.06.2009 nr. 100/§77
+- **Publisert i:** I 2001 hefte 6
+- **Kunngjort:** 2001-05-11
+- **I kraft fra:** 2001-05-04
+- **Siste endring i kraft:** 2024-05-02
+- **Sist endret ved:** forskrift 02.05.2024 nr. 723
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 4. mai 2001 med hjemmel i lov av 29. mai 1981 nr. 38 om viltet § 12a. Fremmet av Miljøverndepartementet. Tilføyd hjemmel: Lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) § 19. Endret ved forskrifter 9 feb 2006 nr. 126, 14 juni 2007 nr. 618, 19 des 2013 nr. 1757, 14 des 2020 nr. 3367 (i kraft 10 sep 2021), 8 okt 2021 nr. 2958 (i kraft 1 nov 2021, ingen endring å utføre), 19 mars 2024 nr. 482, 2 mai 2024 nr. 723.
+- **Kilde:** <https://lovdata.no/forskrift/2001-05-04-468>
+
+## Kap. I. Generelle bestemmelser
+
+### § 1. Formål
+
+Formålet med denne forskrift er å erstatte reindriftens tap og følgekostnader når tamrein blir drept eller skadet av rovvilt. Forskriften skal også medvirke til å redusere tapene av tamrein.
+
+### § 2. Definisjoner
+
+I denne forskrift menes med følgende begreper:
+
+a. *Rovvilt:* Gaupe, jerv, bjørn, ulv og kongeørn.
+b. *Tap av rein:* Det reindriften mister av tamrein som er drept eller skadet av rovvilt.
+c. *Erstatning for tap:* Dekning av direkte økonomiske tap som er påført reindriften, jf. bokstav b.
+d. *Erstatning for følgekostnader:* Dekning av andre tap og ulemper som er påført reindriften, og som står i årsakssammenheng med tap av tamrein.
+e. *Annet tap:* Tap av tamrein som ikke skyldes rovvilt.
+
+### § 3. Hvem har krav på erstatning
+
+Siidaandelen har etter søknad rett til erstatning for tap og følgekostnader når tamrein blir drept eller skadet av rovvilt.
+
+Det ytes likevel ikke erstatning når:
+
+a. Reindriften utøves av Rendalen Renselskap.
+b. Leder av siidaandelen ikke har fast bopel i Norge.
+c. Skadelidte er staten eller når staten har den overveiende økonomiske interesse.
+d. Søknad ikke fremmes innen fastsatt frist.
+
+*Endret ved forskrift [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+## Kap. II. Vilkår
+
+### § 4. Vilkår for erstatning
+
+Følgende vilkår må oppfylles for å få full erstatning:
+
+a. Siidaandelen har handlet aktsomt og har gjort det som med rimelighet kan forventes for å avverge eller redusere tap, vurdert i forhold til de verdier som står på spill og den foreliggende risiko.
+b. Reindriften utøves i samsvar med reindriftsloven og dyrevernlovens bestemmelser.
+c. Siidaandelen har bidratt til at tap avdekkes så tidlig som mulig. Straks et taps- eller skadetilfelle oppdages skal det gis melding til ansvarlig myndighet for vurdering av årsak.
+d. Avtalte forebyggende tiltak med økonomisk støtte fra det offentlige er iverksatt og tilstrekkelig utført.
+e. Leder av siidaandelen har gitt riktige og nødvendige opplysninger for å underbygge kravet om erstatning, herunder data over tapte og skadde dyr. Dersom leder av siidaandelen har levert en korrekt melding om reindrift og har samtykket til bruk av data fra denne i erstatningsvurderingen, ansees kravet for oppfylt. Erstatningsmyndigheten kan utover dette be om tilgang på ytterligere grunnlagsdata og opplysninger om driftsforhold som er relevant for å vurdere omfang av erstatning.
+
+*Endret ved forskrift [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+### § 5. Særlige vilkår
+
+Det kan i særlige tilfeller knyttes andre vilkår til utbetaling av erstatning.
+
+### § 6. Avkorting av erstatning
+
+Dersom vilkår etter [§ 4](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md) og [§ 5](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md) ikke er oppfylt, skal erstatningen avkortes eller bortfalle.
+
+## Kap. III. Sannsynliggjøring av rovvilttap
+
+### § 7. Undersøkelse som konstaterer rovvilttap
+
+Det skal ytes erstatning når tamrein er gjenfunnet og undersøkelse foretatt av Statens naturoppsyn, eller den departementet bestemmer, viser en sannsynlighetsovervekt for at dyret er drept eller skadet av rovvilt.
+
+### § 8. Øvrige omstendigheter som tilsier rovvilttap
+
+Det skal ytes erstatning også i øvrige tilfeller der omstendighetene tilsier at tamrein er tapt som følge av rovvilt.
+
+Forhold som enkeltvis eller i sammenheng kan bidra til å sannsynliggjøre tap er blant annet:
+
+a. At tamrein er tapt i et område der det er dokumentert forekomst av rovvilt.
+b. At tamrein er tapt i et område eller på et tidspunkt som kan knyttes opp mot tilfeller der undersøkelse i samsvar med [§ 7](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md) har påvist rovvilttap.
+c. At tamrein er tapt i en siidaandel der undersøkelse i samsvar med [§ 7](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md) i ett eller flere foregående år har påvist rovvilttap.
+
+*Endret ved forskrift [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+### § 9. Fradrag for annet tap
+
+Dersom erstatning ytes i medhold av [§ 8](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md), skal det minst gjøres fradrag for påregnelige tap av andre årsaker. Opplysninger om slike forhold skal oppgis i søknad.
+
+## Kap. IV. Beregning av erstatning
+
+### § 10. Erstatning for tap av enkeltdyr
+
+a. Full erstatning for tap av tamrein ytes etter satser fastsatt i forskrift av Miljødirektoratet.
+b. Det gis erstatning for følgende dyrekategorier;
+   1. Kjørerein
+   2. Okse
+   3. Simle
+   4. Kalv.
+c. Verdien av biprodukter er inkludert i prisgrunnlaget, jf. bokstav a.
+
+*Endret ved [forskrifter 9 feb 2006 nr. 126](https://lovdata.no/forskrift/2006-02-09-126), [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+### § 11. Erstatning for følgekostnader knyttet til det enkelte dyr
+
+I tillegg til erstatning etter foranstående regler kan det ytes erstatning for dokumenterte kostnader, ulemper og følgetap som står i direkte årsakssammenheng med tap eller skade på det enkelte dyr. Dette ytes som verdien av framtidig tapt produksjon ved tap av simler.
+
+*Endret ved [forskrift 9 feb 2006 nr. 126](https://lovdata.no/forskrift/2006-02-09-126).*
+
+### § 12. Erstatning for følgekostnader
+
+I tillegg til erstatning etter foranstående regler kan det ytes erstatning for dokumenterte omkostninger, ulemper og følgeskader som er påført reindriften.
+
+## Kap. V. Administrasjon
+
+### § 13. Administrative bestemmelser
+
+a. Søknad om erstatning skal fremmes elektronisk gjennom Elektronisk søknadssenter hos Miljødirektoratet.
+b. Frist for innlevering av søknad om erstatning er 31. mai. Statsforvalteren kan i særlige tilfeller gi søkere utsatt frist, når fristforlengelse er avtalt før fristen utløper.
+c. Statsforvalteren behandler søknadene og utbetaler erstatning. Utbetalingen skal som hovedregel skje innen 1. september. Utbetaling til siidaandelene i Finnmark skal som hovedregel skje innen 15. oktober.
+d. Utbetalingen skjer til leder av siidaandelen som har forvaltningsansvaret for midler som rettmessig tilhører en eller flere reineiere under siidaandelen. Leder har plikt til å fordele eventuelt utbetalt erstatning til de reineiere i siidaandelen som har lidt tap.
+e. Der tamrein er drept av rovvilt, jf. [§ 7](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md), men eier er ukjent, utbetales erstatning til reindriftsfondet for vedkommende reinbeitedistrikt.
+
+*Endret ved [forskrifter 9 feb 2006 nr. 126](https://lovdata.no/forskrift/2006-02-09-126), [14 juni 2007 nr. 618](https://lovdata.no/forskrift/2007-06-14-618) (i kraft 1 juli 2007), [14 des 2020 nr. 3367](https://lovdata.no/forskrift/2020-12-14-3367) (i kraft 10 sep 2021), [19 mars 2024 nr. 482](https://lovdata.no/forskrift/2024-03-19-482), [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+### § 14. Klageadgang
+
+Statsforvalterens vedtak kan påklages til Miljødirektoratet i henhold til forvaltningslovens regler.
+
+*Endret ved forskrifter [14 des 2020 nr. 3367](https://lovdata.no/forskrift/2020-12-14-3367) (i kraft 10 sep 2021), [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+## Kap. VI. Forskjellige regler
+
+### § 15. Krav om tilbakebetaling
+
+Dersom siidaandelen har mottatt erstatning i strid med redelighet og god tro, kan beløpet kreves tilbake. Utbetalt erstatning kan også kreves tilbake dersom søker har gitt feilaktige, mangelfulle eller misvisende opplysninger, eller dersom leder av siidaandelen ikke fordeler utbetalingen til berørte eiere under siidaandelen i samsvar med forskriftens [§ 13](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md) d. Det samme gjelder dersom utbetalingen skyldes feil fra myndighetenes side og søker burde ha forstått dette.
+
+Dersom mottatt forskudd eller à konto utbetaling overstiger endelig erstatningsbeløp, skal overskytende beløp tilbakebetales.
+
+*Endret ved forskrift [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+### § 16. Erstatning for skade voldt av andre arter
+
+Statsforvalteren kan etter søknad fra leder av siidaandelen i særlige tilfeller utbetale erstatning dersom det ved undersøkelse i samsvar med [§ 7](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md) er påvist at andre rovviltarter uten jakttid enn de nevnt i [§ 2](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md) bokstav a har drept eller skadet tamrein. Statsforvalterens vedtak etter denne bestemmelsen kan påklages til Miljødirektoratet i henhold til forvaltningslovens regler.
+
+*Endret ved [forskrifter 9 feb 2006 nr. 126](https://lovdata.no/forskrift/2006-02-09-126), [14 des 2020 nr. 3367](https://lovdata.no/forskrift/2020-12-14-3367) (i kraft 10 sep 2021), [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+### § 17. Dispensasjon
+
+Miljødirektoratet kan i særlige tilfeller dispensere fra bestemmelsene i [§ 4](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md) bokstav d og e samt [§ 6](for-2001-05-04-468-forskrift-om-erstatning-for-tap-av-tamrein.md).
+
+*Endret ved forskrift [2 mai 2024 nr. 723](https://lovdata.no/forskrift/2024-05-02-723).*
+
+### § 18. Endring av forskrift
+
+Klima- og miljødepartementet kan vedta endringer i forskriften.
+
+*Endret ved [forskrift 19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014).*
+
+### § 19. Ikrafttreden
+
+Denne forskrift trer i kraft straks.
+
+Fra samme tid oppheves regler om erstatning for skader på rein voldt av gaupe, jerv, bjørn, ulv og kongeørn, og om kompensasjon for ulemper for reineier, fastsatt den 21. mars 1997 av Miljøverndepartementet.[1]
+
+## Fotnoter
+
+**1.** Ikke kunngjort i Norsk Lovtidend.

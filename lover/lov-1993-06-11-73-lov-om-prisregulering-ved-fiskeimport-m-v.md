@@ -1,0 +1,46 @@
+# Lov om prisregulering ved import av fisk og fiskevarer m.v.
+
+- **Korttittel:** Lov om prisregulering ved fiskeimport m.v.
+- **Datokode:** LOV-1993-06-11-73
+- **DokumentID:** NL/lov/1993-06-11-73
+- **Departement:** Nærings- og fiskeridepartementet
+- **I kraft fra:** 1993-06-11
+- **Siste endring i kraft:** 2015-10-01
+- **Sist endret ved:** lov 19.06.2015 nr. 65 fra 2015-10-01
+- **Rettsområde:** Fiskeri- og fangstrett og havbruk > Fiskeri; Næringsrett > Inn- og utførsel
+- **Siste rettelse:** 2021-07-07 (faglige fotnoter fjernet, struktur)
+- **Kilde:** <https://lovdata.no/lov/1993-06-11-73>
+
+## I.
+
+### § 1.
+
+Lovens formål er å motvirke markedsforstyrrelser på grunn av tilbud av fisk og fiskevarer fra utlandet til unormalt lave priser.
+
+### § 2.
+
+Tilbys fisk og fiskevarer fra utlandet til priser som ligger lavere enn minstepriser som er bestemt for tilsvarende varer ved innenlands omsetning på første hånd og det innføres betydelige mengder av denne varen, kan departementet ved forskrift fastsette minsteimportpris for vedkommende vare.
+
+Minsteimportprisen skal normalt tilsvare den minstepris som er bestemt for tilsvarende vare i medhold av [lov av 14. desember 1951 nr. 3](https://lovdata.no/lov/1951-12-14-3)[1] om omsetning av råfisk.
+
+### § 3.
+
+Det er forbudt å innføre fisk og fiskevarer i strid med bestemmelser som er fastsatt i medhold av denne lov.
+
+Departementet kan fastsette nærmere forskrifter til gjennomføring av og kontroll med denne lov og bestemmelser fastsatt i medhold av loven.
+
+### § 4.
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter. På samme måte straffes forsøk.
+
+*Endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+– – –
+
+## IV.
+
+Denne lov trer i kraft straks.
+
+## Fotnoter
+
+**1.** Inkurie: Loven er opphevet, se nå [lov 21 juni 2013 nr. 75](https://lovdata.no/lov/2013-06-21-75).

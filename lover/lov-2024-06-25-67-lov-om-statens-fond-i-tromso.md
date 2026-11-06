@@ -1,0 +1,54 @@
+# Lov om Statens fond i Tromsø
+
+- **Datokode:** LOV-2024-06-25-67
+- **DokumentID:** NL/lov/2024-06-25-67
+- **Departement:** Finansdepartementet
+- **Kunngjort:** 2024-06-25 12:05
+- **I kraft fra:** 2024-08-09
+- **Rettsområde:** Selskaper, fond og foreninger > Fond
+- **Merknad:** Prop. 91 L (2023–2024), Innst. 434 L (2023–2024), Lovvedtak 103 (2023–2024). Stortingets første og andre gangs behandling hhv. 18. og 21. juni 2024. Fremmet av Finansdepartementet.
+- **Kilde:** <https://lovdata.no/lov/2024-06-25-67>
+
+## § 1. Formål
+
+Formålet med etableringen av Statens fond i Tromsø er å bidra til å bygge kapitalforvaltningsmiljøer i Nord-Norge.
+
+## § 2. Målet med fondsinvesteringene
+
+Målet med investeringene av midlene i Statens fond i Tromsø skal være å oppnå høyest mulig avkastning til en akseptabel risiko. Fondet skal forvaltes ansvarlig.
+
+## § 3. Eierskap mv.
+
+Midlene i Statens fond i Tromsø eies av staten. Statens fond i Tromsø kan ikke selv ha rettigheter eller plikter overfor private eller offentlige myndigheter, og kan ikke saksøke eller saksøkes.
+
+## § 4. Ansvaret for forvaltningen og fondskapitalen
+
+Statens fond i Tromsø forvaltes av departementet.
+
+Kapitalen i Statens fond i Tromsø fastsettes etter vedtak i Stortinget.
+
+Statens fond i Tromsø plasseres som et kapitalinnskudd i Folketrygdfondet. Motverdien forvaltes etter nærmere bestemmelser fastsatt av departementet, jf. [§ 8](lov-2024-06-25-67-lov-om-statens-fond-i-tromso.md).
+
+## § 5. Inntektene til Statens fond i Tromsø
+
+Inntekter i Statens fond i Tromsø er avkastningen av de forvaltede midlene fratrukket forvaltningskostnadene.
+
+## § 6. Uttak av midler fra Statens fond i Tromsø
+
+Midlene i Statens fond i Tromsø kan bare anvendes til en beløpsmessig overføring til statsbudsjettet etter vedtak i Stortinget.
+
+## § 7. Evaluering av forvaltningen
+
+Departementet skal regelmessig evaluere forvaltningen av Statens fond i Tromsø og rapportere om dette til Stortinget.
+
+## § 8. Utfyllende bestemmelser
+
+Departementet kan gi utfyllende bestemmelser til gjennomføring av loven.
+
+## § 9. Ikrafttredelse og overgangsbestemmelser
+
+Loven gjelder fra den tid Kongen bestemmer[1]. Departementet kan gi overgangsbestemmelser.
+
+## Fotnoter
+
+**1.** Fra 9. august 2024 iflg. [res. 9 aug 2024 nr. 1914](https://lovdata.no/forskrift/2024-08-09-1914).

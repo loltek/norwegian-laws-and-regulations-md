@@ -1,0 +1,143 @@
+# Lov om register for frivillig virksomhet
+
+- **Korttittel:** Frivillighetsregisterloven
+- **Datokode:** LOV-2007-06-29-88
+- **DokumentID:** NL/lov/2007-06-29-88
+- **Departement:** Kultur- og likestillingsdepartementet
+- **Kunngjort:** 2007-06-29
+- **I kraft fra:** 2008-12-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** lov 20.06.2025 nr. 105 fra 2026-01-01
+- **Rettsområde:** Forvaltnings- og kommunalrett > Statistikk. Registrering; Selskaper, fond og foreninger > Stiftelser/legater og foreninger
+- **Siste rettelse:** 2021-08-26 (faglige fotnoter fjernet, UU-tilpasset)
+- **Kilde:** <https://lovdata.no/lov/2007-06-29-88>
+
+## § 1. Formål
+
+Formålet med loven er å forbedre og forenkle samhandling mellom frivillig virksomhet og offentlige myndigheter og å legge til rette for det offentliges politikk overfor frivillig virksomhet, men uten at dette går ut over den frivillige virksomhetens selvstendige stilling. Formålet med loven er videre å styrke og bevare grunnlaget for frivillig virksomhet.
+
+## § 2. Frivillighetsregister. Organisasjon mv.
+
+Staten har ansvaret for oppretting, organisering og drift av et register for frivillig virksomhet. Registeret ledes av en registerfører som oppnevnes av Kongen.
+
+Departementet gir nærmere regler om organisasjon, lokalisering, administrasjon og om føringen av registeret. Det samme gjelder for etableringsgebyr og årsavgift registreringsenhetene ilegges for å være registrert i registeret.
+
+## § 3. Registreringsrett. Frivillig virksomhet
+
+Registrering i frivillighetsregisteret er en rett som tilordnes registreringsenheter, jf. [§ 4](lov-2007-06-29-88-frivillighetsregisterloven.md), som driver frivillig virksomhet. Frivillig virksomhet er aktiviteter som ikke er fortjenestebasert.
+
+Følgende aktiviteter regnes ikke som frivillig virksomhet:
+
+a. aktiviteter organisert av det offentlige,
+b. aktiviteter basert på samvirkeprinsipper og som omfattes av [lov om samvirkeforetak (samvirkeloven)](https://lovdata.no/lov/2007-06-29-81).
+
+Frivillig virksomhet som ikke anses allmennyttig, kan nektes registrering i særskilte tilfeller.
+
+## § 4. Registreringsenheter
+
+Som registreringsenhet regnes:
+
+a. ikke-økonomisk (ideell) forening,
+b. alminnelig stiftelse som ikke foretar utdelinger, eller som utelukkende foretar utdelinger til frivillig virksomhet,
+c. næringsdrivende stiftelse som utelukkende foretar utdelinger til frivillig virksomhet,
+d. aksjeselskap som utelukkende foretar utdelinger til frivillig virksomhet.
+
+Enhet som har adgang til å foreta utdelinger til fysisk person, eller som foretar slike utdelinger, kan ikke få stilling som registreringsenhet.
+
+## § 5. Forholdet til Enhetsregisteret
+
+Før en enhet kan bli registrert i frivillighetsregisteret, må den registreres i Enhetsregisteret, med opplysninger som nevnt i [enhetsregisterloven kapittel 4](lov-2025-06-20-105-enhetsregisterloven.md). Det skal alltid registreres opplysninger om enhetens styre.
+
+*Endret ved lov [20 juni 2025 nr. 105](lov-2025-06-20-105-enhetsregisterloven.md) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1094](https://lovdata.no/forskrift/2025-06-20-1094)).*
+
+## § 6. Registreringspliktige og registreringsberettigede opplysninger
+
+I frivillighetsregisteret skal det i samsvar med forskrift som departementet gir, registreres opplysninger om enhetens kategori og eventuell tilknytning til en gruppe enheter.
+
+En forenings vedtekter kan registreres i frivillighetsregisteret. I tilfelle skal vedtektene minst inneholde opplysninger om enhetens navn, formål, årsmøte, styre og valg til styre, vedtektsendringer og opphør.
+
+Registreringsenhet som ikke har innsendelsesplikt til Regnskapsregisteret etter reglene i [regnskapsloven § 8-2](lov-1998-07-17-56-regnskapsloven.md), kan velge å påta seg en slik plikt etter [§ 7](lov-2007-06-29-88-frivillighetsregisterloven.md) i loven her. For registreringsenhet som har påtatt seg slik innsendelsesplikt, skal registeret inneholde opplysning om dato for sist mottatte regnskapsrapportering i Regnskapsregisteret.
+
+## § 7. Rapportering av regnskapsopplysninger
+
+Rapportering av regnskapsopplysninger for stiftelser, aksjeselskap og regnskapspliktige foreninger skjer etter reglene i [regnskapsloven kapittel 8](lov-1998-07-17-56-regnskapsloven.md). Foreninger som ikke er regnskapspliktige etter regnskapsloven, kan rapportere regnskapsopplysninger til Regnskapsregisteret. Nærmere regler om krav til innhold og form ved rapportering fastsettes av departementet. Om rapporteringsplikten ikke overholdes, kan registerfører iverksette tiltak i henhold til [§ 12](lov-2007-06-29-88-frivillighetsregisterloven.md).
+
+## § 8. Dokumentasjon av opplysningene
+
+Styre, daglig leder, forretningsføreren eller tilsvarende kontaktperson, jf. [§ 11](lov-2007-06-29-88-frivillighetsregisterloven.md), skal avgi en skriftlig erklæring om at de opplysninger som meldes, er riktige.
+
+Registerføreren kan kreve fremlagt den dokumentasjon som anses nødvendig for å vurdere om det som meldes er riktig. Ved første gangs registrering av en forening skal foreningen fremlegge foreningens vedtekter.
+
+## § 9. Oppfyllelse av meldingsretten ved førstegangsmelding
+
+Førstegangsmelding skjer ved at enheten melder opplysninger som nevnt i [§ 6](lov-2007-06-29-88-frivillighetsregisterloven.md) til frivillighetsregisteret. Dersom enheten ikke allerede er registrert i Enhetsregisteret, skal det samtidig inngis melding om registrering i Enhetsregisteret.
+
+## § 10. Endringsmelding
+
+Den enkelte registreringsenhet skal innen rimelig tid melde endringer i opplysninger som nevnt i [§ 6](lov-2007-06-29-88-frivillighetsregisterloven.md) første ledd til frivillighetsregisteret. Dersom en forenings vedtekter er registrert etter [§ 6](lov-2007-06-29-88-frivillighetsregisterloven.md) andre ledd, gjelder plikten etter første punktum også endringer i vedtektene. Dersom en forenings regnskapsopplysninger er registrert etter [§ 6](lov-2007-06-29-88-frivillighetsregisterloven.md) tredje ledd, jf. [§ 7](lov-2007-06-29-88-frivillighetsregisterloven.md), gjelder plikten etter første punktum også endringer i de registrerte regnskapsopplysningene. Den registreringspliktige etter [§ 11](lov-2007-06-29-88-frivillighetsregisterloven.md) første ledd plikter å melde fra til frivillighetsregisteret dersom enheten ikke lenger fyller vilkårene i [§§ 3](lov-2007-06-29-88-frivillighetsregisterloven.md) og [4](lov-2007-06-29-88-frivillighetsregisterloven.md).
+
+## § 11. Hvem plikten til å melde opplysninger påligger ved utøvelse av meldingsrett
+
+Dersom en enhet velger å registrere seg i frivillighetsregisteret, påligger plikten til å melde opplysninger etter [§§ 5](lov-2007-06-29-88-frivillighetsregisterloven.md), [6](lov-2007-06-29-88-frivillighetsregisterloven.md) og [7](lov-2007-06-29-88-frivillighetsregisterloven.md) styre, daglig leder, forretningsføreren eller tilsvarende kontaktperson.
+
+## § 12. Pålegg om melding. Sletting
+
+Dersom en enhet velger å registrere seg i frivillighetsregisteret og registerføreren har grunn til å anta at opplysninger som pliktes meldt ikke er innkommet, kan han pålegge enheten å gi opplysninger til registeret innen en bestemt fastsatt frist.
+
+For å sikre best mulig kvalitet på opplysningene i registeret kan registerføreren også gjennomføre kontroller etter nærmere regler gitt av departementet.
+
+Om pålegg etter første eller andre ledd ikke etterkommes, kan registerføreren slette enheten fra registeret. Registerføreren kan slette enheten fra registeret dersom enheten ikke lenger fyller vilkårene etter i [§§ 3](lov-2007-06-29-88-frivillighetsregisterloven.md) og [4](lov-2007-06-29-88-frivillighetsregisterloven.md).
+
+## § 13. Innføring i registeret
+
+Registerføreren skal prøve om innsendte opplysninger og dokumentasjon er i samsvar med reglene i denne lov og forskrifter gitt i medhold av loven. Opplysningene skal innføres i registeret straks de er funnet i orden.
+
+## § 14. Underretning til registreringsenheten
+
+Registreringsenheten skal ha underretning om hvilke opplysninger som blir registrert i frivillighetsregisteret ved førstegangsregistrering, og hvilke endringer som senere blir gjort.
+
+## § 15. Registreringsnektelse
+
+Finner registerføreren at vilkårene for registrering av en enhet i frivillighetsregisteret ikke foreligger, eller de meldte opplysningene er så utydelige eller uklare at det ikke er mulig å fastslå hvordan de skal forstås, skal registrering nektes.
+
+Registreringsenheten skal ha skriftlig underretning med opplysning om grunnen til at registrering er nektet. Det skal også opplyses om klageadgang, klagefrist og fremgangsmåten ved en eventuell klage.
+
+## § 16. Innsyn. Utlevering av opplysninger
+
+Enhver har rett til å få tilgang til og utskrift av opplysninger registrert i frivillighetsregisteret.
+
+Departementet kan gi nærmere regler om hvordan opplysningene skal gjøres tilgjengelige og kan bestemme at det skal betales gebyr for tjenestene.
+
+## § 17. Retting av feil
+
+Dersom en innføring i registeret er uriktig eller det på annen måte er gjort feil i forbindelse med registreringen, skal feilen rettes. Enheten skal underrettes om feilen og om hvordan den vil bli rettet.
+
+Dersom det er uklart hvordan feilen skal rettes, eller den av andre grunner ikke kan rettes uten etter ny melding fra enheten, kan registerføreren ta inn en opplysning om feilen i registeret. Samtidig skal han pålegge enheten å gi ny melding innen en bestemt frist.
+
+## § 18. Sletting av opphørte enheter
+
+Dersom registerføreren har grunn til å tro at en enhet er opphørt, skal han varsle enheten eller den meldingspliktige kontaktpersonen om at registreringen av enheten kan bli slettet dersom det ikke innen en nærmere angitt frist fremkommer opplysninger som gjør det sannsynlig at den fortsatt består. Det samme gjelder dersom en enhet ikke betaler skyldig avgift til frivillighetsregisteret innen en nærmere angitt frist.
+
+## § 19. Klage
+
+Registerførerens vedtak kan påklages til en nemnd oppnevnt av departementet. Departementet kan i forskrift gi nærmere bestemmelser om klagesaksbehandlingen.
+
+## § 20. Elektronisk kommunikasjon
+
+Krav i eller i medhold av denne lov om underskrift eller om at klage, underretning eller liknende skal gis skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon.
+
+## § 21. Forskrifter
+
+Departementet kan gi forskrifter til utfylling og gjennomføring av denne lov.
+
+## § 22. Lovens anvendelse på Svalbard og Jan Mayen
+
+Kongen kan gi nærmere regler om lovens anvendelse på Svalbard og Jan Mayen.
+
+## § 23. Ikrafttreden
+
+Loven gjelder fra den tid Kongen bestemmer.[1]
+
+## Fotnoter
+
+**1.** Fra 1 des 2008 iflg. [res. 7 nov 2008 nr. 1195](https://lovdata.no/forskrift/2008-11-07-1195).

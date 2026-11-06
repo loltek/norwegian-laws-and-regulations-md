@@ -1,0 +1,208 @@
+# Lov om gjeldsinformasjon ved kredittvurdering av privatpersoner (gjeldsinformasjonsloven)
+
+- **Korttittel:** Gjeldsinformasjonsloven
+- **Datokode:** LOV-2017-06-16-47
+- **DokumentID:** NL/lov/2017-06-16-47
+- **Departement:** Barne- og familiedepartementet
+- **Kunngjort:** 2017-06-16
+- **I kraft fra:** 2017-11-01
+- **Siste endring i kraft:** 2022-07-01
+- **Sist endret ved:** lov 20.12.2019 nr. 109 fra 2022-07-01
+- **Rettsområde:** Bank, finans og regnskapsrett > Banker; Bank, finans og regnskapsrett > Betalingsformidling; Familie-, person- og barnerett > Personrett. Personvern; Konkurs, gjeld og pant > Gjeldsordning
+- **Siste rettelse:** 2021-09-02 (faglige fotnoter fjernet, UU-tilpasset)
+- **Kilde:** <https://lovdata.no/lov/2017-06-16-47>
+
+## Kapittel 1 Innledende bestemmelser
+
+### § 1. Lovens formål
+
+Lovens formål er å legge til rette for sikker, ordnet og effektiv registrering og utlevering av gjeldsopplysninger for å bidra til bedre kredittvurderinger og forebygge gjeldsproblemer blant enkeltpersoner.
+
+### § 2. Definisjoner
+
+I denne lov menes med:
+
+a. gjeldsinformasjonsforetak: foretak med tillatelse etter loven her til å motta, innhente, registrere og utlevere gjeldsopplysninger,
+b. finansforetak: foretak som nevnt i [finansforetaksloven § 1-3](lov-2015-04-10-17-finansforetaksloven.md). Dette gjelder også utenlandske finansforetak som driver virksomhet gjennom filial i Norge, eller ved grensekryssende virksomhet, jf. [finansforetaksloven § 1-2](lov-2015-04-10-17-finansforetaksloven.md) annet ledd,
+c. kredittopplysningsforetak: foretak som driver kredittopplysningsvirksomhet i samsvar med [kredittopplysningsloven](lov-2019-12-20-109-kredittopplysningsloven.md),
+d. gjeldsopplysning: opplysning om en enkeltpersons gjeld eller ubenyttet kredittramme, som ikke er sikret ved registrert panterett i formuesgode som tilhører vedkommende. Departementet kan i forskrift bestemme at gjeldsopplysning også skal omfatte pantesikret gjeld,
+e. kredittopplysning: meddelelse som belyser kredittverdighet eller økonomisk vederheftighet,
+f. kredittscore: en matematisk beregnet poengsum eller kode som beskriver en enkeltpersons risikoprofil som kredittkunde, og som brukes av kredittopplysningsforetak og finansforetak til å bedømme kredittverdighet.
+
+*Endret ved lover [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)), [20 des 2019 nr. 109](lov-2019-12-20-109-kredittopplysningsloven.md) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 872](https://lovdata.no/forskrift/2022-05-20-872)).*
+
+## Kapittel 2 Vilkår og tillatelser
+
+### § 3. Vilkår for å drive virksomhet som gjeldsinformasjonsforetak
+
+Virksomhet som gjeldsinformasjonsforetak kan bare drives av foretak med tillatelse fra departementet.
+
+Tillatelse kan bare gis dersom:
+
+a. foretakets eiere er egnet til å sikre en god, effektiv og forsvarlig forvaltning av foretaket,
+b. foretaket kan dokumentere evne til sikker, ordnet og effektiv utlevering og eventuell registrering av gjeldsopplysninger, og
+c. foretaket er organisert som aksjeselskap eller allmennaksjeselskap og oppfyller de krav som stilles i [aksjeloven](lov-1997-06-13-44-aksjeloven.md) eller [allmennaksjeloven](lov-1997-06-13-45-allmennaksjeloven.md), i tillegg til kravene som følger av eller er gitt i medhold av loven her.
+
+Ved vurderingen av om foretakets eiere er egnet etter annet ledd bokstav a, skal det særlig legges vekt på eiernes alminnelige omdømme, faglige kompetanse, tidligere handlemåte, tilgjengelige økonomiske ressurser, hensynet til forsvarlig virksomhet samt muligheten til å utøve et effektivt tilsyn.
+
+Det kan settes vilkår for tillatelsen.
+
+### § 4. Søknad om tillatelse
+
+Søknad om tillatelse til å drive virksomhet som gjeldsinformasjonsforetak skal inneholde de opplysninger som er av betydning for behandling av søknaden, og som viser at de lov- og forskriftsfestede kravene er oppfylt.
+
+Vedtak om tillatelse skal meddeles søkeren snarest mulig og senest innen seks måneder etter at søknaden er mottatt. Dersom søknaden ikke inneholder de opplysninger som er nødvendige for behandling av søknaden, regnes fristen fra det tidspunktet slike opplysninger er mottatt.
+
+### § 5. Endring og tilbakekall av tillatelse
+
+Departementet kan endre, sette nye vilkår for eller tilbakekalle tillatelsen til å drive virksomhet som gjeldsinformasjonsforetak dersom gjeldsinformasjonsforetaket:
+
+a. ikke gjør bruk av tillatelsen innen tolv måneder etter at tillatelsen ble gitt, gir uttrykkelig avkall på tillatelsen, eller har opphørt å drive virksomhet som gjeldsinformasjonsforetak i mer enn seks måneder,
+b. har fått tillatelsen ved hjelp av uriktige opplysninger eller andre uregelmessigheter,
+c. foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, eller
+d. ikke etterkommer pålegg gitt av Finanstilsynet.
+
+### § 6. Styre og ledelse
+
+Gjeldsinformasjonsforetak skal ha daglig leder og et styre med minst tre medlemmer. Daglig leder eller annen ansatt kan ikke være medlem av styret.
+
+Styremedlemmer, daglig leder og andre personer som inngår i den faktiske ledelsen av virksomheten i et gjeldsinformasjonsforetak, skal ha relevante kvalifikasjoner og yrkeserfaring og skal ikke ha utvist adferd som gir grunn til å anta at stillingen eller vervet ikke vil kunne ivaretas på forsvarlig måte.
+
+Personer som nevnt i annet ledd skal fremlegge ordinær politiattest etter [politiregisterloven § 40](lov-2010-05-28-16-politiregisterloven.md).
+
+Gjeldsinformasjonsforetak skal gi Finanstilsynet melding ved endring av styrets sammensetning og ved skifte av daglig leder eller andre personer som faktisk deltar i ledelsen av virksomheten. Meldingen skal så vidt mulig gis på forhånd og må inneholde nødvendige opplysninger om kvalifikasjoner, yrkeserfaring, vandel samt verv eller stilling i annen virksomhet. Finanstilsynet kan gi pålegg om at endringen ikke skal iverksettes dersom endringen antas å medføre at kravene i annet ledd ikke oppfylles.
+
+### § 7. Vedtekter
+
+Gjeldsinformasjonsforetakets vedtekter og endringer i disse skal godkjennes av departementet.
+
+Departementet kan i forskrift gi nærmere regler om vedtektenes innhold.
+
+### § 8. Internkontroll
+
+Styret skal fastsette retningslinjer for internkontroll og kontrollere at internkontrollen etableres, gjennomføres og dokumenteres på en forsvarlig måte i samsvar med styrets retningslinjer og pålegg. Departementet kan i forskrift gi nærmere regler om internkontroll.
+
+Daglig leder skal sørge for at internkontroll etableres og gjennomføres i henhold til lov og forskrifter. Det samme gjelder for styrets vedtatte retningslinjer og pålegg.
+
+Gjeldsinformasjonsforetak kan anvende underleverandører i virksomheten.
+
+### § 9. Virksomhetsbegrensning
+
+Gjeldsinformasjonsforetak kan motta, innhente, registrere og utlevere gjeldsopplysninger. Annen konsesjonspliktig virksomhet skal drives i eget foretak.
+
+Ut over virksomhet som nevnt i første ledd første punktum, kan gjeldsinformasjonsforetak bare drive annen virksomhet som har direkte sammenheng med gjeldsinformasjonsvirksomheten, og som ikke er egnet til å svekke tilliten til foretakets integritet og uavhengighet. Gjeldsinformasjonsforetak må rapportere til Finanstilsynet og departementet hvis det driver slik annen virksomhet.
+
+Gjeldsinformasjonsforetak kan ikke motta, innhente, registrere eller utlevere andre kredittopplysninger enn gjeldsopplysninger.
+
+Departementet kan i forskrift gi nærmere regler og treffe enkeltvedtak om hva slags virksomhet gjeldsinformasjonsforetak kan drive.
+
+## Kapittel 3 Mottak og utlevering av gjeldsopplysninger
+
+### § 10. Finansforetaks plikt til å gjøre gjeldsopplysninger tilgjengelige
+
+Finansforetak skal rapportere eller på annen måte gjøre gjeldsopplysninger, jf. [§ 2](lov-2017-06-16-47-gjeldsinformasjonsloven.md) bokstav d, tilgjengelige for gjeldsinformasjonsforetak.
+
+Departementet kan i forskrift gi nærmere regler om rapportering og annen tilgjengeliggjøring av gjeldsopplysninger, herunder om tekniske forhold, opplysningenes detaljeringsgrad og rapporteringshyppighet.
+
+### § 11. Gjeldsinformasjonsforetaks tilretteleggings- og registreringsplikt
+
+Gjeldsinformasjonsforetak skal legge til rette for at rapportering eller annen tilgjengeliggjøring av gjeldsopplysninger fra finansforetak etter [§ 10](lov-2017-06-16-47-gjeldsinformasjonsloven.md) kan skje på en hensiktsmessig måte.
+
+Gjeldsinformasjonsforetak som etablerer register, skal registrere gjeldsopplysninger når disse mottas.
+
+Departementet kan i forskrift gi nærmere regler om tilretteleggings- og registreringsplikten.
+
+### § 12. Utlevering av gjeldsopplysninger fra gjeldsinformasjonsforetak
+
+Gjeldsinformasjonsforetak kan utlevere gjeldsopplysninger til:
+
+a. finansforetak, Husbanken og Statens pensjonskasse, når disse skal foreta kredittvurdering i forbindelse med en konkret kredittsøknad eller søknad om endring av vilkår på en løpende kreditt,
+b. kommune, i forbindelse med behandling av søknad om startlån eller søknad om endring av vilkår for innvilget startlån,
+c. kredittopplysningsforetak, når disse etter forespørsel fra kredittytere som nevnt i bokstav a og b skal foreta kredittvurdering, eller når disse skal utarbeide kredittscore etter forespørsel fra noen som har saklig behov for å innhente kredittopplysninger, og
+d. den opplysningen gjelder.
+
+Gjeldsopplysninger som er nødvendige for utarbeidelse av kredittscoremodeller, kan utleveres til finansforetak og kredittopplysningsforetak.
+
+Gjeldsopplysninger kan også utleveres til mottakere som nevnt i første ledd bokstav a og b i forbindelse med kontroll ved utbetaling av innvilget kreditt.
+
+Norges Bank, Finanstilsynet og Statistisk sentralbyrå kan kreve utlevert gjeldsopplysninger for analyse-, overvåknings- og statistikkformål. Annen offentlig myndighet kan få utlevert gjeldsopplysninger når det er særskilt hjemmel for det.
+
+Gjeldsopplysninger kan utleveres til forskningsformål. [Verdipapirsentralloven § 8-4](lov-2019-03-15-6-verdipapirsentralloven.md) gjelder tilsvarende.
+
+Den som i medhold av første til femte ledd har mottatt gjeldsopplysninger fra et gjeldsinformasjonsforetak, kan ikke gi opplysningene videre til andre. For finansforetak og kredittopplysningsforetak gjelder dette også overfor andre foretak i samme konsern. Unntak gjelder for kredittopplysningsforetak etter [§ 13](lov-2017-06-16-47-gjeldsinformasjonsloven.md) samt ved krav om innsyn fra den opplysningen gjelder.
+
+Gjeldsopplysninger kan bare utleveres skriftlig, enten elektronisk eller papirbasert.
+
+Departementet kan i forskrift gi nærmere regler eller treffe enkeltvedtak om utlevering av gjeldsopplysninger fra gjeldsinformasjonsforetak, herunder om utlevering av gjeldsopplysninger for utarbeidelse av kredittscoremodeller.
+
+*Endret ved lover [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [15 mars 2019 nr. 6](lov-2019-03-15-6-verdipapirsentralloven.md) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](https://lovdata.no/forskrift/2019-12-06-1656)).*
+
+### § 13. Utlevering av gjeldsopplysninger og kreditt-score fra kredittopplysningsforetak
+
+Kredittopplysningsforetak kan utlevere gjeldsopplysninger til kredittytere som nevnt i [§ 12](lov-2017-06-16-47-gjeldsinformasjonsloven.md) første ledd bokstav a og b når kredittopplysningsforetak etter forespørsel fra disse skal foreta kredittvurdering i forbindelse med en konkret kredittsøknad eller søknad om endring av vilkår på en løpende kreditt, samt til den opplysningen gjelder.
+
+Kredittopplysningsforetak kan også utlevere opplysning om kredittscore hvor gjeldsopplysninger inngår i beregningsgrunnlaget, til den som har saklig behov for opplysningen. Selve gjeldsopplysningen kan ikke utleveres.
+
+Departementet kan gi forskrift med nærmere bestemmelser om kredittopplysningsforetaks adgang til utlevering av gjeldsopplysninger og kredittscore.
+
+*Endret ved lov [15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).*
+
+### § 14. Gjeldsinformasjonsforetaks rett til vederlag for utleverte opplysninger
+
+Gjeldsinformasjonsforetak kan kreve vederlag for utlevering av gjeldsopplysninger. Dette gjelder ikke for opplysninger som offentlige myndigheter har krav på i henhold til lov eller forskrift, eller ved krav om innsyn fra den opplysningen gjelder.
+
+Departementet kan i forskrift gi nærmere regler om vederlag for tjenester som ytes av gjeldsinformasjonsforetak.
+
+### § 15. Sletting av gjeldsopplysninger
+
+Gjeldsinformasjonsforetak som etablerer et register, skal slette gjeldsopplysninger fra registeret når gjelden er innfridd og eventuell kredittramme er avviklet.
+
+Departementet kan i forskrift gi nærmere regler om sletting av gjeldsopplysninger.
+
+## Kapittel 4 Tilsyn, taushetsplikt og straff mv.
+
+### § 16. Tilsyn, forholdet til tilsynsmyndigheten
+
+Gjeldsinformasjonsforetak er underlagt tilsyn av Finanstilsynet etter [finanstilsynsloven](lov-2024-06-21-41-finanstilsynsloven.md).
+
+Gjeldsinformasjonsforetak og den som handler på vegne av foretaket, har plikt til å gi de opplysninger som Finanstilsynet krever om forhold som angår foretakets virksomhet, samt til å fremvise og utlevere til Finanstilsynet dokumentasjon som angår virksomheten.
+
+Finanstilsynet kan gi pålegg om retting dersom gjeldsinformasjonsforetak opptrer i strid med lov, bestemmelser gitt med hjemmel i lov eller egne regler og forretningsvilkår. Det samme gjelder for den som handler på vegne av foretaket. Finanstilsynet kan også gi pålegg om retting dersom foretakets ledelse eller styremedlemmer ikke oppfyller kravene til kvalifikasjoner og egnethet i [§ 6](lov-2017-06-16-47-gjeldsinformasjonsloven.md).
+
+Styret og daglig leder i gjeldsinformasjonsforetak har plikt til å melde fra til Finanstilsynet dersom det fattes vedtak om avvikling av foretaket, eller det oppstår fare for at foretaket ikke vil være i stand til å utføre konsesjonspliktige funksjoner.
+
+### § 17. Taushetsplikt
+
+Tillitsvalgte, ansatte og revisor i gjeldsinformasjonsforetak har taushetsplikt om det som de i sitt arbeid får vite om noens gjeldsforhold eller forretningsmessige eller personlige forhold, med mindre noe annet følger av lov. Det samme gjelder andre som utfører arbeid eller oppdrag på vegne av gjeldsinformasjonsforetak. Taushetsplikten gjelder også etter at vedkommende har avsluttet tjenesten, oppdraget eller vervet.
+
+For opplysninger til bruk i forskning og forskeres taushetsplikt gjelder [verdipapirsentralloven §§ 8-4](lov-2019-03-15-6-verdipapirsentralloven.md) og [8-5](lov-2019-03-15-6-verdipapirsentralloven.md) tilsvarende.
+
+*Endret ved lov [15 mars 2019 nr. 6](lov-2019-03-15-6-verdipapirsentralloven.md) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](https://lovdata.no/forskrift/2019-12-06-1656)).*
+
+### § 18. Straff
+
+Tillitsvalgte og ansatte i gjeldsinformasjonsforetak som forsettlig eller uaktsomt overtrer bestemmelsene i [§ 16](lov-2017-06-16-47-gjeldsinformasjonsloven.md) fjerde ledd, straffes med bøter eller med fengsel i inntil seks måneder.
+
+Overtredelse av [§ 17](lov-2017-06-16-47-gjeldsinformasjonsloven.md) om taushetsplikt straffes etter [straffeloven § 209](lov-2005-05-20-28-straffeloven.md).
+
+### § 19. Forholdet til personopplysningsloven og kredittopplysningsloven
+
+Personopplysningsloven gjelder så langt ikke annet følger av denne loven.
+
+Departementet kan i forskrift gi nærmere regler om forholdet til [personopplysningsloven](lov-2018-06-15-38-personopplysningsloven.md) og [kredittopplysningsloven](lov-2019-12-20-109-kredittopplysningsloven.md).
+
+*Endret ved lov [20 des 2019 nr. 109](lov-2019-12-20-109-kredittopplysningsloven.md) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 872](https://lovdata.no/forskrift/2022-05-20-872)).*
+
+## Kapittel 5 Ikrafttredelse mv.
+
+### § 20. Ikrafttredelse
+
+Loven gjelder fra den tid[1] Kongen bestemmer.
+
+### § 21. Endringer i andre lover
+
+Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Fra 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](https://lovdata.no/forskrift/2017-06-16-766).

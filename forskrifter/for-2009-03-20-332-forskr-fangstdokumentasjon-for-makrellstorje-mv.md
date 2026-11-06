@@ -1,0 +1,79 @@
+# Forskrift om fangstdokumentasjon for makrellstørje (Thunnus thynnus), storøyet tunfisk (bigeye tuna/Thunnus obesus) og sverdfisk (Xiphias gladius)
+
+- **Korttittel:** Forskr fangstdokumentasjon for makrellstørje mv.
+- **Datokode:** FOR-2009-03-20-332
+- **DokumentID:** SF/forskrift/2009-03-20-332
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Fiskeri- og havbruksavd.
+- **Hjemmel:** lov 06.06.1997 nr. 32/§1; forskrift 17.07.1998 nr. 618; lov 06.06.2008 nr. 37/§36; lov 06.06.2008 nr. 37/§40; lov 06.06.2008 nr. 37/§41
+- **Publisert i:** I 2009 hefte 3
+- **Kunngjort:** 2009-03-24 13:55
+- **I kraft fra:** 2009-04-06
+- **Siste endring i kraft:** 2014-02-28
+- **Sist endret ved:** forskrift 28.02.2014 nr. 217
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Fiskeri- og kystdepartementet 20. mars 2009 med hjemmel i lov 6. juni 1997 nr. 32 om innførsle- og utførsleregulering § 1, jf. delegeringsvedtak 17. juli 1998 nr. 618 og lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 36, § 40 og § 41. Endret ved forskrift 28 feb 2014 nr. 217.
+- **Kilde:** <https://lovdata.no/forskrift/2009-03-20-332>
+
+## § 1. Stedlig og saklig virkeområde
+
+Forskriften gjelder på Norges landterritorium, i farvann under norsk fiskerijurisdiksjon og for norsk fartøy utenfor disse farvann.
+
+Forskriften gjelder for landing, innenlands omsetning, import, eksport og reeksport av fersk og fryst makrellstørje (*Thunnus thynnus*), storøyet tunfisk (bigeye tuna/*Thunnus obesus*) og sverdfisk (*Xiphias gladius*).
+
+## § 2. Definisjoner
+
+I denne forskrift forstås med:
+
+a. *eksport av fisk*, at fisk som har blitt landet fra norsk fartøy i norsk havn føres ut av Norge,
+b. *reeksport av fisk*, at fisk som har blitt importert til eller landet fra utenlandsk fartøy i Norge, blir ført ut av landet,
+c. *fangstdokument*, elektronisk- eller papirdokument som er godkjent av ansvarlige myndigheter i samsvar med krav i Den internasjonale kommisjonen for bevaring av tunfisk (ICCAT),
+d. *reeksportdokument*, elektronisk- eller papirdokument godkjent av ansvarlige myndigheter i samsvar med krav i Den internasjonale kommisjonen for bevaring av tunfisk (ICCAT) når fisken blir importert via tredjeland til Norge eller blir reeksportert fra Norge.
+
+*Endret ved [forskrift 28 feb 2014 nr. 217](https://lovdata.no/forskrift/2014-02-28-217).*
+
+## § 3. Plikt til å gi opplysninger til utfylling av fangstdokument ved landing
+
+Den som er ansvarlig på norsk fiskefartøy plikter ved landing av makrellstørje, storøyet tunfisk og sverdfisk å gi Fiskeridirektoratet de opplysninger som er nødvendig for å kunne utstede fangstdokument. Den som er ansvarlig på fartøyet plikter å oppbevare kopi av fangstdokumentet i to år etter utstedelse.
+
+*Endret ved [forskrift 28 feb 2014 nr. 217](https://lovdata.no/forskrift/2014-02-28-217).*
+
+## § 4. Plikt til å sende med fangstdokument ved innenlands omsetning
+
+Ved innenlands omsetning av makrellstørje, storøyet tunfisk og sverdfisk som har blitt landet i Norge, skal godkjent fangstdokument utstedt av Fiskeridirektoratet følge med forsendelsen.
+
+## § 5. Forbud mot import og landing fra utenlandsk fartøy uten fangstdokument
+
+Det er forbudt å importere, eller for utenlandsk fartøy å lande, makrellstørje, storøyet tunfisk og sverdfisk dersom fisken ikke følges av fangstdokument. Dersom fisken blir importert via tredjeland skal reeksportdokument følge med forsendelsen i tillegg til fangstdokument.
+
+Importør, eller den som er ansvarlig på det utenlandske fartøyet, skal sende Fiskeridirektoratet kopi av fangstdokument og reeksportdokument straks. Importør plikter å oppbevare kopi av fangstdokument og reeksportdokument i ti år etter importen.
+
+*Endret ved [forskrift 28 feb 2014 nr. 217](https://lovdata.no/forskrift/2014-02-28-217).*
+
+## § 6. Forbud mot eksport uten fangstdokument
+
+Det er forbudt å eksportere makrellstørje, storøyet tunfisk og sverdfisk dersom fisken ikke følges av godkjent fangstdokument utstedt av Fiskeridirektoratet. Eksportør plikter å oppbevare kopi av fangstdokument i ti år etter eksporten.
+
+*Endret ved [forskrift 28 feb 2014 nr. 217](https://lovdata.no/forskrift/2014-02-28-217).*
+
+## § 7. Forbud mot reeksport uten reeksportdokument
+
+Det er forbudt å reeksportere makrellstørje, storøyet tunfisk og sverdfisk dersom forsendelsen ikke følges av fangstdokument og reeksportdokument utstedt av Fiskeridirektoratet. Reeksportør plikter å oppbevare kopi av fangstdokument og reeksportdokument i ti år etter reeksport.
+
+*Endret ved [forskrift 28 feb 2014 nr. 217](https://lovdata.no/forskrift/2014-02-28-217).*
+
+## § 8. Utfylling av fangstdokument
+
+Fiskeridirektoratet kan gi nærmere regler om utfylling av fangstdokument og reeksportdokument.
+
+## § 9. Kontroll
+
+Fiskeridirektoratet og tollvesenet er kontrollmyndigheter etter denne forskriften.
+
+## § 10. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift straffes i henhold til [lov 6. juni 1997 nr. 32](https://lovdata.no/lov/1997-06-06-32) om innførsle- og utførsleregulering [§ 4](https://lovdata.no/lov/1997-06-06-32/§4) og [lov 6. juni 2008 nr. 37](https://lovdata.no/lov/2008-06-06-37) om forvaltning av viltlevande marine ressursar (havressurslova) [§ 62](https://lovdata.no/lov/2008-06-06-37/§62) og [§ 64](https://lovdata.no/lov/2008-06-06-37/§64). På samme måte straffes medvirkning og forsøk.
+
+## § 11. Ikrafttredelse
+
+Denne forskrift trer i kraft 6. april 2009.

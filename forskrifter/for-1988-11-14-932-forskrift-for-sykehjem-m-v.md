@@ -1,0 +1,143 @@
+# Forskrift for sykehjem og boform for heldøgns omsorg og pleie
+
+- **Korttittel:** Forskrift for sykehjem m.v.
+- **Datokode:** FOR-1988-11-14-932
+- **DokumentID:** SF/forskrift/1988-11-14-932
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helseavd.
+- **Hjemmel:** lov 24.06.2011 nr. 30/§3-2; lov 24.06.2011 nr. 30/§13-2; lov 18.05.2001 nr. 24/§8; lov 20.06.2014 nr. 42/§33; lov 20.06.2014 nr. 43/§33
+- **Publisert i:** I 1988 798
+- **I kraft fra:** 1989-01-01
+- **Siste endring i kraft:** 2022-06-23
+- **Sist endret ved:** forskrift 23.06.2022 nr. 1176
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-09-27 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Sosialdepartementet (nå Helse- og omsorgsdepartementet) 14. november 1988 med hjemmel i lov av 19. november 1982 nr. 66 om helsetjenesten i kommunene § 1-3 femte ledd jfr. § 6-9. Tilføyd hjemmel: Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 3-2 andre ledd. Endret ved forskrifter 19 des 1990 nr. 1132, 11 nov 1997 nr. 1158, 19 mai 2003 nr. 653, 16 des 2011 nr. 1396, 21 juni 2013 nr. 708, 17 sep 2021 nr. 2821, 20 sep 2021 nr. 2838, 23 juni 2022 nr. 1176. Rettelser: 27.09.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/1988-11-14-932>
+
+## Kap. I. Virkeområde
+
+### § 1-1.
+
+Denne forskrift gjelder sykehjem og boform for heldøgns omsorg og pleie som nevnt i [lov om kommunale helse- og omsorgstjenester m.m. § 3-2](../lover/lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) første ledd nr. 6 bokstav c. Med boform i denne forskrift menes også sykehjem.
+
+*Endret ved forskrifter [20 sep 2021 nr. 2838](https://lovdata.no/forskrift/2021-09-20-2838), [23 juni 2022 nr. 1176](https://lovdata.no/forskrift/2022-06-23-1176).*
+
+## Kap. II. Formål og oppgaver
+
+### § 2-1.
+
+Boform etter denne forskrift skal gi heldøgns opphold. I tilknytning til oppholdet skal det være organisert legetjeneste, fysioterapitjeneste og sykepleiertjeneste i samarbeid med andre deler av den kommunale helse- og sosialtjeneste.
+
+Boformen skal være innrettet på en eller flere av følgende oppgaver:
+
+a. medisinsk attføring med sikte på tilbakeføring til hjemmet,
+b. avlastning,
+c. permanent opphold,
+d. spesielt tilrettelagt opphold for funksjonshemmede,
+e. skjermet enhet for senil demente,
+f. selvstendig boenhet for barn/ungdom,
+g. dagopphold,
+h. nattopphold,
+i. terminalpleie.
+
+## Kap. III. Godkjenning – Drift
+
+### § 3-1.
+
+(Opphevet ved [forskrift 11 nov 1997 nr. 1158](https://lovdata.no/forskrift/1997-11-11-1158).)
+
+### § 3-2.
+
+Boformen skal ha tilknyttet:
+
+a. en administrativ leder
+b. en lege som skal ha ansvaret for den medisinske behandling
+c. en offentlig godkjent sykepleier som skal ha ansvaret for sykepleien
+d. det antall personell for øvrig som er nødvendig for å sikre beboer nødvendig omsorg og bistand.
+
+### § 3-3.
+
+Det er ikke hjemmel for å bruke tvangstiltak i boformen. Ved behov kan beskyttelsestiltak benyttes for å beskytte beboerne mot å skade seg selv, og for å beskytte andre beboere.
+
+## Kap. IV. Om beboernes rettigheter
+
+### § 4-1.
+
+Ved utformingen av bygningen(e) skal det tas nødvendig hensyn til funksjonshemninger og behandling-, pleie- og assistansebehov hos beboerne. Bygninger over en etasje skal ha heis.
+
+Sengerommene skal som hovedregel være enerom. Det kan innredes to-sengsrom for ektefeller og andre som ønsker å bo sammen. Sengerommene skal ha en størrelse og utforming som forenkler stellet av sengeliggende pasienter. Rommene bør ha uttak for telefon. Det skal være et WC-rom i tilknytning til hvert sengerom.
+
+Grupper av sengerom bør ha egne spise- og oppholdsarealer samt kokemuligheter som kan benyttes av beboerne.
+
+### § 4-2.
+
+Boformen skal ha:
+
+a. nødvendige rom tilrettelagt for å ivareta beboernes hygiene
+b. tilfredsstillende kjøkken- og vaskerifunksjoner
+c. funksjonell møblering og belysning.
+
+### § 4-3.
+
+Beboerne skal kunne medbringe egne møbler og private gjenstander ved permanent opphold.
+
+### § 4-4.
+
+Beboerne skal ha adgang til å dyrke sine interesser og forme sin tilværelse som de ønsker i den utstrekning det er forenlig med den medisinske behandling, drift av boformen og av hensynet til andre beboere.
+
+### § 4-5.
+
+Beboerne skal fritt kunne motta besøk.
+
+### § 4-6.
+
+Beboerne skal ha frihet til å leve i samsvar med sitt livssyn.
+
+### § 4-7.
+
+Skjermet enhet for senil demente kan etableres for grupper fra 4-12 beboere. Før innflytting i enheten skal beboer være grundig undersøkt og diagnosen langtkommet senil demens må være fastslått.
+
+Beboere fra slik enhet skal ha adgang til felles goder/aktiviteter og sikres samme areal til disposisjon som andre beboere.
+
+### § 4-8.
+
+Selvstendig boenhet for barn/ungdom skal utformes og utstyres slik at de er tilpasset barns/ungdoms særskilte behov.
+
+Boenheten skal ha tilstrekkelig med leke- og sysselsettingsmateriell. Fellesrommene må utformes slik at det tas hensyn til ulike aldersbehov og oppgaver boenheten skal dekke.
+
+### § 4-9.
+
+Beboerne skal på forhånd orienteres om forslag til endringer av betydning for deres liv og trivsel i boformen, og gis anledning til å uttale seg.
+
+Dersom boformen har barn blant sine beboere, skal også verge eller pårørende på forhånd orienteres om forslag til endringer av betydning for barnets liv og trivsel i boformen, og gis anledning til å uttale seg.
+
+Ledelsen for boformen skal så langt det er mulig ta hensyn til beboerens, vergens eller de pårørendes synspunkter.
+
+*Endret ved [forskrift 21 juni 2013 nr. 708](https://lovdata.no/forskrift/2013-06-21-708) (i kraft 1 juli 2013).*
+
+### § 4-10.
+
+Dersom det er opprettet styre for boformen skal det velges inn en talsrepresentant for beboerne i styret.
+
+Talsrepresentanten velges på et fellesmøte av beboere og pårørende. Stemmerett på dette møtet har beboeren selv eller en pårørende på vegne av beboer.
+
+I de tilfelle hvor det ikke er opprettet eget styre for boformen må en talsrepresentant for beboerne på annen måte sikres mulighet for innflytelse på driften.
+
+### § 4-11.
+
+En beboer kan flytte ut når vedkommende selv ønsker det. For beboer som er senil dement eller som av annen grunn ikke kan ivareta sine egne interesser må ønsket utflytting besluttes i samråd med eventuelle pårørende. Beboer som er inntatt for rehabilitering/avlastning skal normalt skrives ut til fastsatt tid.
+
+Utflytting mot beboerens ønske kan bare finne sted når faglige grunner taler for det og det er ordnet med annet opphold.
+
+## Kap. V. Forskjellige bestemmelser
+
+### § 5-1.
+
+Beboer eller pårørende på vegne av beboer kan klage til statsforvalteren over forhold vedrørende boformens drift som de finner urimelig.
+
+*Endret ved [forskrifter 19 mai 2003 nr. 653](https://lovdata.no/forskrift/2003-05-19-653) (i kraft 1 juli 2003), [16 des 2011 nr. 1396](https://lovdata.no/forskrift/2011-12-16-1396) (i kraft 1 jan 2012), [17 sep 2021 nr. 2821](https://lovdata.no/forskrift/2021-09-17-2821).*
+
+### § 5-2.
+
+Forskriften trer i kraft 1. januar 1989.

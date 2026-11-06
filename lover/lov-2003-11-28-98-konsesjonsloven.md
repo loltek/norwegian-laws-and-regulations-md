@@ -1,0 +1,282 @@
+# Lov om konsesjon ved erverv av fast eiendom mv. (konsesjonsloven)
+
+- **Korttittel:** Konsesjonsloven – konsl
+- **Datokode:** LOV-2003-11-28-98
+- **DokumentID:** NL/lov/2003-11-28-98
+- **Departement:** Landbruks- og matdepartementet
+- **I kraft fra:** 2004-01-01
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** lov 20.06.2025 nr. 107 fra 2026-07-01
+- **Rettsområde:** Landbruk, jakt og skogbruk > Konsesjon
+- **Endrer:** lov 31.05.1974 nr. 19
+- **Siste rettelse:** 2021-07-02 (faglige fotnoter fjernet)
+- **Merknad:** Jf. tidligere lov 31 mai 1974 nr. 19. Tittel endret ved lov 14 juni 2019 nr. 21 (ikr. 1 jan 2021 iflg. res. 28 feb 2020 nr. 200) som endret ved lov 18 des 2020 nr. 149.
+- **Kilde:** <https://lovdata.no/lov/2003-11-28-98>
+
+## Kapittel 1. Formål og virkemidler
+
+### § 1. (lovens formål)
+
+Loven har til formål å regulere og kontrollere omsetningen av fast eiendom for å oppnå et effektivt vern om landbrukets produksjonsarealer og slike eier- og bruksforhold som er mest gagnlige for samfunnet, bl.a. for å tilgodese:
+
+1. framtidige generasjoners behov.
+2. landbruksnæringen.
+3. behovet for utbyggingsgrunn.
+4. hensynet til miljøet, allmenne naturverninteresser og friluftsinteresser.
+5. hensynet til bosettingen.
+
+### § 2. (virkemiddel)
+
+Med de unntak som følger av loven, kan fast eiendom ikke erverves uten tillatelse av Kongen (konsesjon). Kongen kan gi forskrift om at myndigheten til å treffe avgjørelse i nærmere bestemte saker tildeles kommunen. Statsforvalteren er klageinstans for vedtak truffet av kommunen etter loven. Når vilkårene for omgjøring etter [forvaltningsloven § 35](lov-1967-02-10-forvaltningsloven.md) er oppfylt, kan vedtaket også omgjøres av departementet.
+
+Loven omfatter ikke erverv
+
+1. som er konsesjonspliktige eller som krever vedtak etter vannfallrettighetsloven,
+2. som er konsesjonspliktige etter [lov 29. juni 1990 nr. 50 kapittel 3](lov-1990-06-29-50-energiloven.md) om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m.,
+3. som har sitt grunnlag i ekspropriasjonstillatelse etter [lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) § 9-1 første ledd bokstav d](lov-2025-06-20-107-mineralloven.md) og [e](lov-2025-06-20-107-mineralloven.md).
+4. som er nødvendig for drift på mineralsk forekomst når erververen sender søknad om driftskonsesjon etter [lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) §§ 6-2](lov-2025-06-20-107-mineralloven.md) og [6-3](lov-2025-06-20-107-mineralloven.md) og driftskonsesjon innvilges.
+
+Kongen kan ved forskrift gjøre unntak fra konsesjonsplikten utover det som følger av [§§ 4](lov-2003-11-28-98-konsesjonsloven.md), [5](lov-2003-11-28-98-konsesjonsloven.md) og [7](lov-2003-11-28-98-konsesjonsloven.md). Når særlige hensyn foreligger, kan Kongen også i det enkelte tilfelle gjøre unntak fra konsesjonsplikt.
+
+*Endret ved lover [19 juni 2009 nr. 101](https://lovdata.no/lov/2009-06-19-101) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 673](https://lovdata.no/forskrift/2009-06-19-673)), [27 jan 2012 nr. 11](https://lovdata.no/lov/2012-01-27-11) (ikr. 16 mars 2012 iflg. [res. 16 mars 2012 nr. 225](https://lovdata.no/forskrift/2012-03-16-225)), [21 juni 2017 nr. 101](https://lovdata.no/lov/2017-06-21-101) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2034](https://lovdata.no/forskrift/2017-12-15-2034)), [6 des 2024 nr. 74](https://lovdata.no/lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](https://lovdata.no/forskrift/2024-12-06-2938)), [20 juni 2025 nr. 107](lov-2025-06-20-107-mineralloven.md) (i kraft 1 juli 2026 iflg. [res. 20. juni 2025 nr. 1108](https://lovdata.no/forskrift/2025-06-20-1108)).*
+
+## Kapittel 2. Disposisjoner som likestilles med erverv av fast eiendom
+
+### § 3. (særlige rettigheter som omfattes av loven)
+
+Lovens regler om konsesjon gjelder også stiftelse og overdragelse av leierett og annen lignende bruksrett over fast eiendom med mindre retten er stiftet for en tid av høyst 10 år, uten adgang for brukeren til å kreve kontraktstiden forlenget ut over dette tidsrom. Det samme gjelder for andre rettigheter over fast eiendom som innebærer at eierens adgang til å rå over eiendommen eller til å få det økonomiske utbyttet av den blir vesentlig innskrenket. Stiftelse og overdragelse av utbyggingskontrakter av enhver art, herunder avtaler om fortrinnsrett til å foreta utbygging, medfører konsesjonsplikt uten hensyn til varighet.
+
+Fast eiendom kan ikke tas til brukelig pant for lengre tid enn 3 år uten konsesjon.
+
+## Kapittel 3. Overdragelser som ikke trenger konsesjon, nedsatt konsesjonsgrense mv.
+
+### § 4. (unntak på grunnlag av eiendommens karakter)
+
+Konsesjon er ikke nødvendig ved erverv av:
+
+1. ubebygde enkelttomter for bolig, fritidshus eller naust, dersom tomten ikke er større enn 2 dekar og er godkjent fradelt etter [plan- og bygningsloven](lov-2008-06-27-71-plan-og-bygningsloven.md) og [jordlova](https://lovdata.no/lov/1995-05-12-23).
+2. ubebygde enkelttomter for bolig eller fritidshus som ligger i et område som i kommuneplanens arealdel eller reguleringsplan etter [plan- og bygningsloven](lov-2008-06-27-71-plan-og-bygningsloven.md) er utlagt til bebyggelse og anlegg, og der tomteinndeling er foretatt eller godkjent av bygningsmyndighetene.
+3. andre ubebygde arealer, dersom de ligger i et område som i reguleringsplan er regulert til annet enn landbruks-, natur- og friluftsformål samt reindrift, eller som i kommuneplanens arealdel er lagt ut til bebyggelse og anlegg.
+4. bebygd eiendom, ikke over 100 dekar, der fulldyrka og overflatedyrka jord ikke er mer enn 35 dekar.
+
+Konsesjonsfriheten etter første ledd nr. 1 og 2 er betinget av at tomten blir bebygd innen fem år.
+
+Konsesjonsfriheten etter første ledd nr. 3 er betinget av at erververen ikke foretar bruksendring i strid med planen.
+
+I områder som er regulert i reguleringsplan, er konsesjonsfriheten etter første ledd nr. 4 betinget av at erververen ikke foretar bruksendring i strid med planen. Det samme gjelder når eiendommen i kommuneplanens arealdel er lagt ut til bebyggelse og anlegg eller til landbruks-, natur- og friluftsformål samt reindrift. Konsesjonsfriheten etter første ledd nr. 4 kan settes ut av kraft ved forskrift etter [§ 7](lov-2003-11-28-98-konsesjonsloven.md) første ledd.
+
+*Endret ved [lover 27 juni 2008 nr. 71](lov-2008-06-27-71-plan-og-bygningsloven.md) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](https://lovdata.no/forskrift/2009-06-12-638)), [19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848), se lovens IX), [21 juni 2017 nr. 99](https://lovdata.no/lov/2017-06-21-99) (ikr. 1 sep 2017 iflg. [res. 21 juni 2017 nr. 829](https://lovdata.no/forskrift/2017-06-21-829), se lovens del V), [6 juni 2025 nr. 27](https://lovdata.no/lov/2025-06-06-27) (i kraft 1 jan 2026 iflg. [res. 6 juni 2025 nr. 942](https://lovdata.no/forskrift/2025-06-06-942), se endringsloven del II for overgangsregler).*
+
+### § 5. (unntak på grunnlag av erververens stilling)
+
+Konsesjon er ikke nødvendig når erververen er:
+
+1. eierens ektefelle, eller er i slekt med eieren eller eierens ektefelle i rett oppstigende eller nedstigende linje eller i eierens eller ektefellens første sidelinje til og med barn av søsken, eller er i svogerskap med eieren i rett oppstigende linje, forutsatt at eieren har sitt konsesjonsforhold i orden. Konsesjonsplikt kan likevel følge av [§ 7](lov-2003-11-28-98-konsesjonsloven.md) andre ledd.
+2. odelsberettiget til eiendommen.
+3. staten.
+4. den fylkeskommune eller kommune der eiendommen ligger, såfremt ervervet gjelder en eiendom i område som omfattes av kommuneplan eller reguleringsplan etter plan- og bygningsloven, og eiendommen i planen er utlagt til annet enn landbruksområde eller ervervet skjer ved ekspropriasjon. Et kommunalt tomteselskap der vedkommende kommune har minst halvparten av kapitalen og flertallet i styret, likestilles med kommunen når det gjelder konsesjonsfrihet etter dette nummer.
+5. bank eller annen institusjon som Kongen har godkjent i denne sammenheng, når ervervet skjer gjennom tvangssalg for å redde en fordring som erververen har panterett for i eiendommen. Eiendommen må selges videre innen to år. Fristen regnes fra stadfestingen av auksjonsbudet og kan forlenges av departementet.
+
+Ved erverv av bebygd eiendom hvor fulldyrka og overflatedyrka jord er mer enn 35 dekar, eller eiendommen består av mer enn 500 dekar produktiv skog, er konsesjonsfriheten etter første ledd nr. 1 og 2 betinget av at erververen bosetter seg på eiendommen innen ett år og selv bebor den i minst 5 år. Som bebygd eiendom regnes her eiendom med bebyggelse som er eller har vært brukt som helårsbolig. Det samme gjelder eiendom med bebyggelse som ikke er tatt i bruk som helårsbolig, herunder eiendom med bebyggelse under oppføring dersom tillatelse til bebyggelse er gitt med sikte på boligformål. Erverver gjenlevende ektefelle eiendom fra sin avdøde ektefelle som eier eller ved uskifte, skal botiden gjenlevende har gjennomført før overtagelsen regnes mot plikttiden.
+
+Første og andre ledd gjelder tilsvarende for samboere i ekteskapslignende forhold. Som samboere etter bestemmelsen her regnes samboere som fyller vilkårene i [arveloven § 2](lov-2019-06-14-21-arveloven.md) tredje ledd.
+
+*Endret ved [lover 27 juni 2008 nr. 71](lov-2008-06-27-71-plan-og-bygningsloven.md) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](https://lovdata.no/forskrift/2009-06-12-638)), [19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848), se lovens del IX), [21 juni 2017 nr. 99](https://lovdata.no/lov/2017-06-21-99) (ikr. 1 sep 2017 iflg. [res. 21 juni 2017 nr. 829](https://lovdata.no/forskrift/2017-06-21-829), se lovens del V), [14 juni 2019 nr. 21](lov-2019-06-14-21-arveloven.md) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](https://lovdata.no/forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](https://lovdata.no/lov/2020-12-18-149).*
+
+### § 6. (bopliktens innhold)
+
+Erverver som etter [§ 5](lov-2003-11-28-98-konsesjonsloven.md) annet ledd har boplikt på en eiendom, skal ta eiendommen som sin reelle bolig. En eiendom er tatt som reell bolig hvis eieren er registrert bosatt på eiendommen etter regler fastsatt i eller i medhold av [lov 9. desember 2016 nr. 88](lov-2016-12-09-88-folkeregisterloven.md) om folkeregistrering.
+
+*Endret ved [lover 19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848), se lovens del IX), [22 juni 2018 nr. 61](https://lovdata.no/lov/2018-06-22-61).*
+
+### § 7. (nedsatt konsesjonsgrense for bebygd eiendom)
+
+For eiendom som omfattes av unntaket i [§ 4](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 2 eller 4, kan Kongen ved forskrift sette konsesjonsfriheten etter [§ 4](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 2 eller 4 og [§ 5](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 1 ut av kraft for:
+
+1. bebygd eiendom som er eller har vært i bruk som helårsbolig,
+2. eiendom med bebyggelse som ikke er tatt i bruk som helårsbolig, herunder eiendom med bebyggelse under oppføring, i områder som i reguleringsplan etter plan- og bygningsloven er regulert til boligformål,
+3. ubebygd tomt som er regulert til boligformål.
+
+Er det ikke fastsatt i forskrift etter første ledd at konsesjonsfriheten etter [§ 5](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 1 er satt ut av kraft, gjelder konsesjonsfriheten for nærstående etter [§ 5](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 1 bare dersom eieren har hatt tinglyst hjemmel til eiendommen de siste 5 årene forut for overdragelsen. Til denne eiertiden regnes også den tid andre som faller inn under [§ 5](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 1 i forhold til erververen har eid eiendommen. Dør eieren før 5-årsfristen er ute, gjelder konsesjonsfriheten etter [§ 5](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 1 fullt ut.
+
+Konsesjonsplikt etter forskrift gitt i medhold av første ledd, gjelder ikke når erververen forplikter seg til at eiendommen skal brukes til helårsbolig i den tiden han eier eiendommen, enten av ham selv eller andre.
+
+En eiendom er i bruk som helårsbolig etter tredje ledd når erververen eller andre har tatt eiendommen i bruk som sin reelle bolig, jf. [§ 6](lov-2003-11-28-98-konsesjonsloven.md).
+
+Fristen for bosetting etter tredje ledd er ett år regnet fra ervervet.
+
+Forskrifter etter første ledd kan bare fastsettes etter anmodning fra kommunen, og så langt det anses nødvendig for å hindre at eiendommer som bør brukes til helårsbolig blir brukt til fritidsformål.
+
+*Endret ved [lov 19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848)).*
+
+### § 8. (forskrift om krav til opplysninger etter §§ 4, 5 og 7)
+
+Departementet kan gi forskrift om hvilke opplysninger som må foreligge for at et erverv kan sies å gå inn under [§§ 4](lov-2003-11-28-98-konsesjonsloven.md), [5](lov-2003-11-28-98-konsesjonsloven.md) og [7](lov-2003-11-28-98-konsesjonsloven.md), og om hva som er fulldyrka og overflatedyrka jord etter [§ 4 første ledd nr. 4](lov-2003-11-28-98-konsesjonsloven.md) og [§ 5 annet ledd](lov-2003-11-28-98-konsesjonsloven.md).
+
+*Endret ved lover [19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848)), [6 juni 2025 nr. 27](https://lovdata.no/lov/2025-06-06-27) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 942](https://lovdata.no/forskrift/2025-06-06-942)).*
+
+## Kapittel 4. Forhold av betydning for om konsesjon skal gis
+
+### § 9. (særlige forhold for landbrukseiendommer)
+
+Ved avgjørelsen av søknad om konsesjon for erverv av eiendom som skal nyttes til landbruksformål skal det legges særlig vekt på:
+
+1. om erververs formål vil ivareta hensynet til bosettingen i området,
+2. om ervervet innebærer en driftsmessig god løsning,
+3. om erververen anses skikket til å drive eiendommen,
+4. om ervervet ivaretar hensynet til helhetlig ressursforvaltning og kulturlandskapet.
+
+Konsesjon skal i alminnelighet ikke gis dersom det ved ervervet oppstår sameie i eiendommen, eller antallet sameiere økes.
+
+Det kan gis konsesjon til selskaper med begrenset ansvar og stiftelser. Det skal legges vekt på hensynet til dem som har yrket sitt i landbruket, og på om eierformen fører til fordeler for landbruksdriften sammenlignet med personlig eierskap.
+
+Første ledd nr. 3 og [§ 9 a](lov-2003-11-28-98-konsesjonsloven.md) gjelder ikke sak der nær slekt eller odelsberettiget søker konsesjon fordi de ikke skal oppfylle boplikten etter [§ 5](lov-2003-11-28-98-konsesjonsloven.md) andre ledd. I slik sak skal det i tillegg til første ledd nr. 1, 2 og 4 blant annet legges vekt på eiendommens størrelse, avkastningsevne og husforhold. Søkerens tilknytning til eiendommen og søkerens livssituasjon kan tillegges vekt som et korrigerende moment.
+
+*Endret ved lover [19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848)), [21 juni 2017 nr. 99](https://lovdata.no/lov/2017-06-21-99) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 829](https://lovdata.no/forskrift/2017-06-21-829), se lovens del V nr. 2), [6 juni 2025 nr. 27](https://lovdata.no/lov/2025-06-06-27) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 942](https://lovdata.no/forskrift/2025-06-06-942), se endringsloven del II for overgangsregel).*
+
+### § 9 a. (priskontroll ved erverv av landbrukseiendom)
+
+Ved avgjørelse av en søknad om konsesjon på erverv av eiendom som skal nyttes til landbruksformål, skal det, i tillegg til momentene som er nevnt i [§ 9](lov-2003-11-28-98-konsesjonsloven.md), legges særlig vekt på om den avtalte prisen tilgodeser en samfunnsmessig forsvarlig prisutvikling. For bebygd eiendom gjelder første punktum bare dersom eiendommen har mer enn 35 dekar fulldyrka og overflatedyrka jord, eller dersom den består av mer enn 500 dekar produktiv skog.
+
+Eieren av en eiendom som er omfattet av priskontroll etter første ledd, kan kreve en bindende forhåndsuttalelse fra konsesjonsmyndigheten om hvor høy pris som kan godtas.
+
+Departementet kan gi forskrift om at prisvurderingen etter første ledd skal unnlates ved erverv av bebygd eiendom med et brukbart bolighus, dersom den avtalte prisen ikke overstiger en fastsatt beløpsgrense.
+
+*Tilføyd ved lov [21 juni 2017 nr. 99](https://lovdata.no/lov/2017-06-21-99) (ikr. 1 juli 2017 for første ledd, 1 sep 2017 for annet ledd, se lovens del V, begge iflg. [res. 21 juni 2017 nr. 829](https://lovdata.no/forskrift/2017-06-21-829)), endret ved lov [6 juni 2025 nr. 27](https://lovdata.no/lov/2025-06-06-27) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 942](https://lovdata.no/forskrift/2025-06-06-942), se endringsloven del II for overgangsregel).*
+
+### § 10. (særlige forhold ved avgjørelser av saker etter forskrift om nedsatt konsesjonsgrense)
+
+Departementet skal gi konsesjon når hensynet til bosettingen på eiendommen og i området ikke gjør det nødvendig å hindre at eiendommen blir brukt til fritidsformål. Ved denne avgjørelsen kan det blant annet legges vekt på eiendommens beliggenhet, herunder om det området der eiendommen ligger i har karakter av å være et utpreget fritidsområde, bebyggelsens art og standard, hvor lang tid det er gått siden eiendommen er brukt som helårsbolig, hvor lang tid den ble brukt som helårsbolig, og om det er påregnelig at andre vil kjøpe eiendommen for å bruke den til helårsbolig.
+
+Konsesjon skal også gis dersom departementet finner det godtgjort at eiendommen bare kan avhendes som helårsbolig til en pris som er vesentlig lavere enn prisnivået for tilsvarende helårsboliger i området.
+
+*Endret ved lov [6 juni 2025 nr. 27](https://lovdata.no/lov/2025-06-06-27) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 942](https://lovdata.no/forskrift/2025-06-06-942)).*
+
+### § 11. (vilkår for konsesjon)
+
+Konsesjon etter loven kan gis på slike vilkår som i hvert enkelt tilfelle finnes påkrevd av hensyn til de formål loven skal fremme. Det kan lempes på vilkårene etter søknad.
+
+Kongen skal ut fra hensynet til bosetting, helhetlig ressursforvaltning og kulturlandskap ta stilling til om det er påkrevd å stille vilkår om boplikt, og om boplikten skal være en personlig plikt for eier.
+
+*Endret ved [lov 19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848)).*
+
+## Kapittel 5. Saksbehandlingen
+
+### § 12. (søknad om konsesjon)
+
+Søknader om konsesjon etter loven skal sendes til den kommunen der eiendommen ligger. Søknaden skal være i samsvar med skjema fastsatt av departementet. Søknaden skal opplyse om erververen, den eiendommen det gjelder og om formålet med og alle vilkårene for ervervet. Gjelder det arv, gave eller gavesalg, skal eiendommens eller rettighetens verdi oppgis. Kopier av hjemmelsdokument (skjøte), kontrakt og takst skal vedlegges hvis slike dokumenter foreligger. Det må gjøres rede for forhold som kan ha betydning for spørsmålet om konsesjon. Eieren og brukeren må finne seg i at det blir holdt befaring, oppmåling, kartlegging og bonitering av eiendom og bebyggelse.
+
+Kongen kan gi nærmere regler om hvilke opplysninger og dokumenter som skal følge med en søknad om konsesjon, og om at søknaden skal skrives på særskilt skjema.
+
+*Endret ved lov [6 juni 2025 nr. 27](https://lovdata.no/lov/2025-06-06-27) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 942](https://lovdata.no/forskrift/2025-06-06-942), se endringsloven del II for overgangsregel).*
+
+### § 13. (frist for søknad om konsesjon)
+
+Søknad etter [§ 12](lov-2003-11-28-98-konsesjonsloven.md) skal sendes til ordføreren innen fire uker etter at avtalen om overdragelsen ble gjort eller erververen fikk rådighet over eiendommen. Ved tvangssalg regnes fristen fra stadfestelsen av budet. Namsretten skal sende melding til departementet når den stadfester et bud fra en kjøper som trenger konsesjon til ervervet.
+
+Overholdes ikke reglene i første ledd, skal Kongen sette en frist for erververen til å søke om konsesjon.
+
+Kongen kan sette en frist for erververen til å søke konsesjon dersom:
+
+1. tidsgrensen for tvangsbruk etter [§ 3](lov-2003-11-28-98-konsesjonsloven.md) annet ledd overskrides.
+2. erververen unnlater å bygge innen 5 år i strid med [§ 4](lov-2003-11-28-98-konsesjonsloven.md) annet ledd.
+3. erververen foretar bruksendring i strid med plan i henhold til [§ 4](lov-2003-11-28-98-konsesjonsloven.md) tredje eller fjerde ledd.
+4. erverver som nevnt i [§ 5](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 1 eller 2 ikke overholder boplikten etter [§ 5](lov-2003-11-28-98-konsesjonsloven.md) annet ledd.
+5. erverver som nevnt i [§ 5](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 5 ikke overholder fristen for videresalg.
+6. kravet til bosetting etter [§ 7](lov-2003-11-28-98-konsesjonsloven.md) tredje ledd jf. [§ 6](lov-2003-11-28-98-konsesjonsloven.md) ikke overholdes.
+
+Oversittes fristen for å søke konsesjon kommer [§ 19](lov-2003-11-28-98-konsesjonsloven.md) tilsvarende til anvendelse.
+
+*Endret ved [lov 19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848)).*
+
+### § 14. (forskrift om saksbehandlingen)
+
+Kongen kan gi nærmere forskrifter som supplerer saksbehandlingsreglene i forvaltningsloven og loven her, herunder om at den ordinære saksgang skal fravikes for visse typer saker.
+
+*Endret ved [lover 6 juni 2008 nr. 39](https://lovdata.no/lov/2008-06-06-39) (ikr. 1 juli 2008 iflg. [res. 6 juni 2008 nr. 544](https://lovdata.no/forskrift/2008-06-06-544)), [19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848), se lovens del IX).*
+
+## Kapittel 6. Forskjellige bestemmelser
+
+### § 15. (konsesjon er et vilkår for tinglysing og matrikkelføring)
+
+Erverv som krever konsesjon etter denne loven, kan ikke tinglyses eller matrikkelføres med mindre konsesjon er gitt.
+
+*Endret ved [lov 17 juni 2005 nr. 101](https://lovdata.no/lov/2005-06-17-101) (ikr. 1 jan 2010 iflg. [res. 5 juni 2009 nr. 600](https://lovdata.no/forskrift/2009-06-05-600)).*
+
+### § 15 a. (konsesjonsrisiko)
+
+Er en søknad om konsesjon avslått, og avslaget helt eller delvis er begrunnet i at den avtalte prisen er for høy, kan avtalen om overdragelse ikke gjøres gjeldende mellom partene eller overfor offentlige myndigheter. Det samme gjelder når erververen er et selvstendig rettssubjekt som nevnt i [§ 9 tredje ledd første punktum](lov-2003-11-28-98-konsesjonsloven.md), og avslaget helt eller delvis er begrunnet i eierformen.
+
+*Tilføyd ved lov [6 juni 2025 nr. 27](https://lovdata.no/lov/2025-06-06-27) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 942](https://lovdata.no/forskrift/2025-06-06-942), se endringsloven del II for overgangsregel).*
+
+### § 16. (overtredelse av konsesjonsvilkår)
+
+For overtredelse av vilkår som er satt for konsesjon i henhold til denne loven, kan Kongen fastsette en tvangsmulkt som påløper inntil forholdet er bragt i orden, eller som forfaller for hver overtredelse. Pålegg om mulkt er tvangsgrunnlag for utlegg.
+
+Dersom en konsesjon er gitt på grunnlag av uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning, eller erververen overtrer fastsatte vilkår av vesentlig betydning, kan konsesjonen trekkes tilbake.
+
+Blir konsesjonen trukket tilbake, skal det fastsettes en frist for innehaveren til å sørge for at eiendommen blir overdratt til noen som lovlig kan erverve den. Oversittes fristen, får [§ 19](lov-2003-11-28-98-konsesjonsloven.md) tilsvarende anvendelse.
+
+### § 17. (kontroll med at vilkår overholdes m.m.)
+
+Kommunen og statsforvalteren skal føre kontroll med at vilkår som er satt for konsesjon, blir overholdt. Kommunen skal straks melde fra til statsforvalteren om forhold som nevnt i [§ 16](lov-2003-11-28-98-konsesjonsloven.md) annet ledd. Det samme gjelder dersom kommunen får kjennskap til erverv som mangler nødvendig konsesjon etter denne loven.
+
+Kongen kan bestemme at andre sakkyndige organer skal utføre gjøremålene etter denne paragrafen istedenfor eller i tillegg til statsforvalteren eller kommunen.
+
+*Endret ved [lov 19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848)), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+### § 17 a. (forholdet til folkeregisterloven)
+
+Kommunen og statsforvalteren kan uten hinder av taushetsplikt innhente opplysninger fra folkeregistermyndigheten som er nødvendige for å utføre oppgaver etter denne loven eller oppgaver som er fastsatt i medhold av loven.
+
+For å sikre en effektiv håndhevelse av boplikten kan Kongen gi forskrift om samarbeidet mellom kommunen, statsforvalteren og folkeregistermyndigheten.
+
+*Tilføyd ved lov [6 juni 2025 nr. 27](https://lovdata.no/lov/2025-06-06-27) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 942](https://lovdata.no/forskrift/2025-06-06-942)).*
+
+### § 18. (frist til å ordne forholdet når konsesjon ikke er gitt)
+
+Er søknad om konsesjon ikke innsendt innen den fristen som er satt i medhold av [§ 13](lov-2003-11-28-98-konsesjonsloven.md) annet eller tredje ledd, eller er søknaden avslått, skal Kongen sette en frist for panthaver til å bringe tvangsbruk som strider mot [§ 3](lov-2003-11-28-98-konsesjonsloven.md) annet ledd til opphør eller sette en frist for erververen til å sørge for enten at overdragelsen blir omgjort eller at eiendommen blir overdratt til noen som kan få konsesjon eller som ikke trenger konsesjon. Er konsesjon avslått fordi erververen ikke skal oppfylle vilkåret om boplikt etter [§ 5](lov-2003-11-28-98-konsesjonsloven.md) annet ledd, skal erververen uten hensyn til det som er fastsatt i første punktum, få velge om han eller hun likevel vil oppfylle boplikten.
+
+*Endret ved [lov 19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848)).*
+
+### § 19. (oversittelse av fastsatt frist)
+
+Oversittes en frist som er fastsatt etter [§ 18](lov-2003-11-28-98-konsesjonsloven.md) for avvikling av eiendomserverv eller panthavers tvangsbruk, kan departementet uten varsel la eiendommen selge gjennom namsmyndighetene etter reglene om tvangssalg så langt de passer. Bestemmelsene i [tvangsfullbyrdelsesloven § 11-20](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md) om det minste bud som kan stadfestes, gjelder ikke i slike tilfeller.
+
+Oversittes en frist som er fastsatt etter [§ 18](lov-2003-11-28-98-konsesjonsloven.md) når det gjelder rettigheter som nevnt i [§ 3](lov-2003-11-28-98-konsesjonsloven.md) første ledd, kan departementet enten la rettigheten tvangsselge etter reglene i første ledd eller med bindende virkning erklære rettigheten for bortfalt.
+
+*Endret ved [lov 19 juni 2009 nr. 98](https://lovdata.no/lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](https://lovdata.no/forskrift/2009-06-26-848)).*
+
+### § 20. (forbud mot forringelse av eiendommen)
+
+Er et erverv av en fast eiendom betinget av konsesjon etter denne loven, må det inntil forholdet er bragt i orden ikke foretas hugst eller noe som forringer eiendommens verdi. Departementet kan i konkrete tilfeller gjøre unntak fra dette.
+
+Overtredelse av forbudet i første ledd straffes med bøter. Det som er avvirket eller på annen måte fraskilt eiendommen i strid med forbudet eller verdien av dette, kan inndras hos den skyldige eller den han har handlet på vegne av. Medvirkning straffes ikke.
+
+*Endret ved [lov 19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 21. (ikrafttredelse)
+
+Loven trer i kraft fra den tid Kongen bestemmer.[1]
+
+Fra samme tid oppheves [lov 31. mai 1974 nr. 19](https://lovdata.no/lov/1974-05-31-19) om konsesjon ved erverv av fast eiendom (konsesjonsloven).
+
+### § 22. (overgangsbestemmelser)
+
+Forskrifter fastsatt med hjemmel i [lov 31. mai 1974 nr. 19 § 5](https://lovdata.no/lov/1974-05-31-19/§5) tredje ledd skal gjelde til de blir endret eller opphevet. Forskriftene skal forstås i samsvar med de nye reglene i [§ 7](lov-2003-11-28-98-konsesjonsloven.md) i denne loven, jf. [§ 4](https://lovdata.no/lov/1974-05-31-19/§4) første ledd nr. 4.
+
+Dersom konsesjonssaken ikke er endelig avgjort når loven trer i kraft, skal unntakene fra konsesjonsplikt på grunnlag av eiendommens karakter og erververens stilling i [§§ 4](lov-2003-11-28-98-konsesjonsloven.md) og [5](lov-2003-11-28-98-konsesjonsloven.md) gjelde selv om ervervet av eiendommen er skjedd før loven trådte i kraft.
+
+Dersom konsesjonssaken ikke er endelig avgjort når loven trer i kraft, skal erverv av aksjer eller parter i selskap med begrenset ansvar som omfattes av bestemmelsen om konsesjonsplikt etter tidligere konsesjonslov [§ 4](lov-2003-11-28-98-konsesjonsloven.md), følge de nye bestemmelsene selv om ervervet av eiendommen er skjedd før loven trådte i kraft.
+
+Konsesjonssaken anses som endelig avgjort i forhold til annet og tredje ledd dersom klage ikke er mottatt innen klagefristens utløp, eller dersom forvaltningen har fattet avgjørelse i klagesaken.
+
+Ved lovbestemt bo- og driveplikt som har oppstått etter tidligere konsesjonslov [§ 6](lov-2003-11-28-98-konsesjonsloven.md) første ledd nr. 1, får den nye bestemmelsen i [§ 5](lov-2003-11-28-98-konsesjonsloven.md) annet ledd anvendelse selv om eiendommen er ervervet før loven trådte i kraft.
+
+### § 23. (endringer i andre lover)
+
+– – –
+
+## Fotnoter
+
+**1.** Fra 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1400](https://lovdata.no/forskrift/2003-11-28-1400).

@@ -1,0 +1,628 @@
+# Lov om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)
+
+- **Korttittel:** Spesialisthelsetjenesteloven – sphl
+- **Datokode:** LOV-1999-07-02-61
+- **DokumentID:** NL/lov/1999-07-02-61
+- **Departement:** Helse- og omsorgsdepartementet
+- **I kraft fra:** 2001-01-01, 2001-07-01
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** lov 19.06.2026 nr. 42 fra 2026-07-01
+- **Rettsområde:** Helse- og omsorgsrett > Helseforetak; Helse- og omsorgsrett > Helsepersonell; Helse- og omsorgsrett > Kommunehelsetjeneste
+- **Siste rettelse:** 2022-03-31 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Lovens tittel endret ved lov 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583). – Se lov 15 juni 2001 nr. 93 (helseforetak). – Se tidligere lover 19 juni 1969 nr. 57 og 28 apr 1961 nr. 2 kap. I og V.
+- **Kilde:** <https://lovdata.no/lov/1999-07-02-61>
+
+## Kapittel 1. Formål og virkeområde
+
+### § 1-1. Lovens formål
+
+Lovens formål er særlig å:
+
+1. fremme folkehelsen og å motvirke sykdom, skade, lidelse og funksjonshemning,
+2. bidra til å sikre tjenestetilbudets kvalitet,
+3. bidra til et likeverdig tjenestetilbud,
+4. bidra til at ressursene utnyttes best mulig,
+5. bidra til at tjenestetilbudet blir tilpasset pasientenes behov, og
+6. bidra til at tjenestetilbudet blir tilgjengelig for pasientene.
+
+### § 1-2. Lovens virkeområde
+
+Loven gjelder for spesialisthelsetjenester som tilbys eller ytes i riket av staten og private, når ikke annet følger av de enkelte bestemmelser i loven.
+
+Departementet kan ved forskrift eller i det enkelte tilfelle bestemme hva som er spesialisthelsetjeneste.
+
+Kongen gir forskrifter om lovens anvendelse på Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold. Kongen kan bestemme om og i hvilken utstrekning bestemmelser som er gitt i denne lov skal gjelde på norske skip i utenriksfart, i norske sivile luftfartøyer i internasjonal trafikk, og på installasjoner og fartøy i arbeid på norsk kontinentalsokkel.
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)).*
+
+### § 1-3. Folkerettslige forpliktelser om trygdekoordinering
+
+Kongen kan i forskrift gjennomføre bilaterale avtaler med andre land om trygdekoordinering.
+
+Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den utstrekning det er nødvendig for å overholde forpliktelser som følger av [EØS-avtalens](lov-1992-11-27-109-eos-loven.md) hoveddel, bilaterale avtaler som nevnt i første ledd og forordninger og avtaler som nevnt i [folketrygdloven §§ 1-3 a](lov-1997-02-28-19-folketrygdloven.md) og [1-3 b](lov-1997-02-28-19-folketrygdloven.md).
+
+*Tilføyd ved lov [25 nov 2022 nr. 86](https://lovdata.no/lov/2022-11-25-86) (i kraft 25 nov 2022 iflg. [res. 25 nov 2022 nr. 2013](https://lovdata.no/forskrift/2022-11-25-2013)).*
+
+## Kapittel 2. Ansvarsfordeling og generelle oppgaver
+
+### § 2-1. Statens ansvar for spesialisthelsetjenester
+
+Staten har det overordnede ansvar for at befolkningen gis nødvendig spesialisthelsetjeneste.
+
+*Tilføyd ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)).*
+
+### § 2-1 a. De regionale helseforetakenes ansvar for spesialisthelsetjenester
+
+Det regionale helseforetaket skal sørge for at personer med fast bopel eller oppholdssted innen helseregionen tilbys spesialisthelsetjeneste i og utenfor institusjon, herunder
+
+1. sykehustjenester,
+2. medisinske laboratorietjenester og radiologiske tjenester,
+3. akuttmedisinsk beredskap,
+4. medisinsk nødmeldetjeneste, luftambulansetjeneste og ambulansetjeneste med bil og eventuelt med båt,
+5. tverrfaglig spesialisert behandling for rusmiddelavhengighet, herunder institusjonsplasser som kan ta imot rusmiddelavhengige med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) til [10-4](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md),
+6. transport til undersøkelse eller behandling i helse- og omsorgstjenesten og
+7. transport av behandlingspersonell.
+
+Det regionale helseforetaket skal innrette sitt tjenestetilbud i tråd med følgende prioriteringskriterier:
+
+a. nytten av tiltak i pasientbehandling,
+b. ressursbruk som tiltak legger beslag på og
+c. alvorlighetsgraden av de tilstander som skal behandles.
+
+Det regionale helseforetaket skal sørge for at helseinstitusjoner som det eier, eller som mottar tilskudd fra de regionale helseforetakene til sin virksomhet, bidrar til å fremme folkehelsen og forebygge sykdom og skade, og innretter sitt tjenestetilbud i samsvar med vilkårene i andre ledd.
+
+De regionale helseforetakenes ansvar etter første ledd innebærer en plikt til å planlegge, gjennomføre, evaluere og korrigere virksomheten slik at tjenestenes omfang og innhold er i samsvar med krav fastsatt i lov eller forskrift. Kongen kan gi forskrifter med nærmere bestemmelser om pliktens innhold.
+
+De regionale helseforetakene skal peke ut institusjoner i det enkelte helseforetak som kan ta imot rusmiddelavhengige med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) til [10-4](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md).
+
+Det regionale helseforetaket plikter å yte hjelp ved ulykker og andre akutte situasjoner i helseregionen.
+
+Tjenester som nevnt i første ledd kan ytes av de regionale helseforetakene selv, eller ved at de inngår avtale med andre tjenesteytere.
+
+Departementet kan ved forskrift gi nærmere bestemmelser om krav til tjenester som omfattes av denne loven.
+
+*Endret ved lover [23 juni 2000 nr. 56](lov-2000-06-23-56-helseberedskapsloven.md) (ikr. 1 juli 2001 iflg. [res. 22 juni 2001 nr. 698](https://lovdata.no/forskrift/2001-06-22-698)), [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-1), [28 nov 2003 nr. 96](https://lovdata.no/lov/2003-11-28-96) (ikr. 1 jan 2004), [28 nov 2003 nr. 99](https://lovdata.no/lov/2003-11-28-99) (ikr. 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](https://lovdata.no/forskrift/2003-11-28-1403)), [25 juni 2004 nr. 46](https://lovdata.no/lov/2004-06-25-46), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [20 des 2019 nr. 103](lov-2019-12-20-103-endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven.md) (ikr. 1 jan 2020 iflg. [res. 20 des 2019 nr. 1933](https://lovdata.no/forskrift/2019-12-20-1933)).*
+
+### § 2-1b. Beredskapsplan
+
+Det regionale helseforetaket skal utarbeide beredskapsplan etter [lov 23. juni 2000 nr. 56](lov-2000-06-23-56-helseberedskapsloven.md) om helsemessig og sosial beredskap for institusjoner og tjenester som det regionale helseforetaket skal sørge for, jf. [§ 2-1a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) i denne lov. Beredskapsplanen skal samordnes med kommunenes, fylkeskommunenes og de andre regionale helseforetakenes beredskapsplaner.
+
+*Tilføyd ved lov [23 juni 2000 nr. 56](lov-2000-06-23-56-helseberedskapsloven.md) (ikr. 1 juli 2001 iflg. [res. 22 juni 2001 nr. 698](https://lovdata.no/forskrift/2001-06-22-698)), endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-1a).*
+
+### § 2-1c. Bistand ved ulykker og andre akutte situasjoner
+
+Dersom forholdene tilsier det, skal helsetjenesten til det regionale helseforetaket yte bistand til andre regionale helseforetak ved ulykker og andre akutte situasjoner. Anmodning om bistand fremmes av det regionale helseforetaket som har bistandsbehovet.
+
+Det regionale helseforetaket som mottar bistand etter første ledd, skal yte kompensasjon for utgifter som pådras til det regionale helseforetaket som bidrar med hjelp, med mindre noe annet er avtalt.
+
+*Tilføyd ved lov [23 juni 2000 nr. 56](lov-2000-06-23-56-helseberedskapsloven.md) (ikr. 1 juli 2001 iflg. [res. 22 juni 2001 nr. 698](https://lovdata.no/forskrift/2001-06-22-698)), endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-1b).*
+
+### § 2-1d. Det regionale helseforetakets adgang til å disponere helsepersonell i enkelte akutte situasjoner
+
+Ved ulykker og andre akutte situasjoner som forårsaker ekstraordinær pågang av pasienter, kan det regionale helseforetaket pålegge helsepersonell som tjenestegjør i det regionale helseforetaket og institusjoner som det regionale helseforetaket eier, å utføre nærmere tilvist arbeid.
+
+Departementet kan pålegge lege å delta i lokal redningssentral.
+
+*Tilføyd ved lov [23 juni 2000 nr. 56](lov-2000-06-23-56-helseberedskapsloven.md) (ikr. 1 juli 2001 iflg. [res. 22 juni 2001 nr. 698](https://lovdata.no/forskrift/2001-06-22-698)), endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-1c).*
+
+### § 2-1 e. Samarbeid
+
+Det regionale helseforetaket skal sørge for at virksomheter som yter spesialisthelsetjenester som nevnt i [§ 2-1 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md), samarbeider med andre tjenesteytere dersom samarbeid er nødvendig for å gi pasienten et helhetlig og samordnet tjenestetilbud, og samarbeider med barnekoordinator dersom dette er oppnevnt etter [helse- og omsorgstjenesteloven § 7-2 a](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md).
+
+Det regionale helseforetaket skal, i tillegg til å følge opp enkelte pasienter, sørge for nødvendig samarbeid mellom ulike helseforetak innad i det regionale helseforetaket, med andre regionale helseforetak og andre tjenesteytere, slik at helseforetaket og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift.
+
+Med tjenesteytere etter første og andre ledd menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som yter tjenester på vegne av slike tjenesteytere, barnehager som får tilskudd etter [barnehageloven § 19](lov-2005-06-17-64-barnehageloven.md) og skoler som får statstilskudd etter [privatskolelova § 6-1](https://lovdata.no/lov/2003-07-04-84/§6-1).
+
+De regionale helseforetakene skal sørge for at det inngås samarbeidsavtaler som nevnt i [helse- og omsorgstjenesteloven § 6-1](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md). Det regionale helseforetaket kan beslutte at ett eller flere av helseforetakene det eier, skal inngå og være part i slike avtaler.
+
+*Tilføyd ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), endret ved lov [11 juni 2021 nr. 78](https://lovdata.no/lov/2021-06-11-78) som endret ved lov [10 juni 2022 nr. 39](https://lovdata.no/lov/2022-06-10-39) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](https://lovdata.no/forskrift/2022-05-20-871)).*
+
+### § 2-1 f. De regionale helseforetakenes ansvar for å forebygge, avdekke og avverge vold og seksuelle overgrep
+
+De regionale helseforetakene skal ha særlig oppmerksomhet rettet mot at pasienter kan være utsatt for, eller kan stå i fare for å bli utsatt for, vold eller seksuelle overgrep. De regionale helseforetakene skal legge til rette for at spesialisthelsetjenesten blir i stand til å forebygge, avdekke og avverge vold og seksuelle overgrep.
+
+*Tilføyd ved lov [16 juni 2017 nr. 55](https://lovdata.no/lov/2017-06-16-55) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 777](https://lovdata.no/forskrift/2017-06-16-777)).*
+
+### § 2-2. Plikt til forsvarlighet
+
+Helsetjenester som tilbys eller ytes i henhold til denne loven skal være forsvarlige. Spesialisthelsetjenesten skal tilrettelegge sine tjenester slik at personell som utfører tjenestene, blir i stand til å overholde sine lovpålagte plikter, og slik at den enkelte pasient eller bruker gis et helhetlig og koordinert tjenestetilbud.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-3), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 2-3. Departementets bestemmelser om nasjonale tjenester i spesialisthelsetjenesten og markedsføring av spesialisthelsetjenester
+
+Departementet kan ved forskrift eller i det enkelte tilfelle gi bestemmelser om:
+
+1. nasjonale tjenester i spesialisthelsetjenesten og
+2. markedsføring av tjenester som omfattes av denne loven, herunder forbud mot visse former for markedsføring.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-4), [4 mai 2012 nr. 23](https://lovdata.no/lov/2012-05-04-23).*
+
+### § 2-4. Ventelisteregistrering
+
+Departementet kan gi forskrifter om
+
+1. føring av ventelister over pasienter som søker og har behov for helsehjelp som omfattes av denne loven,
+2. ansvar for å skaffe registrerte pasienter innenfor visse prioriterte pasientgrupper helsehjelp på offentlig institusjon, samt pasienters rett til selv å skaffe slik helsehjelp, og
+3. plikt for regionale helseforetak til å rapportere aktivitetstall for de virksomhetene de eier og de private helsetjenestene de har avtaler med.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-5), [12 des 2003 nr. 110](https://lovdata.no/lov/2003-12-12-110) (ikr. 1 sep 2004 iflg. [res. 19 mars 2004 nr. 540](https://lovdata.no/forskrift/2004-03-19-540)).*
+
+### § 2-4 a. Klinisk etikkomité
+
+Helseforetaket skal opprette en klinisk etikkomité. Andre virksomheter som omfattes av denne loven, kan opprette en klinisk etikkomité.
+
+Den kliniske etikkomiteen skal bidra til å øke helsepersonellets kompetanse i å identifisere, analysere og avklare etiske verdispørsmål i forbindelse med pasientbehandling og ved prioritering av ressurser. På forespørsel fra helsepersonell eller pasienter skal den kliniske etikkomiteen bistå med råd om hvordan konkrete etiske utfordringer ved behandlingen av den enkelte pasient kan løses. Pasientens nærmeste pårørende kan også be om bistand fra den kliniske etikkomiteen dersom dette antas å være i samsvar med pasientens ønske.
+
+Den kliniske etikkomiteen skal være tverrfaglig sammensatt og ha medisinsk og helsefaglig kompetanse. Den kliniske etikkomiteen skal også ha brukerrepresentant. Komiteen skal så langt det er mulig, ha kompetanse i medisinsk etikk og helserett.
+
+Den kliniske etikkomiteen skal utføre sine oppgaver uavhengig og selvstendig.
+
+*Tilføyd ved lov [7 mai 2021 nr. 31](https://lovdata.no/lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](https://lovdata.no/forskrift/2021-05-07-1444)).*
+
+### § 2-5. Individuell plan
+
+Helseforetaket skal utarbeide en individuell plan for pasienter med behov for langvarige og koordinerte tilbud. Helseforetaket skal samarbeide med andre tjenesteytere om planen for å bidra til et helhetlig tilbud for pasientene.
+
+Dersom en pasient har behov for tjenester både etter loven her og etter helse- og omsorgstjenesteloven, skal kommunen sørge for at arbeidet med planen settes i gang og koordineres. Helseforetaket skal så snart som mulig varsle kommunen når det ser at det er behov for en individuell plan som omfatter tjenester både fra spesialisthelsetjenesten og kommunen, og skal i slike tilfeller medvirke i kommunens arbeid med individuell plan.
+
+Kongen i statsråd kan i forskrift gi nærmere bestemmelser om hvilke pasientgrupper plikten omfatter etter første ledd, og om innholdet i individuelle planer.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-6), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [11 juni 2021 nr. 78](https://lovdata.no/lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](https://lovdata.no/forskrift/2022-05-20-871)).*
+
+### § 2-5 a. Koordinator
+
+For pasienter med behov for komplekse eller langvarige og koordinerte tjenester etter loven her, skal det oppnevnes koordinator. Koordinatoren skal sørge for nødvendig oppfølging av den enkelte pasient, sikre samordning av tjenestetilbudet i forbindelse med institusjonsopphold og overfor andre tjenesteytere samt sikre fremdrift i arbeidet med individuell plan.
+
+Koordinatoren skal samarbeide med barnekoordinator dersom dette er oppnevnt etter [helse- og omsorgstjenesteloven § 7-2 a](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md).
+
+Koordinatoren skal være helsepersonell.
+
+Departementet kan i forskrift gi nærmere bestemmelser om hvilke oppgaver koordinatoren skal ha.
+
+*Tilføyd ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), endret ved lover [11 des 2015 nr. 97](https://lovdata.no/lov/2015-12-11-97) (ikr. 15 sep 2016 iflg. [res. 17 juni 2016 nr. 727](https://lovdata.no/forskrift/2016-06-17-727)), [11 juni 2021 nr. 78](https://lovdata.no/lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](https://lovdata.no/forskrift/2022-05-20-871)).*
+
+### § 2-5 b. Koordinerende enhet
+
+Helseforetaket skal ha en koordinerende enhet som skal ha en generell oversikt over habiliterings- og rehabiliteringstiltak i helseregionen. Enheten skal ha oversikt over, og nødvendig kontakt med, habiliterings- og rehabiliteringsvirksomheten i kommunen. I tillegg skal enheten ha overordnet ansvar for arbeidet med individuell plan og for oppnevning, opplæring og veiledning av koordinator, jf. [§§ 2-5](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) og [2-5 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md).
+
+Departementet kan gi forskrift med nærmere bestemmelser om hvilket ansvar den koordinerende enheten skal ha.
+
+*Tilføyd ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 2-5 c. Kontaktlege
+
+Helseinstitusjon som omfattes av denne loven skal oppnevne kontaktlege for pasienter som har alvorlig sykdom, skade eller lidelse, og som har behov for behandling eller oppfølging av spesialisthelsetjenesten av en viss varighet. Kontaktlegen skal være involvert i behandlingen eller oppfølgingen av pasienten.
+
+Helseinstitusjon som omfattes av denne loven, skal peke ut kontaktlege for pasienten så snart som mulig etter at det er vurdert at pasienten har rett til kontaktlege, senest første virkedag etter innleggelse eller poliklinisk undersøkelse. Pasienten skal så snart som mulig få vite hvem som er hans eller hennes kontaktlege, og skal orienteres om hvilket ansvar og hvilke oppgaver kontaktlegen har.
+
+Kontaktlegen skal være pasientens faste medisinskfaglige kontakt. For å sikre kontinuitet i pasientforløpet skal helseinstitusjon som omfattes av denne loven vurdere om kontaktlegen også skal være informasjonsansvarlig etter [helsepersonelloven § 10](lov-1999-07-02-64-helsepersonelloven.md) og journalansvarlig etter [helsepersonelloven § 39](lov-1999-07-02-64-helsepersonelloven.md).
+
+For tjenester i det psykiske helsevernet kan kontaktpsykolog utnevnes i stedet for kontaktlege dersom det er mest hensiktsmessig ut fra den behandling eller oppfølging som skal gis. Det samme gjelder tverrfaglig spesialisert behandling for rusmiddelavhengighet, jf. [§ 2-1 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) første ledd nr. 5.
+
+Departementet kan i forskrift gi nærmere bestemmelser om hvilke pasientgrupper som omfattes og hvilke oppgaver og hvilket ansvar kontaktlegen eller kontaktpsykologen skal ha.
+
+*Tilføyd ved lov [11 des 2015 nr. 97](https://lovdata.no/lov/2015-12-11-97) (ikr. 15 sep 2016 iflg. [res. 17 juni 2016 nr. 727](https://lovdata.no/forskrift/2016-06-17-727)), endret ved lov [16 juni 2017 nr. 55](https://lovdata.no/lov/2017-06-16-55) (ikr. 16 juni 2017 iflg. [res. 16 juni 2017 nr. 777](https://lovdata.no/forskrift/2017-06-16-777)).*
+
+### § 2-5 d. Midlertidige unntak fra plikter
+
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å foreta omstillinger eller prioriteringer for å bidra til å sikre at spesialisthelsetjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:
+
+a. [§ 2-5](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) om individuell plan
+b. [§ 2-5 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) om koordinator
+c. [§ 2-5 c](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) om kontaktlege.
+
+*Tilføyd ved lov [10 juni 2022 nr. 35](https://lovdata.no/lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](https://lovdata.no/forskrift/2022-06-10-994)), oppheva ved lov [10 juni 2022 nr. 35](https://lovdata.no/lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](https://lovdata.no/lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](https://lovdata.no/lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](https://lovdata.no/forskrift/2024-06-25-1212)), opphevet ved lov [25 juni 2024 nr. 53](https://lovdata.no/lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov-2026-06-12-22-midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina.md) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](https://lovdata.no/forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov-2026-06-12-22-midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina.md) (i kraft 1 juli 2028).*
+
+### § 2-6. Utskrivningsklare pasienter
+
+Regionalt helseforetak skal inngå samarbeidsavtale med kommunene om utskrivningsklare pasienter, jf. [§ 2-1 e](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) annet ledd.
+
+Departementet kan i forskrift gi nærmere bestemmelser om ordningens omfang og innhold og kriterier for når en pasient er utskrivningsklar, herunder kriterier for samarbeid mellom kommunen og spesialisthelsetjenesten om utskrivningsklare pasienter, og betalingssatser etter første ledd.
+
+*Tilføyd ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+## Kapittel 3. Særlige plikter og oppgaver
+
+### § 3-1. Øyeblikkelig hjelp
+
+Sykehus og fødestuer skal straks motta pasienter som trenger somatisk helsehjelp, når det etter de foreliggende opplysninger må antas at den hjelp institusjonen eller avdelingen kan gi er påtrengende nødvendig. Institusjonen eller avdelingen skal motta pasientene for undersøkelse og om nødvendig behandling.
+
+Regionale helseforetak skal utpeke det nødvendige antall helseinstitusjoner eller avdelinger i slike institusjoner innen helseregionen med tilsvarende plikt overfor pasienter som trenger psykiatrisk helsehjelp, og pasienter som trenger tverrfaglig spesialisert behandling for rusmiddelmisbruk.
+
+Plikten til å yte øyeblikkelig hjelp etter denne bestemmelsen inntrer ikke dersom institusjonen eller avdelingen vet at nødvendig hjelp vil bli ytet av andre som etter forholdene er nærmere til å yte den i tide.
+
+Arbeidsgiver kan pålegge helsepersonell ansatt i institusjoner nevnt i første og annet ledd, å rykke ut til person som trenger øyeblikkelig hjelp.
+
+Departementet kan gi forskrift om det nærmere innhold i plikten til å yte øyeblikkelig hjelp.
+
+*Endret ved lover [23 juni 2000 nr. 56](lov-2000-06-23-56-helseberedskapsloven.md) (ikr. 1 juli 2001 iflg. [res. 22 juni 2001 nr. 698](https://lovdata.no/forskrift/2001-06-22-698)), [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)), [21 des 2007 nr. 123](https://lovdata.no/lov/2007-12-21-123) (ikr. 1 jan 2008 iflg. [res. 21 des 2007 nr. 1574](https://lovdata.no/forskrift/2007-12-21-1574)).*
+
+### § 3-1 a. (Opphevet)
+
+*Tilføyd ved lov [28 nov 2003 nr. 99](https://lovdata.no/lov/2003-11-28-99) (i kraft 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](https://lovdata.no/forskrift/2003-11-28-1403)), opphevet ved lov [21 des 2007 nr. 123](https://lovdata.no/lov/2007-12-21-123) (ikr. 1 jan 2008 iflg. [res. 21 des 2007 nr. 1574](https://lovdata.no/forskrift/2007-12-21-1574)).*
+
+### § 3-2. (Opphevet)
+
+*Endret ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), opphevet ved lov [23 jan 2026 nr. 1](https://lovdata.no/lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](https://lovdata.no/forskrift/2026-03-13-402)).*
+
+### § 3-2 a. Plikt til bevaring, kassasjon og avlevering av pasientarkiv
+
+Virksomheter i spesialisthelsetjenesten som omfattes av bevarings-, kassasjons- og avleveringsbestemmelsene i [arkivlova kapittel 2](https://lovdata.no/lov/2025-06-20-96/kap2), skal avlevere sitt pasientjournalarkiv til Norsk helsearkiv, jf. [arkivlova § 4 første ledd](https://lovdata.no/lov/2025-06-20-96/§4/ledd/1).
+
+Private virksomheter i spesialisthelsetjenesten plikter å bevare sitt pasientjournalarkiv og avlevere dette til Norsk helsearkiv etter at forskriftsmessig kassasjon er utført.
+
+Taushetsplikt er ikke til hinder for avlevering etter første og andre ledd.
+
+Bevaring, kassasjon og avlevering etter første og andre ledd skal skje i samsvar med bestemmelser gitt i eller i medhold av [arkivlova §§ 12](https://lovdata.no/lov/2025-06-20-96/§12) til [15](https://lovdata.no/lov/2025-06-20-96/§15) og [helseregisterloven § 12](lov-2014-06-20-43-helseregisterloven.md).
+
+*Tilføyd ved lov [22 juni 2012 nr. 47](https://lovdata.no/lov/2012-06-22-47) (ikr. 22 juni 2012 iflg. [res. 22 juni 2012 nr. 578](https://lovdata.no/forskrift/2012-06-22-578)), endret ved lover [22 juni 2018 nr. 76](lov-2018-06-22-76-endringer-i-alkoholloven-mv.md), [20 juni 2025 nr. 96](https://lovdata.no/lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](https://lovdata.no/forskrift/2025-12-12-2510)).*
+
+### § 3-3. (Opphevet)
+
+*Endret ved lover [29 aug 2003 nr. 87](https://lovdata.no/lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](https://lovdata.no/forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 juli 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252), endring endret ved lov [22 juni 2012 nr. 46](https://lovdata.no/lov/2012-06-22-46)), [18 des 2015 nr. 121](https://lovdata.no/lov/2015-12-18-121) (ikr. 1 jan 2016), opphevet ved lov [10 apr 2019 nr. 11](https://lovdata.no/lov/2019-04-10-11) (ikr. 15 mai 2019 iflg. [res. 10 apr 2019 nr. 473](https://lovdata.no/forskrift/2019-04-10-473)).*
+
+### § 3-3 a. Melding og rapport om alvorlige hendelser
+
+Virksomheter som er omfattet av loven her, skal snarest mulig og senest innen fem virkedager sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov-2017-12-15-107-helsetilsynsloven.md) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov-2017-06-16-56-lov-om-statens-undersokelseskommisjon-for-helse-og-omsorgstjenesten.md). Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko. En kopi av meldingen skal sendes til Statens helsetilsyn.
+
+Virksomheten skal i tillegg oversende en rapport om hendelsen til statsforvalteren innen tre måneder etter at melding er sendt. Rapporten skal blant annet inneholde en gjennomgang av hendelsen og mulige årsaker, hvilke tiltak virksomheten vil sette i verk for at lignende hendelser ikke skal skje igjen, og hvordan pasienten, brukeren, nærmeste pårørende og berørt helsepersonell er fulgt opp og involvert i forbedringsarbeidet.
+
+*Tilføyd ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), endret ved lover [16 juni 2017 nr. 56](lov-2017-06-16-56-lov-om-statens-undersokelseskommisjon-for-helse-og-omsorgstjenesten.md) (ikr. 1 mai 2019 iflg. [res. 26 apr 2019 nr. 541](https://lovdata.no/forskrift/2019-04-26-541)), [15 des 2017 nr. 107](lov-2017-12-15-107-helsetilsynsloven.md) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](https://lovdata.no/forskrift/2019-04-26-541)), [7 mai 2021 nr. 31](https://lovdata.no/lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](https://lovdata.no/forskrift/2021-05-07-1444)), [20 juni 2025 nr. 74](https://lovdata.no/lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](https://lovdata.no/forskrift/2026-04-10-675)).*
+
+### § 3-4. Kvalitets- og pasientsikkerhetsutvalg
+
+Helseinstitusjon som omfattes av denne lov, skal opprette kvalitets- og pasientsikkerhetsutvalg som ledd i det systematiske arbeidet institusjonen skal utføre i henhold til [§ 2-1 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) tredje ledd og [§ 3-4 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md).
+
+Utvalgene kan uten hinder av taushetsplikt kreve opplysninger som er nødvendige for utførelse av deres arbeid.
+
+Departementet kan ved forskrift gi nærmere bestemmelser om utvalgenes arbeid, herunder om informasjon til pasienter og om habilitet for utvalgets medlemmer.
+
+*Endret ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 3-4 a. Kvalitetsforbedring og pasientsikkerhet
+
+Enhver som yter helsetjenester etter denne lov, skal sørge for at virksomheten arbeider systematisk for kvalitetsforbedring og pasientsikkerhet.
+
+Departementet kan i forskrift gi nærmere bestemmelser om plikten etter første ledd.
+
+*Tilføyd ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 3-5. Om deltakelse i undervisning og opplæring
+
+De regionale helseforetakene skal sørge for at behovet for undervisning og opplæring av helsefaglige elever, lærlinger, studenter, turnuskandidater og spesialister dekkes innen helseregionen.
+
+Departementet kan gi forskrifter om plikten til å delta i undervisning og opplæring, herunder om private helseinstitusjoners plikt.
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)).*
+
+### § 3-6. Særlige plikter i forbindelse med barns institusjonsopphold
+
+Departementet kan gi forskrift om helseinstitusjonenes særlige plikter i forhold til barn som oppholder seg i institusjonen, herunder bestemmelser om dekning av pårørendes utgifter til mat, reise og overnatting når de av hensyn til barnet oppholder seg i institusjonen store deler av døgnet.
+
+### § 3-7. (Opphevet)
+
+*Opphevet ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 3-7 a. Om barneansvarlig personell mv.
+
+Helseinstitusjoner som omfattes av denne loven, skal i nødvendig utstrekning ha barneansvarlig personell. Barneansvarlig personell skal ha ansvar for å fremme og koordinere helsepersonells oppfølging av mindreårige som er pårørende barn eller søsken av psykisk syke, rusmiddelavhengige og alvorlig somatisk syke eller skadde pasienter, eller er etterlatte barn eller søsken etter slike pasienter.
+
+Departementet kan gi nærmere bestemmelser om barneansvarlig personell i forskrift.
+
+*Tilføyd ved lov [19 juni 2009 nr. 70](https://lovdata.no/lov/2009-06-19-70) (ikr. 1 jan 2010 iflg. [res. 11 des 2009 nr. 1501](https://lovdata.no/forskrift/2009-12-11-1501)), endret ved lov [16 juni 2017 nr. 53](https://lovdata.no/lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](https://lovdata.no/forskrift/2017-12-08-1951)).*
+
+### § 3-8. Sykehusenes oppgaver
+
+Sykehus skal særlig ivareta følgende oppgaver:
+
+1. pasientbehandling,
+2. utdanning av helsepersonell,
+3. forskning, og
+4. opplæring av pasienter og pårørende.
+
+### § 3-8 a. Beskyttelse av betegnelsen sykehus
+
+Departementet kan i forskrift stille vilkår for bruk av betegnelsen sykehus.
+
+Departementet kan fastsette regler om overtredelsesgebyr til den som forsettlig eller uaktsomt bruker betegnelsen sykehus i strid med vilkår fastsatt i forskrift etter første ledd.
+
+*Tilføyd ved lov [20 juni 2025 nr. 72](https://lovdata.no/lov/2025-06-20-72) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1122](https://lovdata.no/forskrift/2025-06-20-1122)).*
+
+### § 3-9. Ledelse i sykehus
+
+Sykehus skal organiseres slik at det er en ansvarlig leder på alle nivåer. Departementet kan i forskrift kreve at lederen skal ha bestemte kvalifikasjoner.
+
+Dersom kravet til forsvarlighet gjør det nødvendig, skal det pekes ut medisinskfaglige rådgivere.
+
+### § 3-10. Opplæring, etterutdanning og videreutdanning
+
+Virksomheter som yter helsetjenester som omfattes av denne loven, skal sørge for at ansatt helsepersonell gis slik opplæring, etterutdanning og videreutdanning som er påkrevet for at den enkelte skal kunne utføre sitt arbeid forsvarlig.
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-7).*
+
+### § 3-11. Om informasjon
+
+Helseinstitusjoner som omfattes av loven her, har plikt til å gi videre den informasjon som er nødvendig for at allmennheten skal kunne ivareta sine rettigheter, jf. [pasient- og brukerrettighetsloven § 2-2](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md), [§ 2-2 a](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md), [§ 2-3](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md), [§ 2-4](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md), [§ 2-4 a](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) annet ledd bokstav a og [§ 2-5](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md).
+
+Helseinstitusjoner som omfattes av loven her, har plikt til å sørge for at det gis slik informasjon som pasienten har rett til å motta etter [pasient- og brukerrettighetsloven § 3-2](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md). Tilsvarende gjelder for informasjon til pasientens nærmeste pårørende etter [pasient- og brukerrettighetsloven § 3-3](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) tredje ledd.
+
+Virksomheter som er omfattet av loven her, har plikt til å besvare henvendelser om kvalitet og pasientsikkerhet fra pasienter eller den som opptrer på vegne av pasienten. Bestemmelsen gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til en avdød pasient eller fra nærmeste pårørende til en pasient over 18 år som mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 annet ledd](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md).
+
+Henvendelser om kvalitet og pasientsikkerhet skal besvares på egnet måte og blant annet oppfylle krav til informasjon i [pasient- og brukerrettighetsloven kapittel 3](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md).
+
+Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten etter første til fjerde ledd.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 2-8), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](https://lovdata.no/lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](https://lovdata.no/forskrift/2013-12-06-1398)), [4 des 2020 nr. 134](https://lovdata.no/lov/2020-12-04-134) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2622](https://lovdata.no/forskrift/2020-12-04-2622)), [20 mai 2022 nr. 29](https://lovdata.no/lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](https://lovdata.no/forskrift/2022-05-20-887)), [28 april 2023 nr. 9](https://lovdata.no/lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](https://lovdata.no/forskrift/2024-04-26-746)), [20 juni 2025 nr. 67](https://lovdata.no/lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](https://lovdata.no/forskrift/2025-06-20-1109)).*
+
+### § 3-11 a. Om medvirkning
+
+Helseinstitusjoner som omfattes av loven her, skal sørge for at pasienten eller brukeren får medvirke ved gjennomføring av helse- og omsorgstjenester etter [pasient- og brukerrettighetsloven § 3-1](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md).
+
+*Tilføyd ved lov [19 juni 2026 nr. 42](https://lovdata.no/lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](https://lovdata.no/forskrift/2026-06-19-1142)).*
+
+### § 3-12. Henvisning fra den kommunale helse- og omsorgstjenesten og sosialtjenesten
+
+Helseinstitusjon som omfattes av denne loven skal vurdere henvisning fra den kommunale helse- og omsorgstjenesten og sosialtjenesten om behandling som nevnt i [§ 2-1 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) første ledd nr. 5.
+
+Kongen kan fastsette nærmere forskrifter om den kommunale helse- og omsorgstjenestens og sosialtjenestens adgang til å henvise til behandling som nevnt i [§ 2-1 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) første ledd nr. 5.
+
+*Tilføyd ved lov [28 nov 2003 nr. 99](https://lovdata.no/lov/2003-11-28-99) (ikr. 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](https://lovdata.no/forskrift/2003-11-28-1403)), endret ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 3-13. Varsel til tilsynsmyndigheten
+
+Helseinstitusjon som omfattes av denne loven skal uten ugrunnet opphold varsle statsforvalteren ved innleggelse med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) og [10-3](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md). Varsel skal også gis ved innleggelse med hjemmel i [helse- og omsorgstjenesteloven § 10-4](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) dersom samtykket er gitt ved direkte overgang fra opphold med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) og [10-3](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md).
+
+*Tilføyd ved lov [28 nov 2003 nr. 99](https://lovdata.no/lov/2003-11-28-99) (ikr. 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](https://lovdata.no/forskrift/2003-11-28-1403)), endret ved lover [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+### § 3-14. Adgang til tilbakeføring ved rømming fra behandling for rusmiddelavhengighet m.m.
+
+Er en person plassert i en institusjon med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md), [10-3](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) eller [10-4](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md), kan institusjonen begrense adgangen til å forlate institusjonen i den utstrekning det er nødvendig etter vedtakets formål.
+
+Kongen kan gi forskrift om gjennomføringen av opphold ved institusjoner som tilbyr behandling for rusmiddelavhengighet. Det kan herunder gis regler om fastsettelse av husordensregler, rusmiddeltesting av pasientens biologiske materiale, forvaltning av pasientens midler, pasientens rettigheter og plikter, saksbehandling og klage og vern om pasientens personlige integritet. Det kan dessuten gis regler om følgende tvangstiltak:
+
+a. kontroll av pasientens post
+b. forbud mot rusmidler, legemidler, skadelige stoffer og farlige gjenstander i institusjonen
+c. beslaglegging og tilintetgjøring av rusmidler, legemidler, skadelige stoffer og farlige gjenstander
+d. kroppsvisitasjon, undersøkelse av munnhulen og undersøkelse av pasientens rom og eiendeler når dette er nødvendig for å oppnå formålet med oppholdet, herunder rutinekontroll ved innleggelse eller etter opphold utenfor institusjonen
+e. adgang til å nekte besøk
+f. adgang til å nekte permisjoner og annet fravær
+g. beslag av pasientens egne elektroniske kommunikasjonsmidler dersom kamera- eller lydopptaksfunksjon gjør beslag nødvendig av hensyn til andre pasienters eller ansattes personvern
+h. adgang til å kreve biologisk materiale av pasient innlagt i medhold av [helse- og omsorgstjenesteloven §§ 10-2](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) og [10-3](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) når rusmiddeltesting er nødvendig for å oppnå formålet med oppholdet
+i. bruk av tvang i nødssituasjoner i tråd med alminnelige nødretts- og nødvergebetraktninger.
+
+*Tilføyd ved lov [28 nov 2003 nr. 99](https://lovdata.no/lov/2003-11-28-99) (ikr. 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](https://lovdata.no/forskrift/2003-11-28-1403)), endret ved lover [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [20 mai 2016 nr. 10](https://lovdata.no/lov/2016-05-20-10) (ikr. 1 nov 2016 iflg. [res. 26 aug 2016 nr. 1002](https://lovdata.no/forskrift/2016-08-26-1002) – endring ved lov [22 juni 2012 nr. 46](https://lovdata.no/lov/2012-06-22-46) opphevet fra 1 nov 2016).*
+
+### § 3-15. Varsel til kommunen ved utskrivning
+
+Når utskrivning fra tjeneste som nevnt i [§ 2-1 a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) første ledd nr. 5 bør medføre tiltak fra den kommunale helse- og omsorgstjenesten, og pasienten ønsker det, skal kommunen varsles om utskrivningen i god tid på forhånd. Utskrivning skal planlegges og forberedes i samarbeid mellom berørte parter. Ved utskrivning etter innleggelse med hjemmel i [helse- og omsorgstjenesteloven §§ 10-2](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) og [10-3](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) skal kommunen alltid varsles.
+
+*Tilføyd ved lov [28 nov 2003 nr. 99](https://lovdata.no/lov/2003-11-28-99) (ikr. 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](https://lovdata.no/forskrift/2003-11-28-1403)), endret ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 3-16. Legemiddelassistert rehabilitering av personer med rusmiddelavhengighet
+
+Kongen kan gi forskrift med nærmere regler om legemiddelassistert rehabilitering av personer med rusmiddelavhengighet og kan blant annet gi regler om:
+
+a. formål med legemiddelassistert rehabilitering
+b. kriterier for inntak og utskrivning
+c. krav om at det skal utarbeides individuell plan for alle pasienter i legemiddelassistert rehabilitering
+d. når individuell plan skal utarbeides og konsekvenser for behandlingen dersom individuell plan ikke foreligger
+e. ansvarsgrupper
+f. hvem som beslutter inntak og utskrivning fra legemiddelassistert rehabilitering
+g. adgang til å kreve urinprøver og blodprøver for kontrollformål.
+
+Regler etter første ledd bokstav b og d kan gjøre unntak fra reglene i [pasient- og brukerrettighetsloven § 2-2](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) andre og tredje ledd, [§ 2-2 a](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) andre og tredje ledd og [2-2 b](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) første ledd første punktum.
+
+*Tilføyd ved lov [21 des 2007 nr. 123](https://lovdata.no/lov/2007-12-21-123) (ikr. 1 jan 2008 iflg. [res. 21 des 2007 nr. 1574](https://lovdata.no/forskrift/2007-12-21-1574)), endret ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [28 april 2023 nr. 9](https://lovdata.no/lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](https://lovdata.no/forskrift/2024-04-26-746)).*
+
+### § 3-17. Politiattest
+
+Helseinstitusjoner som omfattes av denne loven, skal innhente politiattest fra helsepersonell i samsvar med [helsepersonelloven § 20 a](lov-1999-07-02-64-helsepersonelloven.md).
+
+*Tilføyd ved lov [22 des 2006 nr. 100](https://lovdata.no/lov/2006-12-22-100) (ikr. 1 apr 2007 iflg. [res. 22 des 2006 nr. 1527](https://lovdata.no/forskrift/2006-12-22-1527)), endret ved lov [21 des 2007 nr. 123](https://lovdata.no/lov/2007-12-21-123) (ikr. 1 jan 2008 iflg. [res. 21 des 2007 nr. 1574](https://lovdata.no/forskrift/2007-12-21-1574), tidligere § 3-16).*
+
+## Kapittel 4. Godkjenning av helseinstitusjoner og helsetjenester. Legefordeling
+
+*Overskriften endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)).*
+
+### § 4-1. Godkjenning av virksomheter og helsetjenester
+
+Departementet kan gi forskrift om krav til godkjenning av virksomheter og helsetjenester som omfattes av denne loven når hensyn til tjenestetilbudets kvalitet, pasientsikkerhet, samfunnssikkerhet eller beredskap tilsier det. Bruk av betegnelsen universitetssykehus skal godkjennes av departementet.
+
+Departementet kan gi forskrift om krav til godkjenning av private virksomheter og helsetjenester som omfattes av denne loven, for å sikre nødvendige helsepersonellressurser for et forsvarlig offentlig tilbud av spesialisthelsetjenester eller kommunale helse- og omsorgstjenester.
+
+Departementet kan gi forskrift med nærmere bestemmelser om vilkår for tildeling av godkjenning som kreves i medhold av første og andre ledd.
+
+Departementet kan tilbakekalle godkjenning når virksomheten som er tildelt godkjenningen ikke fyller kravene som er satt i forskrift.
+
+Den som er tildelt godkjenning plikter å gi departementet de opplysningene som departementet krever for å kunne utføre sine oppgaver. Departementet kan utføre gransking i form av stedlig undersøkelse (inspeksjon).
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)), [7 des 2018 nr. 91](https://lovdata.no/lov/2018-12-07-91) (ikr. 1 jan 2019 iflg. [res. 7 des 2018 nr. 1851](https://lovdata.no/forskrift/2018-12-07-1851)), [20 juni 2025 nr. 72](https://lovdata.no/lov/2025-06-20-72) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1122](https://lovdata.no/forskrift/2025-06-20-1122)).*
+
+### § 4-2. Legefordeling
+
+Departementet kan hvert år fastsette:
+
+1. antall nye spesialistlegestillinger innen hver medisinsk spesialitet som kan opprettes ved helseinstitusjoner og helsetjenester som mottar tilskudd til drift og vedlikehold fra et regionalt helseforetak eller fra staten,
+2. antall nye hjemler for avtaler om drift av privat spesialistpraksis som kan opprettes av hvert enkelt regionale helseforetak og
+3. antall nye spesialistlegestillinger innen hver medisinsk spesialitet som kan opprettes ved statlige helseinstitusjoner og helsetjenester.
+
+Antall nye stillinger og avtalehjemler som nevnt i første ledd angis som en samlet ramme for hver enkelt helseregion fordelt på de ulike medisinske spesialiteter.
+
+De regionale helseforetakene fordeler stillingene som nevnt i første ledd. Departementet kan sette vilkår for fordelingen.
+
+Departementet kan ved forskrift gi nærmere regler til utfylling og gjennomføring av denne bestemmelsen. Departementet kan gi forskrifter med nærmere bestemmelser om tildeling av avtalehjemmel til lege- og psykologspesialister.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 5-5), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 4-3. (Opphevet)
+
+*Tilføyd ved lov [22 mai 2015 nr. 32](https://lovdata.no/lov/2015-05-22-32) (ikr. 1 nov 2015 iflg. [res. 30 okt 2015 nr. 1241](https://lovdata.no/forskrift/2015-10-30-1241)), opphevet ved lov [16 des 2022 nr. 92](https://lovdata.no/lov/2022-12-16-92) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2249](https://lovdata.no/forskrift/2022-12-16-2249), se endringsloven [del III](https://lovdata.no/lov/2022-12-16-92/kapIII) for overgangsregler).*
+
+### § 4-4. Felles system for å beslutte hvilke metoder som kan tilbys i spesialisthelsetjenesten
+
+De regionale helseforetakene skal sørge for et felles system for å beslutte hvilke metoder som kan tilbys i spesialisthelsetjenesten.
+
+Departementet kan i forskrift gi nærmere bestemmelser om organiseringen av og saksbehandlingen i systemet.
+
+Beslutningene som nevnt i første ledd regnes ikke som vedtak, jf. [forvaltningsloven § 2](lov-1967-02-10-forvaltningsloven.md) første ledd bokstav a.
+
+*Tilføyd ved lov [20 des 2019 nr. 103](lov-2019-12-20-103-endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven.md) (ikr. 1 jan 2020 iflg. [res. 20 des 2019 nr. 1933](https://lovdata.no/forskrift/2019-12-20-1933)).*
+
+## Kapittel 5. Finansiering
+
+*Overskriften endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)).*
+
+### § 5-1. Pasientens bostedsregion
+
+Som bostedsregion skal regnes den helseregion der pasienten har sin faste bopel. Dersom pasienten ikke har fast bopel, skal den helseregion hvor vedkommende har sitt faste oppholdssted regnes som bostedsregion.
+
+For pasient som oppholder seg i institusjon eller privat forpleiningssted hvor oppholdsutgiftene helt eller delvis dekkes av det offentlige etter denne loven, skal forholdene på den tid da vedkommende ble mottatt i institusjon eller forpleiningssted legges til grunn.
+
+Inntil et barn fyller 16 år har barnet samme bostedsregion som foreldrene eller som den av foreldrene barnet lever hos eller senest levde hos. For barn som fyller 16 år under opphold i institusjon eller forpleiningssted som nevnt i annet ledd, skal det ved fortsatt opphold legges til grunn samme bostedsregion som før barnet fylte 16 år.
+
+Departementet avgjør i tvilstilfeller hvor en pasient har bostedsregion.
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 6-5).*
+
+### § 5-2. Refusjonskrav mot det regionale helseforetaket i pasientens bostedsregion
+
+Det regionale helseforetakets behandlings- og forpleiningsutgifter og reiseutgifter til behandling skal dekkes av det regionale helseforetaket i pasientens bostedsregion, jf. [§ 5-1](lov-1999-07-02-61-spesialisthelsetjenesteloven.md). Det samme gjelder utgifter til behandling, forpleining og reise som ytes av andre tjenesteytere etter avtale med det regionale helseforetaket i pasientens bostedsregion, jf. [§ 2-1a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md). Til gjennomføring av psykisk helsevern dekkes også andre utgifter av det regionale helseforetaket i pasientens bostedsregion.
+
+Det regionale helseforetaket i pasientens bostedsregion skal dekke utgifter til behandling og forpleining når det i henhold til internasjonal overenskomst foreligger rett til å reise til utlandet for å få nødvendig behandling. Dette gjelder også når andre norske myndigheter har forskottert beløpet overfor utenlandsk tjenesteyter.
+
+Det regionale helseforetaket i pasientens bostedsregion skal dekke utgifter til behandling, forpleining, reise og opphold og reise og opphold for nødvendig ledsager når en pasient har rett til nødvendig helsehjelp etter [pasient- og brukerrettighetsloven § 2-2 b](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) første ledd eller [§ 2-4 a](lov-1999-07-02-63-pasient-og-brukerrettighetsloven.md) annet ledd bokstav a, og en annen norsk myndighet har forskuttert beløpet overfor norske eller utenlandske tjenesteytere.
+
+Det regionale helseforetaket i pasientens bostedsregion skal dekke utgifter til spesialisthelsetjenester mottatt i et annet EØS-land i den utstrekning helsehjelpen gir rett til stønad etter regler fastsatt i forskrift i medhold av [folketrygdloven § 5-24 a](lov-1997-02-28-19-folketrygdloven.md). Departementet kan i forskrift gi nærmere bestemmelser om utgiftsdekningen.
+
+Departementet kan gi forskrift om beregning av utgifter som nevnt i første og annet ledd, og kan fastsette samme refusjonssatser for en eller flere grupper av institusjoner.
+
+Utgifter til laboratorie- og røntgentjenester dekkes bare av det regionale helseforetaket i pasientens bostedsregion, jf. [§ 5-1](lov-1999-07-02-61-spesialisthelsetjenesteloven.md), dersom dette følger av avtale mellom det regionale helseforetaket i bostedsregionen og den som yter slike tjenester. De regionale helseforetakene skal gjøre kjent hvilke medisinske laboratorier og røntgeninstitutt de har avtale med. Departementet kan i forskrift gi nærmere bestemmelser om finansieringen av laboratorie- og røntgentjenester, herunder overgangsordninger.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 6-6), [28 nov 2003 nr. 96](https://lovdata.no/lov/2003-11-28-96) (ikr. 1 jan 2004), [12 des 2003 nr. 110](https://lovdata.no/lov/2003-12-12-110) (ikr. 1 sep 2004 iflg. [res. 19 mars 2004 nr. 540](https://lovdata.no/forskrift/2004-03-19-540)), [19 juni 2009 nr. 72](https://lovdata.no/lov/2009-06-19-72) (ikr. 1 jan 2011 iflg. [res. 3 des 2010 nr. 1508](https://lovdata.no/forskrift/2010-12-03-1508)), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [4 des 2020 nr. 134](https://lovdata.no/lov/2020-12-04-134) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2622](https://lovdata.no/forskrift/2020-12-04-2622)), [28 april 2023 nr. 9](https://lovdata.no/lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](https://lovdata.no/forskrift/2024-04-26-746)).*
+
+### § 5-3. Dekning av utgifter for pasient som ikke har bosted i riket
+
+Pasient som ikke har bosted i riket, skal dekke behandlings- og forpleiningsutgiftene selv. Før planlagt spesialisthelsetjeneste ytes, kan helseinstitusjonen eller tjenesteyteren kreve dokumentasjon på at pasienten kan dekke behandlings- og forpleiningsutgiftene. Helseinstitusjonen eller tjenesteyteren skal sørge for at pasienten mottar en spesifisert regning som viser hvilke ytelser pasienten har mottatt, og hvilken pris som er beregnet for ytelsene. Dersom pasienten ikke kan dekke utgiftene selv, skal de dekkes av vedkommende helseinstitusjon eller tjenesteyter.
+
+Folketrygden skal dekke behandlings- og forpleiningsutgifter for pasient som ikke har bosted i riket dersom vedkommende er trygdet etter folketrygdloven eller er stønadsberettiget i henhold til gjensidig avtale med annen stat.
+
+Utgifter til gjennomføring av tvungent psykisk helsevern skal dekkes av staten.
+
+Departementet kan gi forskrift om beregning av behandlings- og forpleiningsutgifter som nevnt i første ledd.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 6-7), [21 juni 2013 nr. 79](https://lovdata.no/lov/2013-06-21-79) (ikr. 1 mars 2015 iflg. [res. 19 des 2014 nr. 1735](https://lovdata.no/forskrift/2014-12-19-1735)).*
+
+### § 5-4. Dekning av utgifter til kontrollkommisjonenes virksomhet
+
+Staten dekker utgiftene til kontrollkommisjonenes virksomhet, jf. [lov om etablering og gjennomføring av psykisk helsevern § 6-1](lov-1999-07-02-62-psykisk-helsevernloven.md).
+
+Departementet kan gi forskrift om hvilke utgifter som omfattes av første ledd.
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 6-8).*
+
+### § 5-5. Pasienters egenbetaling
+
+Departementet kan gi forskrift om:
+
+1. pasienters betaling for poliklinisk helsehjelp i spesialisthelsetjenesten,
+2. pasienters betaling for reservert time som ikke benyttes og som gjelder poliklinisk helsehjelp i spesialisthelsetjenesten,
+3. adgang til å bestemme at pasienter som oppholder seg i langtidsinstitusjoner helt eller delvis skal dekke 25 prosent av forpleiningsutgiftene når dette finnes rimelig etter pasientens økonomiske kår. Det kan ikke tas refusjon i kontantytelser som pasienten oppebærer etter folketrygdloven og heller ikke i midler som skriver seg fra slike ytelser,
+4. pasienters betaling for reise til undersøkelse og behandling, herunder fritak for betaling for enkelte pasientgrupper,
+5. pasienters betaling for opphold i opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak, herunder om fritak for betaling for enkelte pasientgrupper.
+
+For inngrep omfattet av lov om rituell omskjæring av gutter skal det kreves egenbetaling. Egenbetaling skal kreves uavhengig av om inngrepet skjer i forbindelse med innleggelse i sykehus eller ved poliklinisk behandling ved institusjon. Egenbetaling skal kreves uavhengig av om inngrepet foretas av helseforetaket eller av spesialist med avtale med det regionale helseforetaket om å utføre inngrepet på vegne av helseforetaket.
+
+Departementet kan ved forskrift gi nærmere bestemmelser om innholdet etter annet ledd, herunder fastsette størrelsen på egenbetalingen.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 6-9), [28 nov 2003 nr. 96](https://lovdata.no/lov/2003-11-28-96) (ikr. 1 jan 2004), [21 des 2005 nr. 127](https://lovdata.no/lov/2005-12-21-127) (ikr. 1 jan 2006), [20 juni 2014 nr. 40](lov-2014-06-20-40-lov-om-rituell-omskjaering-av-gutter.md) (ikr. 1 jan 2015 iflg. [res. 5 des 2014 nr. 1512](https://lovdata.no/forskrift/2014-12-05-1512)), [17 juni 2016 nr. 48](https://lovdata.no/lov/2016-06-17-48) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 706](https://lovdata.no/forskrift/2016-06-17-706)). **Endres** ved lov [20 des 2019 nr. 103](lov-2019-12-20-103-endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven.md) (ikr. fra den tid Kongen bestemmer).*
+
+### § 5-6. Innhenting av driftsopplysninger
+
+Departementet kan kreve seg forelagt budsjett, regnskap og andre opplysninger om drift av offentlig finansiert spesialisthelsetjeneste.
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 6-2).*
+
+## Kapittel 6. Taushetsplikt, opplysningsplikt og veiledningsplikt
+
+*Overskriften endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)).*
+
+### § 6-1. Taushetsplikt
+
+Enhver som utfører tjeneste eller arbeid for en helseinstitusjon som omfattes av denne loven, har taushetsplikt etter [forvaltningsloven §§ 13](lov-1967-02-10-forvaltningsloven.md) til [13 e](lov-1967-02-10-forvaltningsloven.md) og [13 g](lov-1967-02-10-forvaltningsloven.md).
+
+Taushetsplikten gjelder også pasientens fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted. Opplysning om en pasients oppholdssted kan likevel gis når det er klart at det ikke vil skade tilliten til helseinstitusjonen. Opplysning om en pasients navn, transportbehov og om pasienten skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport etter [§ 2-1a](lov-1999-07-02-61-spesialisthelsetjenesteloven.md) første ledd nr. 6.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 7-1), [18 des 2009 nr. 137](https://lovdata.no/lov/2009-12-18-137) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1583](https://lovdata.no/forskrift/2009-12-18-1583)), [18 juni 2021 nr. 127](https://lovdata.no/lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](https://lovdata.no/forskrift/2021-06-18-2026)).*
+
+### § 6-2. Opplysningsplikt til Statens helsetilsyn og statsforvalteren
+
+Bestemmelsene i [helsetilsynsloven § 7](lov-2017-12-15-107-helsetilsynsloven.md) om plikt til å gi tilsynsmyndigheten opplysninger og adgang til virksomheten på anmodning, og adgang til å gi tilsynsmyndigheten opplysninger av eget tiltak uten hinder av taushetsplikt, gjelder for enhver som utfører tjeneste eller arbeid som angår helsetjenester som omfattes av denne loven.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 7-2), [29 aug 2003 nr. 87](https://lovdata.no/lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](https://lovdata.no/forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), [15 des 2017 nr. 107](lov-2017-12-15-107-helsetilsynsloven.md) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](https://lovdata.no/forskrift/2019-04-26-541)), [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+### § 6-3. Veiledningsplikt overfor den kommunale helse- og omsorgstjenesten
+
+Helsepersonell som er ansatt i statlige helseinstitusjoner som omfattes av denne loven, eller som mottar tilskudd fra regionale helseforetak til sin virksomhet, skal gi den kommunale helse- og omsorgstjenesten råd, veiledning og opplysninger om helsemessige forhold som er påkrevet for at den kommunale helse- og omsorgstjenesten skal kunne løse sine oppgaver etter lov og forskrift.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 7-4), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 6-4. Bistand fra politiet
+
+Helsepersonell kan uten hinder av taushetsplikt gi ut taushetsbelagte opplysninger når dette er nødvendig for å innhente bistand fra politiet til fullbyrdelse av tvangsvedtak overfor rusmiddelavhengige etter [helse- og omsorgstjenesteloven §§ 10-2](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) og [10-3](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) eller vilkår etter [helse- og omsorgstjenesteloven § 10-4](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md). Politiet har plikt til å yte slik bistand.
+
+*Tilføyd ved lov [28 nov 2003 nr. 99](https://lovdata.no/lov/2003-11-28-99) (ikr. 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](https://lovdata.no/forskrift/2003-11-28-1403)), endret ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+## Kapittel 7. Forskjellige bestemmelser
+
+*Overskriften endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)), [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)).*
+
+### § 7-1. Pålegg og tvangsmulkt
+
+Tilsynsmyndighetene kan gi pålegg om retting. Statens helsetilsyn kan gi pålegg om stenging og fastsette tvangsmulkt etter reglene i [helsetilsynsloven §§ 8](lov-2017-12-15-107-helsetilsynsloven.md) og [9](lov-2017-12-15-107-helsetilsynsloven.md). Hvis statsforvalteren mener at det bør ilegges tvangsmulkt etter [§ 9](lov-2017-12-15-107-helsetilsynsloven.md), skal saken oversendes Statens helsetilsyn.
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 8-1), [15 des 2017 nr. 107](lov-2017-12-15-107-helsetilsynsloven.md) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](https://lovdata.no/forskrift/2019-04-26-541)), [20 juni 2025 nr. 74](https://lovdata.no/lov/2025-06-20-74) (i kraft 20 juni 2025 iflg. [res. 20 juni 2025 nr. 1101](https://lovdata.no/forskrift/2025-06-20-1101)).*
+
+### § 7-2. (Opphevet)
+
+*Tilføyd ved lov [13 des 2002 nr. 78](https://lovdata.no/lov/2002-12-13-78) (ikr. 1 jan 2003 iflg. [res. 13 des 2002 nr. 1600](https://lovdata.no/forskrift/2002-12-13-1600)), opphevet ved lov [15 des 2017 nr. 107](lov-2017-12-15-107-helsetilsynsloven.md) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](https://lovdata.no/forskrift/2019-04-26-541)).*
+
+### § 7-3. Nasjonale faglige retningslinjer, veiledere og kvalitetsindikatorer
+
+Helsedirektoratet skal utvikle, formidle og vedlikeholde nasjonale faglige retningslinjer og veiledere som understøtter de mål som er satt for helse- og omsorgstjenesten. Departementet kan bestemme på hvilke områder direktoratet skal utarbeide slike retningslinjer og veiledere. Retningslinjer og veiledere skal baseres på kunnskap om god praksis og skal bidra til kontinuerlig forbedring av virksomhet og tjenester.
+
+Helsedirektoratet skal utvikle, formidle og vedlikeholde nasjonale kvalitetsindikatorer som hjelpemiddel for ledelse og kvalitetsforbedring i spesialisthelsetjenesten, og som grunnlag for at pasienter kan ivareta sine rettigheter. Kvalitetsindikatorene skal gjøres offentlig tilgjengelige.
+
+*Tilføyd ved lov [24 juni 2011 nr. 30](lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](https://lovdata.no/forskrift/2011-12-16-1252)), endret ved lov [20 des 2023 nr. 106](https://lovdata.no/lov/2023-12-20-106) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2128](https://lovdata.no/forskrift/2023-12-20-2128)).*
+
+## Kapittel 8. Ikrafttredelse, overgangsbestemmelser, endringer i andre lover m.m.
+
+*Overskriften endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417)).*
+
+### § 8-1. Oppfyllelse av internasjonal overenskomst
+
+Kongen kan gi forskrifter i den utstrekning det er nødvendig for å oppfylle internasjonale overenskomster.
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 9-1).*
+
+### § 8-2. Ikrafttredelse
+
+Loven trer i kraft fra det tidspunkt Kongen bestemmer.[1] Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til forskjellig tid.
+
+Fra tidspunktet for ikrafttredelse blir følgende lover opphevet: [Lov av 19. juni 1969 nr. 57](https://lovdata.no/lov/1969-06-19-57) om sykehus m.v., [lov av 28. april 1961 nr. 2](https://lovdata.no/lov/1961-04-28-2) om psykisk helsevern kapittel I, V og [§§ 21 a](https://lovdata.no/lov/1961-04-28-2/§21a), [21 b](https://lovdata.no/lov/1961-04-28-2/§21b) og [22](https://lovdata.no/lov/1961-04-28-2/§22).
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 9-2).*
+
+### § 8-3. (Opphevet)
+
+*Endret ved lover [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 9-3), [30 juni 2006 nr. 45](https://lovdata.no/lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](https://lovdata.no/forskrift/2006-12-15-1422)), opphevet ved lov [22 juni 2018 nr. 76](lov-2018-06-22-76-endringer-i-alkoholloven-mv.md).*
+
+### § 8-4. Endringer i andre lover
+
+– – –
+
+*Endret ved lov [15 juni 2001 nr. 93](lov-2001-06-15-93-helseforetaksloven.md) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](https://lovdata.no/forskrift/2001-12-14-1417), tidligere § 9-4).*
+
+## Fotnoter
+
+**1.** Fra 1 jan 2001 iflg. [res. 1 des 2000 nr. 1196](https://lovdata.no/forskrift/2000-12-01-1196) med unntak av § 2-6 og § 9-4 nr. 3 som ble satt ikr. 1 juli 2001 iflg. [res. 8 juni 2001 nr. 595](https://lovdata.no/forskrift/2001-06-08-595).

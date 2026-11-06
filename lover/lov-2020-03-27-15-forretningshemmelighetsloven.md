@@ -1,0 +1,133 @@
+# Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven)
+
+- **Korttittel:** Forretningshemmelighetsloven
+- **Datokode:** LOV-2020-03-27-15
+- **DokumentID:** NL/lov/2020-03-27-15
+- **Departement:** Justis- og beredskapsdepartementet
+- **Kunngjort:** 2020-03-27 12:00
+- **I kraft fra:** 2021-01-01
+- **Rettsområde:** EU/EØS-rett > Immaterialrett; Immaterialrett; Strafferett > Vern av informasjon og informasjonsutveksling > Krenkelse/ rettstridig tilegnelse av forretningshemmeligheter
+- **EU/EØS-henvisning:** EØS-avtalen vedlegg XVII nr. 13 (direktiv (EU) 2016/943)
+- **Siste rettelse:** 2022-03-10 (tegnsetting i lister tilpasset universell utforming)
+- **Kilde:** <https://lovdata.no/lov/2020-03-27-15>
+
+## § 1. Formål og virkeområde
+
+Lovens formål er å sikre innehavere av forretningshemmeligheter vern mot urettmessig tilegnelse, bruk og formidling av hemmeligheten.
+
+Loven gjelder også for Svalbard og Jan Mayen.
+
+## § 2. Definisjoner
+
+Med forretningshemmeligheter menes opplysninger som
+
+a. er hemmelige i den forstand at opplysningene ikke som helhet, eller slik de er satt sammen eller ordnet, er allment kjent eller lett tilgjengelig
+b. har kommersiell verdi fordi de er hemmelige
+c. innehaveren har truffet rimelige tiltak for å holde hemmelige
+
+Alminnelige erfaringer og ferdigheter som en arbeidstaker har tilegnet seg under et ansettelsesforhold, utgjør ikke en forretningshemmelighet.
+
+Med innehaver av en forretningshemmelighet menes en fysisk eller juridisk person som rettmessig råder over en forretningshemmelighet.
+
+## § 3. Inngrep i en forretningshemmelighet
+
+Ingen må gjøre inngrep i en forretningshemmelighet ved å oppnå kunnskap om eller rådighet over en forretningshemmelighet ved
+
+a. urettmessig å skaffe seg adgang til, ta med seg, eller kopiere dokumenter eller gjenstander
+b. annen adferd i strid med god forretningsskikk
+
+Ingen må gjøre inngrep i en forretningshemmelighet ved urettmessig å bruke eller formidle en forretningshemmelighet som vedkommende har fått kunnskap om eller rådighet over
+
+a. i strid med første ledd
+b. i anledning av et tjeneste-, tillitsverv- eller forretningsforhold
+c. i medhold av bestemmelser i lov eller forskrift
+
+Ingen må gjøre inngrep i en forretningshemmelighet ved urettmessig å oppnå kunnskap om eller rådighet over, bruke eller formidle en forretningshemmelighet som vedkommende på tidspunktet for tilegnelsen, bruken eller formidlingen visste eller burde ha visst var tilegnet fra noen som handlet i strid med annet ledd.
+
+## § 4. Varer som utgjør inngrep
+
+Ingen må tilvirke, markedsføre eller bringe i omsetning varer som vedkommende visste eller burde ha visst utgjør inngrep i en forretningshemmelighet. Det samme gjelder innførsel, utførsel eller lagring av varer som utgjør inngrep i en forretningshemmelighet, med sikte på å bringe varene i omsetning.
+
+Varer utgjør inngrep i en forretningshemmelighet når de har en utforming, egenskap eller funksjon eller produseres eller markedsføres på en måte som i vesentlig grad drar fordel av en forretningshemmelighet som er urettmessig tilegnet, brukt eller formidlet.
+
+## § 5. Forbud mot inngrep
+
+Den som har gjort inngrep i en forretningshemmelighet, jf. [§§ 3](lov-2020-03-27-15-forretningshemmelighetsloven.md) eller [4](lov-2020-03-27-15-forretningshemmelighetsloven.md), eller medvirket til det, kan ved dom forbys å gjenta handlingen.
+
+Den som har gjort vesentlige forberedelsestiltak med sikte på å utføre en handling som vil utgjøre inngrep, eller på annen måte har opptrådt slik at det er særlig grunn til å frykte at vedkommende vil gjøre inngrep, kan ved dom forbys å gjennomføre handlingen.
+
+Forbud etter første og annet ledd kan gjøres tidsbegrenset.
+
+Forbud kan idømmes hvis innehaveren har tatt rettslige skritt mot inngriperen senest tre år etter at vedkommende fikk eller burde ha skaffet seg nødvendig kunnskap om inngrepet og inngriperen. Reglene om fristavbrudd i [foreldelsesloven §§ 15](lov-1979-05-18-18-foreldelsesloven.md), [15 a](lov-1979-05-18-18-foreldelsesloven.md), [18](lov-1979-05-18-18-foreldelsesloven.md) og [19](lov-1979-05-18-18-foreldelsesloven.md) og om virkning av fristavbrudd i [§§ 21](lov-1979-05-18-18-foreldelsesloven.md) til [23](lov-1979-05-18-18-foreldelsesloven.md) gjelder tilsvarende.
+
+## § 6. Korrigerende og forebyggende tiltak
+
+For å avbøte virkningene av et inngrep eller for å hindre nye inngrep i en forretningshemmelighet kan retten så langt det finnes rimelig gi pålegg om korrigerende og forebyggende tiltak. Slikt pålegg kan gå ut på at dokumenter eller gjenstander som inneholder forretningshemmeligheten, skal ødelegges eller utleveres til innehaveren av forretningshemmeligheten.
+
+For varer som utgjør inngrep i en forretningshemmelighet, kan slikt pålegg gå ut på at varene skal:
+
+a. tilbakekalles fra handelen
+b. endres slik at deres inngripende egenskaper fjernes
+c. definitivt fjernes fra handelen
+d. ødelegges
+e. utleveres til innehaveren av forretningshemmeligheten
+
+Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal være forholdsmessig. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjepersoners interesser.
+
+Pålegg om tiltak skal ikke være betinget av at innehaveren av forretningshemmeligheten yter kompensasjon til den tiltaket retter seg mot, og påvirker ikke innehaverens rett til vederlag eller erstatning etter [§ 8](lov-2020-03-27-15-forretningshemmelighetsloven.md). Tiltak skal gjennomføres for inngriperens regning hvis ikke særlige grunner taler mot det.
+
+Pålegg om tiltak kan idømmes hvis innehaveren har tatt rettslige skritt mot inngriperen senest tre år etter at vedkommende fikk eller burde ha skaffet seg nødvendig kunnskap om inngrepet og inngriperen. Reglene om fristavbrudd i [foreldelsesloven §§ 15](lov-1979-05-18-18-foreldelsesloven.md), [15 a](lov-1979-05-18-18-foreldelsesloven.md), [18](lov-1979-05-18-18-foreldelsesloven.md) og [19](lov-1979-05-18-18-foreldelsesloven.md) og om virkning av fristavbrudd i [§§ 21](lov-1979-05-18-18-foreldelsesloven.md) til [23](lov-1979-05-18-18-foreldelsesloven.md) gjelder tilsvarende.
+
+## § 7. Fortsatt bruk mot rimelig vederlag
+
+I stedet for forbud etter [§ 5](lov-2020-03-27-15-forretningshemmelighetsloven.md) og pålegg etter [§ 6](lov-2020-03-27-15-forretningshemmelighetsloven.md) kan retten gi inngriperen tillatelse til fortsatt bruk av forretningshemmeligheten mot rimelig vederlag til innehaveren av forretningshemmeligheten og på passende vilkår for øvrig. Tillatelse kan bare gis hvis
+
+a. inngriperen har vært i aktsom god tro ved tilegnelsen av forretningshemmeligheten
+b. forbud etter [§ 5](lov-2020-03-27-15-forretningshemmelighetsloven.md) eller pålegg etter [§ 6](lov-2020-03-27-15-forretningshemmelighetsloven.md) vil påføre inngriperen uforholdsmessig skade
+c. vederlag til innehaveren fremstår som en rimelig løsning
+
+Vederlaget etter første ledd skal ikke overstige lisensavgiften innehaveren med rimelighet kunne krevd i perioden hvor bruken kan forbys. Vederlag etter [§ 8](lov-2020-03-27-15-forretningshemmelighetsloven.md) fastsettes på samme måte for perioden frem til domsavsigelsen.
+
+## § 8. Vederlag og erstatning
+
+For forsettlig eller uaktsomt inngrep, jf. [§§ 3](lov-2020-03-27-15-forretningshemmelighetsloven.md) eller [4](lov-2020-03-27-15-forretningshemmelighetsloven.md), skal inngriperen betale innehaveren av forretningshemmeligheten vederlag eller erstatning som fastsettes etter det av følgende grunnlag som er mest gunstig for innehaveren:
+
+a. vederlag som tilsvarer en rimelig lisensavgift for bruken, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering
+b. erstatning for skade som følge av inngrepet
+c. vederlag svarende til vinningen som er oppnådd ved inngrepet
+
+Første ledd gjelder tilsvarende ved medvirkning til inngrep.
+
+## § 9. Straff
+
+Den som gjør inngrep i en forretningshemmelighet, jf. [§§ 3](lov-2020-03-27-15-forretningshemmelighetsloven.md) og [4](lov-2020-03-27-15-forretningshemmelighetsloven.md), straffes med bøter eller fengsel inntil ett år.
+
+Var inngriperen i aktsom god tro ved tilegnelsen av forretningshemmeligheten, jf. [§ 7](lov-2020-03-27-15-forretningshemmelighetsloven.md) første ledd bokstav a, kommer straff bare til anvendelse for grove inngrep, jf. [§ 10](lov-2020-03-27-15-forretningshemmelighetsloven.md).
+
+Straff kommer ikke til anvendelse ved inngrep som nevnt i [§ 3](lov-2020-03-27-15-forretningshemmelighetsloven.md) annet ledd når kunnskap om eller rådighet over forretningshemmeligheten er oppnådd i et tjeneste- eller tillitsvervforhold eller gjennom urettmessig handling i et slikt forhold, og mer enn to år er gått siden forholdet opphørte.
+
+## § 10. Straff for grovt inngrep
+
+Den som gjør grovt inngrep i en forretningshemmelighet, jf. [§§ 3](lov-2020-03-27-15-forretningshemmelighetsloven.md) eller [4](lov-2020-03-27-15-forretningshemmelighetsloven.md), straffes med bøter eller fengsel inntil tre år.
+
+Ved vurderingen av om grovt inngrep foreligger, skal det særlig legges vekt på skaden som er påført innehaveren av forretningshemmeligheten og andre, herunder skade på innehaverens kommersielle omdømme, vinningen som inngriperen har oppnådd, og arten og omfanget for øvrig av inngrepet.
+
+## § 11. Publisering av informasjon om dommer
+
+Retten kan i dom i sak om inngrep i forretningshemmeligheter bestemme at informasjon om dommen skal formidles på passende måte for inngriperens regning for å avbøte følgene av inngrepet og for å forebygge nye inngrep. Dette gjelder tilsvarende ved medvirkning til inngrep og i tilfeller som nevnt i [§ 5](lov-2020-03-27-15-forretningshemmelighetsloven.md) annet ledd.
+
+## § 12. Ikrafttredelse og overgangsregler
+
+Loven gjelder fra den tid[1] Kongen bestemmer.
+
+Loven [§§ 5](lov-2020-03-27-15-forretningshemmelighetsloven.md) til [11](lov-2020-03-27-15-forretningshemmelighetsloven.md) gjelder for inngrep som finner sted etter at loven har trådt i kraft.
+
+Kongen kan gi nærmere overgangsregler.
+
+## § 13. Endringer i andre lover
+
+Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Loven gjelder fra 1 jan 2021 iflg. [res. 11 des 2020 nr. 2721](https://lovdata.no/forskrift/2020-12-11-2721).

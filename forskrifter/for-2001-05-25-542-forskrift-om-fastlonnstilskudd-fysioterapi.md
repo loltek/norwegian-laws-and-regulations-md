@@ -1,0 +1,48 @@
+# Forskrift om fastlønnstilskudd til delvis dekning av kommunenes utgifter til fysioterapitjenesten
+
+- **Korttittel:** Forskrift om fastlønnstilskudd, fysioterapi
+- **Datokode:** FOR-2001-05-25-542
+- **DokumentID:** SF/forskrift/2001-05-25-542
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Kommunetjenesteavdelingen
+- **Hjemmel:** lov 28.02.1997 nr. 19/§5-21
+- **Publisert i:** I 2001 hefte 7
+- **Kunngjort:** 2001-06-01
+- **I kraft fra:** 2001-06-01
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** forskrift 18.06.2026 nr. 1208 fra 2026-07-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Sosial- og helsedepartementet 25. mai 2001 med hjemmel i lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 5-21. Endret ved forskrifter 24 juni 2002 nr. 726, 11 nov 2002 nr. 1263, 19 juni 2003 nr. 723, 25 juni 2004 nr. 1037, 21 juni 2005 nr. 667, 21 juni 2006 nr. 679, 12 juni 2007 nr. 606, 19 juni 2008 nr. 628, 25 nov 2008 nr. 1265, 18 juni 2009 nr. 685, 24 juni 2010 nr. 969, 24 juni 2011 nr. 679, 20 juni 2012 nr. 629, 21 juni 2013 nr. 743, 20 juni 2014 nr. 813, 16 juni 2015 nr. 659, 23 juni 2016 nr. 773, 14 juni 2017 nr. 743, 21 nov 2017 nr. 1813, 22 juni 2018 nr. 1016, 25 juni 2019 nr. 895, 30 okt 2020 nr. 2208 (i kraft 1 nov 2020), 24 juni 2021 nr. 2179 (i kraft 1 juli 2021), 28 juni 2022 nr. 1225 (i kraft 1 juli 2022), 26 juni 2023 nr. 1097 (i kraft 1 juli 2023), 21 juni 2024 nr. 1163 (i kraft 1 juli 2024), 23 juni 2025 nr. 1291 (i kraft 1 juli 2025), 18 juni 2026 nr. 1208 (i kraft 1 juli 2026).
+- **Kilde:** <https://lovdata.no/forskrift/2001-05-25-542>
+
+## § 1. Fastlønnstilskudd
+
+Folketrygden yter tilskudd til kommunene for fastlønnsstillinger for fysioterapeuter (fastlønnstilskudd). Slikt fastlønnstilskudd gis i stedet for refusjon etter forskrift om stønad til dekning av utgifter til fysikalsk behandling, gitt i medhold av [folketrygdloven § 5-8](../lover/lov-1997-02-28-19-folketrygdloven.md) femte ledd. Fastlønnstilskuddet dekker også tilfeller der folketrygden gir full godtgjørelse, jf. § 5 i nevnte forskrift. I øvrige tilfeller kan medlemmet avkreves de egenandeler som framkommer som differansen mellom honorartakst og refusjonstakst i nevnte forskrift.
+
+Fastlønnstilskudd gis også for turnuskandidater.
+
+*Endret ved [forskrifter 11 nov 2002 nr. 1263](https://lovdata.no/forskrift/2002-11-11-1263), [12 juni 2007 nr. 606](https://lovdata.no/forskrift/2007-06-12-606) (i kraft 1 juli 2007).*
+
+## § 2. Vilkår
+
+Det er et vilkår for fastlønnstilskudd at stillingen utgjør mer enn ⅓ av full stilling og er tillagt kurative oppgaver utenfor institusjon. Fastlønnstilskudd til deltidsstilling fastsettes i forhold til stillingens omfang. Det gis ikke fastlønnstilskudd hvis administrative, kommunale gjøremål utgjør mer enn halvparten av stillingens omfang.
+
+Det gis ikke fastlønnstilskudd til deltidsstilling dersom innehaveren av stillingen i tillegg har avtale med kommunen om driftstilskudd. Denne begrensningen gjelder ikke for kommuner med færre enn 2000 innbyggere ved inngangen av året det kreves tilskudd for. Kommuner som krever fastlønnstilskudd for fysioterapeut som også mottar driftstilskudd i samme kommune, skal informere Helfo om dette og dokumentere avtalt arbeidstid i hver av stillingene overfor Helfo. Volumet i driftsavtalen og fastlønnsstillingen kan ikke overstige 100 prosent til sammen.
+
+*Endret ved [forskrift 21 nov 2017 nr. 1813](https://lovdata.no/forskrift/2017-11-21-1813) (i kraft 1 jan 2018).*
+
+## § 3. Utbetaling
+
+Sammen med krav om fastlønnstilskudd skal kommunen legge fram for Helsedirektoratet eller det organ Helsedirektoratet bestemmer tjenesteplan for de fysioterapistillingene det kreves tilskudd for. Helsedirektoratet eller det organ Helsedirektoratet bestemmer godkjenner hvorvidt vilkår for utbetaling av fastlønnstilskudd er oppfylt. Helsedirektoratet eller det organ Helsedirektoratet bestemmer kan kreve regnskap for fastlønnsstillingene, herunder oversikt over utbetalt lønn, inntektsførte egenandeler mv.
+
+Krav om fastlønnstilskudd kan fremmes overfor Helsedirektoratet eller det organ Helsedirektoratet bestemmer for hvert halvår. Fastlønnstilskuddet utbetales etterskuddsvis. Ved tilskudd til nye stillinger legges den dato da stillingen ble besatt til grunn for beregningen. Ved ledighet i stilling reduseres fastlønnstilskuddet forholdsmessig. Tilskuddet reduseres likevel ikke dersom ledigheten maksimalt utgjør to måneder av oppgjørsperioden.
+
+Dersom kommunen har fått skriftlig melding om tildeling av turnuskandidat, men kandidaten ikke møter, gis likevel fastlønnstilskudd for inntil to måneder.
+
+Fullt fastlønnstilskudd for perioden 1. januar 2026 til 31. desember 2026 er 274 610 kroner.
+
+*Endret ved [forskrifter 24 juni 2002 nr. 726](https://lovdata.no/forskrift/2002-06-24-726), [19 juni 2003 nr. 723](https://lovdata.no/forskrift/2003-06-19-723), [25 juni 2004 nr. 1037](https://lovdata.no/forskrift/2004-06-25-1037), [21 juni 2005 nr. 667](https://lovdata.no/forskrift/2005-06-21-667), [21 juni 2006 nr. 679](https://lovdata.no/forskrift/2006-06-21-679) (i kraft 1 juli 2006), [12 juni 2007 nr. 606](https://lovdata.no/forskrift/2007-06-12-606) (i kraft 1 juli 2007), [19 juni 2008 nr. 628](https://lovdata.no/forskrift/2008-06-19-628), [25 nov 2008 nr. 1265](https://lovdata.no/forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [18 juni 2009 nr. 685](https://lovdata.no/forskrift/2009-06-18-685) (i kraft 1 juli 2009), [24 juni 2010 nr. 969](https://lovdata.no/forskrift/2010-06-24-969) (i kraft 1 juli 2010), [24 juni 2011 nr. 679](https://lovdata.no/forskrift/2011-06-24-679) (i kraft 1 juli 2011), [20 juni 2012 nr. 629](https://lovdata.no/forskrift/2012-06-20-629) (i kraft 1 juli 2012), [21 juni 2013 nr. 743](https://lovdata.no/forskrift/2013-06-21-743) (i kraft 1 juli 2013), [20 juni 2014 nr. 813](https://lovdata.no/forskrift/2014-06-20-813) (i kraft 1 juli 2014), [16 juni 2015 nr. 659](https://lovdata.no/forskrift/2015-06-16-659) (i kraft 1 juli 2015), [23 juni 2016 nr. 773](https://lovdata.no/forskrift/2016-06-23-773) (i kraft 1 juli 2016), [14 juni 2017 nr. 743](https://lovdata.no/forskrift/2017-06-14-743) (i kraft 1 juli 2017), [22 juni 2018 nr. 1016](https://lovdata.no/forskrift/2018-06-22-1016) (i kraft 1 juli 2018), [25 juni 2019 nr. 895](https://lovdata.no/forskrift/2019-06-25-895) (i kraft 1 juli 2019), [30 okt 2020 nr. 2208](https://lovdata.no/forskrift/2020-10-30-2208) (i kraft 1 nov 2020), [24 juni 2021 nr. 2179](https://lovdata.no/forskrift/2021-06-24-2179) (i kraft 1 juli 2021), [28 juni 2022 nr. 1225](https://lovdata.no/forskrift/2022-06-28-1225) (i kraft 1 juli 2022), [26 juni 2023 nr. 1097](https://lovdata.no/forskrift/2023-06-26-1097) (i kraft 1 juli 2023), [21 juni 2024 nr. 1163](https://lovdata.no/forskrift/2024-06-21-1163) (i kraft 1 juli 2024), [23 juni 2025 nr. 1291](https://lovdata.no/forskrift/2025-06-23-1291) (i kraft 1 juli 2025), [18 juni 2026 nr. 1208](https://lovdata.no/forskrift/2026-06-18-1208) (i kraft 1 juli 2026).*
+
+## § 4. Ikrafttredelse
+
+Forskriften her trer i kraft 1. juni 2001.

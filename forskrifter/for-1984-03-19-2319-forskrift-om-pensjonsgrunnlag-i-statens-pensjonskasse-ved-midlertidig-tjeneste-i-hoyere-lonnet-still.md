@@ -1,0 +1,45 @@
+# Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag
+
+- **Datokode:** FOR-1984-03-19-2319
+- **DokumentID:** SF/forskrift/1984-03-19-2319
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **Etat:** Pensjonsavdelingen
+- **Hjemmel:** lov 28.07.1949 nr. 26/§15
+- **Publisert i:** I 1985 111
+- **I kraft fra:** 1984-05-01
+- **Siste endring i kraft:** 2026-05-21
+- **Sist endret ved:** forskrift 21.05.2026 nr. 893
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Forbruker- og administrasjonsdepartementet 19. mars 1984 med hjemmel i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 15 andre ledd andre punktum. Endret ved forskrifter 16 des 2001 nr. 1649 (i kraft 1 jan 2002), 12 okt 2021 nr. 3045 (bl.a. tittel), 21 mai 2026 nr. 893 (med virkning fra 1 mai 2024, bl.a tittel).
+- **Kilde:** <https://lovdata.no/forskrift/1984-03-19-2319>
+
+## § 1.
+
+Forskriften utfyller reglene i [lov om Statens pensjonskasse § 15](../lover/lov-1949-07-28-26-statens-pensjonskasseloven.md) andre ledd.
+
+*Tilføyd ved forskrift [12 okt 2021 nr. 3045](https://lovdata.no/forskrift/2021-10-12-3045), endret ved forskrift [21 mai 2026 nr. 893](https://lovdata.no/forskrift/2026-05-21-893) (med virkning fra 1 mai 2024).*
+
+## § 2.
+
+Midlertidig tjenestegjøring i høyere lønnet stilling får ikke virkning for pensjonsgrunnlaget hvis varigheten er under to år. Det betales pensjonspremie av det høyere grunnlaget med eventuell refusjon av differansen mellom innskuddene for de to pensjonsgrunnlagene hvis varigheten blir mindre enn to år.
+
+Er opprykket egentlig beregnet å bli varig, slik at midlertidigheten er av formell art, gjelder det høyere grunnlaget fra opprykket finner sted.
+
+*Tilføyd ved forskrift [12 okt 2021 nr. 3045](https://lovdata.no/forskrift/2021-10-12-3045).*
+
+## § 3.
+
+I vurderingen av om det skal beregnes et delt pensjonsgrunnlag, skal det tidligere pensjonsgrunnlaget i full stilling justeres slik for å sammenligne det med pensjonsgrunnlaget i full stilling på pensjoneringstidspunktet:
+
+a. For perioden fra lønnsnedgangen til 30. april 2024 justeres pensjonsgrunnlaget tilsvarende utviklingen av det nærmeste lønnstrinn nedad etter hovedtariffavtalen i staten.
+b. For perioden fra 1. mai 2024 til 1. mai før pensjoneringstidspunktet justeres pensjonsgrunnlaget i samsvar med prisveksten.
+
+Delt pensjonsgrunnlag skal bare beregnes når differansen mellom pensjonsgrunnlagene overstiger 1/48 av folketrygdens grunnbeløp på pensjoneringstidspunktet.
+
+*Tilføyd ved forskrift [21 mai 2026 nr. 893](https://lovdata.no/forskrift/2026-05-21-893) (med virkning fra 1 mai 2024).*
+
+## § 4.
+
+Forskriften trer i kraft 1. mai 1984.
+
+*Tilføyd ved forskrift [12 okt 2021 nr. 3045](https://lovdata.no/forskrift/2021-10-12-3045), endret ved forskrift [21 mai 2026 nr. 893](https://lovdata.no/forskrift/2026-05-21-893) (med virkning fra 1 mai 2024, tidligere § 3).*

@@ -1,0 +1,421 @@
+# Forskrift for Reindriftens Utviklingsfond
+
+- **Datokode:** FOR-2019-06-20-864
+- **DokumentID:** SF/forskrift/2019-06-20-864
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Landbrukspolitisk avdeling
+- **Hjemmel:** lov 15.06.2007 nr. 40/§82a
+- **Kunngjort:** 2019-06-25 16:00
+- **I kraft fra:** 2019-07-01
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** forskrift 22.06.2026 nr. 1173 fra 2026-07-01
+- **Endrer:** forskrift 21.06.2011 nr. 616
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2019-07-02 (§ 1-4).
+- **Merknad:** Hjemmel: Fastsatt av Landbruks- og matdepartementet 20. juni 2019 med hjemmel i Stortingets årlige vedtak om reindriftsavtalen. Tilføyd hjemmel: Lov 15. juni 2007 nr. 40 om reindrift (reindriftsloven) § 82a. Endret ved forskrifter 29 juni 2020 nr. 1422 (i kraft 1 juli 2020), 21 des 2020 nr. 3044 (i kraft 1 jan 2021), 22 juni 2021 nr. 2269 (i kraft 1 juli 2021), 22 juni 2021 nr. 2306 (i kraft 1 juli 2021), 20 juni 2022 nr. 1091 som endret ved forskrift 21 juni 2022 nr. 1121 (i kraft 1 juli 2022), 21 juni 2023 nr. 1010 (i kraft 1 juli 2023), 20 juni 2024 nr. 1060 (i kraft 1 juli 2024), 24 juni 2025 nr. 1259 (i kraft 1 juli 2025), 24 juni 2025 nr. 1283 (i kraft 1 juli 2025), 22 juni 2026 nr. 1173 (i kraft 1 juli 2026). Rettelser: 02.07.2019 (§ 1-4).
+- **Kilde:** <https://lovdata.no/forskrift/2019-06-20-864>
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1-1. Formål
+
+Reindriftens Utviklingsfond skal gjennom bruk av økonomiske virkemidler bidra til å utvikle reindriftsnæringen i samsvar med de reindriftspolitiske mål.
+
+### § 1-2. Fellesbestemmelser for alle tilskuddsordninger
+
+Bestemmelser i kapittel 1 gjelder for alle tilskuddsordninger etter denne forskriften, med mindre annet er særskilt bestemt.
+
+Med driftsår menes i denne forskrift perioden fra 1. april til 31. mars.
+
+### § 1-3. Styret for Reindriftens Utviklingsfond
+
+Reindriftens Utviklingsfond forvaltes av et styre med fire medlemmer. Styret oppnevnes for to år av gangen. Landbruks- og matdepartementet utpeker to medlemmer og to varamedlemmer. Norske Reindriftsamers Landsforbund utpeker to medlemmer og to varamedlemmer.
+
+Fondsstyret disponerer en andel av Reindriftens Utviklingsfonds totale bevilgning.
+
+Landbruksdirektoratet er sekretariat for fondsstyret.
+
+### § 1-4. Økonomiske rammer
+
+Økonomiske rammer og føringer for Reindriftens utviklingsfond blir fastsatt ved Stortingets behandling av proposisjonene om reindriftsavtalen og det årlige statsbudsjettet.
+
+Fondsstyret kan avslå søknader om økonomisk støtte ut fra fondets finansielle situasjon.
+
+Fondsstyret kan vedta retningslinjer og fastsette tilskuddssatser for enkeltordninger i fondet, jf. [§ 1-6](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md) andre ledd.
+
+Det kan gis tilskudd for inntil 65 prosent av tilskuddsgrunnlaget, dersom ikke annet er bestemt for den enkelte ordningen.
+
+Fondsstyret kan i særlige tilfeller dispensere fra denne bestemmelsens fjerde ledd.
+
+Fondsstyrets virksomhet skal være i overensstemmelse med gjeldende regelverk for økonomistyring i staten.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [24 juni 2025 nr. 1259](https://lovdata.no/forskrift/2025-06-24-1259) (i kraft 1 juli 2025).*
+
+### § 1-5. Rapportering
+
+Landbruksdirektoratet skal avlegge årsrapport for Reindriftens utviklingsfond innen 15. mars hvert år. Rapporten skal inneholde regnskap for siste år sammenholdt med budsjett og tidligere års regnskaper, samt en faglig evaluering av virksomheten.
+
+Regnskapet føres etter kontantprinsippet og Riksrevisjonen er revisor.
+
+*Endret ved forskrift [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021).*
+
+### § 1-6. Virkeområde
+
+Tilskudd fra Reindriftens Utviklingsfond kan innvilges etter ordningene for
+
+1. tilskudd til reindriftsanlegg, herunder gjerder og slakteanlegg, jf. [kapittel 3](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md),
+2. refusjon av dokumenterte utgifter til deltakelse på kurs/etterutdanning og lignende for reindriftsutøvere, jf. [kapittel 4](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md),
+3. tilskudd til feltbarnehage, jf. [kapittel 5](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md), og
+4. juridisk bistand til reinbeitedistrikter eller siidaer, jf. [kapittel 7](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md).
+
+Økonomisk støtte kan for øvrig innvilges til andre tiltak i samsvar med forskriftens formål, jf. § 1-1, herunder
+
+a. sikring av reindriftens beiterett, herunder støtte til distriktenes arbeid med sikring av reindriftens arealer,
+b. praktiske tiltak innenfor reindriften,
+c. faglige tiltak til fremme for reindriften, herunder veiledning, kursvirksomhet, etterutdanning, beitegransking, planlegging og avlstiltak,
+d. utvikling av binæringer og formål av generell kulturell betydning for reindriftssamene,
+e. tiltak for å fremme likestilling og kvinners situasjon i reindriften,
+f. tiltak knyttet til klimatilpasning, beredskap og forebygging,
+g. forskning og kunnskapsformidling,
+h. tilrettelegging for at reineiere med nedsatt funksjonsevne kan delta i reindriftsarbeid,
+i. tilskudd til fjerning av gammelt gjerdemateriell,
+j. stipend på 15 000 kroner til personer med rein i eget merke som skriver reindriftsrelatert masteroppgave.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), [20 juni 2024 nr. 1060](https://lovdata.no/forskrift/2024-06-20-1060) (i kraft 1 juli 2024), [24 juni 2025 nr. 1259](https://lovdata.no/forskrift/2025-06-24-1259) (i kraft 1 juli 2025), [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 1-7. Fellesvilkår
+
+Det er et vilkår for å få støtte fra Reindriftens Utviklingsfond at tiltaket fremmer reindriften i distriktet og området. Der det er aktuelt må tiltakets påvirkning på beiteslitasje og miljøet for øvrig vurderes.
+
+Det er et vilkår for tilskudd etter denne forskrift at det omsøkte tiltaket er i samsvar med de til enhver tid gjeldende lover og forskrifter.
+
+*Endret ved forskrift [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021).*
+
+### § 1-8. Krav til søknad
+
+Søknad om tilskudd fra Reindriftens Utviklingsfond skal sendes til Landbruksdirektoratet innen eventuell angitt frist.
+
+Dersom det er utarbeidet eget søknadsskjema for ordningen skal dette brukes. Nødvendig dokumentasjon skal vedlegges søknaden.
+
+### § 1-9. Saksbehandling
+
+Søknaden behandles av Landbruksdirektoratet, som avgir innstilling til styret for Reindriftens Utviklingsfond.
+
+Fondsstyret avgjør søknaden. Det kan fastsettes nærmere betingelser i tilskuddsvedtaket. Ved stemmelikhet har leder dobbeltstemme. Fondsstyret kan delegere avgjørelsesmyndighet til Landbruksdirektoratet.
+
+*Endret ved forskrifter [29 juni 2020 nr. 1422](https://lovdata.no/forskrift/2020-06-29-1422) (i kraft 1 juli 2020), [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021).*
+
+### § 1-10. Utbetaling
+
+Landbruksdirektoratet utbetaler 50 prosent av tilskuddet ved innvilgelse dersom ikke annet er bestemt for den enkelte ordning. Resterende blir utbetalt etter at Landbruksdirektoratet har godkjent innsendt regnskap og dokumentasjon.
+
+Uanvendt, innvilget tilskudd tilbakeføres til Reindriftens Utviklingsfond.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 1-11. Opplysningsplikt og kontroll
+
+Mottakere av tilskudd etter denne forskriften plikter å gi alle opplysninger som reindriftsmyndighetene finner nødvendige for å kunne forvalte tilskuddsordningen.
+
+Reindriftsmyndighetene kan foreta stedlig kontroll hos tilskuddsmottakeren.
+
+### § 1-12. Retting av feilutbetalinger
+
+Reindriftsmyndighetene kan rette feil i utbetalt tilskudd, enten ved etterbetaling eller krav om tilbakebetaling av tilskudd fra tilskuddsmottaker.
+
+### § 1-13. Avkorting og tilbakeholdelse
+
+Dersom tilskuddsmottaker uaktsomt har gitt uriktige eller ufullstendige opplysninger i søknaden, som har eller ville ha dannet grunnlag for en urettmessig utbetaling av tilskuddet, kan hele eller deler av tilskuddet avkortes.
+
+Dersom tilskuddsmottaker uaktsomt eller forsettlig driver eller har drevet sin virksomhet i strid med lover eller forskrifter for reindriftsnæringen, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.
+
+### § 1-14. Innkreving av tilbakebetalings- eller avkortingsbeløp
+
+Differansen mellom utbetalt beløp og berettiget tilskudd som følge av vedtak om tilbakebetaling etter [§ 1-12](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md) eller avkorting etter [§ 1-13](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md), kan kreves tilbakebetalt fra tilskuddsmottakeren eller motregnes i senere tilskuddsutbetalinger.
+
+Krav fra reindriftsmyndighetene kan motregnes i tilskuddsutbetalinger til tilskuddsmottakeren.
+
+Dersom tilskuddsmottakeren ikke var i aktsom god tro om utbetalingen, kan renter kreves fra det tidspunkt tilbakebetalingskravet er kommet fram til mottaker. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetaling av det urettmessige tilskuddet. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av § 3 i [lov 17. desember 1976 nr. 100](../lover/lov-1976-12-17-100-forsinkelsesrenteloven.md) om renter ved forsinket betaling m.m.
+
+*Endret ved forskrift [20 juni 2024 nr. 1060](https://lovdata.no/forskrift/2024-06-20-1060) (i kraft 1 juli 2024).*
+
+### § 1-15. Klageadgang
+
+Vedtak etter denne forskrift kan påklages til Landbruks- og matdepartementet etter [forvaltningslovens](../lover/lov-1967-02-10-forvaltningsloven.md) regler.
+
+## Kapittel 2. (Opphevet)
+
+*Kapittel 2 opphevet ved forskrift [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 2-1. (Opphevet)
+
+*Endret ved forskrifter [22 juni 2021 nr. 2269](https://lovdata.no/forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), opphevet ved forskrift [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 2-2. (Opphevet)
+
+*Opphevet ved forskrift [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 2-3. (Opphevet)
+
+*Endret ved forskrifter [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2269](https://lovdata.no/forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [24 juni 2025 nr. 1259](https://lovdata.no/forskrift/2025-06-24-1259) (i kraft 1 juli 2025), opphevet ved forskrift [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 2-4. (Opphevet)
+
+*Endret ved forskrifter [21 des 2020 nr. 3044](https://lovdata.no/forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) som endret ved [forskrift 21 juni 2022 nr. 1121](https://lovdata.no/forskrift/2022-06-21-1121) (i kraft 1 juli 2022), opphevet ved forskrift [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 2-5. (Opphevet)
+
+*Endret ved forskrifter [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [24 juni 2025 nr. 1259](https://lovdata.no/forskrift/2025-06-24-1259) (i kraft 1 juli 2025) opphevet ved forskrift [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 2-6. (Opphevet)
+
+*Endret ved forskrift [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), opphevet ved forskrift [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+## Kapittel 3. Tilskudd til reindriftsanlegg
+
+### § 3-1. Formål
+
+Formålet med tilskuddet er å bidra til å dekke utgifter til oppføring, endring og oppgradering av reindriftsanlegg.
+
+*Endret ved forskrift [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021).*
+
+### § 3-2. Definisjoner
+
+Med reindriftsanlegg menes permanente gjerder og anlegg, jf. [reindriftsloven § 24](../lover/lov-2007-06-15-40-reindriftsloven.md). Slakteanlegg kan unntas fra kravet om å være permanent.
+
+*Endret ved forskrift [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021).*
+
+### § 3-3. Vilkår for tilskudd
+
+Tilskudd til reindriftsanlegg kan innvilges til siidaandel, siida, reinbeitedistrikt og reinlag.
+
+Tilskudd ytes kun til reindriftsanlegg som er beskrevet i godkjente bruksregler og vedtatte distriktsplaner. For reinlag skal reindriftsanlegg i stedet være beskrevet i vedtatte reindriftsplaner.
+
+Siidaandeler som søker om tilskudd til reindriftsanlegg må oppfylle vilkårene i [forskrift om tilskudd til siidaandeler og reinlag § 3](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md) og [§ 4](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md). Reinbeitedistrikt, reinlag og reinbeitedistrikt som siida tilhører må oppfylle vilkårene i [forskrift om tilskudd til reinbeitedistrikter og reinlag § 2-1](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md).
+
+Tilskudd kan ytes til følgende tiltak:
+
+a. oppføring av nye reindriftsanlegg,
+b. utvidelse, endring eller oppgradering av eksisterende reindriftsanlegg, herunder endring av eksisterende reindriftsanlegg som er nødvendige for bruk og avlesning av elektroniske individmerker, og
+c. rivning av reindriftsanlegg hvor eier- eller ansvarsforholdet er ukjent.
+
+Tilskudd skal ikke innvilges til reindriftsanlegg som er påbegynt før søknad om tilskudd er sendt til Landbruksdirektoratet.
+
+Kostnader til vedlikehold og kostnader til flyttbare og midlertidige gjerder og anlegg er ikke tilskuddsberettigede kostnader, jf. [§ 3-4](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md).
+
+Det kan ikke innvilges tilskudd til anlegg som er gitt tilskudd etter forskrift om konfliktforebyggende tiltak i forholdet mellom reindrift og annen berørt part.
+
+Tiltaket må være gjennomført innen tre år fra bevilgningsdato.
+
+*Endret ved forskrifter [29 juni 2020 nr. 1422](https://lovdata.no/forskrift/2020-06-29-1422) (i kraft 1 juli 2020), [22 juni 2021 nr. 2269](https://lovdata.no/forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 3-4. Tilskuddsberettigede kostnader
+
+Tilskuddsberettigede kostnader er materialkostnader (med veggfast inventar), transport, spesialarbeid og eget arbeid.
+
+I særlige tilfeller, herunder bygging av større anlegg, kan leid konsulentbistand ansees som en tilskuddsberettiget kostnad. Ved slakte- og gjerdeanlegg kan også kostnadene til vei/parkering og vann/avløp inngå. Som spesialarbeid regnes elektriker-, rørlegger- og annet arbeid, som i henhold til gjeldende bestemmelser krever særlig kompetanse.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2269](https://lovdata.no/forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021).*
+
+### § 3-5. Tilskuddsgrunnlag
+
+Tilskuddsgrunnlaget er summen av de tilskuddsberettigede kostnadene for det omsøkte tiltaket.
+
+Tilskuddsgrunnlaget beregnes på grunnlag av netto materialkostnader (eksklusive merverdiavgift). For søkere som ikke har krav på fradrag for inngående merverdiavgift, tas merverdiavgiften med i beregningen av tilskuddsgrunnlaget.
+
+Timesatsen for eget arbeid er 210 kroner. Eget arbeid kan maksimalt utgjøre summen av de øvrige kostnadene som inngår i tilskuddsgrunnlaget, jf. [§ 3-4](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md).
+
+*Tilføyd ved forskrift [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), endret ved forskrifter [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), [24 juni 2025 nr. 1259](https://lovdata.no/forskrift/2025-06-24-1259) (i kraft 1 juli 2025).*
+
+### § 3-6. Utmåling av tilskudd
+
+Det kan gis tilskudd for inntil 35 prosent av tilskuddsgrunnlaget når søker er siidaandel/siida og inntil 50 prosent når søker er reinbeitedistrikt/reinlag, fellesbeitedistrikt eller minst to distrikter/reinlag i fellesskap. For slakteanlegg som klart er skilt fra øvrige anlegg kan det gis tilskudd for inntil 25 prosent av tilskuddsgrunnlaget. Nedre grense for tilskuddsgrunnlaget er fastsatt til 20 000 kroner.
+
+Styret for Reindriftens Utviklingsfond kan i særlige tilfeller dispensere fra denne bestemmelsens første ledd.
+
+*Tilføyd ved forskrift [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021).*
+
+### § 3-7. Særskilt krav til søknad
+
+Søknad om tilskudd sendes på særskilt skjema til Landbruksdirektoratet.
+
+Som vedlegg til søknad om tilskudd til reindriftsanlegg kreves oppføringstillatelse, spesifisert oversikt for alle kostnader knyttet til tiltaket, reell finansieringsplan og målsatt tegning av anlegget. Kostnader som ikke er tilskuddsberettiget, jf. [§ 3-4](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md), skal likevel tas med i kostnadsoversikten.
+
+For bygging, endring, utvidelse eller oppgradering av slakteri skal en spesifisert forretningsplan for minst tre år, samt nødvendige offentlige godkjenninger foreligge.
+
+For reindriftsanlegg med kostnad over 150 000 kroner skal det sendes skriftlig forespørsel til minst tre tilbydere på de tilskuddsberettigede kostnadene, jf. [§ 3-4](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md).
+
+Flere reindriftsanlegg som inngår i en helhet kan samles i én søknad, men kostnadene forutsettes da spesifisert i vedlegg til søknaden.
+
+*Endret ved forskrifter [29 juni 2020 nr. 1422](https://lovdata.no/forskrift/2020-06-29-1422) (i kraft 1 juli 2020), [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021, tidligere § 3-5).*
+
+### § 3-8. Rapportering
+
+Tilskuddsmottaker må innen ett år etter at anlegget er ferdigstilt sende inn rapport som skal omfatte regnskap og en beskrivelse av om eventuelle særskilte forutsetninger er oppfylt. Rapport sendes Landbruksdirektoratet.
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021, tidligere § 3-6), [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022).*
+
+## Kapittel 4. Refusjon av kursutgifter
+
+### § 4-1. Formål
+
+Formålet med tilskuddet er å bidra til kompetanseheving i reindriften gjennom å gi støtte til kurs og etterutdanning.
+
+### § 4-2. Vilkår for refusjon
+
+Reineiere kan få refundert utgifter til kursavgift, reise og opphold i forbindelse med kurs/etterutdanning som har som målsetting å opparbeide og/eller videreutvikle reindriftsutøverens kompetanse til utøvelse av reindrift.
+
+For at refusjon skal kunne innvilges må reineier ha rein i eget merke. Videre må reinlag eller siidaandel som søker tilhører oppfylle vilkårene i [forskrift om tilskudd til siidaandeler og reinlag § 3](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md) og [§ 4](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md).
+
+Dersom leder/ledere av siidaandel som søker tilhører oppfyller vilkårene for å motta etableringstilskudd etter [forskrift om tilskudd til siidaandeler og reinlag § 9](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md) gjelder ikke inntektskravet i [forskrift om tilskudd til siidaandeler og reinlag § 3 første ledd nummer 2](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md).
+
+*Endret ved forskrifter [22 juni 2021 nr. 2269](https://lovdata.no/forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 4-3. Beregning av støtte
+
+Utgifter til kurs/etterutdanning kan refunderes med 50 prosent av dokumenterte utgifter, begrenset oppad til 6 000 kroner per år.
+
+### § 4-4. Krav til søknaden
+
+Søknad om refusjon av utgifter må sendes på særskilt skjema til Landbruksdirektoratet innen 6 måneder etter kursets avslutning. Som vedlegg til søknaden sendes den dokumentasjon Landbruksdirektoratet finner nødvendig for å kunne forvalte tilskuddsordningen.
+
+## Kapittel 5. Tilskudd til feltbarnehage
+
+### § 5-1. Formål
+
+Formålet med tilskuddet er å legge til rette for at flere i familien kan delta under større reindriftsaktiviteter i reinbeitedistriktet, sommersiidaen, vintersiidaen eller reinlaget, samt å bidra til kunnskapsoppbygging hos barn om disse aktivitetene.
+
+*Endret ved forskrift [22 juni 2021 nr. 2269](https://lovdata.no/forskrift/2021-06-22-2269) (i kraft 1 juli 2021).*
+
+### § 5-2. Definisjoner
+
+Med feltbarnehage menes organisert og tidsavgrenset pass av barn under skolepliktig alder i tilknytning til perioder med større reindriftsaktiviteter. Slik barnepass må omfatte tilrettelagte opplæringsaktiviteter i reindriften.
+
+### § 5-3. Vilkår for tilskudd til feltbarnehage
+
+Tilskudd til barn i feltbarnehage kan innvilges til reinbeitedistrikt, sommersiida eller reinlag for inntil tre uker per år i tilknytning til større reindriftsaktiviteter. I tillegg kan siidaandelsleder i vintersiida søke om tilskudd etter bestemmelsene i denne forskriften.
+
+Tilskudd kan innvilges til pass av barn som tilhører reinbeitedistriktet, sommersiidaen, vintersiidaen eller reinlaget der reindriftsaktiviteten foregår. Tilskuddet kan ytes frem til den måneden barnet begynner på skolen.
+
+Tilskudd til pass av egne barn og/eller ektefelles/samboers barn kan kun innvilges dersom barnet/barna blir passet som en del av en gruppe sammen med andres barn, og egne barn og/eller ektefelles/samboers barn ikke utgjør mer enn 1/3 av denne gruppen.
+
+Den som utfører pass av barn, må være fylt 15 år.
+
+Reinbeitedistrikt, reinlag og reinbeitedistrikt som sommersiida tilhører må oppfylle vilkårene i [forskrift om tilskudd til reinbeitedistrikter og reinlag § 2-1](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md).
+
+Dersom søker er siidaandelsleder i vintersiida, må siidaandelen oppfylle vilkårene i [forskrift om tilskudd til siidaandeler og reinlag § 3](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md) og [§ 4](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md). Dersom siidaandelsleder oppfyller vilkårene for å motta etableringstilskudd etter [forskrift om tilskudd til siidaandeler og reinlag § 9](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md), gjelder ikke inntektskravet i [forskrift om tilskudd til siidaandeler og reinlag § 3 første ledd nummer 2](for-2019-06-20-865-forskrift-om-tilskudd-til-siidaandeler-og-reinlag.md).
+
+*Endret ved forskrifter [22 juni 2021 nr. 2269](https://lovdata.no/forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [24 juni 2025 nr. 1259](https://lovdata.no/forskrift/2025-06-24-1259) (i kraft 1 juli 2025), [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 5-4. Tilskuddets størrelse
+
+For barn fra og med fylte tre år kan det innvilges tilskudd med 1000 kroner per barn per uke.
+
+For barn under tre år kan det innvilges tilskudd med 2 000 kroner per barn per uke.
+
+*Endret ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022).*
+
+### § 5-5. Særskilt krav til søknad og søknadsfrist
+
+Søknaden sendes Landbruksdirektoratet på særskilt skjema senest en måned etter at reindriftsaktiviteten er gjennomført.
+
+Søker må oppgi navn og fødselsdato på den som engasjeres til barnepasset, samt navn og fødselsdato og på de barn som omfattes. Avtale med barnepasser og bekreftelse på betaling til barnepasser må vedlegges.
+
+Søker må opplyse om hvilke aktiviteter barna har deltatt i, og start- og sluttdato for feltbarnehagen.
+
+*Endret ved forskrifter [29 juni 2020 nr. 1422](https://lovdata.no/forskrift/2020-06-29-1422) (i kraft 1 juli 2020), [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [24 juni 2025 nr. 1259](https://lovdata.no/forskrift/2025-06-24-1259) (i kraft 1 juli 2025).*
+
+## Kapittel 6. (Opphevet)
+
+*Kapittelet endret i sin helhet ved forskrift [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), endret i sin helhet ved forskrift [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), opphevet ved forskrift [20 juni 2024 nr. 1060](https://lovdata.no/forskrift/2024-06-20-1060) (i kraft 1 juli 2024).*
+
+### § 6-1. (Opphevet)
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), opphevet ved forskrift [20 juni 2024 nr. 1060](https://lovdata.no/forskrift/2024-06-20-1060) (i kraft 1 juli 2024).*
+
+### § 6-2. (Opphevet)
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), opphevet ved forskrift [20 juni 2024 nr. 1060](https://lovdata.no/forskrift/2024-06-20-1060) (i kraft 1 juli 2024).*
+
+### § 6-3. (Opphevet)
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), opphevet ved forskrift [20 juni 2024 nr. 1060](https://lovdata.no/forskrift/2024-06-20-1060) (i kraft 1 juli 2024).*
+
+### § 6-4. (Opphevet)
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), opphevet ved forskrift [20 juni 2024 nr. 1060](https://lovdata.no/forskrift/2024-06-20-1060) (i kraft 1 juli 2024).*
+
+### § 6-5. (Opphevet)
+
+*Endret ved forskrifter [22 juni 2021 nr. 2306](https://lovdata.no/forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](https://lovdata.no/forskrift/2023-06-21-1010) (i kraft 1 juli 2023), opphevet ved forskrift [20 juni 2024 nr. 1060](https://lovdata.no/forskrift/2024-06-20-1060) (i kraft 1 juli 2024).*
+
+## Kapittel 7. Tilskudd til juridisk bistand til reinbeitedistrikter eller siidaer
+
+*Tilføyd ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022).*
+
+### § 7-1. Formål
+
+Formålet med tilskuddet er å bidra til at reinbeitedistrikter eller siidaer får mulighet til å ivareta sine beiterettigheter.
+
+*Tilføyd ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022).*
+
+### § 7-2. Vilkår
+
+Reinbeitedistrikter eller siidaer kan innvilges tilskudd til juridisk bistand i forbindelse med ivaretakelse av reindriftens beiterett i Norge. I slike saker innvilges det ikke tilskudd i tvister mellom norsk og svensk reindrift.
+
+Reinbeitedistrikter eller siidaer, som var omfattet av den opphevede reinbeitekonvensjonen av 9. februar 1972 nr. 1, kan innvilges tilskudd til juridisk bistand til domstolsbehandling i Sverige og Norge dersom svensk reindrift trekker reinbeitedistriktet eller siidaen inn i rettssaker om avklaring av rettigheter til reinbeitedistriktets eller siidaens:
+
+a. tradisjonelle beiteområder i Sverige, eller
+b. beiteområder i Norge.
+
+Det innvilges ikke tilskudd i tvister internt i norsk reindrift eller i tvister mellom norsk reindrift og norske eller svenske reindriftsmyndigheter.
+
+Reinbeitedistrikt eller reinbeitedistrikt som siida tilhører må oppfylle vilkårene i [forskrift om tilskudd til reinbeitedistrikter og reinlag § 2-1](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md).
+
+*Tilføyd ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022), endret ved forskrift [22 juni 2026 nr. 1173](https://lovdata.no/forskrift/2026-06-22-1173) (i kraft 1 juli 2026).*
+
+### § 7-3. Tilskuddsberettigede kostnader
+
+Tilskudd kan innvilges til dekning av følgende nødvendige kostnader:
+
+a. juridisk bistand for inntil 100 timer i forbindelse med rettssak i første rettsinstans, og inntil 50 timer for hver ankeinstans. Tilskuddet beregnes ut fra antall dokumenterte timer. Det gis dekning etter den til enhver tid gjeldende offentlige salærsats i landet hvor rettssaken gjennomføres,
+b. reise og opphold, der slike utgifter har vært vesentlige og nødvendige i forbindelse med domstolsbehandling. Utgifter til reise dekkes etter statens satser. Utgifter til opphold dekkes etter regning, og
+c. juridisk bistand for inntil 50 timer i saker uten domstolsbehandling.
+
+*Tilføyd ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022), endret ved forskrift [24 juni 2025 nr. 1259](https://lovdata.no/forskrift/2025-06-24-1259) (i kraft 1 juli 2025).*
+
+### § 7-4. Krav til søknad
+
+Søknad om tilskudd sendes på særskilt skjema til Landbruksdirektoratet.
+
+Som vedlegg til søknaden om tilskudd til juridisk bistand kreves oppdragsbekreftelse vedrørende juridisk bistand.
+
+Ved søknad om juridisk bistand i forbindelse med domstolsbehandling skal i tillegg dokumentasjon på at søker har initiert eller blitt trukket inn i rettsprosess vedlegges.
+
+*Tilføyd ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022).*
+
+### § 7-5. Dokumentasjon
+
+For saker med domstolsbehandling må tilskuddsmottaker innen tre måneder etter domsavsigelse for hver rettsinstans dokumentere alle tilskuddsberettigede kostnader, jf. § 7-3 bokstav a og b.
+
+For saker uten domstolsbehandling må tilskuddsmottaker innen tre måneder etter at saken er avsluttet dokumentere tilskuddsberettigede kostnader, jf. § 7-3 bokstav c.
+
+*Tilføyd ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022).*
+
+### § 7-6. Tilbakebetaling
+
+Landbruksdirektoratet kan helt eller delvis kreve tilbakebetalt utbetalt tilskudd søker ikke har dokumentert i henhold til § 7-5 eller hvis søker får eller har fått dekket tilskuddsberettigede kostnader på annen måte.
+
+For øvrig gjelder de alminnelige reglene om retting av feilutbetaling, avkorting og tilbakeholdelse, og innkreving i [§ 1-12](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md) til [§ 1-14](for-2019-06-20-864-forskrift-for-reindriftens-utviklingsfond.md).
+
+*Tilføyd ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022).*
+
+## Kapittel 8. Ikrafttredelse
+
+*Endret ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022, tidligere kapittel 7).*
+
+### § 8-1. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. juli 2019. Samtidig oppheves [forskrift 21. juni 2011 nr. 616](https://lovdata.no/forskrift/2011-06-21-616) for Reindriftens Utviklingsfond.
+
+*Endret ved forskrift [20 juni 2022 nr. 1091](https://lovdata.no/forskrift/2022-06-20-1091) (i kraft 1 juli 2022, tidligere § 7-1).*

@@ -1,0 +1,141 @@
+# Forskrift om konsekvensutredninger og avgrensing av planområdene på Svalbard
+
+- **Korttittel:** Forskrift om planområdene på Svalbard mv.
+- **Datokode:** FOR-2002-06-28-650
+- **DokumentID:** SF/forskrift/2002-06-28-650
+- **Departement:** Klima- og miljødepartementet
+- **Etat:** Hav- og forurensningsavd.
+- **Hjemmel:** lov 15.06.2001 nr. 79/§47; lov 15.06.2001 nr. 79/§59
+- **Publisert i:** I 2002 hefte 7
+- **Kunngjort:** 2002-07-02
+- **I kraft fra:** 2002-07-01
+- **Siste endring i kraft:** 2021-12-03
+- **Sist endret ved:** forskrift 03.12.2021 nr. 3395
+- **Gjelder for:** Svalbard
+- **Siste rettelse:** 2014-01-14 (kartstørrelse i vedlegg)
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 28. juni 2002 med hjemmel i lov av 15. juni 2001 nr. 79 om miljøvern på Svalbard (svalbardmiljøloven) § 47 og § 59 siste ledd. Fremmet av Miljøverndepartementet (nå Klima- og miljødepartementet). Endret ved forskrifter 20 des 2013 nr. 1688, 19 des 2013 nr. 1757, 4 april 2014 nr. 378, 3 des 2021 nr. 3395. Rettelser: 01.08.2002 (paragrafer i hjemmelsfeltet), 14.01.2014 (kartstørrelse i vedlegg).
+- **Kilde:** <https://lovdata.no/forskrift/2002-06-28-650>
+
+## Kapittel I. Avgrensing av planområdene
+
+### § 1. (planområdene)
+
+Reglene om arealplanlegging i [svalbardmiljøloven kapittel VI](../lover/lov-2001-06-15-79-svalbardmiljoloven.md) gjelder innenfor følgende avgrensede planområder på Svalbard: Longyearbyen, Svea, Ny-Ålesund, Barentsburg, Pyramiden og Colesbukta.
+
+Planområdene er vist på kart, og inngår som vedlegg til forskriften. Kartene oppbevares hos Klima- og miljødepartementet, Sysselmesteren på Svalbard og planansvarlig.
+
+Klima- og miljødepartementet kan gjøre endringer i avgrensingen av områdene.
+
+*Endret ved [forskrifter 19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [3 des 2021 nr. 3395](https://lovdata.no/forskrift/2021-12-03-3395).*
+
+## Kapittel II. Konsekvensutredninger
+
+### § 2. (formål)
+
+Formålet med konsekvensutredningen er å klargjøre hvilke virkninger en virksomhet kan ha for sammenhengende villmark, landskap, flora, fauna og kulturminner. Forskriften skal sikre at slike virkninger blir tatt i betraktning under planleggingen av et tiltak, ved vurderingen av om tiltaket er forsvarlig og eventuelt på hvilke vilkår det kan gjennomføres.
+
+*Endret ved [forskrift 4 april 2014 nr. 378](https://lovdata.no/forskrift/2014-04-04-378) (i kraft 1 mai 2014).*
+
+### § 3. (utredningspliktige virksomheter)
+
+Virksomheter som trenger tillatelse etter [svalbardmiljøloven § 57](../lover/lov-2001-06-15-79-svalbardmiljoloven.md) eller [§ 58](../lover/lov-2001-06-15-79-svalbardmiljoloven.md) tredje ledd og som
+
+a. kan få mer enn ubetydelig virkning for naturmiljøet utenfor planområdene, eller
+b. kan få betydelig og langvarig virkning for miljø og samfunn i et planområde
+
+skal konsekvensutredes av tiltakshaver.
+
+Sysselmesteren avgjør om en virksomhet går inn under første ledd og kan treffe vedtak om at det for en bestemt virksomhet er unødvendig å utarbeide konsekvensutredning.
+
+Dersom to eller flere virksomheter som hver for seg ikke utløser utredningsplikten i første ledd, søkes lokalisert innen samme område, kan Sysselmesteren pålegge utredningsplikt for disse dersom virksomhetene samlet sett oppfyller vilkårene i første ledd.
+
+Sysselmesterens avgjørelse om utredningsplikt etter denne bestemmelse, jf. [svalbardmiljøloven § 59](../lover/lov-2001-06-15-79-svalbardmiljoloven.md) fjerde ledd annet punktum kan påklages til Klima- og miljødepartementet.
+
+*Endret ved [forskrifter 19 des 2013 nr. 1757](https://lovdata.no/forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [4 april 2014 nr. 378](https://lovdata.no/forskrift/2014-04-04-378) (i kraft 1 mai 2014), [3 des 2021 nr. 3395](https://lovdata.no/forskrift/2021-12-03-3395).*
+
+### § 4. (saksbehandling)
+
+Tiltakshaver skal tidligst mulig sende Sysselmesteren forhåndsmelding med forslag til utredningsprogram. Sysselmesteren sender forhåndsmeldingen på høring. Sysselmesteren skal sette en rimelig frist for uttalelser til forhåndsmeldingen. Fristen bør ikke settes kortere enn seks uker.
+
+På bakgrunn av høringsuttalelsene utarbeider og godkjenner Sysselmesteren et endelig utredningsprogram. Utredningsprogrammet skal fastsette hvilke utredninger som må gjennomføres for å belyse tiltakets konsekvenser. Sysselmesteren kan også treffe vedtak om at utredningen skal omfatte virkninger for lokal bosetting og for annen lovlig virksomhet. Sysselmesteren skal fastsette utredningsprogrammet innen rimelig tid, normalt senest innen ti uker etter at høringsfristen til forhåndsmeldingen har gått ut.
+
+Sysselmesteren bør gjennomføre nødvendige tiltak for å legge til rette for medvirkning av berørte myndigheter og interesserte i forkant av fastsettelsen av utredningsprogrammet.
+
+Fastsatt utredningsprogram sendes tiltakshaver, med kopi til dem som har avgitt uttalelse til meldingen, sammen med en oppsummering av hvordan høringsuttalelsene er vurdert i forhold til det fastsatte programmet.
+
+Tiltakshaver utarbeider konsekvensutredningen i henhold til utredningsprogrammet.
+
+Sysselmesteren skal sende konsekvensutredningen på høring samtidig med søknad om tillatelse, jf. [svalbardmiljøloven § 57](../lover/lov-2001-06-15-79-svalbardmiljoloven.md) eller [§ 58](../lover/lov-2001-06-15-79-svalbardmiljoloven.md) tredje ledd. Sysselmesteren skal sette en rimelig frist for uttalelser til konsekvensutredningen. Fristen bør ikke settes kortere enn åtte uker.
+
+Sysselmesteren kan, på bakgrunn av høringen, stille krav om nærmere undersøkelser eller tilleggsopplysninger før tillatelse gis.
+
+Sysselmesteren skal avgjøre om konsekvensutredningen kan godkjennes innen rimelig tid, normalt senest innen seks uker etter at fristen for uttalelser til konsekvensutredningen har gått ut.
+
+Tiltakshaver bærer kostnadene ved utarbeidelse og bekjentgjøring av forhåndsmelding, konsekvensutredning og til møter om konsekvensutredningen.
+
+Fastsettelse av utredningsprogram og godkjenning av konsekvensutredning regnes som prosessledende bestemmelser og kan følgelig ikke påklages.
+
+*Endret ved forskrift [3 des 2021 nr. 3395](https://lovdata.no/forskrift/2021-12-03-3395).*
+
+### § 5. (forhåndsmelding og konsekvensutredning for flere virksomheter)
+
+Dersom flere virksomheter søkes lokalisert innen samme område, kan Sysselmesteren pålegge at det skal utarbeides felles forhåndsmelding og/eller felles konsekvensutredning for tiltakene.
+
+*Endret ved forskrift [3 des 2021 nr. 3395](https://lovdata.no/forskrift/2021-12-03-3395).*
+
+### § 6. (innholdet i forhåndsmeldingen)
+
+Forhåndsmelding etter [svalbardmiljøloven § 59](../lover/lov-2001-06-15-79-svalbardmiljoloven.md) tredje ledd skal gi en kort beskrivelse av tiltaket og, på bakgrunn av tilgjengelig kunnskap på meldingstidspunktet, av antatte konsekvenser for villmark, landskapselementer, flora, fauna og kulturminner.
+
+Forhåndsmeldingen skal inneholde kart hvor lokalisering av den planlagte virksomheten og eventuelt alternative lokaliseringer er avmerket.
+
+Forhåndsmeldingen skal inneholde et forslag til utredningsprogram, som omfatter aktuelle problemstillinger i forhold til avklaringen om hvorvidt tiltaket skal iverksettes og eventuelt på hvilke vilkår dette kan skje.
+
+### § 7. (innholdet i og utformingen av konsekvensutredningen)
+
+Konsekvensutredningen skal i henhold til [svalbardmiljøloven § 59](../lover/lov-2001-06-15-79-svalbardmiljoloven.md) annet ledd, på bakgrunn av et godkjent utredningsprogram gjøre rede for tiltaket og aktuelle alternativer og belyse mulige virkninger for villmark, landskapselementer, flora, fauna og kulturminner med hensyn til hva som kan gjøres for å forhindre eller avbøte eventuelle skader og ulemper. Konsekvensutredningen skal også redegjøre for de samfunnsmessige virkninger av tiltaket.
+
+Utredningen skal inneholde en beskrivelse av direkte og indirekte konsekvenser av tiltaket, samt en sammenstilling av konsekvensene og en sammenligning og vurdering av konsekvenser ved de ulike alternativer.
+
+Konsekvensutredningen skal inneholde en vurdering av behovet for nærmere undersøkelser før iverksettelse av tiltaket, samt behovet for undersøkelser med sikte på å overvåke og klargjøre de faktiske virkningene av tiltaket.
+
+Konsekvensutredningen skal fremstå som ett samlet dokument og inneholde nødvendige illustrasjoner og kartmateriale.
+
+Relevante bakgrunnsdokumenter skal være tilgjengelige hos Sysselmesteren.
+
+*Endret ved forskrift [3 des 2021 nr. 3395](https://lovdata.no/forskrift/2021-12-03-3395).*
+
+### § 8. (bruk og oppfølging av konsekvensutredningen)
+
+Det kan ikke gis tillatelse knyttet til tiltaket før utredningsplikten er oppfylt.
+
+I begrunnelsen for vedtaket om tillatelse eller vedtak om avslag skal det fremgå hvordan konsekvensutredningen og uttalelsene til denne er vurdert og hvilken betydning de har hatt for avgjørelsen.
+
+Tiltakshaveren skal i samsvar med vilkår i tillatelsen, gjennomføre en regelmessig og effektiv overvåking av miljøet for å
+
+a. vurdere virkninger av pågående virksomhet, herunder verifisering av forutsette virkninger, og
+b. legge forholdene til rette for at uforutsette virkninger kan bli oppdaget på et tidlig tidspunkt.
+
+### § 9. (fornyet konsekvensutredning)
+
+Dersom virksomheten ikke er påbegynt innen fem år etter at tillatelsen ble gitt, må det utarbeides ny konsekvensutredning. Sysselmesteren kan frita for ny konsekvensutredning, men kan stille krav om supplerende utredninger på bestemte tema eller problemstillinger.
+
+*Endret ved forskrift [3 des 2021 nr. 3395](https://lovdata.no/forskrift/2021-12-03-3395).*
+
+### § 10. (virksomheter med grenseoverskridende miljøvirkninger)
+
+Dersom et tiltak kan få vesentlige miljøvirkninger i en annen stat, eller når en annen stat som i betydelig utstrekning kan bli berørt av tiltaket anmoder om det, skal opplysninger om tiltaket og dets mulige virkninger i vedkommende stat sendes til myndighetene i den berørte stat.
+
+Forhåndsmeldingen skal inneholde informasjon om mulige grenseoverskridende virkninger, hvordan disse er tenkt nærmere utredet og hvilke beslutninger konsekvensutredningen skal ligge til grunn for.
+
+## Kapittel III. Ikrafttreden
+
+### § 11. (ikrafttreden)
+
+Forskriften trer i kraft 1. juli 2002.
+
+## Vedlegg. Planområde for Longyearbyen
+
+![](https://lovdata.no/static/SF/sf-20020628-0650-01-01.png)
+
+*Tilføyd ved [forskrift 20 des 2013 nr. 1688](https://lovdata.no/forskrift/2013-12-20-1688) (i kraft 1 jan 2014).*

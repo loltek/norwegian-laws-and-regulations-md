@@ -1,0 +1,357 @@
+# Forskrift om opptak til Universitetet i Bergen
+
+- **Datokode:** FOR-2018-11-27-1907
+- **DokumentID:** SF/forskrift/2018-11-27-1907
+- **Departement:** Kunnskapsdepartementet
+- **Etat:** Universitetet i Bergen
+- **Hjemmel:** lov 01.04.2005 nr. 15/§3-6; lov 01.04.2005 nr. 15/§3-7; forskrift 01.12.2005 nr. 1392/§2; forskrift 06.01.2017 nr. 13/§1-1; lov 08.03.2024 nr. 9/§17-3
+- **Kunngjort:** 2018-12-14 16:45
+- **I kraft fra:** 2019-01-01
+- **Siste endring i kraft:** 2024-05-02
+- **Sist endret ved:** forskrift 02.05.2024 nr. 1446
+- **Endrer:** forskrift 16.02.2012 nr. 872
+- **Gjelder for:** Norge
+- **Merknad:** Heimel: Fastsett av styret for Universitetet i Bergen 27. november 2018 med heimel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-6 og § 3-7, forskrift 1. desember 2005 nr. 1392 om krav til mastergrad § 2 og forskrift 6. januar 2017 nr. 13 om opptak til høgre utdanning § 1-1 fjerde ledd. Tilføyd hjemmel: Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3. Endra ved forskrifter 28 nov 2019 nr. 1867 (i kraft 1 jan 2020), 20 feb 2020 nr. 180 (i kraft 1 mars 2020), 6 april 2020 nr. 725, 26 nov 2020 nr. 2481, 17 juni 2021 nr. 2497, 2 feb 2022 nr. 231, 16 juni 2022 nr. 1469, 2 mai 2024 nr. 1446.
+- **Kilde:** <https://lovdata.no/forskrift/2018-11-27-1907>
+
+## Kapittel 1. Verkeområde
+
+### § 1-1. Verkeområde
+
+(1) Forskrifta gjeld opptak til alle utdanningar ved Universitetet i Bergen til og med mastergradsnivå. Forskrifta gjeld ikkje for opptak til:
+
+- Etterutdanning som ikkje gir studiepoeng
+- Spesialistutdanning i odontologi
+- Kvalifiseringsprogrammet for tannlegar
+- Fellesgradar.
+
+(2) [Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/lov/2005-04-01-15), [forskrift 6. januar 2017 nr. 13](for-2017-01-06-13-forskrift-om-opptak-til-hogare-utdanning.md) om opptak til høgre utdanning (forskrift om opptak til høgre utdanning), [forskrift 21. desember 2015 nr. 1771 om rammeplan for praktisk-pedagogisk utdanning](https://lovdata.no/forskrift/2015-12-21-1771), [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](https://lovdata.no/forskrift/2005-12-01-1392) (mastergradsforskrifta), [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)](../lover/lov-1967-02-10-forvaltningsloven.md), og dessutan andre nasjonale avgjersler, er overordna denne forskrifta og gjeld føre forskrifta ved eventuell motstrid.
+
+*Endra ved forskrifter [28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020), [16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469).*
+
+### § 1-2. (Oppheva)
+
+*Oppheva ved forskrift [2 mai 2024 nr. 1446](https://lovdata.no/forskrift/2024-05-02-1446).*
+
+## Kapittel 2. Minstekrav for opptak
+
+### § 2-1. Generelle føresegner
+
+(1) Minstekrav for opptak til utdanning som gjev studiepoeng ved Universitetet i Bergen er som hovudregel generell studiekompetanse eller tilsvarande realkompetanse, slik dette er fastsett i [forskrift om opptak til høgare utdanning, kapittel 2](for-2017-01-06-13-forskrift-om-opptak-til-hogare-utdanning.md). Hovudregelen gjeld ikkje opptak til masterprogram eller for dei utdanningane som er omfatta av [kapittel 3 i forskrift om opptak til høgare utdanning](for-2017-01-06-13-forskrift-om-opptak-til-hogare-utdanning.md).
+
+(2) Søkjarar til masterprogram må dokumentere at dei oppfyller krav til norsk- og engelskkunnskapar slik dette er fastsett i [forskrift om opptak til høgare utdanning](for-2017-01-06-13-forskrift-om-opptak-til-hogare-utdanning.md), jf. [§ 2-2](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md).
+
+(3) For opptak til engelskspråklege studieprogram eller studieretningar gjeld ikkje norskkravet i forskrift om opptak til høgre utdanning.
+
+(4) Søkjarar til engelskspråklege masterprogram må dokumentere engelskkunnskapar på høgre nivå med eitt av følgjande alternativ:
+
+a. Engelsk frå Vg1 i norsk vidaregåande skule (140 årstimar), eller utdanning av minst same omfang frå ein stat som er part til Lisboakonvensjonen. Vurderinga av same omfang tar utgangspunkt i at engelsk frå Vg1 i norsk vidaregåande skule bygger på 10 år med engelsk frå grunnskulen.
+b. International English Language Testing Service (IELTS) med minimum score 6.5 på alle delprøver.
+c. Test of English as a Foreign Language (TOEFL), minst 90 poeng for Internet-based test (IBT).
+d. PTE Academic Pearson Test of English (PTE), med minst 62 poeng.
+e. Annan dokumentasjon kan godkjennast etter individuell vurdering.
+f. Enkeltstudium kan fastsetje strengare krav til engelskkunnskapar i den aktuelle studieplanen.
+
+(5) Søkjarar til tospråklege masterprogram eller studieretningar, må dokumentere språkkunnskapar etter reglane som gjeld for norskspråklege program eller for engelskspråklege program. For framandspråklege masterprogram, som ikkje har undervisning på norsk eller engelsk, kan eigne språkkrav fastsetjast i studieplanen.
+
+(6) Fakultetet sjølv kan fastsetje særskilde opptakskrav for opptak til masterprogram.
+
+(7) Fakultetet sjølv kan fastsetje særskilde opptakskrav i form av opptaksprøver til studium i utøvande og skapande kunst, musikk og design, jf. [§ 5-3](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md) (2). Opptaksprøver er berre gyldige det året dei vert haldne.
+
+(8) Dersom ein student er avskore frå vurdering i eit obligatorisk emne i studieprogrammet skal han nektast opptak. Fakultetet kan vedta at det ikkje er høve til å bli tatt opp til same studieprogram fleire gonger.
+
+*Endra ved forskrifter [28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020), [16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469), [2 mai 2024 nr. 1446](https://lovdata.no/forskrift/2024-05-02-1446).*
+
+### § 2-2. Opptaksgrunnlag masterutdanning
+
+(1) For opptak til masterprogram gjeld [mastergradsforskrifta § 3](https://lovdata.no/forskrift/2005-12-01-1392/§3), [§ 4](https://lovdata.no/forskrift/2005-12-01-1392/§4), og [§ 5](https://lovdata.no/forskrift/2005-12-01-1392/§5) og eventuelle rammeplanar.
+
+(2) Nærare krav til fagleg grunnlag og faglege minstekrav for den enkelte utdanninga blir fastsett i studieplanen, jf. [§ 2](https://lovdata.no/forskrift/2005-12-01-1392/§2) i mastergradforskrifta.
+
+(3) For opptak til 2-årig masterprogram etter [§ 3](https://lovdata.no/forskrift/2005-12-01-1392/§3) i mastergradforskrifta gjeld følgjande:
+
+a. Opptaksgrunnlaget er ein fullført bachelorgrad eller tilsvarande utdanning. Universitetet kan krevje inntil fire semester høgre utdanning i tillegg til bachelorgrada, i tråd med GSU-lista.
+b. Søkjarar må dokumentere ei fagleg fordjuping på minimum 80 studiepoeng relevant for studiet dei søkjer opptak til.
+c. Fakultetet sjølv fastset kva emne ved UiB som inngår i den faglege fordjupinga. Dette skal gå fram av studieplanen.
+d. I heilt spesielle tilfelle kan annan dokumentert kompetanse godkjennast som heilt eller delvis likeverdig med kravet i b), føresett at søkjaren har dei nødvendige faglege føresetnadene for å gjennomføre studiet. Nærare føresegn om kva utdanningar dette kan gjelde for er gitt i utfyllande retningslinjer for opptak til UiB.
+e. Emna som utgjer den faglege fordjupinga skal ha eit vekta snitt på karakteren C, altså 2,50 eller høgare (kvalifiseringskravet), jf. retningslinjene for utrekning av karakterpoeng i [§ 5-4](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md).
+
+(4) Fakultetet kan i studieplanen fastsetje eit høgare kvalifiseringskrav, i samråd med fagmiljøa.
+
+(5) For opptak til erfaringsbasert masterprogram etter [§ 5](https://lovdata.no/forskrift/2005-12-01-1392/§5) i [mastergradsforskrifta](https://lovdata.no/forskrift/2005-12-01-1392) skal krav til eventuell fagleg fordjuping og karaktergjennomsnitt fastsetjast i studieplanen. Det er krav om minst to års relevant praksis for opptak til erfaringsbaserte masterprogram. Det kan krevjast relevant praksis utover dette.
+
+(6) Søkjarar til internasjonale gradsstudium som kjem frå land/statar/område utanfor EU/EØS og Sveits må dokumentere tilfredsstillande finansiering, jf. krava i [utlendingslova § 58](../lover/lov-2008-05-15-35-utlendingsloven.md).
+
+*Endra ved forskrifter [28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020), [20 feb 2020 nr. 180](https://lovdata.no/forskrift/2020-02-20-180) (i kraft 1 mars 2020), [16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469), [2 mai 2024 nr. 1446](https://lovdata.no/forskrift/2024-05-02-1446).*
+
+### § 2-3. Opptaksgrunnlag enkeltemne
+
+(1) For opptak til enkeltemne må søkjaren dekke minstekrava for opptak til den utdanninga som emna ein søkjer opptak til, inngår i. Eventuelle krav om fagleg forkunnskap for emnet må òg dekkast. Opptakskrava kan fråvikast for avtalestudentar som skal ta enkeltemne eller semesterstudium.
+
+(2) Søkjarar til enkeltemne på mastergradsnivå som ikkje inngår i ein grad, må dokumentere opptaksgrunnlag tilsvarande som for erfaringsbasert mastergrad, jf. [§ 2-2](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md) (4).
+
+(3) For opptak til enkeltemne med eigenbetaling gjeld første avsnitt, i tillegg til eit krav om minst to års arbeidserfaring.
+
+*Endra ved [forskrifter 16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469), [2 mai 2024 nr. 1446](https://lovdata.no/forskrift/2024-05-02-1446).*
+
+### § 2-4. Opptaksgrunnlag praktisk-pedagogisk utdanning (PPU)
+
+(1) For opptak til PPU gjeld [forskrift om rammeplan for praktisk-pedagogisk utdanning § 6](for-2025-07-04-1449-forskrift-om-rammeplan-for-praktisk-pedagogisk-utdanning.md) og [§ 7](for-2025-07-04-1449-forskrift-om-rammeplan-for-praktisk-pedagogisk-utdanning.md).
+
+(2) Nærare krav til fagleg grunnlag for opptak og faglege minstekrav for den enkelte utdanninga blir fastsett i studieplanen.
+
+(3) Universitetet i Bergen tilbyr PPU med fagdidaktisk fordjuping i eitt eller to fag.
+
+(4) For opptak til PPU gjeld følgjande:
+
+a. Søkjaren må ha fullført ein mastergrad.
+b. Søkjarar til PPU er unnatekne frå kravet om engelsk, jf. [§ 2-1](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md).
+c. Opptaksgrunnlaget er minimum 60 studiepoeng i minst eitt fagområde som er relevant grunnlag for tilsetjing på trinn 5–13 i den norske skulen, og som Universitetet i Bergen tilbyr fagdidaktikk i.
+d. Opptaksgrunnlaget for skulefaget naturfag er minimum 90 studiepoeng i relevante emne.
+e. Emna som utgjer opptaksgrunnlaget, skal ha eit vekta gjennomsnitt på minimum karakteren C (2,5) eller betre.
+
+*Tilføyd ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020).*
+
+### § 2-5. Opptaksgrunnlag praktisk-pedagogisk utdanning (PPU) i skapande og utøvande kunst, musikk og design
+
+(1) For opptak til PPU i skapande og utøvande kunst, musikk og design, gjeld [forskrift om rammeplan for praktisk-pedagogisk utdanning § 3](for-2025-07-04-1449-forskrift-om-rammeplan-for-praktisk-pedagogisk-utdanning.md), [§ 6](for-2025-07-04-1449-forskrift-om-rammeplan-for-praktisk-pedagogisk-utdanning.md) og [§ 7](for-2025-07-04-1449-forskrift-om-rammeplan-for-praktisk-pedagogisk-utdanning.md).
+
+(2) Søkjarar må dokumentere ein bachelorgrad i utøvande eller skapande kunst, musikk eller design med minimum 180 studiepoeng i det relevante kunstfaget.
+
+(3) Studentar på bachelorprogram i skapande og utøvande kunst, musikk og design, som har fullført minimum 120 studiepoeng i relevante emne, kan ta PPU som ein integrert del av graden, dersom den er på minst 4 år.
+
+*Tilføyd ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020).*
+
+### § 2-6. Opptaksgrunnlag norskkurs for eksterne søkjarar
+
+(1) Personar med opphaldsløyve i Noreg kan søkje om å få ta norskkurs ved Universitetet i Bergen. Opptaksgrunnlaget er generell studiekompetanse, med unntak av kravet om norsk og engelsk.
+
+(2) Forkunnskapskrav i norsk språk må oppfyllast for norskkursemne der dette er naudsynt. Forkunnskapskrav i norsk språk blir fastsette av programstyret, og vert kunngjort i emneskildringa.
+
+(3) Ved behov kan søknadane rangerast etter prioriteringar gitt i retningslinjer for opptak til Universitetet i Bergen.
+
+*Tilføyd ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020), endra ved [forskrift 16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469).*
+
+### § 2-7. (Oppheva)
+
+*Tilføyd ved [forskrift 16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469), oppheva ved forskrift [2 mai 2024 nr. 1446](https://lovdata.no/forskrift/2024-05-02-1446).*
+
+## Kapittel 3. Realkompetanse
+
+### § 3-1. Realkompetanse
+
+(1) Søkjarar som er 25 år eller eldre i opptaksåret, og som manglar generell studiekompetanse, kan få opptak på grunnlag av realkompetanse, jf. [universitets- og høgskulelova § 3-6](https://lovdata.no/lov/2005-04-01-15/§3-6) (2) og forskrift om opptak til høgre utdanning [§ 3-1](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md).
+
+(2) For å få tilbod om studieplass må søkjaren dokumentere likeverdige ferdigheiter og kunnskapar som søkjarar som får tilbod om plass etter ordinære rangeringsreglar, jf. [kapittel 5](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md) i denne forskrifta.
+
+(3) Nærare reglar om opptak på grunnlag av realkompetanse er fastsette i utfyllande retningsliner for opptak til UiB.
+
+## Kapittel 4. Kvotar og opptaksrammer
+
+### § 4-1. Kvotar og opptaksrammer
+
+(1) Styret sjølv fastset årleg talet på studieplassar for dei enkelte studieprogramma, jf. [§ 3-7 femte ledd i universitets- og høyskoleloven](https://lovdata.no/lov/2005-04-01-15/§3-7/ledd/5).
+
+(2) Opptak til studia kan skje på grunnlag av rangering innanfor kvotar. Ein kvote er eit bestemt tal eller ein bestemt del av studieplassane som blir fordelte blant søkjarar som tilfredsstiller nærare bestemte krav.
+
+(3) I tillegg til nasjonale kvoter, kan fakultetet fastsetje kvoter.
+
+(4) For masterprogram som gir opptak til internasjonale søkjarar som treng studieløyve i Noreg, skal det avsetjast ei kvote til søkjarar med tidleg søknadsfrist. For å få tilbod om studieplass, må desse søkjarane dokumentere eit karakternivå som er tilsvarande eller høgare enn poenggrensa året før. Dette gjeld ikkje for masterprogram som har opptaksprøver som del av opptaksgrunnlaget.
+
+*Endra ved forskrifter [28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020), [16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469).*
+
+## Kapittel 5. Rangering
+
+### § 5-1. Poengutrekning og rangering av søkjarar til grunnutdanningar
+
+(1) Ved opptak til grunnutdanningar blir søkjarane sine poeng rekna ut og dei blir rangerte etter reglane i [kapittel 7](for-2017-01-06-13-forskrift-om-opptak-til-hogare-utdanning.md) i forskrift om opptak til høgre utdanning.
+
+(2) Realkompetansesøkjarar blir rangerte i forhold til andre søkjarar på grunnlag av ei heilskapleg skjønnsmessig vurdering. Omfanget og relevansen av praksis, utdanning og motivasjon blir vektlagd.
+
+### § 5-2. Generelle føresegner om rangering av søkjarar til studium i lokale opptak
+
+(1) Grunnlaget for rangeringa er den dokumentasjonen som kvalifiserer søkjaren for opptak til eit studium, jf. [kapittel 2](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md) i denne forskrifta. Søkjarane blir rangerte på grunnlag av konkurransepoeng.
+
+(2) Dersom ein søkjar har fleire opptaksgrunnlag, blir det grunnlaget som gir gunstigast resultat for søkjaren lagt til grunn.
+
+(3) Ved lik poengsum skal plassen fordelast etter loddtrekning.
+
+(4) Dersom det har vist seg umogeleg å fylle studieplassane på eit studium, kan ein tilby dei ledige studieplassane til kvalifiserte søkjarar fortløpande, utan omsyn til rangeringsreglane elles. Søknader som er mottekne etter fristen, skal rangerast etter søknadsdato.
+
+### § 5-3. Rangering av søkjarar til studieprogram innan utøvande og skapande kunst, musikk og design
+
+(1) Ved opptak til studieprogram innan utøvande og skapande kunst, musikk og design skal det gjerast ein skjønsmessig, kunstfagleg vurdering og rangering av søkjarar til dei ulike studieprogramma.
+
+(2) Grunnlaget for vurdering og rangering av søkjarar er opptaksprøver som kan bestå av ferdigheitsprøver, teoriprøver, intervju og fagleg vurdering av innsende arbeid.
+
+(3) Vurdering og rangering skjer etter kriteria gitt i retningsliner for opptak til Universitetet i Bergen.
+
+*Tilføyd ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020).*
+
+### § 5-4. Poengutrekning og rangering av søkjarar til 2-årige masterprogram og praktisk-pedagogisk utdanning (PPU)
+
+(1) Søkjarar til 2-årige masterprogram og PPU blir rangerte innbyrdes på grunnlag av konkurransepoeng. I konkurransepoenga til ein søkjar kan summen av følgjande poeng inngå:
+
+a. Karakterpoeng: Det blir rekna ut eit vekta karaktergjennomsnitt, med to desimalar av den faglege fordjupinga, jf. [§ 2-2](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md) (3) b). Vekta til kvar einskild karakter er talet på studiepoeng i det aktuelle emnet. Dersom utrekninga gir meir enn to desimalar, skal alle frå og med den fjerde desimalen strykast. Ein eventuell tredje desimal vert nytta til å høgne den andre desimalen, etter vanlege reknereglar.
+b. Andre tilleggspoeng: Med utgangspunkt i særlege omsyn som er knytte til enkelte studium, kan det fastsetjast andre poengtypar i studieplanen.
+
+(2) For søkjarar med bokstavkarakterar blir følgjande omrekningsskala nytta som grunnlag for utrekning av gjennomsnittskarakter: A=5, B=4, C=3, D=2, E=1. Ved utrekning av karaktersnitt i rangeringsgrunnlaget, blir kvar karakter erstatta med det tilsvarande talet. For kvart emne som inngår i rangeringsgrunnlaget, blir talet multiplisert med talet på studiepoeng og produktet blir summert. Denne summen blir dividert på totalt tal på studiepoeng, og resultatet blir utrekna med to desimal.
+
+Døme på utrekning med opptaksgrunnlag på 90 studiepoeng:
+
+| *Bokstavkarakter* | *Tallekvivalent* | *Studiepoeng* | *Tallekvivalent ganger studiepoeng* |
+| --- | --- | --- | --- |
+| A | 5 | 15 | 75 |
+| C | 3 | 15 | 45 |
+| B | 4 | 15 | 60 |
+| C | 3 | 20 | 60 |
+| B | 4 | 10 | 40 |
+| B | 4 | 10 | 40 |
+| D | 2 | 5 | 10 |
+| SUM |  | 90 | 330 |
+
+Rangeringsgrunnlag: 330 delt på 90 = 3,66
+
+(3) For utrekning av kvalifiseringskrav etter [§ 2-2 (3) bokstav e](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md), skal avrunding skje til næraste heile tal etter vanlege avrundingsreglar.
+
+(4) Nærare føresegn om omrekning av karakterar frå andre karakterskalaer er gitt i retningsliner for opptak til Universitetet i Bergen.
+
+(5) I særskilde tilfelle kan anna utdanning, praksis eller kompetanse enn den som inngår i det formelle opptaksgrunnlaget, bli teken med i rangeringa. Rangeringsgrunnlag og rangeringsmetode fastsetjast i studieplanen.
+
+(6) For opptak til praktisk-pedagogisk utdanning vil søkjarar med to fag ha prioritet framfor søkjarar med eitt fag.
+
+*Endra ved forskrifter [28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020, tidligere § 5-3), [20 feb 2020 nr. 180](https://lovdata.no/forskrift/2020-02-20-180) (i kraft 1 mars 2020), [16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469), [2 mai 2024 nr. 1446](https://lovdata.no/forskrift/2024-05-02-1446).*
+
+### § 5-5. Poengutrekning og rangering av søkjarar til erfaringsbaserte masterprogram
+
+Rangeringsgrunnlag, rangeringsmetode og eventuell bruk av individuell vurdering for erfaringsbaserte masterprogram fastsetjast i studieplanen.
+
+*Endra ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020, tidligere § 5-4).*
+
+### § 5-6. Rangering av søkjarar som ikkje kan poengutreknast
+
+(1) For kvalifiserte søkjarar som ikkje kan poengutreknast, skal rangeringa gjerast etter ei skjønnsmessig vurdering av søkjaren sitt opptaksgrunnlag.
+
+(2) For å få tilbod om opptak blir det kravd likeverdige ferdigheiter og kunnskapar med søkjarar som får tilbod om opptak etter rangering på grunnlag av poengutrekning.
+
+*Endra ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020, tidligere § 5-5).*
+
+### § 5-7. Rangering av søkjarar til enkeltemne
+
+(1) Søkjarar til enkeltemne konkurrerer om avsette plassar per emne. Om det er fleire kvalifiserte søkjarar til eit emne enn ledige plassar, kan det bli fastsett eigne prioriterings- eller rangeringsreglar i emneskildringa.
+
+*Tilføyd ved [forskrift 16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469).*
+
+## Kapittel 6. Tilbod på visse vilkår
+
+### § 6-1. Tilbod på visse vilkår
+
+Universitetet i Bergen kan gi tilbod om studieplass på visse vilkår til søkjarar som ikkje tilfredsstiller heile opptakskravet på det tidspunktet dei får tilbod om studieplass, men som har dokumentert at dei vil dekke kravet før studiestart.
+
+*Endra ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020).*
+
+### § 6-2. Tilbod og opptak på visse vilkår for utøvande og skapande kunst, musikk og design
+
+Universitetet i Bergen kan gi tilbod om studieplass på visse vilkår til søkjarar til utøvande og skapande kunst, musikk og design som ikkje tilfredsstiller heile opptakskravet på det tidspunktet dei får tilbod om studieplass. Søkjarar som får tilbod på visse vilkår må gjennomføre og greie manglande eksamenar ved første mogelege anledning, og seinast innan 1 år.
+
+*Tilføyd ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020).*
+
+### § 6-3. Generelle føresegner om tilbod og opptak på visse vilkår
+
+(1) Søkjarar som har fått opptak eller tilbod etter føresetnadane gitt i [§ 6-1](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md) og som ikkje innfrir vilkåra for opptak innan den fristen som er stilt i samband med tilbodet om studieplass, misser retten til studieplass.
+
+(2) Det kan ikkje bli gitt opptak eller tilbod på visse vilkår til søkjarar som ikkje kan dokumentere tilstrekkelege kunnskapar i norsk og engelsk, jf. [§ 2-1](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md).
+
+(3) Det kan ikkje bli gitt tilbod på visse vilkår til internasjonale søkjarar som må ha opptak for å få studieløyve i Noreg.
+
+*Endra ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020, tidligere § 6-2).*
+
+### § 6-4. (Oppheva)
+
+*Tilføyd ved [forskrift 6 april 2020 nr. 725](https://lovdata.no/forskrift/2020-04-06-725), endra ved forskrifter [26 nov 2020 nr. 2481](https://lovdata.no/forskrift/2020-11-26-2481), [17 juni 2021 nr. 2497](https://lovdata.no/forskrift/2021-06-17-2497), [2 feb 2022 nr. 231](https://lovdata.no/forskrift/2022-02-02-231), [16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469), oppheva ved forskrift [2 mai 2024 nr. 1446](https://lovdata.no/forskrift/2024-05-02-1446).*
+
+## Kapittel 7. Felles føresegner om administrative forhold
+
+### § 7-1. Reservert studieplass
+
+(1) Tildelt studieplass kan reserverast til neste gong det er opptak til studiet dersom det ligg føre dokumenterte, tungtvegande grunnar. Det blir normalt ikkje innvilga reservert plass for meir enn eitt år.
+
+(2) Søknad om reservasjon av studieplass må leggast fram innan tre veker etter at ein har motteke tilbod om studieplass.
+
+(3) Med tungtvegande grunnar er det her meint verneplikt, graviditet, sjukdom, ulukker eller dødsfall i nær familie. Andre tungtvegande grunnar utanfor kontrollen til søkjaren kan òg gi grunnlag for reservert studieplass. Grunn må dokumenterast med attest frå lege, anna helsepersonell, politi eller tilsvarande.
+
+(4) Til studium som krev opptaksprøver, jf. [§ 2-1](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md) (7) og forskrift om høgre utdanning [§ 4-9](for-2017-01-06-13-forskrift-om-opptak-til-hogare-utdanning.md), blir det som hovudregel ikkje innvilga utsett studiestart eller reservert studieplass.
+
+*Endra ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020).*
+
+### § 7-2. Førehandsløfte
+
+Ved dokumentert behov kan det bli gitt førehandsløfte til kvalifiserte søkjarar med poengsum som er lik eller høgare enn medianen ved siste opptak. Nærare føresegn om førehandsløfte gis i utfyllande retningslinjer for opptak til Universitetet i Bergen.
+
+### § 7-3. Fristar
+
+(1) Søknadsfristar for opptak til studium ved Universitetet i Bergen blir kunngjorde. Eigne fristar kan gjelde dersom det gis tilbod om tidleg opptak.
+
+(2) All utdanning, praksis og andre høve som gir grunnlag for opptak, må vere dokumentert ved utløp av søknadsfristen. Søkjarane skal ettersende endeleg dokumentasjon på fastsett måte og innan den fristen som er gitt av Universitetet i Bergen.
+
+### § 7-4. Verifisering av dokumentasjon
+
+Universitetet kan krevje at søkjarane legg fram original av dokument som skal liggje til grunn for opptak for å vurdere om desse er ekte, jf. [universitets- og høyskoleloven § 3-7](https://lovdata.no/lov/2005-04-01-15/§3-7/ledd/6) sjette ledd.
+
+### § 7-5. Politiattest
+
+I studium der studentar kan komme i kontakt med mindreårige eller andre sårbare grupper som del av praksisstudium eller klinisk undervisning, er det krav om at studentar leverer politiattest ved opptak, jf. forskrift om opptak til høgre utdanning [kap. 6](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md).
+
+*Tilføyd ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020).*
+
+### § 7-6. Krav til tuberkulosekontroll
+
+I studium der studentar kan komme i kontakt med mindreårige eller andre sårbare grupper som del av praksisstudium eller klinisk undervisning, er det krav om tuberkulosekontroll, jf. § 3 i [forskrift om tuberkulosekontroll](for-2009-02-13-205-tuberkuloseforskriften.md).
+
+*Tilføyd ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020).*
+
+### § 7-7. Klage
+
+(1) Enkeltvedtak som er gjorde med heimel i denne forskrifta, kan klagast på, jf. [forvaltningslova § 28](../lover/lov-1967-02-10-forvaltningsloven.md) til [§ 32](../lover/lov-1967-02-10-forvaltningsloven.md). Klagefristen er 3 veker frå den dagen resultatet av opptaket er offentleggjort, eventuelt 3 veker frå den dagen søkjaren har motteke grunngjeving.
+
+(2) Ved vedtak som er basert på ei skjønsmessig, kunstfagleg vurdering, jf. [§ 5-3](for-2018-11-27-1907-forskrift-om-opptak-til-universitetet-i-bergen.md), er det berre mogleg å klage på formelle feil i samband med gjennomføring av opptaksprøver.
+
+(3) Klage på enkeltvedtak i samband med opptak organisert gjennom Samordna opptak, blir handsama av Nasjonal klagenemnd, jf. [universitets- og høyskoleloven § 5-1](https://lovdata.no/lov/2005-04-01-15/§5-1) sjuande ledd og forskrift om opptak til høgre utdanning [§ 8-1](for-2017-01-06-13-forskrift-om-opptak-til-hogare-utdanning.md).
+
+(4) Klager som gjeld opptak etter [universitets- og høyskoleloven § 3-6](https://lovdata.no/lov/2005-04-01-15/§3-6/og/2/ledd/3) andre og tredje ledd, blir handsama av Klagenemnda ved Universitetet i Bergen, jf. forskrift om opptak til høgre utdanning [§ 8-1](for-2017-01-06-13-forskrift-om-opptak-til-hogare-utdanning.md) andre ledd.
+
+(5) Klage på enkeltvedtak i samband med opptak til studium som ikkje inngår i samordna opptak, blir handsama av klagenemnda ved Universitetet i Bergen, jf. [universitets- og høyskoleloven § 5-1](https://lovdata.no/lov/2005-04-01-15/§5-1).
+
+*Endra ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020, tidligere § 7-5).*
+
+### § 7-8. Opptakskomité
+
+(1) Ved behov kan Universitetet i Bergen utnemne ein sentral opptakskomité.
+
+(2) Opptakskomiteen handsamar etter behov søknadar som krev skjønsmessig vurdering ved kvalifisering, og i særskilde høve ved rangering.
+
+(3) Opptakskomiteen skal som hovudregel setjast saman av eitt medlem frå kvart fakultet, minst eitt medlem frå det organet som styret nemner opp til å gjennomføre opptaket og minst éin student.
+
+(4) Fakultetsstyret ved Fakultet for kunst, musikk og design oppnemner opptakskomitear for å vurderer søkjarar til studium i utøvande og skapande kunst, musikk og design.
+
+*Endra ved [forskrift 28 nov 2019 nr. 1867](https://lovdata.no/forskrift/2019-11-28-1867) (i kraft 1 jan 2020, tidligere § 7-6).*
+
+## Kapittel 8. Utfyllande reglar
+
+### § 8-1. Utfyllande reglar
+
+(1) Styret, eller det organet styret nemner opp, kan gi utfyllande reglar og retningsliner innanfor ramma av denne forskrifta.
+
+(2) Vesentlege endringar i opptakskrava for eit studieprogram skal vere klart for søkjarane minst eitt år før dei tek til å gjelde.
+
+(3) Styret pliktar å opprette overgangsreglar i dei tilfella vesentlege endringar ikkje er gjort kjende for søkjarane i tide.
+
+(4) Rektor kan vedta mindre viktige endringar i denne forskrifta, i samråd med fakulteta. Universitetsdirektøren skal rapportere slike endringar til styret.
+
+*Endra ved forskrift [2 mai 2024 nr. 1446](https://lovdata.no/forskrift/2024-05-02-1446).*
+
+### § 8-2. Iverksetjing
+
+Forskrifta tek til å gjelde 1. januar 2019.
+
+*Endra ved [forskrift 16 juni 2022 nr. 1469](https://lovdata.no/forskrift/2022-06-16-1469).*

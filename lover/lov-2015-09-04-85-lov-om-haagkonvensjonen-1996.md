@@ -1,0 +1,113 @@
+# Lov om gjennomføring av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn (lov om Haagkonvensjonen 1996)
+
+- **Korttittel:** Lov om Haagkonvensjonen 1996
+- **Datokode:** LOV-2015-09-04-85
+- **DokumentID:** NL/lov/2015-09-04-85
+- **Departement:** Barne- og familiedepartementet
+- **Kunngjort:** 2015-09-04 15:15
+- **I kraft fra:** 2016-07-01
+- **Siste endring i kraft:** 2023-01-01
+- **Sist endret ved:** lov 18.06.2021 nr. 97 fra 2023-01-01, lov 17.06.2022 nr. 44
+- **Rettsområde:** Familie-, person- og barnerett > Barn og foreldre; Familie-, person- og barnerett > Ekteskap og samboerskap (husstandsfellesskap)
+- **Siste rettelse:** 2021-07-06 (faglige fotnoter fjernet)
+- **Kilde:** <https://lovdata.no/lov/2015-09-04-85>
+
+## Kapittel 1. Allmenne bestemmelser
+
+### § 1. Gjennomføring i norsk rett
+
+[Konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid om foreldremyndighet og tiltak for beskyttelse av barn](https://lovdata.no/traktat/1996-10-19-26) gjelder som norsk lov.[1]
+
+### § 2. Sentralmyndighet mv.
+
+Sentralmyndigheten skal motta og formidle henvendelser etter konvensjonen, samarbeide med sentralmyndighetene i de øvrige konvensjonsstatene for å oppfylle konvensjonens formål og utføre de oppgavene som konvensjonen ellers pålegger den.
+
+Sentralmyndigheten kan, uten hinder av taushetsplikt, innhente fra Folkeregisteret de opplysninger som er nødvendige for utførelsen av oppgaver etter denne loven.
+
+Kongen utpeker det organet som skal være sentralmyndighet etter konvensjonen. Departementet kan i forskrift gi nærmere regler om sentralmyndighetens virksomhet og om adgangen til å ta rimelig betaling for den bistanden og de tjenestene som leveres etter konvensjonen.
+
+*Endret ved lov [17 juni 2022 nr. 44](lov-2022-06-17-44-lov-om-forskriftshjemmel-personopplysninger.md) (i kraft 17 juni 2022 iflg. [res. 17 juni 2022 nr. 1037](https://lovdata.no/forskrift/2022-06-17-1037)).*
+
+### § 3. Taushetsplikt
+
+I tilfeller der norske myndigheter etter konvensjonen har plikt til å gi opplysninger, kan dette skje uten hinder av lovbestemt taushetsplikt. Tilsvarende gjelder der konvensjonen legger til rette for at opplysninger kan gis etter anmodning.
+
+*Endret ved [lov 15 juni 2018 nr. 38](lov-2018-06-15-38-personopplysningsloven.md) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](https://lovdata.no/forskrift/2018-07-17-1195)).*
+
+### § 4. Behandling av anmodninger om utveksling av opplysninger og gjennomføring av tiltak
+
+Anmodninger fra en kompetent myndighet i en annen konvensjonsstat om utlevering av opplysninger eller gjennomføring av tiltak, jf. konvensjonen artiklene [32](https://lovdata.no/traktat/1996-10-19-26/a32) og [34](https://lovdata.no/traktat/1996-10-19-26/a34), skal sendes til sentralmyndigheten. Anmodninger fra en kompetent myndighet i en annen konvensjonsstat om bistand til gjennomføring av beskyttelsestiltak, jf. konvensjonen artikkel [35](https://lovdata.no/traktat/1996-10-19-26/a35) nr. 1, og anmodninger fra en forelder om samvær, jf. konvensjonen artikkel [35](https://lovdata.no/traktat/1996-10-19-26/a35) nr. 2, skal sendes til sentralmyndigheten eller en annen kompetent norsk myndighet.
+
+Kommunene skal bistå sentralmyndigheten med å samle inn opplysninger i forbindelse med anmodninger etter konvensjonen artiklene [32](https://lovdata.no/traktat/1996-10-19-26/a32), [34](https://lovdata.no/traktat/1996-10-19-26/a34) og [35](https://lovdata.no/traktat/1996-10-19-26/a35).
+
+Departementet kan i forskrift gi nærmere regler om gjennomføringen av forpliktelsene etter konvensjonen artiklene [32](https://lovdata.no/traktat/1996-10-19-26/a32), [34](https://lovdata.no/traktat/1996-10-19-26/a34) og [35](https://lovdata.no/traktat/1996-10-19-26/a35).
+
+## Kapittel 2. Jurisdiksjon
+
+### § 5. Overføring av jurisdiksjon
+
+Anmodninger fra kompetente myndigheter i øvrige konvensjonsstater om overføring av jurisdiksjon, jf. konvensjonen artiklene [8](https://lovdata.no/traktat/1996-10-19-26/a8) og [9](https://lovdata.no/traktat/1996-10-19-26/a9), skal rettes til sentralmyndigheten i Norge. Sentralmyndigheten skal videreformidle anmodningene til kompetent norsk myndighet.
+
+Den myndigheten i Norge som er, eller vil være, kompetent til å behandle en sak etter norsk rett, kan rette en anmodning til en annen konvensjonsstat om overføring av jurisdiksjon i saken, jf. konvensjonen artiklene [8](https://lovdata.no/traktat/1996-10-19-26/a8) og [9](https://lovdata.no/traktat/1996-10-19-26/a9).
+
+Overføring av jurisdiksjon kan skje på alle stadier av saken og følger de prosessreglene som gjelder for sakstypen. Overføring gjøres ved kjennelse som kan ankes etter reglene i tvisteloven. Når barneverns- og helsenemnda overfører saken, kan tingretten overprøve vedtaket etter [barnevernsloven](lov-2021-06-18-97-barnevernsloven.md). Når et forvaltningsorgan overfører saken, skal beslutningen anses for å være et enkeltvedtak som kan påklages.
+
+Departementet kan i forskrift gi nærmere regler om gjennomføringen av reglene i denne paragrafen, herunder om hvilke organer som kan treffe beslutninger om overføring.
+
+*Endret ved lov [18 juni 2021 nr. 97](lov-2021-06-18-97-barnevernsloven.md) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](https://lovdata.no/forskrift/2022-10-14-1739)).*
+
+### § 6. Henvendelser om plassering av et barn i Norge
+
+Dersom en kompetent myndighet i en annen konvensjonsstat anmoder om å plassere et barn i Norge etter konvensjonen artikkel [33](https://lovdata.no/traktat/1996-10-19-26/a33), skal anmodningen sendes til sentralmyndigheten.
+
+### § 7. Jurisdiksjon til å treffe midlertidige avgjørelser
+
+Når norske myndigheter har jurisdiksjon til å treffe beslutninger etter konvensjonen artikkel [11](https://lovdata.no/traktat/1996-10-19-26/a11) (hastesaker) eller artikkel [12](https://lovdata.no/traktat/1996-10-19-26/a12) (midlertidige avgjørelser), skal beslutningene treffes av den myndigheten som etter intern rett har kompetanse til å treffe beslutninger i tilsvarende saker. Det skal fremgå av beslutningen når beskyttelsestiltaket opphører.
+
+Myndigheten skal så langt det passer anvende de prosessreglene som etter intern rett gjelder for tilsvarende saker.
+
+### § 8. Jurisdiksjon til å utstede attester
+
+Statsforvalteren kan utstede attest etter konvensjonen artikkel [40](https://lovdata.no/traktat/1996-10-19-26/a40) til den eller dem som har foreldremyndighet for barnet, og til den eller dem som er verge for barnet, så lenge barnet har vanlig bosted i Norge. Attesten skal redegjøre for rekkevidden av foreldremyndigheten eller vergemålet, herunder i hvilken utstrekning personen kan representere barnet.
+
+*Endret ved lov [7 mai 2021 nr. 34](https://lovdata.no/lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](https://lovdata.no/forskrift/2021-05-07-1416)).*
+
+## Kapittel 3. Anerkjennelse og fullbyrdelse
+
+### § 9. Anerkjennelse og fullbyrdelse av avgjørelser
+
+En begjæring om anerkjennelse eller fullbyrdelse i Norge av avgjørelser etter konvensjonen artiklene [24](https://lovdata.no/traktat/1996-10-19-26/a24) og [26](https://lovdata.no/traktat/1996-10-19-26/a26) rettes til tingretten for Oslo.
+
+Retten avgjør ved beslutning om avgjørelsen skal anerkjennes eller fullbyrdes. Tvisteloven gjelder så langt den passer.
+
+### § 10. Krav til begjæringen
+
+En begjæring om anerkjennelse eller fullbyrdelse av en avgjørelse truffet i en annen konvensjonsstat skal være skriftlig. Den avgjørelsen som ønskes anerkjent eller fullbyrdet, skal vedlegges begjæringen i original eller i bekreftet kopi. Om avgjørelsen er truffet overfor en part som har uteblitt, skal det også vedlegges et dokument som viser at stevningen eller tilsvarende dokument er meddelt parten.
+
+Gjelder saken fullbyrdelse, skal det i begjæringen også vedlegges dokumentasjon for at avgjørelsen kan fullbyrdes i den staten der avgjørelsen er truffet.
+
+Dersom dokumentene er skrevet på et annet språk enn norsk, skal en norsk oversettelse av dokumentene vedlegges dersom retten krever det.
+
+### § 11. Fullbyrdelse i Norge
+
+Dersom retten kommer til at en avgjørelse truffet i en annen konvensjonsstat kan fullbyrdes i Norge, skal den fullbyrdes etter de reglene som gjelder for tilsvarende avgjørelser i Norge.
+
+## Kapittel 4. Avsluttende bestemmelser
+
+### § 12. Forholdet til Svalbard og Jan Mayen
+
+Loven gjelder også for Svalbard og Jan Mayen.
+
+### § 13. Ikraftsetting
+
+Loven gjelder fra den tid Kongen bestemmer.[2]
+
+### § 14. Endringer i andre lover
+
+Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Konvensjonen er ratifisert og gjeldende for Norge fra 1 juli 2016. Konvensjonen trådte i kraft 1 jan 2002.
+
+**2.** Fra 1 juli 2016 iflg. [res. 4 mars 2016 nr. 217](https://lovdata.no/forskrift/2016-03-04-217). Fra samme tidspunkt er [Haagkonvensjonen 1996](https://lovdata.no/traktat/1996-10-19-26) gjeldende for Norge.

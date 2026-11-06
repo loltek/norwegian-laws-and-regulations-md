@@ -1,0 +1,71 @@
+# Lov om aldersgrenser for statsansatte m.fl.
+
+- **Datokode:** LOV-1956-12-21-1
+- **DokumentID:** NL/lov/1956-12-21-1
+- **Departement:** Arbeids- og inkluderingsdepartementet
+- **I kraft fra:** 1956-12-21
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** lov 27.05.2025 nr. 17 fra 2026-01-01
+- **Rettsområde:** Arbeidsrett > Arbeidsforhold. Sysselsetting; Arbeidsrett > Offentlige tjenestemenn
+- **Siste rettelse:** 2021-07-01 (faglige fotnoter fjernet, struktur)
+- **Merknad:** Jf. lov 12 aug 2016 nr. 77 § 45 (militært tilsatte). – Jf. tidligere lov 14 mai 1917 nr. 3 (med tilleggslover 14 aug 1918 nr. 7, 31 mai 1919 nr. 1, 29 juni 1923 nr. 1, 20 mai 1939 nr. 4). Lovens tittel endret ved lov 18 juni 2021 nr. 91 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 1964).
+- **Kilde:** <https://lovdata.no/lov/1956-12-21-1>
+
+## § 1.
+
+Denne lov gjelder for den som har stilling som er eller blir innlemmet i Statens pensjonskasse, og som ikke omfattes av særlige lovbestemmelser om aldersgrenser for militært tilsatte.
+
+Lovens bestemmelser kan endres ved senere lov for dem som er blitt medlemmer av Statens pensjonskasse [eller Statsbanenes Pensjonskasse] etter 23 april 1937.
+
+*Endret ved [lover 25 juni 2010 nr. 29](https://lovdata.no/lov/2010-06-25-29) (ikr. 1 jan 2011), [12 aug 2016 nr. 77](lov-2016-08-12-77-forsvarsloven.md) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](https://lovdata.no/forskrift/2017-06-16-778)).*
+
+## § 2.
+
+Den alminnelige aldersgrensen er 72 år. Det kan fastsettes lavere aldersgrense i følgende tilfeller:
+
+a. Tjenesten medfører uvanlig fysisk eller psykisk belastning på de ansatte, slik at de normalt ikke makter å skjøtte arbeidet forsvarlig til fylte 72 år.
+b. Tjenesten stiller spesielle krav til fysiske eller psykiske egenskaper, som normalt blir sterkere svekket før fylte 72 år enn det en forsvarlig utføring av tjenesten tilsier.
+
+De lavere aldersgrenser kan være 65, 63 og 60 år.
+
+Aldersgrensen for dommere er 70 år.
+
+Stortinget fastsetter de lavere aldersgrenser når de endrer vilkårene for større grupper eller vedtaket kan ha prinsipiell betydning. Ellers fastsettes aldersgrensene av Kongen eller den han bemyndiger. Vedkommende departement kan imidlertid fastsette slik lavere aldersgrense inntil endelig avgjerd er tatt.
+
+Den som går inn under denne loven, plikter å fratre ved første månedsskifte etter at den alminnelige aldersgrensen er nådd. Kongen kan gi forskrift om at det i særlige tilfeller kan bestemmes at personer i enkelte stillinger med lavere aldersgrense skal fratre ved første månedsskifte etter at aldersgrensen for stillingen er nådd.
+
+*Endret ved [lover 21 mai 1982 nr. 30](https://lovdata.no/lov/1982-05-21-30), [21 juni 2019 nr. 25](https://lovdata.no/lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](https://lovdata.no/forskrift/2019-06-21-781)), [18 juni 2021 nr. 91](https://lovdata.no/lov/2021-06-18-91) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1964](https://lovdata.no/forskrift/2021-06-18-1964)), [27 mai 2025 nr. 17](https://lovdata.no/lov/2025-05-27-17) (i kraft 1 jan 2026 iflg. [res. 27. mai 2025 nr. 856](https://lovdata.no/forskrift/2025-05-27-856), se endringsloven for overgangsregel).*
+
+## § 3.
+
+Ansettelsesmyndigheten kan bestemme at en ansatt som fremdeles fyller de kravene stillingen forutsetter, skal kunne fortsette i tjenesten utover den alminnelige aldersgrensen. Skjer ansettelsen av Kongen, kan slikt samtykke gis av vedkommende departement. Tjenesten kan første gang forlenges opp til to år, og senere kun ett år til.
+
+Kongen kan fastsette nærmere regler om utøvelsen av myndighet etter første ledd. Slike regler skal ta hensyn til forholdene i vedkommende etat, til befolkningsutviklingen og sysselsettingen. Kongen kan likeledes gi nærmere regler om fremgangsmåten ved behandlingen av disse saker.
+
+Denne paragraf gjelder ikke for Høyesteretts medlemmer.
+
+*Endret ved lover [18 juni 2021 nr. 91](https://lovdata.no/lov/2021-06-18-91) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1964](https://lovdata.no/forskrift/2021-06-18-1964)), [27 mai 2025 nr. 17](https://lovdata.no/lov/2025-05-27-17) (i kraft 1 jan 2026 iflg. [res. 27. mai 2025 nr. 856](https://lovdata.no/forskrift/2025-05-27-856), se endringsloven for overgangsregel).*
+
+## § 4. (Opphevet)
+
+*Opphevet ved [lov 15 mai 1981 nr. 20](https://lovdata.no/lov/1981-05-15-20).*
+
+## § 5.
+
+Den som er blitt medlem av Statens pensjonskasse eller [Statsbanenes Pensjonskasse] før 23 april 1937, har rett til å fratre ved hittil gjeldende aldersgrense, med mindre de har gitt erklæring etter annet ledd. Det samme gjelder den som ikke har over 10 år igjen til den hittil gjeldende aldersgrense når denne lov trer i kraft eller fra det tidspunkt det er fastsatt lavere aldersgrense enn den alminnelige etter [§ 2](lov-1956-12-21-1-lov-om-aldersgrenser-for-statsansatte-m-fl.md).
+
+De tjenestemenn som er nevnt i første ledd, skal i forhold til loven om Statens pensjonskasse [og Statsbanenes Pensjonskasse] anses å følge de hittil gjeldende regler om aldersgrenser, hvis de ikke innen en frist som fastsettes av pensjonskassen, skriftlig erklærer at de ønsker å følge nærværende lov. For de tjenestemenn som med hjemmel i denne lovs [§ 2](lov-1956-12-21-1-lov-om-aldersgrenser-for-statsansatte-m-fl.md), jfr. [§ 6](lov-1956-12-21-1-lov-om-aldersgrenser-for-statsansatte-m-fl.md), får sine aldersgrenser særskilt fastsatt kan Pensjonskassen sette særskilte valgfrister som løper fra fastsettelsen av den nye aldersgrense.
+
+De som ikke avgir slik erklæring som nevnt i annet ledd, skal dog ha rett til å fortsette i stillingen inntil den nye aldersgrense.
+
+Aldersgrensebestemmelsene etter denne lov får ingen innflytelse på pensjonene til dem som har tatt avskjed med oppsatt eller straks begynnende pensjon før lovens ikrafttreden og heller ikke på etterlattepensjoner etter medlemmer som er død før nevnte tidspunkt.
+
+*Endret ved [lov 25 juni 2010 nr. 29](https://lovdata.no/lov/2010-06-25-29) (ikr. 1 jan 2011).*
+
+## § 6.
+
+Denne lov trer i kraft straks.
+
+Fra samme dag oppheves – – – og alle bestemmelser om aldersgrenser i andre lover for så vidt de står i strid med bestemmelsene i nærværende lov eller med aldersgrenser fastsatt med hjemmel i denne.
+
+– – –

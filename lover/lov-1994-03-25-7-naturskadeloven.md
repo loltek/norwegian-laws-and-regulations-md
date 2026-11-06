@@ -1,0 +1,147 @@
+# Lov om sikring mot naturskader
+
+- **Korttittel:** Naturskadeloven
+- **Datokode:** LOV-1994-03-25-7
+- **DokumentID:** NL/lov/1994-03-25-7
+- **Departement:** Energidepartementet
+- **I kraft fra:** 1995-01-01
+- **Siste endring i kraft:** 2017-01-01
+- **Sist endret ved:** lov 15.08.2014 nr. 59 fra 2017-01-01
+- **Rettsområde:** Erstatnings- og forsikringsrett > Naturskadeforsikring; Miljøvern, natur og friluftsliv > Naturmangfold/naturfredning
+- **Siste rettelse:** 2024-01-01 (ansvarlig departement)
+- **Merknad:** Lovens tittel endret ved lov 15 aug 2014 nr. 59 (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1084). – Jf. tidligere lov 9 juni 1961 nr. 24. Se lov 16 juni 1989 nr. 70 om naturskadeforsikring.
+- **Kilde:** <https://lovdata.no/lov/1994-03-25-7>
+
+## § 1. (Opphevet)
+
+*Endret ved [lov 19 des 2008 nr. 121](https://lovdata.no/lov/2008-12-19-121) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1481](https://lovdata.no/forskrift/2008-12-19-1481), opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).)*
+
+## § 2. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 3. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 4. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 5. (Opphevet)
+
+*Endret ved [lov 17 des 2004 nr. 98](https://lovdata.no/lov/2004-12-17-98) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1717](https://lovdata.no/forskrift/2004-12-17-1717), opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084))).*
+
+## § 6. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 7. (Opphevet)
+
+*Endret ved [lover 14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [17 des 2004 nr. 98](https://lovdata.no/lov/2004-12-17-98) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1717](https://lovdata.no/forskrift/2004-12-17-1717)), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84), opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).*
+
+## § 8. (Opphevet)
+
+*Endret ved [lover 14 des 2001 nr. 98](https://lovdata.no/lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](https://lovdata.no/forskrift/2001-12-14-1416)), [17 des 2004 nr. 98](https://lovdata.no/lov/2004-12-17-98) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1717](https://lovdata.no/forskrift/2004-12-17-1717)), [25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](https://lovdata.no/lov/2005-06-17-84), opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).*
+
+## § 9. (Opphevet)
+
+*Endret ved [lov 25 juni 2004 nr. 53](https://lovdata.no/lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](https://lovdata.no/forskrift/2005-08-19-901)), opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).*
+
+## § 10. (Opphevet)
+
+*Endret ved [lov 17 des 2004 nr. 98](https://lovdata.no/lov/2004-12-17-98) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1717](https://lovdata.no/forskrift/2004-12-17-1717)), opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).*
+
+## § 11. (Opphevet)
+
+*Endret ved [lover 27 mai 1994 nr. 12](https://lovdata.no/lov/1994-05-27-12), [17 des 2004 nr. 98](https://lovdata.no/lov/2004-12-17-98) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1717](https://lovdata.no/forskrift/2004-12-17-1717)), opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).*
+
+## § 12. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 13. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 14. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 15. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 16. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 17. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 18. (Opphevet)
+
+*Opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. res. 15 aug 2014 nr. 1058).*
+
+## § 19. (Opphevet)
+
+*Endret ved [lov 26 juni 1998 nr. 46](https://lovdata.no/lov/1998-06-26-46), opphevet ved [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).*
+
+## § 20.
+
+Kommunen plikter å treffe forholdsregler mot naturskader slik som bestemt i plan- og [bygningsloven § 11-8](lov-2008-06-27-71-plan-og-bygningsloven.md) tredje ledd bokstav a og [§ 28-1](lov-2008-06-27-71-plan-og-bygningsloven.md), samt ved nødvendige sikringstiltak. Med naturskade menes naturskade slik det fremgår av [naturskadeerstatningsloven § 4](lov-2014-08-15-59-naturskadeerstatningsloven.md) første ledd.
+
+Kongen kan ved forskrift eller i det enkelte tilfelle fastsette at staten skal hjelpe til med visse slag sikringstiltak.
+
+*Endret ved [lov 27 juni 2008 nr. 71](lov-2008-06-27-71-plan-og-bygningsloven.md) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](https://lovdata.no/forskrift/2010-06-18-896)) som endret ved [lov 8 mai 2009 nr. 27](https://lovdata.no/lov/2009-05-08-27), [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).*
+
+## § 21.
+
+Kommunen kan kreve avstått fast eiendom eller rett over fast eiendom, derunder rett til å forby hogst eller annen særlig utnyttelse, når det er nødvendig for å gjennomføre tiltak til sikring mot naturskade utenfor de tilfelle som er omhandlet i [lov 23. oktober 1959 nr. 3](https://lovdata.no/lov/1959-10-23-3) om oreigning av fast eigedom [§ 2](https://lovdata.no/lov/1959-10-23-3/§2) nr. 53.
+
+Kongen kan gi nærmere forskrift om planlegging og gjennomføring av sikringstiltak og om vedlikehold av sikringstiltak.
+
+*Endret ved [lov 20 juni 2003 nr. 45](https://lovdata.no/lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](https://lovdata.no/forskrift/2003-06-20-712)).*
+
+## § 22.
+
+Kommunen kan bestemme at det skal nedlegges bygge- og deleforbud for eiendommer eller deler av eiendommer som ligger i område der det kan oppstå fare for naturskade. Vedtaket skal angi hvilke eiendommer dette gjelder og hva slags skade det er grunn til å regne med. Området skal kartfestes så langt det inngår i det økonomiske kartverket.
+
+Bygge- og deleforbudet kan tinglyses.
+
+Når faren for naturskade ikke lenger er tilstede, kan vedtak om bygge- og deleforbud kreves opphevet og tinglysingen slettet.
+
+## § 23.
+
+Når en eier eller fester på grunn av faren for naturskade bør flytte et byggverk eller oppføre et ødelagt byggverk på et nytt sted, kan kommunen gi tillatelse til ekspropriasjon av byggetomt til eie eller bruk.
+
+## § 24.
+
+Kommunen kan kreve utgifter til sikringstiltak mot naturskader refundert etter reglene i denne paragraf. Det samme gjelder den som har utført slike tiltak etter godkjennelse av kommunen og som er eier eller fester av eiendom som er truet av naturskade.
+
+Utgiftene skal betales av dem som eier eller fester eiendom innenfor det område sikringstiltaket har virkning for. De utgifter som kan kreves refundert, er begrenset til den samlede verdiøkning tiltaket har medført for grunn og bygninger.
+
+Refusjonsplikten for den enkelte refusjonspliktige eiendom er begrenset til den verdiøkning tiltaket har medført for eiendommen.
+
+Ved beregning av verdiøkningen skal det tas hensyn til om tiltaket har medført økte muligheter til utbygging, jorddyrking og skogreisning m.v.
+
+Kommunen fastsetter refusjonsbeløpet for hver enkelt eiendom på grunnlag av regnskap med nødvendige legitimasjoner for tiltaket.
+
+Den som eier eller fester eiendommen når refusjonsbeløpet er endelig fastsatt, plikter å betale beløpet fem uker deretter. Endelig fastsatt refusjonskrav har panterett i eiendommen. Kravet er tvangsgrunnlag for utlegg.
+
+For øvrig gis plan- og [bygningslovens kapittel 18](lov-2008-06-27-71-plan-og-bygningsloven.md) unntatt [§ 18-10](lov-2008-06-27-71-plan-og-bygningsloven.md) andre ledd tilsvarende anvendelse.
+
+*Endret ved [lov 27 juni 2008 nr. 71](lov-2008-06-27-71-plan-og-bygningsloven.md) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](https://lovdata.no/forskrift/2010-06-18-896)) som endret ved [lov 8 mai 2009 nr. 27](https://lovdata.no/lov/2009-05-08-27), [lov 15 aug 2014 nr. 59](lov-2014-08-15-59-naturskadeerstatningsloven.md) (ikr. 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](https://lovdata.no/forskrift/2014-08-15-1084)).*
+
+## § 25.
+
+Loven trer i kraft fra den tid Kongen bestemmer.[1]
+
+## § 26.
+
+Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+## Fotnoter
+
+**1.** Fra 1 jan 1995 iflg. [res. 25 mars 1994 nr. 232](https://lovdata.no/forskrift/1994-03-25-232).

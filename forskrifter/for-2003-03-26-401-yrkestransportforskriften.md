@@ -1,0 +1,672 @@
+# Forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
+
+- **Korttittel:** Yrkestransportforskriften
+- **Datokode:** FOR-2003-03-26-401
+- **DokumentID:** SF/forskrift/2003-03-26-401
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Vei-, by- og trafikksikkerhetsavdelingen
+- **Hjemmel:** lov 21.06.2002 nr. 45/§1; lov 21.06.2002 nr. 45/§3; lov 21.06.2002 nr. 45/§4; lov 21.06.2002 nr. 45/§5; lov 21.06.2002 nr. 45/§6; lov 21.06.2002 nr. 45/§9; lov 21.06.2002 nr. 45/§9a; lov 21.06.2002 nr. 45/§9g; lov 21.06.2002 nr. 45/§10; lov 21.06.2002 nr. 45/§12; lov 21.06.2002 nr. 45/§14; lov 21.06.2002 nr. 45/§21; lov 21.06.2002 nr. 45/§25; lov 21.06.2002 nr. 45/§26; lov 21.06.2002 nr. 45/§26a; lov 21.06.2002 nr. 45/§27; lov 21.06.2002 nr. 45/§29; lov 21.06.2002 nr. 45/§29a; lov 21.06.2002 nr. 45/§30; lov 21.06.2002 nr. 45/§31; lov 21.06.2002 nr. 45/§32; lov 21.06.2002 nr. 45/§32a; lov 21.06.2002 nr. 45/§33; lov 21.06.2002 nr. 45/§35; lov 21.06.2002 nr. 45/§40b; lov 21.06.2002 nr. 45/§42
+- **Publisert i:** I 2003 hefte 4
+- **Kunngjort:** 2003-04-01
+- **I kraft fra:** 2003-04-01
+- **Siste endring i kraft:** 2026-02-01
+- **Sist endret ved:** forskrift 29.01.2026 nr. 108 fra 2026-02-01
+- **Endrer:** forskrift 04.12.1992 nr. 1013; forskrift 08.12.1986 nr. 2170; forskrift 04.12.1992 nr. 1016; forskrift 10.06.1977 nr. 8
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2015-01-07 (EØS-henvisninger)
+- **Merknad:** Hjemmel: Fastsatt av Samferdselsdepartementet 26. mars 2003 med hjemmel i lov av 21. juni 2002 nr. 45 om yrkestransport med motorvogn eller fartøy (yrkestransportlova) § 1, § 3, § 4, § 5, § 6, § 9, § 9a, § 9g, § 10, § 12, § 14, § 21, § 25, § 26, § 26a, § 27, § 29, § 29a, § 30, § 31, § 32, § 32a, § 33, § 35, § 40b og § 42. EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 19a (forordning (EF) nr. 1071/2009 endret ved forordning (EU) nr. 613/2012 og forordning (EU) 2020/1055), nr. 19aa (beslutning 2009/992/EU), nr. 19ac (forordning (EU) 2016/403 endret ved forordning (EU) 2022/694), nr. 19ad (forordning (EU) 2016/480 endret ved forordning (EU) 2017/1440 og forordning (EU) 2023/2381), nr. 25a (forordning (EF) nr. 1072/2009 endret ved forordning (EU) nr. 612/2012 og forordning (EU) 2020/1055), nr. 26b (forordning (EØF) nr. 3916/90), nr. 26d (forordning (EF) nr. 792/94), nr. 26e (forordning (EF) nr. 2327/2003), nr. 27 (forordning (EØF) nr. 4058/89), nr. 32a (forordning (EF) nr. 1073/2009 endret ved forordning (EU) nr. 611/2012), nr. 32aa (forordning (EU) nr. 361/2014), nr. 33c (forordning (EF) nr. 2121/98) og nr. 36aa (forordning (EU) nr. 181/2011). Endret ved forskrifter 25 feb 2005 nr. 170, 8 feb 2006 nr. 125, 20 des 2010 nr. 1752, 21 nov 2014 nr. 1453, 8 juli 2015 nr. 884, 21 des 2015 nr. 1852, 25 feb 2016 nr. 195, 22 des 2016 nr. 1764, 1 des 2017 nr. 1917, 8 des 2017 nr. 2097, 21 nov 2014 nr. 1453 som endret ved forskrifter 12 mars 2015 nr. 213 og 3 nov 2017 nr. 1743, 3 nov 2017 nr. 1733, 18 des 2017 nr. 2150, 20 des 2017 nr. 2334, 23 mars 2018 nr. 451, 7 mai 2018 nr. 701, 20 des 2018 nr. 2196, 7 mai 2018 nr. 701, 30 jan 2019 nr. 55, 23 mars 2018 nr. 518 (i kraft 1 jan 2020), 24 sep 2019 nr. 1194 (i kraft 1 jan 2020), 17 des 2019 nr. 1875 (i kraft 1 jan 2020), 19 des 2019 nr. 2052 (i kraft 1 jan 2020), 6 des 2019 nr. 1646 som endret ved forskrift 23 juni 2020 nr. 1355 og forskrift 15 okt 2020 nr. 2057 (i kraft 1 nov 2020), 27 jan 2020 nr. 83 som endret ved forskrift 23 juni 2020 nr. 1356 (i kraft 1 nov 2020), 18 des 2020 nr. 3039 (i kraft 1 jan 2021), 21 des 2021 nr. 3839 (i kraft 1 jan 2022), 12 okt 2022 nr. 1757 (i kraft 1 nov 2022), 1 des 2022 nr. 2068, 1 des 2022 nr. 2068 (i kraft 1 jan 2023), 22 des 2022 nr. 2476 (i kraft 1 jan 2023), 23 des 2022 nr. 2502 (i kraft 1 jan 2023), 4 jan 2023 nr. 8, 13 jan 2023 nr. 43, 25 mai 2023 nr. 734 (i kraft 1 juni 2023), 31 mai 2023 nr. 755 (i kraft 1 juni 2023), 4 aug 2023 nr. 1307, 26 okt 2023 nr. 1704, 20 des 2023 nr. 2237 (i kraft 1 jan 2024), 2 juli 2024 nr. 1547 (i kraft 1 sep 2024), 9 des 2024 nr. 3010, 19 des 2024 nr. 3281 (i kraft 1 jan 2025), 11 feb 2025 nr. 175, 2 juli 2024 nr. 1547 (endringen endret ved forskrift 14 feb 2025 nr. 250, i kraft 1 mars 2025), 14 feb 2025 nr. 249 (i kraft 1 mars 2025), 22 jan 2025 nr. 54 (i kraft 6 mars 2025, endringen endret ved forskrift 6 mars 2025 nr. 368), 30 juni 2025 nr. 1417 (i kraft 1 aug 2025), 22 jan 2025 nr. 54 (i kraft 1 jan 2026, endringen endret ved forskrift 6 mars 2025 nr. 368), 17 nov 2025 nr. 2284 (i kraft 1 jan 2026), 29 jan 2026 nr. 108 (i kraft 1 feb 2026). Rettelser: 07.01.2015 (EØS-henvisninger).
+- **Kilde:** <https://lovdata.no/forskrift/2003-03-26-401>
+
+## Kap. I. Fellesbestemmelser
+
+### § 1. Definisjoner
+
+I denne forskrift menes med:
+
+a. Løyve for godstransport, løyve som gir innehaveren rett til å drive godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 3500 kg,
+b. ruteløyve, løyve som gir innehaveren rett og plikt til å drive persontransport i rute med motorvogn eller fartøy,
+c. turvognløyve, løyve som gir innehaveren rett til å drive persontransport med motorvogn utenfor rute registrert for over åtte personer i tillegg til førersetet,
+d. (opphevet)
+e. (opphevet)
+f. drosjeløyve, løyve som gir innehaveren rett til å drive transport utenfor rute med motorvogn registrert for høyst åtte sitteplasser i tillegg til førersetet,
+g. samboere, to ugifte personer som lever sammen og har eller har hatt felles barn eller har hatt samme folkeregistrerte adresse i minst to år,
+h. registrerte partnere, to personer som har latt sitt partnerskap registrere etter [lov av 30. april 1993 nr. 40](https://lovdata.no/lov/1993-04-30-40) om registrert partnerskap.
+i. Internasjonalt varebilløyve, løyve som gir innehaveren rett til å drive internasjonal godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg,
+j. Nasjonalt varebilløyve, løyve som gir innehaveren rett til å drive nasjonal godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg.
+
+Bestemmelsene i kapittel I får anvendelse for alle løyvekategorier når ikke annet er fastsatt. Bestemmelsene i [kapittel II](for-2003-03-26-401-yrkestransportforskriften.md) får anvendelse for persontransport i rute innenlands med motorvogn eller fartøy, og [kapittel III](for-2003-03-26-401-yrkestransportforskriften.md) får anvendelse for persontransport med motorvogn utenfor rute.
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [20 des 2010 nr. 1752](https://lovdata.no/forskrift/2010-12-20-1752) (i kraft 1 jan 2011), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [12 okt 2022 nr. 1757](https://lovdata.no/forskrift/2022-10-12-1757) som endret ved [forskrift 25 okt 2022 nr. 1799](https://lovdata.no/forskrift/2022-10-25-1799) (i kraft 1 nov 2022), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 1 jan 2026).*
+
+### § 1a. Gjennomføring av forordning om adgang til yrket som transportør på vei
+
+[EØS-avtalen vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13) nr. 19a (forordning [(EF) nr. 1071/2009](https://lovdata.no/eu/32009r1071) som endret ved forordning [(EU) nr. 613/2012](https://lovdata.no/eu/32012r0613) og forordning [(EU) 2020/1055](https://lovdata.no/eu/32020r1055) om innføring av felles regler med hensyn til vilkårene som må oppfylles for å utøve yrket som transportør på vei og om oppheving av rådsdirektiv [96/26/EF](https://lovdata.no/eu/31996l0026), [vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13) nr. 19aa (kommisjonsbeslutning [2009/992/EU](https://lovdata.no/eu/32009d0992)) om minstekrav til dataene som skal registreres i det nasjonale elektroniske registeret for veitransportforetak, [vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13) nr. 19ac (kommisjonsforordning [(EU) 2016/403](https://lovdata.no/eu/32016r0403)) om utfylling av forordning [(EF) nr. 1071/2009](https://lovdata.no/eu/32009r1071) med hensyn til klassifiseringen av alvorlige overtredelser av Unionens regler som kan føre til at et veitransportforetak ikke oppfyller vandelskravet og om endring av vedlegg III til direktiv [2006/22/EF](https://lovdata.no/eu/32006l0022) som endret ved forordning [(EU) 2022/694](https://lovdata.no/eu/32022r0694), og [vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13) nr. 19ad (kommisjonsforordning [(EU) 2016/480](https://lovdata.no/eu/32016r0480) om fastsettelse av felles regler for sammenkobling av nasjonale elektroniske registre over veitransportforetak og om oppheving av forordning [(EU) nr. 1213/2010](https://lovdata.no/eu/32010r1213) som endret ved kommisjonsforordning [(EU) 2017/1440](https://lovdata.no/eu/32017r1440) og [(EU) 2023/2381)](https://lovdata.no/eu/32023r2381), gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), endret ved [forskrifter 1 des 2017 nr. 1917](https://lovdata.no/forskrift/2017-12-01-1917), [7 mai 2018 nr. 701](https://lovdata.no/forskrift/2018-05-07-701), [7 mai 2018 nr. 701](https://lovdata.no/forskrift/2018-05-07-701) (i kraft 30 jan 2019), [12 okt 2022 nr. 1757](https://lovdata.no/forskrift/2022-10-12-1757) (i kraft 1 nov 2022), [26 okt 2023 nr. 1704](https://lovdata.no/forskrift/2023-10-26-1704), [11 feb 2025 nr. 175](https://lovdata.no/forskrift/2025-02-11-175).*
+
+### § 2. Løyve
+
+Den som mot vederlag vil drive
+
+a. godstransport med motorvogn[1] eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg, eller
+b. persontransport i rute med motorvogn eller fartøy, eller
+c. persontransport med motorvogn utenfor rute,
+
+må ha løyve fra vedkommende løyvemyndighet.
+
+Det samme gjelder den som utfører godstransport mot vederlag med motorvogn som ellers er fritatt fra kravet om løyve i medhold av [yrkestransportlova § 16](https://lovdata.no/lov/2002-06-21-45/§16) når transporten kan ses som ledd i næringsvirksomhet, eller den som utfører persontransport mot vederlag på lignende måte som drosje når tilbudet om transport blir rettet til allmennheten på offentlig plass eller via digitale plattformer.
+
+Dette gjelder likevel ikke:
+
+a. transport med motorvogn med største tillatte hastighet på høyst 40 km/t
+b. berging av kjøretøy og fjerning av feilparkert kjøretøy utført med motorvogn spesielt konstruert for slik virksomhet
+c. transport av husholdningsavfall, jf. [lov 13. mars 1981 nr. 6](../lover/lov-1981-03-13-6-forurensningsloven.md) om vern mot forurensning og om avfall, innen egen kommune med motorvogn registrert på kommunen eller kommunal etat. Det samme gjelder innen flere kommuner hvor slik transport er organisert i interkommunalt selskap, jf. [lov av 29. januar 1999 nr. 6](../lover/lov-1999-01-29-6-iks-loven.md) om interkommunale selskaper.
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [20 des 2010 nr. 1752](https://lovdata.no/forskrift/2010-12-20-1752) (i kraft 1 jan 2011), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [12 okt 2022 nr. 1757](https://lovdata.no/forskrift/2022-10-12-1757) (i kraft 1 nov 2022), [25 mai 2023 nr. 734](https://lovdata.no/forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 1 jan 2026).*
+
+### § 3. Løyvemyndighet mv.
+
+Statens vegvesen er løyvemyndighet for løyve etter [yrkestransportlova § 4](https://lovdata.no/lov/2002-06-21-45/§4) og [§ 5](https://lovdata.no/lov/2002-06-21-45/§5). Den fylkeskommune hvor løyvesøker har sin forretningsadresse er løyvemyndighet for løyve etter [yrkestransportlova § 6](https://lovdata.no/lov/2002-06-21-45/§6), [§ 7](https://lovdata.no/lov/2002-06-21-45/§7), [§ 9](https://lovdata.no/lov/2002-06-21-45/§9) og [§ 9b](https://lovdata.no/lov/2002-06-21-45/§9b), med unntak av løyver for riksvegferjer. For en løyvesøker som skal drive behovsprøvd transport innen et annet fylke, er vedkommende fylkeskommune løyvemyndighet. Statens vegvesen er løyvemyndighet for riksvegferjer.
+
+Statens vegvesen er utstedelsesmyndighet for internasjonale tillatelser og kontrolldokumenter utenfor rammen av EØS-avtalen.
+
+For internasjonale kontrolldokumenter innenfor og utenfor rammen av EØS-avtalen kan Statens vegvesen delegere sin utstedelsesmyndighet.
+
+Departementet fastsetter nærmere retningslinjer for utøvelsen av løyvemyndigheten.
+
+*Endret ved [forskrifter 8 feb 2006 nr. 125](https://lovdata.no/forskrift/2006-02-08-125) (i kraft 1 april 2006), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015), [19 des 2019 nr. 2052](https://lovdata.no/forskrift/2019-12-19-2052) (i kraft 1 jan 2020), [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024).*
+
+### § 4. Generelle vilkår for å kunne få løyve
+
+Dersom ikke særlige grunner taler mot det kan løyve tildeles søker som:
+
+a. driver en fast og varig virksomhet i Norge,
+b. har god vandel,
+c. har tilfredsstillende økonomisk evne, og
+d. har tilstrekkelig faglig kompetanse.
+
+For ruteløyve for fartøy gjelder likevel bare kravene i bokstav b) og c). For sentralløyve gjelder kravene i a), b) og c)
+
+*Endret ved [forskrifter 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser som ble endret ved [forskrift 12 mars 2015 nr. 213](https://lovdata.no/forskrift/2015-03-12-213)), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [25 mai 2023 nr. 734](https://lovdata.no/forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024).*
+
+### § 5. Nærmere vilkår for tildeling av løyve
+
+Løyvemyndigheten kan innenfor rammen av [yrkestransportlova § 25](https://lovdata.no/lov/2002-06-21-45/§25) sette nærmere vilkår for løyvet.
+
+Vilkår som er satt for et løyve kan endres eller suppleres i løyveperioden. Vil ikke løyvehaveren fortsette driften på de nye vilkår, skal han gis en rimelig tid for avvikling.
+
+*For overgangsbestemmelser, se [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) som endret ved [forskrift 12 mars 2015 nr. 213](https://lovdata.no/forskrift/2015-03-12-213).*
+
+### § 5a. Krav til etablering i Norge
+
+For den som har eller søker om løyve for godstransport, internasjonalt eller nasjonalt varebilløyve eller turvognløyve fremgår kravene til etablering av forordning [(EF) nr. 1071/2009](https://lovdata.no/eu/32009r1071) art. 5. For den som har eller søker om løyve for drosjetransport, er kravet til etablering oppfylt ved registrering i enhetsregisteret.
+
+*Tilføyd ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), endret ved forskrifter [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) (i kraft 1 nov 2020, endringen endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355), se endringsforskriften for overgangsbestemmelser), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 1 jan 2026).*
+
+### § 6. Krav til god vandel
+
+For den som har eller søker om løyve for godstransport, internasjonalt eller nasjonalt varebilløyve og turvognløyve er kravene til god vandel fastsatt i forordning [(EF) nr. 1071/2009](https://lovdata.no/eu/32009r1071) art. 6.
+
+For den som har eller søker om drosjeløyve eller ruteløyve for fartøy anses kravet til god vandel ikke for å være oppfylt dersom innehaveren eller søkeren
+
+a. er fradømt retten til å drive næringsvirksomhet, eller
+b. er ilagt straff for en alvorlig lovovertredelse, herunder på det handelsmessige område.
+
+Søknad om løyve skal vedlegges politiattest, jf. [§ 10](for-2003-03-26-401-yrkestransportforskriften.md). Politiattesten skal ikke være eldre enn tre måneder og den skal makuleres etter at klagefristen på løyvetildelingen har gått ut.
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [12 okt 2022 nr. 1757](https://lovdata.no/forskrift/2022-10-12-1757) (i kraft 1 nov 2022), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 6 mars 2025, endringen endret ved forskrift [6 mars 2025 nr. 368](https://lovdata.no/forskrift/2025-03-06-368)).*
+
+### § 7. Krav til økonomisk evne
+
+Søker må ved søknad om løyve for godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 3500 kg fremlegge en garantierklæring fra bank eller forsikringsselskap. Garantierklæringen må ha en kroneverdi tilsvarende 9000 euro for det første løyvet. For løyver ut over dette gjelder en kroneverdi tilsvarende:
+
+a. 5000 euro for hvert ekstra løyve ved godstransport med motorvogn eller motorvogn med tilhenger over 3500 kg.
+b. 900 euro for hvert ekstra løyve ved godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 og opp til 3500 kg.
+
+For søker som driver godstransport som kun benytter seg av motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg må garantierklæringen ha en kroneverdi tilsvarende:
+
+a. 1800 euro for første løyve
+b. 900 euro for hvert ekstra løyve.
+
+Søker må ved søknad om løyve for turvogn og persontransport med fartøy i rute fremlegge en garantierklæring fra bank eller forsikringsselskap. Garantierklæringen må ha en kroneverdi tilsvarende 9000 euro for det første løyvet. For løyver ut over dette gjelder en kroneverdi tilsvarende 5000 euro for hvert løyve.
+
+Søker må ved søknad om drosjeløyve fremlegge en garantierklæring fra bank eller forsikringsselskap. Garantierklæringen må ha en kroneverdi tilsvarende 5000 euro for det første løyvet. For løyver ut over dette gjelder en kroneverdi tilsvarende 2500 euro for hvert løyve.
+
+Euroens verdi i kroner fastsettes i henhold til forordning [(EF) nr. 1071/2009](https://lovdata.no/eu/32009r1071) art. 7 nr. 1 for alle løyvetypene. Departementet fastsetter nærmere retningslinjer for innlevering av garantierklæring.
+
+Det stilles ikke egen garanti ved søknad om løyve for persontransport i rute. Ved søknad om løyve for persontransport med fartøy i rute, stilles likevel garanti for det antall fartøy som skal nyttes i den løyvepliktige virksomheten.
+
+Økonomikravet anses likevel ikke å være oppfylt dersom søkeren har vesentlige, forfalte men ikke betalte gebyr-, avgifts- eller skatterestanser eller er under konkursbehandling. Søknaden skal vedlegges attest om restanser på skatt, avgift mv. fra skattekontoret og bekreftelse fra konkursregisteret. Attestene skal ikke være eldre enn tre måneder.
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [8 feb 2006 nr. 125](https://lovdata.no/forskrift/2006-02-08-125) (i kraft 1 april 2006), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [12 okt 2022 nr. 1757](https://lovdata.no/forskrift/2022-10-12-1757) som endret ved [forskrift 25 okt 2022 nr. 1799](https://lovdata.no/forskrift/2022-10-25-1799) (i kraft 1 nov 2022), [1 des 2022 nr. 2068](https://lovdata.no/forskrift/2022-12-01-2068) (i kraft 1 jan 2023, se endringsforskriften for overgangsbestemmelser), [9 des 2024 nr. 3010](https://lovdata.no/forskrift/2024-12-09-3010).*
+
+### § 8. Krav til faglig kompetanse
+
+For den som har eller søker om løyve for godstransport, internasjonalt varebilløyve og turvognløyve følger de nærmere kravene til faglig kompetanse og dokumentasjon av slik kompetanse av forordning [(EF) nr. 1071/2009](https://lovdata.no/eu/32009r1071) art. 8 og 21. Kravet om faglig kompetanse anses å være oppfylt dersom søkeren enten kan fremlegge vitnemål for bestått eksamen, innehar løyve for den løyvetype det søkes om, eller har ledet et transportforetak sammenhengende i perioden på 10 år før 4. desember 2009. For søkere om internasjonalt varebilløyve, anses kravet om faglig kompetanse å være oppfylt dersom søkeren har ledet et transportforetak sammenhengende i perioden på 10 år før 20. august 2020.
+
+For den som har eller søker om nasjonalt varebilløyve må søkeren kunne dokumentere nødvendig kunnskap innen yrkestransport med tilhørende forskrifter, [vegtrafikkloven](../lover/lov-1965-06-18-4-vegtrafikkloven.md), [arbeidsmiljøloven](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md) og [ferieloven](../lover/lov-1988-04-29-21-ferieloven.md), opplæring av ansatte, internkontroll, foretaksformer, økonomiforståelse, skatter og avgifter. Statens vegvesen fastsetter det nærmere innholdet i kravene til fagkompetanse for nasjonalt varebilløyve. Kravet om faglig kompetanse anses å være oppfylt dersom søkeren har ledet et transportforetak sammenhengende i perioden på 10 år før 1. januar 2026, kan fremlegge vitnemål for bestått eksamen hos Statens vegvesen eller oppfyller kravene i første ledd. Statens vegvesen kan godkjenne vitnemål eller kompetansebevis utstedt av offentlig myndighet i annen EØS-stat eller Sveits som bevis på tilsvarende kompetanse.
+
+For den som har eller søker om drosjeløyve gjelder følgende krav til faglig kompetanse:
+
+- Yrkes- og markedsadgang og vegtrafikk, herunder
+  - Yrkestransportregelverket
+  - [Vegtrafikkloven](../lover/lov-1965-06-18-4-vegtrafikkloven.md) og relevante forskrifter.
+- Arbeidsgivers ansvar, herunder
+  - [Arbeidsmiljøloven](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md) og [ferieloven](../lover/lov-1988-04-29-21-ferieloven.md)
+  - Opplæring av ansatte
+  - Internkontroll.
+- Oppstart og administrasjon av drosjevirksomhet, herunder
+  - Foretaksformer
+  - Økonomiforståelse
+    - Inntekter og kostnader
+    - Regnskap
+    - Investeringer
+    - Finansiering
+    - Budsjettering og kalkulering
+    - Bokføringsregler for drosje.
+  - Regler om prisopplysning og maksimalpris for drosje
+  - Loggføring av drosjeturer
+  - Bruk av taksameter.
+- Skatter og avgifter, herunder
+  - Rapportering til skattemyndighetene, herunder
+    - inntjening
+    - merverdiavgift.
+
+Statens vegvesen fastsetter det nærmere innholdet i kravene til fagkompetanse for drosjeløyve. Kravet til faglig kompetanse for den som har eller søker om drosjeløyve anses å være oppfylt dersom vedkommende kan fremlegge vitnemål for bestått eksamen hos Statens vegvesen eller oppfyller kravene i første ledd. Statens vegvesen kan godkjenne vitnemål eller kompetansebevis utstedt av offentlig myndighet i annen EØS-stat eller Sveits som bevis på tilsvarende kompetanse. Kravet til faglig kompetanse anses også å være oppfylt dersom vedkommende har hatt drosjeløyve etter [yrkestransportloven § 9](https://lovdata.no/lov/2002-06-21-45/§9) før 1. november 2020.
+
+For fører av drosje kan departementet fastsette nærmere krav til faglig kompetanse. Kravet til faglig kompetanse anses å være oppfylt dersom vedkommende kan framlegge vitnemål for bestått eksamen eller gyldig bevis for yrkessjåførkompetanse for persontransport hos Statens vegvesen. Statens vegvesen kan også godkjenne yrkeskvalifikasjoner for drosjesjåfører fra annen EØS-stat eller Sveits, jf. [yrkeskvalifikasjonsloven](../lover/lov-2017-06-16-69-yrkeskvalifikasjonsloven.md) og [forskrift 22. desember 2017 nr. 2384 om godkjenning av yrkeskvalifikasjoner](for-2017-12-22-2384-forskrift-om-godkjenning-av-yrkeskvalifikasjoner.md).
+
+Departementet kan fastsette nærmere retningslinjer om godkjenning av løyveutdanning for søkere som har fullført utdanning eller har påbegynt utdanning før 1. januar 2018.
+
+*Endret ved forskrifter [25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [8 feb 2006 nr. 125](https://lovdata.no/forskrift/2006-02-08-125) (i kraft 1 april 2006), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [3 nov 2017 nr. 1733](https://lovdata.no/forskrift/2017-11-03-1733) (i kraft 1 jan 2018), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) (i kraft 1 nov 2020, endringen endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355), se endringsforskriften for overgangsbestemmelser), [12 okt 2022 nr. 1757](https://lovdata.no/forskrift/2022-10-12-1757) (i kraft 1 nov 2022), [25 mai 2023 nr. 734](https://lovdata.no/forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 1 jan 2026, endringen endret ved forskrift [6 mars 2025 nr. 368](https://lovdata.no/forskrift/2025-03-06-368)).*
+
+### § 9. Eksamen
+
+Den som søker om løyve for godstransport, internasjonalt varebilløyve, nasjonalt varebilløyve, turvognløyve, eller drosjeløyve skal avlegge løyveeksamen hos Statens vegvesen. Den som søker om kjøreseddel for drosjetransport etter [yrkestransportloven kapittel 7A](https://lovdata.no/lov/2002-06-21-45/kap7a) skal avlegge førereksamen hos Statens vegvesen. Statens vegvesen kan fastsette nærmere retningslinjer for gjennomføring av eksamen.
+
+*Endret ved forskrifter [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2018, endringen endret ved [forskrift 3 nov 2017 nr. 1743](https://lovdata.no/forskrift/2017-11-03-1743)), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) (i kraft 1 nov 2020, endringen endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355), se endringsforskriften for overgangsbestemmelser), [25 mai 2023 nr. 734](https://lovdata.no/forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 1 jan 2026).*
+
+### § 10. Selskaper
+
+Er den som har eller søker om løyve for godstransport, internasjonalt varebilløyve, nasjonalt varebilløyve eller turvognløyve et selskap eller annen juridisk person, følger det av forordning [(EF) nr. 1071/2009](https://lovdata.no/eu/32009r1071) hvem som skal oppfylle kravene i [§ 4](for-2003-03-26-401-yrkestransportforskriften.md), jf. [§ 6](for-2003-03-26-401-yrkestransportforskriften.md)–[§ 8](for-2003-03-26-401-yrkestransportforskriften.md). I tillegg må styrets leder oppfylle kravene til god vandel etter [§ 6](for-2003-03-26-401-yrkestransportforskriften.md).
+
+Er den som har eller søker om løyve for drosje et selskap eller annen juridisk person må den til enhver tid daglige leder eller transportleder oppfylle kravene til god vandel og faglige kvalifikasjoner i [§ 4](for-2003-03-26-401-yrkestransportforskriften.md), jf. [§ 6](for-2003-03-26-401-yrkestransportforskriften.md) og [§ 8](for-2003-03-26-401-yrkestransportforskriften.md). I tillegg må foretaket som sådan oppfylle kravet til god vandel. Hvis søkeren er et nyopprettet selskap, må også den daglige leder fylle kravet til økonomi i [§ 7](for-2003-03-26-401-yrkestransportforskriften.md) tredje ledd.
+
+Er den som har eller søker om løyve for drosjesentral et selskap eller annen juridisk person, skal daglig leder oppfylle kravet til god vandel. Dersom søkeren er et nyopprettet selskap, må også den daglige lederen oppfylle kravet til økonomi i [§ 7 syvende ledd](https://lovdata.no/lov/2002-06-21-45/§7/ledd/7) og være bosatt i EØS. Daglig leder skal være godkjent av løyvemyndigheten.
+
+Er den som har eller søker om ruteløyve for fartøy et selskap eller annen juridisk person må den til enhver tid daglige leder fylle kravene til vandel i [§ 4](for-2003-03-26-401-yrkestransportforskriften.md), jf. [§ 6](for-2003-03-26-401-yrkestransportforskriften.md). Hvis søkeren er et nyopprettet selskap må også den daglige leder fylle kravet til økonomi i [§ 7](for-2003-03-26-401-yrkestransportforskriften.md), tredje ledd.
+
+Selskap som innehar selskapsvognløyve, løyve for transport for funksjonshemmede eller drosjeløyve tildelt før ikrafttredelse av denne forskrift, og som er knyttet til en bestemt daglig leder som nevnt i første ledd, anses å oppfylle kravene i [§ 8](for-2003-03-26-401-yrkestransportforskriften.md) ved søknad om nye løyver ved samme daglige leder.
+
+*Endret ved [forskrifter 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [30 jan 2019 nr. 55](https://lovdata.no/forskrift/2019-01-30-55), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) (i kraft 1 nov 2020, endringen endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355), se endringsforskriften for overgangsbestemmelser), [25 mai 2023 nr. 734](https://lovdata.no/forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 6 mars 2025, endringen endret ved forskrift [6 mars 2025 nr. 368](https://lovdata.no/forskrift/2025-03-06-368)), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 1 jan 2026).*
+
+### § 11. Skifte av transportleder, daglig leder eller styreleder
+
+Dersom godkjent transportleder eller daglig leder fratrer virksomheten, skal dette meldes løyvemyndigheten snarest og senest innen 28 dager. Løyvene kalles tilbake dersom ikke virksomheten innen 3 måneder etter fratreden kan dokumentere at det er ansatt ny transportleder eller daglig leder som fyller kravene i [§ 6](for-2003-03-26-401-yrkestransportforskriften.md) og/eller [§ 8](for-2003-03-26-401-yrkestransportforskriften.md). For virksomhet som har løyve for godstransport, internasjonalt varebilløyve, nasjonalt varebilløyve eller turvognløyve gjelder tilsvarende for styrets leder når virksomheten har et styre.
+
+Løyvemyndigheten kan i særlige tilfeller forlenge denne fristen.
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024), [22 jan 2025 nr. 54](https://lovdata.no/forskrift/2025-01-22-54) (i kraft 1 jan 2026).*
+
+### § 12. Behandlingsgebyr
+
+Følgende gebyrsatser gjelder for behandling av søknad om løyve mv.:
+
+| *Tjeneste* | *Ordinær betalingsmåte, kr* | *Betaling ved bruk av selvbetjeningsløsning, kr* | *Betalingsmottaker* |
+| --- | --- | --- | --- |
+| Løyve for godstransport, turvogn og internasjonalt varebilløyve | 2 290 | – | Løyvemyndigheten |
+| Attestert kopi av løyve for godstransport, turvognløyve og internasjonalt varebilløyve | 1 520 | – | Løyvemyndigheten |
+| Attestert kopi av løyve for godstransport, turvognløyve og internasjonalt varebilløyve ved tapt løyve | – | 1 520 | Løyvemyndigheten |
+| Nasjonalt varebilløyve | 960 | – | Løyvemyndigheten |
+| Drosjeløyve | 3700 | – | Løyvemyndigheten |
+| Duplikatdokument for drosjeløyve | 3700 | – | Løyvemyndigheten |
+| Sentralløyve | 3700 | – | Løyvemyndigheten |
+| Ruteløyve | 3400 | – | Løyvemyndigheten |
+
+Følgende gebyrsatser gjelder for gjennomføring av eksamen mv.:
+
+| *Tjeneste* | *Ordinær betalingsmåte, kr* | *Betaling ved bruk av selvbetjeningsløsning, kr* | *Betalingsmottaker* |
+| --- | --- | --- | --- |
+| Løyveeksamen for gods-, persontransport og internasjonalt varebilløyve | 1 200 | 1 100 | Statens vegvesen |
+| Utstedelse av bevis for bestått løyveeksamen for gods-, persontransport og internasjonalt varebilløyve | 120 | – | Statens vegvesen |
+| Løyveeksamen for nasjonalt varebilløyve | 610 | – | Statens vegvesen |
+| Løyveeksamen for drosje | 470 | – | Statens vegvesen |
+| Teoretisk førereksamen for drosje | 460 | 400 | Statens vegvesen |
+
+Vegdirektoratet kan fastsette behandlingsgebyr for utstedelse av de øvrige tillatelser og kontrolldokumenter for internasjonal transport, herunder kabotasje.
+
+I særlige tilfeller kan Samferdselsdepartementet dispensere fra gebyrkravene.
+
+*Endret ved forskrifter [25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [21 des 2015 nr. 1852](https://lovdata.no/forskrift/2015-12-21-1852) (i kraft 1 jan 2016), [22 des 2016 nr. 1764](https://lovdata.no/forskrift/2016-12-22-1764) (i kraft 1 jan 2017), [3 nov 2017 nr. 1733](https://lovdata.no/forskrift/2017-11-03-1733) (i kraft 1 jan 2018), [18 des 2017 nr. 2150](https://lovdata.no/forskrift/2017-12-18-2150) (i kraft 1 jan 2018), [20 des 2018 nr. 2196](https://lovdata.no/forskrift/2018-12-20-2196) (i kraft 1 jan 2019), [17 des 2019 nr. 1875](https://lovdata.no/forskrift/2019-12-17-1875) (i kraft 1 jan 2020), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [27 jan 2020 nr. 83](https://lovdata.no/forskrift/2020-01-27-83) som endret ved [forskrift 23 juni 2020 nr. 1356](https://lovdata.no/forskrift/2020-06-23-1356) (i kraft 1 nov 2020), [18 des 2020 nr. 3039](https://lovdata.no/forskrift/2020-12-18-3039) (i kraft 1 jan 2021), [21 des 2021 nr. 3839](https://lovdata.no/forskrift/2021-12-21-3839) (i kraft 1 jan 2022), [22 des 2022 nr. 2476](https://lovdata.no/forskrift/2022-12-22-2476) (i kraft 1 jan 2023), [4 jan 2023 nr. 8](https://lovdata.no/forskrift/2023-01-04-8), [13 jan 2023 nr. 43](https://lovdata.no/forskrift/2023-01-13-43), [25 mai 2023 nr. 734](https://lovdata.no/forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), [31 mai 2023 nr. 755](https://lovdata.no/forskrift/2023-05-31-755) (i kraft 1 juni 2023), [20 des 2023 nr. 2237](https://lovdata.no/forskrift/2023-12-20-2237) (i kraft 1 jan 2024), [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024), [19 des 2024 nr. 3281](https://lovdata.no/forskrift/2024-12-19-3281) (i kraft 1 jan 2025), [30 juni 2025 nr. 1417](https://lovdata.no/forskrift/2025-06-30-1417) (i kraft 1 aug 2025), [29 jan 2026 nr. 108](for-2026-01-29-108-endr-i-yrkestransportforskriften.md) (i kraft 1 feb 2026).*
+
+### § 13. Kontrolldokument
+
+Et løyve gjelder for transport for en motorvogn.
+
+Motorvognen skal under løyvepliktig transport være utstyrt med de løyvedokument i original som skal fremvises ved kontroll, jf. [yrkestransportlova § 38](https://lovdata.no/lov/2002-06-21-45/§38). For rutetransport skal kopi av ruteløyvedokumentet fremvises ved kontroll. For rutetransport med motorvogn skal etter 31. desember 2005 i tillegg løyvedokument etter yrkestransportloven § 4 i original fremvises ved kontroll. I tillegg følger det av forordningene [(EF) nr. 1072/2009](https://lovdata.no/eu/32009r1072) og (EF) [nr. 1073/2009](https://lovdata.no/eu/32009r1073*) hvilke dokumenter som skal fremvises for transport som omfattes av forordningene.
+
+Fører av motorvogn som utfører løyvepliktig transport skal til enhver tid kunne dokumentere at løyvehaver har disposisjonsrett over motorvognen, enten ved at løyvehaver står oppført i vognkortet som eier, eller ved at kopi av leie- eller leasingavtale fremlegges. Det skal fremgå av avtalen hvem som er dens parter og hvilke kjøretøy som omfattes, enten i form av registreringsnummer eller chassisnummer. Dette gjelder også ved egentransport, jf. [yrkestransportlova § 16](https://lovdata.no/lov/2002-06-21-45/§16) og [§ 18](https://lovdata.no/lov/2002-06-21-45/§18).
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [20 des 2010 nr. 1752](https://lovdata.no/forskrift/2010-12-20-1752) (i kraft 1 jan 2011), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+### § 14. Løyveregister
+
+Samferdselsdepartementet kan bestemme at løyvemyndighetene fortløpende skal oversende informasjon om utstedte løyver til et sentralt register, herunder og det sentrale løyveregisteret som er opprettet og drevet i henhold til [yrkestransportlova § 29a](https://lovdata.no/lov/2002-06-21-45/§29a), jf. forordning [(EF) nr. 1071/2009](https://lovdata.no/eu/32009r1071) kapittel IV, og i samsvar med gjeldende tekniske spesifikasjoner.
+
+*Endret ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 15. Dødsfall, konkurs
+
+Dør løyvehaveren, skal den som bestyrer eller har rådighet over boet, straks sende melding om dødsfallet til løyvemyndigheten. Tilsvarende meldeplikt gjelder ved konkurs. Både ved dødsfall og konkurs kan løyvemyndigheten kalle løyvet tilbake uten varsel.
+
+Etterlater avdøde seg ektefelle, samboer, livsarving eller registrert partner som ønsker å fortsette virksomheten, kan løyve ikke kalles tilbake før det er gått seks måneder fra dødsfallet.
+
+*Endret ved [forskrifter 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+### § 16. Tilbakekalling av løyve
+
+Løyvemyndigheten kan tilbakekalle løyve etter [yrkestransportlova § 29](https://lovdata.no/lov/2002-06-21-45/§29). Det kan tilbakekalles ett eller flere løyver avhengig av overtredelsens art og grovhet.
+
+*Endret ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 17. Retur av løyvedokument
+
+Opphører retten til å drive løyvepliktig virksomhet etter disse forskrifter, plikter løyvehaveren eller den som bestyrer eller har rådighet over boet, straks å levere tilbake til løyvemyndigheten de legitimasjoner den har gitt i forbindelse med løyvet.
+
+Den som har fullmakt til å utføre kontroll med hjemmel i yrkestransportlova, kan inndra løyvedokument hvor løyvet er endelig tilbakekalt.
+
+### § 18. Karantene ved tilbakekalt løyve
+
+Ved tilbakekallingen kan det samtidig fastsettes en karantenetid på maksimum tre år fra tilbakekallingstidspunktet før ny løyvetildeling kan finne sted. Tilbakekallingen kan gjøres gjeldende overfor personlig løyvehaver, selskap eller daglig leder eller transportleder i selskap eller annen juridisk person.
+
+*Endret ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 19. Melding om adresseforandring
+
+Løyvehaver skal sende løyvemyndigheten melding om endring av bopels- eller forretningsadresse innen en frist på 28 dager etter at endringen fant sted.
+
+*Endret ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 20. Overføring av løyve
+
+Et løyve kan ikke overføres til annet rettssubjekt uten samtykke fra løyvemyndigheten. Løyvehaver kan heller ikke uten samtykke fra løyvemyndigheten overlate til annet rettssubjekt å administrere eller drive hele eller deler av virksomheten.
+
+### § 21. Statistikk
+
+Løyvehaveren skal gi de økonomiske og statistiske opplysninger Samferdselsdepartementet, Statens vegvesen eller fylkeskommunen bestemmer og på den måten disse fastsetter.
+
+*Endret ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 22. Klage
+
+Kongen er klageinstans for vedtak truffet av Samferdselsdepartementet.
+
+Samferdselsdepartementet er klageinstans for vedtak truffet av Vegdirektoratet eller fylkeskommunen etter delegert myndighet.
+
+For vedtak truffet av fylkeskommunen eller kommunen med direkte hjemmel i yrkestransportlova, er henholdsvis fylkestinget og kommunestyret klageinstans med mindre annet er fastsatt i medhold av [§ 28](for-2003-03-26-401-yrkestransportforskriften.md) annet ledd i forvaltningsloven.
+
+For vedtak truffet av underliggende instans i Statens vegvesen er Vegdirektoratet klageinstans.
+
+For vedtak truffet av politiet, jf. [yrkestransportlova § 38](https://lovdata.no/lov/2002-06-21-45/§38) er Politidirektoratet klageinstans.
+
+*Endret ved [forskrifter 23 mars 2018 nr. 518](https://lovdata.no/forskrift/2018-03-23-518) (i kraft 1 jan 2020), [19 des 2019 nr. 2052](https://lovdata.no/forskrift/2019-12-19-2052) (i kraft 1 jan 2020).*
+
+### § 23. Dispensasjon
+
+Samferdselsdepartementet kan gi nærmere bestemmelser om løyveordningene, og kan i særlige tilfelle gjøre unntak fra bestemmelsene i denne forskriften dersom Norges folkerettslige forpliktelser ikke er til hinder for det.
+
+Løyvemyndigheten kan når transportmessige hensyn tilsier det gjøre unntak fra krav om løyve i det enkelte tilfelle for avgrenset transport som utføres etter avtale med annen løyvehaver og innen rammen av dette løyvet. Slikt unntak gjelder bare når transporten skal utføres med personbil, jf. forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr ([kjøretøyforskriften) § 2-2](for-1994-10-04-918-kjoretoyforskriften.md) nr. 2 a) og gis for inntil ett år om gangen. Det kan stilles vilkår for slikt unntak.
+
+Statens vegvesen kan i særlige tilfeller gi den som søker om løyve for godstransport eller turvognløyve unntak fra kravene til økonomisk evne i [§ 7](for-2003-03-26-401-yrkestransportforskriften.md) og faglig kompetanse i [§ 8](for-2003-03-26-401-yrkestransportforskriften.md).
+
+Statens vegvesen kan i enkeltvedtak gjøre unntak fra krav om løyve for transport med veteranbuss registrert for over 8 personer i tillegg til førersetet.
+
+*Endret ved forskrifter [25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [4 aug 2023 nr. 1307](https://lovdata.no/forskrift/2023-08-04-1307).*
+
+### § 23a. Overtredelsesgebyr knyttet til tildeling av tjenestekonsesjonskontrakter
+
+[Yrkestransportloven § 40 b](https://lovdata.no/lov/2002-06-21-45/§40b) gjelder ikke for transport med fartøy.
+
+*Tilføyd ved [forskrift 8 des 2017 nr. 2097](https://lovdata.no/forskrift/2017-12-08-2097).*
+
+## Kap. II. Persontransport i rute med motorvogn eller fartøy
+
+### § 24. Søknad om ruteløyve
+
+Søknad om ruteløyve må vedlegges:
+
+a. forslag til ruteplan og
+b. forslag til takstregulativ og
+c. dokumentasjon på at søker oppfyller kravene i [§ 4](for-2003-03-26-401-yrkestransportforskriften.md).
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 25. Drift av ruteløyve
+
+Ruteløyve gir rett og plikt til å drive den transport som løyvet omfatter, i samsvar med vilkår som er satt for virksomheten.
+
+### § 26. Materiell
+
+Løyvehaveren skal sette inn det materiell som er nødvendig for å tilfredsstille ordinært behov for transport i samsvar med godkjent ruteplan, og så vidt mulig også ekstraordinært behov som er meldt inn eller kjent en rimelig tid på forhånd.
+
+### § 27. Fartøy
+
+Fartøy som settes inn i rutetransport, skal godkjennes av løyvemyndigheten for så vidt gjelder det transportbehov fartøyet skal dekke samt tilpasning til ferjekai.
+
+Skal erstatningsfartøy brukes i mer enn 3 måneder, kreves løyvemyndighetens godkjenning.
+
+### § 28. Ruteplan
+
+Ruteplan må være godkjent av løyvemyndigheten. Forslag om endring av ruteplan sendes løyvemyndigheten senest 4 måneder før endringen skal tre i kraft.
+
+Løyvemyndigheten kan redusere tidsfristen etter første ledd og kan bestemme at endring kan settes i verk på kortere tid eller at iverksettelsen skal utsettes. Løyvemyndigheten kan videre gi pålegg om endring av ruteplan.
+
+Departementet fastsetter nærmere retningslinjer for hva ruteplan for personruter skal angi og hvordan disse skal offentliggjøres.
+
+*Endret ved [forskrift 8 feb 2006 nr. 125](https://lovdata.no/forskrift/2006-02-08-125) (i kraft 1 april 2006).*
+
+### § 29. Takster
+
+Takstregulativ eller individuelle takster må være godkjent av Samferdselsdepartementet eller av den myndighet Samferdselsdepartementet har gitt fullmakt.
+
+Med mindre Samferdselsdepartementet eller annen myndighet, jf. første ledd, har bestemt noe annet, skal søknad om endring av takster sendes godkjenningsmyndigheten senest 2 måneder før endringen skal tre i kraft. Godkjenningsmyndigheten kan bestemme at endring kan settes i verk på kortere tid eller at iverksettelsen skal utsettes og kan gi pålegg om endring av takstregulativ for ruter med offentlig godtgjørelse.
+
+Takstregulativet skal gjøres kjent på hensiktsmessig måte. Takster for ruter som skal kunngjøres i henhold til [§ 28](for-2003-03-26-401-yrkestransportforskriften.md) bokstav c, sendes Ruteboken innen fastsatt tid.
+
+### § 30. Billettering
+
+Løyvehaver plikter å bruke billettmaskiner, billetter, rabattkort og lignende etter et system godkjent av løyvemyndigheten.
+
+Departementet fastsetter nærmere retningslinjer for bruk av elektroniske billettsystemer.
+
+Den som har løyve for persontransport med motorvogn og fartøy i rute skal betale gebyr til Jernbanedirektoratet for tilknytning til og bruk av elektroniske støttesystemer for billettering. Administrasjonsselskap eller fylkeskommune skal isteden ilegges slikt gebyr når de har den økonomiske risikoen for å levere tjenesten eller eier billettsystemet som brukes. Gebyret fastsettes av Jernbanedirektoratet på grunnlag av Jernbanedirektoratets budsjett for disse tjenestene. Gebyret fordeles forholdsmessig mellom aktørene med utgangspunkt i antall kollektivreiser. Jernbanedirektoratet fastsetter nærmere retningslinjer for beregning av gebyret.
+
+Jernbanedirektoratet kan også pålegge den som skal betale gebyr etter tredje ledd et engangsgebyr som skal dekke obligatoriske individuelle tjenester knyttet til elektroniske støttesystemer for billettering.
+
+Departementet kan gjøre helt eller delvis unntak fra kravene i tredje og fjerde ledd dersom særlige hensyn tilsier det.
+
+*Endret ved [forskrifter 8 feb 2006 nr. 125](https://lovdata.no/forskrift/2006-02-08-125) (i kraft 1 april 2006), [20 des 2017 nr. 2334](https://lovdata.no/forskrift/2017-12-20-2334) (i kraft 1 jan 2018 med unntak for rutetransport med bilførende fartøy i tilknytning til offentlige vegsamband).*
+
+### § 31. Transportvilkår
+
+Løyvehaver skal benytte transportvilkår godkjent av Samferdselsdepartementet jf. [yrkestransportlova § 33](https://lovdata.no/lov/2002-06-21-45/§33). Transportvilkårene skal ikke være mindre gunstige for passasjerene enn det som følger av forskrifter med hjemmel i yrkestransportloven. Disse skal være tilgjengelige for trafikantene.
+
+Rett til å holde tilbake reisende som ikke kan vise gyldig billett, skal godkjennes særskilt som del av transportvilkårene for det enkelte transportselskap. Samferdselsdepartementet kan fastsette vilkår for godkjenning av en slik ordning.
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [25 feb 2016 nr. 195](https://lovdata.no/forskrift/2016-02-25-195) (i kraft 1 april 2016).*
+
+### § 32. Vilkår med mer
+
+Løyvemyndigheten kan, i samråd med kommunale myndigheter, politiet i områder hvor vedkommende politikammer utøver direkte polititjeneste, og ellers i samråd med Statens vegvesen, bestemme at ruter skal bruke rutebilstasjon, bestemte holdeplasser og bestemte gjennomkjøringslinjer.
+
+Videre kan løyvemyndigheten, eventuelt med samtykke fra havnemyndigheten, bestemme at rutefartøy skal bruke bestemt kai.
+
+Løyvemyndigheten kan treffe vedtak om opplysningstavler og lignende utstyr.
+
+Løyvemyndigheten kan treffe bestemmelser om adgang for trafikantene til å forhåndsbestille og reservere plass og om fortrinnsrett for visse transportbrukere.
+
+*Endret ved [forskrift 19 des 2019 nr. 2052](https://lovdata.no/forskrift/2019-12-19-2052) (i kraft 1 jan 2020).*
+
+### § 33. Nedleggelse av rutedrift
+
+Vil en løyvehaver nedlegge driften av en eller flere ruter helt eller delvis må løyvemyndigheten gis 2 måneders skriftlig varsel. Løyvehaver kan ikke innstille driften av noen ruter på kortere varsel uten løyvemyndighetens samtykke.
+
+Dersom en løyvehaver vil nedlegge driften av en eller flere ruter helt eller delvis, kan løyvemyndigheten når transporthensyn krever det, gi løyvehaver pålegg om å opprettholde driften av ruten ut over 2-månedersfristen mot å holdes skadesløs for eventuelle underskudd på rutedriften som ikke dekkes av overskudd av andre ruter.
+
+### § 34. (Opphevet)
+
+*Endret ved [forskrifter 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), [21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+### § 35. Unntak fra krav om ruteløyve
+
+Den som har tillatelse til å drive persontransport med jernbane etter jernbaneloven, kan ved nødvendig og midlertidig innstilling av togtilbudet utføre transporten med motorvogn i inntil to måneder uten ruteløyve. Løyvemyndigheten skal i slike tilfeller underrettes, og kan etter søknad forlenge perioden i inntil to måneder. Den som utfører transporten må ha løyve for persontransport med motorvogn.
+
+*Endret ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 35a. Unntak fra krav om behovsprøving av ruteløyve
+
+Følgende løyver skal ikke behovsprøves:
+
+1. Løyve til å drive persontransport mot vederlag med motorvogn i rute lengre enn 80 kilometer en veg.
+2. Løyve til å drive persontransport mot vederlag med motorvogn i rute av passasjerer med på- eller avstiging ved flyplasser, uten hensyn til rutens lengde.
+
+Den som utfører transporten må ha løyve for persontransport.
+
+*Tilføyd ved [forskrift 24 sep 2019 nr. 1194](https://lovdata.no/forskrift/2019-09-24-1194) (i kraft 1 jan 2020).*
+
+### § 36. Dispensasjoner
+
+Løyvemyndigheten kan, dersom Norges folkerettslige forpliktelser ikke er til hinder for det, unnta persontransport i rute fra kravet om ruteløyve i følgende tilfelle:
+
+a. Når det gjelder mindre enn 50 turer i året eller virksomheten drives i mindre enn 3 måneder i året og den er av mindre betydning og ikke skader annen rutetransport.
+b. Når det under egentransport av personer, jf. [yrkestransportlova § 18](https://lovdata.no/lov/2002-06-21-45/§18), er hensiktsmessig å ta med andre passasjerer og det ellers vil oppstå kostnader eller ulemper som anses å stå i misforhold til virksomhetens betydning for rutegående kommunikasjoner.
+
+Vedtak etter bokstav a kan treffes for 1 år om gangen og etter bokstav b for inntil 3 år om gangen.
+
+For unntak fra løyveplikten etter [§ 23](for-2003-03-26-401-yrkestransportforskriften.md), [§ 34](for-2003-03-26-401-yrkestransportforskriften.md), [§ 35](for-2003-03-26-401-yrkestransportforskriften.md) og [§ 36](for-2003-03-26-401-yrkestransportforskriften.md) gjelder bestemmelsene i dette kapittelet så langt de passer.
+
+*Endret ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+## Kap. III. Løyve for persontransport utenfor rute med motorvogn
+
+*Overskriften endret ved forskrift [1 des 2022 nr. 2068](https://lovdata.no/forskrift/2022-12-01-2068).*
+
+### § 37. (Opphevet)
+
+*Endret ved [forskrift 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+### § 38. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+### § 39. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+### Del 1. Selskapsvognløyve
+
+#### § 40. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+### Del 2. Løyve for transport for funksjonshemmede
+
+*Overskrift endret ved [forskrift 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005).*
+
+#### § 41. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 42. (Opphevet)
+
+*Endret ved [forskrift 25 feb 2005 nr. 170](https://lovdata.no/forskrift/2005-02-25-170) (i kraft 1 april 2005), opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+### Del 3. Drosjeløyve
+
+#### § 43. (Opphevet)
+
+*Endret ved [forskrift 23 mars 2018 nr. 451](https://lovdata.no/forskrift/2018-03-23-451), opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 44. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 45. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 46. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 47. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 48. Merking, taklykt og tilleggsutstyr mv.
+
+Drosje skal merkes utvendig på begge sider med løyvenummer med skrifthøyde på minst 100 mm når kjøretøyet benyttes som drosje. Løyvenummeret skal plasseres på drosjens sidedør og være i kontrastfarge til fargen på drosjen. Løyvenummer og kjøreseddel skal være synlig fra passasjerens plass.
+
+Drosje skal være utstyrt med godkjent taksameter. Taksameter skal være montert og belyst slik at takstgruppe og beløp kan leses fra passasjerens plass. Utgiftene til anskaffelse, montering og vedlikehold av apparatene dekkes av løyvehaveren.
+
+Drosje skal ha taklykt som er godkjent av Statens vegvesen, og som foran og bak har påskriften TAXI samt løyvenummer.
+
+Drosje kan ha installert annet kommunikasjonsutstyr eller spesialutstyr.
+
+Er løyvehavers ordinære vogn som følge av skade eller reparasjon ute av drift, kan løyvehaver i stedet sette inn annen vogn som fyller kravene i første, annet og tredje ledd. Bestemmelsen i [§ 13](for-2003-03-26-401-yrkestransportforskriften.md) gjelder tilsvarende for slik vogn.
+
+Løyvehaver skal benytte kjøretøy som er registrert som drosje i Kjøretøyregisteret, jf. [forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy § 2-4](for-1990-01-25-92-forskrift-om-bruk-av-kjoretoy.md), [§ 2-5](for-1990-01-25-92-forskrift-om-bruk-av-kjoretoy.md) (3) bokstav d og [§ 2-29](for-1990-01-25-92-forskrift-om-bruk-av-kjoretoy.md) (1) bokstav d.
+
+Løyvemyndigheten kan i særskilte tilfelle gi dispensasjon fra kravene i denne bestemmelsen.
+
+*Endret ved [forskrifter 20 des 2010 nr. 1752](https://lovdata.no/forskrift/2010-12-20-1752) (i kraft 1 jan 2011), [6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrifter 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) og [15 okt 2020 nr. 2057](https://lovdata.no/forskrift/2020-10-15-2057) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [1 des 2022 nr. 2068](https://lovdata.no/forskrift/2022-12-01-2068) (i kraft 1 jan 2023), [23 des 2022 nr. 2502](https://lovdata.no/forskrift/2022-12-23-2502) (i kraft 1 jan 2023, se endringsforskriften del II for overgangsregel).*
+
+#### § 48a. (Opphevet)
+
+*Tilføyd ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), opphevet ved forskrift [17 nov 2025 nr. 2284](https://lovdata.no/forskrift/2025-11-17-2284) (i kraft 1 jan 2026).*
+
+#### § 48b. Miljøkrav for drosje
+
+Når løyvemyndigheten etter [yrkestransportlova § 9](https://lovdata.no/lov/2002-06-21-45/§9) (2) har gitt påbud om at drosjekjøring innenfor en kommune skal drives med motorvogn med en øvre grense for miljøskadelige utslipp, kan løyvehaver likevel utføre oppdrag fra et sted utenfor kommunen til et sted innenfor kommunen med motorvogn som ikke oppfyller de fastsatte miljøkravene. I forbindelse med en slik tur er det tillatt å ta med passasjerer på oppdrag ut av kommunen. Tomkjøring inn i kommunen for å utføre oppdrag ut av kommunen er bare tillatt for bestilte turer.
+
+Løyvemyndigheten kan i særskilte tilfeller gi unntak fra den øvre grensen for miljøskadelig utslipp som løyvemyndigheten selv har satt med hjemmel i [yrkestransportloven § 9](https://lovdata.no/lov/2002-06-21-45/§9) (2).
+
+*Tilføyd ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), endret ved forskrift [1 des 2022 nr. 2068](https://lovdata.no/forskrift/2022-12-01-2068).*
+
+#### § 48c. Krav om dokumentasjon
+
+Løyvehaver skal, før løyvet settes i drift, dokumentere for løyvemyndigheten at kjøretøy som skal benyttes i virksomheten er registrert som drosje i kjøretøyregisteret og at taksameter som tilfredsstiller krav i [forskrift 1. oktober 2009 nr. 1226 om krav til taksametre](for-2009-10-01-1226-forskrift-om-krav-til-taksametre.md) er installert i kjøretøyet. Departementet fastsetter nærmere krav til dokumentasjonen.
+
+*Tilføyd ved forskrift [1 des 2022 nr. 2068](https://lovdata.no/forskrift/2022-12-01-2068) (i kraft 1 jan 2023, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 48d. Krav til loggføring
+
+Loggføring av posisjonsdata for drosjeturer i henhold til [yrkestransportloven § 9 (4)](https://lovdata.no/lov/2002-06-21-45/§9/ledd/4) skal skje i taksametersystemet, og skal inneholde opplysninger om sjåførens navn, løyvenummer, registreringsnummer på drosjen, dato og tidspunkt for start- og stopposisjon og GNSS posisjonsdata for drosjeturen.
+
+Løyvemyndigheten kan i særskilte tilfelle gi dispensasjon fra krav om loggføring.
+
+*Tilføyd ved forskrift [1 des 2022 nr. 2068](https://lovdata.no/forskrift/2022-12-01-2068), endret ved forskrift [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (endringen endret ved forskrift [14 feb 2025 nr. 250](https://lovdata.no/forskrift/2025-02-14-250), i kraft 1 mars 2025).*
+
+#### § 48e. Dispensasjon fra krav om drosjeløyve mv.
+
+Løyvemyndigheten kan gi den som driver løyvepliktig persontransport utenfor rute med motorvogn registrert for inntil 9 personer dispensasjon fra kravet om drosjeløyve, eller enkelte krav som følger av [yrkestransportloven §§ 9 første ledd](https://lovdata.no/lov/2002-06-21-45/§9/ledd/1), jf. [4 andre ledd](https://lovdata.no/lov/2002-06-21-45/§4/ledd/2). Ved dispensasjon fra kravet om drosjeløyve skal virksomheten oppfylle kravene i [yrkestransportloven § 4 andre ledd](https://lovdata.no/lov/2002-06-21-45/§4/ledd/2) a–c, jf. [§ 9 første ledd](https://lovdata.no/lov/2002-06-21-45/§9/ledd/1), [§ 37a](https://lovdata.no/lov/2002-06-21-45/§37a) og [yrkestransportforskriften § 13 tredje ledd](for-2003-03-26-401-yrkestransportforskriften.md).
+
+Dispensasjon kan kun gis for transport av egne kunder og brukere til og fra aktiviteter som innehaver av dispensasjonen selv er arrangør av. Transporten må skje i tilknytning til selve arrangementet, og må være en underordnet tilleggsytelse til hovedytelsen.
+
+Løyvemyndigheten må vurdere om den aktuelle transporten kan utføres av eksisterende løyvehavere og konkurranseflaten mot både drosje og turvogn. Dispensasjonssøknader må forelegges relevante organisasjoner før søknaden kan innvilges.
+
+Løyvemyndigheten kan innvilge dispensasjon for inntil fem motorvogner. Fritak gis for opptil tre år om gangen, og kan forlenges ved søknad dersom vilkårene for fritak fremdeles er oppfylt. Registreringsnummeret på kjøretøyet skal fremgå av dispensasjonsvedtaket. Dispensasjonsvedtaket skal medbringes i kjøretøyet. Løyvemyndigheten kan sette vilkår for dispensasjonen. Dispensasjonen gjelder kun i det fylket hvor dispensasjonen er gitt. Fylkeskommunen avgjør klage på vedtak etter denne bestemmelsen.
+
+*Tilføyd ved forskrift [25 mai 2023 nr. 734](https://lovdata.no/forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), endret ved forskrifter [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024, se endringsforskriften for overgangsbestemmelser), [14 feb 2025 nr. 249](https://lovdata.no/forskrift/2025-02-14-249) (i kraft 1 mars 2025).*
+
+#### § 49. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 50. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 51. (Opphevet)
+
+*Opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+#### § 52. (Opphevet)
+
+*Endret ved [forskrift 8 des 2017 nr. 2097](https://lovdata.no/forskrift/2017-12-08-2097), opphevet ved [forskrift 6 des 2019 nr. 1646](for-2019-12-06-1646-endr-i-yrkestransportforskriften-overgangsbestemmelser.md) som endret ved [forskrift 23 juni 2020 nr. 1355](https://lovdata.no/forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser).*
+
+## Kapittel IIIA. Drosjesentral
+
+*Kapitlet tilføyd ved forskrift [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024, se endringsforskriften for overgangsbestemmelser).*
+
+### § 52a. Løyvehavers tilknytningsplikt
+
+Drosjeløyvehaver må innen 2 måneder etter tildeling av drosjeløyve melde fra til løyvemyndigheten om hvilken sentral løyvehaver er tilknyttet. Sentralen må gi melding til løyvemyndigheten når en løyvehaver avslutter tilknytningen til en sentral.
+
+*Tilføyd ved forskrift [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024, se endringsforskriften som endret ved forskrift [14 feb 2025 nr. 250](https://lovdata.no/forskrift/2025-02-14-250) for overgangsbestemmelser).*
+
+### § 52b. Faktisk og varig virksomhet
+
+For å oppfylle kravet om fast og varig virksomhet i Norge må sentralen ha fast forretningsadresse i Norge, være registrert i Foretaksregisteret og ha en daglig leder med kontor i Norge.
+
+*Tilføyd ved forskrift [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024, se endringsforskriften for overgangsbestemmelser).*
+
+### § 52c. God vandel
+
+For å oppfylle kravet til god vandel må daglig leder ikke være fradømt retten til å drive næringsvirksomhet eller være ilagt straff for en alvorlig lovovertredelse, herunder på det handelsmessige område. [§ 6 tredje ledd](https://lovdata.no/lov/2002-06-21-45/§6/ledd/3) gjelder tilsvarende.
+
+*Tilføyd ved forskrift [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024, se endringsforskriften for overgangsbestemmelser).*
+
+### § 52d. Tilfredsstillende økonomisk evne
+
+Sentralen og daglig leder skal ikke ha vesentlige, forfalte men ikke betalte gebyr-, avgifts- og skatterestanser eller være under konkursbehandling. Søknaden skal vedlegges attest om restanser på skatt, avgift mv. fra skattekontoret og bekreftelse fra konkursregisteret. Attestene skal ikke være eldre enn tre måneder.
+
+Sentralen skal fremlegge en garantierklæring fra bank eller forsikringsselskap. Garantierklæringen må ha en kroneverdi tilsvarende 27 000 euro. [§ 7 femte ledd](for-2003-03-26-401-yrkestransportforskriften.md) gjelder tilsvarende.
+
+*Tilføyd ved forskrift [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024, se endringsforskriften for overgangsbestemmelser).*
+
+### § 52e. Avvikling av drift av drosjesentral
+
+Dersom en drosjesentral vil avvikle virksomheten i et eller flere områder må den gi løyvemyndigheten, og fylkeskommuner som har fått melding etter [yrkestransportloven § 9d (4)](https://lovdata.no/lov/2002-06-21-45/§9d/ledd/4), skriftlig varsel så tidlig som mulig og minst 2 måneder før opphør av driften.
+
+*Tilføyd ved forskrift [2 juli 2024 nr. 1547](https://lovdata.no/forskrift/2024-07-02-1547) (i kraft 1 sep 2024, se endringsforskriften for overgangsbestemmelser), endret ved forskrift [14 feb 2025 nr. 249](https://lovdata.no/forskrift/2025-02-14-249) (i kraft 1 mars 2025).*
+
+### § 52f. Dispensasjon fra kravet om sentraltilknytning
+
+Løyvemyndigheten kan gi dispensasjon fra kravet om sentraltilknytning når løyvehaver driver transport:
+
+a. i områder hvor drosjetilbudet står i fare for å falle bort eller ikke starte opp dersom kravet opprettholdes.
+b. med særlig eksklusivt materiell som utelukkende benyttes til transporttjenester i forbindelse med særskilte arrangementer eller lignende.
+c. som faller inn under [§ 48e](for-2003-03-26-401-yrkestransportforskriften.md), men hvor løyvemyndigheten ikke har gitt dispensasjon fra kravet om drosjeløyve.
+
+Løyvemyndigheten kan innvilge dispensasjon for opp til tre år, og kan sette vilkår for dispensasjonen. Dispensasjon kan forlenges ved søknad dersom vilkårene for fritak fortsatt er til stede. Registreringsnummeret på kjøretøyet skal fremgå av dispensasjonsvedtaket. Vedtaket skal medbringes i kjøretøyet under løyvepliktig transport. Dispensasjonen gjelder kun i det fylket hvor dispensasjonen er gitt. Fylkeskommunen avgjør klage på vedtak etter denne bestemmelsen.
+
+*Tilføyd ved forskrift [14 feb 2025 nr. 249](https://lovdata.no/forskrift/2025-02-14-249) (i kraft 1 mars 2025).*
+
+## Kap. IV. Internasjonal person- og godstransport, herunder kabotasje
+
+*Kapitlet tilføyd ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 53. Godstransport innenfor rammen av EØS-avtalen
+
+[EØS-avtalen vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13) nr. 25a (forordning [(EF) nr. 1072/2009](https://lovdata.no/eu/32009r1072) av 21. oktober 2009, som endret ved forordning [(EU) nr. 612/2012](https://lovdata.no/eu/32012r0612) og forordning [(EU) 2020/1055](https://lovdata.no/eu/32020r1055) om felles reglar for tilgang til den internasjonale marknaden for godstransport på veg, forordning [(EF) nr. 2327/2003](https://lovdata.no/eu/32003r2327) av 22. desember 2003, forordning [(EF) nr. 792/94](https://lovdata.no/eu/31994r0792) av 8. april 1994 om nærmere regler for anvendelse av forordning [(EØF) nr. 3118/83](https://lovdata.no/eu/31983r3118) for foretak som utfører godstransport på vei for egen regning, forordning [(EØF) nr. 3916/90](https://lovdata.no/eu/31990r3916) av 21. desember 1990 om tiltak som skal treffes ved en krise i markedet for godstransport på vei, gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
+
+Forordning [(EØF) nr. 4058/89](https://lovdata.no/eu/31989r4058) av 21. desember 1989 om prisdannelse for godstransport på vei mellom medlemsstater, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Konkurransetilsynet håndhever forordningens art. 3.
+
+*Tilføyd ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), endret ved forskrift [12 okt 2022 nr. 1757](https://lovdata.no/forskrift/2022-10-12-1757) (i kraft 1 nov 2022).*
+
+### § 54. Godstransport utenfor rammen av EØS-avtalen
+
+For godstransport samt kabotasje utenfor rammen av EØS-avtalen kreves tillatelser i samsvar med internasjonale avtaler Norge har inngått eller på nærmere angitte vilkår fastsatt i medhold av [yrkestransportlova § 10](https://lovdata.no/lov/2002-06-21-45/§10).
+
+*Tilføyd ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 55. Persontransport innenfor rammen av EØS-avtalen
+
+EØS-avtalen vedlegg XIII nr. 32a (forordning [(EF) nr. 1073/2009](https://lovdata.no/eu/32009r1073*) av 21. oktober 2009, som endret ved forordning [(EU) nr. 611/2012](https://lovdata.no/eu/32012r0611)) om felles regler for adgang til det internasjonale markedet for transport med turvogn og buss og om endring av forordning [(EF) nr. 561/2006](https://lovdata.no/eu/32006r0561*) og vedlegg XIII nr. 32aa (forordning [(EU) nr. 361/2014](https://lovdata.no/eu/32014r0361*) av 9 april 2014) om fastsettelse av nærmere regler for anvendelsen av forordning [(EF) nr. 1073/2009](https://lovdata.no/eu/32009r1073*) med hensyn til dokumenter for internasjonal persontransport med turvogn og buss, og om oppheving av kommisjonsforordning [(EF) nr. 2121/98](https://lovdata.no/eu/31998r2121), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Tilføyd ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), endret ved [forskrift 8 juli 2015 nr. 884](https://lovdata.no/forskrift/2015-07-08-884).*
+
+### § 56. Persontransport utenfor rammen av EØS-avtalen
+
+For persontransport utenfor rammen av EØS-avtalen kreves tillatelser i samsvar med internasjonale avtaler Norge har inngått eller på nærmere angitte vilkår fastsatt i medhold av [yrkestransportlova § 10](https://lovdata.no/lov/2002-06-21-45/§10).
+
+*Tilføyd ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+## Kap. V. Sluttbestemmelser
+
+*Kapitlet tilføyd ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser).*
+
+### § 57. Ikrafttreden
+
+Forskriften trer i kraft 1. april 2003.
+
+Samtidig oppheves Samferdselsdepartementets [forskrift 4. desember 1992 nr. 1013](https://lovdata.no/forskrift/1992-12-04-1013) om adgang til yrket i persontransport med rutevogn eller med turvogn, [forskrift 8. desember 1986 nr. 2170](https://lovdata.no/forskrift/1986-12-08-2170) om persontransport i rute innenlands med motorvogn eller fartøy, [forskrift 4. desember 1992 nr. 1016](https://lovdata.no/forskrift/1992-12-04-1016) om godstransport med motorvogn og [forskrift 10. juni 1977 nr. 8](https://lovdata.no/forskrift/1977-06-10-8) om persontransport med motorvogn utenfor rute.
+
+Vedtak som er truffet i medhold av tidligere forskrifter gjelder også etter denne forskriftens ikrafttreden.
+
+*Endret ved [forskrift 21 nov 2014 nr. 1453](https://lovdata.no/forskrift/2014-11-21-1453) (i kraft 1 jan 2015, tidligere § 53).*
+
+## Fotnoter
+
+**1.** Som definert i [yrkestransportlova § 5 (2)](https://lovdata.no/lov/2002-06-21-45/§5/ledd/2).

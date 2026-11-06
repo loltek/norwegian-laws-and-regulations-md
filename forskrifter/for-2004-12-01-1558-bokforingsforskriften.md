@@ -1,0 +1,1229 @@
+# Forskrift om bokføring
+
+- **Korttittel:** Bokføringsforskriften
+- **Datokode:** FOR-2004-12-01-1558
+- **DokumentID:** SF/forskrift/2004-12-01-1558
+- **Departement:** Finansdepartementet
+- **Etat:** Finansmarkedsavdelingen, Skattelovavdelingen, Skattedirektoratet
+- **Hjemmel:** lov 19.11.2004 nr. 73/§2; lov 19.11.2004 nr. 73/§3; lov 19.11.2004 nr. 73/§5; lov 19.11.2004 nr. 73/§6; lov 19.11.2004 nr. 73/§7; lov 19.11.2004 nr. 73/§8; lov 19.11.2004 nr. 73/§10; lov 19.11.2004 nr. 73/§10a; lov 19.11.2004 nr. 73/§11; lov 19.11.2004 nr. 73/§12; lov 19.11.2004 nr. 73/§13; lov 19.11.2004 nr. 73/§13b; lov 19.11.2004 nr. 73/§16; lov 19.06.2009 nr. 58/§15-10; forskrift 05.04.2024 nr. 570; forskrift 15.12.2009 nr. 1523
+- **Publisert i:** I 2004 hefte 14
+- **Kunngjort:** 2004-12-10
+- **I kraft fra:** 2005-01-01
+- **Siste endring i kraft:** 2026-09-29
+- **Sist endret ved:** forskrift 29.09.2026 nr. 1933
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2020-01-15 (hjemmel)
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 1. desember 2004 med hjemmel i lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) § 2, § 3, § 5, § 6, § 7, § 8, § 10, § 10a, § 11, § 12, § 13, § 13b annet ledd og § 16 og lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) § 15-10. Tilføyd hjemmel: delegeringsvedtak 5. april 2024 nr. 570, delegeringsvedtak 15. desember 2009 nr. 1523. EØS-henvisninger: Forskriften § 7-8 er meldt til EFTAs overvåkingsorgan i henhold til kravene i lov 17. desember 2004 nr. 101 om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven) § 11, jf. § 10, jf. kunngjøring 15 nov 2019 nr. 1512. Reglene stadfestet, jf. kunngjøring 13 des 2019 nr. 1793. Endret ved forskrifter 18 aug 2006 nr. 982, 20 des 2006 nr. 1516, 26 mars 2010 nr. 464, 21 mai 2010 nr. 713, 24 juni 2010 nr. 967, 7 sep 2012 nr. 865, 17 sep 2012 nr. 880, 7 sep 2012 nr. 865, 21 juni 2013 nr. 686, (28 juni 2013 nr. 805 ble opphevet ved forskrift 19 des 2013 nr. 1605), 19 des 2013 nr. 1614, 20 des 2013 nr. 1661, 18 des 2014 nr. 1792, 22 des 2014 nr. 1865, 17 feb 2016 nr. 158, 23 juni 2016 nr. 772, 9 des 2016 nr. 1544 (bl.a. hjemmel), 22 des 2017 nr. 2387, 12 mars 2018 nr. 328, 29 juni 2018 nr. 1088, 20 des 2016 nr. 1752 som endret ved forskrifter 21 sep 2018 nr. 1351 og 14 des 2018 nr. 1983, 14 des 2018 nr. 1982, 4 des 2020 nr. 2589, 15 des 2020 nr. 2944 (i kraft 1 jan 2021), 22 des 2022 nr. 2461 (i kraft 1 jan 2023), 27 juni 2024 nr. 1325, 27 jan 2025 nr. 79, 18 feb 2025 nr. 392, 27 juni 2024 nr. 1325 (i kraft 1 mars 2025), 13 juni 2025 nr. 1007 (i kraft 1 jan 2026), 29 sep 2026 nr. 1933. Endres ved forskrifter 29 sep 2026 nr. 1933 (i kraft 1 jan 2027), 29 sep 2026 nr. 1933 (i kraft 1 jan 2028), 29 sep 2026 nr. 1933 (i kraft 1 jan 2030). Rettelser: 11.01.2005 (§ 5-5, § 6-1 og § 8-2-1), 21.03.2005 (§ 5-5), 29.09.2010 (§ 6-1 femte ledd), 29.01.2015 (§ 8-1-5 første ledd), 19.03.2018 (§ 8-1-3), 15.01.2020 (hjemmel).
+- **Kilde:** <https://lovdata.no/forskrift/2004-12-01-1558>
+
+## Kapittel 1. Bokføringspliktige
+
+### § 1-1. Unntak fra bokføringsplikt
+
+Konkursbo som ikke er næringsdrivende og som plikter å levere skattemelding for merverdiavgift etter [skatteforvaltningsloven](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md), unntas fra [bokføringsloven § 5 første ledd nr. 2](../lover/lov-2004-11-19-73-bokforingsloven.md) til 7.
+
+*Endret ved [forskrifter 20 des 2006 nr. 1516](https://lovdata.no/forskrift/2006-12-20-1516) (i kraft 1 jan 2007), [27 juni 2024 nr. 1325](https://lovdata.no/forskrift/2024-06-27-1325). **Endres** ved forskrifter [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2027), [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2030).*
+
+### § 1-2. Bokføringspliktige med lav omsetning
+
+***Tilføyes** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2027, med unntak av første ledd tredje punktum). **Endres** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2030, gjelder første ledd tredje punktum)*
+
+## Kapittel 2. Pliktig regnskapsrapportering
+
+### § 2-1. Pliktig regnskapsrapportering
+
+Pliktig regnskapsrapportering etter [bokføringsloven § 3](../lover/lov-2004-11-19-73-bokforingsloven.md) omfatter regnskapsrapportering fastsatt med hjemmel i:
+
+- [Lov 17. juli 1998 nr. 56](../lover/lov-1998-07-17-56-regnskapsloven.md) om årsregnskap m.v. (regnskapsloven)
+- [Lov 17. juni 2005 nr. 67](../lover/lov-2005-06-17-67-skattebetalingsloven.md) om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)
+- [Lov 27. mai 2016 nr. 14](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) om skatteforvaltning (skatteforvaltningsloven), med unntak av [§ 8-3](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) første ledd bokstav e, [§ 8-4](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md), [§ 8-5](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) og [§ 8-7](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md).
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865), [9 des 2016 nr. 1544](https://lovdata.no/forskrift/2016-12-09-1544) (i kraft 1 jan 2017).*
+
+## Kapittel 3. Spesifikasjoner av pliktig regnskapsrapportering
+
+*Endret ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865).*
+
+### § 3-1. Spesifikasjoner av pliktig regnskapsrapportering
+
+Spesifikasjoner som nevnt i [bokføringsloven § 5](../lover/lov-2004-11-19-73-bokforingsloven.md) skal inneholde:
+
+1. Bokføringsspesifikasjon. Alle bokførte opplysninger pr. periode, der alle poster skal fremgå i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare.
+2. Kontospesifikasjon. Alle kontoer pr. periode, der det for hver konto skal angis kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder og inn- og utgående saldo. Inngående og utgående merverdiavgift skal kunne spesifiseres pr. transaksjon.
+3. Kundespesifikasjon. Alle transaksjoner med kunder pr. periode, der kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.
+4. Leverandørspesifikasjon. Alle transaksjoner med leverandører pr. periode, der leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.
+5. Spesifikasjon av uttak til eiere, deltakere og egen virksomhet. Alle uttak av eiendeler og tjenester spesifisert pr. eier, deltaker eller på egen virksomhet i ordnet rekkefølge til virkelig verdi med dokumentasjonsdato og dokumentasjonshenvisning.
+6. Spesifikasjon av salg til eiere og deltakere i foretak med færre enn 10 eiere eller deltakere. Alle salg av varer og tjenester spesifisert pr. eier eller deltaker i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning. Dette gjelder selv om eiere eller deltakere opptrer som forbrukere.
+7. Spesifikasjon av salg og andre ytelser til ledende ansatte. Med ledende ansatte forstås daglig leder, butikksjefer, avdelingssjefer og andre som har bestemmende myndighet over prisfastsettelsen knyttet til eget kjøp av varer og tjenester. Alle salg av varer og tjenester til ledende ansatte spesifisert pr. ansatt i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning. Dette gjelder selv om den ledende ansatte opptrer som forbruker.
+8. Spesifikasjon av merverdiavgift.
+   a. Grunnlaget for utgående merverdiavgift, fradragsberettiget innenlands inngående merverdiavgift og fradragsberettiget innførselsmerverdiavgift, fordelt på de forskjellige avgiftssatsene spesifisert pr. termin.
+   b. Innenlands omsetning og uttak fritatt for merverdiavgift, innenlands omsetning med omvendt avgiftsplikt, omsetning av varer og tjenester til utlandet fritatt for merverdiavgift, samt omsetning og uttak som faller utenfor bestemmelsene i [merverdiavgiftsloven kapittel 3](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md).
+   c. Kjøp med omvendt avgiftsplikt, fordelt på tjenester kjøpt fra utlandet og innenlands kjøp av varer og tjenester.
+   d. Beløpene skal vises pr. konto og totalt. For utgående merverdiavgift skal avgiftsgrunnlaget også kunne spesifiseres pr. transaksjon. Spesifikasjonen skal vise eventuelle forskjeller mellom beregnet grunnlag i henhold til kontospesifikasjonen og innberettet avgiftsgrunnlag, spesifisert pr. transaksjon for hver avgiftssats.
+   e. Grunnlaget for beregning av merverdiavgift ved innførsel av varer fordelt på de forskjellige avgiftssatsene, samt grunnlag knyttet til innførsel av varer som det ikke skal beregnes merverdiavgift av.
+9. Spesifikasjon av lønnsopplysningspliktige ytelser. Lønnsopplysningspliktige ytelser spesifisert pr. periode etter kontoene i regnskapssystemet. Arbeidsgiveravgiftspliktige ytelser skal dessuten kunne gjengis samlet, pr. avgiftssats og sone.
+10. Spesifikasjon av elimineringer og andre posteringer ved utarbeidelse av konsernregnskap. Alle poster spesifisert enkeltvis med dokumentasjonshenvisning.
+
+Kunde- og leverandørspesifikasjoner som nevnt i første ledd nr. 3 og 4 skal også omfatte kontante salg og kjøp når vederlaget utgjør mer enn kr 40 000 inklusive merverdiavgift og det betales med kontanter. Det samme gjelder når varen eller tjenesten er beregnet for videresalg eller som direkte innsatsfaktor i produksjon eller tjenesteleveranse, med unntak for de tilfeller hvor det ikke er krav om å angi kjøper i salgsdokumentet, jf. [§ 5-3-12](for-2004-12-01-1558-bokforingsforskriften.md). Bokføringspliktige som i hovedsak selger kontant, kan spesifisere slike salg og unntaksvise kredittsalg ved fremleggelse av kopier av salgsdokumentasjonen ordnet pr. kunde. Det samme gjelder spesifikasjon av salg til ledende ansatte, jf. første ledd nr. 7. Tilfeldige kjøp og salg kan spesifiseres på henholdsvis felles leverandørkonto og felles kundekonto med relevante identifikasjonskoder slik at opplysningsplikten kan ivaretas.
+
+Ved formidling av varer og tjenester hvor salgsdokumentet utferdiges av formidler på vegne av den enkelte leverandør, kan transaksjonene registreres i kunde- og leverandørspesifikasjonen over formidlerens konto.
+
+Når det er utstedt felles salgsdokument etter [§ 8-15-1](for-2004-12-01-1558-bokforingsforskriften.md), kan transaksjonene registreres i leverandørspesifikasjonen over fakturautsteders konto.
+
+Poster kan fremkomme som totaler dersom transaksjoner og andre regnskapsmessige disposisjoner fremkommer enkeltvis og oppsummert i underliggende spesifikasjon, og er kontrollerbare mot totalene.
+
+Departementet kan ved enkeltvedtak gjøre unntak fra kravet i første ledd nr. 1 og 2 om å angi andre relevante behandlingskoder i bokføringsspesifikasjon og kontospesifikasjon.
+
+Dato for utarbeidelse av spesifikasjoner av pliktig regnskapsrapportering skal fremgå av spesifikasjonene.
+
+*Endret ved [forskrifter 20 des 2006 nr. 1516](https://lovdata.no/forskrift/2006-12-20-1516) (i kraft 1 jan 2007), [26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865) (i kraft straks og fom regnskapsår påbegynt 1 jan 2013 eller senere), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [18 des 2014 nr. 1792](https://lovdata.no/forskrift/2014-12-18-1792) (fom inntektsåret 2015), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015), [17 feb 2016 nr. 158](https://lovdata.no/forskrift/2016-02-17-158), [12 mars 2018 nr. 328](https://lovdata.no/forskrift/2018-03-12-328), [4 des 2020 nr. 2589](https://lovdata.no/forskrift/2020-12-04-2589), [27 juni 2024 nr. 1325](https://lovdata.no/forskrift/2024-06-27-1325), [27 juni 2024 nr. 1325](https://lovdata.no/forskrift/2024-06-27-1325) (i kraft 1 mars 2025).*
+
+## Kapittel 4. Bokføring mv.
+
+### § 4-1. Ajourhold
+
+Pliktig regnskapsrapportering på lønnsområdet medfører ikke plikt til å ajourføre bokføringen, med mindre det er annen pliktig regnskapsrapportering i perioden.
+
+Bokføringspliktige med få transaksjoner skal ajourføre regnskapet senest innen fristene for pliktig regnskapsrapportering. Med bokføringspliktige med få transaksjoner menes foretak som har færre enn 600 bilag i året.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [18 des 2014 nr. 1792](https://lovdata.no/forskrift/2014-12-18-1792) (fom inntektsåret 2015).*
+
+### § 4-2. Bokføring i utenlandsk valuta
+
+Dersom den bokføringspliktiges funksjonelle valuta er en annen enn norske kroner kan bokføringen skje i denne valutaen. Med funksjonell valuta menes den valuta som den bokføringspliktiges økonomiske virksomhet i hovedsak er knyttet til. Filialer i utlandet kan ved bokføringen benytte egen funksjonell valuta.
+
+Beløp som inngår i pliktig regnskapsrapportering knyttet til merverdiavgift, skal fastsettes (låses) i norske kroner til kursen på fakturatidspunktet. Beløp som inngår i pliktig regnskapsrapportering knyttet til lønn, skal fastsettes (låses) i norske kroner til kursen på utbetalingstidspunktet. Beløp knyttet til eiendeler og gjeld hvor skatteloven har egne vurderingsregler om valuta, skal fastsettes (låses) i norske kroner til transaksjonsdagens kurs.
+
+Omregning av beløp som inngår i pliktig regnskapsrapportering til norske kroner skal skje minst en gang i året ved bruk av gjennomsnittskurser. Det skal dokumenteres hvordan omregningen har skjedd og hvilke kurser som er benyttet.
+
+Bokføringspliktige som ikke utarbeider balanse ved pliktig regnskapsrapportering til skattemyndighetene, skal likevel benytte kursen på transaksjonstidspunktet ved omregning til norske kroner. Dersom kursen i perioden ikke har hatt svingninger som avviker mer enn 5 % i forhold til den månedlige gjennomsnittskursen, kan likevel månedens offisielle gjennomsnittskurs benyttes. Store enkelttransaksjoner skal i alle tilfeller omregnes til transaksjonsdagens kurs.
+
+## Kapittel 5. Dokumentasjon av bokførte opplysninger
+
+### Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-1-1. Salgsdokumentets innhold
+
+Dokumentasjon av salg av varer og tjenester skal minst inneholde:
+
+1. Nummer og dokumentasjonsdato,
+2. angivelse av partene,
+3. ytelsens art og omfang,
+4. tidspunkt og sted for levering av ytelsen,
+5. vederlag og betalingsforfall, og
+6. eventuell merverdiavgift og andre avgifter knyttet til transaksjonen som kreves spesifisert i lov eller forskrift. Merverdiavgift skal angis i norske kroner.
+7. Hvis kjøper skal beregne og betale merverdiavgift etter [merverdiavgiftsloven § 11-1](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) annet eller tredje ledd, skal salgsdokumentet merkes: «Omvendt avgiftsplikt – Merverdiavgift ikke beregnet».
+
+Dokumentasjonsdato er dato for utstedelse av dokumentet med mindre annet følger av denne forskrift.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [20 des 2013 nr. 1661](https://lovdata.no/forskrift/2013-12-20-1661) (i kraft 1 jan 2014).*
+
+#### § 5-1-1a. Språk i salgsdokument
+
+Salgsdokumentet skal utstedes på et språk som nevnt i [bokføringsloven § 12](../lover/lov-2004-11-19-73-bokforingsloven.md). Bokføringspliktige med filialer i utlandet kan likevel utstede filialens salgsdokument på det lokale språket.
+
+*Tilføyd ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865).*
+
+#### § 5-1-2. Angivelse av partene
+
+Angivelse av kjøper, jf. [§ 5-1-1 nr. 2](for-2004-12-01-1558-bokforingsforskriften.md), skal minst inneholde kjøpers navn, og adresse eller organisasjonsnummer som er tildelt i henhold til [lov 20. juni 2025 nr. 105 om Enhetsregisteret § 6-2](../lover/lov-2025-06-20-105-enhetsregisterloven.md). Ved salg som nevnt i § 5-1-1 nr. 7 skal kjøpers organisasjonsnummer alltid angis. Dersom kjøper er registrert i Merverdiavgiftsregisteret, skal organisasjonsnummer etterfølges av bokstavene MVA.
+
+Angivelse av selger, jf. [§ 5-1-1 nr. 2](for-2004-12-01-1558-bokforingsforskriften.md), skal minst omfatte selgers navn og organisasjonsnummer som er tildelt i henhold til [lov 20. juni 2025 nr. 105 om Enhetsregisteret § 6-2](../lover/lov-2025-06-20-105-enhetsregisterloven.md). Dersom selger er registrert i Merverdiavgiftsregisteret, skal organisasjonsnummer etterfølges av bokstavene MVA. Dersom selger er registrert i Merverdiavgiftsregisteret ved representant etter [merverdiavgiftsloven § 2-1](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) sjette ledd, skal også representantens navn og adresse fremgå av salgsdokumentet. Dersom selger er aksjeselskap, allmennaksjeselskap eller filial av utenlandsk selskap skal også ordet «Foretaksregisteret» fremgå av salgsdokumentet, jf. [foretaksregisterloven § 10-2](https://lovdata.no/lov/1985-06-21-78/§10-2). Videre skal hovedkontorets adresse framgå av salgsdokumentet til slik selger. Dersom slik selger er under avvikling, skal dette framgå av salgsdokumentet.
+
+*Endret ved forskrifter [26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865), [17 sep 2012 nr. 880](https://lovdata.no/forskrift/2012-09-17-880), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015), [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md). **Endres** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2028).*
+
+#### § 5-1-3. Nummerering og datering av salgsdokument
+
+Salgsdokument skal være forhåndsnummerert på trykte blanketter eller ved maskinelt tildelte nummer med en kontrollerbar sekvens, eller være merket på annen måte slik at fullstendig registrering av utfakturerte salg kan etterprøves på en enkel måte.
+
+Bokføringspliktige som nevnt i [§ 5-2-1](for-2004-12-01-1558-bokforingsforskriften.md) tredje ledd, kan i stedet for fortløpende nummerering av hver enkelt selgers salgsdokument, anføre i salgsdokumentet hvor mye som er avregnet overfor vedkommende selger hittil i regnskapsåret.
+
+Salgsdokument som utstedes innen de femten første virkedager i måneden, kan angi siste dato i foregående måned som dokumentasjonsdato, forutsatt at varen eller tjenesten er levert på dette tidspunktet. Bestemmelsen gjelder tilsvarende ved utstedelse av dokumentasjon for uttak.
+
+Ved utleie av fast eiendom hvor det utstedes salgsdokumenter på papir for flere perioder på samme tidspunkt, kan dokumentasjonsdato settes lik forfallsdato.
+
+Plikten til nummerering av salgsdokument, jf. [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md) nr. 1, gjelder ikke konkursbo som nevnt i [§ 1-1](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Endret ved [forskrifter 20 des 2006 nr. 1516](https://lovdata.no/forskrift/2006-12-20-1516) (i kraft 1 jan 2007), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-1-4. Leveringstidspunkt
+
+Plikten til å angi leveringsdato på salgsdokumentet, jf. [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md) nr. 4, gjelder ikke når varen ekspederes gjennom speditør, ved postordre og lignende og salgsdokumentet følger forsendelsen.
+
+#### § 5-1-5. Spesifikasjon av avgiftspliktig og avgiftsfritt salg mv.
+
+Avgiftspliktig og avgiftsfritt salg, salg som nevnt i [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md) nr. 7, samt salg som er unntatt merverdiavgiftsloven etter bestemmelsene i [merverdiavgiftsloven kapittel 3](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md), skal fremgå hver for seg og summeres særskilt. Det samme gjelder dersom avgiftspliktig omsetning avgiftsberegnes etter forskjellige satser.
+
+*Endret ved [forskrift 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464).*
+
+#### § 5-1-6. Formidling
+
+Den som formidler varer og tjenester, kan utferdige salgsdokument for flere leverandører i ett salgsdokument. Det kan benyttes en felles nummerserie for slike salgsdokument og det totale vederlaget for den enkelte leverandør kan unnlates spesifisert.
+
+*Endret ved [forskrift 20 des 2006 nr. 1516](https://lovdata.no/forskrift/2006-12-20-1516) (i kraft 1 jan 2007).*
+
+#### § 5-1-6a. Løpende ytelser
+
+Salg av ikke avgiftspliktige tjenester som leveres løpende til fast beløp per periode, i henhold til skriftlig inngått avtale, kan dokumenteres med betalingsdokumentasjon og avtale. Betalingsdokumentasjon skal i slike tilfeller angi en referanse til avtalen. Avtalen skal inneholde opplysninger som nevnt i [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-1-6b. Medlemskontingenter
+
+Ikke avgiftspliktig medlemskontingent i ideelle organisasjoner som regnskapsmessig anses opptjent på betalingstidspunktet, kan dokumenteres med betalingsdokumentasjon. Betalingsdokumentasjon skal i slike tilfeller inneholde opplysninger som nevnt i [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md) nr. 2 til 5.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-1-7. Spesifikasjon ved salg av beltemotorsykkel eller firehjuls terrenggående motorsykkel
+
+Ved salg av beltemotorsykkel eller firehjuls terrenggående motorsykkel som nevnt i [merverdiavgiftsforskriften § 1-3-1](for-2009-12-15-1540-merverdiavgiftsforskriften.md) annet og tredje ledd, skal kjennemerke angis i salgsdokumentet. Det samme gjelder ved salg av tjenester til vedlikehold, reparasjon, påkostning og ombygging av slike samt omsetning av varer i forbindelse med utføring av slike tjenester.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [29 juni 2018 nr. 1088](https://lovdata.no/forskrift/2018-06-29-1088) (i kraft 1 juli 2018).*
+
+#### § 5-1-8. Dispensasjon
+
+Departementet kan i særlige tilfeller gjøre ytterligere unntak fra [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md).
+
+### Delkapittel 5-2. Utstedelse av salgsdokument
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-2-1. Utsteder av salgsdokument
+
+Salgsdokumentet skal utstedes av selger, med mindre annet er bestemt i lov eller forskrift. Bokføringspliktig som kjøper varer eller tjenester fra ikke-bokføringspliktig selger, kan likevel utstede salgsdokumentet på vegne av selger.
+
+Ved salg av vare hvor det mottas innbytte (kjøp), kan en av partene i handelen utstede salgsdokumentet. Det kan benyttes en felles nummerserie for slike salgsdokument. For øvrig gjelder kravene til salgsdokumentets innhold, jf. delkapittel 5-1, for hver av partenes salg.
+
+Følgende bokføringspliktige kjøpere kan utstede salgsdokumentasjon på vegne av selger:
+
+a. foreninger og samvirkelag som hovedsakelig tilvirker eller forhandler produkter fra medlemmenes fiske, skogbruk eller gårdsbruk med binæringer, samt hagebruk, gartneri, husdyrhold og reindrift, og som foretar avregning ved alle sine kjøp av produkter fra medlemmer og ikke-medlemmer
+b. andre tilvirkere eller forhandlere som kjøper opp produkter som nevnt i bokstav a) direkte fra produsent og som har tillatelse til å anføre avgift i salgsdokumentet etter [merverdiavgiftsforskriften § 15-11-1](for-2009-12-15-1540-merverdiavgiftsforskriften.md) tredje ledd.
+c. husflidsutsalg som kjøper produkter fra hjemmeprodusenter av håndverks- og husflidsarbeid
+d. andre forretninger som kjøper opp produkter som nevnt i bokstav c) og som har tillatelse til å anføre avgift i salgsdokumentet etter [merverdiavgiftsforskriften § 15-11-2](for-2009-12-15-1540-merverdiavgiftsforskriften.md).
+e. kjøpere som alene besitter hele eller deler av materialet for beregning av omfang, vekt, kvalitet eller lignende som grunnlag for utbetaling av provisjon eller annet vederlag til selgeren. Salgsdokumentet skal i tilfelle utstedes av kjøper på grunnlag av en skriftlig, underskrevet avtale om dette. Avtalen skal oppbevares av både kjøper og selger. Det skal fremgå av salgsdokumentet at det er utstedt av kjøper. Kjøperen skal dessuten oppbevare annen dokumentasjon som underbygger salgsdokumentets innhold i 3 år og 6 måneder etter regnskapsårets slutt. Kjøperen skal, ved jevnlig å ta utskrift fra Enhetsregisteret eller lignende, dokumentere om selgeren er registrert i Merverdiavgiftsregisteret.
+
+Salgsdokumentet skal uoppfordret oversendes kjøper med mindre annet fremgår av skriftlig, undertegnet avtale mellom partene eller er bestemt i lov eller forskrift.
+
+*Endret ved [forskrifter 20 des 2006 nr. 1516](https://lovdata.no/forskrift/2006-12-20-1516) (i kraft 1 jan 2007), [26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [21 juni 2013 nr. 686](https://lovdata.no/forskrift/2013-06-21-686) (i kraft 1 juli 2013), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014). **Endres** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2028).*
+
+#### § 5-2-1a. Utstedelse av salgsdokument ved formidling
+
+Når en formidler utsteder salgsdokument til kjøper på vegne av selger, skal en gjenpart av salgsdokumentet oversendes til selger.
+
+Formidler kan likevel utstede avregning til selger for dennes del av salget. Slik avregning skal for den enkelte selger inneholde de opplysningene som er angitt i salgsdokumentet til kjøper.
+
+Oversendelse av salgsdokument eller avregning til selger kan unnlates dersom selger utsteder et særskilt salgsdokument til formidler, på grunnlag av en skriftlig undertegnet avtale om dette. Det skal fremgå av avtalen at dette gjelder formidling, og avtalen skal oppbevares av både selger og formidler. Selgers salgsdokument skal tydelig merkes «FORMIDLING – IKKE KJØPSDOKUMENTASJON» og ha en henvisning til avtalen.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-2-2. Tidspunkt for utstedelse av salgsdokument og dokumentasjon av uttak
+
+Salgsdokument skal utstedes snarest mulig og senest en måned etter levering, med mindre annet er bestemt i denne forskriften. Bokføringspliktige som leverer årlig skattemelding for merverdiavgift etter [skatteforvaltningsforskriften § 8-3-3](for-2016-11-23-1360-skatteforvaltningsforskriften.md) eller [§ 8-3-7](for-2016-11-23-1360-skatteforvaltningsforskriften.md), kan likevel ikke utstede salgsdokument senere enn det kalenderår levering finner sted med mindre bestemmelsen i [§ 5-1-3 tredje ledd](for-2004-12-01-1558-bokforingsforskriften.md) benyttes.
+
+Dokumentasjon av uttak skal utstedes snarest mulig etter uttakstidspunktet og senest innen femten virkedager i måneden etter at uttaket fant sted. Bokføringspliktige som leverer årlig skattemelding for merverdiavgift etter [skatteforvaltningsforskriften § 8-3-3](for-2016-11-23-1360-skatteforvaltningsforskriften.md) eller [§ 8-3-7](for-2016-11-23-1360-skatteforvaltningsforskriften.md), kan likevel ikke utstede dokumentasjonen senere enn det kalenderår uttaket fant sted med mindre bestemmelsen i [§ 5-1-3 tredje ledd](for-2004-12-01-1558-bokforingsforskriften.md) benyttes. Uttak skal være betryggende registrert i perioden mellom uttaket skjer og dokumentasjon for uttak utstedes.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [9 des 2016 nr. 1544](https://lovdata.no/forskrift/2016-12-09-1544) (i kraft 1 jan 2017), [18 feb 2025 nr. 392](https://lovdata.no/forskrift/2025-02-18-392).*
+
+#### § 5-2-3. Månedlig fakturering
+
+Leveranser som faktureres månedlig, kan faktureres innen femten virkedager i måneden etter leveringsmåneden.
+
+#### § 5-2-4. Løpende levering av varer og tjenester
+
+Tjenester som leveres løpende, og varer som leveres i den forbindelse, skal faktureres senest en måned etter utløpet av den alminnelige skattleggingsperioden for merverdiavgift, jf. [skatteforvaltningsforskriften § 8-3-1](for-2016-11-23-1360-skatteforvaltningsforskriften.md). Utstedelse av salgsdokument for løpende tjenesteleveranser kan utsettes ytterligere for ubetydelige leveranser. Ved anbudsarbeider og lignende kan avtalte betalingsplaner legges til grunn for faktureringen med mindre de avviker vesentlig fra den reelle fremdriften i perioden.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [9 des 2016 nr. 1544](https://lovdata.no/forskrift/2016-12-09-1544) (i kraft 1 jan 2017), [18 feb 2025 nr. 392](https://lovdata.no/forskrift/2025-02-18-392).*
+
+#### § 5-2-5. Strøm, telefoni og lignende
+
+For tjenester som leveres basert på måling av faktisk forbruk (strøm, telefoni og lignende), kan det utstedes salgsdokument for lengre perioder, begrenset til en periode på ett år. Salgsdokumentet skal så vidt mulig utstedes innenfor det kalenderår levering finner sted.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-2-6. Forskuddsfakturering
+
+Salgsdokument for persontransport, servering, abonnementer, leier, avgifter og lignende kan utstedes før levering har funnet sted, begrenset til en periode på ett år. Det samme gjelder salgsdokument som gjelder adgang til museer, gallerier, fornøyelsesparker og opplevelsessentre eller rett til å overvære idrettsarrangementer. Salgsdokumentet skal så vidt mulig utstedes innenfor det kalenderår levering finner sted. For andre typer leveranser kan det ikke utstedes salgsdokument inklusive merverdiavgift før den avgiftspliktige varen eller tjenesten er levert.
+
+Første ledd er ikke til hinder for at varer og tjenester som er unntatt fra [merverdiavgiftsloven](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) forskuddsfaktureres. Første ledd er heller ikke til hinder for at varer og tjenester som er fritatt for merverdiavgift forskuddsfaktureres, dersom avgiftsfritaket kan dokumenteres etter bestemmelsene i [merverdiavgiftsforskriften kapittel 6](for-2009-12-15-1540-merverdiavgiftsforskriften.md) på det tidspunkt salgsdokumentet utstedes.
+
+*Endret ved [forskrifter 24 juni 2010 nr. 967](https://lovdata.no/forskrift/2010-06-24-967) (i kraft 1 juli 2010), [7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014, tidligere § 5-2-7), [27 juni 2024 nr. 1325](https://lovdata.no/forskrift/2024-06-27-1325).*
+
+#### § 5-2-7. Kreditnota
+
+Når det utstedes nytt salgsdokument til erstatning for allerede avsendt salgsdokument, skal det også utstedes en kreditnota som reverserer opprinnelig salgsdokument.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014, tidligere § 5-2-8).*
+
+#### § 5-2-8. Dispensasjon
+
+Departementet kan ved enkeltvedtak gjøre ytterligere unntak fra bestemmelsen i [§ 5-2-1](for-2004-12-01-1558-bokforingsforskriften.md) om at salgsdokumentet skal utstedes av selger.
+
+Departementet kan i særlige tilfeller ved enkeltvedtak tillate at det utstedes salgsdokument inklusive merverdiavgift før den avgiftspliktige varen eller tjenesten er levert, jf. [§ 5-2-6](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Endret ved [forskrifter 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014, tidligere § 5-2-9), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+#### § 5-2-9. Filformat ved elektronisk utstedelse av salgsdokumenter
+
+Salgsdokumenter som utstedes elektronisk skal utstedes i et filformat som ikke enkelt lar seg redigere i allment kjent sluttbrukerverktøy for tekstbehandling, regneark, e-post mv. uten at endringen fremgår direkte av salgsdokumentet.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014). **Endres** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2027, se endringsforskriften for overgangsregel).*
+
+### Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-3-1. Definisjoner
+
+I dette kapittel menes med
+
+a. *kontantsalg*: salg av varer og tjenester der kjøpers betalingsforpliktelse overfor selger gjøres opp ved levering, ved bruk av betalingskort eller kontanter som betalingsmiddel. Salg over internett eller ved oppkrav anses ikke som kontantsalg,
+b. *betalingskort*: debetkort, kredittkort og faktureringskort,
+c. *kontanter*: andre betalingsmidler enn betalingskort,
+d. *kassasystem*: kassaapparat eller annet elektronisk system for registrering av kontantsalg og utskrift av salgskvittering,
+e. *kassaskuff*: oppbevaringsplass for betalingsmiddel som registreres i et kassasystem,
+f. *kassapunkt*: en enhet innen et kassasystem som kan avslutte et kontantsalg ved å beordre utskrift av en salgskvittering,
+g. *kassasystemets ID-nummer*: en unik identifikator for kassasystemet,
+h. *skuffeåpning (nullinnslag)*: integrert kassaskuff åpnes uten at det har skjedd noen registrering av kontantsalg eller tilbakebetaling,
+i. *salgskvittering*: utskrift fra kassasystem som viser gjennomført kontantsalgstransaksjon,
+j. *returkvittering*: utskrift fra kassasystemet som viser at tidligere utskrevet salgskvittering inneholder feilaktige opplysninger eller opplysninger om tilbakebetaling for prisjusterte eller returnerte varer eller tjenester,
+k. *utleveringskvittering*: bekreftelse for kredittsalg,
+l. *løpende anvendelse*: all bruk av kassasystemet, blant annet registrering av salg mv. og utskrift av kvitteringer som nevnt i bokstavene i til k, endring av priser, korreksjoner, skuffeåpninger (nullinnslag), utskrift av rapporter og lignende, samt endringer av programvare og midlertidig tilkobling av ekstern programvare,
+m. *elektronisk journal*: dokumentasjon av den løpende anvendelsen av kassasystemet i elektronisk form,
+n. *Z-rapport*: sammenstilling av dagens registreringer i kassasystemet,
+o. *X-rapport:* sammenstilling av registreringer i kassasystemet siden forrige Z-rapport,
+p. *Integrert betalingsløsning:* løsninger hvor informasjon om salget, beløp mv. sendes fra kassasystemet til betalingsløsningen, betalingen registreres automatisk i kassasystemet og betalingsmiddelet er annet enn sedler og mynter.
+
+*Endret ved [forskrifter 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 21 sep 2018 nr. 1351](https://lovdata.no/forskrift/2018-09-21-1351) (i kraft 1 jan 2019).*
+
+#### § 5-3-2. Registreringer i kassasystemet
+
+Bokføringspliktige skal registrere kontantsalg fortløpende i et kassasystem med produkterklæring som tilfredsstiller kravene i kassasystemlova og kassasystemforskrifta med mindre annet er bestemt i denne forskrift. Også annen løpende anvendelse av kassasystemet skal registreres fortløpende i kassasystemet. Registrering i kassasystemet skal omfatte all den informasjon som kreves spesifisert på X-rapport, Z-rapport og kvitteringer etter [kassasystemforskrifta § 2-8](for-2015-12-18-1616-kassasystemforskrifta.md) (§ 2-8-1 til [§ 2-8-7](for-2015-12-18-1616-kassasystemforskrifta.md)).
+
+Kontantsalget skal registreres på den enkelte operatør hvis systemet har slik funksjonalitet, og operatøren oppbevarer kontantene i eget pengebelte eller lignende.
+
+Tips kan registreres særskilt i kassasystemet hvis systemet har slik funksjonalitet og kontanttips oppbevares i kassaskuffen. Registrering skal da også omfatte tips betalt med betalingskort mv. Dersom tips ikke registreres særskilt på kassasystemet, kan kontanttips ikke oppbevares i kassaskuffen.
+
+*Endret ved [forskrifter 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 14 des 2018 nr. 1983](https://lovdata.no/forskrift/2018-12-14-1983) (i kraft 1 jan 2019).*
+
+#### § 5-3-3. Forbud mot andre kassasystemer enn de som har produkterklæring
+
+Det kan bare benyttes kassasystemer i virksomheten som det foreligger produkterklæring for etter [kassasystemlova § 5](https://lovdata.no/lov/2015-06-19-58/§5).
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-3-4. Krav til bruk av kassaskuff
+
+Bokføringspliktig skal oppbevare kontanter i integrert kassaskuff. Dersom kontantsalget blir registrert i kassasystemet på den enkelte operatør og betaling ikke skjer ved et fast kassapunkt, kan operatøren likevel benytte pengebelte eller lignende for å oppbevare kontanter for virksomheten.
+
+Dersom beordring av utskrift av salgskvittering ikke skjer fra et fast kassapunkt og salget blir registrert på den enkelte operatør, kan bokføringspliktig benytte et kassasystem der kassapunktet ikke har integrert kassaskuff. Det samme gjelder for kassapunkt der det ikke er mulig å betale med sedler og mynter.
+
+Integrert kassaskuff skal lukkes umiddelbart etter at betaling for kontantsalget er mottatt. Det samme gjelder dersom kassaskuffen har vært åpnet for andre formål som veksling eller inn- og utbetalinger.
+
+Dersom flere bokføringspliktige bruker felles kassasystem, jf. [§ 5-3-9](for-2004-12-01-1558-bokforingsforskriften.md), må minst en av de bokføringspliktige bruke integrert kassaskuff for oppbevaring av betalingsmidlene. Dersom det ikke er mulig å holde betalingsmidlene fra flere bokføringspliktige brukere adskilt i kassaskuffen, skal øvrige brukere oppbevare betalingsmidlene i egne kassaskuffer.
+
+*Opphevet ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019), tilføyd igjen ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 14 des 2018 nr. 1983](https://lovdata.no/forskrift/2018-12-14-1983) (i kraft 1 jan 2019).*
+
+#### § 5-3-5. Utskrift av salgskvittering mv.
+
+Ved hvert salg skal det skrives ut en salgskvittering fra kassasystemet som skal fremlegges for kunden. Dette gjelder likevel ikke dersom det benyttes en integrert betalingsløsning i forbindelse med salget og kunden ikke ønsker kvittering. Dersom kassasystemet også brukes til å registrere kredittsalg som blir fakturert på et senere tidspunkt, skal det skrives ut en utleveringskvittering.
+
+Salgskvittering og utleveringskvittering kan sendes kunden elektronisk.
+
+*Opphevet ved [forskrift 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), tilføyd igjen ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 21 sep 2018 nr. 1351](https://lovdata.no/forskrift/2018-09-21-1351) (i kraft 1 jan 2019).*
+
+#### § 5-3-6. Krav til dokumentasjon av returer mv.
+
+Ved returer skal det skrives ut en særskilt returkvittering. Ved returer hvor det samtidig skjer en ny salgstransaksjon kan returen fremgå av salgskvitteringen.
+
+Dersom det er registrert feil betalingsmiddel på salgskvittering, skal det enten tas ut returkvittering som korrigerer feilen og ny salgskvittering med angivelse av rett betalingsmiddel eller en kvittering som har referanse til salgskvitteringens nummer og som kun viser endringen av betalingsmiddel. Dokumentasjonen skal skrives ut og tilbys kunden.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-3-7. Krav til dokumentasjon av andre korreksjonsposter
+
+Det skal foreligge dokumentasjon av korreksjonsposter med angivelse av beløp og årsak.
+
+Dersom korreksjonen gjelder tidligere registrert salg, skal det foreligge ytterligere dokumentasjon som underbygger korreksjonen. Tilbakebetaling til kunde, herunder ved returer, skal dokumenteres med kundens signatur og telefonnummer.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-3-8. Registrering av vekselkasse og krav til dokumentasjon ved uttak av kontanter
+
+Ved salgsdagens begynnelse skal vekselkassen registreres i kassasystemet.
+
+Uttak av kontanter fra kassaskuffen i løpet av dagen skal dokumenteres særskilt. Dokumentasjonen skal minst inneholde følgende opplysninger:
+
+a. dato og klokkeslett
+b. beløp
+c. hvem som har gjort uttaket.
+
+Dokumentasjonen skal oppbevares i kassaskuffen.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-3-9. Bruk av felles kassasystem
+
+Flere bokføringspliktige kan benytte felles kassasystem hvis kassasystemet er tilrettelagt for dette, jf. [kassasystemforskrifta § 2-5](for-2015-12-18-1616-kassasystemforskrifta.md) femte ledd.
+
+Når flere bokføringspliktige benytter felles kassasystem skal betalingsmidlene holdes adskilt, jf. [§ 5-3-4](for-2004-12-01-1558-bokforingsforskriften.md) tredje ledd, og det skal foretas individuelle dagsoppgjør.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-3-10. Overføring av opplysninger til annet oppbevaringsmedium
+
+Dersom lagringsminnet på kassasystemet er fullt skal opplysningene i elektronisk journal umiddelbart overføres til annet elektronisk lagringsmedium, jf. [kassasystemforskrifta § 2-7](for-2015-12-18-1616-kassasystemforskrifta.md) første ledd.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-3-11. Reserveløsninger
+
+Dersom det oppstår feil i et kassasystem, og feilen medfører at kravene i [kassasystemlova § 3](https://lovdata.no/lov/2015-06-19-58/§3) eller [kassasystemforskrifta § 2-1](for-2015-12-18-1616-kassasystemforskrifta.md) til [§ 2-8](for-2015-12-18-1616-kassasystemforskrifta.md) ikke oppfylles, skal feilen rettes uten ugrunnet opphold. Inntil feilen er rettet skal den bokføringspliktige ta i bruk hensiktsmessige reserveløsninger.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-3-12. Krav til innhold mv. i salgsdokument
+
+Kassasystemet skal kunne skrive salgsdokument (salgskvittering) for hvert salg og beløpet som registreres på kassasystemet med display skal være lett synlig for kunden med mindre det er vanskelig gjennomførbart.
+
+Salgskvittering skal, med de unntak som følger av tredje og fjerde ledd, inneholde de opplysninger som følger av delkapittel 5-1 og [kassasystemforskrifta § 2-8-4](for-2015-12-18-1616-kassasystemforskrifta.md). Salgskvitteringen skal dessuten angi klokkeslett for salget.
+
+Selger kan fravike krav om angivelse av kjøper, jf. [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md) nr. 2, ved kontantsalg fra detaljist. Dette gjelder likevel ikke når kjøper er bokføringspliktig, herunder når en ansatt kjøper på vegne av sin bokføringspliktige arbeidsgiver, og varen eller tjenesten er beregnet for videresalg eller som direkte innsatsfaktor i produksjon eller tjenesteleveranse, og vederlaget er over kr 1 000 inklusive merverdiavgift eller hvor kjøpet gjelder drivstoff til bruk i person- eller varetransport. Selger kan heller ikke fravike kravet om angivelse av kjøper dersom vederlaget er på kr 40 000 eller mer inklusive merverdiavgift og det betales med kontanter. Selger plikter i alle tilfelle å angi kjøper på dennes kvittering dersom kjøper ber om dette, jf. [§ 5-5-1](for-2004-12-01-1558-bokforingsforskriften.md) annet ledd. I slike tilfeller skal selger signere og stemple kvitteringen.
+
+Ved kontantsalg fra detaljist kan enkeltinnslag angis per varegruppe dersom detaljert beskrivelse av art, jf. [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md) nr. 3, vanskelig lar seg gjennomføre. Selger plikter i slike tilfeller å utstede ytterligere spesifikasjon dersom kjøper ber om dette.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 21 sep 2018 nr. 1351](https://lovdata.no/forskrift/2018-09-21-1351) (i kraft 1 jan 2019, tidligere § 5-3-2a).*
+
+#### § 5-3-13. Dokumentasjon av hver enkelt salgstransaksjon mv.
+
+Registrert kontantsalg og annen løpende anvendelse av kassasystemet skal dokumenteres med elektronisk journal.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-3-14. Dagsoppgjør
+
+Ved dagens slutt skal det utarbeides en Z-rapport fra hvert enkelt kassapunkt. Z-rapporten skal enten skrives ut på papir eller lagres elektronisk i kassasystemet slik at den til enhver tid kan skrives ut på papir.
+
+Tilsvarende skal det ved dagens slutt utarbeides rapport fra hver enkelt betalingsterminal over de betalinger og uttak som er registrert. Den delen av betalingene som gjelder tips skal fremgå særskilt. Rapporten skal være forløpende nummerert med maskinelt tildelte nummer.
+
+Kontantbeholdningen skal telles daglig og sammenholdes med opplysningene på Z-rapporter. Opplysninger fra betalingsterminal om betalinger ved bruk av betalingskort skal sammenholdes med tilsvarende opplysninger på Z-rapport. Eventuelle differanser skal forklares. Avstemmingen skal foretas for det enkelte kassapunkt. Hvis kassapunktene betjenes av flere operatører som har egen kassaskuff, skal avstemmingen foretas for hver enkelt operatør.
+
+Hvis tips ikke er registrert på kassasystemet, jf. [§ 5-3-2](for-2004-12-01-1558-bokforingsforskriften.md) tredje ledd, skal kontanttips telles opp særskilt og fremgå av dagsoppgjøret.
+
+Dagsoppgjøret skal dateres og det skal fremgå hvem som har foretatt opptelling av kontantbeholdningen og avstemt kontantsalget.
+
+*Endret ved [forskrifter 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019, tidligere § 5-3-3).*
+
+#### § 5-3-15. Oppbevaring og tilgjengelighet
+
+Z-rapport og rapport fra betalingsterminal skal oppbevares sammen med avstemmingen av kontantsalget.
+
+Kassasystemet må i sin helhet være tilgjengelig i Norge. Kassasystemet kan likevel være midlertidig utilgjengelig i Norge når dette skjer som ledd i registrering av kontantsalg mv. om bord på et transportmiddel til eller fra utlandet.
+
+Systembeskrivelse som nevnt i [kassasystemlova § 3](https://lovdata.no/lov/2015-06-19-58/§3) annet ledd skal oppbevares slik at den er lett tilgjengelig for offentlige kontrollmyndigheter.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019), endret ved forskrift [27 jan 2025 nr. 79](https://lovdata.no/forskrift/2025-01-27-79).*
+
+### Delkapittel 5-4. Unntak fra kravene om dokumentasjon av kontantsalg
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-4-1. Ambulerende og sporadisk kontantsalg mv.
+
+For bokføringspliktige som driver ambulerende eller sporadisk kontantsalg som ikke overstiger 3 ganger folketrygdens grunnbeløp i løpet av et regnskapsår for så vidt gjelder denne virksomheten, gjelder ikke kravene i [§ 5-3-2](for-2004-12-01-1558-bokforingsforskriften.md). Det samme gjelder bokføringspliktige med kontantsalg som ikke overstiger kr 50 000 eksklusive merverdiavgift i løpet av et regnskapsår. Bokføringspliktige som nevnt i første og annet punktum kan dokumentere kontantsalg fortløpende i innbundet bok, der sidene er forhåndsnummererte, ved gjenpart av daterte forhåndsnummererte salgsbilag eller ved oppstilling over ut- og innleverte varer og kontanter. Oppstillingen skal være datert og signert. Det skal skrives ut kvittering dersom kunden ber om det.
+
+Som daterte, forhåndsnummererte salgsbilag etter første ledd tredje punktum, regnes også forhåndsnummererte billetter. Det skal fremgå av salgsbilaget i hvilken grad det er gitt rabatt eller fribillett. Hvis rabatt eller fribillett er gitt på grunnlag av medlemskap eller lignende, skal det opplyses om dette.
+
+Kontantsalg kreves ikke registrert i et kassasystem dersom den bokføringspliktige utsteder salgsdokument (kontantfaktura) i samsvar med delkapittel 5-1.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-4-2. Oppsøkende salg til publikum
+
+Ved oppsøkende salg til publikum på idrettsarrangementer, konserter og lignende, kan daglig salg fra hver enkelt selger registreres som ett beløp på kassasystemet. Ved registrering som nevnt i første punktum og for bokføringspliktige som ikke har plikt til å benytte kassasystem, må dokumentasjonen av kontantsalget vise ut- og innleverte varer og kontanter. Oppgjørene skal telles og signeres av to personer.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 5-4-3. Salg fra automater
+
+Salg fra automater kan dokumenteres med avstemming mellom opptelte kontanter og registrerte salg etter automatens telleverk, eller beregnet salg ut fra andre registrerte opplysninger i automaten. Dersom automaten ikke registrerer slike opplysninger kan salget dokumenteres med lister som viser beregnet salg ut fra endring i varebeholdning.
+
+Unntaket i første ledd gjelder ikke drivstoff-, parkerings- og billettautomater. Unntaket gjelder heller ikke andre automater med funksjonalitet til å skrive salgskvittering. Kravet til utskrift av salgskvittering i [§ 5-3-5](for-2004-12-01-1558-bokforingsforskriften.md) gjelder likevel ikke dersom automaten har en funksjon som gjør det frivillig for kunden å ta ut salgskvittering, jf. [kassasystemforskrifta § 2-6](for-2015-12-18-1616-kassasystemforskrifta.md) fjerde ledd. For dagsoppgjør gjelder bestemmelsen i [§ 5-4-5](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 14 des 2018 nr. 1983](https://lovdata.no/forskrift/2018-12-14-1983) (i kraft 1 jan 2019).*
+
+#### § 5-4-4. Salg fra andre ubetjente salgssteder enn automater
+
+Salg fra andre ubetjente salgssteder enn automater, jf. [§ 5-4-3](for-2004-12-01-1558-bokforingsforskriften.md) kan dokumenteres med forhåndsnummererte konvolutter, elektronisk salgsrapport som viser alle transaksjoner enkeltvis eller innbundet bok der sidene er forhåndsnummererte. Dokumentasjonen skal inneholde opplysninger om ytelsens art og omfang, dato og vederlag. Salg av varer kan alternativt dokumenteres med lister som viser beregnet salg ut fra endring i varebeholdning.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved [forskrift 14 des 2018 nr. 1982](https://lovdata.no/forskrift/2018-12-14-1982) (i kraft 1 jan 2019).*
+
+#### § 5-4-5. Dagsoppgjør mv.
+
+Ved salg som nevnt i [§ 5-4-1](for-2004-12-01-1558-bokforingsforskriften.md) og [§ 5-4-2](for-2004-12-01-1558-bokforingsforskriften.md) skal det foretas daglig opptelling av kassabeholdning som skal sammenholdes mot salgsdokumentasjonen. Ved salg som nevnt i [§ 5-4-3](for-2004-12-01-1558-bokforingsforskriften.md) og [§ 5-4-4](for-2004-12-01-1558-bokforingsforskriften.md) kan avstemming mot salgsdokumentasjon skje på det tidspunktet den bokføringspliktige oppsøker salgsstedet, forutsatt at kassabeholdningen er tilfredsstillende sikret i mellomtiden. Oppgjørene skal dateres og det skal fremgå hvem som har foretatt opptelling av kassabeholdningen. Eventuelle differanser skal forklares.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-4-6. Unntak for konkursbo
+
+Plikten til nummerering av salgsbilag gjelder ikke konkursbo som nevnt i [§ 1-1](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-4-7. Dispensasjon
+
+Departementet kan i særlige tilfeller gjøre ytterligere unntak fra kravet til kassasystem i delkapittel 5-3.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+### Delkapittel 5-5. Dokumentasjon av kjøp
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-5-1. Kjøpsdokumentets innhold
+
+Kjøpsdokumentet skal være salgsdokumentet selger har utstedt, og skal inneholde de opplysningene som fremgår av delkapittel 5-1 og [§ 5-3-12](for-2004-12-01-1558-bokforingsforskriften.md).
+
+Ved kontantkjøp fra detaljist skal kjøpsdokumentasjonen, i tillegg til opplysningene nevnt i første ledd, inneholde angivelse av kjøper når vederlaget overstiger kr 1 000 inklusive merverdiavgift. Kravet til angivelse av kjøper etter første punktum gjelder ikke når det er betalt med den bokføringspliktiges betalingskort.
+
+Når kjøper ikke er angitt eller kan identifiseres gjennom bruk av betalingskort etter første eller annet ledd, skal formålet med eller bruksområdet for varene og tjenestene klart fremgå av dokumentasjonen. Dokumentasjonen skal dateres og signeres.
+
+Dokumentasjon av kjøp som er lagt ut av en ansatt i den bokføringspliktige virksomheten skal inneholde angivelse av kjøper (arbeidsgiver) når kjøpet gjelder varer eller tjenester som er beregnet for videresalg eller som direkte innsatsfaktor i vare- eller tjenesteproduksjon og vederlaget overstiger kr 1 000 inklusive merverdiavgift. Ved andre typer kjøp skal den ansatte utarbeide og signere en datert oppstilling som viser hvilke kjøp som er foretatt. Formålet med eller bruksområdet for varene og tjenestene skal fremgå av dokumentasjonen. Dokumentasjonen skal også være i samsvar med aktuelle regler i [forskrift 21. desember 2007 nr. 1766](for-2007-12-21-1766-skattebetalingsforskriften.md) til utfylling og gjennomføring mv. av skattebetalingsloven. Utleggsdokumentasjonen skal så vidt mulig utstedes innenfor den merverdiavgiftsterminen utleggene er foretatt.
+
+Kassakvittering skal oppbevares sammen med eventuell annen dokumentasjon, herunder dokumentasjon som nevnt i fjerde ledd.
+
+Dersom mottatt salgsdokument er uriktig eller på annen måte ikke tilfredsstiller kravene i delkapittel 5-1 og [§ 5-3-12](for-2004-12-01-1558-bokforingsforskriften.md), må kjøper kreve nytt salgsdokument. Dersom dette ikke lar seg gjøre, må kjøper kunne sannsynliggjøre at kjøpet er en reell utgift for kjøpers virksomhet.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019), [4 des 2020 nr. 2589](https://lovdata.no/forskrift/2020-12-04-2589).*
+
+#### § 5-5-2. Dokumentasjon av merverdiavgift, tollavgift og særavgifter ved innførsel av varer
+
+Grunnlaget for beregning av merverdiavgift ved innførsel av varer, grunnlaget for varer det ikke skal beregnes merverdiavgift av, tollavgift og særavgifter skal dokumenteres med innførselsdeklarasjon og grunnlagsdokumenter knyttet til slik deklarasjon, jf. [§ 7-5-1 første ledd](for-2022-10-27-1901-vareforselsforskriften.md) i [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer](for-2022-10-27-1901-vareforselsforskriften.md). Det skal foreligge særskilt dokumentasjon som viser hvilke beløp som inngår i grunnlaget for beregning av merverdiavgift ved innførsel av varer og selve avgiften.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved forskrifter [22 des 2022 nr. 2461](https://lovdata.no/forskrift/2022-12-22-2461) (i kraft 1 jan 2023), [27 juni 2024 nr. 1325](https://lovdata.no/forskrift/2024-06-27-1325).*
+
+### Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-6. Dokumentasjon av lønn mv.
+
+Dokumentasjon av lønn og andre oppgavepliktige ytelser, samt forskuddstrekk og utleggstrekk skal vise ytelsene pr. motpart. Dette gjelder også når det er gitt pålegg om trekk i en ytelse som ikke er gjenstand for forskuddstrekk. Følgende opplysninger skal fremgå av dokumentasjonen:
+
+a. fødselsnummer
+b. navn
+c. skattekommune
+d. tabellnummer og/eller den trekkprosent som står på skattekortet.
+
+Dersom skattekortet ikke er gjort tilgjengelig for arbeidsgiver, og opplysninger som skal fremgå av skattekortet ikke på annen måte er kommet til arbeidsgiverens kunnskap, skal arbeidsgivers dokumentasjon vise navn og nummer på den kommunen hvor mottakeren av ytelsen (motparten) oppgir at vedkommende var bosatt 1. november i året før trekkåret. Dersom mottaker av ytelsen (motparten) er utenlandsk og ikke var bosatt i Norge 1. november i året før trekkåret, skal dokumentasjonen vise hvilken kommune vedkommende bosatte seg i ved ankomsten til Norge.
+
+Har arbeidsgiveren mottatt pålegg om utleggstrekk, skal dokumentasjonen også inneholde opplysninger om:
+
+a. når pålegget er mottatt
+b. trekkprosenten eller det beløp som skal trekkes for hver utbetalingsperiode.
+
+For hver periode med pliktig regnskapsrapportering av forskuddstrekk og utleggstrekk skal dokumentasjonen inneholde opplysninger pr. motpart:
+
+a. dato for utbetaling av ytelser og om mulig det tidsrom ytelsen knytter seg til
+b. brutto ytelse, hvis aktuelt med angivelse av antall godtgjorte timer
+c. eventuelt tillegg for naturalytelser som det skal foretas trekk i
+d. fradrag etter [skattebetalingsloven § 5-9](../lover/lov-2005-06-17-67-skattebetalingsloven.md)
+e. trekkgrunnlaget
+f. størrelsen av det foretatte forskuddstrekk og utleggstrekk.
+
+For ansatte som helt eller delvis godtgjøres basert på antall arbeidede timer, skal i tillegg følgende opplysninger være dokumentert pr. motpart:
+
+a. dato for utført arbeid
+b. antall timer den aktuelle dato
+c. sum timer for den aktuelle perioden.
+
+Dokumentasjon av lønn mv. skal utstedes senest på det tidspunkt det er anledning til å få de aktuelle ytelsene utbetalt.
+
+Det skal foreligge en lettfattelig beskrivelse av lønnssystemets oppbygging og funksjoner.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015), [27 juni 2024 nr. 1325](https://lovdata.no/forskrift/2024-06-27-1325), [13 juni 2025 nr. 1007](https://lovdata.no/forskrift/2025-06-13-1007) (i kraft 1 jan 2026).*
+
+#### § 5-7. Uttak av eiendeler og tjenester til veldedige og allmennyttige institusjoner og organisasjoner mv.
+
+Dokumentasjon av uttak av eiendeler og tjenester fra den bokføringspliktiges virksomhet til bruk som gave til veldedige og allmennyttige institusjoner og organisasjoner skal i tillegg til opplysningene i [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md), inneholde virkelig verdi av eiendelen eller tjenesten og eventuelle kostnadsrefusjoner mottatt fra institusjonen eller organisasjonen. Dersom virkelig verdi av eiendelen eller tjenesten overstiger 2 ganger folketrygdens grunnbeløp skal dokumentasjonen attesteres av den bokføringspliktiges revisor. Dersom virksomheten ikke er revisjonspliktig, skal dokumentasjonen attesteres av styrets leder eller annet medlem av styret eller tilsvarende ledelsesorgan.
+
+Dokumentasjon av uttak av næringsmidler som leveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag etter [merverdiavgiftsloven § 6-19](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) annet ledd, skal dessuten inneholde en bekreftelse fra legitimert representant hos mottaker om at varene er mottatt for slik utdeling. Kravet til å angi vederlag, betalingsforfall samt virkelig verdi gjelder ikke.
+
+*Endret ved [forskrift 23 juni 2016 nr. 772](https://lovdata.no/forskrift/2016-06-23-772) (i kraft 1 juli 2016).*
+
+#### § 5-8. Uttak av eiendeler og tjenester til eiere, deltakere eller anvendelse i egen virksomhet
+
+Dokumentasjon av uttak til eiere, deltakere eller anvendelse i egen virksomhet skal følge kravene til innhold i [§ 5-1-1](for-2004-12-01-1558-bokforingsforskriften.md) så langt de passer. I tillegg skal dokumentasjonen inneholde virkelig verdi av eiendelen eller tjenesten.
+
+Ved anvendelse av varer og tjenester til reparasjon av brukte kjøretøyer, jf. [merverdiavgiftsloven § 6-7](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md), skal det dokumenteres på hvilket objekt varene og tjenestene er benyttet.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [27 juni 2024 nr. 1325](https://lovdata.no/forskrift/2024-06-27-1325).*
+
+#### § 5-9. Reise- og oppholdsutgifter
+
+Det skal fremgå av dokumentasjon av reise- og oppholdsutgifter hvem utgiftene omfatter, hva formålet med reisen har vært og hvilke arrangement den reisende har deltatt på. Består dokumentasjonen av flere reisedokumenter, og opplysningene som nevnt i første punktum ikke fremgår av hvert enkelt dokument, skal det være gjensidig henvisning mellom dem. Dokumentasjonen skal også være i samsvar med aktuelle regler i [forskrift 21. desember 2007 nr. 1766](for-2007-12-21-1766-skattebetalingsforskriften.md) til utfylling og gjennomføring mv. av skattebetalingsloven.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-10. Bevertningsutgifter mv.
+
+Dokumentasjon av bevertningsutgifter skal angi formålet og hvem bevertningen omfatter.
+
+#### § 5-11. Dokumentasjon av betalingstransaksjoner
+
+Dokumentasjon av betalingstransaksjoner som ikke vedrører kontante kjøp og salg, skal vise betaler og mottaker av betalingen samt beløp og dokumentasjonsdato.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-12. Dokumentasjon av andre regnskapsmessige disposisjoner
+
+Dokumentasjon av andre regnskapsmessige disposisjoner skal vise årsaken til at disposisjonen gjennomføres og bokføres. Når disposisjonen er en korreksjon av en bokført opplysning, skal det påføres en gjensidig referanse mellom den nye og den opprinnelige dokumentasjonen så langt det er praktisk mulig.
+
+#### § 5-13. Papir- og trykkvalitet
+
+Dokumentasjon som utstedes på papir skal utstedes med en papir- og trykkvalitet som sikrer lesbarheten i hele oppbevaringsperioden. Bestemmelsen gjelder tilsvarende ved dokumentasjon av balansen, jf. [kapittel 6](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-14. Dokumentasjon av medgått tid
+
+Bokføringspliktige som utfører tjenester hvor vederlaget er basert på tidsforbruk, skal for hver eier og ansatt dokumentere utførte timer. Timene skal spesifiseres pr. dag fordelt på intern tid og på de enkelte kunder eller oppdrag. Dokumentasjonen skal være utarbeidet senest innen utløpet av den etterfølgende måned. Med intern tid menes timer brukt på arbeidsoppgaver som ikke kan henføres til kunder eller oppdrag. Bestemmelsene gjelder også i tilfeller hvor det er avtalt fast pris.
+
+Intern tid kan unnlates spesifisert dersom omfanget av tjenester hvor vederlaget er basert på tidsforbruk, er ubetydelig. Dersom intern tid ikke spesifiseres, skal det dokumenteres at tjenestene hvor vederlaget er basert på medgått tid, er ubetydelig.
+
+Bestemmelsene i første og annet ledd gjelder ikke eiere og ansatte som kun utfører interne, administrative arbeidsoppgaver. Bestemmelsene gjelder heller ikke administrative enheter i konsern, ideelle organisasjoner og foreninger uten økonomisk formål som utelukkende leverer tjenester internt, og hvor vederlaget fastsettes på bakgrunn av kostnadsfordeling. Slike bokføringspliktige skal dokumentere prisfastsettelsen på annen tilfredsstillende måte, og herunder dokumentere de vurderinger som er gjort med hensyn til hvilke kostnader som skal fordeles samt fordelingsnøkler og fordelingsmetode.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 5-15. Dokumentasjon av timebestillinger
+
+Bokføringspliktige som utfører tjenester etter timebestilling, skal dokumentere de bestilte timene. Dokumentasjonen skal omfatte tidspunkt for utførelsen av tjenesten, kundens navn og så vidt mulig hvem som skal utføre tjenesten. Det skal fremgå av dokumentasjonen hvilke timer som ikke er gjennomført. Dersom en avbestilt time erstattes av en ny bestilling, skal den nye bestillingen fremgå av dokumentasjonen og den tidligere bestillingen kan fjernes.
+
+For bokføringspliktige som tar imot timebestillinger, gjelder bestemmelsen også for timer som ikke er forhåndsbestilte.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+## Kapittel 6. Dokumentasjon av balansen
+
+### § 6-1. Dokumentasjon av varelager
+
+Varelager skal telles ved regnskapsårets slutt. Bokføringspliktige som fører et betryggende lagerregnskap kan foreta opptelling i løpet av året, forutsatt at tilgang og avgang fra opptellingstidspunktet til regnskapsårets slutt kan dokumenteres på tilfredsstillende måte.
+
+Dokumentasjon av varelager skal inneholde en spesifisert oppstilling over varens art, kvantum (med angivelse av måleenhet) og verdi for hver enkelt vare, samt en summeringskolonne for de spesifiserte verdiene. Beregningsmåten for de spesifiserte verdiene, jf. tredje ledd, skal fremgå av dokumentasjonen.
+
+Ved dokumentasjon av varelageret kan verdi for hver enkelt vare etter første ledd beregnes til:
+
+1. anskaffelseskost
+2. varens kalkulerte utsalgsverdi dersom varelagerets anskaffelseskost på tilfredsstillende måte kan beregnes på grunnlag av denne verdien. Det skal fremgå av dokumentasjonen hvordan anskaffelseskosten er beregnet. Varer som etter sin art er fritatt for merverdiavgift ved salg eller avgiftsberegnes med forskjellige satser, skal skilles ut og vises som egne grupper. Det samme gjelder varer med forskjellig bruttofortjeneste.
+
+Den regnskapsmessige og skattemessige verdien av varelageret skal fremgå av dokumentasjonen. For bokføringspliktige etter [bokføringsloven § 2](../lover/lov-2004-11-19-73-bokforingsloven.md) annet ledd, er det tilstrekkelig at den skattemessige verdien fremgår. Varer verdsatt til virkelig verdi skal vises som egen gruppe.
+
+Dokumentasjonen skal være ordentlig og oversiktlig. Dersom tellelister på papir benyttes, skal de være nummerert før tellingen foretas. Dokumentasjonen skal være datert og det skal fremgå hvem som har foretatt opptellingen. Tellelister på papir skal oppbevares som en del av dokumentasjonen, men kan skannes for elektronisk oppbevaring.
+
+*Endret ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865).*
+
+### § 6-2. Dokumentasjon av bankinnskudd, lånegjeld, kontanter og lignende
+
+Dokumentasjon av bankinnskudd og lånegjeld skal inneholde oppgaver fra finansinstitusjoner over mellomværende.
+
+Kontantbeholdning skal telles ved årets slutt. Opptellingen skal dokumenteres, og det skal fremgå hvem som har foretatt opptellingen og på hvilket tidspunkt. Eventuelle differanser skal forklares.
+
+*Endret ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865).*
+
+### § 6-3. Dokumentasjon av finansielle instrumenter
+
+Finansielle instrumenter som er registrert i et verdipapirregister skal dokumenteres med oppgaver fra et verdipapirregister over verdipapirbeholdning.
+
+*Endret ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865).*
+
+### § 6-4. Dokumentasjon av avsetninger, nedskrivninger mv.
+
+Dokumentasjon av poster som er verdsatt etter vurdering skal minst omfatte opplysninger om beregningsmetode og de forutsetninger som beregningen bygger på.
+
+## Kapittel 7. Oppbevaring og elektronisk tilgjengelighet
+
+*Endret ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865).*
+
+### § 7-1. Oppbevaringsmedium
+
+Regnskapsmateriale skal oppbevares på en måte som opprettholder lesekvaliteten i hele oppbevaringsperioden. Det samme gjelder bokførte opplysninger som skal holdes elektronisk tilgjengelig etter [bokføringsloven § 13b](../lover/lov-2004-11-19-73-bokforingsloven.md).
+
+*Endret ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865).*
+
+### § 7-2. Sikkerhetskopi
+
+Det skal foreligge en sikkerhetskopi av elektronisk regnskapsmateriale.
+
+Sikkerhetskopiering skal skje så ofte som virksomhetens og transaksjonenes art og omfang tilsier og innen ajourholdsfristene i [bokføringsloven § 7](../lover/lov-2004-11-19-73-bokforingsloven.md) annet ledd. Sikkerhetskopien skal oppbevares adskilt fra originalen. Testing av sikkerhetskopien skal skje minimum en gang i året.
+
+Dersom regnskapsmateriale er erstattet ved overføring av regnskapsinformasjon til elektronisk medium med hjemmel i bestemmelser i eller i medhold av bokføringsloven, skal originalt regnskapsmateriale oppbevares til det er tatt sikkerhetskopi av det elektroniske regnskapsmaterialet.
+
+Det skal foreligge en fortegnelse over regnskapsmateriale som er sikkerhetskopiert, hvor ofte sikkerhetskopiering gjennomføres og hvor originalen og sikkerhetskopien oppbevares. Fortegnelsen skal oppbevares i fem år etter regnskapsårets slutt.
+
+Reglene i [bokføringsloven § 13](../lover/lov-2004-11-19-73-bokforingsloven.md) og [§ 13b](../lover/lov-2004-11-19-73-bokforingsloven.md), og i denne forskrift om oppbevaringspliktig regnskapsmateriale, oppbevaringssted, oppbevaringstid, sikring og elektronisk tilgjengelighet gjelder tilsvarende for sikkerhetskopien som for originalen.
+
+*Endret ved [forskrifter 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+### § 7-3. Unntak fra oppbevaringstid
+
+Dokumentasjon av antall arbeidede timer i henhold til [§ 5-6](for-2004-12-01-1558-bokforingsforskriften.md) femte ledd skal oppbevares i Norge i 3 år og 6 måneder etter regnskapsårets slutt.
+
+Dokumentasjon som nevnt i [§ 5-14](for-2004-12-01-1558-bokforingsforskriften.md) skal oppbevares i 3 år og 6 måneder etter regnskapsårets slutt.
+
+Dokumentasjon som nevnt i [§ 5-15](for-2004-12-01-1558-bokforingsforskriften.md) skal oppbevares i fem år etter regnskapsårets slutt.
+
+Dokumentasjon av kjøp av kapitalvarer som nevnt i [merverdiavgiftsloven § 9-1](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) (2) pkt. b, skal oppbevares i ti år etter regnskapsårets slutt.
+
+*Endret ved [forskrifter 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+### § 7-4. Unntak fra oppbevaringssted
+
+Bokføringspliktige som fører regnskap i utlandet skal overføre regnskapsmateriale til oppbevaring i Norge innen en måned etter fastsetting av årsregnskapet og senest sju måneder etter regnskapsårets slutt. Departementet kan ved enkeltvedtak pålegge den bokføringspliktige å føre og oppbevare regnskapet i Norge dersom den bokføringspliktige vesentlig tilsidesetter bestemmelser i eller i medhold av bokføringsloven.
+
+For utenlandske foretak som ikke lenger har bokføringsplikt til Norge er plikten til oppbevaring av regnskapsmateriale i Norge begrenset til 3 år etter regnskapsårets slutt.
+
+Bokføringspliktige som driver virksomhet i utlandet kan oppbevare regnskapsmateriale knyttet til denne virksomheten i dette land, dersom de er pliktige til det etter det aktuelle lands lovgivning. Oppbevaringstiden skal som et minimum følge [bokføringsloven § 13](../lover/lov-2004-11-19-73-bokforingsloven.md) annet ledd og reglene i denne forskrift selv om oppbevaringstiden er en annen etter det aktuelle lands lovgivning.
+
+Regnskapsmateriale skal uten ubegrunnet opphold kunne fremlegges for offentlig kontrollmyndighet i Norge i hele oppbevaringstiden.
+
+*Endret ved [forskrift 21 mai 2010 nr. 713](https://lovdata.no/forskrift/2010-05-21-713).*
+
+### § 7-5. Adgang til å oppbevare elektronisk regnskapsmateriale i andre EØS-stater, Storbritannia og Sveits
+
+Bokføringspliktige kan oppbevare elektronisk regnskapsmateriale i et annet EØS-land, Storbritannia og Sveits. Regnskapsmaterialet skal være tilgjengelig i lesbar form og skal kunne skrives ut på papir fra terminal eller lignende i Norge i hele oppbevaringsperioden. Den bokføringspliktige skal skriftlig informere skattekontoret om hvilket regnskapsmateriale som oppbevares i utlandet, hvor regnskapsmaterialet oppbevares, og hvordan kontrollmyndighetene til enhver tid kan få adgang til regnskapsmaterialet. Oppbevaringstiden skal som et minimum følge [bokføringsloven § 13 annet ledd](../lover/lov-2004-11-19-73-bokforingsloven.md) og reglene i denne forskrift selv om oppbevaringstiden er en annen etter det aktuelle lands lovgivning.
+
+Uten hensyn til unntaket i første ledd kan skattekontoret ved enkeltvedtak pålegge bokføringspliktige å oppbevare elektronisk regnskapsmateriale i Norge i en periode på inntil 3 år dersom den bokføringspliktige vesentlig har overtrådt bestemmelser gitt i eller i medhold av [bokføringsloven](../lover/lov-2004-11-19-73-bokforingsloven.md) eller dersom norske myndigheters tilgang til elektronisk regnskapsmateriale i utlandet har blitt vanskeliggjort på grunn av forhold på den bokføringspliktiges, herunder eventuelle tjenestetilbyderes, side.
+
+*Tilføyd ved [forskrift 21 mai 2010 nr. 713](https://lovdata.no/forskrift/2010-05-21-713), endret ved forskrift [27 jan 2025 nr. 79](https://lovdata.no/forskrift/2025-01-27-79).*
+
+### § 7-6. Lukking av regnskapsperioder
+
+Regnskapsperioder skal lukkes innen fristene som nevnt i [bokføringsloven § 7](../lover/lov-2004-11-19-73-bokforingsloven.md) annet ledd. Lukkingen skal skje på en måte som gir betryggende sikring mot endring eller sletting av bokførte opplysninger.
+
+Det skal foreligge en beskrivelse av regnskapssystemets funksjonalitet for lukking av regnskapsperioder, herunder hvordan lukkingen gir betryggende sikring mot endring eller sletting av bokførte opplysninger. Beskrivelsen skal oppbevares i fem år etter regnskapsårets slutt.
+
+Bestemmelsene i første og annet ledd gjelder ikke for bokføringspliktige som oppbevarer utarbeidede spesifikasjoner av pliktig regnskapsrapportering, jf. [bokføringsloven § 13](../lover/lov-2004-11-19-73-bokforingsloven.md) første ledd nr. 2.
+
+*Tilføyd ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865) (i kraft straks med virkning for regnskapsår påbegynt 1 jan 2013 eller senere), endret ved [forskrift 22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+### § 7-7. Elektronisk tilgjengelighet
+
+Med elektronisk tilgjengelighet menes at de bokførte opplysningene er tilgjengelig i regnskapssystemet eller lagret på annen måte. Ved lagring i utlandet må de bokførte opplysningene være tilgjengelig gjennom terminal eller lignende i Norge.
+
+Kravet til sikkerhetskopiering etter [§ 7-2](for-2004-12-01-1558-bokforingsforskriften.md) gjelder tilsvarende for bokførte opplysninger som holdes elektronisk tilgjengelig.
+
+Bokføringspliktige som har mindre enn 5 millioner kroner i omsetning eksklusive merverdiavgift, er unntatt fra kravet i [bokføringsloven § 13b](../lover/lov-2004-11-19-73-bokforingsloven.md) om å ha bokførte opplysninger tilgjengelig elektronisk. Når en bokføringspliktig virksomhet som ikke omfattes av første punktum avvikles, skal bokførte opplysninger være tilgjengelig elektronisk i minst 6 måneder etter at virksomheten ble avviklet.
+
+*Tilføyd ved [forskrift 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865). **Endres** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2027).*
+
+### § 7-8. Gjengivelse av elektronisk bokførte opplysninger i standardisert form
+
+Bokføringspliktige som skal ha bokførte opplysninger elektronisk tilgjengelig etter [bokføringsloven § 13b](../lover/lov-2004-11-19-73-bokforingsloven.md), skal kunne gjengi bokførte opplysninger i standardisert form. Kravet gjelder også for bokføringspliktige som omfattes av unntakene i [§ 7-7](for-2004-12-01-1558-bokforingsforskriften.md) tredje ledd, men som likevel har bokførte opplysninger elektronisk tilgjengelig.
+
+Skattedirektoratet fastsetter innholdet og formatet ved gjengivelse av elektronisk bokførte opplysninger i standardisert form.
+
+Skattedirektoratet kan i særlige tilfeller gjøre unntak fra kravet etter første ledd, herunder gi utsettelse med å oppfylle kravet.
+
+*Tilføyd ved [forskrift 22 des 2017 nr. 2387](https://lovdata.no/forskrift/2017-12-22-2387) (med virkning for bokføringsperiode som begynner 1. januar 2020 eller senere). **Endres** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2027).*
+
+## Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer
+
+### Delkapittel 8-1. Bygge- og anleggsvirksomhet
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-1-1. Virkeområde
+
+Dette delkapittelet gjelder den som utfører arbeid for egen eller andres regning innen bygge- og anleggsvirksomhet og verftsindustri.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-1-2. Dokumentasjon av timer
+
+Bokføringspliktige etter [§ 8-1-1](for-2004-12-01-1558-bokforingsforskriften.md) skal føre timelister etter [§ 5-14](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-1-2a. Utstedelse av salgsdokument
+
+Salgsdokument kan utstedes i samsvar med bygge- og anleggsarbeidets fremdrift. Når arbeidet er fullført, skal salgsdokument utstedes senest innen en måned etter utløpet av den alminnelige skattleggingsperioden for merverdiavgift, jf. [skatteforvaltningsforskriften § 8-3-1](for-2016-11-23-1360-skatteforvaltningsforskriften.md).
+
+Når det er mottatt en delbetaling som samsvarer med arbeidets fremdrift, skal salgsdokument for delbetalingen utstedes senest innen en måned etter utløpet av den alminnelige skattleggingsperioden for merverdiavgift.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), endret ved forskrifter [9 des 2016 nr. 1544](https://lovdata.no/forskrift/2016-12-09-1544) (i kraft 1 jan 2017), [15 des 2020 nr. 2944](https://lovdata.no/forskrift/2020-12-15-2944) (i kraft 1 jan 2021), [18 feb 2025 nr. 392](https://lovdata.no/forskrift/2025-02-18-392).*
+
+#### § 8-1-3. Krav om prosjektregnskap
+
+For hver periode med pliktig regnskapsrapportering, og ikke sjeldnere enn hver fjerde måned, skal det kunne utarbeides egne spesifikasjoner (prosjektregnskap) etter [§ 8-1-4](for-2004-12-01-1558-bokforingsforskriften.md) for prosjekter der anbudspris eller anslått omsetningsverdi overstiger 5 ganger folketrygdens grunnbeløp eksklusive merverdiavgift.
+
+*Endret ved [forskrifter 7 sep 2012 nr. 865](https://lovdata.no/forskrift/2012-09-07-865) (i kraft straks med virkning for regnskapsår påbegynt 1 jan 2013 eller senere), [27 juni 2024 nr. 1325](https://lovdata.no/forskrift/2024-06-27-1325).*
+
+#### § 8-1-4. Prosjektregnskapets innhold
+
+Prosjektregnskapet skal inneholde følgende opplysninger:
+
+a. prosjektkode
+b. oppdragsgivers navn og adresse, eventuelt organisasjonsnummer
+c. oppdragets art
+d. oppdragets oppstart
+e. oppdragets opphør
+f. alle direkte kostnader
+g. alle inntekter.
+
+Spesifikasjoner av kostnader og inntekter skal tilpasses oppdragets art. Kostnader skal minst spesifiseres på lønnskostnader, materialkostnader, kostnader til underentreprenører og andre direkte kostnader.
+
+Prosjektkoden skal fremgå for hver enkelt post i bokføringsspesifikasjonen og kontospesifikasjonen etter [§ 3-1](for-2004-12-01-1558-bokforingsforskriften.md) første ledd nr. 1 og 2.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-1-5. Oppbevaringsplikt og sporbarhet
+
+Prosjektregnskap som nevnt i [§ 8-1-4](for-2004-12-01-1558-bokforingsforskriften.md) eller bokførte opplysninger som er nødvendige for å kunne utarbeide slike prosjektregnskap skal oppbevares i 10 år. Det samme gjelder dokumentasjon av bokførte opplysninger som inngår i prosjektregnskapet, samt byggekontrakter med anbud/kalkyler, tegninger, kontrakter med underentreprenører, timelister og ordrelister. I tillegg skal opprinnelige timelister på papir oppbevares i 3 år og 6 måneder etter regnskapsårets slutt, eventuelt skannet for elektronisk oppbevaring, selv om timelistene er overført til andre media for oppbevaring i hele 10-årsperioden. Oppbevaringsplikten etter tredje punktum gjelder ikke dersom følgende vilkår er oppfylt:
+
+1. den bokføringspliktige har revisjonsplikt, jf. [revisorloven § 2-1](../lover/lov-2020-11-20-128-revisorloven.md),
+2. revisor har signert kontrolloppstilling og næringsspesifikasjon foregående skattleggingsperiode, jf. [skatteforvaltningsforskriften §§ 7-2-11](for-2016-11-23-1360-skatteforvaltningsforskriften.md), [8-2-7](for-2016-11-23-1360-skatteforvaltningsforskriften.md) og [8-9-4](for-2016-11-23-1360-skatteforvaltningsforskriften.md), og
+3. den bokføringspliktige etter [§ 8-1-1](for-2004-12-01-1558-bokforingsforskriften.md) har ikke mottatt bokføringspålegg i medhold av [skatteforvaltningsloven](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md) eller [skattebetalingsloven](../lover/lov-2005-06-17-67-skattebetalingsloven.md) i løpet av de foregående 18 måneder for brudd på forskriften [§ 3-1 første ledd nr. 9](for-2004-12-01-1558-bokforingsforskriften.md), [§ 5-6](for-2004-12-01-1558-bokforingsforskriften.md) eller [§ 8-1-2](for-2004-12-01-1558-bokforingsforskriften.md).
+
+Opprinnelige timelister som skal oppbevares etter første ledd tredje punktum, skal oppbevares i 3 år og 6 måneder etter regnskapsårets slutt, selv om plikten til å oppbevare opprinnelige timelister bortfaller i løpet av oppbevaringstiden. Dersom den bokføringspliktiges revisjonsplikt opphører, jf. første ledd fjerde punktum nr. 1, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra den dato revisors fratreden er registrert i Foretaksregisteret. Dersom revisor ikke har signert kontrolloppstilling eller næringsspesifikasjon, jf. første ledd fjerde punktum nr. 2, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra fristen for å levere skatte- eller selskapsmeldingen, jf. [skatteforvaltningsforskriften § 8-2-3](for-2016-11-23-1360-skatteforvaltningsforskriften.md). Dersom den revisjonspliktige mottar bokføringspålegg, jf. første ledd fjerde punktum nr. 3, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra den dato bokføringspålegget har kommet fram til den bokføringspliktige.
+
+Bestemmelsene i [§ 7-6](for-2004-12-01-1558-bokforingsforskriften.md) om lukking av regnskapsperioder gjelder tilsvarende for bokførte opplysninger som er nødvendige for utarbeidelse av prosjektregnskap som nevnt i [§ 8-1-4](for-2004-12-01-1558-bokforingsforskriften.md).
+
+Det skal foreligge et toveis kontrollspor mellom prosjektregnskap og dokumentasjon av bokførte opplysninger som inngår i prosjektregnskapet.
+
+*Endret ved [forskrifter 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015), [9 des 2016 nr. 1544](https://lovdata.no/forskrift/2016-12-09-1544) (i kraft 1 jan 2017), [18 feb 2025 nr. 392](https://lovdata.no/forskrift/2025-02-18-392).*
+
+### Delkapittel 8-2. Taxinæring
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-2-1. Taksameter
+
+Bokføringspliktige som driver taxinæring skal registrere kontant- og kredittsalg ved bruk av taksameter som tilfredsstiller kravene i [forskrift 1. oktober 2009 nr. 1226](for-2009-10-01-1226-forskrift-om-krav-til-taksametre.md) om krav til taksametre.
+
+*Endret ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 8-2-2. Krav til innholdet i salgsdokumentet
+
+Ved kontantsalg skal taksameteret skrive salgsdokument (salgskvittering) til kunden for hvert salg. Kvitteringen skal inneholde opplysninger som nevnt i [§ 5-3-12](for-2004-12-01-1558-bokforingsforskriften.md), samt opplysninger om type betalingsmiddel.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 14 des 2018 nr. 1983](https://lovdata.no/forskrift/2018-12-14-1983) (i kraft 1 jan 2019).*
+
+#### § 8-2-3. Dokumentasjon av kontantsalg
+
+Kontantsalget skal dokumenteres ved bruk av skiftlapper og rapport fra taksameteret som viser hver enkelt salgstransaksjon, jf. [§ 8-2-2](for-2004-12-01-1558-bokforingsforskriften.md). Skiftlappene skal nummereres fortløpende av systemet og inneholde løyvenummeret og taksameterets serienummer.
+
+Skiftlappen skal for hvert skift inneholde følgende opplysninger:
+
+1. skiftets dato
+2. klokkeslett for skiftets begynnelse og slutt
+3. antall turer
+4. brutto innkjørt beløp fordelt på kontant og kreditt. Kontantbeløp skal være fordelt på ulike betalingsmiddel
+5. kontanttips og tips som betales med betalingskort mv.
+6. totale og besatte kilometer
+7. sjåførens navn og fødselsnummer eller annen identifikasjonskode
+8. akkumulerte tall for totale kilometer og totalt innkjørt i kroner. Kilometer og kroner skal oppgis med henholdsvis minimum seks- og nisifrede tall.
+
+Skiftlapper skal ved utskrift signeres fortløpende med fullt navn av skiftets sjåfør.
+
+Dersom skiftlappsystemet på grunn av feil, strømbrudd eller lignende midlertidig er ute av drift skal årsaken dokumenteres. I disse tilfellene skal det benyttes forhåndsnummererte manuelle skiftlapper. Besatte kilometer, jf. annet ledd nr. 6 kan i slike tilfeller unnlates spesifisert. For øvrig gjelder [§ 5-3-11](for-2004-12-01-1558-bokforingsforskriften.md) så langt den passer.
+
+*Endret ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 14 des 2018 nr. 1983](https://lovdata.no/forskrift/2018-12-14-1983) (i kraft 1 jan 2019, tidligere § 8-2-2).*
+
+#### § 8-2-4. Kassaavstemming
+
+For hvert skift skal det foretas en avstemming hvor opptalt kassabeholdning mv. sammenholdes med kontantsalg ifølge skiftlapp. Avstemmingen skal dateres og det skal fremgå hvem som har foretatt avstemmingen.
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 8-2-5. Oppbevaring
+
+Dokumentasjon som nevnt i [§ 8-2-3](for-2004-12-01-1558-bokforingsforskriften.md) og [§ 8-2-4](for-2004-12-01-1558-bokforingsforskriften.md) skal oppbevares i fem år etter regnskapsårets slutt.
+
+*Endret ved [forskrifter 22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015), [20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019, tidligere § 8-2-3).*
+
+#### § 8-2-6. Dispensasjon
+
+Departementet kan i særlige tilfeller gjøre unntak fra kravet til taksameter i [§ 8-2-1](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Tilføyd ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+### Delkapittel 8-3. Frisørvirksomhet og skjønnhetspleie
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-3-1. Spesifikasjon av omsetning og uttak, varekjøp og varebeholdning på varegrupper
+
+Bokføringspliktige som driver frisørvirksomhet og skjønnhetspleie skal bokføre kjøp av varer slik at disse kan spesifiseres for salgsvarer og behandlingsvarer. Omsetning og uttak skal tilsvarende kunne spesifiseres for varesalg og salg av behandlingstjenester. Bokføringspliktige som driver frisørvirksomhet skal dessuten kunne skille ut og spesifisere klipp fra øvrige behandlingstjenester. Ved varetelling skal varene grupperes adskilt for salgsvarer og behandlingsvarer.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-3-2. Z-rapporter
+
+Z-rapporter som omtalt i delkapittel 5-3, skal vise omsetning pr. ansatt fordelt på varesalg og salg av behandlingstjenester. Z-rapportene i frisørvirksomhet skal dessuten vise omsetning av klipp adskilt fra øvrige behandlingstjenester.
+
+*Endret ved forskrifter [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [4 des 2020 nr. 2589](https://lovdata.no/forskrift/2020-12-04-2589).*
+
+#### § 8-3-3. Dokumentasjon av priser og timebestillinger
+
+Det skal utarbeides oversikt over de til enhver tid gjeldende priser. Det skal likeledes utarbeides oversikt over hvilke priser som brukes ved uttak til eiere og ansatte. Prisoversiktene skal dateres og signeres av den som har ansvaret for å fastsette prisene.
+
+I tillegg til de krav som stilles til registrering av timebestillinger i [§ 5-15](for-2004-12-01-1558-bokforingsforskriften.md) i denne forskriften, skal det registreres behandlingstype.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-3-4. Personalliste
+
+Bokføringspliktige etter [§ 8-3-1](for-2004-12-01-1558-bokforingsforskriften.md) skal føre og oppbevare personalliste i samsvar med [§ 8-5-6](for-2004-12-01-1558-bokforingsforskriften.md) og [§ 8-5-7](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-4. (Opphevet)
+
+*[§ 8-4](for-2004-12-01-1558-bokforingsforskriften.md) med tilhørende [§ 8-4-1](for-2004-12-01-1558-bokforingsforskriften.md), [§ 8-4-2](for-2004-12-01-1558-bokforingsforskriften.md) og [§ 8-4-3](for-2004-12-01-1558-bokforingsforskriften.md) opphevet 1 jan 2014 ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+### Delkapittel 8-5. Serveringssteder
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-5-1. Virkeområde
+
+Med *serveringssted* menes i denne forskrift serveringssted som nevnt i [lov 13. juni 1997 nr. 55](../lover/lov-1997-06-13-55-serveringsloven.md) om serveringsvirksomhet [§ 2](../lover/lov-1997-06-13-55-serveringsloven.md).
+
+Dette delkapittelet gjelder for den som i næring driver serveringssted der det foregår servering av øl, vin eller brennevin.
+
+Forskriften [§ 8-5-6](for-2004-12-01-1558-bokforingsforskriften.md) og [§ 8-5-7](for-2004-12-01-1558-bokforingsforskriften.md) gjelder dessuten for den som i næring driver serveringssted, cateringvirksomhet, gatekjøkken eller annen virksomhet hvor tilberedt mat mv. bringes ut til kunden eller hentes på forretningsstedet.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-5-2. Spesifikasjon av omsetning, uttak, varekjøp og varebeholdning på varegrupper
+
+Bokføringen skal innrettes slik at omsetning og uttak kan spesifiseres på varegruppene mat, øl, vin, brennevin, rusbrus/cider, mineralvann, annen drikke, tobakk og andre varer. Innkjøpte varer for videresalg skal spesifiseres på tilsvarende måte. Ved varetelling grupperes varene på samme måte som spesifikasjon av varekjøp.
+
+Eventuelle garderobeinntekter, inngangspenger (cover charge) og spilleinntekter fra automater skal spesifiseres.
+
+#### § 8-5-3. Kassasystem mv.
+
+Salg av mat og drikke mv. fra restaurant eller annet serveringssted skal registreres fortløpende på kassasystem som nevnt i denne forskrift [§ 5-3-2](for-2004-12-01-1558-bokforingsforskriften.md), selv om betaling skjer når gjesten forlater serveringsstedet. Slik registrering skal enten skje ved at salget registreres fortløpende på bordnummer eller lignende, mens kvittering tas ut når gjesten skal betale, eller ved at salget registreres hver gang det serveres mat eller drikke mv. med samtidig utskriving av kvittering fra kassasystemet.
+
+Opplysninger om gjester som gis fri adgang eller fri garderobe på grunnlag av medlemskap eller lignende, skal registreres på kassasystemet. Opplysningene skal spesifiseres i X og Z-rapport med angivelse av antall for hver tjenestegruppe, jf. [kassasystemforskrifta § 2-8-2](for-2015-12-18-1616-kassasystemforskrifta.md) og [2-8-3](for-2015-12-18-1616-kassasystemforskrifta.md).
+
+*Endret ved [forskrifter 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) som endret ved [forskrift 14 des 2018 nr. 1983](https://lovdata.no/forskrift/2018-12-14-1983) (i kraft 1 jan 2019).*
+
+#### § 8-5-4. (Opphevet)
+
+*Opphevet ved [forskrift 20 des 2016 nr. 1752](https://lovdata.no/forskrift/2016-12-20-1752) (i kraft 1 jan 2019).*
+
+#### § 8-5-5. Dokumentasjon av priser
+
+Det skal utarbeides oversikt over de til enhver tid gjeldende priser. I den grad trykte menyer brukes, skal disse dokumentere prisene. Det skal likeledes utarbeides oversikt over hvilke priser som brukes ved uttak til eiere, ansatte, artister og gjester. Prisoversiktene skal dateres og signeres av den som har ansvaret for å fastsette prisene.
+
+Serveringssteder som oftere enn hver uke endrer sin matmeny er unntatt fra kravet om å dokumentere priser for denne del av omsetningen.
+
+#### § 8-5-6. Personalliste
+
+Den bokføringspliktige skal sørge for at det på arbeidsstedet føres en personalliste. Personallisten skal angi den bokføringspliktiges navn og organisasjonsnummer.
+
+Personallisten skal gi en oversikt over personer som arbeider i virksomheten, herunder også ulønnet og innleid personale. Personallisten skal angi den enkeltes navn og fødselsnummer eller D-nummer. Fødselsnumre og D-numre kan erstattes med unike koder. Det skal i så fall utarbeides en oversikt over benyttede koder med tilhørende fødselsnummer eller D-nummer. Kodeoversikten anses som en del av personallisten.
+
+Personallisten skal for hver arbeidsdag angi tidspunktet for arbeidsdagens begynnelse og slutt, og skal føres i umiddelbar tilknytning til at arbeidet påbegynnes og avsluttes.
+
+Den bokføringspliktige skal sørge for at pass eller annen gyldig legitimasjon med bilde, eller kopi av slik legitimasjon kan fremvises for alle tilstedeværende som arbeider i virksomheten.
+
+Personalliste kan føres manuelt eller elektronisk. Personalliste som føres manuelt skal foreligge på arbeidsstedet i en innbundet bok der sidene er forhåndsnummererte. Personalliste som føres elektronisk skal umiddelbart kunne skrives ut på papir. Dersom det foretas rettelser i personallisten, skal det fremgå hvem som har foretatt rettelsen og tidspunkt for når det er gjort.
+
+Bokføringspliktige som plikter å utarbeide arbeidsplan etter arbeidsmiljøloven ([lov 17. juni 2005 nr. 62](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md)) [§ 10-3](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md), eller som på annet grunnlag utarbeider tilsvarende arbeidsplan, kan benytte denne som alternativ til personalliste etter første ledd. En slik arbeidsplan må oppdateres fortløpende. Bestemmelsene om personalliste i denne forskrift gjelder tilsvarende for slik arbeidsplan.
+
+Bestemmelsene i denne paragraf gjelder ikke for bokføringspliktige der personalet kun består av innehaveren, dennes ektefelle/samboer eller barn under 16 år. Bestemmelsene gjelder heller ikke bokføringspliktige, der personalet kun består av daglig leder som også er deltaker eller aksjonær i foretaket, dennes ektefelle/samboer eller barn under 16 år. Bestemmelsene gjelder heller ikke dersom den bokføringspliktige i hovedsak driver virksomhet som ikke omfattes av kravet til personalliste.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-5-7. Oppbevaring
+
+Dokumentasjon av priser som nevnt i [§ 8-5-5](for-2004-12-01-1558-bokforingsforskriften.md) og personalliste med eventuell kodeoversikt som nevnt i [§ 8-5-6](for-2004-12-01-1558-bokforingsforskriften.md) skal oppbevares i 3 år og 6 måneder etter regnskapsårets slutt.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+### Delkapittel 8-6. Hoteller mv.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-6-1. Virkeområde
+
+Dette delkapittelet gjelder for den som omfattes av bestemmelsene om romutleie i hotellvirksomhet mv., jf. [merverdiavgiftsforskriften § 5-5-1](for-2009-12-15-1540-merverdiavgiftsforskriften.md) og [§ 5-5-2](for-2009-12-15-1540-merverdiavgiftsforskriften.md).
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-6-2. Bokføring
+
+Bokføringen skal innrettes slik at transaksjoner knyttet til helpensjon, halvpensjon og overnatting med frokost kan spesifiseres hver for seg.
+
+#### § 8-6-3. Spesifikasjon
+
+For hver rapportperiode skal fordeling av pensjonspriser mellom omsetning som avgiftsberegnes med de ulike satsene eller som er unntatt merverdiavgiftsloven etter [merverdiavgiftsloven kapittel 3](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md), spesifiseres.
+
+*Endret ved [forskrift 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464).*
+
+#### § 8-6-4. (Opphevet 1 sep 2006 ved [forskrift 18 aug 2006 nr. 982](https://lovdata.no/forskrift/2006-08-18-982).)
+
+#### § 8-6-5. Oppbevaring
+
+Benyttes kalkyle som grunnlag ved fordelingen av bruttopensjonsprisen, skal kalkylen oppbevares i fem år etter regnskapsårets slutt. Det samme gjelder for kalkyle over frokostverdien.
+
+*Endret ved [forskrift 22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+### Delkapittel 8-7. Stats- og bygdeallmenninger
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-7-1. Stats- og bygdeallmenninger
+
+Stats- og bygdeallmenninger skal bokføre alle leveranser, utbetalt utbytte samt bidrag fra allmenningen slik at opplysningene kan spesifiseres for hver enkelt bruksberettiget.
+
+Av dokumentasjonen skal det fremgå hvilke kvanta som er levert. Videre skal fremgå både verdi beregnet etter vanlige priser ved detaljomsetning i åpent marked, og den betaling som den bruksberettigede har erlagt for leveranser av tømmer, ved, skurlast, høvellast, torv mv. Når den bruksberettigede har fått utvist tømmer og ved på rot, skal virkets antatte rotverdi ved salg i åpent marked anføres. Når det utbetales utbytte eller bidrag, skal det anføres hvor mye av det utbetalte som tidligere er skattlagt på allmenningens hånd.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014, tidligere § 8-7).*
+
+### Delkapittel 8-8. Utenlandske foretak som driver virksomhet på norsk sokkel, unntatt petroleumsutvinning og rørledningstransport, eller foretak som driver midlertidig virksomhet på land
+
+*Endret ved [forskrifter 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+#### § 8-8-1. Virkeområde
+
+Dette delkapittelet gjelder for bokføringspliktige som nevnt i [bokføringsloven § 2](../lover/lov-2004-11-19-73-bokforingsloven.md), jf. [regnskapsloven § 1-2](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd nr. 13, som utøver eller deltar i virksomhet som er skattepliktig etter petroleumsskatteloven, med unntak av skattepliktige etter [petroleumsskatteloven § 3](../lover/lov-1975-06-13-35-petroleumsskatteloven.md) og [§ 5](../lover/lov-1975-06-13-35-petroleumsskatteloven.md). Videre gjelder den bokføringspliktige som nevnt i [bokføringsloven § 2](../lover/lov-2004-11-19-73-bokforingsloven.md), jf. [regnskapsloven § 1-2](../lover/lov-1998-07-17-56-regnskapsloven.md) første ledd nr. 13, som ikke har varig tilknytning til riket.
+
+*Endret ved [forskrifter 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+#### § 8-8-2. Bokføring
+
+Bokføringen skal innrettes slik at alle økonomiske transaksjoner mellom den bokføringspliktige og foretak med interessefellesskap trer klart frem og slik at disse transaksjoner kan påvises enkeltvis og samlet.
+
+Interessefellesskap mellom to foretak foreligger når det ene av foretakene direkte eller indirekte eier eller kontrollerer mer enn 20 prosent i det andre foretaket, eller når en tredjeperson direkte eller indirekte eier eller kontrollerer mer enn 20 prosent i begge foretak.
+
+#### § 8-8-3. Spesifikasjon
+
+Bokføringspliktige som har påtatt seg oppdrag som for oppdragsgiveren er rapporteringspliktig i henhold til [skatteforvaltningsloven § 7-6](../lover/lov-2016-05-27-14-skatteforvaltningsloven.md), skal kunne spesifisere inntekter og direkte kostnader for hver kontrakt. Det må være mulig å kontrollere at all inntekt vedrørende slik virksomhet er tatt med i regnskapet.
+
+*Endret ved [forskrifter 22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015), [9 des 2016 nr. 1544](https://lovdata.no/forskrift/2016-12-09-1544) (i kraft 1 jan 2017).*
+
+#### § 8-8-4. Dokumentasjon
+
+Det skal foreligge en oppstilling som viser hvilke kostnader som inngår i fordelingen av indirekte kostnader, samt anvendte fordelingsnøkler. Sammen med oppstillingen skal det være en forklaring på de anvendte fordelingsprinsipper, herunder hvordan belastninger og godskrivinger er fordelt mellom de enkelte selskapsenheter og/eller foretak med interessefellesskap.
+
+#### § 8-8-5. Oppbevaring
+
+Dokumentasjon som nevnt i [§ 8-8-4](for-2004-12-01-1558-bokforingsforskriften.md) skal oppbevares i 10 år.
+
+### Delkapittel 8-9. Petroleumsutvinning og rørledningstransport
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-9-1. Virkeområde
+
+Dette delkapittelet gjelder for bokføringspliktige som driver utvinning av undersjøiske petroleumsforekomster eller rørledningstransport i de områder som er nevnt i [petroleumsskatteloven § 1](../lover/lov-1975-06-13-35-petroleumsskatteloven.md).
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-9-2. Bokføring
+
+Ved bokføring av salg og uttak av petroleum skal både fakturerte eller avregnede priser og fastsatte normpriser registreres.
+
+#### § 8-9-3. Dokumentasjon
+
+Dokumentasjonen av salg og/eller uttak av petroleum skal inneholde opplysninger om:
+
+a. hvem som kjøper
+b. når kontrakten er inngått
+c. når petroleumen passerte leveringsstedet (det leveringssted som er lagt til grunn for det enkelte normprisvedtak)
+d. petroleumens art
+e. leveringsvilkår
+f. kredittid
+g. betalingsvaluta
+h. fraktbeløp (ved andre leveringsvilkår enn FOB)
+i. kvantum
+j. faktura, eller avregningspris pr. enhet
+k. salg eller uttak etter faktura- eller avregningspris.
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-9-4. Oppbevaring
+
+Oppbevaringspliktig materiale etter [bokføringsloven § 13](../lover/lov-2004-11-19-73-bokforingsloven.md) skal oppbevares ordnet i minst 15 år etter utløpet av vedkommende inntektsår.
+
+### Delkapittel 8-10. Videreforhandlere av brukte varer, kunstverk, samleobjekter eller antikviteter
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-10-1. Virkeområde
+
+Dette delkapittelet gjelder for den som omfattes av [merverdiavgiftsloven § 4-5](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md), [§ 4-6](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) og [§ 4-10](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) om videresalg og uttak av brukte varer mv.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-10-2. Spesifikasjon av kjøp og salg
+
+Videreforhandlere skal spesifisere alle kjøp og salg av brukte varer, kunstverk, samleobjekter og antikviteter, jf. dog annet ledd. Mottatte gjenstander skal straks merkes med et nummer, som også skal fremgå av spesifikasjonen. Det skal fremgå av spesifikasjonen om avansen eller de alminnelige regler for avgiftsberegningen er lagt til grunn ved avgiftsberegningen ved videresalget av gjenstanden. Spesifikasjonen skal inneholde følgende opplysninger:
+
+a. gjenstandens nr.
+b. kjøpsdato
+c. kjøpssum
+d. en klar beskrivelse av varen samt antall, størrelse, mengde eller vekt
+e. navn og adresse til den person gjenstanden er ervervet fra
+f. salgsdato
+g. salgssum, inkludert avgift
+h. beregningsgrunnlag utgående avgift.
+
+Ved samlede kjøp hvor prisen på den enkelte vare ikke er kjent, skal det under pkt. d) minimum angis hovedgrupper av varer som er innkjøpt samt en nøyaktig angivelse av det antall gjenstander som er innkjøpt med antatt pris som overstiger kr 300. Disse gjenstandene skal merkes med nummeret i spesifikasjonen. Salg fra samlede kjøp kreves ikke spesifisert.
+
+#### § 8-10-3. Dokumentasjon av kjøp
+
+Videreforhandlere må påse at det utferdiges salgsdokument også når selger av gjenstanden ikke er bokføringspliktig. I slike tilfeller regnes også avregningsseddel eller annet bilag som videreforhandleren utsteder som salgsdokument. Salgsdokumentet skal foruten videreforhandlerens navn, inneholde de spesifikasjoner som fremgår av [§ 8-10-2](for-2004-12-01-1558-bokforingsforskriften.md) bokstavene b-e og skal signeres av den som avhender gjenstanden. Også samlede innkjøp med enhetspris på mindre enn kr 300 skal fremgå av salgsdokumentet.
+
+#### § 8-10-4. Dokumentasjon av salg
+
+Avgiftspliktige videreforhandlere som ved videresalg benytter avansen som beregningsgrunnlag for utgående avgift skal utstede særskilt salgsdokument over leveransen.
+
+Gjenstandens nummer skal påføres salgsdokumentet. Avgiftsbeløpet skal ikke angis i salgsdokumentet. Det skal fremgå av salgsdokumentet at avgiftsbeløp som er inkludert i prisen ikke er fradragsberettiget som inngående avgift.
+
+#### § 8-10-5. Dokumentasjon av beløp som nevnt i [merverdiavgiftsloven § 4-6](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md)
+
+Det skal opprettes en hjelpekonto eller annen oversikt hvor samlede kjøp utlignes mot
+
+- enkeltsalg fra et samlet kjøp og
+- samlede salg redusert for kjente kjøpsverdier på den enkelte gjenstand som inngår i salget.
+
+Dersom samlet kjøp eller salg utgjør den hovedsakelige del (80 pst. eller mer) av videreforhandlerens kjøp eller salg i terminen, kan også positiv avanse fra andre brukte varer føres mot hjelpekontoen. I slike tilfeller bokføres hele salgssummen som avgiftsfri omsetning.
+
+Dersom hjelpekontoen ikke er utlignet, kan det overskytende beløp medregnes til verdien av samlede kjøp i de etterfølgende terminer. Dersom hjelpekontoen viser positiv avanse, skal avansen bokføres på avgiftspliktig salgskonto.
+
+*Endret ved [forskrift 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464).*
+
+#### § 8-10-6. Bokføring
+
+Videreforhandlere som foretar samlede innkjøp eller salg hvor prisen på den enkelte vare ikke er kjent, skal enten opprette egne konti for samlede kjøp og salg, eller føre oversikt over slike kjøp og salg i hjelpebøker eller på annen måte. Det må tilsvarende føres oversikt over kjøp og salg hvor avgiften ved videresalget er beregnet på grunnlag av de alminnelige regler for avgiftsberegningen, jf. [merverdiavgiftsloven kapittel 4](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md).
+
+Samlede salg og salg av enkeltgjenstander fra et samlet kjøp, skal i sin helhet føres på en avgiftsfri salgskonto inntil hjelpekontoen, jf. [§ 8-10-5](for-2004-12-01-1558-bokforingsforskriften.md), er utlignet.
+
+For øvrige salg skal avansen føres på avgiftspliktig salgskonto, mens resten av salgsverdien skal føres på en avgiftsfri salgskonto, jf. dog [§ 8-10-5](for-2004-12-01-1558-bokforingsforskriften.md) første ledd. Dersom varen selges med tap, bokføres salgssummen i sin helhet på den avgiftsfrie salgskontoen.
+
+Fordelingen mellom avgiftspliktig og avgiftsfri omsetning, kan gjennomføres ved utgangen av en termin. Grunnlaget for denne fordelingen må fremgå av regnskapet eller hjelpeoppstillinger.
+
+*Endret ved [forskrift 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464).*
+
+#### § 8-10-7. Oppbevaring
+
+Spesifikasjon av kjøp og salg som nevnt i [§ 8-10-2](for-2004-12-01-1558-bokforingsforskriften.md) skal oppbevares i fem år etter at siste gjenstand som inngår i spesifikasjonen er solgt. Dokumentasjon som nevnt i [§ 8-10-5](for-2004-12-01-1558-bokforingsforskriften.md) og [§ 8-10-6](for-2004-12-01-1558-bokforingsforskriften.md) skal oppbevares i fem år etter regnskapsårets slutt.
+
+*Endret ved [forskrift 22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+### Delkapittel 8-11. Bokføringspliktige veldedige og allmennyttige institusjoner og organisasjoner
+
+*Endret ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-11-1. Virkeområde
+
+Dette delkapittelet gjelder for bokføringspliktige veldedige og allmennyttige institusjoner og organisasjoner, som omfattes av [merverdiavgiftsloven § 3-12](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) første ledd bokstav b og e om omsetning av varer til betydelig overpris og varer fra enkeltstående og kortvarige salgsarrangementer samt § 3-12 tredje ledd om omsetning av varer fra kiosk og omsetning av serveringstjenester.
+
+*Endret ved [forskrifter 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464), [19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [14 des 2018 nr. 1982](https://lovdata.no/forskrift/2018-12-14-1982) (i kraft 1 jan 2019).*
+
+#### § 8-11-2. Dokumentasjon
+
+Ved salg av varer til betydelig overpris etter [merverdiavgiftsforskriften § 3-12-2](for-2009-12-15-1540-merverdiavgiftsforskriften.md) skal inntakskost dokumenteres ved salgsdokument, erklæring fra giver eller lignende.
+
+*Endret ved [forskrift 26 mars 2010 nr. 464](https://lovdata.no/forskrift/2010-03-26-464).*
+
+#### § 8-11-3. Unntak fra krav til dokumentasjon av kontantsalg
+
+For bokføringspliktige som er omfattet av dette delkapittelet, gjelder ikke [§ 5-3-2](for-2004-12-01-1558-bokforingsforskriften.md) for å dokumentere omsetning som nevnt i [merverdiavgiftsloven § 3-12](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) første ledd bokstav e og [§ 3-12](../lover/lov-2009-06-19-58-merverdiavgiftsloven.md) tredje ledd. Slike bokføringspliktige kan i stedet dokumentere kontantsalget med dagsoppgjør, jf. [§ 5-4-5](for-2004-12-01-1558-bokforingsforskriften.md) første og tredje punktum og annen tilgjengelig dokumentasjon, for eksempel elektronisk salgsrapport som viser transaksjonene enkeltvis og rapporter fra betalingsterminal.
+
+*Tilføyd ved [forskrift 14 des 2018 nr. 1982](https://lovdata.no/forskrift/2018-12-14-1982) (i kraft 1 jan 2019).*
+
+#### § 8-11-4. Oppbevaring
+
+Dokumentasjon av inntakskost, jf. [§ 8-11-2](for-2004-12-01-1558-bokforingsforskriften.md) skal oppbevares i fem år etter regnskapsårets slutt.
+
+*Endret ved [forskrifter 22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015), [14 des 2018 nr. 1982](https://lovdata.no/forskrift/2018-12-14-1982) (i kraft 1 jan 2019, tidligere § 8-11-3).*
+
+### Delkapittel 8-12. Bilverksteder og bilpleie
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-12-1. Bilverksteder og bilpleie
+
+Bokføringspliktige som driver bilverksteder eller bilpleievirksomhet skal føre og oppbevare personalliste i samsvar med [§ 8-5-6](for-2004-12-01-1558-bokforingsforskriften.md) og [§ 8-5-7](for-2004-12-01-1558-bokforingsforskriften.md).
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+### Delkapittel 8-13. Finansvirksomhet
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-13-1. Virkeområde
+
+Med finansvirksomhet menes i denne forskrift banker, kredittforetak, finansieringsforetak, verdipapirfond, verdipapirforetak og verdipapirfondenes forvaltningsselskaper.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-13-2. Salgsdokument
+
+Ved kjøp og salg av finansielle instrumenter kan finansvirksomhet benytte sluttsedler som salgsdokument. Finansvirksomhet som har transaksjoner i form av utlån/kreditt/finansiering til eller innskudd/forvaltningsoppdrag fra kunder, og som etter avtale med kundene kan belaste kunden direkte for utførte tjenester via kontoforhold, kan benytte kontoutskrift som salgsdokument.
+
+Sluttsedler og kontoutskrift skal inneholde opplysninger som nevnt i delkapittel 5-1. Kravet i [§ 5-1-3](for-2004-12-01-1558-bokforingsforskriften.md) om fortløpende nummerering av salgsdokument kan likevel erstattes av angivelse av kundens kontonummer og et fortløpende nummer på kundenivå.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014). **Endres** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2027).*
+
+#### § 8-13-3. Kunde- og leverandørspesifikasjon
+
+Finansvirksomhet kan benytte sine fagsystemer for å utarbeide spesifikasjoner som nevnt i [§ 3-1](for-2004-12-01-1558-bokforingsforskriften.md) nr. 3 og 4. Opplysningene må kunne spesifiseres i en form som sikrer at opplysningsplikten etter lov og forskrift kan ivaretas.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-13-4. Oppbevaring
+
+Banker og finansieringsforetak skal oppbevare spesifikasjoner som nevnt i 8-13-3 samt dokumentasjon av bokførte opplysninger som inngår i slike spesifikasjoner i ti år etter regnskapsårets slutt.
+
+*Tilføyd ved [forskrift 22 des 2014 nr. 1865](https://lovdata.no/forskrift/2014-12-22-1865) (i kraft 1 jan 2015).*
+
+### Delkapittel 8-14. Forsikringsselskaper og pensjonsforetak
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-14-1. Virkeområde
+
+Dette kapittelet gjelder for forsikringsselskaper og pensjonsforetak etter [lov 10. juni 2005 nr. 44](../lover/lov-2005-06-10-44-forsikringsvirksomhetsloven.md) om forsikringsselskaper, pensjonsforetak og deres virksomhet mv.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+#### § 8-14-2. Salgsdokument
+
+Polisedokument kan benyttes som salgsdokument dersom dokumentasjonen inneholde opplysninger som nevnt i delkapittel 5-1. Kravet i [§ 5-1-3](for-2004-12-01-1558-bokforingsforskriften.md) om fortløpende nummerering av salgsdokument kan likevel erstattes av angivelse av polisenummer/forsikringsavtalenummer og termin.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014). **Endres** ved forskrift [29 sep 2026 nr. 1933](for-2026-09-29-1933-forskrift-om-endring-i-bokforingsforskriften.md) (i kraft 1 jan 2027).*
+
+#### § 8-14-3. Kunde- og leverandørspesifikasjon
+
+Bokføringspliktige som er omfattet av dette delkapittelet, som oppfyller kravene gitt i eller i medhold av forsikringsavtaleloven og forsikringsvirksomhetsloven, kan benytte sitt fagsystem for å utarbeide spesifikasjoner som nevnt i [§ 3-1](for-2004-12-01-1558-bokforingsforskriften.md) nr. 3 og 4. Opplysningene må kunne spesifiseres i en form som sikrer at opplysningsplikten etter lov og forskrift kan ivaretas.
+
+*Tilføyd ved [forskrift 19 des 2013 nr. 1614](https://lovdata.no/forskrift/2013-12-19-1614) (i kraft 1 jan 2014).*
+
+### Delkapittel 8-15. Kraftbransjen
+
+*Tilføyd ved [forskrift 12 mars 2018 nr. 328](https://lovdata.no/forskrift/2018-03-12-328).*
+
+#### § 8-15-1. Felles fakturering av nettjenester og elektrisk energi
+
+Leverandører av nettjenester og elektrisk energi kan utstede felles salgsdokument. Det kan benyttes en felles nummerserie for slike salgsdokument. For øvrig gjelder kravene til salgsdokumentets innhold, jf. delkapittel 5-1, for hver av partenes omsetning.
+
+*Tilføyd ved [forskrift 12 mars 2018 nr. 328](https://lovdata.no/forskrift/2018-03-12-328).*
+
+#### § 8-15-2. Kundespesifikasjon
+
+Når det er utstedt felles salgsdokument etter [§ 8-15-1](for-2004-12-01-1558-bokforingsforskriften.md), kan leverandører som ikke selv har utstedt salgsdokumentet, registrere transaksjonene i kundespesifikasjonen over fakturautsteders konto.
+
+*Tilføyd ved [forskrift 12 mars 2018 nr. 328](https://lovdata.no/forskrift/2018-03-12-328).*
+
+## Kapittel 9. Ikrafttredelse
+
+### § 9-1. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2005.

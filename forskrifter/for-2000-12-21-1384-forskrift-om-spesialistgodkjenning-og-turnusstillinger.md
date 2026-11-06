@@ -1,0 +1,237 @@
+# Forskrift om spesialistgodkjenning av helsepersonell og turnusstillinger for leger
+
+- **Korttittel:** Forskrift om spesialistgodkjenning og turnusstillinger
+- **Datokode:** FOR-2000-12-21-1384
+- **DokumentID:** SF/forskrift/2000-12-21-1384
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavd., Spesialisthelsetjenestavd.
+- **Hjemmel:** lov 02.07.1999 nr. 64/§51; lov 24.06.2011 nr. 30/§8-1; lov 02.07.1999 nr. 61/§3-5
+- **Publisert i:** I 2000 3104
+- **I kraft fra:** 2001-01-01
+- **Siste endring i kraft:** 2021-09-17
+- **Sist endret ved:** forskrift 17.09.2021 nr. 2821
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2021-09-27 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Sosial- og helsedepartementet (nå Helse- og omsorgsdepartementet) 21. desember 2000 med hjemmel i lov av 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 51. Tilføyd hjemmel: Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester (helse- og omsorgstjenesteloven) § 8-1 og lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 3-5. Endret ved forskrifter 20 des 2001 nr. 1580, 19 des 2008 nr. 1580, 1 des 2012 nr. 1119 (bl.a. tittel), 20 juni 2013 nr. 680, 6 nov 2014 nr. 1446, 4 feb 2015 nr. 108, 18 des 2015 nr. 1740, 8 des 2016 nr. 1482, 16 feb 2017 nr. 193, 17 sep 2021 nr. 2821. Rettelser: 24.01.2013 (Merknader), 01.11.2014 (Merknader fjernet), 01.02.2015 (Merknader tilføyd), 27.09.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2000-12-21-1384>
+
+## § 1. Virkeområde og godkjenningsinstans
+
+Denne forskriften gjelder for spesialistgodkjenning av leger, tannleger og optikere.
+
+Helsedirektoratet eller den det gir myndighet gir spesialistgodkjenning, jf. [helsepersonelloven § 53](../lover/lov-1999-07-02-64-helsepersonelloven.md) første ledd.
+
+Søknad om spesialistgodkjenning behandles etter at fastsatt gebyr er betalt.
+
+*Endret ved [forskrifter 20 des 2001 nr. 1580](https://lovdata.no/forskrift/2001-12-20-1580) (i kraft 1 jan 2002), [1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 2. (Opphevet)
+
+*Endret ved [forskrifter 20 des 2001 nr. 1580](https://lovdata.no/forskrift/2001-12-20-1580) (i kraft 1 jan 2002), [1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119), opphevet ved [forskrift 16 feb 2017 nr. 193](https://lovdata.no/forskrift/2017-02-16-193) (i kraft 1 mars 2017).*
+
+## § 3. Fastsettelse av spesialiteter og regler for spesialistutdanning mv.
+
+Departementet fastsetter hvilke avgrensede deler av medisinske og odontologiske fagområder det kan gis spesialistgodkjenning i.
+
+Departementet fastsetter nærmere regler om gjennomføringen av spesialistutdanning av leger og tannleger, og om krav til gjennomført utdanning ved godkjente utdanningsinstitusjoner for leger og andre vilkår som søker må oppfylle for å kunne godkjennes som spesialist innen den enkelte spesialitet.
+
+Departementet kan bestemme at søkere må gjennomgå prøve for å kunne godkjennes som spesialist.
+
+*Endret ved [forskrifter 20 des 2001 nr. 1580](https://lovdata.no/forskrift/2001-12-20-1580) (i kraft 1 jan 2002), [20 juni 2013 nr. 680](https://lovdata.no/forskrift/2013-06-20-680) (i kraft 1 juli 2013).*
+
+## § 4. Godkjenning av utdanningsinstitusjoner som skal utdanne leger
+
+Institusjoner som skal utdanne leger som spesialister skal godkjennes av Helsedirektoratet.
+
+Helsedirektoratets vedtak kan påklages til Nasjonalt klageorgan for helsetjenesten.
+
+*Endret ved [forskrifter 20 des 2001 nr. 1580](https://lovdata.no/forskrift/2001-12-20-1580) (i kraft 1 jan 2002), [1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119), [20 juni 2013 nr. 680](https://lovdata.no/forskrift/2013-06-20-680) (i kraft 1 juli 2013), [18 des 2015 nr. 1740](https://lovdata.no/forskrift/2015-12-18-1740) (i kraft 1 jan 2016).*
+
+## § 5. (Opphevet 1 juli 2013 ved [forskrift 20 juni 2013 nr. 680](https://lovdata.no/forskrift/2013-06-20-680).)
+
+## § 6. (Opphevet 1 jan 2015 ved [forskrift 6 nov 2014 nr. 1446](https://lovdata.no/forskrift/2014-11-06-1446).)
+
+## § 7. Vilkår for spesialistgodkjenning av lege eller tannlege
+
+Enhver som har norsk autorisasjon som lege, kan få godkjenning som spesialist innen en avgrenset del av de medisinske fagområder dersom søkeren oppfyller de krav til gjennomført utdanning ved godkjente utdanningsinstitusjoner og andre vilkår som er fastsatt, jf. [§ 3](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) og [§ 4](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md). Tilsvarende gjelder for tannleger.
+
+Godkjenning som spesialist i odontologi gis etter regler for spesialistgodkjenning av tannleger fastsatt av departementet.
+
+*Endret ved [forskrifter 19 des 2008 nr. 1580](https://lovdata.no/forskrift/2008-12-19-1580), [1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 8. Eldre regler av betydning for turnusleger
+
+Inntil nye regler er vedtatt og trer i kraft skal følgende regler med senere endringer, gjelde så langt de passer:
+
+1. «Krav om kursdeltagelse, undervisning i spesialistutdannelsen» vedtatt 8. desember 1972.
+2. «Regler for gjennomføring av prøver i tilknytning til obligatoriske kurs» vedtatt 14. februar 1991.
+3. «Retningslinjer for vurdering av kurs i relasjon til legers videre- og etterutdanning» vedtatt 20. februar 1995.
+4. «Retningslinjer for godkjenning av psykoterapiveiledere i barne- og ungdomspsykiatri» vedtatt 23. februar 1988.
+5. «Retningslinjer for godkjenning av veiledere i psykoterapi i relasjon til spesialistreglene i psykiatri».
+6. «Retningslinjer for godkjenning av veileder i allmennmedisin/arbeidsmedisin/samfunnsmedisin».
+
+*Endret ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 9. Vilkår for tilsetting i stilling som er en del av spesialistutdanningen
+
+Autorisasjon som lege skal senest dokumenteres når en stilling som er en del av spesialistutdanningen i sykehus eller kommune tiltres. Ett av følgende vilkår skal også dokumenteres:
+
+a. godkjent turnustjeneste etter [§ 10](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) til [§ 18](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) eller etter [forskrift 20. desember 2001 nr. 1549](https://lovdata.no/forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning,
+b. godkjent alternativ veiledet tjeneste etter departementets retningslinjer i rundskriv [I-2008-1](https://lovdata.no/rundskriv/i-2008-1) som er påbegynt før 1. desember 2012,
+c. tidligere tilsetting i stilling som er en del av norsk spesialistutdanning i sykehus eller kommune.
+
+Kravet til dokumentasjon i andre ledd gjelder ikke den som
+
+a. er tildelt autorisasjon før 1. desember 2012, eller
+b. har autorisasjon på grunnlag av gjennomført grunnleggende legeutdanning i andre EØS-land.
+
+*Endret ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 10. Bestemmelser om turnustjenesten som er felles med overgangsordning
+
+[Forskrift 20. desember 2001 nr. 1549](https://lovdata.no/forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning følgende paragrafer gjelder for turnusstillinger etter [§ 10](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) til [§ 18](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md):
+
+a. [§ 1](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om formålet med turnustjenesten og krav til forsvarlig tilrettelegging og gjennomføring av turnustjenesten
+b. [§ 3](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) med definisjoner
+c. [§ 4](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om gjennomføring av og innholdet i turnustjenesten
+d. [§ 10](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om opprettelse og fordeling av turnusplasser
+e. [§ 11](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om pålegg om mottak og tilsetting av turnusleger
+f. [§ 13](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om turnusstedets plikter
+g. [§ 14](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om at turnuslegen er arbeidstaker og turnusstedet er arbeidsgiver
+h. [§ 14](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md)a om krav til kunnskaper i norsk språk
+i. [§ 15](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) tredje ledd om varslingsplikt ved uteblitt oppmøte
+j. [§ 16](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) første ledd om tiltak for å hjelpe turnuslegen til rette
+k. [§ 17](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om turnustilskudd til kommunene
+l. [§ 20](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om godkjenning av turnustjenesten
+m. § 21 om adgangen til å gi retningslinjer og gjøre unntak
+n. § 22 om klageadgang
+o. § 23 om forsøksordninger.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 11. Utlysing av turnusstillinger for leger
+
+Turnusstillinger som ikke skal tildeles etter [forskrift 20. desember 2001 nr. 1549](https://lovdata.no/forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning, skal lyses ut. Utlysningen skal skje på Helsedirektoratets turnusportal.
+
+Turnusstillingene skal lyses ut samlet to ganger årlig. Tidligere utlyste turnusstillinger som blir ledige (reststillinger), skal fortløpende lyses ut på Helsedirektoratets turnusportal.
+
+Søknadsfristen for turnusstillinger skal formidles i god tid og skal ikke være kortere enn to uker.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119), endret ved [forskrift 4 feb 2015 nr. 108](https://lovdata.no/forskrift/2015-02-04-108).*
+
+## § 12. Kobling av stilling i sykehus og kommune
+
+Kommunen og helseforetak eller sykehus skal samarbeide om å lyse ut turnuslegestillinger koblet, slik at den som tilsettes får anledning til å gjennomføre turnustjeneste. Stillingene kan kobles på en av følgende måter:
+
+a. Søkeren tilsettes samtidig i en stilling ved et sykehus, eller et helseforetak, og i en stilling i en bestemt kommune.
+b. Søkeren tilsettes først i en stilling ved et sykehus eller et helseforetak. Søkeren gis deretter rett til ansettelse i én av de kommunene som sykehuset eller helseforetaket samarbeider med. Søkeren skal tilsettes i kommunen i rimelig tid før tjenesten der er planlagt å begynne.
+
+Tilsettingen i sykehuset og tilsettingen i kommunen er to ulike arbeidsforhold.
+
+Helsedirektoratet kan pålegge helseforetak, sykehus og kommuner å lyse ut turnuslegestillinger koblet.
+
+Dersom det kan bidra til en mer effektiv forvaltning av ledige turnusstillinger for leger, kan Helsedirektoratet gjøre unntak fra kravene om kobling.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 13. Tilsetting av leger i turnusstilling
+
+Søkerne tilsettes i turnusstilling på bakgrunn av søknader via Helsedirektoratets turnusportal, jf. [§ 11](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) og [§ 14](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md).
+
+Ved samlet utlysning etter [§ 11](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) fastsetter Helsedirektoratet når søkerne tidligst kan gis et tilbud om en stilling.
+
+Søkernes frist for å akseptere et tilbud etter første tilbudsrunde, skal ikke være kortere enn tre virkedager.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 14. Vilkår for tilsetting i turnusstilling
+
+Ved tilsetting i turnusstilling skal søkeren senest når tjenesten tiltres, dokumentere
+
+a. autorisasjon som lege eller turnuslegelisens
+b. tilstrekkelige norskkunnskaper for en forsvarlig yrkesutøvelse.
+
+En lege kan ikke tilsettes i en turnusstilling hvis hun eller han
+
+a. allerede har fått godkjent praktisk tjeneste i turnusstilling etter [§ 11](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) til [§ 19](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) eller etter [forskrift 20. desember 2001 nr. 1549](https://lovdata.no/forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning [§ 20](https://lovdata.no/forskrift/2001-12-20-1549/§20) eller
+b. har akseptert et tilbud om en turnusstilling som har vært lyst ut tidligere i samme halvår.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 15. Rett til å fullføre turnustjenesten i sykehus etter permisjon innvilget av sykehus eller helseforetak
+
+En lege som får permisjon på grunn av svangerskap, foreldreperiode eller langvarig sykdom fra turnusstilling i et sykehus eller helseforetak, skal tilbys å fullføre turnusperioden i en ledig turnusstilling i samme sykehus eller helseforetak.
+
+Turnusstillingen skal gi turnuslegen en samlet turnustid i sykehus på minst ett år.
+
+Den turnusstillingen som tilbys turnuslegen som kommer tilbake fra permisjon skal ikke lyses ut.
+
+Sykehus, helseforetak og kommune skal samarbeide med turnuslegen om å legge til rette for at ventetiden mellom permisjonens utløp og tiltredelse i ny stilling blir så kort som mulig.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 16. Rett til å fullføre turnustjenesten i kommune etter permisjon innvilget av kommune
+
+En lege som får permisjon på grunn av svangerskap, foreldreperiode eller langvarig sykdom fra turnusstilling i en kommune, skal tilbys å fullføre turnusperioden i en ledig turnusstilling i samme kommune.
+
+Turnusstillingen skal gi turnuslegen en samlet turnustid i kommune på minst seks måneder.
+
+[§ 15](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) tredje og fjerde ledd gjelder tilsvarende.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 17. Rett til å fullføre turnustjenesten i kommune etter permisjon innvilget av sykehus eller helseforetak
+
+En turnuslege som er tilsatt av en kommune, jf. [§ 12](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) første ledd bokstav a, og som får innvilget permisjon på grunn av svangerskap, foreldreperiode eller sykdom fra turnusstilling i sykehus, skal tilbys turnusstilling i kommunen når en turnusstilling blir ledig.
+
+En turnuslege med rett til å bli tilsatt i en kommune som sykehuset eller helseforetaket samarbeider med, jf. [§ 12](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) første ledd bokstav b, og som får innvilget permisjon på grunn av svangerskap, foreldreperiode eller sykdom fra turnusstilling i sykehus, skal tilbys ledig turnusstilling i en av kommunene som samarbeider med helseforetaket om turnusstillinger. Kommunene skal avtale hvem av dem som tilbyr turnuslegen en ledig turnusstilling.
+
+Helsedirektoratet kan i samråd med statsforvalteren pålegge en av kommunene å tilsette en turnuslege som skal tilbys ledig turnusstilling.
+
+[§ 15](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) tredje og fjerde ledd gjelder tilsvarende.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119), endret ved forskrift [17 sep 2021 nr. 2821](https://lovdata.no/forskrift/2021-09-17-2821).*
+
+## § 18. Forlengelse av en turnusstilling
+
+I andre tilfeller enn de som følger av [§ 15](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) til [§ 17](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md), kan den tidsbegrensede turnusstillingen forlenges for turnusleger som allerede er ansatt i en turnusstilling, dersom forlengelsen ikke kommer til erstatning for en ny turnusstilling samme sted. Forlengelsen skal ikke utlyses.
+
+Arbeidsgiver tildeles ikke turnustilskudd i den perioden turnustjenesten forlenges etter første ledd.
+
+I grunnlaget for et vedtak om godkjenning av turnustjeneste skal Helsedirektoratet vurdere turnustjenesten i en forlenget stilling etter første ledd som likeverdig med en ordinær turnustjeneste.
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119).*
+
+## § 19. Overgangsregler
+
+Fra 1. mars 2017 gjelder forskriften bare i følgende tilfeller:
+
+a. For leger som før 1. mars 2017 har fått tilbud om turnusstilling, gjelder [§ 8](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) og [§ 10](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) til [§ 18](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md).
+b. For leger som før 1. mars 2019 har fått tilbud om stilling som lege i spesialisering, gjelder [§ 1](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md), [§ 3](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md), [§ 4](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md), [§ 9](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) og regler gitt i medhold av [§ 3](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md).
+c. For leger som omfattes av overgangsordningen i [spesialistforskriften § 32](for-2016-12-08-1482-spesialistforskriften.md) andre ledd bokstav d, gjelder [§ 1](for-2016-12-08-1482-spesialistforskriften.md), [§ 3](for-2016-12-08-1482-spesialistforskriften.md), [§ 4](for-2016-12-08-1482-spesialistforskriften.md), [§ 7](for-2016-12-08-1482-spesialistforskriften.md), [§ 9](for-2016-12-08-1482-spesialistforskriften.md) og regler gitt i medhold av [§ 3](for-2016-12-08-1482-spesialistforskriften.md).
+
+*Tilføyd ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119), endret ved [forskrifter 6 nov 2014 nr. 1446](https://lovdata.no/forskrift/2014-11-06-1446) (i kraft 1 jan 2015), [8 des 2016 nr. 1482](for-2016-12-08-1482-spesialistforskriften.md) (i kraft 1 mars 2017), [16 feb 2017 nr. 193](https://lovdata.no/forskrift/2017-02-16-193) (i kraft 1 mars 2017).*
+
+## § 20. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2001.
+
+*Endret ved [forskrift 1 des 2012 nr. 1119](https://lovdata.no/forskrift/2012-12-01-1119) (tidligere § 10).*
+
+## Merknader til forskrift 21. desember 2000 nr. 1384 om spesialistgodkjenning av helsepersonell og turnusstillinger for leger
+
+Merknadene er en veiledning for å utdype innholdet i forskriftens bestemmelser [§ 2](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) og [§ 9](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md). Merknadene er i seg selv ikke rettslig bindende. Forskriften og veiledningen bør leses i sammenheng for å få en best mulig forståelse av forskriftens bestemmelser.
+
+*Til [§ 9](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md)*
+
+Bestemmelsen gir minimumskrav til hvilken dokumentasjon den som tilsettes i stillingen skal fremlegge. Krav til dokumentasjon av språkkunnskaper følger av [§ 14](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md). Arbeidsgiver vurderer på vanlig måte hvem av søkerne som er best skikket til stillingen. I den forbindelse må arbeidsgiveren selv vurdere hvilke egenskaper som er nødvendige for å ivareta hensynet til en forsvarlig utøvelse av de oppgavene som tilligger stillingen.
+
+Med «stilling som er en del av spesialistutdanningen i sykehus eller kommune» i *første ledd* menes stillinger for lege i spesialisering (LIS-lege) i sykehus og stilling i kommune som er en del av spesialiseringen innen allmennmedisin, arbeidsmedisin og samfunnsmedisin.
+
+*Første ledd bokstav c* innebærer at lege som på lovlig vis allerede har fått stilling som er en del av spesialistutdanningen kun skal dokumentere autorisasjon ved tilsetting i nye stillinger av samme karakter. Dette skal sikre at de som har påbegynt spesialiseringen ikke møtes med et nytt krav om norsk turnustjeneste.
+
+*Til [§ 19](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md):*
+
+Generelle bestemmelser for spesialistutdanning av leger (vedtatt av Helse- og omsorgsdepartementet 2. juli 2009 med hjemmel i [forskrift 21. desember 2000 nr. 1384](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om spesialistgodkjenning av helsepersonell og turnusstillinger for leger [§ 3](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) andre ledd), oppheves med virkning fra 1. mars 2017. Dette gjelder likevel ikke tilfeller som omfattes av forskriften [§ 19](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) bokstav b og c.
+
+*Endret ved [forskrift 16 feb 2017 nr. 193](https://lovdata.no/forskrift/2017-02-16-193) (i kraft 1 mars 2017).*

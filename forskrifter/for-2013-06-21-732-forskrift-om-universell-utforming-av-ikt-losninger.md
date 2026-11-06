@@ -1,0 +1,215 @@
+# Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger
+
+- **Korttittel:** Forskrift om universell utforming av IKT-løsninger
+- **Datokode:** FOR-2013-06-21-732
+- **DokumentID:** SF/forskrift/2013-06-21-732
+- **Departement:** Digitaliserings- og forvaltningsdepartementet
+- **Etat:** Avdeling for digitaliseringspolitikk
+- **Hjemmel:** lov 16.06.2017 nr. 51/§2; lov 16.06.2017 nr. 51/§18; lov 16.06.2017 nr. 51/§19a; lov 16.06.2017 nr. 51/§36; lov 16.06.2017 nr. 51/§36a; lov 16.06.2017 nr. 51/§41; forskrift 21.06.2013 nr. 717; forskrift 17.09.2021 nr. 2780; forskrift 12.11.2021 nr. 3207; forskrift 20.12.2023 nr. 2166
+- **Publisert i:** I 2013 hefte 9
+- **Kunngjort:** 2013-06-25 15:30
+- **I kraft fra:** 2013-07-01
+- **Siste endring i kraft:** 2023-02-01
+- **Sist endret ved:** forskrift 17.01.2023 nr. 87 fra 2023-02-01
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2026-06-05 (departementstilhørighet)
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 21. juni 2013 med hjemmel i lov 20. juni 2008 nr. 42 om forbud mot diskriminering på grunn av nedsatt funksjonsevne (diskriminerings- og tilgjengelighetsloven) § 2, § 11 og § 16. Fremmet av Fornyings-, administrasjons- og kirkedepartementet. Tilføyd hjemmel: Lov 16. juni 2017 nr. 51 om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) § 2, § 18 fjerde ledd, § 19a, § 36, § 36a og § 41, delegeringsvedtak 21. juni 2013 nr. 717, delegeringsvedtak 17. september 2021 nr. 2780, delegeringsvedtak 12. november 2021 nr. 3207 og vedtak 20 des 2023 nr. 2166. EØS-henvisninger: EØS-avtalen vedlegg XI nr. 5oc (direktiv (EU) 2016/2102). Endret ved forskrifter 3 juli 2013 nr. 951 (forskriften gjengitt i sin helhet), 13 sep 2017 nr. 1417, 16 okt 2020 nr. 2063, 21 des 2021 nr. 3939 (i kraft 1 feb 2022), 17 jan 2023 nr. 87 (i kraft 1 feb 2023). Rettelser: 22.05.2017 (§ 10), 10.10.2019 (tilbakeføring av forskriften til Kommunal- og moderniseringsdepartementet), 05.06.2026 (departementstilhørighet).
+- **Kilde:** <https://lovdata.no/forskrift/2013-06-21-732>
+
+## § 1. Forskriftens formål
+
+Forskriftens formål er å sikre universell utforming av informasjons- og kommunikasjonsteknologiske løsninger, for å fremme likeverdig samfunnsdeltakelse, bygge ned og hindre nye digitale barrierer og hindre diskriminering, uten at det medfører en uforholdsmessig stor byrde for virksomheten.
+
+*Endret ved forskrift [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 2. Virkeområde
+
+Forskriften gjelder for IKT-løsninger som underbygger virksomhetens alminnelige funksjoner, og som er hovedløsninger rettet mot eller stilt til rådighet for brukere.
+
+Forskriften er begrenset til å gjelde nettløsninger, herunder digitale læremidler, og automater.
+
+Forskriften gjelder på alle samfunnsområder, med unntak av familieliv og andre forhold av personlig karakter.
+
+Forskriften gjelder ikke for IKT-løsninger i virksomheter som sysselsetter arbeidstaker, og som brukes ved utøvelse av arbeid, med mindre annet fremgår av forskriften.
+
+Forskriften gjelder ikke for IKT-løsninger som faller inn under [kringkastingslovens](../lover/lov-1992-12-04-127-kringkastingsloven.md) virkeområde.
+
+Forskriften gjelder ikke der utformingen av IKT-løsninger reguleres av annen lovgivning.
+
+Forskriften gjelder ikke på Svalbard, på installasjoner og fartøy i virksomhet på norsk kontinentalsokkel, i økonomisk sone eller på norske skip og luftfartøyer utenfor norsk territorium. Kravene i [§ 4d](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md) gjelder ikke på norske skip og luftfartøyer uansett hvor de befinner seg.
+
+*Endret ved [forskrifter 13 sep 2017 nr. 1417](https://lovdata.no/forskrift/2017-09-13-1417) (i kraft 1 jan 2018), [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 3. Definisjoner
+
+I denne forskriften menes med:
+
+a. *Universell utforming:* Utforming eller tilrettelegging av hovedløsningen i informasjons- og kommunikasjonsteknologi slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig.
+b. *Informasjons- og kommunikasjonsteknologi (IKT):* Teknologi og systemer av teknologi som anvendes til å uttrykke, skape, omdanne, utveksle, lagre, mangfoldiggjøre og publisere informasjon, eller som på annen måte gjør informasjon anvendbar.
+c. *Automat:* Maskin eller annen innretning som brukeren opererer alene for å kjøpe en vare eller få utført en tjeneste.
+d. *Nettløsning:* Formidling av informasjon eller tjeneste som er tilgjengelig i nettleser eller tilsvarende, tilgjengelig via en URI (Uniform Resource Identifier) og som benytter http-protokollen (Hypertext Transfer Protocol) eller tilsvarende for å tilgjengeliggjøre innhold.
+e. *Digitale læremidler:* Nettbaserte redskaper som kan brukes i det pedagogiske arbeidet, og som er utviklet med hensikt å støtte læringsaktiviteter.
+f. *Mobilapplikasjon:* Brukerprogramvare som utformes og utvikles for bruk på mobile enheter rettet mot allmennheten, som smarttelefoner og nettbrett. Dette omfatter ikke programvare som styrer enhetene (operativsystem) eller maskinvare.
+g. *Hovedløsning:* IKT-løsninger som er en integrert del av den måten virksomheten informerer og tilbyr sine tjenester til allmennheten på og som er knyttet til virksomhetens alminnelige funksjon. Hovedløsning i utdannings- og opplæringssektoren: nettløsninger som er en integrert del av virksomhetens undervisning eller informasjonsformidling, og som virksomheten har innflytelse over.
+h. *Tidsbaserte media:* Omfatter media av følgende typer: kun lyd, kun video, lyd-video, lyd og/eller video kombinert med interaksjon.
+i. *Gjenstander fra kulturhistoriske samlinger:* Privat eller offentlig eide gjenstander som presenterer en historisk, kunstnerisk, arkeologisk, estetisk, vitenskapelig eller teknisk interesse, og som er en del av samlinger bevart av kulturinstitusjoner som biblioteker, arkiver eller museer.
+j. *Intranett og ekstranett:* Nettsteder som er tilgjengelig på et lokalt nettverk eller på det åpne internett til bruk for virksomhetens ansatte (intranett), eller som gir utvalgte tredjeparter adgang til avgrenset innhold (ekstranett).
+k. *Måledata:* Resultater fra kontrollaktiviteten som utføres for å kontrollere at kravene i [§ 4b](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md) overholdes. Måledata omfatter både kvantitative opplysninger om nettsteder og mobilapplikasjoner som er testet (antall nettsteder og mobilapplikasjoner eventuelt med antall av besøkende eller brukere, mv.) og kvantitative opplysninger om status for universell utforming.
+l. *Ny IKT-løsning:* Total utskifting av en teknisk løsning, versjonsoppgradering, utskifting eller større endring av kildekode og større endring av utseende eller utforming. Gradvise endringer over tid som til sammen utgjør en endring som nevnt i denne bokstav, kan også regnes som ny IKT-løsning.
+m. *Brukergrensesnitt:* Møtepunktet mellom menneske og maskin, og den delen av maskinen brukeren kommer i direkte kontakt med, herunder fysisk maskinvare og logiske programvarekomponenter.
+n. *Standard:* Normativt dokument, herunder spesifikasjoner, retningslinjer og veiledninger. Med standard menes også standard vedtatt etter forordning [(EU) nr. 1025/2012](https://lovdata.no/eu/32012r1025) [artikkel 2](https://lovdata.no/eu/32012r1025/a2) (1) bokstav b og c.
+
+*Endret ved [forskrifter 13 sep 2017 nr. 1417](https://lovdata.no/forskrift/2017-09-13-1417) (i kraft 1 jan 2018), [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 4. Krav til utforming av IKT-løsninger
+
+Private virksomheters nettløsninger skal minst utformes i samsvar med standard Web Content Accessibility Guidelines 2.0 (WCAG 2.0)/NS/ISO/IEC 40500:2012, på nivå A og AA med unntak for suksesskriteriene 1.2.3, 1.2.4 og 1.2.5, eller tilsvarende denne standard.
+
+*Endret ved forskrift [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 4a. Krav til universell utforming av nettløsninger tilhørende allmennkringkastere og datterforetak
+
+Nettløsninger som tilhører allmennkringkastere og deres datterforetak, eller andre organisasjoner og deres datterforetak som utfører allmennkringkastingsoppgave, skal minst utformes i samsvar med standard Web Content Accessibility Guidelines 2.0 (WCAG 2.0)/NS/ISO/IEC 40500:2012, på nivå A og AA med unntak for suksesskriteriene 1.2.3, 1.2.4 og 1.2.5, eller tilsvarende denne standard.
+
+*Tilføyd ved forskrift [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 4b. Krav til universell utforming av nettløsninger i offentlige virksomheter
+
+Offentlige virksomheter skal sikre at nettløsninger er universelt utformet ved å gjøre de mulig å oppfatte, mulig å betjene, forståelige og robuste.
+
+Offentlige virksomheters nettløsninger som samsvarer med kravene i EN 301 549 V3.2.1 (2021-03), oppfyller plikten etter første ledd.
+
+Offentlige virksomheter har plikt til synstolkning av forhåndsinnspilte tidsbaserte medier publisert etter 1. februar 2024. Kravet gjelder ikke for skoler og barnehager, med unntak av innhold knyttet til viktige nettbaserte administrative funksjoner.
+
+Offentlige virksomheter har plikt til universell utforming av innhold på intranett og ekstranett som er publisert etter 1. februar 2023, eller som har gjennomgått en vesentlig revisjon etter [§ 3](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md) første ledd bokstav l.
+
+Offentlige virksomheter skal oppfylle forskriftens krav til tilgjengelighetserklæring og tilbakemeldingsfunksjon i [§ 4e](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md).
+
+*Tilføyd ved forskrift [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel), endret ved forskrift [17 jan 2023 nr. 87](https://lovdata.no/forskrift/2023-01-17-87) (i kraft 1 feb 2023, se endringsforskriften del II for overgangsregel).*
+
+## § 4c. Unntak fra krav til universell utforming av nettløsninger
+
+Kravene til universell utforming gjelder ikke for følgende innhold:
+
+a. dokumentformater publisert før 1. februar 2022. Slike dokumentformater er likevel omfattet dersom dokumentet er nødvendig for en aktiv administrativ prosess som ledd i de oppgaver virksomheten ivaretar.
+b. direktesendte tidsbaserte medier.
+c. nettbaserte kart og karttjenester, så lenge vesentlig informasjon finnes på en tilgjengelig digital måte, for kart som er ment for navigasjonsformål.
+d. tredjepartsinnhold utenfor virksomhetens kontroll.
+e. reproduksjoner av kulturhistoriske gjenstander som ikke kan gjøres universelt utformet enten fordi:
+   i. etterlevelse av kravene er uforenlig med gjenstandens bevaring eller autentisitet, eller
+   ii. på grunn av manglende kostnadseffektive automatiserte løsninger, som kan omdanne manuskripter eller annet innhold.
+f. innhold på nettsteder eller i mobilapplikasjoner som kvalifiserer som arkiver, det vil si at de bare har innhold som verken er nødvendig for aktive administrative prosesser eller er oppdatert eller redigert etter 1. februar 2022.
+
+*Tilføyd ved forskrift [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel), endret ved forskrift [17 jan 2023 nr. 87](https://lovdata.no/forskrift/2023-01-17-87) (i kraft 1 feb 2023, se endringsforskriften del II for overgangsregel).*
+
+## § 4d. Krav til universell utforming av automater i offentlige og private virksomheter
+
+Automater skal minst utformes i samsvar med følgende standarder, eller tilsvarende disse standarder:
+
+a. CEN/TS 15291:2006 – Identification Card Systems – Guidance on design for accessible card-activated devices.
+b. NS-EN 1332-1:2009 – Identification Card Systems – Human-machine interface – Part 1: Design principles for the user interface.
+c. NS-EN 1332-2:1998 – Identification Card Systems – Man-machine interface – Part 2: Dimensions and location of a tactile identifier for ID-1 cards.
+d. NS-EN 1332-3:2008 – Identification Card Systems – Man-machine interface – Part 3: Keypads.
+e. NS-EN 1332-4:2007 – Identification Card Systems: – Man-machine interface – Part 4: Coding of user requirements for people with special needs.
+f. NS-EN 1332-5:2006 – Identification Card Systems – Man-machine interface – Part 5: Raised tactile symbols for differentiation of application on ID-1 cards.
+g. NS-EN ISO 9241-20:2009 – Ergonomics of human-system interaction – Part 20: Accessibility guidelines for information/communication technology (ICT) equipment and services.
+h. ISO 20282-1:2006 – Ease of operation of everyday products – Part 1: Design requirements for context of use and user characteristics.
+i. ISO/TS 20282-2:2006 – Ease of operation of everyday products – Part 2: Test method for walk-up-and-use products.
+j. ISO/TR 22411:2008 – Ergonomics data and guidelines for the application of ISO/IEC Guide 71 to products and services to address the needs of older persons and persons with disabilities.
+
+*Tilføyd ved forskrift [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 4e. Tilgjengelighetserklæring og tilbakemeldingsfunksjon
+
+Offentlige virksomheter skal avgi en tilgjengelighetserklæring om etterlevelse av kravene i [§ 4b](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md). Offentlige virksomheter skal bruke Digitaliseringsdirektoratets sentrale løsning for tilgjengelighetserklæring.
+
+Tilgjengelighetserklæringen skal være detaljert, uttømmende og tydelig. Tilgjengelighetserklæringen skal oppdateres regelmessig, og minimum årlig.
+
+Tilgjengelighetserklæringen skal inneholde:
+
+a. En forklaring av innhold som ikke er universelt utformet, og en begrunnelse for hvorfor innholdet ikke kan følge kravene, samt en beskrivelse av universelt utformede alternativer, der det finnes.
+b. En beskrivelse av, og lenke til en tilbakemeldingsfunksjon, hvor enhver kan varsle virksomheten om mangelfull etterlevelse av kravene i forskriftens [§ 4b](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md).
+c. Lenke til håndhevingsprosedyren og informasjon om klagerett.
+
+For nettsteder skal tilgjengelighetserklæringen publiseres på virksomhetens nettsted.
+
+For mobilapplikasjoner skal tilgjengelighetserklæringen enten publiseres på virksomhetens nettsted, eller sammen med nedlastingsinformasjon for mobilapplikasjonen.
+
+Enhver kan også be om opplysninger om innhold som er unntatt etter [§ 4b](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md) tredje ledd og [§ 4c](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md), eller som er unntatt etter en forholdsmessighetsvurdering i henhold til [likestillings- og diskrimineringsloven § 18](../lover/lov-2017-06-16-51-likestillings-og-diskrimineringsloven.md) tredje ledd. Virksomhetene skal svare på henvendelser fra brukerne innen rimelig tid.
+
+*Tilføyd ved forskrift [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 5. Tilsyn og krav om dokumentasjon
+
+Digitaliseringsdirektoratet fører tilsyn etter forskriften.
+
+Virksomhet som har ansvar etter forskriften, skal kunne dokumentere at kravene er overholdt. Ansvarsforhold i virksomheten og hvilke standarder som er benyttet for universell utforming av den aktuelle IKT-løsningen skal dokumenteres.
+
+Digitaliseringsdirektoratet kan kreve de opplysninger og foreta de undersøkelser som er nødvendige for å gjennomføre sine oppgaver, herunder kreve tilgang til IKT-løsninger som reguleres av forskriften.
+
+*Endret ved [forskrifter 16 okt 2020 nr. 2063](https://lovdata.no/forskrift/2020-10-16-2063), [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 6. Pålegg om iverksetting av tiltak
+
+Digitaliseringsdirektoratet kan pålegge virksomheten å iverksette nødvendige tiltak for å sikre oppfyllelse av forskriftens krav om universell utforming av IKT-løsninger. Digitaliseringsdirektoratet kan sette tidsfrist for oppfyllelse av pålegget.
+
+*Endret ved [forskrift 16 okt 2020 nr. 2063](https://lovdata.no/forskrift/2020-10-16-2063).*
+
+## § 7. Tvangsmulkt
+
+Digitaliseringsdirektoratet kan treffe vedtak om tvangsmulkt etter [lov 16. juni 2017 nr. 51](../lover/lov-2017-06-16-51-likestillings-og-diskrimineringsloven.md) om likestilling og forbud mot diskriminering [§ 36](../lover/lov-2017-06-16-51-likestillings-og-diskrimineringsloven.md). Tvangsmulkt ilegges først når frist for oppfyllelse av pålegg om iverksetting av tiltak er overskredet.
+
+Tvangsmulkt fastsettes som løpende dagmulkt.
+
+Tvangsmulkten begynner å løpe dersom ny frist for å etterkomme pålegget oversittes, og skal normalt løpe fram til pålegget er oppfylt. Ilagt mulkt kan settes ned eller frafalles når særlige grunner taler for det.
+
+Tvangsmulkt skal kun fastsettes der det anses nødvendig for at pålegget skal bli oppfylt innen rimelig tid og være av en slik størrelse at det stimuleres til oppfyllelse av pålegget.
+
+*Endret ved [forskrifter 13 sep 2017 nr. 1417](https://lovdata.no/forskrift/2017-09-13-1417) (i kraft 1 jan 2018), [16 okt 2020 nr. 2063](https://lovdata.no/forskrift/2020-10-16-2063).*
+
+## § 8. Klage
+
+Vedtak etter denne forskriften truffet av Digitaliseringsdirektoratet kan påklages til Kommunal- og moderniseringsdepartementet. Klagen sendes Digitaliseringsdirektoratet.
+
+*Endret ved [forskrifter 13 sep 2017 nr. 1417](https://lovdata.no/forskrift/2017-09-13-1417) (i kraft 1 jan 2018), [16 okt 2020 nr. 2063](https://lovdata.no/forskrift/2020-10-16-2063).*
+
+## § 9. Søksmål
+
+Søksmål om gyldigheten av vedtak truffet av Kommunal- og moderniseringsdepartementet skal reises innen tre måneder etter at underretning om vedtaket er kommet frem.
+
+Søksmål kan ikke bringes inn for domstolene uten at klageadgangen er utnyttet og klagen er endelig avgjort.
+
+Søksmål skal likevel i alle tilfelle kunne reises når det er gått 6 måneder fra klage første gang ble framsatt, og det ikke skyldes forsømmelse fra klagerens side at klageinstansens avgjørelse ikke foreligger.
+
+*Endret ved [forskrift 13 sep 2017 nr. 1417](https://lovdata.no/forskrift/2017-09-13-1417) (i kraft 1 jan 2018).*
+
+## § 10. Dispensasjon
+
+Digitaliseringsdirektoratet kan etter søknad gi dispensasjon fra krav og frister etter [§ 4](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md), [§ 4a](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md) og [§ 4d](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md), dersom det foreligger en uforholdsmessig stor byrde. En uforholdsmessig stor byrde kan være hensynet til personvern, økonomi, teknologiske muligheter eller der utviklingsforløpet for en anskaffelse ikke lar seg tilpasse tidsfristene.
+
+*Endret ved [forskrifter 13 sep 2017 nr. 1417](https://lovdata.no/forskrift/2017-09-13-1417) (i kraft 1 jan 2018), [16 okt 2020 nr. 2063](https://lovdata.no/forskrift/2020-10-16-2063), [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 10a. Tilsynsorganets plikt til kontroll og rapportering
+
+Digitaliseringsdirektoratet skal årlig kontrollere at offentlige organers nettsteder og mobilapplikasjoner overholder kravene til universell utforming etter forskriftens [§ 4b](for-2013-06-21-732-forskrift-om-universell-utforming-av-ikt-losninger.md).
+
+Kontrollene skal utføres i samsvar med metodikken fastsatt i [(EU) 2018/1524](https://lovdata.no/eu/32018d1524) gjennomføringsbeslutning om kontrollmetode og rapportering. Metodikken omfatter:
+
+a. perioden for målingen og utvalget av nettsteder og mobilapplikasjoner som inngår i målingen,
+b. på nettstedsnivå: utvalget av enkeltsider og innholdet på disse sidene,
+c. på mobilapplikasjonsnivå: innholdet som skal testes, herunder versjon, tidspunkt for lansering og oppdateringer,
+d. en beskrivelse av brudd og samsvar med kravene til universell utforming med henvisning til relevante deler av gjeldende standard,
+e. dersom det avdekkes brudd med kravene skal offentlige organer få data og informasjon om etterlevelsen av kravene, i et format som setter de i stand til å rette opp bruddene,
+f. hensiktsmessige ordninger, herunder om nødvendig veiledning og eksempler om automatisk testing, manuell testing og brukertesting, som lar seg gjøre innenfor perioden for måling og rapportering.
+
+Det skal rapporteres til ESA hvert tredje år.
+
+*Tilføyd ved forskrift [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*
+
+## § 11. Ikrafttredelse og overgangsregler
+
+Forskriften trer i kraft 1. juli 2013.
+
+Virksomheter som har plikter i henhold til denne forskriften, skal sørge for at nye IKT-løsninger er universelt utformet senest 12 måneder etter at denne forskriften er trådt i kraft. Virksomheter i opplærings- og utdanningssektoren har plikt til å sørge for at nye IKT-løsninger er universelt utformet senest 12 måneder etter 1. januar 2018. Eksisterende IKT-løsninger skal være universelt utformet innen 1. januar 2021.
+
+*Endret ved [forskrifter 13 sep 2017 nr. 1417](https://lovdata.no/forskrift/2017-09-13-1417) (i kraft 1 jan 2018), [21 des 2021 nr. 3939](https://lovdata.no/forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).*

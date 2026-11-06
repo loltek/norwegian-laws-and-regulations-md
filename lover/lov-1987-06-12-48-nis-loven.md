@@ -1,0 +1,225 @@
+# Lov om norsk internasjonalt skipsregister [NIS-loven]
+
+- **Korttittel:** NIS-loven – NISl
+- **Datokode:** LOV-1987-06-12-48
+- **DokumentID:** NL/lov/1987-06-12-48
+- **Departement:** Nærings- og fiskeridepartementet
+- **I kraft fra:** 1987-07-01
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** lov 10.04.2026 nr. 14 fra 2026-07-01
+- **Rettsområde:** Fast eiendoms rettsforhold > Tinglysing. Registrering; Forvaltnings- og kommunalrett > Statistikk. Registrering; Transport og kommunikasjoner > Skipsfart
+- **Siste rettelse:** 2021-08-16 (faglige fotnoter fjernet, UU-tilpasset)
+- **Kilde:** <https://lovdata.no/lov/1987-06-12-48>
+
+## Kap. I. Alminnelige bestemmelser.
+
+### § 1. Vilkår for registrering.
+
+På begjæring kan maskindrevne passasjerskip, lasteskip og luftputefartøy samt boreplattformer og andre flyttbare innretninger, registreres i norsk internasjonalt skipsregister når de ikke er innført i et annet lands register, og:
+
+1. eieren tilfredsstiller nasjonalitetsvilkårene i [sjøloven § 1](lov-1994-06-24-39-sjoloven.md); eller
+2. eieren, dersom denne ikke tilfredsstiller nasjonalitetsvilkårene i [sjøloven § 1](lov-1994-06-24-39-sjoloven.md),
+   a. er aksjeselskap, allmennaksjeselskap eller kommandittselskap med hovedkontor i Norge; eller
+   b. er partrederi, med bestyrende reder som tilfredsstiller bestemmelsene om bestyrende reder i sjøloven kapittel 5.
+3. Eieren, dersom denne ikke tilfredsstiller vilkårene i pkt 1 eller 2, har oppnevnt en representant som har fullmakt til å ta imot søksmål på vegne av eieren. Representanten må fylle de nasjonalitetskrav som stilles til bestyrende reder i [sjøloven § 103](lov-1994-06-24-39-sjoloven.md).
+
+Driften av skip som er registrert i medhold av pkt. 2 eller 3 ovenfor, skal forestås av norsk rederi med hovedkontor i Norge.
+
+Kongen kan ved forskrift gi adgang for registrering av andre fartøyer og innretninger.
+
+Et skip som anses som norsk etter [§ 1](lov-1987-06-12-48-nis-loven.md) første ledd, anses likevel ikke som norsk så lenge det i henhold til [§ 16](lov-1987-06-12-48-nis-loven.md) er bareboatregistrert i en annen stat.
+
+Et skip som er innført i et annet lands skipsregister, anses likevel som norsk hvis det er bareboatregistrert i norsk skipsregister i henhold til [§ 14](lov-1987-06-12-48-nis-loven.md).
+
+*Endret ved [lover 24 juni 1994 nr. 39](lov-1994-06-24-39-sjoloven.md), [8 des 1995 nr. 65](https://lovdata.no/lov/1995-12-08-65), [13 juni 1997 nr. 44](lov-1997-06-13-44-aksjeloven.md) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](https://lovdata.no/forskrift/1998-07-17-615)), [17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+### § 2. Registreringsmyndighet. Kjenningssignal.
+
+Norsk internasjonalt skipsregister føres av den tjenestemann Kongen bestemmer.
+
+Skip som registreres i norsk internasjonalt skipsregister skal tildeles kjenningssignal av Skipsregistrene som skiller seg tydelig fra kjenningssignal som tildeles andre norske skip.
+
+*Endret ved [lover 15 mai 1992 nr. 46](https://lovdata.no/lov/1992-05-15-46), [16 feb 2007 nr. 9](lov-2007-02-16-9-skipssikkerhetsloven.md) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](https://lovdata.no/forskrift/2007-02-16-170)).*
+
+### § 3. Anvendelse av annen norsk rett enn denne lov.
+
+Norsk rett gjelder for ethvert skip i norsk internasjonalt skipsregister med mindre annet er uttrykkelig bestemt i eller i medhold av lov.
+
+Kongen kan gjøre unntak fra sjøloven for skip i norsk internasjonalt skipsregister.
+
+*Endret ved [lov 24 juni 1994 nr. 39](lov-1994-06-24-39-sjoloven.md).*
+
+### § 4. Begrensning av fartsområde.
+
+Skip registrert i norsk internasjonalt skipsregister tillates ikke å føre last eller passasjerer mellom norske havner eller å gå i fast rute med passasjerer mellom norsk og utenlandsk havn. Som norsk havn anses i denne lov også innretning for olje- og gassvirksomhet på norsk kontinentalsokkel.
+
+Kongen kan ved forskrift fastsette annet fartsområde for skip registrert i norsk internasjonalt skipsregister enn det som er angitt i første ledd.
+
+For forsyningsskip, hjelpefartøyer, boreplattformer og andre flyttbare innretninger registrert i norsk internasjonalt skipsregister kan Kongen ved forskrift fastsette fartsområdet.
+
+Forbudet i første ledd gjelder ikke for skip i Norsk internasjonalt skipsregister som er bareboatregistrert i en annen stat etter [§ 16](lov-1987-06-12-48-nis-loven.md).
+
+*Endret ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+### § 5. Gebyrer.
+
+For registrering eller anmerkning i norsk internasjonalt skipsregister betales gebyr som fastsatt av Kongen. Det samme gjelder for pantattest som gjelder norsk internasjonalt skipsregister.
+
+Krav på registreringsgebyr og gebyr for utskrifter m.m. knyttet til skip registrert i Norsk Internasjonalt Skipsregister er tvangsgrunnlag for utlegg.
+
+*Endret ved [lover 15 mai 1992 nr. 46](https://lovdata.no/lov/1992-05-15-46), [26 mars 2010 nr. 10](https://lovdata.no/lov/2010-03-26-10), [11 jan 2013 nr. 3](https://lovdata.no/lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](https://lovdata.no/forskrift/2013-05-24-533)).*
+
+## Kap. II. Særbestemmelser for skip i norsk internasjonalt skipsregister.
+
+### § 6. Lønns- og arbeidsforhold.
+
+Arbeids- og lønnsvilkår og andre arbeidsforhold på skip i dette register fastsettes i tariffavtale, som uttrykkelig angir at den gjelder for slik tjeneste. Tariffavtale uten slik angivelse gjelder ikke for tjeneste på skip i dette register.
+
+Norske fagforeninger har rett til å delta i alle forhandlinger om inngåelse av tariffavtale. Tariffavtale kan inngås med norske og/eller utenlandske fagforeninger.
+
+I tariffavtale som nevnt i første ledd skal det uttrykkelig angis at avtalen er underlagt norsk rett og norske domstoler. Dog kan tariffavtalepartene fravike bestemmelsene i [lov 27. januar 2012 nr. 9 om arbeidstvister § 8](lov-2012-01-27-9-arbeidstvistloven.md) andre og tredje ledd og [kapittel 3](lov-2012-01-27-9-arbeidstvistloven.md) til [5](lov-2012-01-27-9-arbeidstvistloven.md), dersom tariffavtalen istedenfor å henvise til norske domstoler uttrykkelig bestemmer at tvister om avtalen skal være underlagt domstolene og prosessuelle regler, herunder regler om megling, i et annet land.
+
+I individuell ansettelsesavtale for tjeneste på skip i dette register skal det uttrykkelig angis at avtalen er underlagt norsk rett og norske domstoler, men at sak mot rederiet i anledning den ansattes tjeneste på skipet kan anlegges enten ved norsk domstol eller ved domstol i det land hvor den ansatte har sitt bosted. Avtale som nevnt i første punktum er ikke til hinder for at sak reises i et annet land når det følger av Luganokonvensjonen 2007 at det skal være adgang til det.
+
+*Endret ved [lover 8 jan 1993 nr. 21](https://lovdata.no/lov/1993-01-08-21), [28 juni 1996 nr. 40](https://lovdata.no/lov/1996-06-28-40), [19 juni 2009 nr. 79](https://lovdata.no/lov/2009-06-19-79) (ikr. 1 jan 2010 iflg. [res. 16 okt 2009 nr. 1279](https://lovdata.no/forskrift/2009-10-16-1279)), [20 des 2022 nr. 122](https://lovdata.no/lov/2022-12-20-122).*
+
+### § 7. Arbeidstid og hviletid
+
+[Lov om skipssikkerhet (skipssikkerhetsloven) §§ 23](lov-2007-02-16-9-skipssikkerhetsloven.md) og [24](lov-2007-02-16-9-skipssikkerhetsloven.md) gjelder for skip i dette register.
+
+Arbeidstid utover alminnelig arbeidstid skal godtgjøres som fastsatt i avtale mellom partene.
+
+*Endret ved [lover 26 juni 1998 nr. 51](https://lovdata.no/lov/1998-06-26-51), [28 juni 2002 nr. 60](https://lovdata.no/lov/2002-06-28-60), [16 feb 2007 nr. 9](lov-2007-02-16-9-skipssikkerhetsloven.md) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](https://lovdata.no/forskrift/2007-02-16-170)).*
+
+### § 8. Skipsarbeidsloven
+
+Bestemmelsene i [skipsarbeidsloven §§ 3-3](lov-2013-06-21-102-skipsarbeidsloven.md) til [3-8](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 4-2 tredje ledd](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 4-6 første ledd bokstav a](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5-2 første ledd annet punktum](lov-2013-06-21-102-skipsarbeidsloven.md) og [annet](lov-2013-06-21-102-skipsarbeidsloven.md) og [tredje ledd](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5-3 annet ledd](lov-2013-06-21-102-skipsarbeidsloven.md) og [tredje ledd bokstav a](lov-2013-06-21-102-skipsarbeidsloven.md) til [d](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5-4](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5-6 annet ledd](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5-7](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5-9](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5-10](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5-12](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 5 A-2](lov-2013-06-21-102-skipsarbeidsloven.md), [§§ 6-1](lov-2013-06-21-102-skipsarbeidsloven.md) til [6-3](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 7-2](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 7-3](lov-2013-06-21-102-skipsarbeidsloven.md), [§§ 7-5](lov-2013-06-21-102-skipsarbeidsloven.md) til [7-12](lov-2013-06-21-102-skipsarbeidsloven.md), [§ 8-4](lov-2013-06-21-102-skipsarbeidsloven.md) og [§ 11-2](lov-2013-06-21-102-skipsarbeidsloven.md) kan fravikes i tariffavtale.
+
+Utgifter ved forhyring og mønstring skal bæres av rederi eller annen arbeidsgiver.
+
+*Endret ved [lover 31 mai 1991 nr. 20](https://lovdata.no/lov/1991-05-31-20), [18 juni 1993 nr. 108](https://lovdata.no/lov/1993-06-18-108), [8 des 1995 nr. 65](https://lovdata.no/lov/1995-12-08-65), [21 juni 2013 nr. 102](lov-2013-06-21-102-skipsarbeidsloven.md) (ikr. 20 aug 2013 iflg. [res. 21 juni 2013 nr. 730](https://lovdata.no/forskrift/2013-06-21-730)), [9 mai 2014 nr. 16](https://lovdata.no/lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](https://lovdata.no/forskrift/2014-05-09-625)), [14 juni 2019 nr. 22](https://lovdata.no/lov/2019-06-14-22) (ikr. 1 aug 2019 iflg. [res. 14 juni 2019 nr. 726](https://lovdata.no/forskrift/2019-06-14-726)), [10 april 2026 nr. 14](https://lovdata.no/lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](https://lovdata.no/forskrift/2026-04-10-566)).*
+
+## Kap. III. Forskrifter, straff, slettelse mv.
+
+### § 9. Forskrifter og fullmakt til å innhente opplysninger.
+
+Kongen kan gi forskrifter til utfylling og gjennomføring av loven. Departementet kan i forskrift fastsette at mulig søksmål om riktigheten av vedtak etter [§ 12](lov-1987-06-12-48-nis-loven.md) annet ledd må reises innen en særskilt frist fra det tidspunkt da melding om fristfastsettingen kom frem til vedkommende part.
+
+Departementet kan til enhver tid kreve dokumentert av arbeidsgiver de opplysninger som er nødvendige for gjennomføring og oppfølging av loven.
+
+*Endret ved [lov 27 juni 2008 nr. 72](https://lovdata.no/lov/2008-06-27-72) (ikr. 1 juli 2008 iflg. [res. 27 juni 2008 nr. 743](https://lovdata.no/forskrift/2008-06-27-743)).*
+
+### § 10. Bestemmelser som skal være tilgjengelige for mannskapet.
+
+Skipsføreren skal sørge for at et eksemplar av denne lov og bestemmelser gitt i medhold av loven, finnes ombord og er tilgjengelig for mannskapet. Viser ansettelsesavtalen til en tariffavtale, skal skipsføreren sørge for at det finnes et eksemplar av denne ombord til bruk for mannskapet.
+
+### § 11. Straff.
+
+Den som forsettlig eller grovt uaktsomt vesentlig overtrer bestemmelsene i [§ 4](lov-1987-06-12-48-nis-loven.md) eller forskrifter gitt i medhold av bestemmelsene, eller plikten til å framlegge dokumentasjon som nevnt i [§ 9](lov-1987-06-12-48-nis-loven.md) annet ledd, straffes med bøter. Medvirkning straffes ikke.
+
+Ved vurderingen av om en overtredelse av første ledd er vesentlig, skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.
+
+*Endret ved [lover 20 juli 1991 nr. 66](https://lovdata.no/lov/1991-07-20-66), [19 juni 2009 nr. 74](https://lovdata.no/lov/2009-06-19-74), [19 juni 2015 nr. 65](lov-2015-06-19-65-straffelovens-ikraftsettingslov.md) (ikr. 1 okt 2015).*
+
+### § 12. Slettelse.
+
+Dersom et skip er blitt registrert på grunnlag av uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning for registreringsadgangen eller det ikke til enhver tid tilfredsstiller vilkårene i [§ 1](lov-1987-06-12-48-nis-loven.md) første ledd, kan registerføreren slette skipet av registeret. Skip som etter [§ 16](lov-1987-06-12-48-nis-loven.md) er gitt tillatelse til midlertidig registrering i annet lands skipsregister, skal ikke slettes fra skipsregisteret.
+
+Departementet kan bestemme at et skip skal slettes i registeret dersom:
+
+a. [§ 1](lov-1987-06-12-48-nis-loven.md) annet ledd, [§ 4](lov-1987-06-12-48-nis-loven.md) eller [§ 5](lov-1987-06-12-48-nis-loven.md) er overtrådt; eller
+b. [§ 6](lov-1987-06-12-48-nis-loven.md) tredje og fjerde ledd er overtrådt; eller
+c. plikten til å fremlegge dokumentasjon som nevnt i [§ 9](lov-1987-06-12-48-nis-loven.md) annet ledd er overtrådt; eller
+d. plikten til å stille garanti eller tegne slik forsikring som nevnt i § 4-7 i [skipsarbeidsloven](lov-2013-06-21-102-skipsarbeidsloven.md) er overtrådt.
+
+Er det registrert heftelse i skipet, skal skipet ikke slettes etter første eller annet ledd uten rettighetshaverens skriftlige samtykke, men det skal gjøres anmerkning på skipets blad i registeret om det forhold som skulle ha medført slettelse. Heftelsen beholder i så fall sin prioritet, men nye rettsstiftelser kan ikke registreres.
+
+*Endret ved [lover 15 mai 1992 nr. 46](https://lovdata.no/lov/1992-05-15-46), [17 des 1993 nr. 118](https://lovdata.no/lov/1993-12-17-118), [21 juni 2013 nr. 102](lov-2013-06-21-102-skipsarbeidsloven.md) (ikr. 20 aug 2013 iflg. [res. 21 juni 2013 nr. 730](https://lovdata.no/forskrift/2013-06-21-730)), [17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+### § 13. Overtredelsesgebyr
+
+Sjøfartsdirektoratet kan ilegge et foretak overtredelsesgebyr dersom foretaket eller noen som har handlet på foretakets vegne, har overtrådt fartsområdebegrensningene fastsatt i eller i medhold av [§ 4](lov-1987-06-12-48-nis-loven.md).
+
+Departementet kan i forskrift gi utfyllende regler om ilegging og utmåling av overtredelsesgebyr, herunder regler om minimums- og maksimumsbeløp og om renter og gebyrer dersom overtredelsesgebyr ikke blir betalt ved forfall.
+
+*Tilføyd ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+## Kapittel IV. Bareboatregistrering
+
+*Kapitlet tilføyd ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+### § 14. Bareboatregistrering i Norsk internasjonalt skipsregister
+
+Skip som nevnt i [§ 1](lov-1987-06-12-48-nis-loven.md) som er registrert i et annet lands skipsregister og bareboat-befraktes av noen som oppfyller vilkårene i [§ 1](lov-1987-06-12-48-nis-loven.md), kan bareboatregistreres i skipsregisteret for en periode på inntil ti år etter skriftlig anmodning fra bareboat-befrakteren. Perioden kan ikke være lengre enn varigheten av bareboat-certepartiet. Hvis samtykket etter annet ledd nr. 3 er tidsbegrenset, skal tillatelse etter første punktum gjelde for den samme perioden, men ikke overstige ti år. Skipsregisteret kan forlenge perioden for inntil fem år om gangen etter ny skriftlig anmodning fra bareboat-befrakteren.
+
+Før skipet kan registreres etter første ledd må bareboat-befrakteren fremlegge følgende dokumentasjon:
+
+1. kopi av bareboat-certepartiet,
+2. utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,
+3. skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, og
+4. dokumentasjon fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistreres i Norsk internasjonalt skipsregister og seile under norsk flagg.
+
+Skip registrert etter denne bestemmelsen er underlagt norsk jurisdiksjon og skal føre norsk flagg.
+
+Det kan ikke anmerkes panteretter eller andre rettsstiftelser i skip som er registrert etter første ledd.
+
+Departementet kan i forskrift gi nærmere regler om bareboatregistrering, herunder krav til bareboat-certepartiet, dokumentasjon og fremgangsmåte.
+
+*Tilføyd ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+### § 15. Sletting av bareboatregistrerte skip
+
+Skip som er registrert etter [§ 14](lov-1987-06-12-48-nis-loven.md) skal slettes i registeret når:
+
+a. bareboat-certepartiet opphører,
+b. betingelsene for registrering etter [§ 14](lov-1987-06-12-48-nis-loven.md) første ledd ikke lenger er til stede,
+c. registerføreren får melding fra bareboat-befrakteren eller skipets eier om at skipet skal slettes fra registeret,
+d. skipet etter primærregisterstatens rett ikke lenger har rett til midlertidig å seile under norsk flagg,
+e. registerføreren får melding etter [sjøloven § 13](lov-1994-06-24-39-sjoloven.md) annet ledd om at et skip er gått tapt eller er hugget opp, eller
+f. melding om at et skip er gått tapt eller er hugget opp, ikke er gitt innen fristen etter [sjøloven § 13](lov-1994-06-24-39-sjoloven.md) annet ledd, men registerføreren på annen måte får kjennskap til forholdet. Før skipet slettes skal eieren i så fall gis adgang til å uttale seg.
+
+*Tilføyd ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+### § 16. Bareboat-utflagging
+
+På begjæring fra skipets eier kan skip som er leid ut på bareboat-certeparti og er registrert i norsk internasjonalt skipsregister, gis tillatelse til bareboatregistrering i et utenlandsk skipsregister for en periode på inntil ti år. Perioden kan ikke være lengre enn varigheten av bareboat-certepartiet. Skipsregisteret kan etter skriftlig anmodning fra skipets eier forlenge perioden inntil fem år om gangen.
+
+For at tillatelse eller forlengelse kan gis, må skipets eier fremlegge følgende dokumentasjon:
+
+1. kopi av bareboat-certepartiet,
+2. skriftlig samtykke til bareboatregistrering i det utenlandske skipsregisteret fra skipets eier og samtlige rettighetshavere i skipet, og
+3. dokumentasjon fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
+
+Et skip som er bareboatregistrert etter første ledd har rett til midlertidig å føre et annet lands flagg, og skal i denne perioden ikke anses å være norsk i henhold til [§ 1](lov-1987-06-12-48-nis-loven.md) i denne loven. Det har ikke rett til å føre norsk flagg og skal ikke være forsynt med norsk nasjonalitetsbevis.
+
+Panteretter og andre rettsstiftelser forblir registrert når skipet er registrert i et annet lands skipsregister etter første ledd, og nye panteretter og andre rettsstiftelser kan fortsatt registreres i skipsregisteret.
+
+Departementet kan i forskrift gi nærmere regler om bareboatregistrering, herunder krav til bareboat-certepartiet, dokumentasjon og fremgangsmåte.
+
+*Tilføyd ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+### § 17. Bortfall av tillatelse til bareboatregistrering
+
+Retten til å føre utenlandsk flagg etter [§ 16](lov-1987-06-12-48-nis-loven.md) bortfaller når bareboat-certepartiet opphører eller skipet ikke lenger har rett til midlertidig å seile under det utenlandske skipsregisterets flagg. Melding om opphør skal gis av skipets eier snarest mulig og senest innen 30 dager etter opphør. Retten til å føre utenlandsk flagg bortfaller også hvis melding ikke er gitt innen fristen, men registerføreren på annen måte får kjennskap til forholdet. Før retten bortfaller, skal eieren i så fall gis adgang til å uttale seg.
+
+Når tillatelsen til bareboatregistrering bortfaller etter første ledd, har skipet rett til igjen å føre norsk flagg.
+
+*Tilføyd ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818)).*
+
+## Kap. V. Ikrafttredelse m.v.
+
+*Endret ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818), tidligere kap IV).*
+
+### § 18. Ikrafttredelse.
+
+Denne lov trer i kraft 1. juli 1987.
+
+*Endret ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818), tidligere § 13).*
+
+### § 19. Oppheving og endring av andre lover og bestemmelser.
+
+Fra den tid loven trer i kraft endres nedenfor nevnte lover slik: – – –
+
+Fra den tid loven trer i kraft oppheves: – – –
+
+*Endret ved [lov 17 april 2020 nr. 28](https://lovdata.no/lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](https://lovdata.no/forskrift/2020-04-17-818), tidligere § 14).*

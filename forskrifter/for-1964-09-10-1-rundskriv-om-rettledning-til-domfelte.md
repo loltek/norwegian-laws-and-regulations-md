@@ -1,0 +1,42 @@
+# Rundskriv om rettledning til domfelte.
+
+- **Korttittel:** Rundskriv om rettledning til domfelte
+- **Datokode:** FOR-1964-09-10-1
+- **DokumentID:** INS/forskrift/1964-09-10-1
+- **Departement:** Justis- og beredskapsdepartementet
+- **Etat:** Domstolavd.
+- **Hjemmel:** lov 13.08.1915 nr. 5/§190
+- **Publisert i:** II 1964 s 522
+- **Gjelder for:** Norge
+- **Merknad:** Fastsatt ved rundskriv fra Justis- og politidepartementet.
+- **Kilde:** <https://lovdata.no/INS/forskrift/1964-09-10-1>
+
+Vedlagte skjema «Rettledning til domfelte», og «Rettleiing til dømde» blir å tilstille domfelte ved forkynnelse av fellende dommer i straffesaker. Skjemaet skal erstatte det tidligere «Meddelelse til domfelte» («Melding til dømde»), idet Justisdepartementet har funnet at rettledningen også bør inneholde en kort orientering om rettsmidlene.
+
+En er kjent med at det i stor utstrekning er praksis at domfelte ved forkynnelsen først får en muntlig orientering om rettsmidlene og fristen for bruken av dem og deretter leveres et eksemplar av «Meddelelse til domfelte» i utfylt stand. Departementet gjør oppmerksom på at det ikke bør gjøres noen forandring i denne praksis og ber om at slik fremgangsmåte blir fulgt i alle tilfelle.
+
+Videre minner en om at domfelte ved opplesning eller forkynnelse av betinget dom skal gjøres kjent med betydningen av betinget dom og følgende av at vilkårene ikke overholdes, jfr. [straffelovens § 54](../lover/lov-2005-05-20-28-straffeloven.md).
+
+Med dette rundskriv oppheves Justisdepartementets rundskriv av 26. november 1914.
+
+Skjemaet kan rekvireres fra Statens trykksakekspedisjon.
+
+## Rettledning til domfelte.
+
+1. Vil de prøve å få dommen forandret ved høyere rett, må De komme med begjæring om det innen 14 dager fra idag, det vil si senest ...... dag, den ......
+2. Dette kan, om dommen er avsagt av forhørsrett eller herreds- eller byrett, gjøres på to måter:
+   a. Ved anke til Høyesterett. Anke brukes hvis De vil klage over straffeutmålingen eller hvis De vil søke dommen opphevet fordi det er gjort feil under saksbehandlingen eller fordi dommen bygger på en uriktig forståelse av loven.
+   b. Ved begjæring om fornyet behandling ved lagmannsrett. Slik begjæring brukes hvis De mener at skyldspørsmålet er uriktig avgjort.
+3. Er dommen avsagt av lagmannsrett kan bare anke til Høyesterett komme på tale.
+4. Begjæringen kan De sette fram enten til en av *påtalemyndighetens* tjenestemenn (d.e. riksadvokaten, statsadvokatene, politimestrene, andre politiembetsmenn eller -tjenestemenn og lensmennene), eller til vedkommende *herreds- eller bydommer* (sorenskriver, n, byrett). Er De fengslet, kan De også sette fram begjæringen for *overbetjenten* (vaktmesteren) i fengslet.
+5. Begjæringen kan De gi enten muntlig til de tjenestemenn som er nevnt under punkt 4, eller skriftlig. Tjenestemennene kan gi Dem hjelp og rettledning i spørsmål om begjæringen.
+
+   Sender De den skriftlig gjennom posten (telegrafen) må den være innlevert til poststasjon (telegrafstasjon) før fristen er ute.
+6. I alle høve må De tydelig forklare hvilken grunn De har til å få saken inn for høyere rett, og om De begjærer saken inn for lagmannsrett eller for Høyesterett.
+7. Følger De ikke disse reglene, vil De risikere ikke å kunne komme videre med saken når fristen er ute.
+8. Hos Deres forsvarer kan De få råd om De bør begjære saken inn for høyere rett, og i tilfelle nærmere rettledning om hvorledes De skal gå fram med det.
+
+Denne meddelelse er gitt den ......
+
+- av ........................
+- Lagmann, Dommer, Lensmann, Stevnevitne.

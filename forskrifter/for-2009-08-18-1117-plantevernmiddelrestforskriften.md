@@ -1,0 +1,1840 @@
+# Forskrift om rester av plantevernmidler i næringsmidler og fôrvarer
+
+- **Korttittel:** Plantevernmiddelrestforskriften
+- **Datokode:** FOR-2009-08-18-1117
+- **DokumentID:** SF/forskrift/2009-08-18-1117
+- **Departement:** Helse- og omsorgsdepartementet; Landbruks- og matdepartementet; Nærings- og fiskeridepartementet
+- **Etat:** Folkehelseavdelingen, Mattilsynet
+- **Hjemmel:** lov 19.12.2003 nr. 124/§9; lov 19.12.2003 nr. 124/§16; lov 19.12.2003 nr. 124/§17; lov 19.12.2003 nr. 124/§23; forskrift 19.12.2003 nr. 1790; forskrift 05.05.2004 nr. 884
+- **Publisert i:** I 2009 hefte 9
+- **Kunngjort:** 2009-08-28 13:30
+- **I kraft fra:** 2009-08-18
+- **Siste endring i kraft:** 2026-09-28
+- **Sist endret ved:** forskrift 28.09.2026 nr. 1924
+- **Endrer:** forskrift 21.12.1993 nr. 1388
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2013-07-25 (forordning (EF) nr. 396/2005, artikkel 3 nr. 2 bokstav f)
+- **Merknad:** Hjemmel: Fastsatt av Fiskeri- og kystdepartementet, Helse- og omsorgsdepartementet og Landbruks- og matdepartementet 18. august 2009 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 9, § 16, § 17 og § 23, jf. delegeringsvedtak 19. desember 2003 nr. 1790. Tilføyd hjemmel: Delegeringsvedtak 5. mai 2004 nr. 884. EØS-henvisninger: EØS-avtalen vedlegg II kap. XII nr. 54zz (direktiv 2002/63/EF), nr. 54zzd (forordning (EF) nr. 645/2000), vedlegg I kapittel II nr. 40 og vedlegg II kap. XII nr. 54zzy (forordning (EF) nr. 396/2005 endret ved forordning (EF) nr. 178/2006, forordning (EF) nr. 149/2008, forordning (EF) nr. 260/2008, forordning (EF) nr. 839/2008, forordning (EF) nr. 256/2009, forordning (EF) nr. 822/2009, forordning (EF) nr. 1050/2009, forordning (EF) nr. 1097/2009, forordning (EU) nr. 304/2010, forordning (EU) nr. 459/2010, forordning (EU) nr. 600/2010, forordning (EU) nr. 750/2010, forordning (EU) nr. 765/2010, forordning (EU) nr. 893/2010, forordning (EU) nr. 310/2011, forordning (EU) nr. 460/2011, forordning (EU) nr. 508/2011, forordning (EU) nr. 520/2011, forordning (EU) nr. 524/2011, forordning (EU) nr. 559/2011, forordning (EU) nr. 812/2011, forordning (EU) nr. 813/2011, forordning (EU) nr. 978/2011, forordning (EU) nr. 270/2012, forordning (EU) nr. 322/2012, forordning (EU) nr. 441/2012, forordning (EU) nr. 473/2012, forordning (EU) nr. 556/2012, forordning (EU) nr. 592/2012, forordning (EU) nr. 897/2012, forordning (EU) nr. 899/2012, forordning (EU) nr. 34/2013, forordning (EU) nr. 35/2013, forordning (EU) nr. 212/2013, forordning (EU) nr. 241/2013, forordning (EU) nr. 251/2013, forordning (EU) nr. 293/2013, forordning (EU) nr. 500/2013, forordning (EU) nr. 668/2013, forordning (EU) nr. 772/2013, forordning (EU) nr. 777/2013, forordning (EU) nr. 834/2013, forordning (EU) nr. 1004/2013, forordning (EU) nr. 1138/2013, forordning (EU) nr. 1317/2013, forordning (EU) nr. 36/2014, forordning (EU) nr. 51/2014, forordning (EU) nr. 61/2014, forordning (EU) nr. 79/2014, forordning (EU) nr. 87/2014, forordning (EU) nr. 289/2014, forordning (EU) nr. 318/2014, forordning (EU) nr. 364/2014, forordning (EU) nr. 398/2014, forordning (EU) nr. 400/2014, forordning (EU) nr. 491/2014, forordning (EU) nr. 588/2014, forordning (EU) nr. 617/2014, forordning (EU) nr. 703/2014, forordning (EU) nr. 737/2014, forordning (EU) nr. 752/2014, forordning (EU) nr. 991/2014, forordning (EU) nr. 1096/2014, forordning (EU) nr. 1119/2014, forordning (EU) nr. 1126/2014, forordning (EU) nr. 1127/2014, forordning (EU) 2015/165, forordning (EU) 2015/399, forordning (EU) 2015/400, forordning (EU) 2015/401, forordning (EU) 2015/552, forordning (EU) 2015/603, forordning (EU) 2015/845, forordning (EU) 2015/846, forordning (EU) 2015/868, forordning (EU) 2015/896, forordning (EU) 2015/1040, forordning (EU) 2015/1101, forordning (EU) 2015/1200, forordning (EU) nr. 1146/2014, forordning (EU) 2015/1608, forordning (EU) 2015/1910, forordning (EU) 2015/2075, forordning (EU) 2016/46, forordning (EU) 2016/53, forordning (EU) 2016/60, forordning (EU) 2016/67, forordning (EU) 2016/71, forordning (EU) 2016/75, forordning (EU) 2016/143, forordning (EU) 2016/1, forordning (EU) 2016/156, forordning (EU) 2016/439, forordning (EU) 2016/440, forordning (EU) 2016/452, forordning (EU) 2016/486, forordning (EU) 2016/567, forordning (EU) 2016/805, forordning (EU) 2016/1002, forordning (EU) 2016/1003, forordning (EU) 2016/1015, forordning (EU) 2016/1016, forordning (EU) 2016/1355, forordning (EU) 2016/1726, forordning (EU) 2016/1785, forordning (EU) 2016/1822, forordning (EU) 2016/1866, forordning (EU) 2016/1902, forordning (EU) 2017/170, forordning (EU) 2017/171, forordning (EU) 2017/405, forordning (EU) 2017/623, forordning (EU) 2017/624, forordning (EU) 2017/626, forordning (EU) 2017/627, forordning (EU) 2017/671, forordning (EU) 2017/693, forordning (EU) 2017/978, forordning (EU) 2017/983, forordning (EU) 2017/1016, forordning (EU) 2017/1135, forordning (EU) 2017/1164, forordning (EU) 2017/1777, forordning (EU) 2018/62, forordning (EU) 2018/70, forordning (EU) 2018/73, forordning (EU) 2018/78, forordning (EU) 2018/685, forordning (EU) 2018/686, forordning (EU) 2018/687, forordning (EU) 2018/832, forordning (EU) 2018/960, forordning (EU) 2018/1049, forordning (EU) 2018/1514, forordning (EU) 2018/1515, forordning (EU) 2018/1516, forordning (EU) 2019/38, forordning (EU) 2019/50, forordning (EU) 2019/58, forordning (EU) 2019/88, forordning (EU) 2019/89, forordning (EU) 2019/90, forordning (EU) 2019/91, forordning (EU) 2019/552, forordning (EU) 2019/973, forordning (EU) 2019/977, forordning (EU) 2019/1015, forordning (EU) 2019/1176, forordning (EU) 2017/625, forordning (EU) 2019/1559, forordning (EU) 2019/1561, forordning (EU) 2019/1582, forordning (EU) 2019/1791, forordning (EU) 2019/1792, forordning (EU) 2020/192, forordning (EU) 2020/703, forordning (EU) 2020/749, forordning (EU) 2020/770, forordning (EU) 2020/785, forordning (EU) 2020/856, forordning (EU) 2020/1085, forordning (EU) 2020/1565, forordning (EU) 2020/1566, forordning (EU) 2020/1633, forordning (EU) 2021/155, forordning (EU) 2021/616, forordning (EU) 2021/618, forordning (EU) 2021/644, forordning (EU) 2021/663, forordning (EU) 2021/590, forordning (EU) 2021/976, forordning (EU) 2021/1098, forordning (EU) 2021/1110, forordning (EU) 2021/1247, forordning (EU) 2021/1531, forordning (EU) 2021/1771, forordning (EU) 2021/1795, forordning (EU) 2021/1804, forordning (EU) 2021/1807, forordning (EU) 2021/1810, forordning (EU) 2021/1841, forordning (EU) 2021/1842, forordning (EU) 2021/1864, forordning (EU) 2021/1881, forordning (EU) 2021/1884, forordning (EU) 2021/2202, forordning (EU) 2022/78, forordning (EU) 2022/85, forordning (EU) 2022/93, forordning (EU) 2022/476, forordning (EU) 2022/566, forordning (EU) 2022/1264, forordning (EU) 2022/1290, forordning (EU) 2022/1321, forordning (EU) 2022/1324, forordning (EU) 2022/1343, forordning (EU) 2022/1346, forordning (EU) 2022/1363, forordning (EU) 2022/1406, forordning (EU) 2022/1435, forordning (EU) 2023/127, forordning (EU) 2023/128, forordning (EU) 2023/129, forordning (EU) 2023/147, forordning (EU) 2023/163, forordning (EU) 2023/173, forordning (EU) 2023/198, forordning (EU) 2023/334, forordning (EU) 2023/377, forordning (EU) 2023/466, forordning (EU) 2023/679, forordning (EU) 2023/710, forordning (EU) 2023/1029, forordning (EU) 2023/1030, forordning (EU) 2023/1042, forordning (EU) 2023/1049, forordning (EU) 2023/1068, forordning (EU) 2023/1069, forordning (EU) 2023/1536, forordning (EU) 2023/1719, forordning (EU) 2023/1753, forordning (EU) 2023/1783, forordning (EU) 2023/2382, forordning (EU) 2024/398, forordning (EU) 2024/451, forordning (EU) 2024/891, forordning (EU) 2024/1076, forordning (EU) 2024/1077, forordning (EU) 2024/1078, forordning (EU) 2024/331, forordning (EU) 2024/341, forordning (EU) 2024/342, forordning (EU) 2024/344, forordning (EU) 2024/345, forordning (EU) 2024/347, forordning (EU) 2024/352, forordning (EU) 2024/376, forordning (EU) 2024/1342, forordning (EU) 2024/1439, forordning (EU) 2024/246, forordning (EU) 2024/1314, forordning (EU) 2024/1318, forordning (EU) 2024/1355, forordning (EU) 2024/2609, forordning (EU) 2024/2612, forordning (EU) 2024/2619, forordning (EU) 2024/2633, forordning (EU) 2024/2640, forordning (EU) 2024/2711, forordning (EU) 2024/3196, forordning (EU) 2025/115, forordning (EU) 2025/146, forordning (EU) 2025/158, forordning (EU) 2025/195, forordning (EU) 2025/581, forordning (EU) 2025/1163, forordning (EU) 2025/1164, forordning (EU) 2025/1212, forordning (EU) 2025/1305, forordning (EU) 2025/2473, forordning (EU) 2026/140, forordning (EU) 2026/147, forordning (EU) 2026/215, forordning (EU) 2026/742, forordning (EU) 2026/751, forordning (EU) 2026/752), forordning (EU) 2026/840, forordning (EU) 2026/876, forordning (EU) 2026/1314, forordning (EU) 2026/1339, forordning (EU) 2026/1546). Endret ved forskrifter 7 des 2009 nr. 1714, 3 mai 2010 nr. 763, 15 juni 2010 nr. 893, 3 mai 2011 nr. 480, 4 juli 2011 nr. 736, 24 okt 2011 nr. 1054, 13 feb 2012 nr. 144, 30 mars 2012 nr. 296, 2 mai 2012 nr. 388, 10 des 2012 nr. 1362, 1 feb 2013 nr. 147, 8 mai 2013 nr. 458, 8 nov 2013 nr. 1298, 16 des 2013 nr. 1556, 8 april 2014 nr. 410, 21 mai 2014 nr. 664, 30 juni 2014 nr. 900, 26 sep 2014 nr. 1266, 27 okt 2014 nr. 1343, 16 des 2014 nr. 1710, 3 mars 2015 nr. 181, 12 mai 2015 nr. 499, 29 sep 2015 nr. 1134, 15 des 2015 nr. 1604, 3 mai 2016 nr. 462, 7 juni 2016 nr. 587, 12 juli 2016 nr. 916, 7 feb 2017 nr. 176, 20 mars 2017 nr. 349, 8 mai 2017 nr. 552, 10 juli 2017 nr. 1179, 25 sep 2017 nr. 1452, 18 des 2017 nr. 2234, 26 mars 2018 nr. 511, 9 juli 2018 nr. 1167, 11 feb 2019 nr. 81, 1 april 2019 nr. 427, 30 sep 2019 nr. 1288, 17 des 2019 nr. 1881, 13 mars 2020 nr. 304, 6 mars 2020 nr. 707 (i kraft 7 april 2020), 4 mai 2020 nr. 932, 18 juni 2020 nr. 1261, 14 des 2020 nr. 2782, 8 feb 2021 nr. 347, 26 april 2021 nr. 1313, 12 juli 2021 nr. 2396, 1 nov 2021 nr. 3120, 16 des 2021 nr. 3653, 2 mai 2022 nr. 815, 26 sep 2022 nr. 1647, 12 des 2022 nr. 2150, 20 mars 2023 nr. 370, 25 sep 2023 nr. 1495, 30 okt 2023 nr. 1751, 5 feb 2024 nr. 190, 18 mars 2024 nr. 457, 29 april 2024 nr. 689, 8 juli 2024 nr. 1646, 23 sep 2024 nr. 2233, 9 des 2024 nr. 3004, 10 feb 2025 nr. 172, 17 mars 2025 nr. 467, 16 juni 2025 nr. 1020, 14 juli 2025 nr. 1526, 27 okt 2025 nr. 2107, 8 des 2025 nr. 2439, 20 mars 2026 nr. 446 (i kraft 21 mars 2026), 4 mai 2026 nr. 808 (i kraft 5 mai 2026), 8 juni 2026 nr. 1025, 13 juli 2026 nr. 1561, 28 sep 2026 nr. 1924. Endres ved forskrift 13 juli 2026 nr. 1558 (i kraft 1 jan 2027). Rettelser: 25.07.2013 (forordning (EF) nr. 396/2005, artikkel 3 nr. 2 bokstav f).
+- **Kilde:** <https://lovdata.no/forskrift/2009-08-18-1117>
+
+## § 1. Grenseverdier for rester av plantevernmidler i eller på næringsmidler og fôrvarer
+
+[EØS-avtalen vedlegg I kapittel II](https://lovdata.no/avtale/avt-1992-05-02-1-v1/kapII) nr. 40 og [vedlegg II kapittel XII](https://lovdata.no/avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzy (forordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) som endret ved forordning [(EF) nr. 178/2006](https://lovdata.no/eu/32006r0178), forordning [(EF) nr. 149/2008](https://lovdata.no/eu/32008r0149*), forordning [(EF) nr. 260/2008](https://lovdata.no/eu/32008r0260), forordning [(EF) nr. 839/2008](https://lovdata.no/eu/32008r0839*), forordning [(EF) nr. 256/2009](https://lovdata.no/eu/32009r0256*), forordning [(EF) nr. 822/2009](https://lovdata.no/eu/32009r0822*), forordning [(EF) nr. 1050/2009](https://lovdata.no/eu/32009r1050*), forordning [(EF) nr. 1097/2009](https://lovdata.no/eu/32009r1097*), forordning [(EU) nr. 459/2010](https://lovdata.no/eu/32010r0459), forordning [(EU) nr. 600/2010](https://lovdata.no/eu/32010r0600), forordning [(EU) nr. 750/2010](https://lovdata.no/eu/32010r0750), forordning [(EU) nr. 765/2010](https://lovdata.no/eu/32010r0765), forordning [(EU) nr. 893/2010](https://lovdata.no/eu/32010r0893), forordning [(EU) nr. 304/2010](https://lovdata.no/eu/32010r0304), forordning [(EU) nr. 310/2011](https://lovdata.no/eu/32011r0310), forordning [(EU) nr. 460/2011](https://lovdata.no/eu/32011r0460), forordning [(EU) nr. 508/2011](https://lovdata.no/eu/32011r0508), forordning [(EU) nr. 520/2011](https://lovdata.no/eu/32011r0520), forordning [(EU) nr. 524/2011](https://lovdata.no/eu/32011r0524*), forordning [(EU) nr. 559/2011](https://lovdata.no/eu/32011r0559), forordning [(EU) nr. 812/2011](https://lovdata.no/eu/32011r0812), forordning [(EU) nr. 813/2011](https://lovdata.no/eu/32011r0813), forordning [(EU) nr. 978/2011](https://lovdata.no/eu/32011r0978), forordning [(EU) nr. 270/2012](https://lovdata.no/eu/32012r0270), forordning [(EU) nr. 322/2012](https://lovdata.no/eu/32012r0322), forordning [(EU) nr. 441/2012](https://lovdata.no/eu/32012r0441), forordning [(EU) nr. 473/2012](https://lovdata.no/eu/32012r0473), forordning [(EU) nr. 556/2012](https://lovdata.no/eu/32012r0556), forordning [(EU) nr. 592/2012](https://lovdata.no/eu/32012r0592), forordning [(EU) nr. 897/2012](https://lovdata.no/eu/32012r0897), forordning [(EU) nr. 899/2012](https://lovdata.no/eu/32012r0899), forordning [(EU) nr. 34/2013](https://lovdata.no/eu/32013r0034), forordning [(EU) nr. 35/2013](https://lovdata.no/eu/32013r0035), forordning [(EU) nr. 212/2013](https://lovdata.no/eu/32013r0212), forordning [(EU) nr. 241/2013](https://lovdata.no/eu/32013r0241), forordning [(EU) nr. 251/2013](https://lovdata.no/eu/32013r0251), forordning [(EU) nr. 293/2013](https://lovdata.no/eu/32013r0293), forordning [(EU) nr. 500/2013](https://lovdata.no/eu/32013r0500), forordning [(EU) nr. 668/2013](https://lovdata.no/eu/32013r0668*), forordning [(EU) nr. 772/2013](https://lovdata.no/eu/32013r0772), forordning [(EU) nr. 777/2013](https://lovdata.no/eu/32013r0777), forordning [(EU) nr. 834/2013](https://lovdata.no/eu/32013r0834), forordning [(EU) nr. 1004/2013](https://lovdata.no/eu/32013r1004), forordning [(EU) nr. 1138/2013](https://lovdata.no/eu/32013r1138), forordning [(EU) nr. 1317/2013](https://lovdata.no/eu/32013r1317), forordning [(EU) nr. 36/2014](https://lovdata.no/eu/32014r0036), forordning [(EU) nr. 51/2014](https://lovdata.no/eu/32014r0051), forordning [(EU) nr. 61/2014](https://lovdata.no/eu/32014r0061), forordning [(EU) nr. 79/2014](https://lovdata.no/eu/32014r0079), forordning [(EU) nr. 87/2014](https://lovdata.no/eu/32014r0087), forordning [(EU) nr. 289/2014](https://lovdata.no/eu/32014r0289), forordning [(EU) nr. 318/2014](https://lovdata.no/eu/32014r0318), forordning [(EU) nr. 364/2014](https://lovdata.no/eu/32014r0364), forordning [(EU) nr. 398/2014](https://lovdata.no/eu/32014r0398), forordning [(EU) nr. 491/2014](https://lovdata.no/eu/32014r0491), forordning [(EU) nr. 588/2014](https://lovdata.no/eu/32014r0588), forordning [(EU) nr. 617/2014](https://lovdata.no/eu/32014r0617), forordning [(EU) nr. 703/2014](https://lovdata.no/eu/32014r0703), forordning [(EU) nr. 737/2014](https://lovdata.no/eu/32014r0737), forordning [(EU) nr. 752/2014](https://lovdata.no/eu/32014r0752), forordning [(EU) nr. 991/2014](https://lovdata.no/eu/32014r0991), forordning [(EU) nr. 1096/2014](https://lovdata.no/eu/32014r1096), forordning [(EU) nr. 1119/2014](https://lovdata.no/eu/32014r1119), forordning [(EU) nr. 1126/2014](https://lovdata.no/eu/32014r1126), forordning [(EU) nr. 1127/2014](https://lovdata.no/eu/32014r1127), forordning [(EU) nr. 1146/2014](https://lovdata.no/eu/32014r1146), forordning [(EU) 2015/165](https://lovdata.no/eu/32015r0165), forordning [(EU) 2015/399](https://lovdata.no/eu/32015r0399), forordning [(EU) 2015/400](https://lovdata.no/eu/32015r0400), forordning [(EU) 2015/401](https://lovdata.no/eu/32015r0401), forordning [(EU) 2015/552](https://lovdata.no/eu/32015r0552*), forordning [(EU) 2015/603](https://lovdata.no/eu/32015r0603*), forordning [(EU) 2015/845](https://lovdata.no/eu/32015r0845*), forordning [(EU) 2015/846](https://lovdata.no/eu/32015r0846), forordning [(EU) 2015/868](https://lovdata.no/eu/32015r0868*), forordning [(EU) 2015/896](https://lovdata.no/eu/32015r0896), forordning [(EU) 2015/1040](https://lovdata.no/eu/32015r1040), forordning [(EU) 2015/1101](https://lovdata.no/eu/32015r1101), forordning [(EU) 2015/1200](https://lovdata.no/eu/32015r1200), forordning [(EU) 2015/1608](https://lovdata.no/eu/32015r1608), forordning [(EU) 2015/1910](https://lovdata.no/eu/32015r1910), forordning [(EU) 2015/2075](https://lovdata.no/eu/32015r2075*), forordning [(EU) 2016/1](https://lovdata.no/eu/32016r0001), forordning [(EU) 2016/46](https://lovdata.no/eu/32016r0046), forordning [(EU) 2016/53](https://lovdata.no/eu/32016r0053), forordning [(EU) 2016/60](https://lovdata.no/eu/32016r0060), forordning [(EU) 2016/67](https://lovdata.no/eu/32016r0067), forordning [(EU) 2016/71](https://lovdata.no/eu/32016r0071*), forordning [(EU) 2016/75](https://lovdata.no/eu/32016r0075), forordning [(EU) 2016/143](https://lovdata.no/eu/32016r0143), forordning [(EU) 2016/156](https://lovdata.no/eu/32016r0156), forordning [(EU) 2016/439](https://lovdata.no/eu/32016r0439), forordning [(EU) 2016/440](https://lovdata.no/eu/32016r0440), forordning [(EU) 2016/452](https://lovdata.no/eu/32016r0452), forordning [(EU) 2016/486](https://lovdata.no/eu/32016r0486), forordning [(EU) 2016/567](https://lovdata.no/eu/32016r0567), forordning [(EU) 2016/805](https://lovdata.no/eu/32016r0805), forordning [(EU) 2016/1002](https://lovdata.no/eu/32016r1002), forordning [(EU) 2016/1003](https://lovdata.no/eu/32016r1003), forordning [(EU) 2016/1015](https://lovdata.no/eu/32016r1015*), forordning [(EU) 2016/1016](https://lovdata.no/eu/32016r1016), forordning [(EU) 2016/1355](https://lovdata.no/eu/32016r1355), forordning [(EU) 2016/1726](https://lovdata.no/eu/32016r1726), forordning [(EU) 2016/1785](https://lovdata.no/eu/32016r1785), forordning [(EU) 2016/1822](https://lovdata.no/eu/32016r1822), forordning [(EU) 2016/1866](https://lovdata.no/eu/32016r1866), forordning [(EU) 2016/1902](https://lovdata.no/eu/32016r1902), forordning [(EU) 2017/170](https://lovdata.no/eu/32017r0170), forordning [(EU) 2017/171](https://lovdata.no/eu/32017r0171), forordning [(EU) 2017/405](https://lovdata.no/eu/32017r0405), forordning [(EU) 2017/623](https://lovdata.no/eu/32017r0623), forordning [(EU) 2017/624](https://lovdata.no/eu/32017r0624), forordning [(EU) 2017/626](https://lovdata.no/eu/32017r0626), forordning [(EU) 2017/627](https://lovdata.no/eu/32017r0627), forordning [(EU) 2017/671](https://lovdata.no/eu/32017r0671), forordning [(EU) 2017/693](https://lovdata.no/eu/32017r0693*), forordning [(EU) 2017/978](https://lovdata.no/eu/32017r0978*), forordning [(EU) 2017/983](https://lovdata.no/eu/32017r0983), forordning [(EU) 2017/1016](https://lovdata.no/eu/32017r1016), forordning [(EU) 2017/1135](https://lovdata.no/eu/32017r1135), forordning [(EU) 2017/1164](https://lovdata.no/eu/32017r1164), forordning [(EU) 2017/1777](https://lovdata.no/eu/32017r1777), forordning [(EU) 2018/62](https://lovdata.no/eu/32018r0062), forordning [(EU) 2018/70](https://lovdata.no/eu/32018r0070), forordning [(EU) 2018/73](https://lovdata.no/eu/32018r0073), forordning [(EU) 2018/78](https://lovdata.no/eu/32018r0078), forordning [(EU) 2018/685](https://lovdata.no/eu/32018r0685), forordning [(EU) 2018/686](https://lovdata.no/eu/32018r0686), forordning [(EU) 2018/687](https://lovdata.no/eu/32018r0687), forordning [(EU) 2018/832](https://lovdata.no/eu/32018r0832*), forordning [(EU) 2018/960](https://lovdata.no/eu/32018r0960), forordning [(EU) 2018/1049](https://lovdata.no/eu/32018r1049), forordning [(EU) 2018/1514](https://lovdata.no/eu/32018r1514), forordning [(EU) 2018/1515](https://lovdata.no/eu/32018r1515), forordning [(EU) 2018/1516](https://lovdata.no/eu/32018r1516), forordning [(EU) 2019/38](https://lovdata.no/eu/32019r0038), forordning [(EU) 2019/50](https://lovdata.no/eu/32019r0050*), forordning [(EU) 2019/58](https://lovdata.no/eu/32019r0058), forordning [(EU) 2019/88](https://lovdata.no/eu/32019r0088), forordning [(EU) 2019/89](https://lovdata.no/eu/32019r0089), forordning [(EU) 2019/90](https://lovdata.no/eu/32019r0090), forordning [(EU) 2019/91](https://lovdata.no/eu/32019r0091), forordning [(EU) 2019/552](https://lovdata.no/eu/32019r0552), forordning [(EU) 2019/973](https://lovdata.no/eu/32019r0973), forordning [(EU) 2019/977](https://lovdata.no/eu/32019r0977), forordning [(EU) 2019/1015](https://lovdata.no/eu/32019r1015), forordning [(EU) 2019/1176](https://lovdata.no/eu/32019r1176), forordning [(EU) 2017/625](https://lovdata.no/eu/32017r0625*), forordning [(EU) 2019/1559](https://lovdata.no/eu/32019r1559), forordning [(EU) 2019/1561](https://lovdata.no/eu/32019r1561), forordning [(EU) 2019/1582](https://lovdata.no/eu/32019r1582), forordning [(EU) 2019/1791](https://lovdata.no/eu/32019r1791), forordning [(EU) 2019/1792](https://lovdata.no/eu/32019r1792), forordning [(EU) 2020/192](https://lovdata.no/eu/32020r0192), forordning [(EU) 2020/703](https://lovdata.no/eu/32020r0703), forordning [(EU) 2020/749](https://lovdata.no/eu/32020r0749), forordning [(EU) 2020/770](https://lovdata.no/eu/32020r0770), forordning [(EU) 2020/785](https://lovdata.no/eu/32020r0785), forordning [(EU) 2020/856](https://lovdata.no/eu/32020r0856), forordning [(EU) 2020/1085](https://lovdata.no/eu/32020r1085), forordning [(EU) 2020/1565](https://lovdata.no/eu/32020r1565), forordning [(EU) 2020/1566](https://lovdata.no/eu/32020r1566), forordning [(EU) 2020/1633](https://lovdata.no/eu/32020r1633), forordning [(EU) 2021/155](https://lovdata.no/eu/32021r0155), forordning [(EU) 2021/590](https://lovdata.no/eu/32021r0590), forordning [(EU) 2021/616](https://lovdata.no/eu/32021r0616), forordning [(EU) 2021/618](https://lovdata.no/eu/32021r0618), forordning [(EU) 2021/644](https://lovdata.no/eu/32021r0644), forordning [(EU) 2021/663](https://lovdata.no/eu/32021r0663), forordning [(EU) 2021/976](https://lovdata.no/eu/32021r0976), forordning [(EU) 2021/1098](https://lovdata.no/eu/32021r1098), forordning [(EU) 2021/1110](https://lovdata.no/eu/32021r1110), forordning [(EU) 2021/1247](https://lovdata.no/eu/32021r1247), [(EU) 2021/1531](https://lovdata.no/eu/32021r1531), forordning [(EU) 2021/1771](https://lovdata.no/eu/32021r1771), forordning [(EU) 2021/1795](https://lovdata.no/eu/32021r1795), forordning [(EU) 2021/1804](https://lovdata.no/eu/32021r1804), forordning [(EU) 2021/1807](https://lovdata.no/eu/32021r1807), forordning [(EU) 2021/1810](https://lovdata.no/eu/32021r1810), forordning [(EU) 2021/1841](https://lovdata.no/eu/32021r1841), forordning [(EU) 2021/1842](https://lovdata.no/eu/32021r1842), forordning [(EU) 2021/1864](https://lovdata.no/eu/32021r1864), forordning [(EU) 2021/1881](https://lovdata.no/eu/32021r1881), forordning [(EU) 2021/1884](https://lovdata.no/eu/32021r1884), forordning [(EU) 2021/2202](https://lovdata.no/eu/32021r2202), forordning [(EU) 2022/78](https://lovdata.no/eu/32022r0078), forordning [(EU) 2022/85](https://lovdata.no/eu/32022r0085), forordning [(EU) 2022/93](https://lovdata.no/eu/32022r0093), forordning [(EU) 2022/476](https://lovdata.no/eu/32022r0476), forordning [(EU) 2022/566](https://lovdata.no/eu/32022r0566), forordning [(EU) 2022/1264](https://lovdata.no/eu/32022r1264), forordning [(EU) 2022/1290](https://lovdata.no/eu/32022r1290), forordning [(EU) 2022/1321](https://lovdata.no/eu/32022r1321), forordning [(EU) 2022/1324](https://lovdata.no/eu/32022r1324), forordning [(EU) 2022/1343](https://lovdata.no/eu/32022r1343), forordning [(EU) 2022/1346](https://lovdata.no/eu/32022r1346), forordning [(EU) 2022/1363](https://lovdata.no/eu/32022r1363), forordning [(EU) 2022/1406](https://lovdata.no/eu/32022r1406), forordning [(EU) 2022/1435](https://lovdata.no/eu/32022r1435), forordning [(EU) 2023/127](https://lovdata.no/eu/32023r0127), forordning [(EU) 2023/128](https://lovdata.no/eu/32023r0128), forordning [(EU) 2023/129](https://lovdata.no/eu/32023r0129), forordning [(EU) 2023/147](https://lovdata.no/eu/32023r0147), forordning [(EU) 2023/163](https://lovdata.no/eu/32023r0163), forordning [(EU) 2023/173](https://lovdata.no/eu/32023r0173) forordning [(EU) 2023/198](https://lovdata.no/eu/32023r0198), forordning [(EU) 2023/334](https://lovdata.no/eu/32023r0334), forordning [(EU) 2023/377](https://lovdata.no/eu/32023r0377), forordning [(EU) 2023/466](https://lovdata.no/eu/32023r0466), forordning [(EU) 2023/679](https://lovdata.no/eu/32023r0679), forordning [(EU) 2023/710](https://lovdata.no/eu/32023r0710), forordning [(EU) 2023/1029](https://lovdata.no/eu/32023r1029), [(EU) 2023/1030](https://lovdata.no/eu/32023r1030), forordning [(EU) 2023/1042](https://lovdata.no/eu/32023r1042), forordning [(EU) 2023/1049](https://lovdata.no/eu/32023r1049), forordning [(EU) 2023/1068](https://lovdata.no/eu/32023r1068), forordning [(EU) 2023/1069](https://lovdata.no/eu/32023r1069), forordning [(EU) 2023/1536](https://lovdata.no/eu/32023r1536), forordning [(EU) 2023/1719](https://lovdata.no/eu/32023r1719), forordning [(EU) 2023/1753](https://lovdata.no/eu/32023r1753), forordning [(EU) 2023/1783](https://lovdata.no/eu/32023r1783), forordning [(EU) 2023/2382](https://lovdata.no/eu/32023r2382), forordning [(EU) 2024/398](https://lovdata.no/eu/32024r0398), forordning [(EU) 2024/451](https://lovdata.no/eu/32024r0451), forordning [(EU) 2024/891](https://lovdata.no/eu/32024r0891), forordning [(EU) 2024/1076](https://lovdata.no/eu/32024r1076), forordning [(EU) 2024/1077](https://lovdata.no/eu/32024r1077), forordning [(EU) 2024/1078](https://lovdata.no/eu/32024r1078), forordning [(EU) 2024/331](https://lovdata.no/eu/32024r0331), forordning [(EU) 2024/341](https://lovdata.no/eu/32024r0341), forordning [(EU) 2024/342](https://lovdata.no/eu/32024r0342), forordning [(EU) 2024/344](https://lovdata.no/eu/32024r0344), forordning [(EU) 2024/345](https://lovdata.no/eu/32024r0345), forordning [(EU) 2024/347](https://lovdata.no/eu/32024r0347), forordning [(EU) 2024/352](https://lovdata.no/eu/32024r0352), forordning [(EU) 2024/376](https://lovdata.no/eu/32024r0376), forordning [(EU) 2024/1342](https://lovdata.no/eu/32024r1342), forordning [(EU) 2024/1439](https://lovdata.no/eu/32024r1439), forordning [(EU) 2024/246](https://lovdata.no/eu/32024r0246), forordning [(EU) 2024/1314](https://lovdata.no/eu/32024r1314), forordning [(EU) 2024/1318](https://lovdata.no/eu/32024r1318), forordning [(EU) 2024/1355](https://lovdata.no/eu/32024r1355), forordning [(EU) 2024/2609](https://lovdata.no/eu/32024r2609), forordning [(EU) 2024/2612](https://lovdata.no/eu/32024r2612), forordning [(EU) 2024/2619](https://lovdata.no/eu/32024r2619), forordning [(EU) 2024/2633](https://lovdata.no/eu/32024r2633), forordning [(EU) 2024/2640](https://lovdata.no/eu/32024r2640), forordning [(EU) 2024/2711](https://lovdata.no/eu/32024r2711), forordning [(EU) 2024/3196](https://lovdata.no/eu/32024r3196), forordning [(EU) 2025/115](https://lovdata.no/eu/32025r0115), forordning [(EU) 2025/146](https://lovdata.no/eu/32025r0146), forordning [(EU) 2025/158](https://lovdata.no/eu/32025r0158), forordning [(EU) 2025/195](https://lovdata.no/eu/32025r0195), forordning [(EU) 2025/581](https://lovdata.no/eu/32025r0581), forordning [(EU) 2025/1163](https://lovdata.no/eu/32025r1163), forordning [(EU) 2025/1164](https://lovdata.no/eu/32025r1164), forordning [(EU) 2025/1212](https://lovdata.no/eu/32025r1212), forordning [(EU) 2025/1305](https://lovdata.no/eu/32025r1305), forordning [(EU) 2025/2473](https://lovdata.no/eu/32025r2473), forordning [(EU) 2026/140](https://lovdata.no/eu/32026r0140), forordning [(EU) 2026/147](https://lovdata.no/eu/32026r0147), forordning [(EU) 2026/215](https://lovdata.no/eu/32026r0215), forordning [(EU) 2026/742](https://lovdata.no/eu/32026r0742), forordning [(EU) 2026/751](https://lovdata.no/eu/32026r0751), forordning [(EU) 2026/752](https://lovdata.no/eu/32026r0752), forordning [(EU) 2026/840](https://lovdata.no/eu/32026r0840), forordning [(EU) 2026/876](https://lovdata.no/eu/32026r0876), forordning [(EU) 2026/1314](https://lovdata.no/eu/32026r1314), forordning [(EU) 2026/1339](https://lovdata.no/eu/32026r1339) og forordning [(EU) 2026/1546](https://lovdata.no/eu/32026r1546) om grenseverdier for rester av plantevernmidler i eller på næringsmidler og fôr av animalsk og vegetabilsk opprinnelse og endring av rådsdirektiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Endret ved [forskrifter 7 des 2009 nr. 1714](https://lovdata.no/forskrift/2009-12-07-1714), [3 mai 2010 nr. 763](https://lovdata.no/forskrift/2010-05-03-763), [15 juni 2010 nr. 893](https://lovdata.no/forskrift/2010-06-15-893), [3 mai 2011 nr. 480](https://lovdata.no/forskrift/2011-05-03-480), [4 juli 2011 nr. 736](https://lovdata.no/forskrift/2011-07-04-736), [24 okt 2011 nr. 1054](https://lovdata.no/forskrift/2011-10-24-1054), [13 feb 2012 nr. 144](https://lovdata.no/forskrift/2012-02-13-144), [30 mars 2012 nr. 296](https://lovdata.no/forskrift/2012-03-30-296), [2 mai 2012 nr. 388](https://lovdata.no/forskrift/2012-05-02-388), [10 des 2012 nr. 1362](https://lovdata.no/forskrift/2012-12-10-1362), [1 feb 2013 nr. 147](https://lovdata.no/forskrift/2013-02-01-147), [8 mai 2013 nr. 458](https://lovdata.no/forskrift/2013-05-08-458), [8 nov 2013 nr. 1298](https://lovdata.no/forskrift/2013-11-08-1298), [16 des 2013 nr. 1556](https://lovdata.no/forskrift/2013-12-16-1556), [8 april 2014 nr. 410](https://lovdata.no/forskrift/2014-04-08-410), [21 mai 2014 nr. 664](https://lovdata.no/forskrift/2014-05-21-664), [30 juni 2014 nr. 900](https://lovdata.no/forskrift/2014-06-30-900), [26 sep 2014 nr. 1266](https://lovdata.no/forskrift/2014-09-26-1266), [27 okt 2014 nr. 1343](https://lovdata.no/forskrift/2014-10-27-1343), [16 des 2014 nr. 1710](https://lovdata.no/forskrift/2014-12-16-1710), [3 mars 2015 nr. 181](https://lovdata.no/forskrift/2015-03-03-181), [12 mai 2015 nr. 499](https://lovdata.no/forskrift/2015-05-12-499), [29 sep 2015 nr. 1134](https://lovdata.no/forskrift/2015-09-29-1134), [15 des 2015 nr. 1604](https://lovdata.no/forskrift/2015-12-15-1604), [3 mai 2016 nr. 462](https://lovdata.no/forskrift/2016-05-03-462), [7 juni 2016 nr. 587](https://lovdata.no/forskrift/2016-06-07-587), [12 juli 2016 nr. 916](https://lovdata.no/forskrift/2016-07-12-916), [7 feb 2017 nr. 176](https://lovdata.no/forskrift/2017-02-07-176), [20 mars 2017 nr. 349](https://lovdata.no/forskrift/2017-03-20-349), [8 mai 2017 nr. 552](https://lovdata.no/forskrift/2017-05-08-552), [10 juli 2017 nr. 1179](https://lovdata.no/forskrift/2017-07-10-1179), [25 sep 2017 nr. 1452](https://lovdata.no/forskrift/2017-09-25-1452), [18 des 2017 nr. 2234](https://lovdata.no/forskrift/2017-12-18-2234), [26 mars 2018 nr. 511](https://lovdata.no/forskrift/2018-03-26-511), [9 juli 2018 nr. 1167](https://lovdata.no/forskrift/2018-07-09-1167), [11 feb 2019 nr. 81](https://lovdata.no/forskrift/2019-02-11-81), [1 april 2019 nr. 427](https://lovdata.no/forskrift/2019-04-01-427), [30 sep 2019 nr. 1288](https://lovdata.no/forskrift/2019-09-30-1288), [17 des 2019 nr. 1881](https://lovdata.no/forskrift/2019-12-17-1881), [13 mars 2020 nr. 304](https://lovdata.no/forskrift/2020-03-13-304), [6 mars 2020 nr. 707](https://lovdata.no/forskrift/2020-03-06-707) (i kraft 7 april 2020), [4 mai 2020 nr. 932](https://lovdata.no/forskrift/2020-05-04-932), [18 juni 2020 nr. 1261](https://lovdata.no/forskrift/2020-06-18-1261), [14 des 2020 nr. 2782](https://lovdata.no/forskrift/2020-12-14-2782), [8 feb 2021 nr. 347](https://lovdata.no/forskrift/2021-02-08-347), [26 april 2021 nr. 1313](https://lovdata.no/forskrift/2021-04-26-1313), [12 juli 2021 nr. 2396](https://lovdata.no/forskrift/2021-07-12-2396), [1 nov 2021 nr. 3120](https://lovdata.no/forskrift/2021-11-01-3120), [16 des 2021 nr. 3653](https://lovdata.no/forskrift/2021-12-16-3653), [2 mai 2022 nr. 815](https://lovdata.no/forskrift/2022-05-02-815), [26 sep 2022 nr. 1647](https://lovdata.no/forskrift/2022-09-26-1647), [12 des 2022 nr. 2150](https://lovdata.no/forskrift/2022-12-12-2150), [20 mars 2023 nr. 370](https://lovdata.no/forskrift/2023-03-20-370), [25 sep 2023 nr. 1495](https://lovdata.no/forskrift/2023-09-25-1495), [30 okt 2023 nr. 1751](https://lovdata.no/forskrift/2023-10-30-1751), [5 feb 2024 nr. 190](https://lovdata.no/forskrift/2024-02-05-190), [18 mars 2024 nr. 457](https://lovdata.no/forskrift/2024-03-18-457), [29 april 2024 nr. 689](https://lovdata.no/forskrift/2024-04-29-689), [8 juli 2024 nr. 1646](https://lovdata.no/forskrift/2024-07-08-1646), [23 sep 2024 nr. 2233](https://lovdata.no/forskrift/2024-09-23-2233), [9 des 2024 nr. 3004](https://lovdata.no/forskrift/2024-12-09-3004), [10 feb 2025 nr. 172](https://lovdata.no/forskrift/2025-02-10-172), [17 mars 2025 nr. 467](https://lovdata.no/forskrift/2025-03-17-467), [16 juni 2025 nr. 1020](https://lovdata.no/forskrift/2025-06-16-1020), [14 juli 2025 nr. 1526](https://lovdata.no/forskrift/2025-07-14-1526), [27 okt 2025 nr. 2107](https://lovdata.no/forskrift/2025-10-27-2107), [8 des 2025 nr. 2439](https://lovdata.no/forskrift/2025-12-08-2439), [20 mars 2026 nr. 446](https://lovdata.no/forskrift/2026-03-20-446) (i kraft 21 mars 2026), [4 mai 2026 nr. 808](https://lovdata.no/forskrift/2026-05-04-808) (i kraft 5 mai 2026), [8 juni 2026 nr. 1025](https://lovdata.no/forskrift/2026-06-08-1025), [13 juli 2026 nr. 1561](https://lovdata.no/forskrift/2026-07-13-1561), [28 sep 2026 nr. 1924](https://lovdata.no/forskrift/2026-09-28-1924).*
+
+## § 2. Forordning (EF) nr. 645/2000
+
+EØS-avtalen vedlegg II kapittel XII nr. 54zzd (forordning [(EF) nr. 645/2000](https://lovdata.no/eu/32000r0645)) om fastsettelse av nærmere gjennomføringsregler som er nødvendige for riktig anvendelse av visse bestemmelser i artikkel 7 i rådsdirektiv [86/362/EØF](https://lovdata.no/eu/31986l0362) og i artikkel 4 i rådsdirektiv [90/642/EØF](https://lovdata.no/eu/31990l0642) om kontroll av grenseverdier for rester av plantevernmidler på og i henholdsvis korn og visse produkter av vegetabilsk opprinnelse, herunder frukt og grønnsaker gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+## § 3. Direktiv 2002/63/EF
+
+EØS-avtalen vedlegg II kapittel XII nr. 54zz (direktiv [2002/63/EF](https://lovdata.no/eu/32002l0063)) om fastsettelse av fellesskapsmetoder for prøvetaking ved offentlig kontroll av rester av plantevernmidler i og på produkter av vegetabilsk og animalsk opprinnelse og om oppheving av direktiv [79/700/EØF](https://lovdata.no/eu/31979l0700) gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+*Oppheves ved forskrift [13 juli 2026 nr. 1558](for-2026-07-13-1558-forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler.md) (i kraft 1 jan 2027).*
+
+## § 4. Innhold av rester av plantevernmidler i barnemat mv.
+
+Bestemmelser om innhold av rester av plantevernmidler i barnemat følger av [forskrift 18. oktober 2002 nr. 1185](for-2002-10-18-1185-forskrift-om-barnemat.md) om bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn og bestemmelser om innhold av rester av plantevernmidler i morsmelkerstatning og tilskuddsblandinger følger av [forskrift 13. august 2008 nr. 936](https://lovdata.no/forskrift/2008-08-13-936) om morsmelkerstatning og tilskuddsblandinger.
+
+*Endret ved [forskrift 3 mars 2015 nr. 181](https://lovdata.no/forskrift/2015-03-03-181).*
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+Samtidig oppheves [forskrift 21. desember 1993 nr. 1388](https://lovdata.no/forskrift/1993-12-21-1388) om rester av plantevernmidler mv. i næringsmidler og fôrvarer.
+
+## Forordninger
+
+For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gjennomført, gjengir vi dem i dette avsnittet. Teksten nedenfor er kun til informasjon, og er ikke en del av forskriften.
+
+### Forordning (EF) nr. 396/2005
+
+*Endret ved [forskrifter 7 des 2009 nr. 1714](https://lovdata.no/forskrift/2009-12-07-1714), [3 mai 2010 nr. 763](https://lovdata.no/forskrift/2010-05-03-763), [15 juni 2010 nr. 893](https://lovdata.no/forskrift/2010-06-15-893), [3 mai 2011 nr. 480](https://lovdata.no/forskrift/2011-05-03-480), [4 juli 2011 nr. 736](https://lovdata.no/forskrift/2011-07-04-736), [24 okt 2011 nr. 1054](https://lovdata.no/forskrift/2011-10-24-1054), [13 feb 2012 nr. 144](https://lovdata.no/forskrift/2012-02-13-144), [30 mars 2012 nr. 296](https://lovdata.no/forskrift/2012-03-30-296), [2 mai 2012 nr. 388](https://lovdata.no/forskrift/2012-05-02-388), [10 des 2012 nr. 1362](https://lovdata.no/forskrift/2012-12-10-1362), [1 feb 2013 nr. 147](https://lovdata.no/forskrift/2013-02-01-147), [8 mai 2013 nr. 458](https://lovdata.no/forskrift/2013-05-08-458), [8 nov 2013 nr. 1298](https://lovdata.no/forskrift/2013-11-08-1298), [16 des 2013 nr. 1556](https://lovdata.no/forskrift/2013-12-16-1556), [8 april 2014 nr. 410](https://lovdata.no/forskrift/2014-04-08-410), [21 mai 2014 nr. 664](https://lovdata.no/forskrift/2014-05-21-664), [30 juni 2014 nr. 900](https://lovdata.no/forskrift/2014-06-30-900), [26 sep 2014 nr. 1266](https://lovdata.no/forskrift/2014-09-26-1266), [27 okt 2014 nr. 1343](https://lovdata.no/forskrift/2014-10-27-1343), [16 des 2014 nr. 1710](https://lovdata.no/forskrift/2014-12-16-1710), [3 mars 2015 nr. 181](https://lovdata.no/forskrift/2015-03-03-181), [12 mai 2015 nr. 499](https://lovdata.no/forskrift/2015-05-12-499) (i kraft 13 mai 2015), [29 sep 2015 nr. 1134](https://lovdata.no/forskrift/2015-09-29-1134), [15 des 2015 nr. 1604](https://lovdata.no/forskrift/2015-12-15-1604), [3 mai 2016 nr. 462](https://lovdata.no/forskrift/2016-05-03-462), [7 juni 2016 nr. 587](https://lovdata.no/forskrift/2016-06-07-587), [12 juli 2016 nr. 916](https://lovdata.no/forskrift/2016-07-12-916), [7 feb 2017 nr. 176](https://lovdata.no/forskrift/2017-02-07-176), [20 mars 2017 nr. 349](https://lovdata.no/forskrift/2017-03-20-349), [8 mai 2017 nr. 552](https://lovdata.no/forskrift/2017-05-08-552), [10 juli 2017 nr. 1179](https://lovdata.no/forskrift/2017-07-10-1179), [25 sep 2017 nr. 1452](https://lovdata.no/forskrift/2017-09-25-1452), [18 des 2017 nr. 2234](https://lovdata.no/forskrift/2017-12-18-2234), [26 mars 2018 nr. 511](https://lovdata.no/forskrift/2018-03-26-511), [9 juli 2018 nr. 1167](https://lovdata.no/forskrift/2018-07-09-1167), [11 feb 2019 nr. 81](https://lovdata.no/forskrift/2019-02-11-81), [1 april 2019 nr. 427](https://lovdata.no/forskrift/2019-04-01-427), [30 sep 2019 nr. 1288](https://lovdata.no/forskrift/2019-09-30-1288), [17 des 2019 nr. 1881](https://lovdata.no/forskrift/2019-12-17-1881), [13 mars 2020 nr. 304](https://lovdata.no/forskrift/2020-03-13-304), [6 mars 2020 nr. 707](https://lovdata.no/forskrift/2020-03-06-707) (i kraft 7 april 2020), [4 mai 2020 nr. 932](https://lovdata.no/forskrift/2020-05-04-932), [18 juni 2020 nr. 1261](https://lovdata.no/forskrift/2020-06-18-1261), [14 des 2020 nr. 2782](https://lovdata.no/forskrift/2020-12-14-2782), [8 feb 2021 nr. 347](https://lovdata.no/forskrift/2021-02-08-347), [26 april 2021 nr. 1313](https://lovdata.no/forskrift/2021-04-26-1313), [12 juli 2021 nr. 2396](https://lovdata.no/forskrift/2021-07-12-2396), [1 nov 2021 nr. 3120](https://lovdata.no/forskrift/2021-11-01-3120), [16 des 2021 nr. 3653](https://lovdata.no/forskrift/2021-12-16-3653), [2 mai 2022 nr. 815](https://lovdata.no/forskrift/2022-05-02-815), [26 sep 2022 nr. 1647](https://lovdata.no/forskrift/2022-09-26-1647) , [12 des 2022 nr. 2150](https://lovdata.no/forskrift/2022-12-12-2150), [20 mars 2023 nr. 370](https://lovdata.no/forskrift/2023-03-20-370), [25 sep 2023 nr. 1495](https://lovdata.no/forskrift/2023-09-25-1495), [30 okt 2023 nr. 1751](https://lovdata.no/forskrift/2023-10-30-1751), [5 feb 2024 nr. 190](https://lovdata.no/forskrift/2024-02-05-190), [18 mars 2024 nr. 457](https://lovdata.no/forskrift/2024-03-18-457), [29 april 2024 nr. 689](https://lovdata.no/forskrift/2024-04-29-689), [8 juli 2024 nr. 1646](https://lovdata.no/forskrift/2024-07-08-1646), [23 sep 2024 nr. 2233](https://lovdata.no/forskrift/2024-09-23-2233), [9 des 2024 nr. 3004](https://lovdata.no/forskrift/2024-12-09-3004), [10 feb 2025 nr. 172](https://lovdata.no/forskrift/2025-02-10-172), [17 mars 2025 nr. 467](https://lovdata.no/forskrift/2025-03-17-467), [16 juni 2025 nr. 1020](https://lovdata.no/forskrift/2025-06-16-1020), [14 juli 2025 nr. 1526](https://lovdata.no/forskrift/2025-07-14-1526), [27 okt 2025 nr. 2107](https://lovdata.no/forskrift/2025-10-27-2107), [8 des 2025 nr. 2439](https://lovdata.no/forskrift/2025-12-08-2439), [20 mars 2026 nr. 446](https://lovdata.no/forskrift/2026-03-20-446) (i kraft 21 mars 2026), [4 mai 2026 nr. 808](https://lovdata.no/forskrift/2026-05-04-808) (i kraft 5 mai 2026), [8 juni 2026 nr. 1025](https://lovdata.no/forskrift/2026-06-08-1025), [13 juli 2026 nr. 1561](https://lovdata.no/forskrift/2026-07-13-1561), [28 sep 2026 nr. 1924](https://lovdata.no/forskrift/2026-09-28-1924).*
+
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EF) nr. 178/2006](https://lovdata.no/eu/32006r0178), forordning [(EF) nr. 149/2008](https://lovdata.no/eu/32008r0149), forordning [(EF) nr. 260/2008](https://lovdata.no/eu/32008r0260), forordning [(EF) nr. 839/2008](https://lovdata.no/eu/32008r0839), forordning [(EF) nr. 256/2009](https://lovdata.no/eu/32009r0256), forordning [(EF) nr. 822/2009](https://lovdata.no/eu/32009r0822), forordning [(EF) nr. 1050/2009](https://lovdata.no/eu/32009r1050), forordning [(EF) nr. 1097/2009](https://lovdata.no/eu/32009r1097), forordning [(EU) nr. 304/2010](https://lovdata.no/eu/32010r0304), forordning [(EU) nr. 459/2010](https://lovdata.no/eu/32010r0459), forordning [(EU) nr. 600/2010](https://lovdata.no/eu/32010r0600), forordning [(EU) nr. 750/2010](https://lovdata.no/eu/32010r0750), forordning [(EU) nr. 765/2010](https://lovdata.no/eu/32010r0765), forordning [(EU) nr. 893/2010](https://lovdata.no/eu/32010r0893), forordning [(EU) nr. 310/2011](https://lovdata.no/eu/32011r0310), forordning [(EU) nr. 460/2011](https://lovdata.no/eu/32011r0460), forordning [(EU) nr. 508/2011](https://lovdata.no/eu/32011r0508), forordning [(EU) nr. 520/2011](https://lovdata.no/eu/32011r0520), forordning [(EU) nr. 524/2011](https://lovdata.no/eu/32011r0524), forordning [(EU) nr. 559/2011](https://lovdata.no/eu/32011r0559), forordning [(EU) nr. 812/2011](https://lovdata.no/eu/32011r0812), forordning [(EU) nr. 813/2011](https://lovdata.no/eu/32011r0813), forordning [(EU) nr. 978/2011](https://lovdata.no/eu/32011r0978), forordning [(EU) nr. 270/2012](https://lovdata.no/eu/32012r0270), forordning [(EU) nr. 322/2012](https://lovdata.no/eu/32012r0322), forordning [(EU) nr. 441/2012](https://lovdata.no/eu/32012r0441), forordning [(EU) nr. 473/2012](https://lovdata.no/eu/32012r0473), forordning [(EU) nr. 556/2012](https://lovdata.no/eu/32012r0556), forordning [(EU) nr. 592/2012](https://lovdata.no/eu/32012r0592), forordning [(EU) nr. 897/2012](https://lovdata.no/eu/32012r0897), forordning [(EU) nr. 899/2012](https://lovdata.no/eu/32012r0899), forordning [(EU) nr. 34/2013](https://lovdata.no/eu/32013r0034), forordning [(EU) nr. 35/2013](https://lovdata.no/eu/32013r0035), forordning [(EU) nr. 212/2013](https://lovdata.no/eu/32013r0212), forordning [(EU) nr. 241/2013](https://lovdata.no/eu/32013r0241), forordning [(EU) nr. 251/2013](https://lovdata.no/eu/32013r0251), forordning [(EU) nr. 293/2013](https://lovdata.no/eu/32013r0293), forordning [(EU) nr. 500/2013](https://lovdata.no/eu/32013r0500), forordning [(EU) nr. 668/2013](https://lovdata.no/eu/32013r0668), forordning [(EU) nr. 772/2013](https://lovdata.no/eu/32013r0772), forordning [(EU) nr. 777/2013](https://lovdata.no/eu/32013r0777), forordning [(EU) nr. 834/2013](https://lovdata.no/eu/32013r0834), forordning [(EU) nr. 1004/2013](https://lovdata.no/eu/32013r1004), forordning [(EU) nr. 1138/2013](https://lovdata.no/eu/32013r1138), forordning [(EU) nr. 1317/2013](https://lovdata.no/eu/32013r1317), forordning [(EU) nr. 36/2014](https://lovdata.no/eu/32014r0036), forordning [(EU) nr. 51/2014](https://lovdata.no/eu/32014r0051), forordning [(EU) nr. 61/2014](https://lovdata.no/eu/32014r0061), forordning [(EU) nr. 79/2014](https://lovdata.no/eu/32014r0079), forordning [(EU) nr. 87/2014](https://lovdata.no/eu/32014r0087), forordning [(EU) nr. 289/2014](https://lovdata.no/eu/32014r0289), forordning [(EU) nr. 318/2014](https://lovdata.no/eu/32014r0318), forordning [(EU) nr. 364/2014](https://lovdata.no/eu/32014r0364), forordning [(EU) nr. 398/2014](https://lovdata.no/eu/32014r0398), forordning [(EU) nr. 400/2014](https://lovdata.no/eu/32014r0400), forordning [(EU) nr. 491/2014](https://lovdata.no/eu/32014r0491), forordning [(EU) nr. 588/2014](https://lovdata.no/eu/32014r0588), forordning [(EU) nr. 617/2014](https://lovdata.no/eu/32014r0617), forordning [(EU) nr. 703/2014](https://lovdata.no/eu/32014r0703), forordning [(EU) nr. 737/2014](https://lovdata.no/eu/32014r0737), forordning [(EU) nr. 752/2014](https://lovdata.no/eu/32014r0752), forordning [(EU) nr. 991/2014](https://lovdata.no/eu/32014r0991), forordning [(EU) nr. 1096/2014](https://lovdata.no/eu/32014r1096), forordning [(EU) nr. 1119/2014](https://lovdata.no/eu/32014r1119), forordning [(EU) nr. 1126/2014](https://lovdata.no/eu/32014r1126), forordning [(EU) nr. 1127/2014](https://lovdata.no/eu/32014r1127), forordning [(EU) 2015/165](https://lovdata.no/eu/32015r0165), forordning [(EU) 2015/399](https://lovdata.no/eu/32015r0399), forordning [(EU) 2015/400](https://lovdata.no/eu/32015r0400), forordning [(EU) 2015/401](https://lovdata.no/eu/32015r0401), forordning [(EU) 2015/552](https://lovdata.no/eu/32015r0552), forordning [(EU) 2015/603](https://lovdata.no/eu/32015r0603), forordning [(EU) 2015/845](https://lovdata.no/eu/32015r0845), forordning [(EU) 2015/846](https://lovdata.no/eu/32015r0846), forordning [(EU) 2015/868](https://lovdata.no/eu/32015r0868), forordning [(EU) 2015/896](https://lovdata.no/eu/32015r0896), forordning [(EU) 2015/1040](https://lovdata.no/eu/32015r1040), forordning [(EU) 2015/1101](https://lovdata.no/eu/32015r1101), forordning [(EU) 2015/1200](https://lovdata.no/eu/32015r1200), forordning [(EU) nr. 1146/2014](https://lovdata.no/eu/32014r1146), forordning [(EU) 2015/1608](https://lovdata.no/eu/32015r1608), forordning [(EU) 2015/1910](https://lovdata.no/eu/32015r1910), forordning [(EU) 2015/2075](https://lovdata.no/eu/32015r2075), forordning [(EU) 2016/46](https://lovdata.no/eu/32016r0046), forordning [(EU) 2016/53](https://lovdata.no/eu/32016r0053), forordning [(EU) 2016/60](https://lovdata.no/eu/32016r0060), forordning [(EU) 2016/67](https://lovdata.no/eu/32016r0067), forordning [(EU) 2016/71](https://lovdata.no/eu/32016r0071), forordning [(EU) 2016/75](https://lovdata.no/eu/32016r0075), forordning [(EU) 2016/143](https://lovdata.no/eu/32016r0143), forordning [(EU) 2016/1](https://lovdata.no/eu/32016r0001), forordning [(EU) 2016/156](https://lovdata.no/eu/32016r0156), forordning [(EU) 2016/439](https://lovdata.no/eu/32016r0439), forordning [(EU) 2016/440](https://lovdata.no/eu/32016r0440), forordning [(EU) 2016/452](https://lovdata.no/eu/32016r0452), forordning [(EU) 2016/486](https://lovdata.no/eu/32016r0486), forordning [(EU) 2016/567](https://lovdata.no/eu/32016r0567), forordning [(EU) 2016/805](https://lovdata.no/eu/32016r0805), forordning [(EU) 2016/1002](https://lovdata.no/eu/32016r1002), forordning [(EU) 2016/1003](https://lovdata.no/eu/32016r1003), forordning [(EU) 2016/1015](https://lovdata.no/eu/32016r1015), forordning [(EU) 2016/1016](https://lovdata.no/eu/32016r1016), forordning [(EU) 2016/1355](https://lovdata.no/eu/32016r1355), forordning [(EU) 2016/1726](https://lovdata.no/eu/32016r1726), forordning [(EU) 2016/1785](https://lovdata.no/eu/32016r1785), forordning [(EU) 2016/1822](https://lovdata.no/eu/32016r1822), forordning [(EU) 2016/1866](https://lovdata.no/eu/32016r1866), forordning [(EU) 2016/1902](https://lovdata.no/eu/32016r1902), forordning [(EU) 2017/170](https://lovdata.no/eu/32017r0170), forordning [(EU) 2017/171](https://lovdata.no/eu/32017r0171), forordning [(EU) 2017/405](https://lovdata.no/eu/32017r0405), forordning [(EU) 2017/623](https://lovdata.no/eu/32017r0623), forordning [(EU) 2017/624](https://lovdata.no/eu/32017r0624), forordning [(EU) 2017/626](https://lovdata.no/eu/32017r0626), forordning [(EU) 2017/627](https://lovdata.no/eu/32017r0627), forordning [(EU) 2017/671](https://lovdata.no/eu/32017r0671), forordning [(EU) 2017/693](https://lovdata.no/eu/32017r0693), forordning [(EU) 2017/978](https://lovdata.no/eu/32017r0978), forordning [(EU) 2017/983](https://lovdata.no/eu/32017r0983), forordning [(EU) 2017/1016](https://lovdata.no/eu/32017r1016), forordning [(EU) 2017/1135](https://lovdata.no/eu/32017r1135), forordning [(EU) 2017/1164](https://lovdata.no/eu/32017r1164), forordning [(EU) 2017/1777](https://lovdata.no/eu/32017r1777), forordning [(EU) 2018/62](https://lovdata.no/eu/32018r0062), forordning [(EU) 2018/70](https://lovdata.no/eu/32018r0070), forordning [(EU) 2018/73](https://lovdata.no/eu/32018r0073), forordning [(EU) 2018/78](https://lovdata.no/eu/32018r0078), forordning [(EU) 2018/685](https://lovdata.no/eu/32018r0685), forordning [(EU) 2018/686](https://lovdata.no/eu/32018r0686), forordning [(EU) 2018/687](https://lovdata.no/eu/32018r0687), forordning [(EU) 2018/832](https://lovdata.no/eu/32018r0832), forordning [(EU) 2018/960](https://lovdata.no/eu/32018r0960), forordning [(EU) 2018/1049](https://lovdata.no/eu/32018r1049), forordning [(EU) 2018/1514](https://lovdata.no/eu/32018r1514), forordning [(EU) 2018/1515](https://lovdata.no/eu/32018r1515), forordning [(EU) 2018/1516](https://lovdata.no/eu/32018r1516), forordning [(EU) 2019/38](https://lovdata.no/eu/32019r0038), forordning [(EU) 2019/50](https://lovdata.no/eu/32019r0050), forordning [(EU) 2019/58](https://lovdata.no/eu/32019r0058), forordning [(EU) 2019/88](https://lovdata.no/eu/32019r0088), forordning [(EU) 2019/89](https://lovdata.no/eu/32019r0089), forordning [(EU) 2019/90](https://lovdata.no/eu/32019r0090), forordning [(EU) 2019/91](https://lovdata.no/eu/32019r0091), forordning [(EU) 2019/552](https://lovdata.no/eu/32019r0552), forordning [(EU) 2019/973](https://lovdata.no/eu/32019r0973), forordning [(EU) 2019/977](https://lovdata.no/eu/32019r0977), forordning [(EU) 2019/1015](https://lovdata.no/eu/32019r1015), forordning [(EU) 2019/1176](https://lovdata.no/eu/32019r1176), forordning [(EU) 2017/625](https://lovdata.no/eu/32017r0625), forordning [(EU) 2019/1559](https://lovdata.no/eu/32019r1559), forordning [(EU) 2019/1561](https://lovdata.no/eu/32019r1561), forordning [(EU) 2019/1582](https://lovdata.no/eu/32019r1582), forordning [(EU) 2019/1791](https://lovdata.no/eu/32019r1791), forordning [(EU) 2019/1792](https://lovdata.no/eu/32019r1792), forordning [(EU) 2020/192](https://lovdata.no/eu/32020r0192), forordning [(EU) 2020/703](https://lovdata.no/eu/32020r0703), forordning [(EU) 2020/749](https://lovdata.no/eu/32020r0749), forordning [(EU) 2020/770](https://lovdata.no/eu/32020r0770), forordning [(EU) 2020/785](https://lovdata.no/eu/32020r0785), forordning [(EU) 2020/856](https://lovdata.no/eu/32020r0856), forordning [(EU) 2020/1085](https://lovdata.no/eu/32020r1085), forordning [(EU) 2020/1565](https://lovdata.no/eu/32020r1565), forordning [(EU) 2020/1566](https://lovdata.no/eu/32020r1566), forordning [(EU) 2020/1633](https://lovdata.no/eu/32020r1633), forordning [(EU) 2021/155](https://lovdata.no/eu/32021r0155), forordning [(EU) 2021/616](https://lovdata.no/eu/32021r0616), forordning [(EU) 2021/618](https://lovdata.no/eu/32021r0618), forordning [(EU) 2021/644](https://lovdata.no/eu/32021r0644), forordning [(EU) 2021/663](https://lovdata.no/eu/32021r0663), forordning [(EU) 2021/590](https://lovdata.no/eu/32021r0590), forordning [(EU) 2021/976](https://lovdata.no/eu/32021r0976), forordning [(EU) 2021/1098](https://lovdata.no/eu/32021r1098), forordning [(EU) 2021/1110](https://lovdata.no/eu/32021r1110), forordning [(EU) 2021/1247](https://lovdata.no/eu/32021r1247), forordning [(EU) 2021/1531](https://lovdata.no/eu/32021r1531), forordning [(EU) 2021/1771](https://lovdata.no/eu/32021r1771), forordning [(EU) 2021/1795](https://lovdata.no/eu/32021r1795), forordning [(EU) 2021/1804](https://lovdata.no/eu/32021r1804), forordning [(EU) 2021/1807](https://lovdata.no/eu/32021r1807), forordning [(EU) 2021/1810](https://lovdata.no/eu/32021r1810), forordning [(EU) 2021/1841](https://lovdata.no/eu/32021r1841), forordning [(EU) 2021/1842](https://lovdata.no/eu/32021r1842), forordning [(EU) 2021/1864](https://lovdata.no/eu/32021r1864), forordning [(EU) 2021/1881](https://lovdata.no/eu/32021r1881), forordning [(EU) 2021/1884](https://lovdata.no/eu/32021r1884), forordning [(EU) 2021/2202](https://lovdata.no/eu/32021r2202), forordning [(EU) 2022/78](https://lovdata.no/eu/32022r0078), forordning [(EU) 2022/85](https://lovdata.no/eu/32022r0085), forordning [(EU) 2022/93](https://lovdata.no/eu/32022r0093), forordning [(EU) 2022/476](https://lovdata.no/eu/32022r0476), forordning [(EU) 2022/566](https://lovdata.no/eu/32022r0566), forordning [(EU) 2022/1264](https://lovdata.no/eu/32022r1264), forordning [(EU) 2022/1290](https://lovdata.no/eu/32022r1290), forordning [(EU) 2022/1321](https://lovdata.no/eu/32022r1321), forordning [(EU) 2022/1324](https://lovdata.no/eu/32022r1324), forordning [(EU) 2022/1343](https://lovdata.no/eu/32022r1343), forordning [(EU) 2022/1346](https://lovdata.no/eu/32022r1346), forordning [(EU) 2022/1363](https://lovdata.no/eu/32022r1363), forordning [(EU) 2022/1406](https://lovdata.no/eu/32022r1406), forordning [(EU) 2022/1435](https://lovdata.no/eu/32022r1435), forordning [(EU) 2023/127](https://lovdata.no/eu/32023r0127), forordning [(EU) 2023/128](https://lovdata.no/eu/32023r0128), forordning [(EU) 2023/129](https://lovdata.no/eu/32023r0129), forordning [(EU) 2023/147](https://lovdata.no/eu/32023r0147), forordning [(EU) 2023/163](https://lovdata.no/eu/32023r0163), forordning [(EU) 2023/173](https://lovdata.no/eu/32023r0173), forordning [(EU) 2023/198](https://lovdata.no/eu/32023r0198), forordning [(EU) 2023/334](https://lovdata.no/eu/32023r0334), forordning [(EU) 2023/377](https://lovdata.no/eu/32023r0377), forordning [(EU) 2023/466](https://lovdata.no/eu/32023r0466), forordning [(EU) 2023/679](https://lovdata.no/eu/32023r0679), forordning [(EU) 2023/710](https://lovdata.no/eu/32023r0710), forordning [(EU) 2023/1029](https://lovdata.no/eu/32023r1029), forordning [(EU) 2023/1030](https://lovdata.no/eu/32023r1030), forordning [(EU) 2023/1042](https://lovdata.no/eu/32023r1042), forordning [(EU) 2023/1049](https://lovdata.no/eu/32023r1049), forordning [(EU) 2023/1068](https://lovdata.no/eu/32023r1068), forordning [(EU) 2023/1069](https://lovdata.no/eu/32023r1069), forordning [(EU) 2023/1536](https://lovdata.no/eu/32023r1536), forordning [(EU) 2023/1719](https://lovdata.no/eu/32023r1719), forordning [(EU) 2023/1753](https://lovdata.no/eu/32023r1753), forordning [(EU) 2023/1783](https://lovdata.no/eu/32023r1783), forordning [(EU) 2023/2382](https://lovdata.no/eu/32023r2382), forordning [(EU) 2024/398](https://lovdata.no/eu/32024r0398), forordning [(EU) 2024/451](https://lovdata.no/eu/32024r0451), forordning [(EU) 2024/891](https://lovdata.no/eu/32024r0891), forordning [(EU) 2024/1076](https://lovdata.no/eu/32024r1076), forordning [(EU) 2024/1077](https://lovdata.no/eu/32024r1077), forordning [(EU) 2024/1078](https://lovdata.no/eu/32024r1078), forordning [(EU) 2024/331](https://lovdata.no/eu/32024r0331), forordning [(EU) 2024/341](https://lovdata.no/eu/32024r0341), forordning [(EU) 2024/342](https://lovdata.no/eu/32024r0342), forordning [(EU) 2024/344](https://lovdata.no/eu/32024r0344), forordning [(EU) 2024/345](https://lovdata.no/eu/32024r0345), forordning [(EU) 2024/347](https://lovdata.no/eu/32024r0347), forordning [(EU) 2024/352](https://lovdata.no/eu/32024r0352), forordning [(EU) 2024/376](https://lovdata.no/eu/32024r0376), forordning [(EU) 2024/1342](https://lovdata.no/eu/32024r1342), forordning [(EU) 2024/1439](https://lovdata.no/eu/32024r1439), forordning [(EU) 2024/246](https://lovdata.no/eu/32024r0246), forordning [(EU) 2024/1314](https://lovdata.no/eu/32024r1314), forordning [(EU) 2024/1318](https://lovdata.no/eu/32024r1318), forordning [(EU) 2024/1355](https://lovdata.no/eu/32024r1355), forordning [(EU) 2024/2609](https://lovdata.no/eu/32024r2609), forordning [(EU) 2024/2612](https://lovdata.no/eu/32024r2612), forordning [(EU) 2024/2619](https://lovdata.no/eu/32024r2619), forordning [(EU) 2024/2633](https://lovdata.no/eu/32024r2633), forordning [(EU) 2024/2640](https://lovdata.no/eu/32024r2640), forordning [(EU) 2024/2711](https://lovdata.no/eu/32024r2711), forordning [(EU) 2024/3196](https://lovdata.no/eu/32024r3196), forordning [(EU) 2025/115](https://lovdata.no/eu/32025r0115), forordning [(EU) 2025/146](https://lovdata.no/eu/32025r0146), forordning [(EU) 2025/158](https://lovdata.no/eu/32025r0158), forordning [(EU) 2025/195](https://lovdata.no/eu/32025r0195) og forordning [(EU) 2025/581](https://lovdata.no/eu/32025r0581), forordning [(EU) 2025/1163](https://lovdata.no/eu/32025r1163), forordning [(EU) 2025/1164](https://lovdata.no/eu/32025r1164), forordning [(EU) 2025/1212](https://lovdata.no/eu/32025r1212), forordning [(EU) 2025/1305](https://lovdata.no/eu/32025r1305), forordning [(EU) 2025/2473](https://lovdata.no/eu/32025r2473), forordning [(EU) 2026/140](https://lovdata.no/eu/32026r0140), forordning [(EU) 2026/147](https://lovdata.no/eu/32026r0147) og forordning [(EU) 2026/215](https://lovdata.no/eu/32026r0215), forordning [(EU) 2026/742](https://lovdata.no/eu/32026r0742), forordning [(EU) 2026/751](https://lovdata.no/eu/32026r0751) og forordning [(EU) 2026/752](https://lovdata.no/eu/32026r0752), forordning [(EU) 2026/840](https://lovdata.no/eu/32026r0840), forordning [(EU) 2026/876](https://lovdata.no/eu/32026r0876), forordning [(EU) 2026/1314](https://lovdata.no/eu/32026r1314), forordning [(EU) 2026/1339](https://lovdata.no/eu/32026r1339) og forordning [(EU) 2026/1546](https://lovdata.no/eu/32026r1546).
+
+Endringsforordningene er ikke innarbeidet i grunnforordningen, men gjengis nedenfor i norsk uoffisiell oversettelse.
+
+► B Forordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396)
+
+som endret ved
+
+- ►**M1** Forordning [(EF) nr. 178/2006](https://lovdata.no/eu/32006r0178)
+- ►**M2** Forordning [(EF) nr. 149/2008](https://lovdata.no/eu/32008r0149*)
+- ►**M3** Forordning [(EF) nr. 260/2008](https://lovdata.no/eu/32008r0260)
+- ►**M4** Forordning [(EF) nr. 839/2008](https://lovdata.no/eu/32008r0839*)
+- ►**M5** Forordning [(EF) nr. 256/2009](https://lovdata.no/eu/32009r0256*)
+- ►**M6** Forordning [(EF) nr. 822/2009](https://lovdata.no/eu/32009r0822*)
+- ►**M7** Forordning [(EF) nr. 1050/2009](https://lovdata.no/eu/32009r1050*)
+- ►**M8** Forordning [(EF) nr. 1097/2009](https://lovdata.no/eu/32009r1097*)
+- ►**M9** Forordning [(EU) nr. 459/2010](https://lovdata.no/eu/32010r0459)
+- ►**M10** Forordning [(EU) nr. 600/2010](https://lovdata.no/eu/32010r0600)
+- ►**M11** Forordning [(EU) nr. 765/2010](https://lovdata.no/eu/32010r0765)
+- ►**M12** Forordning [(EU) nr. 893/2010](https://lovdata.no/eu/32010r0893)
+- ►**M13** Forordning [(EU) nr. 304/2010](https://lovdata.no/eu/32010r0304)
+- ►**M14** Forordning [(EU) nr. 310/2011](https://lovdata.no/eu/32011r0310)
+- ►**M15** Forordning [(EU) nr. 460/2011](https://lovdata.no/eu/32011r0460)
+- ►**M16** Forordning [(EU) nr. 508/2011](https://lovdata.no/eu/32011r0508)
+- ►**M17** Forordning [(EU) nr. 520/2011](https://lovdata.no/eu/32011r0520)
+- ►**M18** Forordning [(EU) nr. 524/2011](https://lovdata.no/eu/32011r0524*)
+- ►**M19** Forordning [(EU) nr. 559/2011](https://lovdata.no/eu/32011r0559)
+- ►**M20** Forordning [(EU) nr. 812/2011](https://lovdata.no/eu/32011r0812)
+- ►**M21** Forordning [(EU) nr. 813/2011](https://lovdata.no/eu/32011r0813)
+- ►**M22** Forordning [(EU) nr. 750/2010](https://lovdata.no/eu/32010r0750)
+- ►**M23** Forordning [(EU) nr. 978/2011](https://lovdata.no/eu/32011r0978)
+- ►**M24** Forordning [(EU) nr. 270/2012](https://lovdata.no/eu/32012r0270)
+- ►**M25** Forordning [(EU) nr. 322/2012](https://lovdata.no/eu/32012r0322)
+- ►**M26** Forordning [(EU) nr. 441/2012](https://lovdata.no/eu/32012r0441)
+- ►**M27** Forordning [(EU) nr. 473/2012](https://lovdata.no/eu/32012r0473)
+- ►**M28** Forordning [(EU) nr. 556/2012](https://lovdata.no/eu/32012r0556)
+- ►**M29** Forordning [(EU) nr. 592/2012](https://lovdata.no/eu/32012r0592)
+- ►**M30** Forordning [(EU) nr. 897/2012](https://lovdata.no/eu/32012r0897)
+- ►**M31** Forordning [(EU) nr. 899/2012](https://lovdata.no/eu/32012r0899).
+- ►**M32** Forordning [(EU) nr. 2017/625](https://lovdata.no/eu/32017r0625*).
+
+#### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 396/2005/EF](https://lovdata.no/eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av plantevernmidler i eller på næringsmidler og fôr av vegetabilsk og animalsk opprinnelse og endring av rådsdirektiv [91/414/EØF](https://lovdata.no/eu/31991l0414*)
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 37 og artikkel 152 nr. 4 bokstav b),
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Den europeiske øko nomiske og sosiale komité,[1]
+
+etter samråd med Regionkomiteen, og
+
+etter framgangsmåten fastsatt i traktatens artikkel 251,[2]
+
+ut fra følgende betraktninger:
+
+1. Rådsdirektiv [76/895/EØF](https://lovdata.no/eu/31976l0895*) av 23. november 1976 om fastsettelse av maksimumsverdier for rester av plantevernmidler på og i frukt og grønnsaker,[3] rådsdirektiv [86/362/EØF](https://lovdata.no/eu/31986l0362) av 24. juli 1986 om fastsettelse av maksimumsverdier for rester av plantevernmidler på og i korn,[4] rådsdirektiv [86/363/EØF](https://lovdata.no/eu/31986l0363) av 24. juli 1986 om fastsettelse av maksimumsverdier for rester av plantevernmidler på og i næringsmidler av animalsk opprinnelse[5] og rådsdirektiv [90/642/EØF](https://lovdata.no/eu/31990l0642) av 27. november 1990 om fastsettelse av maksimumsverdier for rester av plantevernmidler på eller i visse produkter av vegetabilsk opprinnelse, herunder frukt og grønnsaker,[6] er blitt betydelig endret en rekke ganger. Av klarhetshensyn og for å gjøre det enklere bør nevnte direktiver oppheves og erstattes av ett direktiv.
+2. Denne forordning berører folkehelsen direkte og er relevant for hvordan det indre marked fungerer. Forskjellene i de nasjonale grenseverdiene for restmengder av plantevernmidler kan skape hindringer for handelen av produkter som er oppført i vedlegg I til traktaten, og for produkter av disse, mellom medlemsstatene og handelen mellom tredjestater og Fellesskapet. For å sikre fritt varebytte, like konkurransevilkår for medlemsstatene, samt høyt nivå av forbrukervern bør grenseverdiene for restmengder for produkter av vegetabilsk og animalsk opprinnelse fastsettes på fellesskapsplan, idet det tas hensyn til god landbrukspraksis.
+3. En forordning som fastsetter grenseverdier for restmengder krever ikke innarbeiding i nasjonal lovgivning i medlemsstatene. Det er derfor det mest hensiktsmessige juridiske virkemiddelet for å fastsette grenseverdier for restmengder av plantevernmidler i produkter av vegetabilsk og animalsk opprinnelse, ettersom de presise bestemmelsene får anvendelse samtidig og på samme måte i hele Fellesskapet, og derfor gjør det mulig å bruke de nasjonale ressursene mer effektivt.
+4. Produksjonen og forbruket av vegetabilske og animalske produkter er av stor betydning for Fellesskapet. Avkastningen av den vegetabilske produksjonen påvirkes hele tiden av skadelige organismer. Det er av avgjørende betydning at planter og planteprodukter blir beskyttet mot slike organismer for å hindre at avkastningen reduseres eller at avlingen skades, og for både å sikre kvaliteten på de høstede produktene og høy produktivitet i landbruket. Dette kan oppnås ved hjelp av ulike metoder, herunder kjemikaliefrie metoder, anvendelse av f.eks. resistente sorter, vekselbruk, mekanisk ugressbehandling, biologisk kontroll og kjemiske metoder som bruk av plantefarmasøytiske produkter.
+5. En av de mest anvendte metodene for å beskytte planter og planteprodukter mot angrep fra skadelige organismer, er å bruke virksomme stoffer i plantefarmasøytiske produkter. Et mulig resultat av å bruke disse produktene kan imidlertid være restmengder i de behandlede produktene, i dyr som fôres med disse produktene, og i honning som produseres av bier som er eksponert for disse stoffene. I samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) av 15. juli 1991 om markedsføring av plantefarmasøytiske produkter[7] bør folkehelsen prioriteres høyere enn plantevernet, og derfor er det nødvendig å sikre at slike restmengder ikke får slike verdier som innebærer en uakseptabel risiko for mennesker, og eventuelt for dyr. Grenseverdiene for restmengder av hvert plantevernmiddel bør fastsettes med lavest mulig verdi i henhold til god landbrukspraksis for å verne sårbare grupper som barn og ufødte barn.
+6. Det er også viktig å fortsette arbeidet med å utvikle metoder for å ta hensyn til kumulative virkninger og synergivirkninger. Med tanke på at mennesker eksponeres for kombinasjoner av virksomme stoffer som har kumulative og eventuelt sammenlagte virkninger og synergivirkninger på menneskers helse, bør det fastsettes grenseverdier for restmengder etter samråd med Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»), som er opprettet på grunnlag av europaparlaments- og rådsforordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet.[8]
+7. Direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) fastsetter at medlemsstatene skal angi at plantefarmasøytiske produkter må brukes korrekt når medlemsstatene utferdiger sin godkjenning. Korrekt bruk omfatter anvendelse av prinsippene om god landbrukspraksis samt prinsippene om integrert bekjempelse. Når de grenseverdiene for restmengder som oppstår som følge av godkjent bruk av et plantevernmiddel i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), innebærer en risiko for forbrukeren, bør slik bruk gjennomgås for å minske restmengdene av plantevernmidler. Fellesskapet bør oppmuntre bruk av metoder eller produkter som medfører lavere risiko, og bruk av plantevernmidler med verdier som er tilstrekkelige for å oppnå en virkningsfull bekjempelse av skadedyr.
+8. En rekke virksomme stoffer er forbudt i henhold til rådsdirektiv [79/117/EØF](https://lovdata.no/eu/31979l0117) av 21. desember 1978 om forbud mot omsetning og bruk av plantefarmasøytiske produkter som inneholder visse aktive stoffer.[9] Samtidig finnes det mange andre virksomme stoffer som for tiden ikke er godkjent i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*). Rester av virksomme stoffer i produkter av vegetabilsk og animalsk opprinnelse som følge av ulovlig bruk, miljøforurensning eller bruk i tredjestater bør kontrolleres og overvåkes nøye.
+9. De grunnleggende bestemmelsene i fôrvare- og næringsmiddelregelverket er fastsatt i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178).
+10. I tillegg til disse grunnleggende bestemmelsene er det nødvendig med særlige bestemmelser for å sikre at det indre marked og handelen med tredjestater fungerer effektivt for ferske, bearbeidede og/eller sammensatte vegetabilske og animalske næringsmidler beregnet på konsum eller som fôrvarer, som kan inneholde rester av plantevernmidler, og samtidig skape grunnlag for å sikre et høyt nivå for å verne menneskers og dyrs helse og for å ivareta forbrukernes interesser. Slike bestemmelser bør omfatte fastsettelse av bestemte grenseverdier for restmengder for hvert plantevernmiddel i næringsmidler og fôrvarer, samt kvaliteten på de opplysningene som ligger til grunn for disse grenseverdiene for restmengder.
+11. Selv om de allmenne prinsippene i næringsmiddelregelverket fastsatt i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178) bare får anvendelse på fôr til dyr bestemt til næringsmiddelproduksjon, bør de også anvendes på fôr som ikke er beregnet på dyr bestemt til næringsmiddelproduksjon, ettersom det er vanskelig å skille de produktene som skal brukes som fôr til dyr som ikke er bestemt til næringsmiddelproduksjon, samt for å gjøre det lettere å kontrollere og håndheve bestemmelsene i denne forordning. Denne forordning bør imidlertid ikke utgjøre en hindring for å gjennomføre de prøvingene som er nødvendige for å vurdere plantevernmidlene.
+12. I direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) fastsettes grunnleggende bestemmelser for å bruke og bringe plantefarmasøytiske produkter i omsetning. Bruken av disse produktene bør særlig ikke medføre noen skadelig innvirkning på mennesker eller dyr. Rester av plantevernmidler som stammer fra bruk av plantefarmasøytiske produkter, kan ha skadelig innvirkning på forbrukernes helse. Det er derfor hensiktsmessig å fastsette bestemmelser om grenseverdier for restmengder for produkter som er beregnet på konsum, som er knyttet til godkjenningen av bruken av plantefarmasøytiske produkter i henhold til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*). Nevnte direktiv bør likeledes tilpasses for å ta hensyn til fellesskapsframgangsmåten for fastsettelse av grenseverdier for restmengder i henhold til denne forordning. I henhold til nevnte direktiv kan en medlemsstat utpekes som rapportør for å vurdere et virksomt stoff. Nevnte medlemsstats sakkunnskap bør utnyttes når denne forordning tilpasses.
+13. Det bør innføres særlige bestemmelser om kontroll av rester av plantevernmidler for å utfylle de allmenne fellesskapsbestemmelsene om kontroll av næringsmidler og fôr.
+14. I forbindelse med behandlingen av grenseverdier for restmengder av plantevernmidler bør det også erkjennes at få forbrukere er klar over de risikoene som er forbundet med plantevernmidler. Det ville være særlige nyttig å opplyse offentligheten fullt ut om slike risikoer.
+15. Medlemsstatene bør undersøke muligheten for å offentliggjøre navnene på de foretakene som har produkter som overskrider grenseverdiene for restmengder av plantevernmidler.
+16. Særlige bestemmelser om fôrvarer, herunder markedsføring og oppbevaring av fôr og fôring av dyr finnes i europaparlaments- og rådsdirektiv [2002/32/EF](https://lovdata.no/eu/32002l0032) av 7. mai 2002 om uønskede stoffer i fôrvarer.[10] For visse produkter er det ikke mulig å beslutte om de vil inngå i næringsmidler eller fôrvarer. Rester av plantevernmidler i slike produkter bør derfor ikke være helseskadelig verken for konsum eller eventuelt som fôr til dyr. Bestemmelsene i denne forordning bør derfor også få anvendelse på slike produkter i tillegg til de særlige bestemmelsene om fôrvarer.
+17. Bestemte begreper som brukes for å fastsette og kontrollere grenseverdier for restmengder for produkter av vegetabilsk og animalsk opprinnelse, samt rapporter om disse, bør fastsettes på fellesskapsplan. Det er viktig at medlemsstatene anvender egnede sanksjoner i samsvar med europaparlaments- og rådsforordning [(EF) nr. 882/2004](https://lovdata.no/eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.[11]
+18. I henhold til direktiv [76/895/EØF](https://lovdata.no/eu/31976l0895*) kan medlemsstatene tillate høyere grenseverdier for restmengder enn dem som for øyeblikket er godkjent på fellesskapsplan. Denne muligheten bør fjernes ettersom den kan føre til handelshindringer på det indre marked i Fellesskapet.
+19. Fastsettelse av grenseverdier for restmengder av plantevernmidler innebærer tidkrevende tekniske overveielser og omfatter en vurdering av de mulige risikoene for forbrukerne. Det kan derfor ikke umiddelbart fastsettes grenseverdier for restmengder av plantevernmidler som for øyeblikket er omfattet av direktiv [76/895/EØF](https://lovdata.no/eu/31976l0895*), eller for plantevernmidler der det ennå ikke er fastsatt grenseverdier for restmengder på fellesskapsplan.
+20. Minstekravene til de opplysninger som skal brukes for å fastsette grenseverdier for restmengder av plantevernmidler, bør fastsettes på fellesskapsplan.
+21. Under særlige omstendigheter og særlig for plantevernmidler som ikke er godkjent og som kan forekomme i miljøet, bør det tillates bruk av overvåkingsopplysninger for å fastsette grenseverdier for restmengder.
+22. Grenseverdiene for restmengder av plantevernmidler bør overvåkes fortløpende og endres for å ta hensyn til nye opplysninger og nye data. Grenseverdiene for restmengder bør fastsettes til bestemmelsesgrensen i de tilfeller der godkjent bruk av plantefarmasøytiske produkter ikke fører til påviselige rester av plantevernmidler. Når bruk av plantevernmidler ikke er godkjent på fellesskapsplan, bør grenseverdiene for restmengder fastsettes med en så lav verdi at forbrukerne er vernet mot inntak av rester av plantevernmidler som ikke er godkjente, eller som har en for høy verdi. For å forenkle kontrollen av rester av plantevernmidler er det nødvendig å fastsette en standardverdi for rester av plantevernmidler i de produktene eller produktgruppene som er omfattet av vedlegg I, og der det ikke er fastsatt grenseverdier for restmengder i vedlegg II eller III, med mindre det aktuelle virksomme stoffet er oppført i vedlegg IV. Det bør fastsettes en standardverdi på 0,01 mg/kg og gis mulighet til å fastsette en annen verdi for virksomme stoffer som er omfattet av vedlegg V, idet det tas hensyn til de rutinemessige analysemetodene som er tilgjengelige og/eller forbrukervernet.
+23. I forordning [(EF) nr 178/2002](https://lovdata.no/eu/32002r0178) er det fastsatt framgangsmåter for å treffe nødtiltak for næringsmidler og fôr med opprinnelse i Fellesskapet eller som er importert fra en tredjestat. I henhold til disse framgangsmåtene kan Kommisjonen vedta slike tiltak i situasjoner der det er sannsynlig at næringsmidler vil utgjøre en alvorlig risiko for menneskers helse og dyrs helse eller miljøet, og der en slik risiko ikke kan begrenses på en tilfredsstillende måte ved hjelp av tiltak som treffes av den berørte medlemsstaten eller de berørte medlemsstatene. Disse tiltakene og deres virkninger på mennesker og eventuelt på dyr bør vurderes av myndigheten.
+24. Forbrukernes livslange, og eventuelt akutte, eksponering for rester av plantevernmidler gjennom næringsmidler bør vurderes i samsvar med de framgangsmåtene og den praksis som anvendes i Fellesskapet, idet det tas hensyn til retningslinjene som er offentliggjort av Verdens helseorganisasjon.
+25. Fellesskapets handelspartnere bør bli rådspurt om de foreslåtte grenseverdiene for restmengder gjennom Verdens handelsorganisasjon, og det bør tas hensyn til deres merknader før grenseverdiene for restmengder vedtas. De grenseverdiene for restmengder som Codex Alimentarius-kommisjonen har fastsatt på internasjonalt plan, bør også tas med i betraktningen når Fellesskapets grenseverdier for restmengder fastsettes, idet det tas hensyn til tilsvarende god landbrukspraksis.
+26. For næringsmidler og fôr som produseres utenfor Fellesskapet, kan andre former for landbrukspraksis for plantefarmasøytiske produkter anvendes lovlig og føre til at restene av plantevernmidler skiller seg ut fra de restene som oppstår ved lovlig anvendelse i Fellesskapet. Det bør derfor fastsettes grenseverdier for restmengder for importerte produkter som tar hensyn til disse anvendelsene og restmengdene, forutsatt at produktenes sikkerhet kan godtgjøres ut fra de samme kriteriene som gjelder for nasjonale produkter.
+27. Det er nødvendig at myndigheten vurderer søknadene om grenseverdier for restmengder og de vurderingsrapportene som medlemsstatene har utarbeidet, idet det tas hensyn til alle toksikologiske virkninger som f.eks. giftvirkning på immunsystemet, hormonforstyrrelser og utviklingstoksisitet, for å kunne bestemme risikoene for forbrukerne og eventuelt for dyr.
+28. Medlemsstatene bør fastsette bestemmelser om sanksjoner for overtredelser av denne forordning og sikre at de gjennomføres. Disse sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.
+29. Utviklingen av et harmonisert system for grenseverdier for restmengder i Fellesskapet innebærer at det må utarbeides retningslinjer, databaser og annen virksomhet med de kostnadene dette vil medføre. I enkelte tilfeller bør Fellesskapet yte et bidrag for å dekke disse kostnadene.
+30. Det er god forvaltningspraksis og teknisk ønskelig å samordne tidspunktene for beslutninger om grenseverdier for restmengder av virksomme stoffer med de beslutningene som treffes om disse virksomme stoffene i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*). For mange stoffer der det ennå ikke er fastsatt grenseverdier for restmengder i Fellesskapet, vil det ikke bli truffet noen beslutninger i samsvar med nevnte direktiv før denne forordning trer i kraft.
+31. Det bør derfor vedtas særskilte bestemmelser om midlertidige, men obligatoriske harmoniserte grenseverdier for restmengder for gradvis å fastsette grenseverdier for restmengder etter hvert som det treffes beslutninger om hvert enkelt virksomt stoff, som en del av vurderingene i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*). Slike midlertidige harmoniserte grenseverdier for restmengder bør særlig bygge på eksisterende nasjonale grenseverdier for restmengder som er fastsatt av medlemsstatene, og de bør respektere de nasjonale ordningene som de er fastsatt for, forutsatt at grenseverdiene for restmengder ikke innebærer en uakseptabel risiko for forbrukerne.
+32. Når eksisterende virksomme stoffer oppføres i vedlegg I til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), skal medlemsstatene revurdere hvert plantefarmasøytisk produkt som inneholder disse virksomme stoffene senest fire år etter at de er blitt oppført. Disse grenseverdiene for restmengder bør opprettholdes for et tidsrom på inntil fire år for å sikre kontinuitet i godkjenningene, og de bør bli endelige når revurderingen er fullført, dersom de underbygges av det informasjonsmaterialet som oppfyller kravene i vedlegg III til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), eller settes som en standardverdi, dersom de mangler underlag.
+33. I denne forordning fastsettes grenseverdier for restmengder for å kontrollere rester av plantevernmidler i næringsmidler og fôr. Medlemsstatene bør derfor opprette nasjonale programmer for å kontrollere disse restmengdene. Resultatene av de nasjonale kontrollprogrammene skal framlegges for Kommisjonen, myndigheten og de andre medlemsstatene, og de skal tas med i Fellesskapets årlige rapport.
+34. For å sikre forbrukerne tilstrekkelig informasjon bør medlemsstatene i samsvar med forordning [(EF) nr. 882/2004](https://lovdata.no/eu/32004r0882*) hvert år offentliggjøre resultatene av den nasjonale overvåkingen av restmengder på Internett og angi alle primærdata, herunder innsamlingssted og navn på detaljister, forhandlere og/eller produsenter.
+35. De tiltakene som er nødvendige for å gjennomføre denne forordning, bør vedtas i henhold til rådsbeslutning [1999/468/EF](https://lovdata.no/eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.[12]
+36. I samsvar med forholdsmessighetsprinsippet er det nødvendig og hensiktsmessig å fastsette bestemmelser om grenseverdier for restmengder i produkter av vegetabilsk og animalsk opprinnelse for å oppnå de grunnleggende målene, nemlig å lette handelen og samtidig verne forbrukeren. I samsvar med traktatens artikkel 5 tredje ledd går dette direktiv ikke lenger enn det som er nødvendig for å nå målene.
+
+VEDTATT DENNE FORORDNING:
+
+##### Kapittel I Formål, virkeområde og definisjoner
+
+###### Artikkel 1 Formål
+
+I denne forordning er det fastsatt harmoniserte fellesskapsbestemmelser om grenseverdier for restmengder av plantevernmidler i eller på næringsmidler og fôr av vegetabilsk og animalsk opprinnelse i samsvar med de allmenne prinsippene i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178), særlig prinsippet om at det må sikres et høyt nivå av forbrukervern.
+
+###### Artikkel 2 Virkeområde
+
+1. Denne forordning får anvendelse på produkter av vegetabilsk og animalsk opprinnelse eller deler av disse som omfattes av vedlegg I, som får anvendelse som ferske, bearbeidede og/eller sammensatte næringsmidler eller fôr som det kan forekomme restmengder av plantevernmidler i eller på.
+
+2. Denne forordning får ikke anvendelse på produkter som er omfattet av vedlegg I, når det på en betryggende måte kan fastslås at de er beregnet på:
+
+a. framstilling av andre produkter enn næringsmidler eller fôr, eller
+b. såing eller planting; eller
+c. virksomhet som er godkjent i henhold til nasjonal lovgivning for prøving av virksomme stoffer.
+
+3. De grenseverdiene for plantevernmidler som er fastsatt i samsvar med denne forordning, får ikke anvendelse på produkter som omfattes av vedlegg I, og er beregnet på eksport til tredjestater og som er blitt behandlet før eksport, dersom det på en betryggende måte er godtgjort at mottakertredjestaten krever eller samtykker i denne særlige behandlingen for å hindre at skadelige organismer kommer inn på dets territorium.
+
+4. Denne forordning direktiv får anvendelse uten at direktiv [98/8/EF](https://lovdata.no/eu/31998l0008*),[13] [2002/32/EF](https://lovdata.no/eu/32002l0032) og forordning [(EØF) nr. 2377/90](https://lovdata.no/eu/31990r2377)[14] berøres.
+
+###### Artikkel 3 Definisjoner
+
+1. I denne forordning får definisjonene i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178) og definisjonene fastsatt i artikkel 4 nr.1 og 4 i direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) anvendelse.
+
+2. I dette direktiv menes videre med:
+
+a. «god landbrukspraksis» (GAP): den nasjonalt anbefalte, godkjente eller registrerte sikre bruk av plantefarmasøytiske produkter under virkelige forhold på alle trinn i produksjonen, lagringen, transporten, distribusjonen og bearbeidingen av næringsmidler og fôr. God landbrukspraksis omfatter også at prinsippene om integrert bekjempelse av skadedyr i en gitt klimasone er i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), samt at det brukes så små mengder av plantevernmidler som mulig, og at grenseverdier for restmengder/midlertidige grenseverdier for restmengder fastsettes med lavest mulig verdi for å kunne oppnå ønsket virkning,
+b. «kritisk GAP»: den GAP som gir den høyeste akseptable verdien for rester av plantevernmidler hos en behandlet avling og som danner grunnlaget for å fastsette grenseverdien for restmengder, dersom det finnes mer enn én GAP for en kombinasjon av virksomt stoff/produkt,
+c. «rester av plantevernmidler»: rester, herunder virksomme stoffer, metabolitter og/eller nedbrytnings- eller reaksjonsprodukter av virksomme stoffer som anvendes nå eller ble anvendt tidligere i plantefarmasøytiske produkter som definert i artikkel 2 nr. 1 i direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), som forekommer i eller på produkter omfattet av vedlegg I til denne forordning, herunder særlig dem som kan oppstå som følge av bruk i plantevern, veterinærmedisin og som biocid,
+d. «grenseverdi for restmengder»: høyeste lovbestemte konsentrasjonsverdi for en restmengde av et plantevernmiddel i eller på næringsmidler eller fôr fastsatt i samsvar med denne forordning på grunnlag av god landbrukspraksis og lavest mulig forbrukereksponering som er nødvendig for å verne sårbare forbrukere,
+e. «CXL-grenseverdi»: en grenseverdi for restmengder fastsatt av Codex Alimentarius-kommisjonen,
+f. «bestemmelsesgrensen» (LOQ): den laveste tillatte restkonsentrasjonen som kan måles og rapporteres ved rutinemessig overvåking med godkjente kontrollmetoder,
+g. «importtoleranse»: en grenseverdi for restmengder for importerte produkter for å oppfylle behovene i internasjonal handel når:
+   - bruken av det virksomme stoffet i et plantefarmasøytisk produkt på et bestemt produkt ikke er godkjent i Fellesskapet av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken, eller
+   - det er nødvendig med en annen verdi ettersom gjeldende fellesskapsgrenseverdi for restmengder ble fastsatt av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken,
+h. «egnethetsprøving»: en sammenlignende prøving der flere laboratorier utfører analyser av identiske prøver slik at det kan foretas en kvalitetsvurdering av den analysen som utføres på hvert laboratorium,
+i. «akutt referansedose»: en antatt mengde av et stoff i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til opplysninger fra relevante undersøkelser og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas på kort tid, normalt i løpet av en enkelt dag, uten at det innebærer noen nevneverdig risiko for forbrukeren,
+j. «akseptabelt daglig inntak»: en antatt mengde stoffer i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til alle kjente opplysninger på vurderingstidspunktet og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas daglig hele livet uten at det innebærer noen nevneverdig risiko for noen forbruker.
+
+###### Artikkel 4 Liste over produktgrupper der harmoniserte grenseverdier for restmengder skal få anvendelse
+
+1. De produktene, produktgruppene og/eller deler av produkter nevnt i artikkel 2 nr. 1 og der harmoniserte grenseverdier for restmengder skal få anvendelse, skal fastsettes og omfattes av vedlegg I i henhold til framgangsmåten nevnt i artikkel 45 nr. 2. Vedlegg I skal omfatte alle produkter der det er fastsatt grenseverdier for restmengder, samt andre produkter der det er hensiktsmessig å anvende harmonisert grenseverdier for restmengder, særlig med hensyn til deres betydning for forbrukernes kosthold eller for handelen. Produktene skal inndeles i grupper på en slik måte at det om mulig kan fastsettes grenseverdier for restmengder for en gruppe produkter som ligner hverandre eller er beslektet med hverandre.
+
+2. Vedlegg I skal utarbeides første gang senest tre måneder etter at denne forordning er trådt i kraft, og den skal gjennomgås etter behov, særlig på anmodning fra en medlemsstat.
+
+###### Artikkel 5 Opprettelse av en liste over virksomme stoffer der grenseverdier for restmengder ikke er påkrevd
+
+1. Virksomme stoffer i plantefarmasøytiske produkter som er vurdert i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) og der det ikke er påkrevd grenseverdier for restmengder, skal fastsettes i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning og oppføres i vedlegg IV til denne forordning, idet det tas hensyn til bruken av disse virksomme stoffene og forholdene nevnt i artikkel 14 nr. 2 bokstav a), c) og d) i denne forordning.
+
+2. Vedlegg IV skal først opprettes senest tolv måneder etter at denne forordning er trådt i kraft.
+
+##### Kapittel II Framgangsmåte for søknader om grenseverdier for restmengder
+
+###### Avsnitt 1 Inngivelse av søknader om grenseverdier for restmengder
+
+**Artikkel 6  
+Søknader**
+
+1. Når en medlemsstat vurderer å gi en godkjenning eller en midlertidig godkjenning til å bruke et plantefarmasøytisk produkt i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), skal medlemsstaten vurdere om det som følge av slik bruk er nødvendig å endre en eksisterende grenseverdi for restmengder som oppført i vedlegg II eller III til denne forordning, om det er nødvendig å fastsette en ny grenseverdi for restmengder eller om det virksomme stoffet skal oppføres i vedlegg IV. Om nødvendig skal medlemsstaten kreve at den som søker om godkjenning, inngir en søknad i samsvar med artikkel 7.
+
+2. Alle parter som kan godtgjøre at de har en berettiget interesse for helsespørsmål, herunder frivillige organisasjoner samt kommersielt berørte parter som framstiller, dyrker, importerer og produserer produkter som omfattes av vedlegg I, kan også inngi en søknad til en medlemsstat i samsvar med artikkel 7.
+
+3. Dersom en medlemsstat anser det som nødvendig å fastsette, endre eller stryke en grenseverdi for restmengder, kan nevnte medlemsstat også utarbeide og vurdere en søknad om å fastsette, endre eller stryke grenseverdien for restmengder i samsvar med artikkel 7.
+
+4. Søknader om importtoleranser skal inngis til rapporterende medlemsstater utpekt i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) eller, dersom det ikke er utpekt en slik rapportør, til de medlemsstatene som Kommisjonen har utpekt i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning på anmodning fra søkeren. Slike søknader skal utarbeides i samsvar med artikkel 7 i denne forordning.
+
+**Artikkel 7  
+Krav som gjelder for søknader om grenseverdier for restmengder**
+
+1. Søkeren skal framlegge følgende opplysninger og dokumenter i sin søknad om grenseverdier for restmengder:
+
+a. navn og adresse på søkeren,
+b. en presentasjon av dokumentasjonen for søknaden, herunder:
+   i. et sammendrag av søknaden,
+   ii. de viktigste saksforholdene,
+   iii. en innholdsfortegnelse for dokumentasjonen,
+   iv. en kopi av den relevante GAP som gjelder for den bestemte bruken av det aktuelle virksomme stoffet,
+c. en fullstendig oversikt over relevante betenkeligheter som er kommet fram i tilgjengelig vitenskapelig litteratur om det plantefarmasøytiske produktet og/eller restmengder av dette,
+d. opplysningene oppført i vedlegg II og III til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) med hensyn til krav om dokumentasjon for å fastsette grenseverdier for restmengder av plantevernmidler, herunder om nødvendig toksikologiske opplysninger og opplysninger om rutinemessige analysemetoder som brukes i kontrollaboratorier, samt opplysninger om planter og dyrs metabolisme.
+
+Dersom relevante opplysninger allerede er gjort offentlig tilgjengelig, særlig i de tilfeller der et virksomt stoff allerede er blitt vurdert i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), eller dersom en CXL-grenseverdi foreligger og slike opplysninger inngis av søkeren, kan en medlemsstat også bruke disse opplysningene ved vurdering av en søknad. I slike tilfeller skal vurderingsrapporten omfatte en grunngitt uttalelse for hvorfor slike opplysninger er brukt eller ikke.
+
+2. Den medlemsstaten som foretar vurderingen, kan om nødvendig kreve at søkeren skal framlegge utfyllende opplysninger i tillegg til de opplysningene som kreves i henhold til nr. 1, innenfor en tidsfrist som fastsettes av medlemsstaten. Denne fristen må ikke under noen omstendigheter overskride to år.
+
+**Artikkel 8  
+Vurdering av søknader**
+
+1. En medlemsstat som i samsvar med artikkel 7 mottar en søknad som oppfyller kravene i artikkel 6, skal omgående sende en kopi til myndigheten og Kommisjonen og utarbeide en vurderingsrapport uten unødige forsinkelser.
+
+2. Søknader skal vurderes i samsvar med relevante bestemmelser i de ensartede prinsippene for vurdering og godkjenning av plantefarmasøytiske produkter oppført i vedlegg VI til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) eller med særlige vurderingsprinsipper fastsatt i en kommisjonsforordning i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning.
+
+3. Som unntak fra nr. 1 og gjennom avtale mellom de berørte medlemsstatene kan vurderingen av søknaden foretas av rapporterende medlemsstat, som er utpekt for det aktuelle virksomme stoffet i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*).
+
+4. Når en medlemsstat støter på vanskeligheter med hensyn til vurderingen av en søknad eller for å unngå dobbeltarbeid, kan det i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 besluttes hvilken medlemsstat som skal vurdere bestemte søknader.
+
+**Artikkel 9  
+Inngivelse av vurderte søknader til Kommisjonen og myndigheten**
+
+1. Når vurderingsrapporten er avsluttet, skal medlemsstaten sende rapporten til Kommisjonen. Kommisjonen skal omgående underrette medlemsstatene og sende søknaden, vurderingsrapporten og dokumentasjonen til myndigheten.
+
+2. Myndigheten skal omgående sende en skriftlig bekreftelse til søkeren, den medlemsstaten som skal foreta vurderingen, og til Kommisjonen om at søknaden er mottatt. I bekreftelsen skal det opplyses om når søknaden og medfølgende dokumentasjon ble mottatt.
+
+###### Avsnitt 2 Myndighetens behandling av søknader om grenseverdier for restmengder
+
+**Artikkel 10  
+Myndighetens uttalelse om søknader om grenseverdier for restmengder**
+
+1. Myndigheten skal vurdere søknadene og vurderingsrapportene og avgi en begrunnet uttalelse, særlig om farene for forbrukeren og eventuelt for dyr med hensyn til å fastsette, endre eller stryke en grenseverdi for restmengder. Uttalelsen skal omfatte:
+
+a. en vurdering av hvorvidt analysemetoden for rutinemessig overvåking som foreslås i søknaden, er hensiktsmessig med hensyn til formålet med kontrollen,
+b. den forventede bestemmelsesgrensen for kombinasjonen plantevernmiddel/produkt,
+c. en vurdering av risikoene for at det akseptable daglige inntaket eller den akutte referansedosen overskrides som følge av at grenseverdien for restmengder endres; en vurdering av bidraget til inntaket som følge av restmengder i det produktet som det er søkt om en grenseverdi for,
+d. alle andre faktorer som er relevante for risikovurderingen.
+
+2. Myndigheten skal sende sin grunngitte uttalelse til søkeren, Kommisjonen og medlemsstatene. Den grunngitte uttalelsen skal nøye redegjøre for grunnlaget for de enkelte konklusjoner.
+
+3. Med forbehold for artikkel 39 i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178) skal myndigheten offentliggjøre sin grunngitte uttalelse.
+
+**Artikkel 11  
+Frister for myndighetens uttalelse om søknader om grenseverdier for restmengder**
+
+1. Myndigheten skal avgi sin grunngitte uttalelse som fastsatt i artikkel 10 så snart som mulig, og senest tre måneder fra den datoen søknaden ble mottatt.
+
+I særlige tilfeller når det er behov for å foreta mer detaljerte vurderinger, kan tidsfristen som fastsatt i første ledd, forlenges til seks måneder fra den datoen den gyldige søknaden ble mottatt.
+
+2. Når myndigheten krever utfyllende opplysninger, skal tidsfristen fastsatt i nr. 1 forlenges, inntil disse opplysningene er framlagt. Slike forlengelser er underlagt artikkel 13.
+
+**Artikkel 12  
+Myndighetens vurdering av eksisterende grenseverdier for restmengder**
+
+1. Myndigheten skal senest tolv måneder fra datoen for når et virksomt stoff ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) etter at denne forordning trådte i kraft, framlegge for Kommisjonen og medlemsstatene en grunngitt uttalelse som særlig bygger på den relevante vurderingsrapporten som er utarbeidet i henhold til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), om:
+
+a. eksisterende grenseverdier for restmengder for det aktuelle virksomme stoffet som er oppført i vedlegg II eller III til denne forordning,
+b. behovet for å fastsette nye grenseverdier for restmengder for det aktuelle virksomme stoffet, eller oppføre det i vedlegg IV til denne forordning,
+c. bestemte bearbeidingsfaktorer som nevnt i artikkel 20 nr.2 i denne forordning som det aktuelle virksomme stoffet kan ha behov for,
+d. de grenseverdiene for restmengder som Kommisjonen kan vurdere å føre opp i vedlegg II og/eller vedlegg III til denne forordning, og de grenseverdiene for restmengder som kan strykes for dette virksomme stoffet.
+
+2. For stoffer omfattet av vedlegg I til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) før denne forordning trer i kraft, skal den grunngitte uttalelsen nevnt i nr. 1 i denne artikkel, avgis senest tolv måneder etter at denne forordning er trådt i kraft.
+
+**Artikkel 13  
+Administrativ kontroll**
+
+Dersom myndigheten treffer en beslutning eller unnlater å handle i henhold til den myndigheten som er blitt tildelt gjennom denne forordning, kan Kommisjonen på eget initiativ eller på anmodning fra en medlemsstat eller fra en person som direkte eller personlig er berørt, gjennomføre en administrativ kontroll av beslutningen eller unnlatelsen.
+
+For dette formål skal en anmodning framlegges for Kommisjonen innen to måneder fra den dagen den berørte parten fikk kunnskap om den aktuelle beslutningen eller unnlatelsen.
+
+Kommisjonen skal treffe en beslutning innen to måneder og eventuelt kreve at myndigheten trekker tilbake sin beslutning eller treffer tiltak for å bøte på sin unnlatelse innenfor en bestemt tidsfrist.
+
+###### Avsnitt 3 Fastsette, endre eller stryke grenseverdier for restmengder
+
+**Artikkel 14  
+Beslutninger vedrørende søknader om grenseverdier for restmengder**
+
+1. Når Kommisjonen har mottatt myndighetens uttalelse og idet den tar hensyn til denne uttalelsen, utarbeider Kommisjonen umiddelbart og senest innen tre måneder en forordning om fastsettelse, endring og stryking av en grenseverdi for restmengder eller et vedtak om avslag på søknaden og framlegger denne rettsakten for vedtakelse i henhold til framgangsmåten nevnt i artikkel 45 nr. 2.
+
+2. Følgende skal tas med i betraktningen med hensyn til rettsaktene nevnt i nr.1:
+
+a. tilgjengelig vitenskapelig og teknisk kunnskap,
+b. mulig forekomst av rester av plantevernmidler fra andre kilder enn nåværende bruk av virksomme stoffer som plantevernmiddel, og deres kjente kumulative virkninger og synergivirkninger, når det finnes metoder for å vurdere slike virkninger,
+c. resultatene av en vurdering av risikoene for forbrukere med stort inntak og høy sårbarhet, samt eventuelt for dyr,
+d. resultatene av vurderinger og beslutninger om å endre bruken av plantefarmasøytiske produkter,
+e. en CXL-grenseverdi eller en GAP som er innført i en tredjestat for lovlig bruk av et virksomt stoff i denne staten,
+f. andre berettigede faktorer som er relevante for det aktuelle tilfellet.
+
+3. Kommisjonen kan til enhver tid kreve at søkeren eller myndigheten framlegger utfyllende opplysninger. Kommisjonen skal stille alle utfyllende opplysninger som den har mottatt, til rådighet for medlemsstatene og myndigheten.
+
+**Artikkel 15  
+Oppføring av nye eller endrede grenseverdier for restmengder i vedlegg II og III**
+
+1. Forordningen som er nevnt i artikkel 14 nr. 1 skal:
+
+a. fastsette nye eller endrede grenseverdier for restmengder og føre dem opp i vedlegg II til denne forordning, når de virksomme stoffene er blitt oppført i vedlegg I til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), eller
+b. fastsette eller endre midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning, når virksomme stoffer ikke er oppført i vedlegg I til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), eller
+c. fastsette midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning i de tilfellene som er nevnt i artikkel 16.
+
+2. Når det fastsettes en midlertidig grenseverdi for restmengder i samsvar med nr. 1 bokstav b, skal den strykes i vedlegg III gjennom en forordning ett år etter datoen for når det berørte virksomme stoffet ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF i](https://lovdata.no/eu/31991l0414*) samsvar med artikkel 45 nr. 2 i denne forordning. Dersom en eller flere medlemsstater anmoder om det, kan den imidlertid opprettholdes i ytterligere ett år i påvente av en bekreftelse om at vitenskapelige undersøkelser som er nødvendige som underlag for en søknad for å fastsette en grenseverdi for restmengder, er blitt gjennomført. I de tilfeller der en slik bekreftelse foreligger, skal den midlertidige grenseverdien for restmengder opprettholdes for ytterligere to år, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
+
+**Artikkel 16  
+Framgangsmåte for å fastsette midlertidige grenseverdier for restmengder under visse omstendigheter**
+
+1. Forordningen nevnt i artikkel 14 nr. 1 kan også fastsette en midlertidig grenseverdi for restmengder som skal oppføres i vedlegg III i følgende tilfeller:
+
+a. unntaksvis og særlig når det kan forekomme rester av plantevernmidler som følge av miljøforurensning eller annen forurensning eller som følge av bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), eller
+b. når de berørte produktene utgjør en liten del av forbrukernes kosthold, og ikke utgjør en vesentlig del av kostholdet til relevante undergrupper, og eventuelt av fôrvarer, eller
+c. for honning, eller
+d. for urtete, eller
+e. når viktige anvendelsesområder for plantefarmasøytiske produkter er blitt fastsatt ved et vedtak om å stryke et virksomt stoff eller ikke å føre opp et virksomt stoff i vedlegg I til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), eller
+f. når nye produkter, produktgrupper og/eller deler av produkter er blitt oppført i vedlegg I, og en eller flere medlemsstater anmoder om det, for at vitenskapelige undersøkelser som er nødvendige for å underbygge en søknad om fastsettelse av en grenseverdi for restmengder, skal kunne gjennomføres og vurderes, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
+
+2. Oppføringen av midlertidige grenseverdier for restmengder som nevnt i nr. 1, skal bygge på uttalelsen fra myndigheten, overvåkingsopplysninger og en vurdering som godtgjør at det ikke foreligger noen uakseptable risikoer for forbrukere eller dyr.
+
+De midlertidige grenseverdiene for restmengder som er nevnt i nr. 1 bokstav a), b), c) og d), skal tas opp til ny vurdering minst én gang hvert tiende år for å beslutte om de fortsatt skal få anvendelse, og de skal om nødvendig endres eller strykes.
+
+Grenseverdiene for restmengder nevnt i nr. 1 bokstav e), skal tas opp til ny vurdering når den perioden som den viktige anvendelsen ble godkjent for, utløper. De grenseverdiene for restmengder som er nevnt i nr. 1bokstav f), skal tas opp til ny vurdering når de vitenskapelige undersøkelsene er blitt fullført og vurdert, men ikke senere enn fire år etter at de er blitt oppført i vedlegg III.
+
+**Artikkel 17  
+Endringer av grenseverdier for restmengder etter at godkjenninger av plantefarmasøytiske produkter tilbakekalles**
+
+Endringer i vedlegg II eller III som er nødvendige for å stryke en grenseverdi for restmengder, etter at en eksisterende godkjenning av et plantefarmasøytisk produkt tilbakekalles, kan vedtas uten å innhente en uttalelse fra myndigheten.
+
+##### Kapittel III Grenseverdier for restmengder for produkter av vegetabilsk og animalsk opprinnelse
+
+###### Artikkel 18 Overholdelse av grenseverdier for restmengder
+
+1. Fra og med den datoen de produktene som er omfattet av vedlegg I, bringes i omsetning som næringsmidler eller fôr eller gis som fôr til dyr, får de ikke inneholde noen rester av plantevernmidler som overstiger:
+
+a. de grenseverdiene for restmengder for disse produktene som er oppført i vedlegg II og III,
+b. 0,01 mg/kg for de produktene der det ikke er oppført noen bestemt grenseverdi for restmengder i vedlegg II eller III, eller for virksomme stoffer oppført i vedlegg IV, med mindre det fastsettes ulike standardverdier for et virksomt stoff i henhold til framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til tilgjengelige rutinemessige analysemetoder. Slike standardverdier skal oppføres i vedlegg V.
+
+2. Medlemsstatene kan ikke forby eller forhindre at produktene som er omfattet av vedlegg I, bringes i omsetning eller gis som fôr til dyr bestemt til næringsmiddelproduksjon på deres territorier, med den grunngitte uttalelsen at de inneholder rester av plantevernmidler, forutsatt at:
+
+a. slike produkter samsvarer med nr. 1 og artikkel 20, eller
+b. det virksomme stoffet er oppført i vedlegg IV.
+
+3. Som unntak fra nr. 1 kan medlemsstatene ved behandling etter høsting med fumiganter på sitt territorium tillate restmengder av et virksomt stoff som overstiger grenseverdiene i vedlegg II og III for et produkt omfattet av vedlegg I, dersom kombinasjonene av virksomt stoff/produkt er oppført i vedlegg VII, forutsatt at:
+
+a. slike produkter ikke skal forbrukes med én gang,
+b. det finnes egnede kontroller for å sikre at slike produkter ikke kan gjøres tilgjengelige for sluttbruker eller forbruker, dersom de leveres direkte til disse, før restmengdene ikke lenger overstiger de grenseverdiene som er fastsatt i vedlegg II eller III,
+c. de andre medlemsstatene og Kommisjonen er blitt underrettet om de tiltakene som er truffet.
+
+Kombinasjonene av virksomt stoff/produkt som er oppført i vedlegg VII, skal fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+
+4. Unntaksvis og særlig ved bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) eller som følge av forpliktelser i direktiv [2000/29/EF](https://lovdata.no/eu/32000l0029*),[15] kan en medlemsstat tillate at behandlede næringsmidler eller behandlet fôr som ikke samsvarer med nr. 1, bringes i omsetning og/eller gis som fôr til dyr på sitt territorium, forutsatt at slike næringsmidler eller slikt fôr ikke utgjør en uakseptabel risiko. Slike tillatelser skal umiddelbart meddeles til de andre medlemsstatene, Kommisjonen og myndigheten sammen med en relevant risikovurdering, slik at de uten unødige forsinkelser kan behandles i samsvar med framgangsmåten nevnt i artikkel 45 nr.2, for at det skal kunne fastsettes en midlertidig grenseverdi for restmengder for en bestemt periode eller treffes eventuelle andre nødvendige tiltak med hensyn til slike produkter.
+
+###### Artikkel 19 Forbud vedrørende bearbeidede og/eller sammensatte produkter
+
+Det er forbudt å bearbeide og/eller blande de produktene som er omfattet av vedlegg I og som ikke samsvarer med artikkel 18 nr. 1 eller 20, med de samme produktene eller andre produkter med henblikk på fortynning, for å bringe dem i omsetning som næringsmidler eller fôr eller for å gi dem som fôr til dyr.
+
+###### Artikkel 20 Grenseverdier for restmengder for bearbeidede og/eller sammensatte produkter
+
+1. Når det ikke er oppført grenseverdier for restmengder i vedlegg II eller III for bearbeidede og/eller sammensatte næringsmidler eller fôr, skal grenseverdiene for restmengder fastsatt i artikkel 18 nr. 1 for det relevante produktet som er omfattet av vedlegg I, anvendes, idet det tas hensyn til endrede verdier av rester av plantevernmidler som følge av bearbeidingen og/eller blandingen.
+
+2. Særskilte konsentrasjons- og fortynningsfaktorer for bestemte bearbeidings- og/eller blandingsprosesser eller for bestemte bearbeidede og/eller sammensatte produkter kan føres opp på listen i vedlegg VI i samsvar med framgangsmåten i artikkel 45 nr. 2.
+
+##### Kapittel IV Særlige bestemmelser om innarbeiding av eksisterende grenseverdier for restmengder i denne forordning
+
+###### Artikkel 21 Første fastsettelse av grenseverdier for restmengder
+
+1. Grenseverdier for restmengder for produkter som er omfattet av vedlegg I, skal først fastsettes og føres opp i vedlegg II i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2, og de grenseverdiene for restmengder som er fastsatt i direktiv [86/362/EØF](https://lovdata.no/eu/31986l0362), [86/363/EØF](https://lovdata.no/eu/31986l0363) og [90/642/EØF](https://lovdata.no/eu/31990l0642), skal innarbeides, idet det tas hensyn til de kriteriene som er nevnt i artikkel 14 nr. 2 i denne forordning.
+
+2. Vedlegg IV skal utarbeides senest tolv måneder etter at denne forordning er trådt i kraft.
+
+###### Artikkel 22 Første fastsettelse av midlertidige grenseverdier for restmengder
+
+1. Midlertidige grenseverdier for restmengder for virksomme stoffer som det ennå ikke er truffet noen beslutning om hvorvidt de skal oppføres eller ikke i vedlegg I til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), skal først fastsettes og oppføres i vedlegg III til denne forordning, med mindre de ikke allerede er oppført i vedlegg II i denne forordning, i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til opplysningene framlagt av medlemsstatene og eventuelt den grunngitte uttalelsen nevnt i artikkel 24, faktorene nevnt i artikkel 14 nr. 2 og følgende grenseverdier for restmengder:
+
+a. de resterende grenseverdiene for restmengder i vedlegget til direktiv [76/895/EØF](https://lovdata.no/eu/31976l0895*), og
+b. nasjonale grenseverdier for restmengder som ennå ikke er blitt harmonisert.
+
+2. Vedlegg III skal først utarbeides senest tolv måneder etter at denne forordning er trådt i kraft i samsvar med artikkel 23, 24 og 25.
+
+###### Artikkel 23 Opplysninger som medlemsstatene skal framlegge om nasjonale grenseverdier for restmengder
+
+Når et virksomt stoff ennå ikke er oppført i vedlegg I til direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*), og en medlemsstat senest på datoen for når vedlegg I til denne forordning er trådt i kraft, har fastsatt en nasjonal grenseverdi for restmengder for dette virksomme stoffet for et produkt omfattet av vedlegg I til denne forordning, eller har besluttet at det ikke er behov for noen grenseverdi for restmengder for dette virksomme stoffet, skal den berørte medlemsstaten i et format og innen en dato som fastsettes i samsvar med framgangsmåten i artikkel 45 nr. 2, meddele Kommisjonen om den nasjonale grenseverdien for restmengder eller om at det ikke er behov for en grenseverdi for restmengder for det virksomme stoffet, samt ved behov og på anmodning fra Kommisjonen meddele om følgende:
+
+a. god landbrukspraksis (GAP),
+b. kort sammendrag av eventuelle kontrollerte forsøk og/eller overvåkingsopplysninger, dersom kritisk GAP anvendes i medlemsstaten,
+c. det akseptable daglige inntaket og den eventuelle akutte referansedosen som er benyttet i den nasjonale risikovurderingen, samt resultatet av vurderingen.
+
+###### Artikkel 24 Myndighetens uttalelse om de opplysninger som ligger til grunn for nasjonale grenseverdier for restmengder
+
+1. Myndigheten skal framlegge en grunngitt uttalelse for Kommisjonen om eventuelle risikoer for forbrukerens helse som følge av:
+
+a. midlertidige grenseverdier for restmengder som kan oppføres i vedlegg III,
+b. virksomme stoffer som kan oppføres i vedlegg IV.
+
+2. Når myndigheten utarbeider sin grunngitte uttalelse nevnt i nr. 1, skal den ta hensyn til tilgjengelig vitenskapelig og teknisk kunnskap og særlig til opplysninger som er framlagt av medlemsstatene i samsvar med artikkel 23.
+
+###### Artikkel 25 Fastsettelse av midlertidige grenseverdier for restmengder
+
+Midlertidige grenseverdier for restmengder for virksomme stoffer nevnt i artikkel 23 kan fastsettes og oppføres i vedlegg III i samsvar med artikkel 22 nr. 1 eller, dersom det er relevant, det virksomme stoffet kan oppføres i vedlegg IV i samsvar med artikkel 5 nr. 1, idet det tas hensyn til myndighetens uttalelse, dersom det er nødvendig med en slik uttalelse. Midlertidige grenseverdier for restmengder skal fastsettes med den laveste verdien som kan oppnås i alle medlemsstater på grunnlag av god landbrukspraksis.
+
+##### Kapittel V Offentlige kontroller, rapporter og sanksjoner
+
+###### Avsnitt 1 Offentlige kontroller av grenseverdier for restmengder
+
+►**M32**
+
+**Artikkel 26.**
+
+– – –
+
+◄**M32**
+
+►**M32**
+
+**Artikkel 27.**
+
+– – –
+
+◄**M32**
+
+**Artikkel 28  
+Analysemetoder**
+
+►**M32**
+
+1. – – –
+
+2. – – –
+
+◄**M32**
+
+3. Alle laboratorier som analyserer prøver med henblikk på de offentlige kontrollene av rester av plantevernmidler, skal delta i Fellesskapets egnethetsprøvinger for rester av plantevernmidler, som gjennomføres av Kommisjonen.
+
+###### Avsnitt 2 Fellesskapets kontrollprogram
+
+**Artikkel 29  
+Fellesskapets kontrollprogram**
+
+1. Kommisjonen skal utarbeide et samordnet flerårig kontrollprogram i Fellesskapet som angir de bestemte prøvene som skal inngå i de nasjonale kontrollprogrammene, og som tar hensyn til de problemene som er avklart med hensyn til overholdelse av de grenseverdiene for restmengder som er fastsatt i denne forordning, for å vurdere forbrukereksponering og anvendelse av gjeldende lovgivning.
+
+2. Fellesskapets kontrollprogram skal vedtas og ajourføres hvert år i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2. Utkastet til Fellesskapets kontrollprogram skal framlegges for den komiteen som er nevnt i artikkel 45 nr. 1 senest seks måneder før utgangen av hvert kalenderår.
+
+###### Avsnitt 3 Nasjonale kontrollprogrammer
+
+►**M32**
+
+**Artikkel 30.**
+
+– – –
+
+◄**M32**
+
+###### Avsnitt 4 Opplysninger fra medlemsstatene og årlig rapport
+
+**Artikkel 31  
+Opplysninger fra medlemsstatene**
+
+1. Medlemsstatene skal framlegge følgende opplysninger om foregående kalenderår for Kommisjonen, myndigheten og de andre medlemsstatene innen 31. august hvert år:
+
+a. resultatene av de offentlige kontrollene i henhold til artikkel 26 nr. 1,
+b. de bestemmelsesgrensene som er anvendt i de nasjonale kontrollprogrammene nevnt i artikkel 30, og i Fellesskapets kontrollprogram nevnt i artikkel 29,
+c. opplysninger om analyselaboratorienes deltaking i Fellesskapets egnethetsprøvinger nevnt i artikkel 28 nr. 3 og andre egnethetsprøvinger som er relevante for kombinasjoner av plantevernmiddel/produkt, som det er tatt prøver av innenfor rammen av det nasjonale kontrollprogrammet,
+d. opplysninger om akkrediteringsstatusen til de analyselaboratoriene som er ansvarlige for de kontrollene som er nevnt i bokstav a),
+e. opplysninger om hvilke håndhevingstiltak som er truffet, når dette er tillatt i henhold til nasjonal lovgivning.
+
+2. Gjennomføringstiltakene for de opplysningene som medlemsstatene skal framlegge, kan fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2 etter samråd med myndigheten.
+
+**Artikkel 32  
+Den årlige rapporten om rester av plantevernmidler**
+
+1. Myndigheten skal utarbeide en årlig rapport om rester av plantevernmidler på grunnlag av de opplysningene som medlemsstatene framlegger i samsvar med artikkel 31 nr. 1.
+
+2. Myndigheten skal minst opplyse om følgende i den årlige rapporten:
+
+a. en analyse av resultatene av kontrollene i henhold til artikkel 26 nr. 2,
+b. en redegjørelse for eventuelle årsaker til at grenseverdiene for restmengder er overskredet, sammen med relevante merknader om risikohåndteringsalternativer,
+c. en analyse av kroniske og akutte risikoer for forbrukernes helse som følge av rester av plantevernmidler,
+d. en vurdering av forbrukereksponeringen med hensyn til rester av plantevernmidler på grunnlag av opplysningene i bokstav a) og alle andre relevante opplysninger, herunder rapporter som er framlagt i henhold til direktiv [96/23/EF](https://lovdata.no/eu/31996l0023).
+
+3. Når en medlemsstat ikke har framlagt opplysninger i samsvar med artikkel 31, kan myndigheten se bort fra opplysningene fra nevnte medlemsstat når den utarbeider den årlige rapporten.
+
+4. Den årlige rapportens format kan fastlegges i samsvar med framgangsmåten fastsatt i artikkel 45 nr. 2.
+
+5. Myndigheten skal framlegge den årlige rapporten for Kommisjonen senest siste dag i februar hvert år.
+
+6. Den årlige rapporten kan omfatte en uttalelse om hvilke plantevernmidler som skal være omfattet i framtidige programmer.
+
+7. Medlemsstaten skal offentliggjøre den årlige rapporten, samt eventuelle merknader fra Kommisjonen eller medlemsstatene.
+
+**Artikkel 33  
+Innlevering av den årlige rapporten om rester av plantevernmidler til komiteen**
+
+Kommisjonen skal omgående framlegge den årlige rapporten om rester av plantevernmidler for den komiteen som er nevnt i artikkel 45 nr. 1, for at komiteen skal kunne gjennomgå og utforme rekommandasjoner om eventuelle nødvendige tiltak som skal treffes med hensyn til rapporterte overtredelser av de grenseverdiene for restmengder, som er fastsatt i vedlegg II og III.
+
+###### Avsnitt 5 Sanksjoner
+
+**Artikkel 34  
+Sanksjoner**
+
+Medlemsstatene skal fastsette bestemmelser om sanksjoner for overtredelser av bestemmelsene i denne forordning, og treffe alle nødvendige tiltak for å sikre at de gjennomføres. Sanksjonene som fastsettes må være effektive, stå i et rimelig forhold til overtredelsen og virke forebyggende.
+
+Medlemsstatene skal omgående melde om disse bestemmelsene og eventuelle senere endringer til Kommisjonen.
+
+##### Kapittel VI Nødtiltak
+
+###### Artikkel 35 Nødtiltak
+
+Artikkel 53 og 54 i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178) får anvendelse når det omgående må treffes tiltak ettersom nye opplysninger eller en ny vurdering av gjeldende opplysninger viser at rester av plantevernmidler eller grenseverdier for restmengder som er omfattet av denne forordning, kan være til skade for menneskers eller dyrs helse. Når det gjelder ferske produkter, reduseres Kommisjonens frist for å treffe en beslutning til sju dager.
+
+##### Kapittel VII Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
+
+###### Artikkel 36 Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
+
+1. Støttetiltak med hensyn til harmoniserte grenseverdier for restmengder av plantevernmidler skal innføres på fellesskapsplan, herunder:
+
+a. en database som sammenfatter Fellesskapets regelverk for grenseverdier for restmengder av plantevernmidler, som er tilgjengelig for offentligheten,
+b. Fellesskapets egnethetsprøvinger som nevnt i artikkel 28 nr. 3,
+c. undersøkelser og andre tiltak som er nødvendige for å utarbeide og utvikle lovgivning og tekniske retningslinjer om rester av plantevernmidler, som særlig tar sikte på å utvikle og bruke metoder for å vurdere sammenlagte og kumulative virkninger, samt synergivirkninger,
+d. undersøkelser som er nødvendige for å vurdere forbrukeres og dyrs eksponering for rester av plantevernmidler,
+e. undersøkelser som er nødvendige for å understøtte kontrollaboratoriene, når analysemetoder ikke kan kontrollere de fastsatte grenseverdiene for restmengder.
+
+2. Alle nødvendige gjennomføringsbestemmelser om de tiltakene som er nevnt i nr 1, skal vedtas i samsvar med framgangsmåten i artikkel 45 nr. 2.
+
+###### Artikkel 37 Fellesskapets bidrag til støttetiltak om harmoniserte grenseverdier for restmengder av plantevernmidler
+
+1. Fellesskapet kan yte et finansielt bidrag på opp til 100 % av kostnadene for tiltakene fastsatt i artikkel 36.
+
+2. Bevilgningene skal godkjennes hvert regnskapsår som en del av den årlige budsjettbehandlingen.
+
+##### Kapittel VIII Samordning av søknader om grenseverdier for restmengder
+
+###### Artikkel 38 Utpeking av nasjonale myndigheter
+
+Hver medlemsstat skal utpeke en eller flere nasjonale myndigheter for å samordne samarbeidet med Kommisjonen, myndigheten, andre medlemsstater, fabrikanter, produsenter og dyrkere med hensyn til anvendelse av denne forordning. Dersom en medlemsstat utpeker mer enn én myndighet, skal den angi hvilken av de utpekte myndighetene som skal være kontaktpunkt.
+
+De nasjonale myndighetene kan delegere oppgaver til andre organer.
+
+Hver medlemsstat skal underrette Kommisjonen og myndigheten om navn og adresser på de utpekte nasjonale myndighetene.
+
+###### Artikkel 39 Myndighetens samordning av opplysninger om grenseverdier for restmengder
+
+Myndigheten skal:
+
+a. samordne sitt arbeid med rapporterende medlemsstat som er utpekt i samsvar med direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) med hensyn til et virksomt stoff,
+b. samordne sitt arbeid med medlemsstatene og Kommisjonen med hensyn til grenseverdier for restmengder, særlig med sikte på å oppfylle kravene i artikkel 41.
+
+###### Artikkel 40 Opplysninger fra medlemsstatene
+
+Medlemsstatene skal på anmodning fra myndigheten framlegge alle tilgjengelige opplysninger som er nødvendige for å vurdere om grenseverdiene for restmengder er sikre.
+
+###### Artikkel 41 Myndighetens database om grenseverdier for restmengder
+
+Med forbehold for de relevante bestemmelsene i Fellesskapets regelverk og nasjonal lovgivning om tilgang til dokumenter skal myndigheten utvikle og vedlikeholde en database som er tilgjengelig for Kommisjonen og vedkommende myndigheter i medlemsstatene, og som inneholder relevante vitenskapelige opplysninger og god landbrukspraksis (GAP) med hensyn til grenseverdiene for restmengder, de virksomme stoffene og de bearbeidingsfaktorene som er oppført i vedlegg II, III, IV og VII. Databasen skal særlig inneholde vurderinger av inntak gjennom kosten, bearbeidingsfaktorer og toksikologiske endepunkter.
+
+###### Artikkel 42 Medlemsstater og gebyrer
+
+1. Medlemsstatene kan dekke kostnadene knyttet til arbeidet med å fastsette, endre eller stryke grenseverdier for restmengder eller alt annet arbeid som følge av forpliktelsene i denne forordning ved å innkreve et gebyr eller en avgift.
+
+2. Medlemsstatene skal sikre at gebyret eller avgiften nevnt i nr. 1:
+
+a. fastsettes på en måte som sikrer innsyn, og
+b. svarer til de faktiske kostnadene for det aktuelle arbeidet.
+
+Det gis anledning til å benytte en fastsatt gebyrtabell basert på gjennomsnittlige kostnader for det arbeidet som er nevnt i nr. 1.
+
+##### Kapittel IX Gjennomføring
+
+###### Artikkel 43 Vitenskapelig uttalelse fra myndigheten
+
+Kommisjonen eller medlemsstaten kan anmode myndigheten om en vitenskapelig uttalelse om tiltak som har å gjøre med risikovurdering i henhold til denne forordning. Kommisjonen kan fastsette en tidsfrist for når en slik uttalelse skal foreligge.
+
+###### Artikkel 44 Framgangsmåte for vedtakelse av myndighetens uttalelser
+
+1. Når myndighetens uttalelser i henhold til denne forordning bare krever vitenskapelig eller teknisk arbeid som innebærer anvendelse av alminnelig anerkjente vitenskapelige eller tekniske prinsipper, kan myndigheten, med mindre Kommisjonen eller en medlemsstat har innvendinger, avgi uttalelsene uten samråd med vitenskapskomiteen eller vitenskapsgruppene som er nevnt i artikkel 28 i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178).
+
+2. Gjennomføringsbestemmelsene i henhold til artikkel 29 nr. 6 bokstav a) i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178) skal angi de tilfellene der nr. 1 i denne artikkel får anvendelse.
+
+###### Artikkel 45 Komitéframgangsmåte
+
+1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](https://lovdata.no/eu/32002r0178) (heretter kalt «komiteen»).
+
+2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](https://lovdata.no/eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](https://lovdata.no/eu/31999d0468) skal være tre måneder.
+
+3. Komiteen fastsetter sin forretningsorden.
+
+###### Artikkel 46 Gjennomføringstiltak
+
+I henhold til framgangsmåten i artikkel 45 nr. 2 kan følgende eventuelt fastsettes eller endres, idet det tas hensyn til myndighetens uttalelse:
+
+a. gjennomføringstiltak som skal sikre en ensartet anvendelse av denne forordning,
+b. datoene i artikkel 23, artikkel 29 nr. 2, artikkel 30 nr. 2, artikkel 31 nr. 1 og artikkel 32 nr. 5,
+c. tekniske retningslinjer for å anvende denne forordning,
+d. nærmere bestemmelser om vitenskapelige opplysninger som er nødvendige for å fastsette grenseverdier for restmengder.
+
+###### Artikkel 47 Rapport om gjennomføringen av denne forordning
+
+Senest ti år etter at denne forordning er trådt i kraft, skal Kommisjonen oversende en rapport om gjennomføringen av forordningen med eventuelle relevante forslag til Europaparlamentet og Rådet.
+
+##### Kapittel X Sluttbestemmelser
+
+###### Artikkel 48 Oppheving og tilpasning av lovgivning
+
+1. Direktiv [76/895/EØF](https://lovdata.no/eu/31976l0895*), [86/362/EØF](https://lovdata.no/eu/31986l0362), [86/363/EØF](https://lovdata.no/eu/31986l0363) og [90/642/EØF](https://lovdata.no/eu/31990l0642) oppheves med virkning fra den datoen som er nevnt i artikkel 50 annet ledd.
+
+2. Artikkel 4 nr. 1 bokstav f) i direktiv [91/414/EØF](https://lovdata.no/eu/31991l0414*) erstattes med følgende:
+
+a. grenseverdiene for restmengder for de landbruksproduktene som er berørt av bruken nevnt i godkjenningen, er fastsatt eller endret i samsvar med forordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396),[16] der det er relevant»
+
+###### Artikkel 49 Overgangstiltak
+
+1. Kravene i kapittel III får ikke anvendelse på produkter som er lovlig produsert eller importert til Fellesskapet før den datoen som er nevnt i artikkel 50 annet ledd.
+
+For å sikre et høyt nivå av forbrukervern kan det imidlertid treffes egnede tiltak for disse produktene i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+
+2. Når det er nødvendig, kan ytterligere overgangstiltak fastsettes for å gjennomføre bestemte grenseverdier for restmengder som fastsatt i artikkel 15, 16, 21, 22 og 25, for å sikre at produktene markedsføres, bearbeides og forbrukes på en normal måte.
+
+Disse tiltakene, med forbehold for forpliktelsen om å sikre et høyt nivå av forbrukervern, kan vedtas i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+
+###### Artikkel 50 Ikrafttredelse
+
+Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
+
+Kapittel II, III og V får anvendelse seks måneder etter kunngjøringen av den siste forordning om utarbeiding av vedlegg I, II, III og IV.
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Strasbourg, 23. februar 2005.
+
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+| J. BORRELL FONTELLES | N. SCHMIT |
+| *President* | *Formann* |
+
+##### Vedlegg
+
+**M1**
+
+*Vedlegg I*
+
+Liste over næringsmidler og fôrvarer som omfattes av grenseverdier for rester av plantevernmidler
+
+**M2**
+
+*Vedlegg II og III*
+
+Grenseverdier for produkter som omfattes av vedlegg I
+
+*Vedlegg IV*
+
+Stoffer det ikke kreves grenseverdier for.
+
+**M3**
+
+*Vedlegg VII*
+
+Liste over aktive stoff-/produktkombinasjoner som omfattes av et unntak med hensyn til behandling med fumigantmidler etter innhøsting
+
+**M4**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II, III og IV med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M5**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M6**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II, III og IV med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M7**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M8**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M9**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M10**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M11**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M12**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M13**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M14**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M15**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M16**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M17**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M18**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M19**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M20**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M21**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M22**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M23**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M24**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M25**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M26**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M27**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M28**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M29**
+
+Endring av Europaparlamentets- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M30**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M31**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](https://lovdata.no/eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter og etablering av vedlegg V som er en liste over standardverdier.
+
+Se her for å lese forordning [(EF) nr. 178/2006](https://lovdata.no/eu/32006r0178): [pdf-fil](https://lovdata.no/static/SF/32006r0178.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 149/2008](https://lovdata.no/eu/32008r0149*): [pdf-fil](https://lovdata.no/static/SF/32008r0149.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 260/2008](https://lovdata.no/eu/32008r0260): [pdf-fil](https://lovdata.no/static/SF/32008r0260.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 839/2008](https://lovdata.no/eu/32008r0839*): [pdf-fil](https://lovdata.no/static/SF/32008r0839.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 256/2009](https://lovdata.no/eu/32009r0256*): [pdf-fil](https://lovdata.no/static/SF/32009r0256.pdf)
+
+Engelsk versjon.
+
+Se her for å lese engelsk oversettelse av forordning [(EF) nr. 822/2009](https://lovdata.no/eu/32009r0822*): [pdf-fil](https://lovdata.no/static/SF/32009r0822e.pdf)
+
+Se her for å lese forordning [(EF) nr. 1050/2009](https://lovdata.no/eu/32009r1050*): [pdf-fil](https://lovdata.no/static/SF/32009r1050u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 1097/2009](https://lovdata.no/eu/32009r1097*): [pdf-fil](https://lovdata.no/static/SF/32009r1097u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 304/2010](https://lovdata.no/eu/32010r0304): [pdf-fil](https://lovdata.no/static/SF/32010r0304u.pdf)
+
+Se her for å lese forordning [(EU) nr. 459/2010](https://lovdata.no/eu/32010r0459): [pdf-fil](https://lovdata.no/static/SF/32010r0459u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 600/2010](https://lovdata.no/eu/32010r0600): [pdf-fil](https://lovdata.no/static/SF/32010r0600u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 750/2010](https://lovdata.no/eu/32010r0750): [pdf-fil](https://lovdata.no/static/SF/32010r0750u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 765/2010](https://lovdata.no/eu/32010r0765): [pdf-fil](https://lovdata.no/static/SF/32010r0765u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 893/2010](https://lovdata.no/eu/32010r0893): [pdf-fil](https://lovdata.no/static/SF/32010r0893u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 310/2011](https://lovdata.no/eu/32011r0310) [pdf-fil](https://lovdata.no/static/SF/32011r0310u.pdf)
+
+Se her for å lese forordning [(EU) nr. 460/2011](https://lovdata.no/eu/32011r0460) [pdf-fil](https://lovdata.no/static/SF/32011r0460u.pdf)
+
+Se her for å lese forordning [(EU) nr. 508/2011](https://lovdata.no/eu/32011r0508) [pdf-fil](https://lovdata.no/static/SF/32011r0508u.pdf)
+
+Se her for å lese forordning [(EU) nr. 520/2011](https://lovdata.no/eu/32011r0520) [pdf-fil](https://lovdata.no/static/SF/32011r0520u.pdf)
+
+Se her for å lese forordning [(EU) nr. 524/2011](https://lovdata.no/eu/32011r0524*) [pdf-fil](https://lovdata.no/static/SF/32011r0524u.pdf)
+
+Se her for å lese forordning [(EU) nr. 559/2011](https://lovdata.no/eu/32011r0559) [pdf-fil](https://lovdata.no/static/SF/32011r0559u.pdf)
+
+Se her for å lese forordning [(EU) nr. 812/2011](https://lovdata.no/eu/32011r0812) [pdf-fil](https://lovdata.no/static/SF/32011r0812u.pdf)
+
+Se her for å lese forordning [(EU) nr. 813/2011](https://lovdata.no/eu/32011r0813) [pdf-fil](https://lovdata.no/static/SF/32011r0813u.pdf)
+
+Se her for å lese forordning [(EU) nr. 978/2011](https://lovdata.no/eu/32011r0978): [pdf-fil](https://lovdata.no/static/SF/32011r0978u.pdf)
+
+Se her for å lese forordning [(EU) nr. 270/2012](https://lovdata.no/eu/32012r0270): [pdf-fil](https://lovdata.no/static/SF/32012r0270u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 322/2012](https://lovdata.no/eu/32012r0322): [pdf-fil](https://lovdata.no/static/SF/32012r0322u.pdf)
+
+Se her for å lese forordning [(EU) nr. 441/2012](https://lovdata.no/eu/32012r0441): [pdf-fil](https://lovdata.no/static/SF/32012r0441u.pdf)
+
+Se her for å lese forordning [(EU) nr. 473/2012](https://lovdata.no/eu/32012r0473): [pdf-fil](https://lovdata.no/static/SF/32012r0473u.pdf)
+
+Se her for å lese forordning [(EU) nr. 556/2012](https://lovdata.no/eu/32012r0556): [pdf-fil](https://lovdata.no/static/SF/32012r0556u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 592/2012](https://lovdata.no/eu/32012r0592): [pdf-fil](https://lovdata.no/static/SF/32012r0592u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 897/2012](https://lovdata.no/eu/32012r0897): [pdf-fil](https://lovdata.no/static/SF/32012r0897u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 899/2012](https://lovdata.no/eu/32012r0899): [pdf-fil](https://lovdata.no/static/SF/32012r0899u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 34/2013](https://lovdata.no/eu/32013r0034): [pdf-fil](https://lovdata.no/static/SF/32013r0034u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 35/2013](https://lovdata.no/eu/32013r0035): [pdf-fil](https://lovdata.no/static/SF/32013r0035u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 212/2013](https://lovdata.no/eu/32013r0212): [pdf-fil](https://lovdata.no/static/SF/32013r0212u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 241/2013](https://lovdata.no/eu/32013r0241): [pdf-fil](https://lovdata.no/static/SF/32013r0241u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 251/2013](https://lovdata.no/eu/32013r0251): [pdf-fil](https://lovdata.no/static/SF/32013r0251u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 293/2013](https://lovdata.no/eu/32013r0293): [pdf-fil](https://lovdata.no/static/SF/32013r0293u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 500/2013](https://lovdata.no/eu/32013r0500): [pdf-fil](https://lovdata.no/static/SF/32013r0500u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 668/2013](https://lovdata.no/eu/32013r0668*): [pdf-fil](https://lovdata.no/static/SF/32013r0668u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 772/2013](https://lovdata.no/eu/32013r0772): [pdf-fil](https://lovdata.no/static/SF/32013r0772u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 777/2013](https://lovdata.no/eu/32013r0777) [pdf-fil](https://lovdata.no/static/SF/32013r0777u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 834/2013](https://lovdata.no/eu/32013r0834) [pdf-fil](https://lovdata.no/static/SF/32013r0834u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1004/2013](https://lovdata.no/eu/32013r1004): [pdf-fil](https://lovdata.no/static/SF/32013r1004u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 1138/2013](https://lovdata.no/eu/32013r1138): [pdf-fil](https://lovdata.no/static/SF/32013r1138u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1317/2013](https://lovdata.no/eu/32013r1317): [pdf-fil](https://lovdata.no/static/SF/32013r1317u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 36/2014](https://lovdata.no/eu/32014r0036): [pdf-fil](https://lovdata.no/static/SF/32014r0036u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 51/2014](https://lovdata.no/eu/32014r0051): [pdf-fil](https://lovdata.no/static/SF/32014r0051u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 61/2014](https://lovdata.no/eu/32014r0061): [pdf-fil](https://lovdata.no/static/SF/32014r0061u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 79/2014](https://lovdata.no/eu/32014r0079): [pdf-fil](https://lovdata.no/static/SF/32014r0079u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 87/2014](https://lovdata.no/eu/32014r0087): [pdf-fil](https://lovdata.no/static/SF/32014r0087u.pdf)
+
+Se her for å lese forordning [(EU) nr. 289/2014](https://lovdata.no/eu/32014r0289): [pdf-fil](https://lovdata.no/static/SF/32014r0289u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 318/2014](https://lovdata.no/eu/32014r0318): [pdf-fil](https://lovdata.no/static/SF/32014r0318u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 364/2014](https://lovdata.no/eu/32014r0364): [pdf-fil](https://lovdata.no/static/SF/32014r0364u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 398/2014](https://lovdata.no/eu/32014r0398): [pdf-fil](https://lovdata.no/static/SF/32014r0398u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 491/2014](https://lovdata.no/eu/32014r0491) [pdf-fil](https://lovdata.no/static/SF/32014r0491u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 588/2014](https://lovdata.no/eu/32014r0588) [pdf-fil](https://lovdata.no/static/SF/32014r0588u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 617/2014](https://lovdata.no/eu/32014r0617) [pdf-fil](https://lovdata.no/static/SF/32014r0617u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 703/2014](https://lovdata.no/eu/32014r0703) [pdf-fil](https://lovdata.no/static/SF/32014r0703u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 737/2014](https://lovdata.no/eu/32014r0737) [pdf-fil](https://lovdata.no/static/SF/32014r0737u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 752/2014](https://lovdata.no/eu/32014r0752): [pdf-fil](https://lovdata.no/static/SF/32014r0752u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 991/2014](https://lovdata.no/eu/32014r0991): [pdf-fil](https://lovdata.no/static/SF/32014r0991u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1096/2014](https://lovdata.no/eu/32014r1096): [pdf-fil](https://lovdata.no/static/SF/32014r1096u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1119/2014](https://lovdata.no/eu/32014r1119): [pdf-fil](https://lovdata.no/static/SF/32014r1119u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1126/2014](https://lovdata.no/eu/32014r1126): [pdf-fil](https://lovdata.no/static/SF/32014r1126u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1127/2014](https://lovdata.no/eu/32014r1127): [pdf-fil](https://lovdata.no/static/SF/32014r1127u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1146/2014](https://lovdata.no/eu/32014r1146): [pdf-fil](https://lovdata.no/static/SF/32014r1146u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/165](https://lovdata.no/eu/32015r0165): [pdf-fil](https://lovdata.no/static/SF/32015r0165u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/399](https://lovdata.no/eu/32015r0399): [pdf-fil](https://lovdata.no/static/SF/32015r0399u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/400](https://lovdata.no/eu/32015r0400): [pdf-fil](https://lovdata.no/static/SF/32015r0400u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/401](https://lovdata.no/eu/32015r0401): [pdf-fil](https://lovdata.no/static/SF/32015r0401u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/552](https://lovdata.no/eu/32015r0552*): [pdf-fil](https://lovdata.no/static/SF/32015r0552u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/603](https://lovdata.no/eu/32015r0603*): [pdf-fil](https://lovdata.no/static/SF/32015r0603u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/845](https://lovdata.no/eu/32015r0845*): [pdf-fil](https://lovdata.no/static/SF/32015r0845u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/846](https://lovdata.no/eu/32015r0846): [pdf-fil](https://lovdata.no/static/SF/32015r0846u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/868](https://lovdata.no/eu/32015r0868*): [pdf-fil](https://lovdata.no/static/SF/32015r0868u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/896](https://lovdata.no/eu/32015r0896): [pdf-fil](https://lovdata.no/static/SF/32015r0896u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1040](https://lovdata.no/eu/32015r1040): [pdf-fil](https://lovdata.no/static/SF/32015r1040u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1101](https://lovdata.no/eu/32015r1101): [pdf-fil](https://lovdata.no/static/SF/32015r1101u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1200](https://lovdata.no/eu/32015r1200): [pdf-fil](https://lovdata.no/static/SF/32015r1200u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1608](https://lovdata.no/eu/32015r1608): [pdf-fil](https://lovdata.no/static/SF/32015r1608u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1910](https://lovdata.no/eu/32015r1910): [pdf-fil](https://lovdata.no/static/SF/32015r1910u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/2075](https://lovdata.no/eu/32015r2075*): [pdf-fil](https://lovdata.no/static/SF/32015r2075u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1](https://lovdata.no/eu/32016r0001): [pdf-fil](https://lovdata.no/static/SF/32016r0001u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/46](https://lovdata.no/eu/32016r0046): [pdf-fil](https://lovdata.no/static/SF/32016r0046u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/53](https://lovdata.no/eu/32016r0053): [pdf-fil](https://lovdata.no/static/SF/32016r0053u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/60](https://lovdata.no/eu/32016r0060): [pdf-fil](https://lovdata.no/static/SF/32016r0060u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/67](https://lovdata.no/eu/32016r0067): [pdf-fil](https://lovdata.no/static/SF/32016r0067u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/71](https://lovdata.no/eu/32016r0071*): [pdf-fil](https://lovdata.no/static/SF/32016r0071u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/75](https://lovdata.no/eu/32016r0075): [pdf-fil](https://lovdata.no/static/SF/32016r0075u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/143](https://lovdata.no/eu/32016r0143): [pdf-fil](https://lovdata.no/static/SF/32016r0143u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/156](https://lovdata.no/eu/32016r0156): [pdf-fil](https://lovdata.no/static/SF/32016r0156u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/439](https://lovdata.no/eu/32016r0439): [pdf-fil](https://lovdata.no/static/SF/32016r0439u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/440](https://lovdata.no/eu/32016r0440): [pdf-fil](https://lovdata.no/static/SF/32016r0440u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/452](https://lovdata.no/eu/32016r0452): [pdf-fil](https://lovdata.no/static/SF/32016r0452u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/486](https://lovdata.no/eu/32016r0486): [pdf-fil](https://lovdata.no/static/SF/32016r0486u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/567](https://lovdata.no/eu/32016r0567): [pdf-fil](https://lovdata.no/static/SF/32016r0567u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/805](https://lovdata.no/eu/32016r0805): [pdf-fil](https://lovdata.no/static/SF/32016r0805u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1002](https://lovdata.no/eu/32016r1002): [pdf-fil](https://lovdata.no/static/SF/32016r1002u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1003](https://lovdata.no/eu/32016r1003): [pdf-fil](https://lovdata.no/static/SF/32016r1003u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1015](https://lovdata.no/eu/32016r1015*): [pdf-fil](https://lovdata.no/static/SF/32016r1015u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1016](https://lovdata.no/eu/32016r1016): [pdf-fil](https://lovdata.no/static/SF/32016r1016u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1355](https://lovdata.no/eu/32016r1355): [pdf-fil](https://lovdata.no/static/SF/32016r1355u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1726](https://lovdata.no/eu/32016r1726): [pdf-fil](https://lovdata.no/static/SF/32016r1726u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1785](https://lovdata.no/eu/32016r1785): [pdf-fil](https://lovdata.no/static/SF/32016r1785u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1822](https://lovdata.no/eu/32016r1822): [pdf-fil](https://lovdata.no/static/SF/32016r1822u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1866](https://lovdata.no/eu/32016r1866): [pdf-fil](https://lovdata.no/static/SF/32016r1866u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1902](https://lovdata.no/eu/32016r1902): [pdf-fil](https://lovdata.no/static/SF/32016r1902u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/170](https://lovdata.no/eu/32017r0170): [pdf-fil](https://lovdata.no/static/SF/32017r0170u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/171](https://lovdata.no/eu/32017r0171): [pdf-fil](https://lovdata.no/static/SF/32017r0171u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/405](https://lovdata.no/eu/32017r0405): [pdf-fil](https://lovdata.no/static/SF/32017r0405u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/623](https://lovdata.no/eu/32017r0623): [pdf-fil](https://lovdata.no/static/SF/32017r0623u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/624](https://lovdata.no/eu/32017r0624): [pdf-fil](https://lovdata.no/static/SF/32017r0624u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/626](https://lovdata.no/eu/32017r0626): [pdf-fil](https://lovdata.no/static/SF/32017r0626u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/627](https://lovdata.no/eu/32017r0627): [pdf-fil](https://lovdata.no/static/SF/32017r0627u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/671](https://lovdata.no/eu/32017r0671): [pdf-fil](https://lovdata.no/static/SF/32017r0671u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/693](https://lovdata.no/eu/32017r0693*): [pdf-fil](https://lovdata.no/static/SF/32017r0693u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/978](https://lovdata.no/eu/32017r0978*): [pdf-fil](https://lovdata.no/static/SF/32017r0978u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/983](https://lovdata.no/eu/32017r0983): [pdf-fil](https://lovdata.no/static/SF/32017r0983u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/1016](https://lovdata.no/eu/32017r1016): [pdf-fil](https://lovdata.no/static/SF/32017r1016u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/1135](https://lovdata.no/eu/32017r1135): [pdf-fil](https://lovdata.no/static/SF/32017r1135u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/1164](https://lovdata.no/eu/32017r1164): [pdf-fil](https://lovdata.no/static/SF/32017r1164u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/1777](https://lovdata.no/eu/32017r1777) [pdf-fil](https://lovdata.no/static/SF/32017r1777u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/62](https://lovdata.no/eu/32018r0062): [pdf-fil](https://lovdata.no/static/SF/32018r0062u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/70](https://lovdata.no/eu/32018r0070): [pdf-fil](https://lovdata.no/static/SF/32018r0070u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/73](https://lovdata.no/eu/32018r0073): [pdf-fil](https://lovdata.no/static/SF/32018r0073u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/78](https://lovdata.no/eu/32018r0078): [pdf-fil](https://lovdata.no/static/SF/32018r0078u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/685](https://lovdata.no/eu/32018r0685): [pdf-fil](https://lovdata.no/static/SF/32018r0685u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/686](https://lovdata.no/eu/32018r0686): [pdf-fil](https://lovdata.no/static/SF/32018r0686u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/687](https://lovdata.no/eu/32018r0687): [pdf-fil](https://lovdata.no/static/SF/32018r0687u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/832](https://lovdata.no/eu/32018r0832*): [pdf-fil](https://lovdata.no/static/SF/32018r0832u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/960](https://lovdata.no/eu/32018r0960): [pdf-fil](https://lovdata.no/static/SF/32018r0960u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/1049](https://lovdata.no/eu/32018r1049): [pdf-fil](https://lovdata.no/static/SF/32018r1049u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/1514](https://lovdata.no/eu/32018r1514): [pdf-fil](https://lovdata.no/static/SF/32018r1514u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/1515](https://lovdata.no/eu/32018r1515): [pdf-fil](https://lovdata.no/static/SF/32018r1515u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/1516](https://lovdata.no/eu/32018r1516): [pdf-fil](https://lovdata.no/static/SF/32018r1516u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/38](https://lovdata.no/eu/32019r0038): [pdf-fil](https://lovdata.no/static/SF/32019r0038u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/50](https://lovdata.no/eu/32019r0050*): [pdf-fil](https://lovdata.no/static/SF/32019r0050u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/58](https://lovdata.no/eu/32019r0058): [pdf-fil](https://lovdata.no/static/SF/32019r0058u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/88](https://lovdata.no/eu/32019r0088): [pdf-fil](https://lovdata.no/static/SF/32019r0088u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/89](https://lovdata.no/eu/32019r0089): [pdf-fil](https://lovdata.no/static/SF/32019r0089u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/90](https://lovdata.no/eu/32019r0090): [pdf-fil](https://lovdata.no/static/SF/32019r0090u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/91](https://lovdata.no/eu/32019r0091): [pdf-fil](https://lovdata.no/static/SF/32019r0091u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/552](https://lovdata.no/eu/32019r0552): [pdf-fil](https://lovdata.no/static/SF/32019r0552u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/973](https://lovdata.no/eu/32019r0973): [pdf-fil](https://lovdata.no/static/SF/32019r0973u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/977](https://lovdata.no/eu/32019r0977): [pdf-fil](https://lovdata.no/static/SF/32019r0977u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1015](https://lovdata.no/eu/32019r1015): [pdf-fil](https://lovdata.no/static/SF/32019r1015u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1176](https://lovdata.no/eu/32019r1176): [pdf-fil](https://lovdata.no/static/SF/32019r1176u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1559](https://lovdata.no/eu/32019r1559): [pdf-fil](https://lovdata.no/static/SF/32019r1559u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1561](https://lovdata.no/eu/32019r1561): [pdf-fil](https://lovdata.no/static/SF/32019r1561u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1582](https://lovdata.no/eu/32019r1582): [pdf-fil](https://lovdata.no/static/SF/32019r1582u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1791](https://lovdata.no/eu/32019r1791): [pdf-fil](https://lovdata.no/static/SF/32019r1791u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1792](https://lovdata.no/eu/32019r1792): [pdf-fil](https://lovdata.no/static/SF/32019r1792u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2020/192](https://lovdata.no/eu/32020r0192): [pdf-fil](https://lovdata.no/static/SF/32020r0192u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/703](https://lovdata.no/eu/32020r0703): [pdf-fil](https://lovdata.no/static/SF/32020r0703u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/749](https://lovdata.no/eu/32020r0749): [pdf-fil](https://lovdata.no/static/SF/32020r0749u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/770](https://lovdata.no/eu/32020r0770): [pdf-fil](https://lovdata.no/static/SF/32020r0770u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/785](https://lovdata.no/eu/32020r0785): [pdf-fil](https://lovdata.no/static/SF/32020r0785u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/856](https://lovdata.no/eu/32020r0856): [pdf-fil](https://lovdata.no/static/SF/32020r0856u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/1085](https://lovdata.no/eu/32020r1085): [pdf-fil](https://lovdata.no/static/SF/32020r1085u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/1633](https://lovdata.no/eu/32020r1633): [pdf-fil](https://lovdata.no/static/SF/32020r1633u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2020/1565](https://lovdata.no/eu/32020r1565): [pdf-fil](https://lovdata.no/static/SF/32020r1565u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/1566](https://lovdata.no/eu/32020r1566): [pdf-fil](https://lovdata.no/static/SF/32020r1566u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/155](https://lovdata.no/eu/32021r0155):[pdf-fil](https://lovdata.no/static/SF/32021r0155u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/590](https://lovdata.no/eu/32021r0590): [pdf-fil](https://lovdata.no/static/SF/32021r0590u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/616](https://lovdata.no/eu/32021r0616): [pdf-fil](https://lovdata.no/static/SF/32021r0616u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/618](https://lovdata.no/eu/32021r0618):[pdf-fil](https://lovdata.no/static/SF/32021r0618u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/644](https://lovdata.no/eu/32021r0644):[pdf-fil](https://lovdata.no/static/SF/32021r0644u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/663](https://lovdata.no/eu/32021r0663):[pdf-fil](https://lovdata.no/static/SF/32021r0663u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/976](https://lovdata.no/eu/32021r0976): [pdf-fil](https://lovdata.no/static/SF/32021r0976u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/1098](https://lovdata.no/eu/32021r1098): [pdf-fil](https://lovdata.no/static/SF/32021r1098u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/1110](https://lovdata.no/eu/32021r1110): [pdf-fil](https://lovdata.no/static/SF/32021r1110u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/1247](https://lovdata.no/eu/32021r1247): [pdf-fil](https://lovdata.no/static/SF/32021r1247u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/1531](https://lovdata.no/eu/32021r1531): [pdf-fil](https://lovdata.no/static/SF/32021r1531u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1771](https://lovdata.no/eu/32021r1771): [pdf-fil](https://lovdata.no/static/SF/32021r1771u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1795](https://lovdata.no/eu/32021r1795): [pdf-fil](https://lovdata.no/static/SF/32021r1795u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1804](https://lovdata.no/eu/32021r1804): [pdf-fil](https://lovdata.no/static/SF/32021r1804u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1807](https://lovdata.no/eu/32021r1807): [pdf-fil](https://lovdata.no/static/SF/32021r1807u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1810](https://lovdata.no/eu/32021r1810): [pdf-fil](https://lovdata.no/static/SF/32021r1810u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1841](https://lovdata.no/eu/32021r1841): [pdf-fil](https://lovdata.no/static/SF/32021r1841u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1842](https://lovdata.no/eu/32021r1842): [pdf-fil](https://lovdata.no/static/SF/32021r1842u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1864](https://lovdata.no/eu/32021r1864): [pdf-fil](https://lovdata.no/static/SF/32021r1864u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1881](https://lovdata.no/eu/32021r1881): [pdf-fil](https://lovdata.no/static/SF/32021r1881u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1884](https://lovdata.no/eu/32021r1884): [pdf-fil](https://lovdata.no/static/SF/32021r1884u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/2202](https://lovdata.no/eu/32021r2202): [pdf-fil](https://lovdata.no/static/SF/32021r2202u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/78](https://lovdata.no/eu/32022r0078): [pdf-fil](https://lovdata.no/static/SF/32022r0078u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/85](https://lovdata.no/eu/32022r0085): [pdf-fil](https://lovdata.no/static/SF/32022r0085u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/93](https://lovdata.no/eu/32022r0093): [pdf-fil](https://lovdata.no/static/SF/32022r0093u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/476](https://lovdata.no/eu/32022r0476): [pdf-fil](https://lovdata.no/static/SF/32022r0476u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/566](https://lovdata.no/eu/32022r0566): [pdf-fil](https://lovdata.no/static/SF/32022r0566u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1264](https://lovdata.no/eu/32022r1264) [pdf-fil](https://lovdata.no/static/SF/32022r1264u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1290](https://lovdata.no/eu/32022r1290) [pdf-fil](https://lovdata.no/static/SF/32022r1290u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1321](https://lovdata.no/eu/32022r1321) [pdf-fil](https://lovdata.no/static/SF/32022r1321u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1324](https://lovdata.no/eu/32022r1324) [pdf-fil](https://lovdata.no/static/SF/32022r1324u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1343](https://lovdata.no/eu/32022r1343) [pdf-fil](https://lovdata.no/static/SF/32022r1343u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1346](https://lovdata.no/eu/32022r1346) [pdf-fil](https://lovdata.no/static/SF/32022r1346u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1363](https://lovdata.no/eu/32022r1363) [pdf-fil](https://lovdata.no/static/SF/32022r1363u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1406](https://lovdata.no/eu/32022r1406): [pdf-fil](https://lovdata.no/static/SF/32022r1406u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1435](https://lovdata.no/eu/32022r1435): [pdf-fil](https://lovdata.no/static/SF/32022r1435u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/127](https://lovdata.no/eu/32023r0127): [pdf-fil](https://lovdata.no/static/SF/32023r0127u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/128](https://lovdata.no/eu/32023r0128): [pdf-fil](https://lovdata.no/static/SF/32023r0128u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/129](https://lovdata.no/eu/32023r0129): [pdf-fil](https://lovdata.no/static/SF/32023r0129u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/147](https://lovdata.no/eu/32023r0147): [pdf-fil](https://lovdata.no/static/SF/32023r0147u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/163](https://lovdata.no/eu/32023r0163): [pdf-fil](https://lovdata.no/static/SF/32023r0163u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/173](https://lovdata.no/eu/32023r0173): [pdf-fil](https://lovdata.no/static/SF/32023r0173u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/198](https://lovdata.no/eu/32023r0198): [pdf-fil](https://lovdata.no/static/SF/32023r0198u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/334](https://lovdata.no/eu/32023r0334): [pdf-fil](https://lovdata.no/static/SF/32023r0334u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/377](https://lovdata.no/eu/32023r0377): [pdf-fil](https://lovdata.no/static/SF/32023r0377u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/466](https://lovdata.no/eu/32023r0466): [pdf-fil](https://lovdata.no/static/SF/32023r0466u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/679](https://lovdata.no/eu/32023r0679): [pdf-fil](https://lovdata.no/static/SF/32023r0679u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/710](https://lovdata.no/eu/32023r0710): [pdf-fil](https://lovdata.no/static/SF/32023r0710u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1029](https://lovdata.no/eu/32023r1029): [pdf-fil](https://lovdata.no/static/SF/32023r1029u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1030](https://lovdata.no/eu/32023r1030): [pdf-fil](https://lovdata.no/static/SF/32023r1030u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1042](https://lovdata.no/eu/32023r1042): [pdf-fil](https://lovdata.no/static/SF/32023r1042u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1049](https://lovdata.no/eu/32023r1049): [pdf-fil](https://lovdata.no/static/SF/32023r1049u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1068](https://lovdata.no/eu/32023r1068): [pdf-fil](https://lovdata.no/static/SF/32023r1068u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1069](https://lovdata.no/eu/32023r1069): [pdf-fil](https://lovdata.no/static/SF/32023r1069u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1536](https://lovdata.no/eu/32023r1536): [pdf-fil](https://lovdata.no/static/SF/32023r1536u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1719](https://lovdata.no/eu/32023r1719) [pdf-fil](https://lovdata.no/static/SF/32023r1719u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1753](https://lovdata.no/eu/32023r1753) [pdf-fil](https://lovdata.no/static/SF/32023r1753u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1783](https://lovdata.no/eu/32023r1783): [pdf-fil](https://lovdata.no/static/SF/32023r1783u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/2382](https://lovdata.no/eu/32023r2382) [pdf-fil](https://lovdata.no/static/SF/32023r2382u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/398](https://lovdata.no/eu/32024r0398): [pdf-fil](https://lovdata.no/static/SF/32024r0398u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/451](https://lovdata.no/eu/32024r0451): [pdf-fil](https://lovdata.no/static/SF/32024r0451u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/891](https://lovdata.no/eu/32024r0891): [pdf-fil](https://lovdata.no/static/SF/32024r0891u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/1076](https://lovdata.no/eu/32024r1076): [pdf-fil](https://lovdata.no/static/SF/32024r1076u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/1077](https://lovdata.no/eu/32024r1077): [pdf-fil](https://lovdata.no/static/SF/32024r1077u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/1078](https://lovdata.no/eu/32024r1078): [pdf-fil](https://lovdata.no/static/SF/32024r1078u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/331](https://lovdata.no/eu/32024r0331): [pdf-fil](https://lovdata.no/static/SF/32024r0331u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/341](https://lovdata.no/eu/32024r0341): [pdf-fil](https://lovdata.no/static/SF/32024r0341u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/342](https://lovdata.no/eu/32024r0342): [pdf-fil](https://lovdata.no/static/SF/32024r0342u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/344](https://lovdata.no/eu/32024r0344): [pdf-fil](https://lovdata.no/static/SF/32024r0344u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/345](https://lovdata.no/eu/32024r0345): [pdf-fil](https://lovdata.no/static/SF/32024r0345u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/347](https://lovdata.no/eu/32024r0347): [pdf-fil](https://lovdata.no/static/SF/32024r0347u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/352](https://lovdata.no/eu/32024r0352): [pdf-fil](https://lovdata.no/static/SF/32024r0352u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/376](https://lovdata.no/eu/32024r0376): [pdf-fil](https://lovdata.no/static/SF/32024r0376u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1342](https://lovdata.no/eu/32024r1342): [pdf-fil](https://lovdata.no/static/SF/32024r1342u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1439](https://lovdata.no/eu/32024r1439): [pdf-fil](https://lovdata.no/static/SF/32024r1439u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/246](https://lovdata.no/eu/32024r0246): [pdf-fil](https://lovdata.no/static/SF/32024r0246u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1314](https://lovdata.no/eu/32024r1314): [pdf-fil](https://lovdata.no/static/SF/32024r1314u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1318](https://lovdata.no/eu/32024r1318): [pdf-fil](https://lovdata.no/static/SF/32024r1318u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1355](https://lovdata.no/eu/32024r1355): [pdf-fil](https://lovdata.no/static/SF/32024r1355u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2609](https://lovdata.no/eu/32024r2609): [pdf-fil](https://lovdata.no/static/SF/32024r2609u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2612](https://lovdata.no/eu/32024r2612): [pdf-fil](https://lovdata.no/static/SF/32024r2612u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2619](https://lovdata.no/eu/32024r2619): [pdf-fil](https://lovdata.no/static/SF/32024r2619u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2633](https://lovdata.no/eu/32024r2633): [pdf-fil](https://lovdata.no/static/SF/32024r2633u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2640](https://lovdata.no/eu/32024r2640): [pdf-fil](https://lovdata.no/static/SF/32024r2640u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2711](https://lovdata.no/eu/32024r2711): [pdf](https://lovdata.no/static/SF/32024r2711u-01.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) 2024/3196](https://lovdata.no/eu/32024r3196): [pdf-fil](https://lovdata.no/static/SF/32024r3196u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/115](https://lovdata.no/eu/32025r0115): [pdf-fil](https://lovdata.no/static/SF/32025r0115u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/146](https://lovdata.no/eu/32025r0146): [pdf-fil](https://lovdata.no/static/SF/32025r0146u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/158](https://lovdata.no/eu/32025r0158): [pdf-fil](https://lovdata.no/static/SF/32025r0158u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/195](https://lovdata.no/eu/32025r0195): [pdf-fil](https://lovdata.no/static/SF/32025r0195u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/581](https://lovdata.no/eu/32025r0581): [pdf-fil](https://lovdata.no/static/SF/32025r0581u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/1163](https://lovdata.no/eu/32025r1163): [pdf-fil](https://lovdata.no/static/SF/32025r1163u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/1164](https://lovdata.no/eu/32025r1164): [pdf-fil](https://lovdata.no/static/SF/32025r1164u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/1212](https://lovdata.no/eu/32025r1212): [pdf-fil](https://lovdata.no/static/SF/32025r1212u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/1305](https://lovdata.no/eu/32025r1305): [pdf-fil](https://lovdata.no/static/SF/32025r1305u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/2473](https://lovdata.no/eu/32025r2473): [pdf-fil](https://lovdata.no/static/SF/32025r2473u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/140](https://lovdata.no/eu/32026r0140): [pdf-fil](https://lovdata.no/static/SF/32026r0140u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/147](https://lovdata.no/eu/32026r0147): [pdf-fil](https://lovdata.no/static/SF/32026r0147u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/215](https://lovdata.no/eu/32026r0215): [pdf-fil](https://lovdata.no/static/SF/32026r0215u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/742](https://lovdata.no/eu/32026r0742): [pdf-fil](https://lovdata.no/static/SF/32026r0742u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/751](https://lovdata.no/eu/32026r0751): [pdf-fil](https://lovdata.no/static/SF/32026r0751u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/752](https://lovdata.no/eu/32026r0752): [pdf-fil](https://lovdata.no/static/SF/32026r0752u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/840](https://lovdata.no/eu/32026r0840): [pdf-fil](https://lovdata.no/static/SF/32026r0840u-01.pdf)
+
+Se her for å lese forordning [(EU) 2026/876](https://lovdata.no/eu/32026r0876): [pdf-fil](https://lovdata.no/static/SF/32026r0876u-01.pdf)
+
+Se her for å lese forordning [(EU) 2026/1314](https://lovdata.no/eu/32026r1314): [pdf-fil](https://lovdata.no/static/SF/32026r1314u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/1339](https://lovdata.no/eu/32026r1339): [pdf-fil](https://lovdata.no/static/SF/32026r1339u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/1546](https://lovdata.no/eu/32026r1546): [pdf-fil](https://lovdata.no/static/SF/32026r1546u-01.pdf)
+
+Uoffisiell oversettelse.
+
+### Forordning (EF) nr. 645/2000
+
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 645/2000](https://lovdata.no/eu/32000r0645) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II.
+
+For å lese forordning [(EF) nr. 645/2000](https://lovdata.no/eu/32000r0645) se her: [pdf-fil](https://lovdata.no/static/SF/32000r0645.pdf)
+
+*Endret ved [forskrift 3 mai 2010 nr. 763](https://lovdata.no/forskrift/2010-05-03-763).*
+
+### Direktiv 2002/63/EF
+
+Nedenfor gjengis til informasjon norsk oversettelse av direktiv [2002/63/EF](https://lovdata.no/eu/32002l0063) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II.
+
+For å lese direktiv [2002/63/EF](https://lovdata.no/eu/32002l0063) se her: [pdf-fil](https://lovdata.no/static/SF/32002l0063.pdf)
+
+*Endret ved [forskrift 3 mai 2010 nr. 763](https://lovdata.no/forskrift/2010-05-03-763).*
+
+## Fotnoter
+
+**1.** EUT C 234 av 30.9.2003, s. 33.
+
+**2.** Europaparlamentsuttalelse av 20. april 2004 (ennå ikke offentliggjort i EUT), Rådets felles holdning av 19. juli 2004 (EUT C 25 E av 1.2.2005, s. 1) og europaparlamentets holdning av 15. desember 2004 (ennå ikke offentliggjort i EUT) og rådsbeslutning av 24. januar 2005.
+
+**3.** EFT L 340 av 9.12.1976, s. 26. Direktivet sist endret ved forordning [(EF) nr. 807/2003](https://lovdata.no/eu/32003r0807) (EUT L 122 av 16.5.2003, s. 36).
+
+**4.** EFT L 221 av 7.8.1986, s. 37. Direktivet sist endret ved kommisjonsdirektiv [2004/61/EF](https://lovdata.no/eu/32004l0061) (EUT L 127 av 29.4.2004, s. 81).
+
+**5.** EFT L 221 av 7.8.1986, s. 43. Direktivet sist endret ved direktiv [2004/61/EF](https://lovdata.no/eu/32004l0061).
+
+**6.** EFT L 350 av 14.12.1990, s. 71. Direktivet sist endret ved kommisjonsdirektiv [2004/95/EF](https://lovdata.no/eu/32004l0095) (EUT L 301 av 28.9.2004, s. 42).
+
+**7.** EFT L 230 av 19.8.1991, s. 1. Direktivet sist endret ved kommisjonsdirektiv [2004/99/EF](https://lovdata.no/eu/32004l0099) (EUT L 309 av 6.10.2004, s. 6).
+
+**8.** EFT L 31 av 1.2.2002, s. 1. Forordningen endret ved forordning [(EF) nr. 1642/2003](https://lovdata.no/eu/32003r1642) (EUT L 245 av 29.9.2003, s. 4).
+
+**9.** EFT L 33 av 8.2.1979, s. 36. Direktivet sist endret ved europaparlaments- og rådsforordning [(EF) nr. 850/2004](https://lovdata.no/eu/32004r0850*) (EUT L 158 av 30.4.2004, s. 7. Rettet i EUT L 229 av 29.6.2004, s. 5.
+
+**10.** EFT L 140 av 30.5.2002, s. 10. Direktivet sist endret ved kommisjonsdirektiv [2003/100/EF](https://lovdata.no/eu/32003l0100) (EUT L 285 av 1.11.2003, s. 33).
+
+**11.** EUT L 165 av 30.4.2004, s. 1. Rettet i EUT L 191 av 28.5.2004, s. 1.
+
+**12.** EFT L 184 av 17.7.1999, s. 23.
+
+**13.** Europaparlaments- og rådsdirektiv [98/8/EF](https://lovdata.no/eu/31998l0008*) av 16. februar 1998 om omsetning av biocidholdige produkter (EFT L nr. 123 av 24.4.1998, s. 1). Direktivet endret ved forordning [(EF) nr. 1882/2003](https://lovdata.no/eu/32003r1882) (EUT L 284 av 31.10.2003, s. 1).
+
+**14.** Rådsforordning [(EØF) nr. 2377/90](https://lovdata.no/eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse (EFT L 224 av 18.8.1990, s. 1). Forordningen sist endret ved kommisjonsforordning [(EF) nr. 1875/2004](https://lovdata.no/eu/32004r1875) (EUT L 326 av 29.10.2004, s. 19).
+
+**15.** Rådsdirektiv [2000/29/EF](https://lovdata.no/eu/32000l0029*) av 8. mai 2000 om beskyttelsestiltak mot innføring til Fellesskapet av organismer som er skadelige for planter eller planteprodukter og spredning av dem i Fellesskapet (EFT L 169 av 10.7.2000, s. 1). Direktivet sist endret ved forordning [(EF) nr. 882/2004](https://lovdata.no/eu/32004r0882*).
+
+**16.** EUT L 70 av 16.3.2005, s. 1.

@@ -1,0 +1,256 @@
+# Forskrift om tilskudd til reinbeitedistrikter og reinlag
+
+- **Datokode:** FOR-2022-12-21-2468
+- **DokumentID:** SF/forskrift/2022-12-21-2468
+- **Departement:** Landbruks- og matdepartementet
+- **Etat:** Landbrukspolitisk avdeling
+- **Hjemmel:** lov 15.06.2007 nr. 40/§82a
+- **Kunngjort:** 2022-12-27 16:40
+- **I kraft fra:** 2022-12-21
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** forskrift 22.06.2026 nr. 1178 fra 2026-07-01
+- **Endrer:** forskrift 26.06.2018 nr. 1031; forskrift 04.02.2022 nr. 165
+- **Merknad:** Hjemmel: Fastsatt av Landbruks- og matdepartementet 21. desember 2022 med hjemmel i Reindriftsavtalen. Tilføyd hjemmel: Lov 15. juni 2007 nr. 40 om reindrift (reindriftsloven) § 82a. Endret ved forskrifter 21 juni 2023 nr. 1015 (i kraft 1 juli 2023), 20 juni 2024 nr. 1065 (i kraft 1 juli 2024), 24 juni 2025 nr. 1283 (i kraft 1 juli 2025), 24 juni 2025 nr. 1287 (i kraft 1 juli 2025), 8 mai 2026 nr. 768, 22 juni 2026 nr. 1178 (i kraft 1 juli 2026). Endres ved forskrift 8 mai 2026 nr. 768 (i kraft 31 mars 2027).
+- **Kilde:** <https://lovdata.no/forskrift/2022-12-21-2468>
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1-1. Formål
+
+Distriktstilskudd skal bidra til å gi reinbeitedistrikter og reinlag økt medansvar for utvikling av reindriften i bærekraftig retning, balanse mellom reintall og beiter, sikring av arealer og økt lønnsomhet.
+
+Tilskudd til beredskapsfond skal legge til rette for reinbeitedistriktenes og reinlagenes nødvendige tiltak i forbindelse med beitekriser.
+
+Ekstraordinært tilskudd til beredskap skal bidra til å forhindre omfattende tap av rein eller andre store dyrevelferdsmessige utfordringer ved beitekriser.
+
+*Endret ved forskrift [22 juni 2026 nr. 1178](https://lovdata.no/forskrift/2026-06-22-1178) (i kraft 1 juli 2026).*
+
+### § 1-2. Definisjoner
+
+Med *distriktstilskudd* menes tilskudd til administrasjon, planlegging og ressursforvaltning til reinbeitedistrikt og reinlag.
+
+Med *beitekrise* menes en hendelse som avviker fra det normale og skiller seg markant fra den normale driftsvariasjonen som er mellom år. En beitekrise kan oppstå raskt, eller utvikles over tid, og er avgrenset både i geografi og antall reineiere som blir berørt. Ved en krise er en vesentlig andel av siidaens beiteareal utilgjengelig eller påvirket av andre klimatiske forhold som truer reinens velferd, og det foreligger en betydelig risiko for tap av rein og store økonomiske tap. En krise kan true videre drift hos de reineierne som blir berørt.
+
+### § 1-3. Krav til søknad
+
+Søknad om tilskudd etter denne forskriften sendes på særskilt skjema fastsatt av Landbruksdirektoratet. Søknaden sendes til statsforvalteren i det fylket reinbeitedistriktet eller reinlaget tilhører. Vedtak om tilskudd fattes av statsforvalteren. Søknader skal behandles etter regelverket som var gjeldende for reindriftsåret det søkes tilskudd for.
+
+*Endret ved forskrift [21 juni 2023 nr. 1015](https://lovdata.no/forskrift/2023-06-21-1015) (i kraft 1 juli 2023).*
+
+### § 1-4. Rapportering og kontroll
+
+Mottakere av tilskudd etter denne forskriften plikter å gi alle opplysninger som reindriftsmyndighetene finner nødvendig for å kunne forvalte tilskuddordningene, eller for å kunne oppfylle reindriftsavtalen.
+
+Tilskuddsmottaker skal rapportere om bruken av tilskudd for siste driftsår til statsforvalteren innen 15. juli. Manglende rapportering av bruken av tilskudd kan medføre at hele eller deler av utbetalt tilskudd kreves tilbakebetalt.
+
+Reindriftsmyndighetene fører tilsyn med at utbetalinger av tilskudd er riktige, og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer tilskuddet. Det kan kreves at opplysningene bekreftes av revisor.
+
+### § 1-5. Retting av feilutbetalinger
+
+Reindriftsmyndighetene kan rette feil i utbetalt tilskudd, enten ved etterbetaling eller krav om tilbakebetaling av tilskudd fra tilskuddsmottaker.
+
+### § 1-6. Avkorting mv.
+
+Dersom tilskuddsmottaker uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknaden som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet, kan hele eller deler av tilskuddet avkortes.
+
+Dersom tilskuddsmottaker i henhold til reindriftsmyndighetenes vedtak driver eller har drevet sin virksomhet i strid med lover eller forskrifter for reindriftsnæringen, og det er utvist uaktsomhet eller forsett, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.
+
+Dersom Femund reinbeitedistrikt ikke overholder vilkårene for utøvelse av reindrift innenfor distriktets grenser, skal hele eller deler av tilskuddet avkortes.
+
+*Endret ved forskrift [20 juni 2024 nr. 1065](https://lovdata.no/forskrift/2024-06-20-1065) (i kraft 1 juli 2024).*
+
+### § 1-7. Innkreving av tilbakebetalings- eller avkortingsbeløp
+
+Differansen mellom utbetalt beløp og berettiget tilskudd som følge av vedtak om tilbakebetaling etter [§ 1-4](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) eller avkorting etter [§ 1-6](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md), kan kreves tilbakebetalt fra tilskuddsmottakeren eller motregnes i senere tilskuddsutbetalinger.
+
+Krav fra reindriftsmyndighetene kan motregnes i tilskuddsutbetalinger til tilskuddsmottakeren.
+
+Dersom foretaket/tilskuddsmottakeren ikke var i aktsom god tro om utbetalingen, kan renter kreves fra det tidspunkt tilbakebetalingskravet er kommet fram til foretaket/mottaker. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetaling av det urettmessige tilskuddet. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av [§ 3 i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m](../lover/lov-1976-12-17-100-forsinkelsesrenteloven.md).
+
+*Endret ved forskrift [20 juni 2024 nr. 1065](https://lovdata.no/forskrift/2024-06-20-1065) (i kraft 1 juli 2024).*
+
+### § 1-8. Klageadgang
+
+Statsforvalterens vedtak etter denne forskrift kan påklages til Landbruksdirektoratet etter [forvaltningslovens](../lover/lov-1967-02-10-forvaltningsloven.md) regler.
+
+Landbruksdirektoratets vedtak etter denne forskrift kan påklages til Landbruks- og matdepartementet etter [forvaltningslovens](../lover/lov-2025-06-20-81-forvaltningsloven.md) regler.
+
+*Endret ved forskrift [24 juni 2025 nr. 1287](https://lovdata.no/forskrift/2025-06-24-1287) (i kraft 1 juli 2025).*
+
+### § 1-9. Fellesbestemmelser
+
+Bestemmelsene i [kapittel 1](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) gjelder for alle tilskuddsordninger etter denne forskriften, med mindre annet er særskilt bestemt.
+
+### § 1-10. Unntak for tilskuddsåret 2025/2026 for reinbeitedistrikt 16 og reinbeitedistrikter som tidligere har vært del av reinbeitedistrikt 16
+
+For tilskuddsåret 2025/2026 kan tilskudd etter [kapittel 2](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) og [kapittel 3](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) ikke innvilges til følgende reinbeitedistrikt:
+
+a. Reinbeitedistrikt 16,
+b. Jáhkenjárga,
+c. Láhtin,
+d. MarBolon,
+e. Máhkarávju,
+f. Njeaiddán,
+g. Rávdol,
+h. Skáiddeduottar,
+i. Skuohtanjárga, og
+j. Vuorji.
+
+*Tilføyd ved forskrift [8 mai 2026 nr. 768](https://lovdata.no/forskrift/2026-05-08-768). **Oppheves** ved forskrift [8 mai 2026 nr. 768](https://lovdata.no/forskrift/2026-05-08-768) (i kraft 31 mars 2027).*
+
+## Kapittel 2. Distriktstilskudd
+
+### § 2-1. Vilkår for distriktstilskudd
+
+Tilskudd kan innvilges reinbeitedistrikter og reinlag etter dette kapittelet dersom:
+
+a. reinbeitedistriktet og reinlaget er i drift,
+b. reinbeitedistriktet har vedtatt en distriktsplan, som er oppdatert i løpet av de siste fire årene, og sendt denne til statsforvalteren,
+c. reinlaget har vedtatt en reindriftsplan og sendt denne til statsforvalteren,
+d. reinbeitedistriktet/reinlaget har vedtatt en beredskapsplan,
+e. statsforvalteren har fått oversendt revisorgodkjent regnskap for foregående år,
+f. reinbeitedistriktet og reinlaget, som har mottatt tilskudd etter denne forskriften siste driftsår, har rapportert om avsetning og bruk av midler mv. på særskilt rapporteringsskjema fastsatt av Landbruksdirektoratet.
+
+I særlige tilfeller kan Landbruksdirektoratet dispensere fra vilkåret i bokstav e.
+
+*Endret ved forskrifter [21 juni 2023 nr. 1015](https://lovdata.no/forskrift/2023-06-21-1015) (i kraft 1 juli 2023), [24 juni 2025 nr. 1287](https://lovdata.no/forskrift/2025-06-24-1287) (i kraft 1 juli 2025).*
+
+### § 2-2. Satser for distriktstilskudd
+
+Tilskudd til reinbeitedistriktene, herunder Trollheimen, ytes med et fast grunnbeløp på inntil 264 000 kroner per distrikt. Ved sammenslåing av distrikter mottar distriktet de to første årene grunnbeløp for det antall distrikt som er sammenslått.
+
+Tilskuddet utgjør
+
+a. inntil 385 500 kroner til distrikt 17 i Øst-Finnmark reinbeiteområde,
+b. inntil 385 500 kroner til fellesbeiteområde distrikt 16 i Øst-Finnmark reinbeiteområde,
+c. inntil 457 000 kroner til hvert av distriktene 30A, 30B og 30C i Vest-Finnmark reinbeiteområde,
+d. inntil 148 500 kroner til Femund reinbeitedistrikt i Sør-Trøndelag/Hedmark reinbeiteområde, og
+e. inntil 251 000 kroner til hvert av reinlagene.
+
+I tillegg ytes et beløp per siidaandel på inntil 22 500 kroner. Det variable tilskuddet skal kun ytes for det antall siidaandeler som er innvilget produksjonspremie minst et av de tre foregående driftsårene. Det variable tilskuddet gjelder ikke distriktene 16, 17, 30A, 30B, 30C, og Femund.
+
+Distrikter som har vedtatt en siidainndeling gjennom årsmøtevedtak kan fordele midlene på de ulike siidaene.
+
+*Endret ved forskrifter [21 juni 2023 nr. 1015](https://lovdata.no/forskrift/2023-06-21-1015) (i kraft 1 juli 2023), [20 juni 2024 nr. 1065](https://lovdata.no/forskrift/2024-06-20-1065) (i kraft 1 juli 2024), [24 juni 2025 nr. 1287](https://lovdata.no/forskrift/2025-06-24-1287) (i kraft 1 juli 2025), [22 juni 2026 nr. 1178](https://lovdata.no/forskrift/2026-06-22-1178) (i kraft 1 juli 2026).*
+
+### § 2-3. Bruk av distriktstilskudd
+
+Tilskudd etter dette kapittelet gir grunnlag for tiltak som er i samsvar med forskriftens formål i [§ 1-1](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) første ledd, herunder:
+
+a. administrasjon og ressursforvaltning,
+b. avsetning til beredskapsfond,
+c. kjøp av utstyr til krisefôring som framgår av distriktets beredskapsplan,
+d. arbeid med helse, miljø og sikkerhet,
+e. avløsning ved ferie og fritid,
+f. felles investeringer i utstyr som kan bidra til klimatilpasning.
+
+*Endret ved forskrifter [20 juni 2024 nr. 1065](https://lovdata.no/forskrift/2024-06-20-1065) (i kraft 1 juli 2024), [22 juni 2026 nr. 1178](https://lovdata.no/forskrift/2026-06-22-1178) (i kraft 1 juli 2026).*
+
+### § 2-4. Særskilt tilskudd for Trollheimen
+
+For Trollheimen ytes det tilskudd til spesielle kostnader med inntil 15 000 kroner per siidaandel for det antall enheter som er innvilget produksjonspremie i minst et av de tre foregående driftsårene. Med bakgrunn i gitte rammebetingelser utbetales et ekstraordinært tilskudd på inntil 200 000 kroner til hver av de fem siidaandelene i Trollheimen. Ved endring av rammebetingelsene bortfaller tilskuddet.
+
+*Endret ved forskrift [20 juni 2024 nr. 1065](https://lovdata.no/forskrift/2024-06-20-1065) (i kraft 1 juli 2024).*
+
+### § 2-5. Søknadsfrist
+
+Søknad om distriktstilskudd med vedlegg må være levert innen 15. juli.
+
+I særlige tilfeller kan statsforvalteren dispensere fra søknadsfristen.
+
+### § 2-6. Dekning av kostnader til utarbeidelse av bruksregler
+
+Dersom distriktet ikke selv utarbeider bruksregler, dekkes statsforvalterens utgifter til utarbeiding av bruksreglene innenfor rammen av distriktstilskudd.
+
+## Kapittel 3. Beredskapsfond
+
+### § 3-1. Tilskudd til beredskapsfond
+
+Tilskudd til beredskapsfond kan gis med 67,50 kroner per rein. Reintallet som legges til grunn er reintallet pr. 31. mars, som er oppgitt i melding om reindrift. Det gis ikke tilskudd for flere rein enn siidaens eller reinlagets fastsatte øvre reintall. Tilskudd kan innvilges inntil distriktets eller reinlagets beredskapsfond er tilstrekkelig til å håndtere en beitekrise i 90 døgn, tilsvarende 3 kroner per rein per døgn.
+
+Tilskudd til beredskapsfond utbetales ikke til distriktene 16, 17, 30A, 30B, 30C, og Femund.
+
+Reinbeitedistrikt og reinlag må oppfylle vilkårene i [§ 2-1](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md).
+
+Reinbeitedistrikt og reinlag plikter å ha en egen bankkonto for beredskapsfondet. Det skal føres separat regnskap for beredskapsfondet.
+
+*Endret ved forskrifter [24 juni 2025 nr. 1287](https://lovdata.no/forskrift/2025-06-24-1287) (i kraft 1 juli 2025), [22 juni 2026 nr. 1178](https://lovdata.no/forskrift/2026-06-22-1178) (i kraft 1 juli 2026).*
+
+### § 3-2. Bruk av beredskapsfond
+
+Beredskapsfondet etter [§ 3-1](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) skal dekke kostnader etter [§ 3-3](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) i tilfeller der beredskapsutvalget har fastslått at det foreligger en beitekrise.
+
+Reinbeitedistrikt og reinlag kan vedta å ta i bruk eget beredskapsfond, dersom:
+
+a. distriktsstyret eller reinlaget vurderer at det er beitekrise i hele eller deler av distriktet i henhold til definisjonen i [§ 1-2](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) annet ledd, og
+b. det er behov for å iverksette tiltak raskt, og
+c. distriktsstyret eller reinlaget har varslet beredskapsutvalget om at det er nødvendig å foreta befaring i distriktet.
+
+### § 3-3. Kostnader og satser
+
+Som kostnader etter [§ 3-2](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) regnes blant annet leie av alternative beiteområder, innkjøp av fôr, innleid arbeidskraft, transport av fôr og personell, samt flytting av rein til alternative beiteområder.
+
+Vederlag for enkeltpersoners arbeidsinnsats kan maksimalt utgjøre 210 kroner per time.
+
+For dekning av bruk av enkeltpersoners transportmidler og annet utstyr anvendes statens satser.
+
+*Endret ved forskrift [21 juni 2023 nr. 1015](https://lovdata.no/forskrift/2023-06-21-1015) (i kraft 1 juli 2023).*
+
+### § 3-4. Krav om tilbakeføring ved uberettiget bruk
+
+Statsforvalteren kan kreve hele eller deler av de brukte midlene tilbakeført til beredskapsfondet dersom fondet brukes i strid med de generelle vilkårene i [§ 3-2](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md).
+
+*Endret ved forskrift [22 juni 2026 nr. 1178](https://lovdata.no/forskrift/2026-06-22-1178) (i kraft 1 juli 2026).*
+
+## Kapittel 4. Ekstraordinært tilskudd til beredskap
+
+### § 4-1. Vilkår for tilskudd
+
+Ekstraordinært tilskudd til beredskap kan ytes til reinbeitedistrikter og reinlag dersom:
+
+a. beredskapsutvalget har fastslått at det foreligger en beitekrise i det aktuelle reinbeitedistrikt og reinlag, og
+b. det har gått minst 45 døgn siden beredskapsutvalget har fastslått at det foreligger en beitekrise i reinbeitedistriktet eller reinlaget.
+
+Ekstraordinært tilskudd til beredskap ytes ikke til distriktene 16, 17, 30A, 30B, 30C, og Femund.
+
+Tilskudd skal utbetales til reinbeitedistriktets og reinlagets beredskapsfond og brukes i henhold til [kapittel 3](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md).
+
+Søknad om ekstraordinært tilskudd til beredskap sendes til statsforvalteren fortløpende, og senest innen 31. mai.
+
+*Endret ved forskrifter [24 juni 2025 nr. 1287](https://lovdata.no/forskrift/2025-06-24-1287) (i kraft 1 juli 2025), [22 juni 2026 nr. 1178](https://lovdata.no/forskrift/2026-06-22-1178) (i kraft 1 juli 2026).*
+
+### § 4-2. Beregning av tilskudd
+
+Tilskuddet beregnes med 4,50 kroner per rein per døgn, på grunnlag av det antallet rein som tilhører de siidaene eller reinlagene der beredskapsutvalget har erklært beitekrise.
+
+Reintallet som legges til grunn er reintallet pr. 31. mars, som er oppgitt i melding om reindrift. Det gis ikke tilskudd for flere rein enn siidaens eller reinlagets fastsatte øvre reintall.
+
+Det kan søkes om tilskudd for en periode på 15 døgn fra det tidspunktet vilkårene i [§ 4‑1 første ledd](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) er oppfylt. Dersom beitekrisen vedvarer, kan det søkes om tilskudd for en ny periode på 15 døgn.
+
+*Endret ved forskrift [24 juni 2025 nr. 1287](https://lovdata.no/forskrift/2025-06-24-1287) (i kraft 1 juli 2025).*
+
+### § 4-3. Tilskudd til flytting av rein fra vinter- til sommerbeite
+
+Reinbeitedistrikt kan søke om tilskudd til flytting av rein fra distriktets vinter- til sommerbeite fra det tidspunktet vilkårene i [§ 4-1 første ledd](for-2022-12-21-2468-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md) er oppfylt. Det gis kun tilskudd til flytting som er gjennomført innen 10. mai.
+
+Tilskudd til flytting av rein utgjør 0,18 kroner per rein per kilometer. Det gis ikke tilskudd for flere rein enn siidaens fastsatte øvre reintall.
+
+Transportør og transportmiddel som benyttes til fraktoppdragene må ha nødvendige offentlige godkjenninger for å kunne transportere levende rein.
+
+Søknad om tilskudd til flytting sendes til statsforvalteren innen 31. mai. I søknaden må det dokumenteres at flytting er gjennomført, antall rein som er flyttet og antall kilometer. Dokumentasjon på at transportøren har nødvendige godkjenninger for transport av levende rein må vedlegges søknaden.
+
+*Endret ved forskrift [24 juni 2025 nr. 1287](https://lovdata.no/forskrift/2025-06-24-1287) (i kraft 1 juli 2025).*
+
+### § 4-4. Egenandel ved transport av fôr med helikopter
+
+Avtalepartene kan beslutte å benytte beredskapsfondet under Reindriftens utviklingsfond til å dekke kostnader ved bruk av helikopter til beredskapsutvalgenes befaringer og til transport av fôr i en beitekrise.
+
+I tilfeller der beredskapsfondet brukes til å dekke kostnader ved transport av fôr med helikopter skal det beregnes en egenandel for reinbeitedistriktet på 1 600 kroner per fôrsekk.
+
+*Tilføyd ved forskrift [20 juni 2024 nr. 1065](https://lovdata.no/forskrift/2024-06-20-1065) (i kraft 1 juli 2024).*
+
+## Kapittel 5. Ikrafttredelse
+
+### § 5-1. Ikrafttredelse
+
+Forskriften trer i kraft straks. Fra samme tid oppheves [forskrift 26. juni 2018 nr. 1031 om tilskudd til reinbeitedistrikter og reinlag](https://lovdata.no/forskrift/2018-06-26-1031) og [forskrift 4. februar 2022 nr. 165 om ekstraordinært tilskudd til kriseberedskap](https://lovdata.no/forskrift/2022-02-04-165).

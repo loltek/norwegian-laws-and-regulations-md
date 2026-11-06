@@ -1,0 +1,133 @@
+# Forskrifter om fjernsynsmottakere
+
+- **Korttittel:** Forskrift om fjernsynsmottakere
+- **Datokode:** FOR-1980-10-23-8798
+- **DokumentID:** SF/forskrift/1980-10-23-8798
+- **Departement:** Kultur- og likestillingsdepartementet
+- **Etat:** Medie- og kunstavd.
+- **Hjemmel:** lov 13.06.1980 nr. 36/§21; lov 13.06.1980 nr. 36/§23; lov 04.12.1992 nr. 127/§8-1; lov 04.12.1992 nr. 127/§8-2; lov 04.12.1992 nr. 127/§8-3; forskrift 30.01.2004 nr. 243
+- **Publisert i:** I 1981 723
+- **I kraft fra:** 1980-06-01
+- **Siste endring i kraft:** 2020-01-01
+- **Sist endret ved:** forskrift 20.12.2019 nr. 1924 fra 2020-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av styret i Norsk rikskringkasting 23. oktober 1980 med hjemmel i lov av 4. desember 1992 nr. 127 om kringkasting § 8-1 annet ledd, § 8-2 og § 8-3 fjerde og femte ledd. (Tidligere hjemmel: lov om kringkasting av 13. juni 1980 nr. 36 § 21 nr. 2 og § 23 nr. 3 og 4.) Endret ved forskrifter 24 jan 1984 nr. 229, 21 mars 1988 nr. 285, 22 des 1989 nr. 1273, 19 feb 1997 nr. 235, 4 juli 2007 nr. 844, 22 mai 2009 nr. 626, 20 des 2019 nr. 1924 (i kraft 1 jan 2020).
+- **Kilde:** <https://lovdata.no/forskrift/1980-10-23-8798>
+
+## § 1. Betalingsplikt
+
+Den som har (bl.a. også den som låner eller leier) fjernsynsmottaker plikter å betale den kringkastingsavgift som til enhver tid er fastsatt av Stortinget.
+
+For videospiller kombinert med tuner (mottakerdel) skal det betales kringkastingsavgift som for fjernsynsmottaker med farge.
+
+Kvittering for betalt avgift gis ved kringkastingskort.
+
+## § 2. Betaling av avgiften
+
+Kringkastingsavgiften skal betales for et halvt år av gangen. Avgift for perioden 1. januar til 30. juni betales med forfall 31. januar. Avgift for perioden 1. juli til 31. desember betales med forfall 31. juli.[1]
+
+Avgiftsplikt inntrer fra og med måneden etter at mottakeren ble anskaffet/tatt i bruk. For nye avgiftspliktige avkortes årets kringkastingsavgift for hver måned vedkommende ikke har hatt fjernsynsmottaker, inkludert den måneden mottakeren ble anskaffet.
+
+Det må betales avgift selv om mottakeren brukes lite. Dette gjelder også om mottakeren har vært i ustand eller ute av drift pga. strømmangel, dårlige mottakingsforhold og lignende, eller om den bare brukes en enkelt gang.
+
+*Endret ved [forskrifter 19 feb 1997 nr. 235](https://lovdata.no/forskrift/1997-02-19-235), [4 juli 2007 nr. 844](https://lovdata.no/forskrift/2007-07-04-844) (i kraft straks med virkning fra og med innkreving av andre termin av kringkastingsavgiften for 2007).*
+
+## § 3. Tilleggsavgift
+
+a. Den som ikke har betalt kringkastingsavgiften ved forfall,
+b. den som har meldt fra at kringkastingskortet (lisensen) ikke ønskes fornyet, men likevel bruker eller har mottaker oppsatt uten å løse nytt kort,
+c. den som har mottaker uten å være registrert i NRK,
+d. den som bruker eller har oppsatt mottaker som ikke etter forskriftene går inn under kringkastingskortet hans/hennes,
+e. den som unnlater å gi slik melding som er nevnt i [§ 6](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md)
+
+kan foruten den ordinære avgift pålegges å betale tilleggsavgift.
+
+Dette gjelder selv om krav på kringkastingsavgiften ikke er mottatt av årsaker som ikke skyldes NRK. Tilleggsavgiften ble til og med 2019 fastsatt av Stortinget.
+
+*Endret ved [forskrift 20 des 2019 nr. 1924](https://lovdata.no/forskrift/2019-12-20-1924) (i kraft 1 jan 2020).*
+
+## § 4. Flere mottakere på ett kringkastingskort
+
+Det må betales kringkastingsavgift for hver enkelt mottaker (herunder avgreninger til separate skjermer). Unntak fra dette gjøres i følgende tilfeller:
+
+I. Mottakere som bare brukes av kortinnehavere/avgiftsbetaleren selv og ektefellen, eller av øvrige husstandsmedlemmer som helt forsørges av han/henne, forutsatt at mottakerne er plassert i boligen (herunder hytte eller landsted o.l.) eller bringes med til midlertidig opphold utenfor hjemmet. Den som har trygd, føderåd eller studielån, regnes ikke som forsørget av andre.
+II. Det skal kun betales én kringkastingsavgift pr. institusjon for fjernsynsmottakere på følgende institusjoner:
+    a. sykehus
+    b. aldershjem, sykehjem og kombinerte alders-/sykehjem, forutsatt at hjemmet har felles husholdning,
+    c. barnehjem,
+    d. asylmottak,
+    e. andre institusjoner av lignende art når særlige grunner foreligger,
+    f. fengsler,
+    g. barnehager, grunnskoler og videregående skoler, såfremt mottakerne bare skal brukes i undervisningen.
+
+    Unntakene i denne bestemmelsen gjelder ikke for fjernsynsmottakere som brukes av de ansatte.
+III. For fjernsynsmottakere ombord i norske skip (også fiskefartøyer) må det betales kringkastingsavgift uansett hvor de befinner seg. Det er tilstrekkelig med ett kort i skipets navn. Samme bestemmelse gjelder for borerigger eller lignende.
+IV. Hoteller o.l. som har flere enn én fjernsynsmottaker, kan ha inntil 10 mottakere på hvert kringkastingskort for fargefjernsyn, når mottakerne er plassert på hotellrom som bare brukes av tilfeldige gjester. For alle andre mottakere må det for hver løses kringkastingskort for svart/hvitt eller fargefjernsynsmottakere.
+
+*Endret ved [forskrift 22 mai 2009 nr. 626](https://lovdata.no/forskrift/2009-05-22-626) (i kraft 1 jan 2010).*
+
+## § 5. Fritak for kringkastingsavgift (frilisens)
+
+I. Norsk rikskringkasting AS kan gi dispensasjon for kringkastingsavgift for ett år om gangen til:
+   a. utenlandske diplomatiske tjenestemenn, utsendte konsulære tjenestemenn og utsendte ikke diplomatiske funksjonærer ved utenlandske misjoner,
+   b. medlemmer av NRKs kringkastingsråd og – på visse vilkår – tjenestemenn i NRK,
+   c. personer i tilsvarende funksjon som er nevnt under bokstavene a) og b) og som av særlige grunner bør gis dispensasjon,
+   d. personer som varig er sterkt funksjonshemmet slik at det er vanskelig for dem å bevege seg utenfor boligen eller å få kontakt med andre, og som ikke har økonomisk evne til å betale kringkastingsavgiften selv. Dersom søkeren tilhører en husstand, er det et vilkår at heller ikke andre av husstanden har økonomisk evne til å betale avgiften,
+II. Unntatt fra avgiftsplikt er videre personer som er bosatt i utlandet og som besøker Norge og har fjernsynsmottaker med seg eller skaffer seg mottaker, når oppholdet i Norge ikke blir lenger enn 3 måneder.
+III. Sjøfolk i utenriks fart, fredskorpsdeltakere og tilsvarende kan under opphold i Norge i inntil 3 måneder pr. år fritas for å betale kringkastingsavgift for mottaker som ellers ikke er i bruk.
+
+*Endret ved [forskrift 22 mai 2009 nr. 626](https://lovdata.no/forskrift/2009-05-22-626) (i kraft 1 jan 2010).*
+
+## § 6. Meldeplikt
+
+Den som anskaffer, tar i bruk eller har fjernsynsmottaker, skal straks melde fra om dette til NRK.
+
+Den som har fjernsynsmottaker i fartøy/kjøretøy i yrkestrafikk, skal gi melding for hvert fartøy/kjøretøy som utstyres med mottaker.
+
+Den som anskaffer fargemottaker plikter å gi melding om dette selv om det er betalt avgift for svart/hvitt mottaker.
+
+Det er unødvendig med melding når mottaker er anskaffet hos radiohandler, med mindre det er gått 3 måneder fra anskaffelsen uten at avgiftskrav fra NRK er mottatt.
+
+## § 7. Overdragelse
+
+Den som overdrar fjernsynsmottaker ved salg (herunder auksjonssalg), gave eller på annen måte, leier ut eller låner ut, må straks gi skriftlig melding til NRK om hvem mottakeren er overdratt til.
+
+Den som unnlater å gi slik melding, kan pålegges å betale tilleggsavgift som fastsettes av Stortinget.
+
+For ervervsmessig salg eller utleie av mottakere vises det til egne forskrifter.
+
+## § 8. Adresseendring
+
+Adresseendring må straks meldes til NRK. Dette gjelder ikke midlertidig flytting som i ferier og lignende.
+
+## § 9. Mottaker ikke i bruk
+
+Når mottaker ikke lenger er i bruk, må skriftlig melding sendes NRK straks og før ny termin begynner. I motsatt fall må avgift betales på forskriftsmessig måte.
+
+Det gis ikke refusjon for innbetalt kringkastingsavgift.
+
+Ønsker en fortsatt å beholde fjernsynsmottakeren, må det i meldingen gis erklæring om at den er satt bort og ikke vil bli tatt i bruk igjen før NRK er underrettet om dette, se [§ 6](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md).
+
+Dersom NRK ønsker det, skal det også være adgang til å plombere mottaker og/eller antenneinntak.
+
+*Endret ved [forskrift 4 juli 2007 nr. 844](https://lovdata.no/forskrift/2007-07-04-844) (i kraft straks med virkning fra og med innkreving av andre termin av kringkastingsavgiften for 2007).*
+
+## § 10. Kontroll
+
+Kringkastingskort må vises fram når kontrollør fra NRK ber om det. Denne skal være utstyrt med legitimasjonskort forsynt med fotografi.
+
+## § 11. Straff
+
+Forsettelig eller uaktsom overtredelse av bestemmelser i disse forskrifter, eller medvirkning til dette, kan medføre straff, jfr. § 29 i [lov om kringkasting av 13. juni 1980 nr. 36](https://lovdata.no/lov/1980-06-13-36/§29).
+
+## § 12. Gyldighet
+
+Disse forskrifter tar til å gjelde fra 1. juni 1981. Fra samme tid oppheves de forskrifter om fjernsynsmottakeranlegg som er fastsatt av NRK den 6. desember 1958 og forskrifter om radiomottakeranlegg fastsatt av NRK den 24. januar 1949.
+
+NRK finansieres fra 1. januar 2020 med tilskudd over statsbudsjettet. Bestemmelsene i forskriften [§ 6](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md), [§ 7](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md) første og tredje ledd og [§ 8](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md) til [§ 11](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md) gjelder kun for perioden før 1. januar 2020. Bestemmelsene i [§ 1](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md) til [§ 5](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md), [§ 7](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md) andre ledd og [§ 12](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md) gjelder også etter 1. januar 2020.
+
+*Endret ved [forskrift 20 des 2019 nr. 1924](https://lovdata.no/forskrift/2019-12-20-1924) (i kraft 1 jan 2020).*
+
+## Fotnoter
+
+**1.** Ved ikrafttredelse av endringen av 4 juli 2007 gjelder følgende overgangsregel til [§ 2](for-1980-10-23-8798-forskrift-om-fjernsynsmottakere.md) første ledd: I 2007 betales avgiften i to deler. Avgift for perioden 1. mars til 31. august betales med forfall 1. mars og avgift for perioden 1. september til 31. desember betales med forfall 1. september.

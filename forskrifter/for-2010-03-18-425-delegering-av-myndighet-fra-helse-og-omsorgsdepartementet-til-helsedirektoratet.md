@@ -1,0 +1,190 @@
+# Delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet
+
+- **Datokode:** FOR-2010-03-18-425
+- **DokumentID:** DEL/forskrift/2010-03-18-425
+- **Departement:** Helse- og omsorgsdepartementet
+- **Etat:** Helserettsavdelingen
+- **Hjemmel:** forskrift 21.12.2001 nr. 1485; lov/1967-02-10/§13d; lov 03.06.1977 nr. 57/§5; lov 03.06.1977 nr. 57/§6; lov 03.06.1977 nr. 57/§13; lov 22.05.1981 nr. 25/§118; lov 19.11.1982 nr. 66/§3-5; lov 02.06.1989 nr. 27/§1-3; lov 02.06.1989 nr. 27/§1-8; lov 02.06.1989 nr. 27/§1-9; lov 02.06.1989 nr. 27/§5-2; lov 02.06.1989 nr. 27/§5-3; lov 02.06.1989 nr. 27/§6-1; lov 02.06.1989 nr. 27/§6-6; lov 02.06.1989 nr. 27/§6-7; lov 02.06.1989 nr. 27/§6-8; lov 02.06.1989 nr. 27/§6-10; lov 02.06.1989 nr. 27/§8-5; lov 02.06.1989 nr. 27/§8-13; lov 02.06.1989 nr. 27/§9-1; lov 02.06.1989 nr. 27/§9-2; lov 02.04.1993 nr. 38/§6; lov 02.04.1993 nr. 38/§7; lov 02.04.1993 nr. 38/§8; lov 02.04.1993 nr. 38/§16; lov 02.04.1993 nr. 38/§17; lov 02.04.1993 nr. 38/§24; lov 05.08.1994 nr. 55/§3-7; lov 05.08.1994 nr. 55/§4-1; lov 05.08.1994 nr. 55/§4-4; lov 05.08.1994 nr. 55/§4-6; lov 05.08.1994 nr. 55/§5-3; lov 02.07.1999 nr. 61/§2-1d; lov 02.07.1999 nr. 61/§5-1; lov 02.07.1999 nr. 61/§5-4; lov 02.07.1999 nr. 62/§6-1; lov 02.07.1999 nr. 62/§6-5; lov 02.07.1999 nr. 62/§7-1; lov 02.07.1999 nr. 64/§29e; lov 02.07.1999 nr. 64/§29f; lov 21.02.2003 nr. 12/§5; lov 21.02.2003 nr. 12/§8; lov 21.02.2003 nr. 12/§10; lov 21.02.2003 nr. 12/§15; lov 05.12.2003 nr. 100/§2-19; lov 05.12.2003 nr. 100/§2a-5; lov 05.12.2003 nr. 100/§4-2; lov 05.12.2003 nr. 100/§4a-3; lov 05.12.2003 nr. 100/§4a-5; lov 05.12.2003 nr. 100/§5-3; lov 05.12.2003 nr. 100/§5-9; lov 05.12.2003 nr. 100/§6-3; lov 05.12.2003 nr. 100/§7-1; lov 05.12.2003 nr. 100/§7-2; lov 02.07.2004 nr. 64/§2; lov 02.07.2004 nr. 64/§3; lov 02.07.2004 nr. 64/§8; forskrift 17.12.2004 nr. 1661/§5; forskrift 17.12.2004 nr. 1661/§6; lov 17.06.2005 nr. 90/§22-3; forskrift 26.04.1995 nr. 392/§8; forskrift 11.12.1998 nr. 1300/§1-2; forskrift 21.12.2000 nr. 1384/§3; forskrift 15.06.2001 nr. 635/§14; forskrift 26.02.2004 nr. 511/§7; forskrift 26.02.2004 nr. 511/§9; forskrift 26.02.2004 nr. 511/§10; forskrift 26.02.2004 nr. 511/§11; forskrift 08.06.2005 nr. 538/§14-5; forskrift 15.12.2006 nr. 1456/§8; lov 07.05.2015 nr. 26/§11; forskrift 13.10.1989 nr. 1044/§10; lov 20.06.2014 nr. 43/§19e; lov 20.12.2024 nr. 96/§27
+- **Publisert i:** I 2010 hefte 4
+- **Kunngjort:** 2010-03-26 15:30
+- **I kraft fra:** 2010-03-18
+- **Siste endring i kraft:** 2026-07-01
+- **Sist endret ved:** forskrift 23.06.2026 nr. 1249 fra 2026-07-01
+- **Endrer:** forskrift 21.12.2001 nr. 1708; forskrift 30.06.2008 nr. 771; forskrift 11.11.2008 nr. 1634; forskrift 27.05.2009 nr. 561; forskrift 14.08.2009 nr. 1074
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 18. mars 2010 med hjemmel i omorganiseringsvedtak 21. desember 2001 nr. 1485 pkt. 10. Tilføyd hjemmel: lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 29e femte ledd og § 29f andre ledd, forskrift 15. desember 2006 nr. 1456 til forvaltningsloven (forvaltningslovforskriften) § 8 første ledd andre punktum og tredje punktum bokstav c, lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 19e, lov 20. desember 2024 nr. 96 om abort (abortloven) § 27 og forskrift 17. desember 2004 nr. 1661 om ordning med brukerrom for inntak av narkotika (brukerromsforskriften) §§ 5 og 6, jf. Lov 2. juli 2004 nr. 64 om ordning med brukerrom for inntak av narkotika (brukerromsloven) § 2 tredje ledd og § 8. Endret ved vedtak 27 juni 2011 nr. 727, 19 april 2012 nr. 331, 24 aug 2012 nr. 1109, 17 jan 2013 nr. 61, 1 juli 2013 nr. 820, 29 mai 2015 nr. 577, 18 des 2015 nr. 1741, 21 des 2015 nr. 1814, 26 jan 2016 nr. 66, 13 des 2016 nr. 1596, 19 des 2016 nr. 1847, 29 juni 2018 nr. 1102, 19 des 2018 nr. 2216, 9 mars 2021 nr. 656, 27 mai 2021 nr. 1771 (i kraft 1 juni 2021), 17 sep 2021 nr. 2821, 20 sep 2021 nr. 2838, 19 juli 2021 nr. 3926, 30 mars 2023 nr. 461 (i kraft 1 juli 2023), 11 des 2023 nr. 2003 (i kraft 1 jan 2024), 20 des 2023 nr. 2211 (i kraft 1 jan 2024), 26 juni 2025 nr. 1341 (i kraft 1 juli 2025), 29 aug 2025 nr. 1760, 1 juni 2026 nr. 963, 24 juni 2026 nr. 1480, 8 juni 2026 nr. 1046 (i kraft 1 juli 2026), 23 juni 2026 nr. 1249 (i kraft 1 juli 2026), 19 juni 2026 nr. 1374 (i kraft 1 juli 2026).
+- **Kilde:** <https://lovdata.no/DEL/forskrift/2010-03-18-425>
+
+## I
+
+Helse- og omsorgsdepartementet delegerer følgende myndighet til Helsedirektoratet:
+
+*[Lov 10. februar 1967](../lover/lov-1967-02-10-forvaltningsloven.md) om behandlingsmåten i forvaltningssaker (forvaltningsloven)*
+
+- § 13d: Gi tillatelse til at taushetsbelagte opplysninger brukes i forskning, for så vidt gjelder opplysninger i saker på Helsedirektoratets område som ikke faller inn under virkeområdet til helseregisterloven, jf. [forvaltningslovforskriften § 8](for-2006-12-15-1456-forvaltningslovforskriften.md) bokstav c.
+
+*[Lov 3. juni 1977 nr. 57](../lover/lov-1977-06-03-57-steriliseringsloven.md) om sterilisering (steriliseringsloven)*
+
+- § 5 fjerde ledd: Forskriftshjemmel om begjæring eller søknad.
+- § 6 første ledd: Myndighet til å oppnevne steriliseringsrådet.
+- § 13 første ledd: Motta oversikt fra Steriliseringsrådet over utviklingen når det gjelder innvilgede og utførte inngrep mv. etter loven.
+- § 13 annet ledd: Motta innberetning fra lege og sykehus om utførte inngrep etter loven.
+
+*[Lov 22. mai 1981 nr. 25](../lover/lov-1981-05-22-25-straffeprosessloven.md) om rettergangsmåten i straffesaker (straffeprosessloven)*
+
+- § 118: Myndighet til å gi fritak fra forvaltningsmessig taushetsplikt ved vitneforklaring.
+
+*[Lov 2. juni 1989 nr. 27](../lover/lov-1989-06-02-27-alkoholloven.md) om omsetning av alkoholholdig drikk m.v.*
+
+- § 1-3 femte ledd annet punktum: I tvilstilfelle, avgjøre med bindende virkning hvilke alkoholholdige produkter som skal regnes som alkoholholdig drikk, og om hvilke alkoholholdige drikker som skal regnes som brennevin.
+- § 1-8 femte ledd: Inndra statlig skjenkebevilling gitt i medhold av § 5-2 første ledd nr. 1 og 2 og § 5-3 dersom vilkårene i § 1-7b ikke lenger er oppfylt, eller dersom bevillingshaver ikke oppfyller sine forpliktelser etter denne loven eller bestemmelser gitt i medhold av denne. Det samme gjelder ved overtredelse av bestemmelser gitt i eller i medhold av annen lovgivning når bestemmelsene har sammenheng med denne lovs formål.
+- § 1-9 annet ledd: Foreta kontroll av statlige bevillinger gitt i medhold av § 5-2 første ledd nr. 1 og 2 og § 5-3 annet ledd.
+- § 5-2 første ledd nr. 1: Gi bevilling til å skjenke øl og vin på tog som er kollektive transportmidler.
+- § 5-2 første ledd nr. 2: Gi bevilling til å skjenke øl og vin om bord i fly på innenlandske flyvninger.
+- § 5-2 fjerde ledd: Innhente uttalelse fra skatte- og avgiftsmyndighetene i forbindelse med søknad om bevilling etter første ledd nr. 1 og 2.
+- § 5-2 femte ledd: Pålegge søker å dokumentere nødvendige opplysninger i forbindelse med søknad om bevilling etter første ledd nr. 1 og 2.
+- § 5-2 sjette ledd: Fastsette de nærmere vilkår og innskrenkninger for utøvelse av bevillingen som til enhver tid finnes nødvendig.
+- § 5-3 første ledd: Gi bevilling til å skjenke øl, vin og brennevin i befalsmesser. Statsforvalteren er delegert myndighet til å gi utvidet skjenketid for en enkelt anledning samt til å fastsette årlig skjenkeavgift for befalsmesser. Øvrig kompetanse etter bestemmelsen delegeres til Helsedirektoratet.
+- § 5-3 annet ledd: Når særlige grunner taler for det, gi Forsvarets overkommando og Direktoratet for sivilt beredskap adgang til å gi skjenkebevilling til anlegg som av hensyn til rikets sikkerhet er sikkerhetsgradert.
+- § 5-3 fjerde ledd: Fastsette nærmere vilkår og innskrenkninger for utøvelse av bevillingen som til enhver tid finnes nødvendig.
+- § 6-1 første ledd: Bevilling til tilvirkning av alkoholholdig drikk.
+- § 6-6 første ledd annet punktum: Stille nye vilkår dersom dette er nødvendig for å sikre gjennomføring av loven.
+- § 6-7 annet ledd: Godkjenne nytt lager eller endring av et lagers innretning og nytt tapperi eller endring av et tapperis innretning.
+- § 6-8 første og annet ledd: Føre kontroll med tilvirkningsbevilling.
+- § 6-10: Inndra tilvirkningsbevilling.
+- § 8-5: Tillatelse til å ha i besittelse, innføre eller omsette apparater, herunder deler og utstyr, som er bestemt for eller som finnes tjenlige for tilvirkning eller omdestillering av sprit eller brennevin.
+- § 8-13 første ledd tredje punktum: Bestemme at enkelte særlige sorter brennevin som måtte ha et høyere alkoholinnhold enn 60 volumprosent skal være unntatt forbudene i første og annet punktum.
+- § 9-1 første ledd: Tillatelse til i aviser, blad og lignende, ved utstilling i butikker eller på annen måte å reklamere for apparater – herunder deler og utstyr – som er bestemt for eller finnes tjenlige for tilvirkning eller omdestillering av sprit, brennevin eller isopropanol.
+- § 9-1 fjerde ledd annet punktum: Gjøre unntak fra forbudet i § 9-1 tredje ledd når særlige grunner foreligger.
+- § 9-2 annet ledd annet punktum: Gjøre unntak fra forbudene nå særlige grunner foreligger.
+
+*[Forskrift 11. desember 1998 nr. 1300](for-1998-12-11-1300-forskrift-om-alkoholordningen-for-svalbard.md) om alkoholordningen for Svalbard*
+
+- § 1-2 femte ledd: I tvilstilfelle avgjøre med bindende virkning hvilke drikker som skal regnes som henholdsvis øl, vin og brennevin.
+
+*[Forskrift 8. juni 2005 nr. 538](for-2005-06-08-538-alkoholforskriften.md) om omsetning av alkoholholdig drikk mv.*
+
+- § 14-5: Fravike bestemmelsene i reklamekapitlet i det enkelte tilfelle når særlige grunner foreligger.
+
+*[Lov 2. april 1993 nr. 38](../lover/lov-1993-04-02-38-genteknologiloven.md) om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven)*
+
+- § 6 annet ledd: Godkjenne laboratorier og andre anlegg for innesluttet bruk av genmodifiserte organismer.
+- § 7 første ledd: Motta melding om eller godkjenne innesluttet bruk av genmodifiserte organismer.
+- § 8: Kreve konsekvensutredning ved innesluttet bruk.
+- § 16: Endre og tilbakekalle godkjenning for så vidt gjelder innesluttet bruk.
+- § 17 første ledd: Bestemme hvem som skal føre tilsyn, for så vidt gjelder innesluttet bruk.
+- § 17 annet ledd: Gi forskrift om internkontroll, for så vidt gjelder innesluttet bruk.
+- § 24: Ilegge tvangsmulkt for så vidt gjelder overtredelser av bestemmelser vedrørende innesluttet bruk.
+
+*[Lov 5. august 1994 nr. 55](../lover/lov-1994-08-05-55-smittevernloven.md) om vern mot smittsomme sykdommer (smittevernloven)*
+
+- § 3-7 femte ledd: Myndighet til å fastsette forskrift som nevnt i bestemmelsen.
+- § 4-1 sjette ledd: Myndighet til å fastsette forskrift som nevnt i bestemmelsen.
+- § 4-4 annet ledd: Myndighet til å fastsette forskrift som nevnt i bestemmelsen.
+- § 4-6 annet ledd: Myndighet til å fastsette forskrift som nevnt i bestemmelsen.
+- § 5-3 fjerde ledd: Myndighet til å fastsette forskrift som nevnt i bestemmelsen.
+
+*[Lov 2. juli 1999 nr. 61](../lover/lov-1999-07-02-61-spesialisthelsetjenesteloven.md) om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)*
+
+- § 2-1d annet ledd: Helsedirektoratet delegeres myndighet til å pålegge lege å delta i lokal redningssentral. Direktoratet kan delegere myndigheten til statsforvalteren.
+- § 5-1 fjerde ledd: Avgjøre i tvilstilfelle hvor en pasient har bostedsregion.
+- § 5-4 annet ledd: Myndighet til å gi forskrift om dekning av utgifter til kontrollkommisjonens virksomhet.
+
+*[Lov 2. juli 1999 nr. 62](../lover/lov-1999-07-02-62-psykisk-helsevernloven.md) om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven)*
+
+- § 6-1 tredje ledd: Oppnevne kontrollkommisjoner og bestemme hvilke områder som skal være tillagt den enkelte kontrollkommisjon.
+- § 6-5: Myndighet til å gi forskrifter om den nærmere saksbehandling.[1]
+- § 7-1: Myndighet til å opptre som stedfortreder for Helse- og omsorgsdepartementet i saker om søksmål.
+
+*[Lov 2. juli 1999 nr. 64](../lover/lov-1999-07-02-64-helsepersonelloven.md) om helsepersonell m.v. (helsepersonelloven)*
+
+- [§ 29e](../lover/lov-1999-07-02-64-helsepersonelloven.md): Myndighet til å treffe vedtak som nevnt i første ledd delegeres til Helsedirektoratet når det gjelder tilgjengeliggjøring til andre formål enn forskning eller til utvikling og bruk av beslutningsstøtteverktøy som ikke inngår i et forskningsprosjekt.
+- [§ 29f](../lover/lov-1999-07-02-64-helsepersonelloven.md): Myndighet til å treffe vedtak som nevnt i andre ledd delegeres til Helsedirektoratet når det gjelder deltakende observasjon til andre formål enn forskning.
+
+*[Forskrift 8. oktober 2008 nr. 1130](for-2008-10-08-1130-forskrift-om-helsepersonell-fra-eos-land-og-sveits.md) om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits*
+
+- Myndighet til å fastsette endringer i vedlegg II når EU-kommisjonen eller ESA har kommunisert notifiseringer fra avtalestater.
+
+*[Forskrift 21. desember 2000 nr. 1384](for-2000-12-21-1384-forskrift-om-spesialistgodkjenning-og-turnusstillinger.md) om spesialistgodkjenning av helsepersonell*
+
+- § 3 annet ledd: Fastsette nærmere regler om gjennomføringen av spesialistutdanning av leger og tannleger, og om krav til gjennomført utdanning ved godkjente utdanningsinstitusjoner for leger og andre vilkår som søker må oppfylle for å kunne godkjennes som spesialist innen den enkelte spesialitet. Delegeringen gjelder utelukkende enkle saker som ikke har prinsipielle, faglige eller økonomiske konsekvenser.
+
+*[Lov 21. februar 2003 nr. 12](../lover/lov-2003-02-21-12-behandlingsbiobankloven.md) om behandlingsbiobanker (behandlingsbiobankloven)*
+
+- § 8: Melding om opphør eller nedleggelse av biobanker skal meldes til Helsedirektoratet.
+- § 10 første ledd: Myndighet til å gi godkjenning og til å stille vilkår for overføring til utlandet.
+- § 15: Myndighet til å behandle klager etter [behandlingsbiobankloven § 15](../lover/lov-2003-02-21-12-behandlingsbiobankloven.md) femte ledd.
+
+*[Forskrift 26. februar 2004 nr. 511](for-2004-02-26-511-forskrift-om-overforing-av-biobankmateriale-til-utlandet.md) om overføring av biobankmateriale til utlandet*
+
+- § 7: Myndighet til å gi generell godkjenning for overføring av biobankmateriale til internasjonale samarbeidspartnere.
+- § 9: Rapporter skal sendes til Helsedirektoratet.
+- § 10: Melding om endrede forhold skal rapporteres til Helsedirektoratet.
+- § 11: Myndighet til å trekke godkjenning tilbake.
+
+*[Lov 5. desember 2003 nr. 100](../lover/lov-2003-12-05-100-bioteknologiloven.md) om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)*
+
+- § 2-19: Myndighet til å gi godkjenning.
+- § 2A-5 første ledd: Godkjenning av virksomheter
+- § 2A-5 andre ledd: Motta rapport om virksomheter
+- § 4-2: Myndighet til å godkjenne undersøkelsesmetoder etter [bioteknologiloven § 4-1](../lover/lov-2003-12-05-100-bioteknologiloven.md) første ledd.
+- § 4A-3: Myndighet til å godkjenne bruk av fostervev til behandling og forskning.
+- § 4A-5 første ledd andre punktum: Myndighet til å godkjenne fostervevsbanker.
+- [§ 5-7 andre ledd](../lover/lov-2003-12-05-100-bioteknologiloven.md): Myndighet til i særlige tilfeller å gjøre unntak fra forbudet i [§ 5-7 første ledd](../lover/lov-2003-12-05-100-bioteknologiloven.md).
+- § 5-9: Myndighet til å bestemme i enkelttilfeller hvilke sykdommer som kan gjøres til gjenstand for oppsøkende virksomhet.
+- § 7-1: Godkjenning av virksomheter.
+- § 7-2 første ledd: Motta rapport om virksomheter.
+- § 7-2 annet ledd: Fastsette nærmere regler om rapporteringsplikten.
+
+*[Lov 2. juli 2004 nr. 64](../lover/lov-2004-07-02-64-brukerromsloven.md) om ordning med brukerrom for inntak av narkotika (brukerromsloven)*
+
+- [§ 2 tredje ledd](../lover/lov-2004-07-02-64-brukerromsloven.md): Myndighet til å gjøre unntak fra kravene i [§ 2 andre ledd](../lover/lov-2004-07-02-64-brukerromsloven.md).
+- § 3 første ledd: Myndighet til å godkjenne etablering av brukerromsordning.
+
+[*Forskrift 17. desember 2004 nr. 1661 om ordning med brukerrom for inntak av narkotika (brukerromsforskriften)*](for-2004-12-17-1661-brukerromsforskriften.md)
+
+- § 5 andre ledd: Myndighet til å gjøre unntak fra kravene i [§ 5 første ledd bokstav f](for-2004-12-17-1661-brukerromsforskriften.md) og [g](for-2004-12-17-1661-brukerromsforskriften.md).
+- § 6 femte ledd: Myndighet til å gjøre unntak fra kravene i [§ 6 første](for-2004-12-17-1661-brukerromsforskriften.md) og [fjerde ledd](for-2004-12-17-1661-brukerromsforskriften.md).
+
+*[Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven)](../lover/lov-2005-06-17-90-tvisteloven.md)*
+
+- [§ 2-5 første ledd](../lover/lov-2005-06-17-90-tvisteloven.md): (Opphevet med virkning for saker der stevning er inngitt etter 31. desember 2016, jf. [vedtak 13 des 2016 nr. 1596](https://lovdata.no/forskrift/2016-12-13-1596).)
+- [§ 22-3](../lover/lov-2005-06-17-90-tvisteloven.md): Myndighet til å samtykke til at bevis føres.
+
+*[Lov 24. juni 2011 nr. 30](../lover/lov-2011-06-24-30-helse-og-omsorgstjenesteloven.md) om kommunale helse- og omsorgstjenester m.m*.
+
+- § 5-5 første ledd, tredje punktum: Helsedirektoratet delegeres myndighet til å anmode kommunelege til å delta i lokal redningssentral. Direktoratet kan delegere myndigheten til statsforvalteren.
+
+*[Lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven)](../lover/lov-2014-06-20-43-helseregisterloven.md)*
+
+- [§ 19e](../lover/lov-2014-06-20-43-helseregisterloven.md): Myndighet til å treffe vedtak som nevnt i første ledd delegeres til Helsedirektoratet når det gjelder tilgjengeliggjøring til formål knyttet til statistikk, helseanalyser, kvalitetsforbedring, planlegging, styring eller beredskap.
+
+*[Lov 7. mai 2015 nr. 26](https://lovdata.no/lov/2015-05-07-26) om obduksjon og avgjeving av lik til undervisning og forsking (obduksjonslova)*
+
+- § 11 første ledd tredje punktum: Myndighet til å samtykke til at institusjoner som har fått utlevert lik til bruk i undervisning og forskning kan beholde liket utover to år når avdøde ikke har pårørende.
+
+*[Forskrift 13. oktober 1989 nr. 1044](https://lovdata.no/forskrift/1989-10-13-1044) om forbud mot nye tobakks- og nikotinprodukter*
+
+- § 10: Ilegge tvangsmulkt ved overtredelse av vilkår, påbud eller forbud gitt i eller i medhold av forskriften.
+
+*[Lov 20. desember 2024 nr. 96 om abort (abortloven)](../lover/lov-2024-12-20-96-abortloven.md)*
+
+- - Ingen delegeringer.
+
+*Endret ved [vedtak 27 juni 2011 nr. 727](https://lovdata.no/forskrift/2011-06-27-727), [19 april 2012 nr. 331](https://lovdata.no/forskrift/2012-04-19-331) (i kraft 1 jan 2013), [24 august 2012 nr. 1109](https://lovdata.no/forskrift/2012-08-24-1109) (i kraft 1 jan 2013), [17 jan 2013 nr. 61](https://lovdata.no/forskrift/2013-01-17-61), [1 juli 2013 nr. 820](https://lovdata.no/forskrift/2013-07-01-820), [29 mai 2015 nr. 577](https://lovdata.no/forskrift/2015-05-29-577), [18 des 2015 nr. 1741](https://lovdata.no/forskrift/2015-12-18-1741) (i kraft 1 jan 2016), [21 des 2015 nr. 1814](https://lovdata.no/forskrift/2015-12-21-1814) (i kraft 1 jan 2016), [26 jan 2016 nr. 66](https://lovdata.no/forskrift/2016-01-26-66), [19 des 2016 nr. 1847](https://lovdata.no/forskrift/2016-12-19-1847), [13 des 2016 nr. 1596](https://lovdata.no/forskrift/2016-12-13-1596) (i kraft 1 jan 2017), [29 juni 2018 nr. 1102](https://lovdata.no/forskrift/2018-06-29-1102), [19 des 2018 nr. 2216](https://lovdata.no/forskrift/2018-12-19-2216) (i kraft 1 jan 2019), [9 mars 2021 nr. 656](https://lovdata.no/forskrift/2021-03-09-656), [27 mai 2021 nr. 1771](https://lovdata.no/forskrift/2021-05-27-1771) (i kraft 1 juni 2021), [19 juli 2021 nr. 3926](https://lovdata.no/forskrift/2021-07-19-3926), [17 sep 2021 nr. 2821](https://lovdata.no/forskrift/2021-09-17-2821), [20 sep 2021 nr. 2838](https://lovdata.no/forskrift/2021-09-20-2838), [30 mars 2023 nr. 461](https://lovdata.no/forskrift/2023-03-30-461) (i kraft 1 juli 2023), [11 des 2023 nr. 2003](https://lovdata.no/forskrift/2023-12-11-2003) (i kraft 1 jan 2024), [20 des 2023 nr. 2211](https://lovdata.no/forskrift/2023-12-20-2211) (i kraft 1 jan 2024), [26 juni 2025 nr. 1341](https://lovdata.no/forskrift/2025-06-26-1341) (i kraft 1 juli 2025), [29 aug 2025 nr. 1760](https://lovdata.no/forskrift/2025-08-29-1760), [1 juni 2026 nr. 963](https://lovdata.no/forskrift/2026-06-01-963), [24 juni 2026 nr. 1480](https://lovdata.no/forskrift/2026-06-24-1480), [8 juni 2026 nr. 1046](https://lovdata.no/forskrift/2026-06-08-1046) (i kraft 1 juli 2026), [19 juni 2026 nr. 1374](https://lovdata.no/forskrift/2026-06-19-1374) (i kraft 1 juli 2026), [23 juni 2026 nr. 1249](https://lovdata.no/forskrift/2026-06-23-1249) (i kraft 1 juli 2026).*
+
+## II
+
+Vedtaket trer i kraft straks.
+
+Fra samme tid oppheves:
+
+- [Vedtak 21. desember 2001 nr. 1708](https://lovdata.no/forskrift/2001-12-21-1708) om delegering av myndighet til Sosial- og helsedirektoratet
+- [Vedtak 30. juni 2008 nr. 771](https://lovdata.no/forskrift/2008-06-30-771) om delegering av myndighet til Helsedirektoratet etter lov om sterilisering § 6 første ledd
+- [Vedtak 11. november 2008 nr. 1634](https://lovdata.no/forskrift/2008-11-11-1634) om delegering til Helsedirektoratet av Helse- og omsorgsdepartementets myndighet etter [lov om etablering og gjennomføring av psykisk helsevern § 6-1](../lover/lov-1999-07-02-62-psykisk-helsevernloven.md) tredje ledd til å oppnevne medlemmer av kontrollkommisjonen
+- [Vedtak 27. mai 2009 nr. 561](https://lovdata.no/forskrift/2009-05-27-561) om delegering av myndighet til å utøve statens partsstilling i sivile søksmål
+- [Vedtak 14. august 2009 nr. 1074](https://lovdata.no/forskrift/2009-08-14-1074) om delegering av myndighet til Helsedirektoratet etter [forvaltningsloven § 13d](../lover/lov-1967-02-10-forvaltningsloven.md) første ledd.
+
+## Fotnoter
+
+**1.** Kongens myndighet ble delegert til Helse- og omsorgsdepartementet ved Kongelig resolusjon av 21. desember 2001, jf. [forskrift 21. desember 2001 nr. 1478](https://lovdata.no/forskrift/2001-12-21-1478).

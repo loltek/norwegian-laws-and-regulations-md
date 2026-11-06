@@ -1,0 +1,139 @@
+# Forskrift om oppnevnelse av og godtgjørelse til medhjelper under gjeldsforhandling
+
+- **Korttittel:** Forskrift om medhjelper ved gjeldsforhandling
+- **Datokode:** FOR-1992-12-04-885
+- **DokumentID:** SF/forskrift/1992-12-04-885
+- **Departement:** Barne- og familiedepartementet
+- **Etat:** Forbruker-, rettighets- og likestillingsavdelingen
+- **Hjemmel:** lov 17.07.1992 nr. 99/§2-4
+- **Publisert i:** Avd I 1992 1270
+- **I kraft fra:** 1993-01-01
+- **Siste endring i kraft:** 2003-01-01
+- **Sist endret ved:** forskrift 13.12.2002 nr. 1645 fra 2003-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 4. desember 1992 med hjemmel i lov av 17. juli 1992 nr. 99 om frivillig og tvungen gjeldsordning for privatpersoner (gjeldsordningsloven) § 2-4. Fremmet av Barne- og familiedepartementet (nå Barne-, likestillings- og inkluderingsdepartementet). Endret ved forskrift 13 des 2002 nr. 1645.
+- **Kilde:** <https://lovdata.no/forskrift/1992-12-04-885>
+
+## Kapittel 1. Oppnevnelse av medhjelper.
+
+### § 1-1. Oppnevnelse av medhjelper.
+
+Til å yte skyldneren veiledning som nevnt i [gjeldsordningsloven § 2-2](../lover/lov-1992-07-17-99-gjeldsordningsloven.md) og for øvrig bistå namsmannen, kan namsmannen oppnevne en medhjelper dersom det er nødvendig. Namsmannen kan omgjøre en oppnevnelse.
+
+Om medhjelperens habilitet gjelder [tvangsfullbyrdelsesloven § 2-10](../lover/lov-1992-06-26-86-tvangsfullbyrdelsesloven.md) første ledd første punktum jf [§ 2-5](../lover/lov-1992-06-26-86-tvangsfullbyrdelsesloven.md) første ledd, jf. [gjeldsordningslovens § 7-5](../lover/lov-1992-07-17-99-gjeldsordningsloven.md).
+
+### § 1-2. Hvem som kan oppnevnes som medhjelper.
+
+Som medhjelper skal namsmannen oppnevne:
+
+a. advokat som utfører advokatvirksomhet i eget navn eller
+b. statsautorisert revisor.
+
+Dersom det er praktiske problemer forbundet med å oppnevne medhjelper etter første ledd, kan namsmannen oppnevne en person med relevant erfaring som enten:
+
+a. driver rettshjelpsvirksomhet i medhold av [domstolloven § 218](../lover/lov-1915-08-13-5-domstolloven.md) annet ledd nr. 1, eller
+b. har fullført økonomisk utdannelse fra høyskole eller universitet normert til minst fire år, eller
+c. har tilstrekkelig relevant erfaring på området, slik at det er utvilsomt at vedkommende vil være egnet.
+
+Medhjelper oppnevnt etter annet ledd må ha hederlig vandel og være økonomisk vederheftig. Namsmannen kan kreve at medhjelperen fremlegger politiattest.
+
+## Kapittel 2. Medhjelperens sikkerhetsstillelse.
+
+### § 2-1. Plikt til å stille sikkerhet.
+
+Den som oppnevnes som medhjelper, skal stille sikkerhet etter reglene i dette kapittel.
+
+En medhjelper som har stilt sikkerhet i samsvar med bestemmelse i eller i medhold av annen lov som dekker ansvar som nevnt i [§ 2-3](for-1992-12-04-885-forskrift-om-medhjelper-ved-gjeldsforhandling.md), plikter ikke å stille sikkerhet etter forskriften her.
+
+### § 2-2. Sikkerhetens form.
+
+Sikkerheten stilles ved at det hos namsmannen deponeres en erklæring fra norsk skadeforsikringsforetak eller annet norsk foretak med rett til å drive finansieringsvirksomhet etter lov om finansieringsvirksomhet og finansinstitusjoner [10. juni 1988 nr. 40 § 1-4](https://lovdata.no/lov/1988-06-10-40/§1-4) (sikkerhetsstilleren) om at sikkerhetsstilleren påtar seg på vilkår som nevnt i forskriften her [§ 2-5](for-1992-12-04-885-forskrift-om-medhjelper-ved-gjeldsforhandling.md) å innestå for oppfyllelse av medhjelperens ansvar som nevnt i [§ 2-3](for-1992-12-04-885-forskrift-om-medhjelper-ved-gjeldsforhandling.md) innenfor rammen av et nærmere angitt beløp som oppfyller kravene i [§ 2-4](for-1992-12-04-885-forskrift-om-medhjelper-ved-gjeldsforhandling.md).
+
+Namsmannen kan nekte å godta erklæringen dersom det er tvil om den oppfyller kravene i første ledd.
+
+### § 2-3. Hva sikkerheten dekker.
+
+Sikkerheten dekker erstatningsansvar som medhjelperen pådrar seg overfor skyldneren og fordringshaverne under utførelsen av det eller de medhjelperoppdrag sikkerheten gjelder for.
+
+### § 2-4. Størrelsen på sikkerheten.
+
+Sikkerheten skal være på minst 50.000 kroner.
+
+Dersom sikkerheten skal dekke flere medhjelperoppdrag som medhjelperen mottar fra samme namsmann, skal sikkerheten til enhver tid minst være lik 50.000 kroner pr. medhjelperoppdrag som medhjelperen har under behandling. Medhjelperen kan ikke gis nye oppdrag dersom det vil føre til at sikkerheten ikke oppfyller første punktum.
+
+Namsmannen kan i særlige tilfelle bestemme at sikkerheten skal være høyere enn bestemt i første ledd.
+
+### § 2-5. Nærmere krav til sikkerheten.
+
+Skadelidte kan kreve dekning direkte fra sikkerhetsstilleren uten først å rette krav mot medhjelperen.
+
+Sikkerhetsstilleren kan ikke gjøre gjeldende andre innsigelser mot krav fra skadelidte enn de innsigelser medhjelperen selv har i forholdet til skadelidte.
+
+Oppsigelse av sikkerheten eller bortfall av sikkerheten på annen måte er ikke virksomt i forhold til skadelidte før en måned etter at namsmannen har mottatt melding om bortfallet.
+
+Sikkerhetsstilleren kan overfor skadelidte ikke påberope at det er foretatt utbetalinger under sikkerheten med mindre namsmannen er varslet om utbetalingen senest samtidig med at utbetalingen fant sted.
+
+## Kapittel 3. Medhjelperens oppgaver og godtgjørelse.
+
+### § 3-1. Medhjelperoppdragets omfang.
+
+Med mindre namsmannen ved oppnevnelsen eller senere har bestemt annet, skal medhjelperen utføre medhjelperoppdraget i samsvar med [§§ 3-3](for-1992-12-04-885-forskrift-om-medhjelper-ved-gjeldsforhandling.md) til [3-5](for-1992-12-04-885-forskrift-om-medhjelper-ved-gjeldsforhandling.md). Medhjelperen skal utføre oppdraget slik at timebegrensningen i annet ledd kan overholdes.
+
+Det kan ikke gis medhjelpergodtgjørelse for mer enn 10 timers innsats i samme sak. Dersom det er strengt nødvendig, kan tingretten samtykke i at det gis godtgjørelse for inntil 15 timer. For innsats før gjeldsforhandling er åpnet kan det ikke gis godtgjørelse for mer enn 5 timer, med mindre namsmannen finner det strengt nødvendig.
+
+*Endret ved [forskrift 13 des 2002 nr. 1645](https://lovdata.no/forskrift/2002-12-13-1645) (i kraft 1 jan 2003).*
+
+### § 3-2. Medhjelperens stilling under gjeldsforhandling.
+
+Medhjelperen har taushetsplikt etter domstolloven § 63 a, jf. [tvangsfullbyrdelsesloven § 2-6](../lover/lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), jf. [gjeldsordningsloven § 7-5](../lover/lov-1992-07-17-99-gjeldsordningsloven.md).
+
+Medhjelperen skal opptre nøytralt og upartisk i forholdet til skyldneren og fordringshaverne.
+
+Medhjelperen kan ikke disponere over midler som frigjøres ved salg av skyldnerens eiendeler m.v.
+
+### § 3-3. Medhjelperens oppgaver under forberedelsen.
+
+Under forberedelsen etter [gjeldsordningsloven kapittel 2](../lover/lov-1992-07-17-99-gjeldsordningsloven.md) skal medhjelperen:
+
+a. påse at saken blir tilstrekkelig opplyst, jf [gjeldsordningsloven § 2-3](../lover/lov-1992-07-17-99-gjeldsordningsloven.md) første ledd,
+b. underrette namsmannen dersom namsmannen bør treffe tiltak som nevnt i [gjeldsordningsloven § 2-5](../lover/lov-1992-07-17-99-gjeldsordningsloven.md),
+c. underrette namsmannen dersom namsmannen bør avslå søknaden etter [gjeldsordningsloven § 2-6](../lover/lov-1992-07-17-99-gjeldsordningsloven.md),
+d. underrette namsmannen når saken er tilstrekkelig opplyst og forberedt til å oversendes tingretten etter [gjeldsordningsloven § 2-7](../lover/lov-1992-07-17-99-gjeldsordningsloven.md).
+
+Medhjelperen skal utføre oppgavene slik at saken ikke forsinkes unødig til skade for skyldneren.
+
+*Endret ved [forskrift 13 des 2002 nr. 1645](https://lovdata.no/forskrift/2002-12-13-1645) (i kraft 1 jan 2003).*
+
+### § 3-4. Medhjelperens oppgaver under gjeldsforhandlingen.
+
+Under gjeldsforhandlingen skal medhjelperen:
+
+a. gi skyldneren den veiledning vedkommende trenger for å inngi søknad om nedsettelse o l av skatte- og avgiftsgjeld som nevnt i [gjeldsordningsloven § 3-2](../lover/lov-1992-07-17-99-gjeldsordningsloven.md) tredje ledd,
+b. informere skyldneren om [gjeldsordningsloven § 3-4](../lover/lov-1992-07-17-99-gjeldsordningsloven.md) og dennes plikter etter [§ 3-5](../lover/lov-1992-07-17-99-gjeldsordningsloven.md),
+c. gi skyldneren den veiledning vedkommende trenger for å kunne utforme et utkast til frivillig gjeldsordning.
+
+Medhjelperen skal utføre oppgavene med sikte på at skyldneren skal kunne fremlegge sitt utkast til gjeldsordning for namsmannen innen fem uker etter at gjeldsforhandlingen ble åpnet. Dersom medhjelperen avventer vedtak fra skatte- og avgiftsmyndighetene, jf. [gjeldsordningsloven § 3-2](../lover/lov-1992-07-17-99-gjeldsordningsloven.md) tredje ledd, forlenges medhjelperens frist med to uker.
+
+### § 3-5. Medhjelperens oppgaver dersom frivillig gjeldsordning ikke kommer i stand.
+
+Dersom frivillig gjeldsordning ikke kommer i stand, skal medhjelperen gi skyldneren den veiledning denne trenger for å kunne begjære tvungen gjeldsordning innen fristen etter [gjeldsordningsloven § 5-1](../lover/lov-1992-07-17-99-gjeldsordningsloven.md) annet ledd.
+
+### § 3-6. Medhjelperens godtgjørelse.
+
+Medhjelperen godtgjøres etter den timesats som Justisdepartementet har fastsatt etter forskrift 26. oktober 1992 om salær fra det offentlige til advokater m v ([salærforskriften) § 3](for-1997-12-03-1441-salaerforskriften.md). Det gis godtgjørelse for hver påbegynt halvtime. Det gis ikke godtgjørelse for reisefravær. Om fravikelse av timesatsen og nedsettelse gjelder [salærforskriften § 6](for-1997-12-03-1441-salaerforskriften.md) tilsvarende. Medhjelperens legitimerte utgifter utover de utlegg som dekkes av timesatsen, kan dekkes i den utstrekning utgiftene er rimelige og har vært nødvendige for saken.
+
+Om salæroppgave gjelder [salærforskriften § 4](for-1997-12-03-1441-salaerforskriften.md) første og annet ledd tilsvarende. Salæroppgaven innleveres til namsmannen som fastsetter godtgjørelsen. Nærmere regler om anvisning og utbetaling gis ved rundskriv.
+
+Om klage over namsmannens salærfastsettelse gjelder [tvangsfullbyrdelsesloven § 5-16](../lover/lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), jf. [gjeldsordningsloven § 7-5](../lover/lov-1992-07-17-99-gjeldsordningsloven.md).
+
+## Kapittel 4. Forskjellige bestemmelser.
+
+### § 4-1. Rapportering til tilsynsmyndighet.
+
+Dersom namsmannen får kjennskap til at en medhjelper har begått uregelmessigheter under utføringen av et medhjelperoppdrag, skal namsmannen underrette det organ som fører tilsyn med den profesjon medhjelperen tilhører, om forholdet.
+
+## Kapittel 5. Ikrafttredelse.
+
+### § 5-1. Ikrafttredelse.
+
+Forskriften trer i kraft 1. januar 1993.

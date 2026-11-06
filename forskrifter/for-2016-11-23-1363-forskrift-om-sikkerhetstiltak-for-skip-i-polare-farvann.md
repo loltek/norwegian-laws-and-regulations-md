@@ -1,0 +1,78 @@
+# Forskrift om sikkerhetstiltak for skip som opererer i polare farvann
+
+- **Korttittel:** Forskrift om sikkerhetstiltak for skip i polare farvann
+- **Datokode:** FOR-2016-11-23-1363
+- **DokumentID:** SF/forskrift/2016-11-23-1363
+- **Departement:** Nærings- og fiskeridepartementet
+- **Etat:** Sjøfartsdirektoratet
+- **Hjemmel:** lov 16.02.2007 nr. 9/§6; lov 16.02.2007 nr. 9/§7; lov 16.02.2007 nr. 9/§9; lov 16.02.2007 nr. 9/§11; lov 16.02.2007 nr. 9/§13; lov 16.02.2007 nr. 9/§14; lov 16.02.2007 nr. 9/§15; lov 16.02.2007 nr. 9/§16; lov 16.02.2007 nr. 9/§19; lov 16.02.2007 nr. 9/§20; lov 16.02.2007 nr. 9/§21; lov 16.02.2007 nr. 9/§22; lov 16.02.2007 nr. 9/§43; forskrift 16.02.2007 nr. 171; forskrift 31.05.2007 nr. 590
+- **Publisert i:** I 2016 hefte 15
+- **Kunngjort:** 2016-11-24 14:50
+- **I kraft fra:** 2017-01-01
+- **Siste endring i kraft:** 2026-01-01
+- **Sist endret ved:** forskrift 19.12.2025 nr. 2820 fra 2026-01-01
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Sjøfartsdirektoratet 23. november 2016 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 6, § 7, § 9, § 11, § 13, § 14, § 15, § 16, § 19, § 20, § 21, § 22 og § 43, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590. Endret ved forskrifter 26 juni 2025 nr. 1372, 19 des 2025 nr. 2820 (i kraft 1 jan 2026).
+- **Kilde:** <https://lovdata.no/forskrift/2016-11-23-1363>
+
+## § 1. Virkeområde
+
+Forskriften gjelder for følgende norske skip som opererer i polare farvann:
+
+a. skip med sikkerhetssertifikat for passasjerskip
+b. skip med sikkerhetssertifikat for konstruksjon av lasteskip og sikkerhetssertifikat for utstyr på lasteskip
+c. fiskefartøy med største lengde 24 meter eller mer
+d. skip som brukes utenfor næringsvirksomhet med bruttotonnasje 300 eller mer
+e. lasteskip med bruttotonnasje 300 eller mer, men med bruttotonnasje under 500.
+
+Første ledd gjelder også for skip som eies eller opereres av staten og som for tiden kun brukes i ikke-kommersiell offentlig tjeneste, med unntak av skip som tilhører Forsvaret eller som benyttes i Forsvarets tjeneste.
+
+*Endret ved forskrift [19 des 2025 nr. 2820](https://lovdata.no/forskrift/2025-12-19-2820) (i kraft 1 jan 2026).*
+
+## § 2. SOLAS kapittel XIV
+
+Den internasjonale [konvensjonen om sikkerhet for menneskeliv til sjøs, 1974](https://lovdata.no/traktat/1974-11-01-1) (SOLAS) kapittel XIV, vedtatt ved IMO-resolusjon MSC.386(94) som endret ved IMO-resolusjon MSC.532(107), gjelder som forskrift.
+
+*Endret ved forskrift [19 des 2025 nr. 2820](https://lovdata.no/forskrift/2025-12-19-2820) (i kraft 1 jan 2026).*
+
+## § 3. Skip med internasjonale sikkerhetssertifikater
+
+Det internasjonale regelverket for skip som opererer i polare farvann (polarkoden), vedtatt ved IMO-resolusjon MSC.385(94) som endret ved IMO-resolusjon MSC.538(107), del I-A og de sikkerhetsrelaterte bestemmelsene i innledningen gjelder som forskrift for skip nevnt i § 1 første ledd bokstav a og b.
+
+*Endret ved forskrift [19 des 2025 nr. 2820](https://lovdata.no/forskrift/2025-12-19-2820) (i kraft 1 jan 2026).*
+
+## § 4. Skip med fartssertifikat
+
+Det internasjonale regelverket for skip som opererer i polare farvann (polarkoden), vedtatt ved IMO-resolusjon MSC.385(94) som endret ved IMO-resolusjon MSC.538(107) del I-A kapitlene 9-1 og 11-1 gjelder som forskrift for skip nevnt i § 1 bokstav c til e. Ved tolkningen av disse bestemmelsene skal det tas hensyn til innledningen og de sikkerhetsrelaterte bestemmelsene i polarkoden del I-A reglene 1.2, 1.4 og 1.5.
+
+Polarkoden del I-A reglene 9-1.3.1 og 9-1.3.2 gjelder også for skip nevnt i § 1 bokstav c, skip nevnt i § 1 bokstav d med bruttotonnasje under 500 som ikke er på internasjonal reise, og skip nevnt i § 1 bokstav e som ikke er på internasjonal reise.
+
+Første og andre ledd gjelder også i territorialfarvannet rundt Svalbard og Jan Mayen.
+
+Med «isforsterket skip», slik det brukes i polarkoden del I-A regel 9-1.3.2, menes skip med offentligrettslige krav til isforsterkning og skip som er isforsterket etter en standard fra et anerkjent klasseselskap, et klasseregelverk fra et anerkjent klasseselskap eller en annen anerkjent standard.
+
+*Tilføyd ved forskrift [19 des 2025 nr. 2820](https://lovdata.no/forskrift/2025-12-19-2820) (i kraft 1 jan 2026).*
+
+## § 5. Dispensasjon
+
+Sjøfartsdirektoratet kan etter skriftlig søknad gi dispensasjon fra kravene i denne forskriften i samsvar med bestemmelsene i [SOLAS](https://lovdata.no/traktat/1974-11-01-1) kapittel I regel 4 eller 5.
+
+*Tilføyd ved forskrift [19 des 2025 nr. 2820](https://lovdata.no/forskrift/2025-12-19-2820) (i kraft 1 jan 2026).*
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2017.
+
+*Endret ved forskrift [19 des 2025 nr. 2820](https://lovdata.no/forskrift/2025-12-19-2820) (i kraft 1 jan 2026, tidligere § 4).*
+
+## Polarkoden del I:
+
+For å lese norsk gjengivelse av Polarkoden del I som vedtatt ved IMO-resolusjon MSC.385(94) og IMO-resolusjon MEPC.264(68), med endringer til og med IMO-resolusjon MSC.538(107), se her: [pdf-fil](https://lovdata.no/static/SF/sf-20161123-1363-01-02.pdf)
+
+*Endret ved forskrifter [26 juni 2025 nr. 1372](https://lovdata.no/forskrift/2025-06-26-1372), [19 des 2025 nr. 2820](https://lovdata.no/forskrift/2025-12-19-2820) (i kraft 1 jan 2026).*
+
+## SOLAS kapittel XIV
+
+For å lese SOLAS kapittel IV om sikkerhetstiltak for skip som opererer i polare farvann, som endret ved resolusjon MSC.532(107), se her: [pdf-fil](https://lovdata.no/static/SF/sf-20161123-1363-02-02.pdf)
+
+*Endret ved forskrift [19 des 2025 nr. 2820](https://lovdata.no/forskrift/2025-12-19-2820) (i kraft 1 jan 2026).*

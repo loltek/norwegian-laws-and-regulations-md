@@ -1,0 +1,525 @@
+# Forskrift om periodisk kontroll av kjøretøy
+
+- **Korttittel:** Forskrift om periodisk kjøretøykontroll – PKK
+- **Datokode:** FOR-2009-05-13-591
+- **DokumentID:** SF/forskrift/2009-05-13-591
+- **Departement:** Samferdselsdepartementet
+- **Etat:** Vegdirektoratet
+- **Hjemmel:** lov 18.06.1965 nr. 4/§13b; lov 18.06.1965 nr. 4/§19; lov 18.06.1965 nr. 4/§19a; lov 18.06.1965 nr. 4/§19b; lov 18.06.1965 nr. 4/§43; lov 18.06.1965 nr. 4/§43a; forskrift 29.09.2003 nr. 1196; forskrift 04.05.2018 nr. 704; forskrift 21.12.2018 nr. 2245; forskrift 06.02.2024 nr. 199
+- **Publisert i:** I 2009 hefte 6
+- **Kunngjort:** 2009-06-09 14:40
+- **I kraft fra:** 2009-07-01
+- **Siste endring i kraft:** 2026-05-13
+- **Sist endret ved:** forskrift 13.05.2026 nr. 811
+- **Endrer:** forskrift 15.12.1997 nr. 1488; forskrift 08.08.2002 nr. 875; forskrift 18.06.2004 nr. 959
+- **Gjelder for:** Norge
+- **Siste rettelse:** 2022-02-01 (tegnsetting i lister tilpasset universell utforming)
+- **Merknad:** Hjemmel: Fastsatt av Vegdirektoratet 13. mai 2009 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 19, § 19a, § 19b, § 43, § 43a og delegeringsvedtak 4. mai 2018 nr. 704. Tilføyd hjemmel: Delegeringsvedtak 29. september 2003 nr. 1196. Delegeringsvedtak 21. desember 2018 nr. 2245. Delegeringsvedtak 6. februar 2024 nr. 199. EØS-henvisninger: EØS-avtalen vedlegg XIII nr. 16b (direktiv 2014/45/EU endret ved direktiv (EU) 2021/1717), nr. 16c (forordning (EU) 2019/621), vedlegg VII nr. 1 (direktiv 2005/36/EF endret ved direktiv 2006/100/EF, forordning (EF) nr. 1430/2007, forordning (EF) nr. 755/2008, forordning (EF) nr. 279/2009, forordning (EU) nr. 213/2011, forordning (EU) nr. 623/2012, direktiv 2013/25/EU, direktiv 2013/55/EU og forordning (EU) 2015/983), vedlegg II kap. I nr. 12 (direktiv 72/306/EØF som endret ved direktiv 89/491/EØF, direktiv 97/20/EF og direktiv 2005/21/EF), vedlegg XX nr. 21azl (forordning (EU) 2021/392). Endret ved forskrifter 29 okt 2010 nr. 1376, 21 juni 2011 nr. 621, 7 des 2011 nr. 1210, 6 aug 2012 nr. 796, 1 nov 2012 nr. 1039, 11 des 2012 nr. 1221, 16 aug 2013 nr. 986, 25 juni 2013 nr. 765, 29 okt 2013 nr. 1272, 9 des 2013 nr. 1421, 10 des 2013 nr. 1434, 2 des 2014 nr. 1502, 15 des 2014 nr. 1614, 5 des 2014 nr. 1544, 26 mars 2015 nr. 283, 1 nov 2012 nr. 1039 (som endret ved forskrifter 30 sep 2014 nr. 1269, 15 des 2014 nr. 1614 og 26 mars 2015 nr. 283), 3 sep 2014 nr. 1146 (som endret ved forskrifter 15 des 2014 nr. 1614, 26 mars 2015 nr. 283 og 29 mai 2015 nr. 559), 29 mai 2015 nr. 559, 21 des 2015 nr. 1818, 11 april 2016 nr. 368, 15 des 2016 nr. 1652, 8 des 2017 nr. 1982, 22 mai 2018 nr. 740 (som endret ved forskrift 27 sep 2018 nr. 1477), 10 okt 2018 nr. 1568, 17 des 2018 nr. 2084, 10 des 2019 nr. 1729 (i kraft 1 jan 2020), 19 des 2019 nr. 2054 (i kraft 1 jan 2020), 17 mars 2020 nr. 439 (i kraft 1 mai 2020), 21 des 2020 nr. 3081 (i kraft 1 jan 2021), 3 mai 2021 nr. 1380, 14 des 2021 nr. 3555 (i kraft 1 jan 2022), 27 jan 2022 nr. 140 (i kraft 1 feb 2022), 14 feb 2022 nr. 254, 27 jan 2022 nr. 140 (i kraft 1 mars 2022), 11 mars 2022 nr. 371, 26 sep 2022 nr. 1682, 7 des 2022 nr. 2218, 20 des 2022 nr. 2389 (i kraft 1 jan 2023), 10 okt 2023 nr. 1654, 20 nov 2023 nr. 1869 (i kraft 3 jan 2024), 9 feb 2024 nr. 236 (i kraft 1 mars 2024), 21 mars 2024 nr. 486 (i kraft 1 jan 2025), 17 des 2025 nr. 2681 (i kraft 1 jan 2026), 13 mai 2026 nr. 811. Rettelser: 03.10.2018 (§ 8 femte ledd bokstav e), 01.02.2022 (tegnsetting i lister tilpasset universell utforming).
+- **Kilde:** <https://lovdata.no/forskrift/2009-05-13-591>
+
+## Kapittel 1 – Innledende bestemmelser
+
+### § 1. Hva og hvem forskriften gjelder
+
+Forskriften gjelder periodisk kontroll av norskregistrerte kjøretøy, godkjenning av og krav til kontrollorgan, teknisk leder og kontrollør, tilsyn med og reaksjoner overfor disse, samt gebyr for godkjenning. Forskriften gjelder også norske kjøretøyfabrikanter og deres kontaktpunkt.
+
+Forskriften gjelder også innsamling og rapportering av understellsnummer og data om drivstofforbruk fra virkelig kjøring (OBFCM-data) fra kjøretøy som fremvises til periodisk kontroll.
+
+*Endret ved [forskrifter 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [9 feb 2024 nr. 236](https://lovdata.no/forskrift/2024-02-09-236) (i kraft 1 mars 2024), [21 mars 2024 nr. 486](https://lovdata.no/forskrift/2024-03-21-486) (i kraft 1 jan 2025).*
+
+### § 2. Periodisk kontroll og kontrollorgan
+
+Med periodisk kontroll av kjøretøy forstås i denne forskriften kontroll av kjøretøy som nevnt i [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd, gjennomført etter reglene i kapittel 5. En periodisk kontroll og godkjenning skal skje innenfor kontrollfristene som følger av [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md). Reglene for periodisk kontroll gjelder også for etterkontroll med mindre annet følger av denne forskriften.
+
+Et kontrollorgan er etter denne forskriften en virksomhet som oppfyller vilkårene i kapittel 3 og 4, og som er godkjent av Statens vegvesen. Det er bare godkjente kontrollorgan som kan utføre periodisk kontroll av kjøretøy.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1146](https://lovdata.no/forskrift/2014-09-03-1146) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283) (i kraft 8 juni 2015), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+## Kapittel 2 – Periodisk kontroll av kjøretøy
+
+### § 3. Eiers fremstillingsplikt
+
+Eier av kjøretøy som nevnt i [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), eller den som på eiers vegne har rådighet over kjøretøyet, skal uoppfordret fremstille kjøretøyet til periodisk kontroll, jf. [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md).
+
+Eier av kjøretøy som nevnt i [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), plikter å melde fra til Statens vegvesen dersom kjøretøyet ikke har fått en frist for godkjent periodisk kontroll, jf. [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md).
+
+*Endret ved forskrift [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 4. Kjøretøy som er underlagt periodisk kontroll
+
+Kravet om periodisk kontroll gjelder for:
+
+a. personbiler med tillatt totalvekt over 7 500 kg (bil gruppe M1), busser (bil gruppe M2 og M3) og lastebiler (bil gruppe N2 og N3),
+b. tilhengere, herunder semitrailere, med tillatt totalvekt over 3 500 kg,
+c. drosjer, selskapsvogner, ambulanser, herunder leilighetsambulanser, uansett totalvekt,
+d. personbiler med tillatt totalvekt ikke over 7 500 kg (bil gruppe M1) og varebiler (bil gruppe N1),
+e. traktor førstegangsregistrert fra og med 1. juli 2005 med tillatt totalvekt over 3 500 kg, som er konstruert for en hastighet over 40 km/t,
+f. motorredskap registrert som mobilkran eller
+g. tilhenger med tillatt totalvekt på 3 500 kg eller mindre, som er godkjent for Tempo 100.
+
+Kravet til periodisk kontroll gjelder likevel ikke hvis kjøretøyet er:
+
+a. produsert eller registrert før 1. januar 1960,
+b. registrert for bruk utenfor offentlig veg eller som lisensiert rally bil (kjennemerke med sort bunn),
+c. tatt ut av bruk (avregistrert),
+d. registrert på forsvaret (kjennemerke med gul bunn),
+e. omfattet av [forskrift 28. mars 1967 nr. 9350 om bruk av utenlandsk motorvogn i riket og om særskilt registrering av motorvogn for midlertidig bruk](for-1967-03-28-9350-forskrift-om-bruk-av-utenlandsk-motorvogn.md) eller
+f. registrert som tilhenger for traktor.
+
+Traktor som regulert i [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd bokstav e som brukes til egentransport i primærnæring, kan etter egenerklæring fra eier unntas fra kravet om periodisk kontroll. Unntak gis av Statens vegvesen. Brukes traktoren til annet enn egentransport i primærnæring eller til brøyting, snørydding, vedlikeholdsarbeid eller lignende formål på offentlig veg, kan det ikke gjøres unntak fra kravet om periodisk kontroll.
+
+*Endret ved [forskrifter 9 des 2013 nr. 1421](https://lovdata.no/forskrift/2013-12-09-1421) (i kraft 1 jan 2014), [11 april 2016 nr. 368](https://lovdata.no/forskrift/2016-04-11-368) (i kraft 1 okt 2016), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [11 mars 2022 nr. 371](https://lovdata.no/forskrift/2022-03-11-371).*
+
+### § 5. Tidspunkt for periodisk kontroll
+
+Kjøretøy som nevnt i [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd bokstav a, b, c og f skal kontrolleres og godkjennes senest 12 måneder etter førstegangsregistrering, og deretter senest 1 år etter siste periodiske kontroll.
+
+Kjøretøy som nevnt i [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd bokstav d, e og g skal kontrolleres og godkjennes senest 4 år etter førstegangsregistrering, og deretter senest 2 år etter siste periodiske kontroll.
+
+Bevaringsverdige kjøretøy, jf. [kjøretøyforskriften § 1-9](for-1994-10-04-918-kjoretoyforskriften.md) og [bilforskriften § 6-8](for-2022-06-28-1233-bilforskriften.md), som nevnt i [§ 4 første ledd bokstav a](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), [b](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), eller [d](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), som er kontrollert og godkjent når kjøretøyet er 30 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), skal kontrolleres og godkjennes senest 5 år etter siste periodiske kontroll frem til det er 50 år. Kjøretøy som kontrolleres og godkjennes når det er 50 år eller eldre (regnet fra 1. januar i fabrikasjonsåret) gis deretter fritak for kontroll.
+
+For kjøretøy som importeres og registreres i Norge, skal kjøretøyet anses kontrollert og godkjent som om den periodiske kontrollen er gjennomført av godkjent kontrollorgan i Norge, når det fremlegges en godkjent kontrollattest av kjøretøyet fra annen EØS-stat. Dersom et kjøretøy ikke kan fremlegge en godkjent kontrollattest fra annen EØS-stat ved import og registrering i Norge, skal kjøretøyet kontrolleres og godkjennes senest 12 måneder etter registreringen i Norge. Deretter skal det kontrolleres og godkjennes etter gjeldende krav stilt i denne bestemmelsen.
+
+For kjøretøy som fremvises ved periodisk kontroll mindre enn 2 måneder før kontrollfristen, beregnes fristen for neste kontroll etter den opprinnelige fristen.
+
+Kjøretøy som har vært avregistrert og som ordinært skulle ha vært kontrollert og godkjent i den tiden det var avregistrert, skal kontrolleres og godkjennes før påregistrering.
+
+Tilhenger som er unntatt periodisk kontroll, men som skal ha godkjenning som Tempo 100, jf. [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd bokstav g, skal være kontrollert og godkjent ved periodisk kontroll før den kan få Tempo 100-godkjenning, dersom tilhengeren vil få en utløpt frist ved Tempo 100-godkjenning, jf. [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) andre ledd og [§ 22](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) andre ledd.
+
+Traktor som er unntatt periodisk kontroll gjennom egenerklæring, jf. [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) tredje ledd, og som ordinært skulle ha vært kontrollert og godkjent i den tiden den var unntatt fra periodisk kontroll, skal kontrolleres og godkjennes før unntaket kan opphøre.
+
+Kjøretøy registrert til bruk utenfor offentlig veg (kjennemerke med lysgule tegn på sort bunn) eller som lisensiert rallybil (kjennemerke med hvite tegn på sort bunn), eller på forsvaret (kjennemerke med sorte tegn på gul bunn) og som skal omregistreres til ordinær bruk på offentlig veg, skal kontrolleres og godkjennes før omregistrering.
+
+For omregistrering som fører til at kjøretøyet ikke lenger er omfattet av krav til periodisk kontroll, kreves det ikke periodisk kontroll før omregistrering, jf. [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) annet ledd.
+
+Med periodisk kontroll i første til og med femte ledd menes ikke etterkontroll.
+
+*Endret ved [forskrifter 9 des 2013 nr. 1421](https://lovdata.no/forskrift/2013-12-09-1421) (i kraft 1 jan 2014), [3 sep 2014 nr. 1146](https://lovdata.no/forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [11 april 2016 nr. 368](https://lovdata.no/forskrift/2016-04-11-368) (i kraft 1 okt 2016), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [11 mars 2022 nr. 371](https://lovdata.no/forskrift/2022-03-11-371), [13 mai 2026 nr. 811](https://lovdata.no/forskrift/2026-05-13-811).*
+
+### § 6. (Opphevet).
+
+*Endret ved [forskrift 9 des 2013 nr. 1421](https://lovdata.no/forskrift/2013-12-09-1421) (i kraft 1 jan 2014), opphevet ved [forskrift 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018).*
+
+### § 6a. Gjennomføring av forordning (EU) 2019/621 om plikt til å tilgjengeliggjøre tekniske kjøretøyopplysninger mv.
+
+[EØS-avtalen vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13) nr. 16c (forordning [(EU) 2019/621](https://lovdata.no/eu/32019r0621)) gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](https://lovdata.no/avtale/avt-1992-05-02-1-v13), protokoll 1 og [EØS-avtalen](../lover/lov-1992-11-27-109-eos-loven.md) ellers.
+
+*Tilføyd ved forskrift [9 feb 2024 nr. 236](https://lovdata.no/forskrift/2024-02-09-236) (i kraft 1 mars 2024).*
+
+## Kapittel 3 – Kontrollorgan, kontrollør og teknisk leder
+
+*Overskrift endret ved forskrift [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 7. Kategorier av kontrollorgan
+
+Godkjenning av kontrollorgan blir gitt av Statens vegvesen for følgende kategorier:
+
+a. *Kontrollorgan 01:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt ikke over 3 500 kg, med unntak av traktor. Disse kontrollorganene kan godkjennes spesielt for kontroll av kjøretøy med tillatt totalvekt ikke over 7 500 kg og som er utstyrt med hydraulisk bremseanlegg.
+b. *Kontrollorgan 02:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt 3 501 kg til 7 500 kg, med unntak av traktor.
+c. *Kontrollorgan 03:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt over 7 500 kg, med unntak av traktor.
+d. *Kontrollorgan 04:* Kontrollorgan for periodisk kontroll av alle kjøretøy, med unntak av traktor.
+e. *Kontrollorgan 05:* Kontrollorgan for periodisk kontroll av traktor.
+
+Godkjenning som kontrollorgan nevnt i første ledd inkluderer også kontroll av tilhengere i kategori O1 og O2.
+
+Statens vegvesen registrerer opplysninger om kontrollorgan i Statens vegvesens elektroniske register.
+
+*Endret ved [forskrifter 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [11 mars 2022 nr. 371](https://lovdata.no/forskrift/2022-03-11-371).*
+
+### § 7a. Mobile periodiske kontroller
+
+Kontrollorgan godkjent etter denne forskrift, kan etter skriftlig søknad til Statens vegvesen gis tillatelse til å utføre mobile periodiske kontroller. Mobile kontroller kan bare utføres ved bruk av kontrollorganets eget utstyr, som oppfyller kravene stilt i [§ 8](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) i denne forskriften, og dersom kontrollorganet har nødvendige tillatelser.
+
+*Tilføyd ved forskrift [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 8. Krav til lokaler og teknisk utstyr for kontrollorgan
+
+Lokaler og teknisk utstyr skal være egnet til formålet og ha nødvendige tillatelser.
+
+I tillegg til nødvendig håndverktøy skal kontrollorgan ha følgende utstyr, avhengig av hvilke kjøretøytyper som omfattes av kontrollorganets godkjenning:
+
+a. Bremseprøver som er tilpasset de kjøretøyer som kontrollorganet har godkjenning for å kontrollere.
+
+   For bremseprøver gjelder følgende minimumskrav til overkjøringsvekt:
+   1. Kontrollorgan godkjent for totalvekt til og med 3 500 kg: 2 000 kg.
+   2. Kontrollorgan godkjent for totalvekt fra 3 501 kg til og med 7 500 kg: 4 000 kg.
+   3. Kontrollorgan godkjent for totalvekt over 7 500 kg: 13 000 kg.
+
+   Kontrollorgan som er godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha rullebremseprøver som kan brukes for kontroll etter referanseverdimetoden og ettpunktsmetoden. Slik rullebremseprøver skal være i samsvar med Anneks A i ISO 21069-1 med de begrensingene som er beskrevet i Kontrollinstruks for periodisk kontroll av kjøretøy.
+b. Kjørebaneløfter eller arbeidsgrav, begge med traversjekk. For kjørebaneløfter gjelder følgende minimumskrav til løftekapasitet:
+   1. Kontrollorgan godkjent for totalvekt til og med 3 500 kg: 3 000 kg.
+   2. Kontrollorgan godkjent for totalvekt fra 3 501 kg til og med 7 500 kg: 5 000 kg.
+   3. Kontrollorgan godkjent for totalvekt over 7 500 kg: 20 000 kg.
+c. Kontrollorgan godkjent for å kontrollere kjøretøy med tillatt totalvekt over 3 500 kg skal ha registrerende retardasjonsmåler som viser aktuell retardasjon. Skriver er ikke påkrevd.
+d. Egnet lyskontrollapparat, samt kontrollområde i tråd med kravene gitt i merknad til kjøretøyforskriften § 28.
+e. Kontrollorgan godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha pedaljekk.
+f. Kontrollorgan godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha manometer og mellomstykke for måling av styre-/matetrykk og klokketrykk.
+g. Avgassmåleinstrument i samsvar med kravene i [forskrift 21. desember 2007 nr. 1744 om krav til avgassmålere](for-2007-12-21-1744-forskrift-om-krav-til-avgassmaalere.md).
+h. Lydmåler minimum i samsvar med Presision Sound Level Meter, Type 1, som tilfredsstiller IEC 61672-1.
+i. Røykmåler av type opacimeter, i samsvar med rådsdirektiv [72/306/EØF vedlegg VII](https://lovdata.no/eu/31972l0306/vedleggVII) med senere endringer. Røykmålerens røykkammer med tilførselsslanger skal kunne brukes ned til – 10 °C uten at eksosen kondenseres før eller inne i røykkammeret.
+j. Datautstyr og tilgang til programvare for elektronisk rapportering av resultatet på utførte kjøretøykontroller til Statens vegvesen.
+k. Egnet utstyr for påvisning av drivstofflekkasje i gassdrevne kjøretøy (LNG/CNG/LPG).
+l. Kontrollorgan godkjent for å kontrollere kjøretøy med tillatt totalvekt over 3 500 kg skal ha slitasjetester med bevegelse på langs og på tvers på minst 95 mm og bevegelseshastighet på 5–15 cm/s.
+m. Utstyr for OBD-avlesning for minimum kontroll av kjøretøyenes elektroniske utslippskontrollsystem som tilfredsstiller kravene i ISO-standard 15031 del 3–7.
+n. Kontrollorgan godkjent for å kontrollere traktor skal ha manometer og tilkobling for å kontrollere hydraulisk uttak for tilkobling av tilhenger.
+o. Kontrollorgan som kontrollerer kjøretøy med hydrauliske bremser skal ha utstyr for måling av kokepunkt på bremsevæske. Måleområde 120 °C til 210 °C, måleusikkerhet maksimalt 15 °C.
+p. Kontrollorgan som kontrollerer tilhengere med påløpsbremseanlegg skal ha utstyr til funksjonskontroll av tilhengers påløpsbremseanlegg.
+
+Kontrollorgan godkjent for å kontrollere kjøretøy med tillatt totalvekt til og med 3500 kg skal ha utstyr for OBD-avlesning av OBFCM-data, jf. forordning [2021/392](https://lovdata.no/eu/32021r0392) artikkel 10 og 11, som gjennomført i [forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy](for-2018-12-28-2247-forskrift-om-krav-til-co-2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjoretoy.md) (M, N og O) [§ 1](for-2018-12-28-2247-forskrift-om-krav-til-co-2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjoretoy.md). Kontrollorgan som kun er godkjent for å kontrollere kjøretøy med tillatt totalvekt over 3500 kg skal også ha slikt utstyr, dersom de skal tilby periodisk kontroll av personbiler (M1).
+
+Kontrollorgan som kun kontrollerer traktorer gis fritak for utstyr i henhold til a, b, d, g, i, l og m. Fritak fra a betinger utstyr og område for å utføre retardasjonsmåling og praktisk kontroll av bremsevirkning. Fritak fra b betinger annet egnet løfteutstyr.
+
+Teknisk utstyr, inkludert måleinstrumentene, skal brukes og vedlikeholdes etter fabrikantens anvisninger.
+
+Måleinstrumenter i punkt a, c, d, g og i, jf. annet ledd, skal kalibreres ved bruk av akkreditert metode av kalibreringsorgan som er akkreditert etter ISO/IEC-standard 17025. Kalibreringen skal utføres innenfor følgende måleområde og måleresultatet skal vurderes mot følgende maksimalt tillatte målefeil:
+
+a. Bremseprøver: Bruksmessig måleområde og med maksimalt tillatte målefeil i henhold til ISO 21069-1, anneks A. Samme maksimalt tillatte målefeil skal også legges til grunn for bremseprøver som ikke er i samsvar med ISO-standard.
+b. Retardasjonsmåler: Måleområde mellom 0 og 8 m/s2 og med maksimalt tillatte målefeil +/– 0,2 m/s2.
+c. Lyskontrollapparat: Bruksmessig måleområde og med maksimalt tillatte målefeil +/– 3 mm pr. meter.
+d. Avgassmåler: Måleområde og maksimalt tillatte målefeil i samsvar med grenseverdiene angitt i [forskrift om krav til avgassmålere § 24](for-2007-12-21-1744-forskrift-om-krav-til-avgassmaalere.md) og [§ 26](for-2007-12-21-1744-forskrift-om-krav-til-avgassmaalere.md), klasse 1.
+e. Røykmåler: Bruksmessig måleområde og maksimalt tillatte målefeil +/– 0,3 m – 1.
+
+Øvrige måleinstrumenter skal kalibreres ved bruk av anerkjente kalibreringsmetoder. Kalibreringen skal være sporbar.
+
+Måleinstrumenter skal etter innregulering og endelig kalibrering oppfylle kravene til maksimalt tillatte målefeil innenfor måleområdene. Kontrollorgan må ha dokumentasjon som viser at slik kalibrering er utført og at måleinstrumentene er i henhold til kravene til måleområder og maksimalt tillatte målefeil.
+
+Intervallet mellom to påfølgende kalibreringer kan ikke overstige 12 måneder. Kravet om kalibrering av måleinstrumenter gjelder også for nytt utstyr før det tas i bruk.
+
+Kontrollorgan kan ikke godkjennes uten at det har utstyr og verktøy til å utføre kontrollene på en faglig tilfredsstillende måte. Kontrollorgan kan heller ikke godkjennes uten at det har utstyr for OBD-avlesning av OBFCM-data etter tredje ledd.
+
+Statens vegvesen kan ved godkjenning av kontrollorganet gjøre unntak fra kravet til eget utstyr når kravet vil virke urimelig av hensyn til kontrollorganets størrelse. Kontrollorganet må i slike tilfeller ha inngått skriftlig avtale om tilgang på utstyr.
+
+*Endret ved [forskrifter 1 nov 2012 nr. 1039](https://lovdata.no/forskrift/2012-11-01-1039) (i kraft 1 des 2012), [9 des 2013 nr. 1421](https://lovdata.no/forskrift/2013-12-09-1421) (i kraft 1 jan 2014), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) som endret ved [forskrift 27 sep 2018 nr. 1477](https://lovdata.no/forskrift/2018-09-27-1477) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [21 mars 2024 nr. 486](https://lovdata.no/forskrift/2024-03-21-486) (i kraft 1 jan 2025).*
+
+### § 9. Regelverk m.m.
+
+Kontrollorgan skal til enhver tid ha oppdatert regelverk for kontroll i tillegg til nødvendige tekniske data for de kjøretøyer som skal kontrolleres tilgjengelig.
+
+### § 10. Teknisk leder og stedfortreder
+
+Kontrollorgan skal ha en teknisk leder med stedfortreder som er godkjent av Statens vegvesen. Statens vegvesen kan ved godkjenning av kontrollorgan gjøre unntak fra kravet til stedfortreder når kravet vil virke urimelig av hensyn til virksomhetens størrelse.
+
+Teknisk leder er ansvarlig for virksomheten og skal være heltidsbeskjeftiget. Teknisk leder skal delta aktivt i arbeidet ved å veilede kontrollørene og påse at kontrollene utføres i samsvar med krav fastsatt i lov og forskrift. Teknisk leder er ansvarlig for at kontrollvirksomheten drives i samsvar med denne forskriften, skal samordne kontrollvirksomheten og er kontrollorganets kontaktperson i forhold til Statens vegvesen.
+
+I teknisk leders fravær påhviler dennes plikter og ansvar stedfortreder. Stedfortreder må ha godkjenning som teknisk leder, jf. [§ 11](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md).
+
+Statens vegvesen registrerer opplysninger, herunder personopplysninger, om tekniske ledere og stedfortredere i Statens vegvesens elektroniske register i forbindelse med søknader, godkjenninger, tilsyn og reaksjoner.
+
+*Endret ved [forskrifter 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 11. Krav til teknisk leder
+
+Teknisk leder ved kontrollorgan skal ha fagbrev og relevant praksis som nærmere fastsatt. Praksis skal være opparbeidet som kontrollør hos Statens vegvesen, ved godkjent kontrollorgan eller som mekaniker ved godkjent kjøretøyverksted. I tillegg skal teknisk leder være godkjent som kontrollør, jf. [§ 12](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md).
+
+Teknisk leder ved kontrollorgan skal oppfylle følgende krav:
+
+a. *Kontrollorgan 01:* Ved periodisk kontroll av kjøretøy med totalvekt 3 500 kg eller mindre: Fagbrev som «bilmekaniker av tunge kjøretøy» eller som «bilmekaniker av lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+b. *Kontrollorgan 02:* Ved periodisk kontroll av kjøretøy med totalvekt fra 3 501 kg til 7 500 kg: Fagbrev som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+c. *Kontrollorgan 03:* Ved periodisk kontroll av kjøretøy med totalvekt over 7 500 kg: Fagbrev som «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+d. *Kontrollorgan 04:* Ved periodisk kontroll av alle kjøretøy: Fagbrev som «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+e. *Kontrollorgan 05:* Ved periodisk kontroll av traktor som er konstruert for en hastighet over 40 km/t: Fagbrev som «landbruksmaskinmekaniker», «anleggsmaskinmekaniker» eller «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+
+Krav til teknisk leder anses videre oppfylt på bakgrunn av annen relevant utdanning eller praksis dersom Statens vegvesen finner denne likeverdig med forannevnte.
+
+Krav til teknisk leder kan også anses oppfylt på bakgrunn av tilsvarende yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. [yrkeskvalifikasjonsloven](../lover/lov-2017-06-16-69-yrkeskvalifikasjonsloven.md) og [forskrift 22. desember 2017 nr. 2384 om godkjenning av yrkeskvalifikasjoner](for-2017-12-22-2384-forskrift-om-godkjenning-av-yrkeskvalifikasjoner.md).
+
+*Endret ved [forskrifter 6 aug 2012 nr. 796](https://lovdata.no/forskrift/2012-08-06-796) (i kraft 1 sep 2012), [1 nov 2012 nr. 1039](https://lovdata.no/forskrift/2012-11-01-1039) (i kraft 1 des 2012), [9 des 2013 nr. 1421](https://lovdata.no/forskrift/2013-12-09-1421) (i kraft 1 jan 2014), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [10 okt 2018 nr. 1568](https://lovdata.no/forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 12. Krav til kontrollører
+
+Kontrollør for periodisk kontroll av kjøretøy skal være godkjent av Statens vegvesen. For å få godkjenning som kontrollør må vedkommende
+
+a. ha fagbrev tilpasset den kjøretøykategorien vedkommende skal godkjennes for.
+b. ha gjennomført grunnopplæring i periodisk kontroll av kjøretøy tilpasset den kjøretøykategorien vedkommende skal godkjennes for, jf. [forskrift 22. mai 2018 nr. 741 om opplæring i periodisk kontroll av kjøretøy § 5](for-2018-05-22-741-kontrollopplaeringsforskriften.md).
+c. godtgjøre med ordinær politiattest at vandelen er slik at vedkommende anses skikket som kontrollør. Politiattesten som fremlegges kan ikke være eldre enn 3 måneder. Om kontrolløren anses skikket beror på en skjønnsmessig vurdering av om godkjenning ivaretar tilliten til kontrollordningen. Straff for uriktig forklaring til offentlig myndighet, dokumentfalsk, vinningslovbrudd, eller økonomisk kriminalitet vil særlig kunne medføre at kontrolløren ikke anses skikket.
+
+Kontrollører som selv skal prøvekjøre kjøretøyene de kontrollerer må ha førerett for dette, jf. [forskrift 19. januar 2004 nr. 298](for-2004-01-19-298-forerkortforskriften.md) om førerkort m.m. Unntak i [førerkortforskriften § 12-2](for-2004-01-19-298-forerkortforskriften.md) første ledd gjelder.
+
+Kontrollørene skal ha tilstrekkelige norskkunnskaper til at de kan utføre kontrollene korrekt etter kontrollinstruksen.
+
+En godkjenning som kontrollør utløper 5 år etter dato for gjennomført opplæring.
+
+For å beholde godkjenningen må kontrollører gjennomføre oppfriskningsopplæring i periodisk kontroll tilpasset kjøretøykategorien vedkommende er godkjent for å kontrollere, jf. forskrift om opplæring i periodisk kontroll av kjøretøy. Ved gjennomført oppfriskningsopplæring fornyes godkjenningen med 5 år regnet fra dato for gjennomført opplæring.
+
+Kontrollør som ikke lenger oppfyller kravene til godkjenning plikter å melde fra om dette til Statens vegvesen.
+
+Krav til kontrollør etter første ledd, bokstav a, anses videre oppfylt på bakgrunn av annen relevant utdanning dersom Statens vegvesen finner denne likeverdig med forannevnte.
+
+Krav til kontrollør etter første ledd bokstav a, kan også anses oppfylt på bakgrunn av tilsvarende yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. yrkeskvalifikasjonsloven og [forskrift 22. desember 2017 nr. 2384](for-2017-12-22-2384-forskrift-om-godkjenning-av-yrkeskvalifikasjoner.md) om godkjenning av yrkeskvalifikasjoner.
+
+Statens vegvesen registrerer opplysninger, herunder personopplysninger og vandel, om kontrollører i elektroniske registre i forbindelse med søknader, gjennomført opplæring, godkjenninger, tilsyn og reaksjoner.
+
+*Endret ved [forskrifter 1 nov 2012 nr. 1039](https://lovdata.no/forskrift/2012-11-01-1039) (i kraft 1 des 2012), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [10 okt 2018 nr. 1568](https://lovdata.no/forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [13 mai 2026 nr. 811](https://lovdata.no/forskrift/2026-05-13-811).*
+
+### § 12a. Gebyr for godkjenning
+
+For førstegangsbehandling av søknad om godkjenning som kontrollorgan og ved utvidelse av godkjenning skal kontrollorganet betale et gebyr.
+
+For førstegangsbehandling av søknad om godkjenning som teknisk leder og ved utvidelse av godkjenning skal søkeren betale et gebyr.
+
+For førstegangsbehandling av søknad om godkjenning som kontrollør og ved utvidelse av godkjenning skal søkeren betale et gebyr.
+
+Ved samtidig godkjenning som verksted, jf. [forskrift 28. oktober 2020 nr. 2170 om arbeid på kjøretøy](for-2020-10-28-2170-verkstedforskriften.md), og kontrollorgan etter denne forskrift, betales ett gebyr. Det samme gjelder ved samtidig godkjenning av kontrollør og teknisk leder for kontrollorgan og verksted
+
+Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 13](for-2023-10-10-1650-forskrift-om-gebyr-paa-tjenester-utfort-av-statens-vegvesen-paa-trafikant-og-kjoretoyomraadet.md).
+
+*Tilføyd ved [forskrift 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), endret ved forskrifter [21 des 2020 nr. 3081](https://lovdata.no/forskrift/2020-12-21-3081) (i kraft 1 jan 2021), [14 des 2021 nr. 3555](https://lovdata.no/forskrift/2021-12-14-3555) (i kraft 1 jan 2022), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [20 des 2022 nr. 2389](https://lovdata.no/forskrift/2022-12-20-2389) (i kraft 1 jan 2023), [10 okt 2023 nr. 1654](https://lovdata.no/forskrift/2023-10-10-1654).*
+
+### § 12b. Kontrollørbevis
+
+Statens vegvesen utsteder kontrollørbevis til kontrollører når vilkårene for godkjenning er oppfylt, jf. [§ 12](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md). Beviset skal inneholde opplysninger om kontrollørens navn, hvilken kjøretøykategori vedkommende er godkjent for, jf. forskrift om opplæring i periodisk kontroll av kjøretøy [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), navn på myndigheten som har utstedt beviset og dato for utstedelse og utløp.
+
+*Tilføyd ved [forskrift 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), endret ved [forskrift 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*
+
+### § 12c. Habilitet
+
+Teknisk leder og kontrollører i kontrollorgan for periodisk kontroll har ikke anledning til å kontrollere kjøretøy de selv eller deres nærstående eier eller råder over, jf. [forvaltningsloven § 6](../lover/lov-1967-02-10-forvaltningsloven.md) første og annet ledd. De har heller ikke anledning til å kontrollere kjøretøy som andre ansatte eller overordnede i kontrollorganet eier eller råder over.
+
+Dersom kontrollorganet utfører periodisk kontroll av kjøretøy det selv eier, eller på annen måte har råderett over eller har vesentlig interesse i, skal kontrollorganet ha særlige rutiner som sikrer objektivitet og kvalitet i disse kontrollene, jf. [§ 14](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd bokstav f.
+
+*Tilføyd ved [forskrift 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), endret ved forskrift [14 feb 2022 nr. 254](https://lovdata.no/forskrift/2022-02-14-254).*
+
+## Kapittel 4 – Kvalitetsstyringssystem
+
+### § 13. Plikt til å opprette kvalitetsstyringssystem
+
+Den som er gitt godkjenning som kontrollorgan skal etablere og ajourholde et kvalitetsstyringssystem for kontrollorganets aktiviteter slik dette er regulert i denne forskrift og nærmere avgrenset i Statens vegvesens vedtak om godkjenning. Systemet skal utarbeides og ajourholdes i samarbeid med teknisk leder og personale.
+
+Formålet med kvalitetsstyringssystemet er å sikre riktig kvalitet på kontrollgjennomføring og -rapportering, at kontrollene oppfyller kravene i denne forskrift og gjennom kontinuerlig forbedring bidrar til riktig kontrollkvalitet.
+
+Kvalitetsstyringssystemet skal inneholde nødvendige beskrivelser, prosedyrebeskrivelser og krav til registreringer for å sikre formålet. Med prosedyrebeskrivelse menes et dokument som angir fremgangsmåten for å utføre en aktivitet eller arbeidsprosess. Med registreringer menes et dokument som beviser oppnådd resultat eller gjennomførte aktiviteter.
+
+Teknisk leder plikter å føre tilsyn med at kontrollene organiseres og gjennomføres slik dette er fastsatt i kvalitetssystemet.
+
+*Endret ved forskrift [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 14. Utforming og innhold av kvalitetsstyringssystemet
+
+Kvalitetsstyringssystemet skal minimum inneholde følgende:
+
+a. Beskrivelse av hvordan kontrollarbeidet er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rollene.
+b. Beskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.
+c. Prosedyrebeskrivelse for gjennomføring og rapportering av kontroller.
+d. Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utførte kontroller og kontrollrapportering.
+e. Prosedyrebeskrivelse for og registreringer av periodisk kalibrering og systematisk vedlikehold av godkjenningspliktig utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.
+f. Prosedyrebeskrivelse for sikring av habiliteten i kontrollgjennomføringen.
+g. Prosedyrebeskrivelse for og registreringer av avvikshåndtering
+
+*Endret ved [forskrifter 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 15. Dokumentasjon
+
+Den som er gitt godkjenning som kontrollorgan har ansvar for at kvalitetsstyringssystemet er skriftlig dokumentert, ajourholdt og tilgjengelig for ansatte og for tilsynsmyndigheten.
+
+*Endret ved forskrift [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+## Kapittel 5 – Gjennomføring av kontroll og kontrollsystemer
+
+### § 16. Plikter som kontrollvirksomheten medfører
+
+Kontrollorganet plikter å gi kjøretøyeier den veiledning som er nødvendig for at vedkommende kan ivareta sine rettigheter og plikter etter forskriften.
+
+Dersom det ved kontrollen oppdages feil ved kjøretøyets identitet (understellsnummer eller kjennemerke), eller at kjøretøyet er endret slik at det må fremstilles hos godkjenningsmyndigheten, skal kontrollorganet gjøre eieren oppmerksom på dette ved anmerkning på kontrollseddelen.
+
+Ved endring av forhold som kan ha betydning for godkjenningen, herunder opphør, flytting, endring av organisasjonsnummer, bytte av teknisk leder eller kompetent stedfortreder, utstyr, skal det straks gis skriftlig melding til Statens vegvesen.
+
+*Endret ved [forskrifter 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 17. Gjennomføring av kontrollen
+
+Ved en periodisk kontroll skal kontrolløren foreta en vurdering av alle kontrollpunktene som er oppført i kontrollinstruksen, jf. [§ 30](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), og som er aktuelle for kjøretøyet. Etterkontroll jf. [§ 22](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) annet ledd gjennomføres ved at et kontrollorgan foretar en vurdering av mangelmerknadene ilagt ved en periodisk kontroll.
+
+Følgende skala brukes ved bedømming av mangler:
+
+1. Mindre feil/mangel som må rettes, men som ikke har betydning for om kjøretøyet kan godkjennes.
+2. Større feil/mangel som vil føre til at Statens vegvesen ikke kan godkjenne kjøretøyet.
+3. Farlig feil/mangel som innebærer en umiddelbar fare for trafikksikkerhet eller miljø, og som vil føre til at Statens vegvesen ikke kan godkjenne kjøretøyet. Dette innebærer at det vedtas bruksforbud umiddelbart.
+4. På kontrolltidspunktet ikke mulig å måle på grunn av klimatiske forhold.
+
+Kjøretøy som har fått ilagt mangelmerknader som gjør at kjøretøyet ikke kan godkjennes, fremstilles for etterkontroll etter første ledd, jf. [§ 22](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) annet ledd.
+
+Mangelmerknader kan bare ilegges ved valg av hovedgrunn for mangelmerknad gitt i kontrollinstruksen. Det skal legges en kommentar til mangelmerknader der det er nødvendig for å beskrive disse.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1146](https://lovdata.no/forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 18. Registrering av kontrolldata
+
+Kontrollorganet skal registrere kontrolldata fra periodisk kontroll i et datasystem for umiddelbar innrapportering til Statens vegvesen. Kontrollorganet må ha nødvendig sikkerhet mot feil og misbruk ved registrering av kontrolldata og ved dataoversending.
+
+Hver periodiske kontroll skal tildeles et unikt kontrollnummer som genereres av Statens vegvesen. Ved etterkontroll skal det alltid henvises til en tidligere utført kontroll (kontrollnr.).
+
+*Endret ved [forskrift 3 sep 2014 nr. 1146](https://lovdata.no/forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283).*
+
+### § 19. Kontrollseddel til kjøretøyeier
+
+Kontrollseddel med veiledning utstedes av Statens vegvesen på et fastsatt skjema etter innrapportering av periodisk kontroll. Kontrollorganet skal videreformidle kontrollseddel til den som fremstiller kjøretøyet til kontroll.
+
+Statens vegvesen kan offentliggjøre registrerte kontrolldata.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1146](https://lovdata.no/forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [7 des 2022 nr. 2218](https://lovdata.no/forskrift/2022-12-07-2218).*
+
+### § 20. Innrapportering av resultat av periodisk kjøretøykontroll (kontrolldata) til Statens vegvesen
+
+Kun godkjente kontrollører kan innrapportere resultater av utførte periodiske kontroller på vegne av et godkjent kontrollorgan. En kontrollør kan kun innrapportere resultater av egne utførte kontroller. Innrapporteringen skal skje til Statens vegvesen slik Statens vegvesen har spesifisert.
+
+Resultatet av en utført periodisk kontroll skal innrapporteres umiddelbart etter at kontrollen er gjennomført, mens det kontrollerte kjøretøyet fortsatt er i kontrollorganet. Statens vegvesen fastsetter nærmere krav til innmeldingen av data til sitt elektroniske register.
+
+Statens vegvesen lagrer informasjon om alle utførte periodiske kontroller i sitt elektroniske register.
+
+*Endret ved [forskrifter 3 sep 2014 nr. 1146](https://lovdata.no/forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [7 des 2022 nr. 2218](https://lovdata.no/forskrift/2022-12-07-2218).*
+
+### § 20a. Innsamling og rapportering av OBFCM-data
+
+Kontrollorgan skal samle inn OBFCM-data, jf. forordning [(EU)2021/392](https://lovdata.no/eu/32021r0392) artikkel 10 og 11, som gjennomført i [forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy](for-2018-12-28-2247-forskrift-om-krav-til-co-2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjoretoy.md) (M, N og O) [§ 1](for-2018-12-28-2247-forskrift-om-krav-til-co-2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjoretoy.md).
+
+Ved slik innsamling skal kontrollorganet bruke utstyr for OBD- avlesning og overføre OBFCM-data til Statens vegvesen med en sikker løsning, slik Statens vegvesen har spesifisert.
+
+Statens vegvesen registrerer OBFCM-data i sitt register for å rapportere i tråd med forordning [(EU)2021/392](https://lovdata.no/eu/32021r0392) artikkel 10 og 11.
+
+*Tilføyd ved forskrift [21 mars 2024 nr. 486](https://lovdata.no/forskrift/2024-03-21-486) (i kraft 1 jan 2025).*
+
+### § 21. Bruksforbud
+
+Statens vegvesen skal nedlegge bruksforbud, jf. [vegtrafikkloven § 36](../lover/lov-1965-06-18-4-vegtrafikkloven.md), for kjøretøy som ikke er godkjent ved periodisk kontroll innen utløpet av kontrollfristen. Statens vegvesen skal også nedlegge bruksforbud dersom kontrollorganet ved periodisk kontroll avdekker og melder inn at et kjøretøy har farlige feil eller mangler som beskrevet i [§ 17](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) annet ledd.
+
+*Endret ved [forskrifter 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*
+
+### § 22. Godkjenning av kjøretøy og kontrollattest
+
+På grunnlag av resultatet av den periodiske kontrollen avgjør Statens vegvesen umiddelbart etter innrapportert kontrollresultat om et kjøretøy godkjennes.
+
+Dersom kjøretøy ikke blir godkjent ved periodisk kontroll, må påviste mangler utbedres og kjøretøyet godkjennes ved etterkontroll senest innen 2 måneder for å unngå bruksforbud, dog ikke utover ordinær kontrollfrist, jf. [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md).
+
+For kjøretøy nevnt i [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd bokstav a) og b) skal Statens vegvesen utstede kontrollattest til kjøretøyets eier om at kjøretøyet er godkjent i henhold til modell fastlagt av Statens vegvesen. Attesten kan fremlegges ved annen teknisk kontroll, jf. [forskrift 13. oktober 2017 nr. 1615](for-2017-10-13-1615-forskrift-om-kontroll-av-kjoretoy-langs-veg.md) om kontroll av kjøretøy langs veg.
+
+*Endret ved [forskrifter 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [7 des 2022 nr. 2218](https://lovdata.no/forskrift/2022-12-07-2218).*
+
+## Kapittel 6 – Tilsyn med kontrollorgan og sanksjoner
+
+### § 23. Tilsyn med kontrollorgan, teknisk leder og kontrollør
+
+Statens vegvesen fører tilsyn med kontrollorgan, tekniske ledere og kontrollører.
+
+Kontrollorgan plikter å gi Statens vegvesen adgang til sine lokaler, og bistå slik det ellers er nødvendig for å gjennomføre tilsyn, herunder fremvise og utlevere dokumenter som angår kontrollgjennomføringen og virksomheten for øvrig.
+
+Statens vegvesen kan som en del av tilsynet undersøke om forskriftens krav er oppfylt, herunder krav til
+
+a. lokaler, utstyr, kompetanse, registrering og rapportering, habilitet og kvalitetsstyring
+b. kontrollenes innhold, metoder ved kontroll og vurdering av mangler.
+
+Tilsyn med kontrollenes innhold, metoder ved kontroll og vurdering av mangler kan blant annet skje ved
+
+a. stikkprøvekontroll i Statens vegvesens lokaler, hos kontrollorgan eller ved kontroll av kjøretøy langs veg, herunder gjøre bruk av utstyr for elektronisk avlesing av kjennemerker på passerende kjøretøy for utvelgelse til kontroll
+b. analyse av kontrollresultater (statistiske metoder)
+c. kontroll hvor det kan gjøres bruk av kjøretøy med mangler
+d. målrettet kontroll basert på eksempelvis klage, tips, eller tidligere avdekkede uregelmessigheter.
+
+For å utføre stikkprøvekontroll på kjøretøy kan Statens vegvesen pålegge eier eller rådighetshaver å ikke benytte kjøretøyet før stikkprøvekontrollen er gjennomført etter nærmere retningslinjer fra Statens vegvesen. Kontrollorganet plikter å medvirke til stikkprøvekontrollen.
+
+*Endret ved [forskrifter 9 des 2013 nr. 1421](https://lovdata.no/forskrift/2013-12-09-1421) (i kraft 1 jan 2014), [3 sep 2014 nr. 1146](https://lovdata.no/forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [7 des 2022 nr. 2218](https://lovdata.no/forskrift/2022-12-07-2218).*
+
+### § 23a. Krav til tilsynspersonellet
+
+Personell som fører tilsyn etter denne forskriften skal ha nødvendig kompetanse for å vurdere kvaliteten på kontrollorganenes gjennomføring av periodisk kontroll av kjøretøy og om kravene til etablering og drift av kontrollorganer er oppfylt samt vurdere hensiktsmessige reaksjoner.
+
+Statens vegvesen fastsetter nærmere krav til kompetanse og opplæring for personer som fører tilsyn etter denne forskriften.
+
+*Tilføyd ved [forskrift 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), endret ved forskrift [7 des 2022 nr. 2218](https://lovdata.no/forskrift/2022-12-07-2218).*
+
+### § 24. Reaksjoner mot kontrollorgan
+
+Som ledd i tilsynet kan Statens vegvesen gi kontrollorgan pålegg som er nødvendig for å sikre at kontrollene og innsamling OBFCM-data utføres i samsvar med denne forskriften, og om nødvendig gi pålegg om stansing av kontrollvirksomheten til avvik er rettet eller til vedtak om tilbakekalling er avgjort.
+
+Dersom retting ikke er foretatt innen gitt frist, kan Statens vegvesen fastsette en tvangsmulkt. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt som løper fra det tidspunktet en gitt frist for retting er overskredet og til retting er foretatt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. [tvangsfullbyrdelsesloven § 7-2](../lover/lov-1992-06-26-86-tvangsfullbyrdelsesloven.md). Tvangsmulkten kreves inn av Innkrevingsmyndigheten og tilfaller staten.
+
+For mindre vesentlige forhold kan det gis advarsel.
+
+Statens vegvesen kan midlertidig eller permanent tilbakekalle kontrollorganets godkjenning dersom det avdekkes
+
+a. vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, registrering og rapportering, habilitet eller kvalitetsstyring.
+b. vesentlige eller gjentatte avvik fra kravene til kontrollenes innhold, metode og vurderinger.
+c. at pålegg som er nødvendig for å sikre at kontrollene utføres i samsvar med forskriften ikke etterkommes eller at skriftlig advarsel ikke tas til følge.
+d. at kontrollorganet unndrar seg tilsyn.
+e. at det utføres kontroll som kontrollorganet ikke er godkjent for.
+
+I vurderingen av om en godkjenning skal tilbakekalles skal det tas hensyn til i hvilken grad kontrollorganets administrative ledelse kan bebreides for overtredelsene nevnt i fjerde ledd.
+
+Første gangs tilbakekalling av godkjenningen skal normalt gjelde fra 1 til 6 måneder, andre gangs tilbakekalling fra 6 til 12 måneder og tredje gangs tilbakekalling for minst 12 måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid.
+
+Ved tilbakekalling av en godkjenning skal Statens vegvesen tilbakekalle godkjenningsbeviset.
+
+*Endret ved [forskrifter 1 nov 2012 nr. 1039](https://lovdata.no/forskrift/2012-11-01-1039) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [17 mars 2020 nr. 439](https://lovdata.no/forskrift/2020-03-17-439) (i kraft 1 mai 2020), [14 feb 2022 nr. 254](https://lovdata.no/forskrift/2022-02-14-254), [21 mars 2024 nr. 486](https://lovdata.no/forskrift/2024-03-21-486) (i kraft 1 jan 2025), [17 des 2025 nr. 2681](https://lovdata.no/forskrift/2025-12-17-2681) (i kraft 1 jan 2026).*
+
+### § 24a. Reaksjoner mot teknisk leder og kontrollør
+
+Som ledd i tilsynet kan Statens vegvesen gi teknisk leder eller kontrollør pålegg som er nødvendig for å sikre at kontrollene utføres i samsvar med denne forskriften.
+
+Dersom teknisk leder og kontrollør ikke lenger oppfyller forskriftens krav, skal godkjenningen tilbakekalles. Ny godkjenning gis når kravene igjen er oppfylt.
+
+For mindre vesentlige forhold kan det gis advarsel.
+
+Godkjenning som teknisk leder eller kontrollør kan tilbakekalles dersom det avdekkes vesentlige eller gjentatte avvik fra de plikter vedkommende har etter forskriften.
+
+I vurderingen av om en godkjenning skal tilbakekalles skal det tas hensyn til i hvilken grad kontrolløren eller den tekniske lederen kan bebreides for avvikene.
+
+Første gangs tilbakekalling av godkjenningen skal normalt gjelde fra 1 til 6 måneder, andre gangs tilbakekalling fra 6 til 12 måneder og tredje gangs tilbakekalling for minst 12 måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid.
+
+*Tilføyd ved [forskrift 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), endret ved [forskrift 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020).*
+
+## Kapittel 7 – Avsluttende bestemmelser
+
+### § 25. Administrative bestemmelser
+
+Statens vegvesen fører eget databasert register over godkjente kontrollorgan, kontrollører, tekniske ledere og stedfortredere.
+
+*Endret ved [forskrifter 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 26. (Opphevet)
+
+*Endret ved [forskrift 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), opphevet ved forskrift [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 27. (Opphevet)
+
+*Endret ved [forskrifter 7 des 2011 nr. 1210](https://lovdata.no/forskrift/2011-12-07-1210) (i kraft 1 jan 2012), [11 des 2012 nr. 1221](https://lovdata.no/forskrift/2012-12-11-1221) (i kraft 1 jan 2013), [10 des 2013 nr. 1434](https://lovdata.no/forskrift/2013-12-10-1434) (i kraft 1 jan 2014), [5 des 2014 nr. 1544](https://lovdata.no/forskrift/2014-12-05-1544) (i kraft 1 jan 2015), [21 des 2015 nr. 1818](https://lovdata.no/forskrift/2015-12-21-1818) (i kraft 1 jan 2016), [15 des 2016 nr. 1652](https://lovdata.no/forskrift/2016-12-15-1652) (i kraft 1 jan 2017), [8 des 2017 nr. 1982](https://lovdata.no/forskrift/2017-12-08-1982) (i kraft 1 jan 2018), [17 des 2018 nr. 2084](https://lovdata.no/forskrift/2018-12-17-2084) (i kraft 1 jan 2019), [10 des 2019 nr. 1729](https://lovdata.no/forskrift/2019-12-10-1729) (i kraft 1 jan 2020), [21 des 2020 nr. 3081](https://lovdata.no/forskrift/2020-12-21-3081) (i kraft 1 jan 2021), opphevet ved forskrift [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022).*
+
+### § 28. Saksbehandlingsregler
+
+[Tjenesteloven § 11](../lover/lov-2009-06-19-103-tjenesteloven.md) andre ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for godkjenning av kontrollorgan etter [§ 8](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), teknisk leder og stedfortreder etter [§ 10](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) og [§ 11](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), kontrollør etter [§ 12](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) eller søknad om å utføre mobile periodiske kontroller etter [§ 7a](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md).
+
+*Endret ved [forskrifter 22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [7 des 2022 nr. 2218](https://lovdata.no/forskrift/2022-12-07-2218).*
+
+### § 29. Unntak
+
+Statens vegvesen kan, ved enkeltvedtak, gjøre unntak fra forskriften [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd, [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første til og med fjerde ledd, [§ 7a](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), [§ 8](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), [§ 10](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), [§ 11](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), [§ 12](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) og [§ 22](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) andre ledd dersom det foreligger særlig tungtveiende grunner.
+
+*Endret ved [forskrifter 9 des 2013 nr. 1421](https://lovdata.no/forskrift/2013-12-09-1421) (i kraft 1 jan 2014), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [7 des 2022 nr. 2218](https://lovdata.no/forskrift/2022-12-07-2218).*
+
+### § 30. Vedlegg
+
+Til denne forskriften hører også Kontrollinstruks for periodisk kontroll av kjøretøy versjon 4.1.
+
+*Endret ved [forskrifter 1 nov 2012 nr. 1039](https://lovdata.no/forskrift/2012-11-01-1039) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [3 sep 2014 nr. 1146](https://lovdata.no/forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614), [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283) og [29 mai 2015 nr. 559](https://lovdata.no/forskrift/2015-05-29-559), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [26 sep 2022 nr. 1682](https://lovdata.no/forskrift/2022-09-26-1682), [20 nov 2023 nr. 1869](https://lovdata.no/forskrift/2023-11-20-1869) (i kraft 3 jan 2024).*
+
+### § 31. Overgangsregler
+
+For kjøretøy der siste resultat av periodisk kontroll eller etterkontroll er innrapportert før 8. februar 2019, men som ikke er kontrollert og godkjent etter denne datoen, trer forskriftens [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første, annet, tredje og fjerde ledd, [§ 22](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) annet ledd i kraft ved første innrapporterte kontroll.
+
+For kjøretøy registrert første gang i Norge før 8. februar 2019 trer forskriftens [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første, annet, tredje og fjerde ledd, [§ 22](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) annet ledd i kraft ved første innrapporterte kontroll.
+
+For kjøretøy som endrer kontrollintervall som følge av en registrering, trer forskriftens [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første, annet, tredje og fjerde ledd, [§ 22](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) annet ledd i kraft ved slik registrering.
+
+Krav til periodisk kontroll av traktor, jf. [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd bokstav e, trer i kraft 1. oktober 2021. Første frist for godkjent periodisk kontroll etter ikrafttredelse, jf. [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), kan ikke bli tidligere enn 1. januar 2023.
+
+Krav til periodisk kontroll av mobilkraner, jf. [§ 4](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md) første ledd bokstav f, trer i kraft 1. februar 2022. Første frist for godkjent periodisk kontroll etter ikrafttredelse, jf. [§ 5](for-2009-05-13-591-forskrift-om-periodisk-kjoretoykontroll.md), kan ikke bli tidligere enn 1. januar 2023.
+
+*Endret ved [forskrifter 21 juni 2011 nr. 621](https://lovdata.no/forskrift/2011-06-21-621) (i kraft 1 juli 2011), [1 nov 2012 nr. 1039](https://lovdata.no/forskrift/2012-11-01-1039) (i kraft 1 des 2012), [29 okt 2013 nr. 1272](https://lovdata.no/forskrift/2013-10-29-1272) (i kraft 31 des 2013), [2 des 2014 nr. 1502](https://lovdata.no/forskrift/2014-12-02-1502), [15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614), [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [1 nov 2012 nr. 1039](https://lovdata.no/forskrift/2012-11-01-1039) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) (i kraft 1 okt 2018), [3 mai 2021 nr. 1380](https://lovdata.no/forskrift/2021-05-03-1380), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 feb 2022), [26 sep 2022 nr. 1682](https://lovdata.no/forskrift/2022-09-26-1682), [13 mai 2026 nr. 811](https://lovdata.no/forskrift/2026-05-13-811).*
+
+### § 32. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2009. Samtidig oppheves [forskrift 15. desember 1997 nr. 1488](https://lovdata.no/forskrift/1997-12-15-1488) om gjennomføring av periodisk kontroll av kjøretøy (kontrollveiledning), [forskrift 8. august 2002 nr. 875](https://lovdata.no/forskrift/2002-08-08-875) om periodisk kontroll og utekontroll av kjøretøy og [forskrift 18. juni 2004 nr. 959](https://lovdata.no/forskrift/2004-06-18-959) om krav til kontrollorgan for periodisk kontroll av kjøretøy og godkjenning av kjøretøyverksteder.
+
+## Vedlegg. Kontrollinstruks for periodisk kontroll av kjøretøy versjon 4.1
+
+For å lese vedlegget ser her: [(pdf)](https://lovdata.no/static/SF/sf-20090513-0591-01-09.pdf)
+
+*Endret ved [forskrifter 29 okt 2010 nr. 1376](https://lovdata.no/forskrift/2010-10-29-1376) (i kraft 1 nov 2010), [25 juni 2013 nr. 765](https://lovdata.no/forskrift/2013-06-25-765) som endret ved [forskrift 29 okt 2013 nr. 1272](https://lovdata.no/forskrift/2013-10-29-1272) (i kraft 31 des 2013), [1 nov 2012 nr. 1039](https://lovdata.no/forskrift/2012-11-01-1039) (i kraft 8 juni 2015) som endret ved [forskrifter 30 sep 2014 nr. 1269](https://lovdata.no/forskrift/2014-09-30-1269), [15 des 2014 nr. 1614](https://lovdata.no/forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](https://lovdata.no/forskrift/2015-03-26-283), [22 mai 2018 nr. 740](https://lovdata.no/forskrift/2018-05-22-740) som endret ved [forskrift 27 sep 2018 nr. 1477](https://lovdata.no/forskrift/2018-09-27-1477) (i kraft 1 okt 2018, nytt vedlegg tilføyd), endret ved [forskrift 19 des 2019 nr. 2054](https://lovdata.no/forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](https://lovdata.no/forskrift/2022-01-27-140) (i kraft 1 mars 2022), [20 nov 2023 nr. 1869](https://lovdata.no/forskrift/2023-11-20-1869) (i kraft 3 jan 2024).*

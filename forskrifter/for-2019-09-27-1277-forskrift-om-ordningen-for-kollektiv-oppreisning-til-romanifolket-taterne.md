@@ -1,0 +1,96 @@
+# Forskrift om ordningen for kollektiv oppreisning til romanifolket/taterne
+
+- **Datokode:** FOR-2019-09-27-1277
+- **DokumentID:** SF/forskrift/2019-09-27-1277
+- **Departement:** Kommunal- og distriktsdepartementet
+- **Etat:** Avdeling for urfolk og nasjonale minoriteter
+- **Kunngjort:** 2019-10-01 14:35
+- **I kraft fra:** 2019-09-27 med virkning f.o.m. 2019
+- **Gjelder for:** Norge
+- **Merknad:** Hjemmel: Fastsatt av Kommunal- og moderniseringsdepartementet 27. september 2019 med hjemmel i Stortingets årlige budsjettvedtak kap. 567 post 75. Endret ved forskrift 21 juni 2024 nr. 1191.
+- **Kilde:** <https://lovdata.no/forskrift/2019-09-27-1277>
+
+## § 1. Formålet med den kollektive oppreisningen
+
+Den kollektive oppreisningen, heretter kalt ordningen, skal bidra til å utvikle og synliggjøre romanifolket/taternes kultur, språk og historie.
+
+## § 2. Forvaltning av ordningen
+
+Midlene til ordningen bevilges årlig av Stortinget. Vedtak om tilskudd fra ordningen fattes av Kulturdirektoratet. Tildelingene skal baseres på en helhetsvurdering av de innkomne søknadene, og prioriteres ut fra oppnåelse av formålet i [§ 1](for-2019-09-27-1277-forskrift-om-ordningen-for-kollektiv-oppreisning-til-romanifolket-taterne.md). Representanter for romanifolket/taterne skal være involvert i arbeidet med ordningen.
+
+*Endret ved forskrift [21 juni 2024 nr. 1191](https://lovdata.no/forskrift/2024-06-21-1191).*
+
+## § 3. Hvem forskriften gjelder for
+
+Privatpersoner, private og offentlige institusjoner, organisasjoner og andre virksomheter kan søke. Det er en forutsetning at søker i hovedsak holder til og har sitt virke i Norge.
+
+## § 4. Hva kan det søkes midler til?
+
+- Prosjekter som bidrar til å synliggjøre, styrke og videreføre romanifolket/taternes kultur og historie.
+- Prosjekter som bidrar til å styrke språket romani.
+- Dokumentasjon og formidling av kunnskap om romanifolket/taternes situasjon.
+- Holdningsskapende arbeid.
+
+## § 5. Kunngjøring og frister
+
+Ordningen blir kunngjort på Kulturdirektoratets nettsider og øvrige publiseringskanaler. Søknaden skal sendes Kulturdirektoratet innen den fristen som er oppgitt på nettsidene.
+
+*Endret ved forskrift [21 juni 2024 nr. 1191](https://lovdata.no/forskrift/2024-06-21-1191).*
+
+## § 6. Krav til søknaden
+
+Søker skal benytte søknadsskjema som er tilgjengelig på Kulturdirektoratets nettsider.
+
+Søknaden må inneholde følgende opplysninger:
+
+a. Beskrivelse av mål og målgruppe, aktiviteter og framdriftsplan for prosjektet.
+b. Budsjett med presisering av eventuelle administrative kostnader knyttet til gjennomføringen av prosjektet. Budsjettet må også inneholde opplysninger om egeninnsats og om det er søkt eller mottatt støtte fra andre kilder.
+c. Informasjon om den som søker (navn, adresse, e-postadresse, telefonnummer, norsk organisasjonsnummer/personnummer).
+
+Kulturdirektoratet har anledning til å innhente tilleggsopplysninger og til å kontrollere at opplysninger i søknaden er korrekte.
+
+*Endret ved forskrift [21 juni 2024 nr. 1191](https://lovdata.no/forskrift/2024-06-21-1191).*
+
+## § 7. Vilkår for tilskudd
+
+Ved å akseptere kontrakten, forplikter tilskuddsmottaker seg til å gjennomføre prosjektet i samsvar med søknaden og i henhold til vilkår og frister som framgår av tildelingsbrevet. Dersom det ikke er avtalt utsettelse med Kulturdirektoratet, gjelder sluttdatoen som er oppgitt i søknaden.
+
+Søker må ha levert rapport og regnskap for tidligere tilskudd fra Kulturdirektoratet innen fastsatt frist.
+
+*Endret ved forskrift [21 juni 2024 nr. 1191](https://lovdata.no/forskrift/2024-06-21-1191).*
+
+## § 8. Vilkår for bruk av tilskuddsmidler
+
+Tilskuddet skal benyttes i tråd med denne forskriften, søknaden og vilkår som er satt i tilskuddsbrevet. Vesentlige endringer i prosjektet skal forhåndsgodkjennes av Kulturdirektoratet, etter skriftlig søknad. Dersom Kulturdirektoratet ikke godkjenner endringen, kan tilskuddet bli trukket tilbake og utbetalte midler kan kreves tilbakebetalt.
+
+Dersom prosjektet ikke kan gjennomføres, skal Kulturdirektoratet ha beskjed så raskt som mulig.
+
+*Endret ved forskrift [21 juni 2024 nr. 1191](https://lovdata.no/forskrift/2024-06-21-1191).*
+
+## § 9. Rapport og regnskap
+
+Tilskuddsmottaker skal levere rapport og regnskap for bruk av tilskuddsmidlene innenfor den fristen som er satt i tilskuddsbrevet. Regnskap for over 200 000 kroner skal være revidert av statsautorisert eller registrert revisor. Krav til regnskap og rapport vil framgå av tilskuddsbrevet.
+
+## § 10. Oppfølging og kontroll
+
+Kulturdirektoratet kan kontrollere om midlene blir benyttet etter forutsetningene og om opplysningene i søknaden og rapporteringen er korrekte. Mottaker skal på forespørsel legge fram opplysninger og bidra på andre måter til å legge til rette for kontrollarbeidet.
+
+Kulturdirektoratet kan stanse utbetaling eller kreve at mottaker helt eller delvis tilbakebetaler utbetalt tilskudd dersom:
+
+a. tilskuddet ikke er brukt i tråd med denne forskriften og/eller tilskuddsbrevet
+b. tildeling av tilskudd bygger på uriktige opplysninger fra søker
+c. tilskuddsmottaker ikke har levert regnskap og rapport innen fastsatt frist
+d. rapport og regnskap ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsbrevet er oppfylt
+e. ikke hele tilskuddsbeløpet er benyttet.
+
+*Endret ved forskrift [21 juni 2024 nr. 1191](https://lovdata.no/forskrift/2024-06-21-1191).*
+
+## § 11. Klageadgang
+
+Vedtak kan påklages til Kommunal- og moderniseringsdepartementet.
+
+*Endret ved forskrift [21 juni 2024 nr. 1191](https://lovdata.no/forskrift/2024-06-21-1191).*
+
+## § 12. Ikrafttredelse
+
+Forskriften trer i kraft straks og med virkning for tildeling av tilskudd fra og med 2019.
