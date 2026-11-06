@@ -658,14 +658,26 @@ def build_dataset(
     if path.exists():
         old = json.loads(path.read_text(encoding="utf-8"))
 
+    source_b3sum = (
+        os.environ.get("SOURCE_B3SUM") or old.get("source_b3sum", "")
+    )
+    converter_b3sum = (
+        os.environ.get("CONVERTER_B3SUM") or old.get("converter_b3sum", "")
+    )
+    source_changed = bool(
+        source_b3sum and source_b3sum != old.get("source_b3sum")
+    )
+
     generated_at = old.get("generated_at")
-    if content_changed or not generated_at:
+    if content_changed or source_changed or not generated_at:
         generated_at = datetime.now(timezone.utc).replace(
             microsecond=0
         ).isoformat().replace("+00:00", "Z")
 
     return {
         "source_url": os.environ.get("SOURCE_URL", SOURCE_URL),
+        "source_b3sum": source_b3sum,
+        "converter_b3sum": converter_b3sum,
         "generated_at": generated_at,
         "law_count": len(outputs),
         "source_file_count": len(files),
