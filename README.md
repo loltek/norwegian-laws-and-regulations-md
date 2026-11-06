@@ -4,6 +4,7 @@
 [![Update regulations](https://github.com/loltek/norwegian-laws-and-regulations-md/actions/workflows/update-regulations.yml/badge.svg?branch=main)](https://github.com/loltek/norwegian-laws-and-regulations-md/actions/workflows/update-regulations.yml)
 
 **[Browse all current Norwegian laws →](https://github.com/loltek/norwegian-laws-and-regulations-md/tree/main/lover)**
+
 **[Browse all current Norwegian regulations →](https://github.com/loltek/norwegian-laws-and-regulations-md/tree/main/forskrifter)**
 
 Current Norwegian laws, regulations, and related central instruments as clean,
