@@ -23,7 +23,7 @@
 - Chunk by `##` for chapters and `###` for sections.
 - Each file starts with a metadata block, including a `Kilde` URL.
 - Links are file-level. Exact section anchors are not implemented; such links point to Lovdata.
-- Use the dataset indexes to select documents before loading full files. `based_on` links a regulation to the statute provisions it implements.
+- Use the dataset indexes to select documents before loading full files. `based_on` links a regulation to the statute provisions it implements. Paths are relative to the repository root.
 - Use the dataset files to identify the exact source snapshots.
 - Treat Lovdata as authoritative and verify important details.
 

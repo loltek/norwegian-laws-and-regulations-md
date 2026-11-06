@@ -141,6 +141,9 @@ Start with `index.json`, which points at the two dataset indexes:
   source URLs, and excluded languages
 - `llms.txt` — short coverage and usage notes
 
+Paths in both indexes are relative to the repository root, even though each
+index lives in its dataset folder.
+
 Suggested chunking: split on `##` for chapters and `###` for sections. Each
 file starts with a metadata block and includes a `Kilde` URL.
 
