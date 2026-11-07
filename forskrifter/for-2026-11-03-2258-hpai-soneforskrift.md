@@ -8,7 +8,9 @@
 - **Hjemmel:** forskrift 06.04.2022 nr. 631/§25; lov 19.12.2003 nr. 124/§19; forskrift 19.12.2003 nr. 1790; forskrift 05.05.2004 nr. 884; forskrift 06.04.2022 nr. 634/§3; forskrift 07.04.2006 nr. 444
 - **Kunngjort:** 2026-11-04 14:50
 - **I kraft fra:** 2026-11-03
-- **Merknad:** Hjemmel: Fastsatt av Mattilsynet 3. november 2026 med hjemmel i forskrift 6. april 2022 nr. 631 om dyrehelse (dyrehelseforskriften) § 25, jf. lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 19, delegeringsvedtak 19. desember 2003 nr. 1790 og delegeringsvedtak 5. mai 2004 nr. 884, jf. forskrift 6. april 2022 nr. 634 som utfyller dyrehelseforskriften med bestemmelser om forebygging og bekjempelse av smittsomme dyresykdommer (dyresykdomsbekjempelsesforskriften) § 3 og delegeringsvedtak 7. april 2006 nr. 444.
+- **Siste endring i kraft:** 2026-11-05
+- **Sist endret ved:** forskrift 05.11.2026 nr. 2272
+- **Merknad:** Hjemmel: Fastsatt av Mattilsynet 3. november 2026 med hjemmel i forskrift 6. april 2022 nr. 631 om dyrehelse (dyrehelseforskriften) § 25, jf. lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 19, delegeringsvedtak 19. desember 2003 nr. 1790 og delegeringsvedtak 5. mai 2004 nr. 884, jf. forskrift 6. april 2022 nr. 634 som utfyller dyrehelseforskriften med bestemmelser om forebygging og bekjempelse av smittsomme dyresykdommer (dyresykdomsbekjempelsesforskriften) § 3 og delegeringsvedtak 7. april 2006 nr. 444. Endret ved forskrift 5 nov 2026 nr. 2272.
 - **Kilde:** <https://lovdata.no/forskrift/2026-11-03-2258>
 
 ## § 1. Formål og virkeområde
@@ -77,4 +79,6 @@ Denne forskrift trer i kraft straks.
 
 Vernesonen angis med liten sirkel med radius på 3 km på kartet og overvåkningssonen angis med stor sirkel med radius på 10km på kartet:
 
-![Kart over restriksjonssoner for HPAI.](https://lovdata.no/static/SF/sf-20261103-2258-01-01.png)
+![Kart over restriksjonssoner for HPAI.](https://lovdata.no/static/SF/sf-20261103-2258-01-02.png)
+
+*Endret ved forskrift [5 nov 2026 nr. 2272](https://lovdata.no/forskrift/2026-11-05-2272).*
