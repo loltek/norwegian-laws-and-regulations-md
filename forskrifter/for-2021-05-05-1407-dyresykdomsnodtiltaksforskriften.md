@@ -8,11 +8,11 @@
 - **Hjemmel:** lov 19.12.2003 nr. 124/§23; lov 19.12.2003 nr. 124/§12; lov 19.12.2003 nr. 124/§15; lov 19.12.2003 nr. 124/§19
 - **Kunngjort:** 2021-05-07 14:35
 - **I kraft fra:** 2021-05-05
-- **Siste endring i kraft:** 2025-08-14
-- **Sist endret ved:** forskrift 13.08.2025 nr. 1641 fra 2025-08-14
+- **Siste endring i kraft:** 2026-11-05
+- **Sist endret ved:** forskrift 05.11.2026 nr. 2276
 - **Gjelder for:** Norge
 - **Siste rettelse:** 2023-06-01 (forskriftens informasjonsdel oppdatert)
-- **Merknad:** Hjemmel: Fastsatt av Mattilsynet 5. mai 2021 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 23 tredje ledd jf. § 12, § 15 og § 19. EØS-henvisninger: EØS-avtalen vedlegg I kap. I innledende del nr. 3 (forordning (EU) 2023/594 med endringer, beslutning (EU) 2023/2447 med endringer, forordning (EU) 2021/934 med endringer og beslutning (EU) 2023/110 med endringer, og nr. 8 (beslutning (EU) 2022/575 med endringer). Endret ved forskrifter 15 juni 2021 nr. 1939, 17 aug 2021 nr. 2527, 27 april 2022 nr. 748 (bl.a. tittel), 20 jan 2023 nr. 64, 20 april 2023 nr. 524 (i kraft 21 april 2023), 28 april 2023 nr. 630 (i kraft 29 april 2023), 14 aug 2023 nr. 1321, 31 okt 2023 nr. 1746 (i kraft 1 nov 2023), 13 aug 2025 nr. 1641 (i kraft 14 aug 2025). Rettet 07.02.2023 (forskriftens informasjonsdel «Forordninger og beslutninger»), 01.06.2023 (forskriftens informasjonsdel oppdatert).
+- **Merknad:** Hjemmel: Fastsatt av Mattilsynet 5. mai 2021 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 23 tredje ledd jf. § 12, § 15 og § 19. EØS-henvisninger: EØS-avtalen vedlegg I kap. I innledende del nr. 3 (forordning (EU) 2023/594 med endringer, beslutning (EU) 2023/2447 med endringer og beslutning (EU) 2023/110 med endringer, og nr. 8 (beslutning (EU) 2022/575 med endringer). Endret ved forskrifter 15 juni 2021 nr. 1939, 17 aug 2021 nr. 2527, 27 april 2022 nr. 748 (bl.a. tittel), 20 jan 2023 nr. 64, 20 april 2023 nr. 524 (i kraft 21 april 2023), 28 april 2023 nr. 630 (i kraft 29 april 2023), 14 aug 2023 nr. 1321, 31 okt 2023 nr. 1746 (i kraft 1 nov 2023), 13 aug 2025 nr. 1641 (i kraft 14 aug 2025), 5 nov 2026 nr. 2276. Rettet 07.02.2023 (forskriftens informasjonsdel «Forordninger og beslutninger»), 01.06.2023 (forskriftens informasjonsdel oppdatert).
 - **Kilde:** <https://lovdata.no/forskrift/2021-05-05-1407>
 
 ## Kapittel I – Innledende bestemmelser
@@ -33,11 +33,9 @@ Bestemmelsene i forskriften kommer i tillegg til de generelle bestemmelsene i [d
 
 *Endret ved forskrifter [27 april 2022 nr. 748](https://lovdata.no/forskrift/2022-04-27-748), [20 april 2023 nr. 524](https://lovdata.no/forskrift/2023-04-20-524) (i kraft 21 april 2023).*
 
-### § 2-2. Beskyttelses- og bekjempelsestiltak mot klassisk svinepest
+### § 2-2. (Opphevet)
 
-[EØS-avtalens vedlegg I](https://lovdata.no/avtale/avt-1992-05-02-1-v1), kapittel I innledende del nr. 3 (forordning [(EU) 2021/934](https://lovdata.no/eu/32021r0934) med endringer) om særskilte kontrolltiltak mot klassisk svinepest, gjelder som forskrift med de tilpasninger som følger av protokoll 1 til avtalen og avtalen for øvrig.
-
-*Tilføyd ved forskrift [15 juni 2021 nr. 1939](https://lovdata.no/forskrift/2021-06-15-1939), endret ved forskrift [27 april 2022 nr. 748](https://lovdata.no/forskrift/2022-04-27-748).*
+*Tilføyd ved forskrift [15 juni 2021 nr. 1939](https://lovdata.no/forskrift/2021-06-15-1939), endret ved forskrift [27 april 2022 nr. 748](https://lovdata.no/forskrift/2022-04-27-748), opphevet ved forskrift [5 nov 2026 nr. 2276](https://lovdata.no/forskrift/2026-11-05-2276).*
 
 ### § 2-3. (Opphevet)
 
@@ -93,12 +91,10 @@ For å finne oppdatert versjon av forordningene og beslutningene gjennomført i 
 
 Beskyttelses- og bekjempelsestiltak mot afrikansk svinepest ([§ 2-1](for-2021-05-05-1407-dyresykdomsnodtiltaksforskriften.md)) jf. forordning [(EU) 2023/594](https://lovdata.no/eu/32023*0594) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/afrikansk-svinepest/tiltak-fra-eu-kommisjonen-mot-afrikansk-svinepest](https://www.mattilsynet.no/dyr/dyresykdommer/afrikansk-svinepest/tiltak-fra-eu-kommisjonen-mot-afrikansk-svinepest)
 
-Beskyttelses- og bekjempelsestiltak mot klassisk svinepest ([§ 2-2](for-2021-05-05-1407-dyresykdomsnodtiltaksforskriften.md)) jf. forordning [(EU) 2021/934](https://lovdata.no/eu/32021*0934) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/klassisk-svinepest/hva-gjores-for-a-bekjempe-klassisk-svinepest-i-europa](https://www.mattilsynet.no/dyr/dyresykdommer/klassisk-svinepest/hva-gjores-for-a-bekjempe-klassisk-svinepest-i-europa)
-
 Nødtiltak mot høypatogen fugleinfluensa [(§ 3-1)](for-2021-05-05-1407-dyresykdomsnodtiltaksforskriften.md) jf. beslutning [(EU) 2023/2447](https://lovdata.no/eu/32023d2447) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/fugleinfluensa/bekjempe-fugleinfluensa-i-europa](https://www.mattilsynet.no/dyr/dyresykdommer/fugleinfluensa/bekjempe-fugleinfluensa-i-europa).
 
 Nødtiltak mot liten kubebille ([§ 3-2](for-2021-05-05-1407-dyresykdomsnodtiltaksforskriften.md)) jf. beslutning [(EU) 2023/110](https://lovdata.no/eu/32023*0110) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/liten-kubebille/hva-gjores-for-a-bekjempe-liten-kubebille-i-europa](https://www.mattilsynet.no/dyr/dyresykdommer/liten-kubebille/hva-gjores-for-a-bekjempe-liten-kubebille-i-europa)
 
 Nødtiltak mot munn- og klauvsjuke ([§ 3-3](for-2021-05-05-1407-dyresykdomsnodtiltaksforskriften.md)) jf. beslutning [(EU) 2022/575](https://lovdata.no/eu/32022*0575) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/munn-og-klauvsyke/hva-gjores-for-a-hindre-introduksjon-av-munn-og-klauvsjuke-til-europa](https://www.mattilsynet.no/dyr/dyresykdommer/munn-og-klauvsyke/hva-gjores-for-a-hindre-introduksjon-av-munn-og-klauvsjuke-til-europa)
 
-*Rettet uten kunngjøring i Norsk Lovtidend 7. februar 2023, endret ved forskrift [20 april 2023 nr. 524](https://lovdata.no/forskrift/2023-04-20-524) (i kraft 21 april 2023), rettet uten kunngjøring i Norsk Lovtidend 1 juni 2023, endret ved forskrifter [14 aug 2023 nr. 1321](https://lovdata.no/forskrift/2023-08-14-1321), [31 okt 2023 nr. 1746](https://lovdata.no/forskrift/2023-10-31-1746) (i kraft 1 nov 2023), [13 aug 2025 nr. 1641](https://lovdata.no/forskrift/2025-08-13-1641) (i kraft 14 aug 2025).*
+*Rettet uten kunngjøring i Norsk Lovtidend 7. februar 2023, endret ved forskrift [20 april 2023 nr. 524](https://lovdata.no/forskrift/2023-04-20-524) (i kraft 21 april 2023), rettet uten kunngjøring i Norsk Lovtidend 1 juni 2023, endret ved forskrifter [14 aug 2023 nr. 1321](https://lovdata.no/forskrift/2023-08-14-1321), [31 okt 2023 nr. 1746](https://lovdata.no/forskrift/2023-10-31-1746) (i kraft 1 nov 2023), [13 aug 2025 nr. 1641](https://lovdata.no/forskrift/2025-08-13-1641) (i kraft 14 aug 2025), [5 nov 2026 nr. 2276](https://lovdata.no/forskrift/2026-11-05-2276).*

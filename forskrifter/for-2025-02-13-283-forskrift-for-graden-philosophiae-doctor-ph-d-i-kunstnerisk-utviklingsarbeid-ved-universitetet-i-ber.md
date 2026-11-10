@@ -10,7 +10,8 @@
 - **Siste endring i kraft:** 2025-08-25
 - **Sist endret ved:** forskrift 25.08.2025 nr. 1724
 - **Endrer:** forskrift 24.11.2022 nr. 2595
-- **Merknad:** Hjemmel: Fastsatt av styret ved Universitetet i Bergen 13. februar 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-4, § 11-1, § 11-6, § 11-7, § 13-1 og § 13-2. Endret ved forskrifter 16 juni 2025 nr. 1035, 25 aug 2025 nr. 1724.
+- **Siste rettelse:** 2026-11-09 (lenkefeil)
+- **Merknad:** Hjemmel: Fastsatt av styret ved Universitetet i Bergen 13. februar 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-4, § 11-1, § 11-6, § 11-7, § 13-1 og § 13-2. Endret ved forskrifter 16 juni 2025 nr. 1035, 25 aug 2025 nr. 1724. Rettet 09.11.2026 (lenkefeil).
 - **Kilde:** <https://lovdata.no/forskrift/2025-02-13-283>
 
 ## Del I. Innledende bestemmelser
@@ -217,7 +218,7 @@ Opplæringsdelen skal være gjennomført og godkjent før refleksjonen innlevere
 
 Opplæringsdelen skal gi stipendiaten kunnskap, ferdigheter og kompetanse i tråd med [nasjonalt kvalifikasjonsrammeverk](https://www.nokut.no/norsk-utdanning/nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/), og særlig rette seg mot dokumentasjon og formidling av kunstneriske resultater og refleksjon i kunstnerisk utviklingsarbeid, samt innføring i teori, metode, prosjektutvikling og etikk. Fakultetet fastsetter hvilke elementer som kan inngå i opplæringsdelen, krav til dokumentasjon og rangeringsregler for opptak til emner på ph.d.-nivå som tilbys ved fakultetet.
 
-Eksamener og obligatoriske aktiviteter knyttet til emner i opplæringsdelen er regulert av bestemmelsene om studier og eksamen i [studieforskriften ved Universitetet i Bergen](https://lovdata.no/lov/2023-06-15-1359) og [universitets- og høyskoleloven § 13-1 (1)](../lover/lov-2024-03-08-9-universitets-og-hoyskoleloven.md).
+Eksamener og obligatoriske aktiviteter knyttet til emner i opplæringsdelen er regulert av bestemmelsene om studier og eksamen i [studieforskriften ved Universitetet i Bergen](https://lovdata.no/forskrift/2023-06-15-1359) og [universitets- og høyskoleloven § 13-1 (1)](../lover/lov-2024-03-08-9-universitets-og-hoyskoleloven.md).
 
 Fakultetet fatter vedtak om godkjenning av opplæringsdelen. Fakultetet kan godkjenne at emner og andre faglige aktiviteter gjennomført utenfor Universitetet i Bergen inngår i opplæringsdelen. Emner på ph.d.-nivå ved annen institusjon skal godkjennes i samsvar med regler om studiepoengsuttelling i [universitets- og høyskolelovens § 9-1 (1)](../lover/lov-2024-03-08-9-universitets-og-hoyskoleloven.md) og [9-3 (3)](../lover/lov-2024-03-08-9-universitets-og-hoyskoleloven.md).
 

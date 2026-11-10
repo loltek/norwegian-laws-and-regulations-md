@@ -1,5 +1,5 @@
 {
-  "count": 5120,
+  "count": 5113,
   "documents": [
     {
       "based_on": [
@@ -36833,7 +36833,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2008-05-30-516",
-      "last_updated": "2026-10-01",
+      "last_updated": "2026-11-04",
       "legal_area": "",
       "ministry": "Arbeids- og inkluderingsdepartementet; Justis- og beredskapsdepartementet; Klima- og miljødepartementet",
       "path": "forskrifter/for-2008-05-30-516-reach-forskriften.md",
@@ -70294,7 +70294,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2021-05-05-1407",
-      "last_updated": "2025-08-14",
+      "last_updated": "2026-11-05",
       "legal_area": "",
       "ministry": "Landbruks- og matdepartementet",
       "path": "forskrifter/for-2021-05-05-1407-dyresykdomsnodtiltaksforskriften.md",
@@ -81895,83 +81895,8 @@
         "lov/1993-06-04-58/§5"
       ],
       "category": "sf",
-      "date_code": "FOR-2024-10-21-2534",
-      "last_updated": "2025-06-15",
-      "legal_area": "",
-      "ministry": "Arbeids- og inkluderingsdepartementet",
-      "path": "forskrifter/for-2024-10-21-2534-forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil.md",
-      "slug": "for-2024-10-21-2534-forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil",
-      "source_url": "https://lovdata.no/forskrift/2024-10-21-2534",
-      "title": "Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
-        "lov/1993-06-04-58/§5"
-      ],
-      "category": "sf",
-      "date_code": "FOR-2024-10-21-2535",
-      "last_updated": "2025-06-15",
-      "legal_area": "",
-      "ministry": "Arbeids- og inkluderingsdepartementet",
-      "path": "forskrifter/for-2024-10-21-2535-forskrift-om-delvis-allmenngjoring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien.md",
-      "slug": "for-2024-10-21-2535-forskrift-om-delvis-allmenngjoring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien",
-      "source_url": "https://lovdata.no/forskrift/2024-10-21-2535",
-      "title": "Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
-        "lov/1993-06-04-58/§5"
-      ],
-      "category": "sf",
-      "date_code": "FOR-2024-10-21-2536",
-      "last_updated": "2025-06-15",
-      "legal_area": "",
-      "ministry": "Arbeids- og inkluderingsdepartementet",
-      "path": "forskrifter/for-2024-10-21-2536-forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene.md",
-      "slug": "for-2024-10-21-2536-forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene",
-      "source_url": "https://lovdata.no/forskrift/2024-10-21-2536",
-      "title": "Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
-        "lov/1993-06-04-58/§5"
-      ],
-      "category": "sf",
-      "date_code": "FOR-2024-10-21-2543",
-      "last_updated": "2025-06-15",
-      "legal_area": "",
-      "ministry": "Arbeids- og inkluderingsdepartementet",
-      "path": "forskrifter/for-2024-10-21-2543-forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomhet.md",
-      "slug": "for-2024-10-21-2543-forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomhet",
-      "source_url": "https://lovdata.no/forskrift/2024-10-21-2543",
-      "title": "Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
-        "lov/1993-06-04-58/§5"
-      ],
-      "category": "sf",
-      "date_code": "FOR-2024-10-21-2544",
-      "last_updated": "2025-06-15",
-      "legal_area": "",
-      "ministry": "Arbeids- og inkluderingsdepartementet",
-      "path": "forskrifter/for-2024-10-21-2544-forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge.md",
-      "slug": "for-2024-10-21-2544-forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge",
-      "source_url": "https://lovdata.no/forskrift/2024-10-21-2544",
-      "title": "Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
-        "lov/1993-06-04-58/§5"
-      ],
-      "category": "sf",
       "date_code": "FOR-2024-10-21-2545",
-      "last_updated": "2025-06-15",
+      "last_updated": "2026-11-06",
       "legal_area": "",
       "ministry": "Arbeids- og inkluderingsdepartementet",
       "path": "forskrifter/for-2024-10-21-2545-forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-renholdsbedrifter.md",
@@ -82119,21 +82044,6 @@
       "slug": "for-2024-10-24-3634-forskrift-om-opptak-disiplinaere-sanksjoner-klagebestemmelser-og-eksamen-ved-lukas-hoyere-yrkesfagsk",
       "source_url": "https://lovdata.no/forskrift/2024-10-24-3634",
       "title": "Forskrift om opptak, disiplinære sanksjoner, klagebestemmelser og eksamen ved Lukas høyere yrkesfagskole AS",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
-        "lov/1993-06-04-58/§5"
-      ],
-      "category": "sf",
-      "date_code": "FOR-2024-10-29-2601",
-      "last_updated": "2025-06-15",
-      "legal_area": "",
-      "ministry": "Arbeids- og inkluderingsdepartementet",
-      "path": "forskrifter/for-2024-10-29-2601-forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-paa-vei.md",
-      "slug": "for-2024-10-29-2601-forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-paa-vei",
-      "source_url": "https://lovdata.no/forskrift/2024-10-29-2601",
-      "title": "Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei",
       "type": "regulation"
     },
     {
@@ -90297,21 +90207,6 @@
       "slug": "for-2026-04-09-579-forskrift-om-stenging-av-omraader-for-fiske-etter-sei-med-not",
       "source_url": "https://lovdata.no/forskrift/2026-04-09-579",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
-        "lov/1993-06-04-58/§5"
-      ],
-      "category": "sf",
-      "date_code": "FOR-2026-04-13-592",
-      "last_updated": "2026-05-01",
-      "legal_area": "",
-      "ministry": "Arbeids- og inkluderingsdepartementet",
-      "path": "forskrifter/for-2026-04-13-592-forskrift-om-delvis-allmenngjoring-av-biloverenskomsten.md",
-      "slug": "for-2026-04-13-592-forskrift-om-delvis-allmenngjoring-av-biloverenskomsten",
-      "source_url": "https://lovdata.no/forskrift/2026-04-13-592",
-      "title": "Forskrift om delvis allmenngjøring av biloverenskomsten",
       "type": "regulation"
     },
     {

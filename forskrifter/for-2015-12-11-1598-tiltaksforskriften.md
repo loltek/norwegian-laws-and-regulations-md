@@ -13,8 +13,8 @@
 - **Sist endret ved:** forskrift 18.12.2025 nr. 2918 fra 2026-09-01
 - **Endrer:** forskrift 12.12.2011 nr. 1362; forskrift 03.05.2007 nr. 495
 - **Gjelder for:** Norge
-- **Siste rettelse:** 2021-03-01 (tegnsetting i lister tilpasset universell utforming).
-- **Merknad:** Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 11. desember 2015, med hjemmel i lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) § 2, § 12 og § 13 og lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 14-9. EØS-henvisninger: EØS-avtalen vedlegg XV nr. 1h (beslutning 2012/21/EU). Endret ved forskrifter 23 jan 2016 nr. 57, 13 juni 2016 nr. 653, 19 sep 2016 nr. 1089, 7 des 2016 nr. 1526, 29 juni 2017 nr. 1084, 5 juli 2017 nr. 1159, 30 aug 2017 nr. 1322, 5 nov 2017 nr. 1943, 9 mai 2019 nr. 597, 12 aug 2019 nr. 1055, 12 des 2019 nr. 1765 (i kraft 1 jan 2020), 20 des 2019 nr. 2083 (i kraft 1 jan 2020), 23 feb 2021 nr. 556, 22 april 2021 nr. 1229, 27 mai 2022 nr. 932 (i kraft 1 sep 2022), 10 mai 2022 nr. 855 (i kraft 1 jan 2023), 2 jan 2025 nr. 1 (i kraft 10 jan 2025), 31 jan 2025 nr. 117 (i kraft 1 juli 2025), 30 juli 2025 nr. 1575 (i kraft 1 aug 2025), 26 aug 2025 nr. 1727 (i kraft 1 jan 2026, endring endret ved forskrift 10 sep 2025 nr. 1825), 18 des 2025 nr. 2693 (i kraft 1 jan 2026), 29 mars 2026 nr. 541, 18 des 2025 nr. 2918 (i kraft 1 sep 2026). Rettet 01.03.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Siste rettelse:** 2026-11-09 (lenke)
+- **Merknad:** Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 11. desember 2015, med hjemmel i lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) § 2, § 12 og § 13 og lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 14-9. EØS-henvisninger: EØS-avtalen vedlegg XV nr. 1h (beslutning 2012/21/EU). Endret ved forskrifter 23 jan 2016 nr. 57, 13 juni 2016 nr. 653, 19 sep 2016 nr. 1089, 7 des 2016 nr. 1526, 29 juni 2017 nr. 1084, 5 juli 2017 nr. 1159, 30 aug 2017 nr. 1322, 5 nov 2017 nr. 1943, 9 mai 2019 nr. 597, 12 aug 2019 nr. 1055, 12 des 2019 nr. 1765 (i kraft 1 jan 2020), 20 des 2019 nr. 2083 (i kraft 1 jan 2020), 23 feb 2021 nr. 556, 22 april 2021 nr. 1229, 27 mai 2022 nr. 932 (i kraft 1 sep 2022), 10 mai 2022 nr. 855 (i kraft 1 jan 2023), 2 jan 2025 nr. 1 (i kraft 10 jan 2025), 31 jan 2025 nr. 117 (i kraft 1 juli 2025), 30 juli 2025 nr. 1575 (i kraft 1 aug 2025), 26 aug 2025 nr. 1727 (i kraft 1 jan 2026, endring endret ved forskrift 10 sep 2025 nr. 1825), 18 des 2025 nr. 2693 (i kraft 1 jan 2026), 29 mars 2026 nr. 541, 18 des 2025 nr. 2918 (i kraft 1 sep 2026). Rettet 01.03.2021 (tegnsetting i lister tilpasset universell utforming), 09.11.2026 (lenke)
 - **Kilde:** <https://lovdata.no/forskrift/2015-12-11-1598>
 
 ## Kapittel 1. Fellesbestemmelser
@@ -942,7 +942,7 @@ Tilpasset lønn kan avtales mellom partene.
 
 ### § 14A-6. Krav til tilbydere av forsterket oppfølging
 
-Forhåndsgodkjent virksomhet kan gi tilbud om oppfølging, jf. [§ 14-5](../lover/lov-1997-02-28-19-folketrygdloven.md). Arbeids- og velferdsdirektoratet kan gi utfyllende retningslinjer om ytterligere krav til de forhåndsgodkjente virksomhetene.
+Forhåndsgodkjent virksomhet kan gi tilbud om oppfølging, jf. [§ 14-5](for-2015-12-11-1598-tiltaksforskriften.md). Arbeids- og velferdsdirektoratet kan gi utfyllende retningslinjer om ytterligere krav til de forhåndsgodkjente virksomhetene.
 
 Arbeids- og velferdsetaten kan gi oppfølging i egenregi, jf. [forskrift av 20. juni 2023 nr. 1073 om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi](for-2023-06-20-1073-forskrift-om-oppfolgingstiltak-i-arbeids-og-velferdsetatens-egenregi.md).
 

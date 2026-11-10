@@ -7,10 +7,10 @@
 - **Hjemmel:** lov 04.06.1993 nr. 58/§5
 - **Kunngjort:** 2024-10-24 15:20
 - **I kraft fra:** 2024-11-01
-- **Siste endring i kraft:** 2025-06-15
-- **Sist endret ved:** forskrift 28.05.2025 nr. 957 fra 2025-06-15
+- **Siste endring i kraft:** 2026-11-06
+- **Sist endret ved:** forskrift 22.10.2026 nr. 2231 fra 2026-11-06
 - **Endrer:** forskrift 09.12.2022 nr. 2169
-- **Merknad:** Hjemmel: Fastsatt av Tariffnemnda 21. oktober 2024 med hjemmel i lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven) § 5. Endret ved forskrift 28 mai 2025 nr. 957 (i kraft 15 juni 2025). Oppheves ved forskrift 22 okt 2026 nr. 2231 (i kraft 6 nov 2026).
+- **Merknad:** Hjemmel: Fastsatt av Tariffnemnda 21. oktober 2024 med hjemmel i lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven) § 5. Endret ved forskrift 28 mai 2025 nr. 957 (i kraft 15 juni 2025). Opphevet ved forskrift 22 okt 2026 nr. 2231 (i kraft 6 nov 2026).
 - **Kilde:** <https://lovdata.no/forskrift/2024-10-21-2545>
 
 ## Kap. I. Innledende bestemmelser
