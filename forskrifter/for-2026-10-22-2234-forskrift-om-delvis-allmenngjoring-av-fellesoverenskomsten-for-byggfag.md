@@ -57,4 +57,4 @@ Forskriften kommer ikke til anvendelse dersom arbeidstaker samlet sett er omfatt
 
 Forskriften trer i kraft 6. november 2026.
 
-[Forskrift 21. oktober 2024 nr. 2544 om delvis allmenngjøring av tariffavtale for byggeplasser i Norge](for-2024-10-21-2544-forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge.md) oppheves samtidig med ikrafttredelse av denne forskrift.
+[Forskrift 21. oktober 2024 nr. 2544 om delvis allmenngjøring av tariffavtale for byggeplasser i Norge](https://lovdata.no/forskrift/2024-10-21-2544) oppheves samtidig med ikrafttredelse av denne forskrift.

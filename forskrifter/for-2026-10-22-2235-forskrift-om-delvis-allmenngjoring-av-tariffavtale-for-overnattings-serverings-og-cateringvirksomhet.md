@@ -50,4 +50,4 @@ Forskriften kommer ikke til anvendelse dersom arbeidstaker samlet sett er omfatt
 
 Forskriften trer i kraft 6. november 2026.
 
-[Forskrift 21. oktober 2024 nr. 2543 om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](for-2024-10-21-2543-forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomhet.md) oppheves samtidig med ikrafttredelse av denne forskrift.
+[Forskrift 21. oktober 2024 nr. 2543 om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](https://lovdata.no/forskrift/2024-10-21-2543) oppheves samtidig med ikrafttredelse av denne forskrift.

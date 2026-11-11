@@ -75,4 +75,4 @@ Forskriften kommer ikke til anvendelse dersom arbeidstaker samlet sett er omfatt
 
 Forskriften trer i kraft 6. november 2026.
 
-[Forskrift 21. oktober 2024 nr. 2536 om delvis allmenngjøring av Landsoverenskomsten for elektrofagene](for-2024-10-21-2536-forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene.md) oppheves samtidig med ikrafttredelse av denne forskrift.
+[Forskrift 21. oktober 2024 nr. 2536 om delvis allmenngjøring av Landsoverenskomsten for elektrofagene](https://lovdata.no/forskrift/2024-10-21-2536) oppheves samtidig med ikrafttredelse av denne forskrift.

@@ -41,4 +41,4 @@ Forskriften kommer ikke til anvendelse dersom arbeidstaker samlet sett er omfatt
 
 Forskriften trer i kraft 6. november 2026.
 
-[Forskrift 21. oktober 2024 nr. 2534 om delvis allmenngjøring av tariffavtaler for persontransport med turbil](for-2024-10-21-2534-forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil.md) oppheves samtidig med ikrafttredelse av denne forskrift.
+[Forskrift 21. oktober 2024 nr. 2534 om delvis allmenngjøring av tariffavtaler for persontransport med turbil](https://lovdata.no/forskrift/2024-10-21-2534) oppheves samtidig med ikrafttredelse av denne forskrift.

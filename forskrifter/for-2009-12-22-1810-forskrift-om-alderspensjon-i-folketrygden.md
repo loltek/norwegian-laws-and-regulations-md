@@ -11,8 +11,8 @@
 - **Siste endring i kraft:** 2025-01-01
 - **Sist endret ved:** forskrift 20.12.2024 nr. 3324 fra 2025-01-01
 - **Gjelder for:** Norge
-- **Siste rettelse:** 2023-04-14 (matematiske formler i § 2-6 og kapittel 4 vedlegget tilpasset universell utforming)
-- **Merknad:** Hjemmel: Fastsatt av Arbeids- og inkluderingsdepartementet 22. desember 2009 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 3-3, § 3-16, § 19-7, § 19-8, § 19-9a tredje ledd, § 19-13, § 19-14, § 19-16, § 20-6, § 20-7, § 20-7a, § 20-8, § 20-13, § 20-17, § 20-18, § 20-20 og § 20-21, lov 5. juni 2009 nr. 32 om endringer i folketrygdloven (ny alderspensjon) avsnitt II niende ledd og lov 18. desember 2015 nr. 103 om endringer i folketrygdloven og enkelte andre lover (økning i grunnpensjon til gifte og samboende pensjonister og andre endringer) del X nr. 4. Endret ved forskrifter 30 nov 2010 nr. 1502, 19 des 2011 nr. 1404, 31 juli 2012 nr. 769, 10 mars 2014 nr. 259, 18 des 2014 nr. 1773, 30 juni 2016 nr. 853, 8 sep 2017 nr. 1381, 29 juni 2018 nr. 1097, 1 april 2022 nr. 523, 21 juni 2023 nr. 1008 (i kraft 1 jan 2024), 20 des 2024 nr. 3324 (i kraft 1 jan 2025). Rettet 08.01.2015 (§ 2-5 og § 5-8), 14.04.2023 (matematiske formler i § 2-6 og kapittel 4 vedlegget tilpasset universell utforming).
+- **Siste rettelse:** 2026-11-10 (henvisning til endringsforskrift)
+- **Merknad:** Hjemmel: Fastsatt av Arbeids- og inkluderingsdepartementet 22. desember 2009 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 3-3, § 3-16, § 19-7, § 19-8, § 19-9a tredje ledd, § 19-13, § 19-14, § 19-16, § 20-6, § 20-7, § 20-7a, § 20-8, § 20-13, § 20-17, § 20-18, § 20-20 og § 20-21, lov 5. juni 2009 nr. 32 om endringer i folketrygdloven (ny alderspensjon) avsnitt II niende ledd og lov 18. desember 2015 nr. 103 om endringer i folketrygdloven og enkelte andre lover (økning i grunnpensjon til gifte og samboende pensjonister og andre endringer) del X nr. 4. Endret ved forskrifter 30 nov 2010 nr. 1502, 19 des 2011 nr. 1404, 31 juli 2012 nr. 769, 10 mars 2014 nr. 259, 18 des 2014 nr. 1773, 30 juni 2016 nr. 853, 8 sep 2017 nr. 1381, 29 juni 2018 nr. 1097, 1 april 2022 nr. 523, 21 juni 2023 nr. 1008 (i kraft 1 jan 2024), 20 des 2024 nr. 3324 (i kraft 1 jan 2025). Rettet 08.01.2015 (§ 2-5 og § 5-8), 14.04.2023 (matematiske formler i § 2-6 og kapittel 4 vedlegget tilpasset universell utforming), 10.11.2026 (henvisning til endringsforskrift).
 - **Kilde:** <https://lovdata.no/forskrift/2009-12-22-1810>
 
 ## Kapittel 1. Innledende bestemmelser
@@ -283,7 +283,7 @@ For personer født i 1944 som mottok uførepensjon ved 67 år, utbetales skjermi
 
 For personer født i perioden 1954 til og med november 1957 som mottok uføretrygd ved 67 år, utbetales skjermingstillegget fra januar 2025. Skjermingstillegget fastsettes på samme måte som for øvrige årskull, men i stedet for basispensjon og basispensjonstillegg ved 67 år benyttes basispensjon og basispensjonstillegg per januar 2025.
 
-*Tilføyd ved [forskrift 19 des 2011 nr. 1404](https://lovdata.no/forskrift/2011-12-19-1404) (i kraft 1 feb 2012), endret ved [forskrifter 31 juli 2012 nr. 769](https://lovdata.no/forskrift/2012-07-31-769), [18 des 2014 nr. 1773](https://lovdata.no/forskrift/2014-12-18-1773) (i kraft 1 jan 2015), [29 juni 2018 nr. 1097](https://lovdata.no/forskrift/2018-06-29-1097) (i kraft 1 jan 2019), [19 des 2024 nr. 3293](https://lovdata.no/forskrift/2024-12-20-3324) (i kraft 1 jan 2025).*
+*Tilføyd ved [forskrift 19 des 2011 nr. 1404](https://lovdata.no/forskrift/2011-12-19-1404) (i kraft 1 feb 2012), endret ved [forskrifter 31 juli 2012 nr. 769](https://lovdata.no/forskrift/2012-07-31-769), [18 des 2014 nr. 1773](https://lovdata.no/forskrift/2014-12-18-1773) (i kraft 1 jan 2015), [29 juni 2018 nr. 1097](https://lovdata.no/forskrift/2018-06-29-1097) (i kraft 1 jan 2019), [20 des 2024 nr. 3324](https://lovdata.no/forskrift/2024-12-20-3324) (i kraft 1 jan 2025).*
 
 ### Vedlegg
 

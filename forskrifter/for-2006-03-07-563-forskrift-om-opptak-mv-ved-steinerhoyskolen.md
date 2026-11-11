@@ -12,8 +12,8 @@
 - **Siste endring i kraft:** 2016-04-19
 - **Sist endret ved:** forskrift 19.04.2016 nr. 574
 - **Gjelder for:** Norge
-- **Siste rettelse:** 2016-11-02 (tittel)
-- **Merknad:** Hjemmel: Fastsatt av styret for Steinerhøyskolen 7. mars 2006 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler § 3-3, § 3-4, § 3-5, § 3-6, § 3-7, § 3-8, § 3-9, § 3-10, § 3-11, § 4-2, § 4-5, § 4-7, § 4-8, § 5-1 og § 7-1 og forskrift 10. oktober 2005 nr. 1191 om opptak til universiteter og høyskoler. Tilføyd hjemmel: Forskrift 31. januar 2007 nr. 173 om opptak til høyere utdanning. Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3. Endret ved forskrift 19 april 2016 nr. 574 (forskriften gjengitt i sin helhet etter endringer). Rettelser: 02.11.2016 (tittel)
+- **Siste rettelse:** 2026-11-10 (§ 12 femte og sjette ledd)
+- **Merknad:** Hjemmel: Fastsatt av styret for Steinerhøyskolen 7. mars 2006 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler § 3-3, § 3-4, § 3-5, § 3-6, § 3-7, § 3-8, § 3-9, § 3-10, § 3-11, § 4-2, § 4-5, § 4-7, § 4-8, § 5-1 og § 7-1 og forskrift 10. oktober 2005 nr. 1191 om opptak til universiteter og høyskoler. Tilføyd hjemmel: Forskrift 31. januar 2007 nr. 173 om opptak til høyere utdanning. Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3. Endret ved forskrift 19 april 2016 nr. 574 (forskriften gjengitt i sin helhet etter endringer). Rettelser: 02.11.2016 (tittel), 10.11.2026 (§ 12 femte og sjette ledd).
 - **Kilde:** <https://lovdata.no/forskrift/2006-03-07-563>
 
 ## Kapittel I: Generelle bestemmelser

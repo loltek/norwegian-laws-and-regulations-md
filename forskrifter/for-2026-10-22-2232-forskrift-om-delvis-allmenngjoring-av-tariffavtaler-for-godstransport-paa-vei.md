@@ -59,4 +59,4 @@ Forskriften kommer ikke til anvendelse dersom arbeidstaker samlet sett er omfatt
 
 Forskriften trer i kraft 6. november 2026.
 
-[Forskrift 29. oktober 2024 nr. 2601 om delvis allmenngjøring av tariffavtaler for godstransport på vei](for-2024-10-29-2601-forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-paa-vei.md) oppheves samtidig med ikrafttredelse av denne forskrift.
+[Forskrift 29. oktober 2024 nr. 2601 om delvis allmenngjøring av tariffavtaler for godstransport på vei](https://lovdata.no/forskrift/2024-10-29-2601) oppheves samtidig med ikrafttredelse av denne forskrift.

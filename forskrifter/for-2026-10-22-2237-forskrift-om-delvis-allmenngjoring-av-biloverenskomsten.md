@@ -48,4 +48,4 @@ Forskriften gjelder ikke dersom arbeidstaker samlet sett har gunstigere lønns- 
 
 Forskriften trer i kraft 6. november 2026.
 
-[Forskrift 13. april 2026 nr. 592 om delvis allmenngjøring av biloverenskomsten](for-2026-04-13-592-forskrift-om-delvis-allmenngjoring-av-biloverenskomsten.md) oppheves samtidig med ikrafttredelse av denne forskrift.
+[Forskrift 13. april 2026 nr. 592 om delvis allmenngjøring av biloverenskomsten](https://lovdata.no/forskrift/2026-04-13-592) oppheves samtidig med ikrafttredelse av denne forskrift.

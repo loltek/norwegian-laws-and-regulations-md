@@ -117,4 +117,4 @@ Forskriften kommer ikke til anvendelse dersom arbeidstaker samlet sett er omfatt
 
 Forskriften trer i kraft 6. november 2026.
 
-[Forskrift 21. oktober 2024 nr. 2535 om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien](for-2024-10-21-2535-forskrift-om-delvis-allmenngjoring-av-industrioverenskomsten-vo-delen-for-skips-og-verftsindustrien.md) oppheves samtidig med ikrafttredelse av denne forskrift.
+[Forskrift 21. oktober 2024 nr. 2535 om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien](https://lovdata.no/forskrift/2024-10-21-2535) oppheves samtidig med ikrafttredelse av denne forskrift.
