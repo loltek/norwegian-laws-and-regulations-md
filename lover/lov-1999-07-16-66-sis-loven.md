@@ -9,7 +9,7 @@
 - **Sist endret ved:** lov 12.06.2026 nr. 31 fra 2026-06-12
 - **Rettsområde:** EU/EØS-rett > Schengen; Forvaltnings- og kommunalrett > Politi; Stats-, statsforfatnings- og statsborgerrett > Fremmedrett
 - **EU/EØS-henvisning:** Schengen-avtalen forordning (EU) 2018/1860, forordning (EU) 2018/1861, forordning (EU) 2018/1862.
-- **Siste rettelse:** 2022-03-31 (tegnsetting i lister tilpasset universell utforming)
+- **Siste rettelse:** 2026-11-09 (dato i enkelte fotnoter)
 - **Kilde:** <https://lovdata.no/lov/1999-07-16-66>
 
 ## Kapittel 1 Generelle bestemmelser
