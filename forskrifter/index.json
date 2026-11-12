@@ -1,5 +1,5 @@
 {
-  "count": 5113,
+  "count": 5115,
   "documents": [
     {
       "based_on": [
@@ -29478,11 +29478,12 @@
         "forskrift/2007-06-29-824",
         "forskrift/2012-05-25-459",
         "forskrift/2023-12-15-2047",
-        "forskrift/2025-06-20-1132"
+        "forskrift/2025-06-20-1132",
+        "forskrift/2026-06-19-1138"
       ],
       "category": "sf",
       "date_code": "FOR-2004-12-23-1851",
-      "last_updated": "2026-08-28",
+      "last_updated": "2026-11-05",
       "legal_area": "",
       "ministry": "Klima- og miljødepartementet",
       "path": "forskrifter/for-2004-12-23-1851-klimakvoteforskriften.md",
@@ -93078,6 +93079,48 @@
       "slug": "for-2026-11-03-2261-forskrift-om-endring-i-forskrift-om-nasjonal-losning-for-tilgjengeliggjoring-av-helsedata",
       "source_url": "https://lovdata.no/forskrift/2026-11-03-2261",
       "title": "Forskrift om endring i forskrift om nasjonal løsning for tilgjengeliggjøring av helsedata",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "forskrift/1999-12-16-1342/§7",
+        "lov/1976-12-17-91/§4",
+        "lov/1976-12-17-91/§6",
+        "forskrift/1980-05-23-4",
+        "lov/2008-06-06-37/§16",
+        "lov/2008-06-06-37/§34",
+        "lov/2008-06-06-37/§35",
+        "lov/2008-06-06-37/§36",
+        "lov/2008-06-06-37/§37",
+        "lov/2008-06-06-37/§39",
+        "lov/2008-06-06-37/§43",
+        "lov/2008-06-06-37/§59"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-09-2305",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Nærings- og fiskeridepartementet",
+      "path": "forskrifter/for-2026-11-09-2305-forskrift-om-endring-i-forskrift-om-satelittbasert-overvaaking-av-utenlandske-fiskefartoys-aktivitet.md",
+      "slug": "for-2026-11-09-2305-forskrift-om-endring-i-forskrift-om-satelittbasert-overvaaking-av-utenlandske-fiskefartoys-aktivitet",
+      "source_url": "https://lovdata.no/forskrift/2026-11-09-2305",
+      "title": "Forskrift om endring i forskrift om satelittbasert overvåking av utenlandske fiskefartøys aktivitet i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/1981-03-13-6/§9",
+        "forskrift/2004-06-01-931/§2-13"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-09-2306",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Klima- og miljødepartementet",
+      "path": "forskrifter/for-2026-11-09-2306-endr-i-forurensningsforskriften.md",
+      "slug": "for-2026-11-09-2306-endr-i-forurensningsforskriften",
+      "source_url": "https://lovdata.no/forskrift/2026-11-09-2306",
+      "title": "Forskrift om endring i forurensningsforskriften (endring av normverdier forurenset grunn)",
       "type": "regulation"
     }
   ]

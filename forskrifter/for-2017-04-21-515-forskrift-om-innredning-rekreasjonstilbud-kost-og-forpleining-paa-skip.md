@@ -11,7 +11,8 @@
 - **Sist endret ved:** forskrift 26.06.2025 nr. 1372
 - **Endrer:** forskrift 15.09.1992 nr. 707
 - **Gjelder for:** Norge
-- **Merknad:** Hjemmel: Fastsatt av Sjøfartsdirektoratet 21. april 2017 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2, § 6, § 9, § 21, § 22, § 25, § 26, § 28a, § 29, § 30, § 43 og § 47, jf. delegeringsvedtak 16. februar 2007 nr. 171, delegeringsvedtak 31. mai 2007 nr. 590. Tilføyd hjemmel: Delegeringsvedtak 19. august 2013 nr. 1002. Endret ved forskrifter 23 jan 2020 nr. 71 (i kraft 1 feb 2020), 26 juni 2025 nr. 1372.
+- **Siste rettelse:** 2026-11-11 (formateringsfeil § 31 fjerde ledd)
+- **Merknad:** Hjemmel: Fastsatt av Sjøfartsdirektoratet 21. april 2017 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2, § 6, § 9, § 21, § 22, § 25, § 26, § 28a, § 29, § 30, § 43 og § 47, jf. delegeringsvedtak 16. februar 2007 nr. 171, delegeringsvedtak 31. mai 2007 nr. 590. Tilføyd hjemmel: Delegeringsvedtak 19. august 2013 nr. 1002. Endret ved forskrifter 23 jan 2020 nr. 71 (i kraft 1 feb 2020), 26 juni 2025 nr. 1372. Rettelse: 11.11.2026 (formateringsfeil § 31 fjerde ledd)
 - **Kilde:** <https://lovdata.no/forskrift/2017-04-21-515>
 
 ## Kapittel 1. Innledende bestemmelser

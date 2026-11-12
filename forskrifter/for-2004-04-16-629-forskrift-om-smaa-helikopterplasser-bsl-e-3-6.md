@@ -12,7 +12,8 @@
 - **Siste endring i kraft:** 2008-02-22
 - **Sist endret ved:** forskrift 22.02.2008 nr. 196
 - **Gjelder for:** Norge
-- **Merknad:** Hjemmel: Fastsatt av Luftfartstilsynet 16. april 2004 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 7-1, jf. delegeringsvedtak 10. desember 1999 nr. 1273. Endret ved forskrift 22 feb 2008 nr. 196.
+- **Siste rettelse:** 2026-11-11 (nummerering av ledd i § 24)
+- **Merknad:** Hjemmel: Fastsatt av Luftfartstilsynet 16. april 2004 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 7-1, jf. delegeringsvedtak 10. desember 1999 nr. 1273. Endret ved forskrift 22 feb 2008 nr. 196. Rettet 11.11.2026 (nummerering av ledd i § 24).
 - **Kilde:** <https://lovdata.no/forskrift/2004-04-16-629>
 
 Vedlegg 1 til 3 (illustrasjoner) gjelder som forskrift.

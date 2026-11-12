@@ -12,8 +12,8 @@
 - **Sist endret ved:** forskrift 23.06.2025 nr. 1190
 - **Endrer:** forskrift 10.12.2004 nr. 1641
 - **Gjelder for:** Norge
-- **Siste rettelse:** 2021-06-28 (§ 65a første komma)
-- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 19. desember 2008 med hjemmel i lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (sameloven) § 2-1, § 2-4, § 2-7 og § 2-11. Fremmet av Arbeids- og inkluderingsdepartementet. Tilføyd hjemmel: Delegeringsvedtak 10. desember 2004 nr. 1607. Omorganiseringsvedtak 18. desember 2009 nr. 1582. Endret ved forskrifter 15 mai 2009 nr. 514, 6 mai 2011 nr. 459, 19 des 2012 nr. 1333, 16 aug 2013 nr. 983, 13 feb 2017 nr. 174, 18 des 2020 nr. 2992, 9 juni 2021 nr. 1828, 9 juni 2021 nr. 1829, 18 des 2020 nr. 2992 (i kraft 1 jan 2022), 9 juni 2021 nr. 1829 (i kraft 1 jan 2022), 5 nov 2024 nr. 2663, 23 juni 2025 nr. 1190. Rettelser: 27.08.2013 (§ 36 skrivefeil), 22.03.2017 (samisk oversettelse tilføyd), 09.06.2021 (tegnsetting i lister tilpasset universell utforming), 28.06.2021 (§ 65a første komma).
+- **Siste rettelse:** 2026-11-11 (formateringsfeil § 69 andre ledd).
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 19. desember 2008 med hjemmel i lov 12. juni 1987 nr. 56 om Sametinget og andre samiske rettsforhold (sameloven) § 2-1, § 2-4, § 2-7 og § 2-11. Fremmet av Arbeids- og inkluderingsdepartementet. Tilføyd hjemmel: Delegeringsvedtak 10. desember 2004 nr. 1607. Omorganiseringsvedtak 18. desember 2009 nr. 1582. Endret ved forskrifter 15 mai 2009 nr. 514, 6 mai 2011 nr. 459, 19 des 2012 nr. 1333, 16 aug 2013 nr. 983, 13 feb 2017 nr. 174, 18 des 2020 nr. 2992, 9 juni 2021 nr. 1828, 9 juni 2021 nr. 1829, 18 des 2020 nr. 2992 (i kraft 1 jan 2022), 9 juni 2021 nr. 1829 (i kraft 1 jan 2022), 5 nov 2024 nr. 2663, 23 juni 2025 nr. 1190. Rettelser: 27.08.2013 (§ 36 skrivefeil), 22.03.2017 (samisk oversettelse tilføyd), 09.06.2021 (tegnsetting i lister tilpasset universell utforming), 28.06.2021 (§ 65a første komma), 11.11.2026 (formateringsfeil § 69 andre ledd).
 - **Kilde:** <https://lovdata.no/forskrift/2008-12-19-1480>
 
 ## Kapittel 1. Forskriftens formål og virkeområde
@@ -749,8 +749,7 @@ c. Sør-Norge valgkrets skal likevel ikke tildeles flere mandater enn valgkretse
 
 (1) Når det er avgjort hvor mange mandater en valgliste skal ha, fordeler opptellingsvalgstyret disse til kandidatene på listen. Kandidater som ikke er valgbare settes ut av betraktning.
 
-(2) Kandidatkåringen foregår på følgende måte:
-
+(2) Kandidatkåringen foregår på følgende måte:  
 Først telles de navn som er oppført som nr. 1 på stemmesedlene. Den kandidaten som har flest oppføringer blir valgt. Deretter telles de navn som er oppført som nr. 2 på stemmesedlene. Den kandidaten som har flest oppføringer når man legger sammen resultatene fra første og andre opptelling, blir valgt. Opptellingene fortsetter på samme måte inntil alle de representantplassene listen skal ha, er besatt. Oppnår flere kandidater samme resultat, er den opprinnelige rekkefølgen på listen avgjørende.
 
 (3) Hver liste skal så vidt mulig tildeles så mange vararepresentanter som den får representanter, med tillegg av tre. Vararepresentantplassene fordeles på samme måte som representantene.
