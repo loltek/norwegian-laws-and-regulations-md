@@ -338,7 +338,7 @@ Tillatelser til og pålegg om oppgraving, behandling og annen håndtering av for
 | TBT | 0,015 |
 | TPHT | 0,015 |
 
-*Endret ved forskrifter [22 juni 2009 nr. 827](https://lovdata.no/forskrift/2009-06-22-827) (i kraft 1 juli 2009), [26 feb 2013 nr. 1055](https://lovdata.no/forskrift/2013-02-26-1055) (i kraft 1 juni 2013). **Endres** ved forskrift [9 nov 2026 nr. 2306](https://lovdata.no/forskrift/2026-11-09-2306) (i krat 1 jan 2027).*
+*Endret ved forskrifter [22 juni 2009 nr. 827](https://lovdata.no/forskrift/2009-06-22-827) (i kraft 1 juli 2009), [26 feb 2013 nr. 1055](https://lovdata.no/forskrift/2013-02-26-1055) (i kraft 1 juni 2013). **Endres** ved forskrift [9 nov 2026 nr. 2306](for-2026-11-09-2306-endr-i-forurensningsforskriften.md) (i krat 1 jan 2027).*
 
 ### Kapittel 3. [Forurensningslovens](../lover/lov-1981-03-13-6-forurensningsloven.md) anvendelse for havner
 

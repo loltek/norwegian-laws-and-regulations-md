@@ -13,7 +13,7 @@
 
 ## § 1. Grunnlaget for allmenngjøring
 
-Forskriften er fastsatt på grunnlag av Bussbransjeavtalen av 2026–2028 mellom Næringslivets Hovedorganisasjon og NHO Transport på den ene side og Yrkesorganisasjonenes Sentralforbund og Yrkestrafikkforbundet på den annen side og Bussbransjeavtalen 2026–2028 mellom Næringslivets Hovedorganisasjon og NHO Transport på den ene side og Landsorganisasjonen i Norge og Fellesforbundet på den annen side.
+Forskriften er fastsatt på grunnlag av Bussbransjeavtalen av 2026–2028 mellom Næringslivets Hovedorganisasjon og NHO Transport på den ene side og Yrkesorganisasjonenes Sentralforbund og Yrkestrafikkforbundet på den annen side og [Bussbransjeavtalen 2026–2028](https://lovdata.no/tariff/taro-501-2026) mellom Næringslivets Hovedorganisasjon og NHO Transport på den ene side og Landsorganisasjonen i Norge og Fellesforbundet på den annen side.
 
 ## § 2. Virkeområde
 

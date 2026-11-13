@@ -27,7 +27,7 @@ e. Øvrige utenlandske fiskefartøy uavhengig av lengde.
 
 Med fiskefartøy forstås fartøy av ethvert slag som er utstyrt for eller driver fiske og fangst i ervervsøyemed, eller fartøy som bistår fiskeflåten, herunder transportfartøy som mottar fangst og lete- og forsøksfartøy.
 
-*Endret ved [forskrifter 21 feb 2001 nr. 167](https://lovdata.no/forskrift/2001-02-21-167), [23 sep 2002 nr. 1060](https://lovdata.no/forskrift/2002-09-23-1060), [9 juli 2004 nr. 1119](https://lovdata.no/forskrift/2004-07-09-1119), [17 feb 2005 nr. 155](https://lovdata.no/forskrift/2005-02-17-155) (i kraft 1 mars 2005), [23 jan 2012 nr. 88](https://lovdata.no/forskrift/2012-01-23-88), [29 april 2020 nr. 895](https://lovdata.no/forskrift/2020-04-29-895) (i kraft 1 juni 2020), [19 jan 2022 nr. 94](https://lovdata.no/forskrift/2022-01-19-94). **Endres** ved forskrift [9 nov 2026 nr. 2305](https://lovdata.no/forskrift/2026-11-09-2305) (i kraft 1 jan 2027).*
+*Endret ved [forskrifter 21 feb 2001 nr. 167](https://lovdata.no/forskrift/2001-02-21-167), [23 sep 2002 nr. 1060](https://lovdata.no/forskrift/2002-09-23-1060), [9 juli 2004 nr. 1119](https://lovdata.no/forskrift/2004-07-09-1119), [17 feb 2005 nr. 155](https://lovdata.no/forskrift/2005-02-17-155) (i kraft 1 mars 2005), [23 jan 2012 nr. 88](https://lovdata.no/forskrift/2012-01-23-88), [29 april 2020 nr. 895](https://lovdata.no/forskrift/2020-04-29-895) (i kraft 1 juni 2020), [19 jan 2022 nr. 94](https://lovdata.no/forskrift/2022-01-19-94). **Endres** ved forskrift [9 nov 2026 nr. 2305](for-2026-11-09-2305-forskrift-om-endring-i-forskrift-om-satelittbasert-overvaaking-av-utenlandske-fiskefartoys-aktivitet.md) (i kraft 1 jan 2027).*
 
 ## § 2. Sporing
 
@@ -46,7 +46,7 @@ d. fart og kurs i rapporteringsøyeblikket.
 
 Fiskeridirektoratet kan fastsette nærmere regler om vidererapportering til Fiskeridirektoratet av meldinger i henhold til denne bestemmelse.
 
-*Endret ved [forskrifter 23 sep 2002 nr. 1060](https://lovdata.no/forskrift/2002-09-23-1060), [9 juli 2004 nr. 1119](https://lovdata.no/forskrift/2004-07-09-1119). **Endres** ved forskrift [9 nov 2026 nr. 2305](https://lovdata.no/forskrift/2026-11-09-2305) (i kraft 1 jan 2027).*
+*Endret ved [forskrifter 23 sep 2002 nr. 1060](https://lovdata.no/forskrift/2002-09-23-1060), [9 juli 2004 nr. 1119](https://lovdata.no/forskrift/2004-07-09-1119). **Endres** ved forskrift [9 nov 2026 nr. 2305](for-2026-11-09-2305-forskrift-om-endring-i-forskrift-om-satelittbasert-overvaaking-av-utenlandske-fiskefartoys-aktivitet.md) (i kraft 1 jan 2027).*
 
 ## § 3. Utstyr
 
@@ -73,7 +73,7 @@ d. satellittsporingsutstyret ikke fjernes fra fartøyet.
 
 Dersom det oppstår feil i forbindelse med satellittsporing, slik at Fiskeridirektoratet ikke mottar meldingene som nevnt i [§ 2](for-1999-12-16-1342-forskrift-om-satellittovervaakning-av-fiskefartoy.md), skal fartøyene minst en gang hver tolvte time sende slik melding via telefax. Fartøy som fører flagg fra Storbritannia og fartøy som fører flagg fra medlemsland i Den europeiske union skal sende slik melding minst en gang hver fjerde time. Dette gjelder også inngangs- og utgangsmelding som nevnt i [§ 2](for-1999-12-16-1342-forskrift-om-satellittovervaakning-av-fiskefartoy.md).
 
-*Endret ved [forskrifter 9 juli 2004 nr. 1119](https://lovdata.no/forskrift/2004-07-09-1119) (tidligere § 4), [23 jan 2012 nr. 88](https://lovdata.no/forskrift/2012-01-23-88), [19 jan 2022 nr. 94](https://lovdata.no/forskrift/2022-01-19-94). **Endres** ved forskrift [9 nov 2026 nr. 2305](https://lovdata.no/forskrift/2026-11-09-2305) (i kraft 1 jan 2027).*
+*Endret ved [forskrifter 9 juli 2004 nr. 1119](https://lovdata.no/forskrift/2004-07-09-1119) (tidligere § 4), [23 jan 2012 nr. 88](https://lovdata.no/forskrift/2012-01-23-88), [19 jan 2022 nr. 94](https://lovdata.no/forskrift/2022-01-19-94). **Endres** ved forskrift [9 nov 2026 nr. 2305](for-2026-11-09-2305-forskrift-om-endring-i-forskrift-om-satelittbasert-overvaaking-av-utenlandske-fiskefartoys-aktivitet.md) (i kraft 1 jan 2027).*
 
 ## § 6. Krav til utbedring av feil
 

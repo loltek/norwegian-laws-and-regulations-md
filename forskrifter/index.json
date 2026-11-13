@@ -1,5 +1,5 @@
 {
-  "count": 5115,
+  "count": 5116,
   "documents": [
     {
       "based_on": [
@@ -62425,7 +62425,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2018-12-19-2145",
-      "last_updated": "2025-11-27",
+      "last_updated": "2026-11-10",
       "legal_area": "",
       "ministry": "Finansdepartementet",
       "path": "forskrifter/for-2018-12-19-2145-forskrift-til-lov-om-bankenes-sikringsfond.md",
@@ -93121,6 +93121,21 @@
       "slug": "for-2026-11-09-2306-endr-i-forurensningsforskriften",
       "source_url": "https://lovdata.no/forskrift/2026-11-09-2306",
       "title": "Forskrift om endring i forurensningsforskriften (endring av normverdier forurenset grunn)",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/1995-08-04-53/§29"
+      ],
+      "category": "ins",
+      "date_code": "FOR-2026-11-11-2334",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Justis- og beredskapsdepartementet",
+      "path": "forskrifter/for-2026-11-11-2334-vedtak-om-endring-i-vaapeninstruks-for-politiet.md",
+      "slug": "for-2026-11-11-2334-vedtak-om-endring-i-vaapeninstruks-for-politiet",
+      "source_url": "https://lovdata.no/INS/forskrift/2026-11-11-2334",
+      "title": "Vedtak om endring i våpeninstruks for politiet",
       "type": "regulation"
     }
   ]
