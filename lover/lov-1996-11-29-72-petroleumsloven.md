@@ -443,7 +443,7 @@ Departementet skal gi panthaver skriftlig varsel om tilbakekall eller oppgivelse
 
 Panterett som nevnt i første ledd, kan ikke overdras eller pantsettes uten departementets samtykke. Den kan heller ikke uten slikt samtykke være gjenstand for utlegg, arrest eller gjeldsforhandling eller inngå i panthavers konkursbo.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ## Kapittel 7. Erstatningsansvar for forurensningsskade
 
@@ -739,7 +739,7 @@ Hvis det i en søknad om tillatelse er gitt uriktige opplysninger eller opplysni
 
 En tillatelse kan tilbakekalles dersom den sikkerhet rettighetshaver plikter å stille etter [§ 10-7](lov-1996-11-29-72-petroleumsloven.md) er vesentlig svekket, eller dersom selskapet eller annen sammenslutning som innehar tillatelsen oppløses eller tas under akkord- eller konkursbehandling.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 10-14. Følgene av tilbakekall, oppgivelse av rettigheter eller bortfall av andre grunner
 
@@ -813,7 +813,7 @@ Staten er direkte ansvarlig for de forpliktelser selskapet pådrar seg ved kontr
 
 Konkurs og gjeldsforhandling etter [lov 8. juni 1984 nr. 58](lov-1984-06-08-58-konkursloven.md) om gjeldsforhandling og konkurs (konkursloven) kan ikke åpnes i selskapet.
 
-*Tilføyd ved [lov 18 mai 2001 nr. 23](https://lovdata.no/lov/2001-05-18-23) (ikr. 17 juni 2001 iflg. [vedtak 15 juni 2001 nr. 636](https://lovdata.no/forskrift/2001-06-15-636)), endret ved [lov 20 des 2002 nr. 88](https://lovdata.no/lov/2002-12-20-88) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1697](https://lovdata.no/forskrift/2002-12-20-1697)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Tilføyd ved [lov 18 mai 2001 nr. 23](https://lovdata.no/lov/2001-05-18-23) (ikr. 17 juni 2001 iflg. [vedtak 15 juni 2001 nr. 636](https://lovdata.no/forskrift/2001-06-15-636)), endret ved [lov 20 des 2002 nr. 88](https://lovdata.no/lov/2002-12-20-88) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1697](https://lovdata.no/forskrift/2002-12-20-1697)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 11-4. Låneopptak m.v.
 

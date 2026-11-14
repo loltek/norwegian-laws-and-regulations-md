@@ -301,7 +301,7 @@ Selskapet skal forvalte finansielle midler og gjeld på en måte som ikke inneb�
 
 Selskapets eiendeler kan ikke være gjenstand for utlegg eller arrest. Konkurs og gjeldsforhandling etter [lov av 8. juni 1984 nr. 58](lov-1984-06-08-58-konkursloven.md) om gjeldsforhandling og konkurs kan ikke åpnes i selskapet.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ## § 24. Betalingsvansker
 

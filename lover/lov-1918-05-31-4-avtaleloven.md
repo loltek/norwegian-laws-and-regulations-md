@@ -152,7 +152,7 @@ Kommer fullmaktsgiveren under konkurs, blir en rettshandel, som fullmektigen der
 
 Reglene i første ledd gjelder tilsvarende når det er nedlagt rådighetsforbud overfor fullmaktsgiveren etter [§ 75 i lov om gjeldsforhandling og konkurs](lov-1984-06-08-58-konkursloven.md).
 
-*Endret ved [lov 8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lov 8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 24.
 

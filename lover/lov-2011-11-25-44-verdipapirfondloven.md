@@ -1285,7 +1285,7 @@ Departementet kan i forskrift gi regler om bruk av teknikker for porteføljeforv
 
 (4) Dersom tillatelsen til et forvaltningsselskap som driver virksomhet i en annen EØS-stat bortfaller eller blir kalt tilbake, skal tilsynsmyndighetene i vertsstaten underrettes.
 
-*Endret ved lov [20 des 2024 nr. 93](https://lovdata.no/lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](https://lovdata.no/forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lov [20 des 2024 nr. 93](https://lovdata.no/lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](https://lovdata.no/forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 11-5 a. Oppnevning av administrator
 

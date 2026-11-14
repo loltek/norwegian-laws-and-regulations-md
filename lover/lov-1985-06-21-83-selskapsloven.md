@@ -494,7 +494,7 @@ c. når tungtveiende grunner ellers tilsier utelukking.
 
 (6) Bestemmelsene i denne paragraf kan fravikes ved avtale.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 2-37. Oppløsing og avvikling
 

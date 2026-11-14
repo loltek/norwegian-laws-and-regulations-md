@@ -1114,7 +1114,7 @@ Avbrytes fristen overfor noen som har handlet på vegne av et foretak, gjelder a
 
 Foreldelsesfristen for overtredelse av [§§ 392](lov-2005-05-20-28-straffeloven.md) til [394](lov-2005-05-20-28-straffeloven.md) og kapittel [31](lov-2005-05-20-28-straffeloven.md) om kreditorvern løper ikke under konkurs eller gjeldsforhandling etter loven. Fristen kan likevel ikke forlenges med mer enn 5 år etter denne paragraf.
 
-*Endret ved lov [19 juni 2009 nr. 74](https://lovdata.no/lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lov [19 juni 2009 nr. 74](https://lovdata.no/lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 91. Straffansvar som ikke foreldes
 
@@ -3887,7 +3887,7 @@ b. skyldnerens næringsvirksomhet klart går med tap, og skyldneren må innse at
 
 Unnlatelse av å begjære gjeldsforhandling eller konkurs er likevel straffri dersom skyldneren har opptrådt i forståelse med fordringshavere som representerer en vesentlig del av fordringsmassen med hensyn til beløp og antall.
 
-*Tilføyd ved lov [19 juni 2009 nr. 74](https://lovdata.no/lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Tilføyd ved lov [19 juni 2009 nr. 74](https://lovdata.no/lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 408. Boforringelse under fellesforfølgning
 
@@ -3896,7 +3896,7 @@ Med bot eller fengsel inntil 2 år straffes en skyldner som under konkurs eller 
 a. opptrer på en måte som er egnet til å hindre at et formuesgode tjener til dekning eller utnyttelse for fordringshaverne, eller
 b. uriktig oppgir eller vedkjenner seg forpliktelser.
 
-*Tilføyd ved lov [19 juni 2009 nr. 74](https://lovdata.no/lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Tilføyd ved lov [19 juni 2009 nr. 74](https://lovdata.no/lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 409. Grov boforringelse under fellesforfølgning
 

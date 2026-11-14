@@ -828,7 +828,7 @@ I tillegg må vedkommende
 4. stå innført i folkeregisteret som bosatt i kommunen på valgdagen, og
 5. være statsborger i Norge eller et annet nordisk land, eller ha stått innført i folkeregisteret som bosatt i riket de tre siste år før valgdagen.
 
-*Endret ved lover [24 juni 1933 nr. 5](https://lovdata.no/lov/1933-06-24-5), [22 mai 1981 nr. 27](https://lovdata.no/lov/1981-05-22-27), [23 juni 1995 nr. 34](https://lovdata.no/lov/1995-06-23-34), [2 juni 1995 nr. 26](https://lovdata.no/lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](https://lovdata.no/forskrift/1995-06-02-514)), [15 juni 2007 nr. 38](https://lovdata.no/lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](https://lovdata.no/forskrift/2007-06-15-654)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [24 juni 1933 nr. 5](https://lovdata.no/lov/1933-06-24-5), [22 mai 1981 nr. 27](https://lovdata.no/lov/1981-05-22-27), [23 juni 1995 nr. 34](https://lovdata.no/lov/1995-06-23-34), [2 juni 1995 nr. 26](https://lovdata.no/lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](https://lovdata.no/forskrift/1995-06-02-514)), [15 juni 2007 nr. 38](https://lovdata.no/lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](https://lovdata.no/forskrift/2007-06-15-654)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 71.
 

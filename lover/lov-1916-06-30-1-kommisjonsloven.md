@@ -273,7 +273,7 @@ Kommer kommittenten eller kommisjonæren under konkurs, faller oppdraget bort. D
 
 Når kommittenten går konkurs, gjelder likevel reglene i § 100 annet og fjerde ledd i lov om gjeldsforhandling og konkurs tilsvarende for kommisjonærens adgang til å slutte avtaler for kommittentens regning.
 
-*Endret ved [lov 8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lov 8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 48.
 
@@ -343,7 +343,7 @@ Ved avtale, som kommissionæren slutter for kommittentens regning, men i eget na
 
 Tredjemand kan ikke grunde nogen ret overfor kommissionæren paa, at denne har krav paa at faa eller har faat gods eller penger av kommittenten til opfyldelse av avtalen. Dette gjelder også om det åpnes konkurs eller gjeldsforhandling i kommisjonærens bo.
 
-*Endret ved [lover 8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md), [21 juni 2002 nr. 34](lov-2002-06-21-34-forbrukerkjopsloven.md) (ikr. 1 juli 2002). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lover 8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md), [21 juni 2002 nr. 34](lov-2002-06-21-34-forbrukerkjopsloven.md) (ikr. 1 juli 2002). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 57.
 

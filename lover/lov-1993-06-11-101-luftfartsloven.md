@@ -376,7 +376,7 @@ Har det vært åpnet forhandling om tvangsakkord under en umiddelbart forutgåen
 
 For at en frivillig stiftet rett skal ha rettsvern ved tvangsakkord, må retten være dagbokført senest dagen før åpningen av forhandling om tvangsakkord. Unntaket i første ledds annet punktum gjelder tilsvarende.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ###### § 3-32. Prioritet i tilfelle av registreringsfeil m.v.
 
@@ -430,7 +430,7 @@ Heftelse som registreringsmyndigheten finner er åpenbart opphørt, skal den sle
 
 I tilfelle av uriktig slettelse gjelder [§ 3-32](lov-1993-06-11-101-luftfartsloven.md) tilsvarende.
 
-*Endret ved [lov 3 sep 1999 nr. 72](https://lovdata.no/lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](https://lovdata.no/forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lov 3 sep 1999 nr. 72](https://lovdata.no/lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](https://lovdata.no/forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ##### 4. Forskjellige bestemmelser
 

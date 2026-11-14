@@ -3608,7 +3608,7 @@ b. Departementet kan gi forskrift til utfylling og gjennomføring av dette ledd.
 
 (5) Retten til fradrag for underskudd faller bort for den del det er mottatt konsernbidrag for etter [§ 10-4](lov-1999-03-26-14-skatteloven.md) tredje ledd.
 
-*Endret ved [lover 10 des 2004 nr. 77](lov-2004-12-10-77-endringslov-til-skatte-og-avgiftslovgivningen-mv.md) (f o m inntektsåret 2005), [17 juni 2005 nr. 74](https://lovdata.no/lov/2005-06-17-74) (f o m inntektsåret 2005), [9 des 2005 nr. 113](https://lovdata.no/lov/2005-12-09-113) (f o m inntektsåret 2006), [7 des 2012 nr. 76](https://lovdata.no/lov/2012-12-07-76) (f o m inntektsåret 2012), [19 des 2014 nr. 80](https://lovdata.no/lov/2014-12-19-80) (f o m inntektsåret 2015, se dens X), [20 des 2016 nr. 111](https://lovdata.no/lov/2016-12-20-111) (med virkning fra inntektsåret 2017), [19 des 2017 nr. 121](https://lovdata.no/lov/2017-12-19-121) (ikr. 1 jan 2018 med virkning fra inntektsåret 2018). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lover 10 des 2004 nr. 77](lov-2004-12-10-77-endringslov-til-skatte-og-avgiftslovgivningen-mv.md) (f o m inntektsåret 2005), [17 juni 2005 nr. 74](https://lovdata.no/lov/2005-06-17-74) (f o m inntektsåret 2005), [9 des 2005 nr. 113](https://lovdata.no/lov/2005-12-09-113) (f o m inntektsåret 2006), [7 des 2012 nr. 76](https://lovdata.no/lov/2012-12-07-76) (f o m inntektsåret 2012), [19 des 2014 nr. 80](https://lovdata.no/lov/2014-12-19-80) (f o m inntektsåret 2015, se dens X), [20 des 2016 nr. 111](https://lovdata.no/lov/2016-12-20-111) (med virkning fra inntektsåret 2017), [19 des 2017 nr. 121](https://lovdata.no/lov/2017-12-19-121) (ikr. 1 jan 2018 med virkning fra inntektsåret 2018). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 14-7. Tilbakeføring av underskudd
 
@@ -4403,7 +4403,7 @@ Ved fradrag i skatt etter bestemmelsene i [§§ 16-30](lov-1999-03-26-14-skattel
 
 (5) For selskap som svarer finansskatt, jf. Stortingets skattevedtak for inntektsåret 2020 [§ 3-3](https://lovdata.no/forskrift/2019-12-13-1820/§3-3) annet ledd, gis fradrag i skatt for 25 prosent av underskudd for inntektsåret 2020 som omfattes av [§ 6-3](lov-1999-03-26-14-skatteloven.md) første ledd, dersom skattyter ikke krever unntak fra denne bestemmelsen.
 
-*Tilføyd ved [lov 27 feb 2009 nr. 9](https://lovdata.no/lov/2009-02-27-9) (med virkning for inntektsårene 2008 og 2009), endret ved [lov 27 mars 2020 nr. 9](https://lovdata.no/lov/2020-03-27-9) (med virkning for inntektsåret 2020). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Tilføyd ved [lov 27 feb 2009 nr. 9](https://lovdata.no/lov/2009-02-27-9) (med virkning for inntektsårene 2008 og 2009), endret ved [lov 27 mars 2020 nr. 9](https://lovdata.no/lov/2020-03-27-9) (med virkning for inntektsåret 2020). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 16-62. Maksimalt fradragsbeløp
 

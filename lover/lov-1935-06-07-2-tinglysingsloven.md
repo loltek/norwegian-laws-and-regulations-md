@@ -272,7 +272,7 @@ For at en rett som er stiftet ved avtale, skal kunne stå seg overfor konkurs, m
 
 For at en rett som er stiftet ved avtale, skal kunne stå seg ved tvangsakkord, må rettsstiftelsen utenfor de tilfeller som er nevnt i [§ 21](lov-1935-06-07-2-tinglysingsloven.md) tredje ledd og [§ 22](lov-1935-06-07-2-tinglysingsloven.md), være registrert senest dagen før åpningen av forhandling om tvangsakkord.
 
-*Endret ved lover [8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md), [20 juni 2014 nr. 45](https://lovdata.no/lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](https://lovdata.no/forskrift/2017-03-31-414), se loven del IV og res. for overgangsbestemmelser). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [8 juni 1984 nr. 60](lov-1984-06-08-60-konkurslovgivningens-ikrafttredelseslov.md), [20 juni 2014 nr. 45](https://lovdata.no/lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](https://lovdata.no/forskrift/2017-03-31-414), se loven del IV og res. for overgangsbestemmelser). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 24.
 
@@ -356,7 +356,7 @@ Er det bevis som forlanges tinglyst, ikke tilstrekkelig til at heftelsen kan sle
 
 For nedkvittering, prioritetsvikelse eller andre disposisjoner som begrenser omfanget eller verdien av en tinglyst heftelse, gjelder første til fjerde ledd tilsvarende.
 
-*Endret ved lover 18 des 1959 nr. 2, [7 apr 1972 nr. 13](https://lovdata.no/lov/1972-04-07-13), [13 juni 1975 nr. 38](https://lovdata.no/lov/1975-06-13-38), [26 juni 1992 nr. 86](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), [3 sep 1999 nr. 72](https://lovdata.no/lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](https://lovdata.no/forskrift/1999-09-03-983)), [12 sep 2003 nr. 93](https://lovdata.no/lov/2003-09-12-93) (ikr. 1 jan 2004 iflg. [res. 12 sep 2003 nr. 1136](https://lovdata.no/forskrift/2003-09-12-1136)), [31 mars 2017 nr. 14](https://lovdata.no/lov/2017-03-31-14) (ikr. 18 april 2017 iflg. [res. 31 mars 2017 nr. 414](https://lovdata.no/forskrift/2017-03-31-414), se denne for overgangsbestemmelser). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover 18 des 1959 nr. 2, [7 apr 1972 nr. 13](https://lovdata.no/lov/1972-04-07-13), [13 juni 1975 nr. 38](https://lovdata.no/lov/1975-06-13-38), [26 juni 1992 nr. 86](lov-1992-06-26-86-tvangsfullbyrdelsesloven.md), [3 sep 1999 nr. 72](https://lovdata.no/lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](https://lovdata.no/forskrift/1999-09-03-983)), [12 sep 2003 nr. 93](https://lovdata.no/lov/2003-09-12-93) (ikr. 1 jan 2004 iflg. [res. 12 sep 2003 nr. 1136](https://lovdata.no/forskrift/2003-09-12-1136)), [31 mars 2017 nr. 14](https://lovdata.no/lov/2017-03-31-14) (ikr. 18 april 2017 iflg. [res. 31 mars 2017 nr. 414](https://lovdata.no/forskrift/2017-03-31-414), se denne for overgangsbestemmelser). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 32 a.
 

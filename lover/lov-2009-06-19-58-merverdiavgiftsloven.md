@@ -1204,7 +1204,7 @@ c. eieren dør
 
 (5) Skattekontoret kan treffe enkeltvedtak om at tilbakeføring kan unnlates dersom salget eller omdisponeringen skyldes forhold avgiftssubjektet ikke har hatt kontroll over eller en tilbakeføring av andre grunner vil virke særlig urimelig. Et vedtak om unnlatt tilbakeføring gis virkning fra det tidspunktet personkjøretøyet selges eller på annen måte omdisponeres til bruk som ikke ville gitt fradragsrett.
 
-*Endret ved lover [19 des 2014 nr. 84](https://lovdata.no/lov/2014-12-19-84) (ikr. 1 jan 2015, se endringslovens VIII), [25 juni 2024 nr. 64](https://lovdata.no/lov/2024-06-25-64) (i kraft 1 juli 2024, se endringslov for overgangsregel). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [19 des 2014 nr. 84](https://lovdata.no/lov/2014-12-19-84) (ikr. 1 jan 2015, se endringslovens VIII), [25 juni 2024 nr. 64](https://lovdata.no/lov/2024-06-25-64) (i kraft 1 juli 2024, se endringslov for overgangsregel). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 9-7. Salg mv. av fast eiendom før fullføring
 

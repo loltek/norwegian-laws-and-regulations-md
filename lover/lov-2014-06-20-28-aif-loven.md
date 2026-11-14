@@ -807,7 +807,7 @@ g. med tillatelse til å drive porteføljeforvaltning etter [§ 2-2](lov-2014-06
 
 (4) Dersom tillatelsen til en forvalter som driver virksomhet i en annen EØS-stat, bortfaller eller blir kalt tilbake, skal Finanstilsynet underrette tilsynsmyndighetene i vertsstaten.
 
-*Endret ved [lover 21 juni 2019 nr. 41](https://lovdata.no/lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](https://lovdata.no/forskrift/2019-06-21-802)), [20 des 2024 nr. 93](https://lovdata.no/lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](https://lovdata.no/forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lover 21 juni 2019 nr. 41](https://lovdata.no/lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](https://lovdata.no/forskrift/2019-06-21-802)), [20 des 2024 nr. 93](https://lovdata.no/lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](https://lovdata.no/forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 9-4 a. Oppnevning av administrator
 

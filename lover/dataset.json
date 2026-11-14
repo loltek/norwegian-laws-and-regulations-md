@@ -10,9 +10,9 @@
     "sms"
   ],
   "format_version": 1,
-  "generated_at": "2026-11-11T11:04:38Z",
+  "generated_at": "2026-11-14T10:32:08Z",
   "law_count": 656,
-  "source_b3sum": "ef0b939be5908c288a79ec5cd6f475c45e16c1c72df18ed27a2cf3a01fb51944",
+  "source_b3sum": "fbc79770750779a164cdd11f295005fc77eaf73819708c61531d9b45cb277ed0",
   "source_file_count": 753,
   "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-lover.tar.bz2"
 }

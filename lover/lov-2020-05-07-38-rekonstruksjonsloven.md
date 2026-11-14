@@ -10,7 +10,7 @@
 - **Sist endret ved:** lov 19.06.2026 nr. 48
 - **Rettsområde:** Konkurs, gjeld og pant > Gjeldsforhandling. Konkurs; Konkurs, gjeld og pant > Gjeldsordning; Konkurs, gjeld og pant > Pant
 - **Endrer:** lov 08.02.1980 nr. 2; lov 08.06.1984 nr. 58; lov 08.06.1984 nr. 59
-- **Merknad:** Loven oppheves ved lov 19 juni 2026 nr. 48 (i kraft fra den tid endringene i konkurslovens første del trer i kraft, se endringslovens del XXVIII).
+- **Merknad:** Loven oppheves ved lov 19 juni 2026 nr. 48 (i kraft 1 jan 2027 iflg. res. 13 nov 2026 nr. 2341, se endringslovens del XXVIII).
 - **Kilde:** <https://lovdata.no/lov/2020-05-07-38>
 
 ## Kapittel 1. Lovens virkeområde

@@ -2649,7 +2649,7 @@ Etterutdanningen etter bokstav c skal dokumenteres.
 
 (3) Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder gi regler om hvem som omfattes av bestemmelsene, fastsette krav til kunnskap og kompetanse og gi regler om etterutdanning.
 
-*Tilføyd ved lov [22 des 2021 nr. 163](lov-2021-12-22-163-forsikringsformidlingsloven.md) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](https://lovdata.no/forskrift/2021-12-22-3808)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Tilføyd ved lov [22 des 2021 nr. 163](lov-2021-12-22-163-forsikringsformidlingsloven.md) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](https://lovdata.no/forskrift/2021-12-22-3808)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 16-13. Produktstyring
 
@@ -3238,7 +3238,7 @@ c. finansieringsforetak som inngår i finanskonsern som nevnt i bokstav b.
 
 Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som nevnt i [§ 20-1](lov-2015-04-10-17-finansforetaksloven.md) første ledd.
 
-*Tilføyd ved lov [23 mars 2018 nr. 2](lov-2018-03-23-2-endringslov-til-finansforetaksloven-mv.md) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](https://lovdata.no/forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Tilføyd ved lov [23 mars 2018 nr. 2](lov-2018-03-23-2-endringslov-til-finansforetaksloven-mv.md) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](https://lovdata.no/forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 20-3. Krisehåndteringsmyndighet
 
@@ -3852,7 +3852,7 @@ f. dekningsloven og lov om finansiell sikkerhetsstillelse gjelder tilsvarende, m
 
 (5) Bestemmelsene i dette avsnittet gjelder tilsvarende ved avvikling av virksomhet som det ved krisehåndtering av et foretak ikke foreligger grunnlag for å videreføre eller overdra til et annet foretak.
 
-*Tilføyd ved lov [23 mars 2018 nr. 2](lov-2018-03-23-2-endringslov-til-finansforetaksloven-mv.md) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](https://lovdata.no/forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Tilføyd ved lov [23 mars 2018 nr. 2](lov-2018-03-23-2-endringslov-til-finansforetaksloven-mv.md) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](https://lovdata.no/forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### VI A. Rekkefølgen for dekning av fordringer (prioritetsreglene)
 
@@ -4387,7 +4387,7 @@ d. kreve at det utarbeides revidert statusoppgjør.
 
 Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som omfattes av [§ 21-7](lov-2015-04-10-17-finansforetaksloven.md). Det samme gjelder foretak som settes under offentlig administrasjon etter [§ 21-11](lov-2015-04-10-17-finansforetaksloven.md) annet ledd.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 21-9. Soliditetssvikt
 
@@ -4480,7 +4480,7 @@ f. Fordringshavere med krav som er stiftet før vedtaket om offentlig administra
 
 (3) Når avviklingen er gjennomført, legger styret frem sluttregnskap med forslag til utlodning til godkjenning av Finanstilsynet, som gir påbud om kunngjøring av det, og sender melding til Foretaksregistret om at foretaket skal slettes fra registeret.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### III. Særskilte regler for forsikrings- og pensjonsforetak
 

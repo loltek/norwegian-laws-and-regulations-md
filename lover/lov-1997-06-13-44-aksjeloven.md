@@ -1197,7 +1197,7 @@ Godtgjørelse til styremedlemmer, varamedlemmer og observatører fastsettes av g
 
 (2) Under konkursbehandling representerer styret selskapet som konkursskyldner.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 6-19. Styrets saksbehandling
 
@@ -2657,7 +2657,7 @@ Det som måtte tilfalle selskapet av beløp som er avsatt etter [§ 16-9](lov-19
 
 (4) Er selskapet oppløst på grunn av bestemmelsene i lov eller vedtekter, kan boet bare leveres tilbake til selskapet etter [konkursloven § 136](lov-1984-06-08-58-konkursloven.md) dersom oppløsningsgrunnen ikke lenger er til stede. § 16-13 annet ledd gjelder tilsvarende.
 
-*Endret ved lover [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)), [14 des 2018 nr. 95](https://lovdata.no/lov/2018-12-14-95) (ikr. 1 mars 2019 iflg. [res. 14 des 2018 nr. 1922](https://lovdata.no/forskrift/2018-12-14-1922)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)), [14 des 2018 nr. 95](https://lovdata.no/lov/2018-12-14-95) (ikr. 1 mars 2019 iflg. [res. 14 des 2018 nr. 1922](https://lovdata.no/forskrift/2018-12-14-1922)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### II. Oppløsning og avvikling etter kjennelse fra tingretten
 
@@ -2694,7 +2694,7 @@ Det som måtte tilfalle selskapet av beløp som er avsatt etter [§ 16-9](lov-19
 
 (3) Dersom vesentlige samfunnsmessige hensyn tilsier det, kan Kongen av eget tiltak treffe vedtak om at selskapet tillates å drive videre, og at saken likevel ikke skal oversendes tingretten for tvangsoppløsning, men at selskapet skal gis en ytterligere frist før tvangsoppløsning gjennomføres. Kongen skal treffe vedtak om at selskapet i så fall skal betale en løpende tvangsmulkt til staten fra en frist som fastsettes og frem til forholdet er rettet.
 
-*Endret ved lover [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)), [15 des 2006 nr. 88](https://lovdata.no/lov/2006-12-15-88) (ikr. 9 feb 2007 iflg. [res. 9 feb 2007 nr. 154](https://lovdata.no/forskrift/2007-02-09-154)), [24 juni 2011 nr. 33](https://lovdata.no/lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](https://lovdata.no/forskrift/2011-06-24-647)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)), [15 des 2006 nr. 88](https://lovdata.no/lov/2006-12-15-88) (ikr. 9 feb 2007 iflg. [res. 9 feb 2007 nr. 154](https://lovdata.no/forskrift/2007-02-09-154)), [24 juni 2011 nr. 33](https://lovdata.no/lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](https://lovdata.no/forskrift/2011-06-24-647)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 16-18. Avvikling av selskapet
 
@@ -2714,7 +2714,7 @@ Det som måtte tilfalle selskapet av beløp som er avsatt etter [§ 16-9](lov-19
 
 (3) Går dommen ut på oppløsning av selskapet, gjelder [§ 16-18](lov-1997-06-13-44-aksjeloven.md) tilsvarende. Dommen har virkning som en kjennelse om konkursåpning etter [konkursloven kapittel VIII](lov-1984-06-08-58-konkursloven.md).
 
-*Endret ved lov [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lov [30 aug 2002 nr. 67](https://lovdata.no/lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](https://lovdata.no/forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ## Kapittel 17. Erstatning mv
 
@@ -2736,7 +2736,7 @@ Erstatningsansvar etter [§ 17-1](lov-1997-06-13-44-aksjeloven.md) kan lempes et
 
 (2) Første ledd gjelder tilsvarende for inngåelse av forhåndsavtale mellom selskapet og noen som er nevnt i [§ 17-1](lov-1997-06-13-44-aksjeloven.md) som regulerer eller begrenser deres erstatningsansvar.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 17-4. Krav på selskapets vegne
 

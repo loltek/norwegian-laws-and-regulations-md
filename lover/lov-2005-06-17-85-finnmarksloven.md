@@ -138,7 +138,7 @@ Fast eiendom som Finnmarkseiendommen eier og begrensede rettigheter som Finnmark
 
 Det kan ikke åpnes konkurs eller gjeldsforhandling hos Finnmarkseiendommen.
 
-*Endret ved [lov 27 juni 2008 nr. 71](lov-2008-06-27-71-plan-og-bygningsloven.md) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](https://lovdata.no/forskrift/2009-06-12-638)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lov 27 juni 2008 nr. 71](lov-2008-06-27-71-plan-og-bygningsloven.md) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](https://lovdata.no/forskrift/2009-06-12-638)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 15. Utdeling av overskudd
 

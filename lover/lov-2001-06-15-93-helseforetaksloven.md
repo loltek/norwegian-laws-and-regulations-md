@@ -66,7 +66,7 @@ Konkurs og gjeldsforhandling etter konkursloven kan ikke åpnes i foretak. Foret
 
 Foretakene regnes som organer etter [arkivlova § 2 bokstav h](https://lovdata.no/lov/2025-06-20-96/§2/bokstav/h).
 
-*Endret ved [lover 19 mai 2006 nr. 16](https://lovdata.no/lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](https://lovdata.no/forskrift/2008-10-17-1118)), [10 juni 2022 nr. 37](https://lovdata.no/lov/2022-06-10-37), [20 juni 2025 nr. 96](https://lovdata.no/lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](https://lovdata.no/forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lover 19 mai 2006 nr. 16](https://lovdata.no/lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](https://lovdata.no/forskrift/2008-10-17-1118)), [10 juni 2022 nr. 37](https://lovdata.no/lov/2022-06-10-37), [20 juni 2025 nr. 96](https://lovdata.no/lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](https://lovdata.no/forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ## Kapittel 2. Partsstilling og ansvar
 

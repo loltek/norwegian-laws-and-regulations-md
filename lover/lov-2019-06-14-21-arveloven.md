@@ -882,7 +882,7 @@ I tilfelle som nevnt i første ledd bokstav c gjelder [foreldelsesloven § 15](l
 
 Saksanlegg overfor en enkelt av arvingene avbryter ikke fristen for de andre. Den saksøkte kan likevel holde sitt regresskrav åpent hvis han eller hun innen en måned etter utløpet av proklamafristen melder kravet på foreskrevet måte.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### III. Arvingenes rett til å overta eiendeler på skiftet. Verdsettelse og oppgjør
 
@@ -1499,7 +1499,7 @@ Blir akkorden stadfestet, skal skiftebehandlingen innstilles samtidig. Kunngjør
 
 Når kjennelsen om stadfestelse er rettskraftig, skal retten dekke massekravene og de fortrinnsberettigede kravene, eller sette inn i bank nødvendige beløp til dekning av omtvistede krav, jf. [konkursloven § 47](lov-1984-06-08-58-konkursloven.md) annet ledd.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ## Fjerde del. Avsluttende bestemmelser
 

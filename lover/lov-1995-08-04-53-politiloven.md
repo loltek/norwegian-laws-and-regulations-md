@@ -64,7 +64,7 @@ Politidirektoratet kan beslutte at politiet skal være bevæpnet i daglig tjenes
 
 Når tjenestehandlingen berører eller skjer overfor eller i nærvær av barn, skal barnets beste være et grunnleggende hensyn.
 
-*Endret ved lover [7 juni 2024 nr. 28](https://lovdata.no/lov/2024-06-07-28) (i kraft 7 juni 2024 iflg. [res. 7 juni 2024 nr. 929](https://lovdata.no/forskrift/2024-06-07-929)), [20 juni 2025 nr. 87](https://lovdata.no/lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](https://lovdata.no/forskrift/2025-06-20-1111)). **Endres** ved lov [19 juni 2026 nr. 51](lov-2026-06-19-51-endringslov-til-politiloven.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [7 juni 2024 nr. 28](https://lovdata.no/lov/2024-06-07-28) (i kraft 7 juni 2024 iflg. [res. 7 juni 2024 nr. 929](https://lovdata.no/forskrift/2024-06-07-929)), [20 juni 2025 nr. 87](https://lovdata.no/lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](https://lovdata.no/forskrift/2025-06-20-1111)). **Endres** ved lov [19 juni 2026 nr. 51](lov-2026-06-19-51-endringslov-til-politiloven.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2356](https://lovdata.no/forskrift/2026-11-13-2356)).*
 
 ### § 6 a. Kameraovervåking
 

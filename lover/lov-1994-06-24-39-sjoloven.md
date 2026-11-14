@@ -315,7 +315,7 @@ Har det vært åpnet forhandling om tvangsakkord under en umiddelbart forutgåen
 
 For at en rett som er stiftet ved avtale skal kunne stå seg ved tvangsakkord, må rettsstiftelsen utenfor de tilfeller som er nevnt i [§ 24](lov-1994-06-24-39-sjoloven.md) tredje, fjerde og femte ledd være innført i dagboken senest dagen før forhandlingen om tvangsakkord er åpnet.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ##### § 26. Ekstinksjon av ugyldighetsinnsigelse, m m
 
@@ -369,7 +369,7 @@ Heftelse som åpenbart er opphørt, skal registerføreren slette av eget tiltak.
 
 I tilfelle av uriktig slettelse gjelder [§ 27](lov-1994-06-24-39-sjoloven.md) tilsvarende.
 
-*Endret ved lover [3 sep 1999 nr. 72](https://lovdata.no/lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](https://lovdata.no/forskrift/1999-09-03-983)), [20 des 2023 nr. 115](https://lovdata.no/lov/2023-12-20-115) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2168](https://lovdata.no/forskrift/2023-12-20-2168)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [3 sep 1999 nr. 72](https://lovdata.no/lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](https://lovdata.no/forskrift/1999-09-03-983)), [20 des 2023 nr. 115](https://lovdata.no/lov/2023-12-20-115) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2168](https://lovdata.no/forskrift/2023-12-20-2168)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ##### § 30. Foreldelse av rettsvern
 
@@ -581,7 +581,7 @@ Krav om innfrielse etter første ledd nr. 5 gir ikke rett til å kreve forsinkel
 
 Reglene i første ledd gjelder tilsvarende så langt de passer for innretninger som går inn under [§ 33](lov-1994-06-24-39-sjoloven.md), og for skip eller innretning under bygging samt for byggekontrakt.
 
-*Endret ved [lov 3 sep 1999 nr. 72](https://lovdata.no/lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](https://lovdata.no/forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lov 3 sep 1999 nr. 72](https://lovdata.no/lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](https://lovdata.no/forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ##### § 45. Tilbehør m m
 
@@ -951,7 +951,7 @@ En partreder har i alle tilfelle rett til å utløse den medreder som har bevirk
 
 Utløsningssummen og fristen for gjennomføring av utløsningen eller oppløsningen fastsettes i dommen.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 #### § 117. Kumulasjon, verneting
 
@@ -973,7 +973,7 @@ Med mindre en partreder har fått medredernes samtykke til pantsetting, jf [§ 1
 
 Dersom en partreder går konkurs eller åpner offentlig akkordforhandling, har partrederens bo ikke større rett enn en utleggstaker etter første ledd.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### Kapittel 6. Skipsføreren
 

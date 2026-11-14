@@ -241,7 +241,7 @@ Verdipapirsentralen kan kalle tilbake en kontoførers tillatelse etter [§ 6-2](
 
 Beslutninger om tilbakekall etter første ledd skal behandles etter reglene om behandling av klager fastsatt i medhold av verdipapirsentralforordningen artikkel 32 nr. 2.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 6-7. Avvikling av ordningen med kontoførere
 
@@ -323,7 +323,7 @@ Dersom noen med hjemmel i selskapslovgivning eller tilsvarende lovgivning i en a
 
 Departementet kan i forskrift gi nærmere regler om rett til innsyn, herunder utvide retten til innsyn etter bestemmelsen her og gi regler om en verdipapirsentrals adgang til å gi opplysninger til en annen verdipapirsentral som den har opprettet en forbindelse til etter verdipapirsentralforordningen artikkel 48.
 
-*Endret ved lover [30 april 2021 nr. 28](https://lovdata.no/lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](https://lovdata.no/forskrift/2021-04-30-1334)), [19 juni 2026 nr. 45](lov-2026-06-19-45-endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m.md) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](https://lovdata.no/forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [30 april 2021 nr. 28](https://lovdata.no/lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](https://lovdata.no/forskrift/2021-04-30-1334)), [19 juni 2026 nr. 45](lov-2026-06-19-45-endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m.md) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](https://lovdata.no/forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 8-4. Opplysninger til bruk for forskning
 
@@ -419,7 +419,7 @@ Meldingen skal inneholde alle relevante opplysninger om verdipapirsentralens øk
 
 Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i verdipapirsentraler med tillatelse etter denne lov.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 10-4. Krisehåndtering
 

@@ -703,7 +703,7 @@ For øvrig gjelder reglene i [kapittel 8](lov-2018-06-01-24-sikkerhetsloven.md) 
 
 Kongen utpeker en klareringsmyndighet for leverandørklarering. Kongen kan gi forskrift om krav til leverandørklarering og varigheten av klareringen.
 
-***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 9-4. Varslingsplikt og myndighet til å fatte vedtak ved anskaffelser til skjermingsverdig informasjonssystem, objekt og infrastruktur
 

@@ -162,7 +162,7 @@ Et sokn kan ikke tas under konkursbehandling eller begjære åpning av gjeldsfor
 
 Eiendeler som Den norske kirke mottar fra Opplysningsvesenets fond, skal ikke gi Den norske kirke økonomisk gevinst til fordel for sin alminnelige virksomhet.
 
-*Endret ved lover [25 juni 2024 nr. 58](lov-2024-06-25-58-lov-om-omdanning-av-opplysningsvesenets-fond-til-aksjeselskap.md), [14 mars 2025 nr. 3](https://lovdata.no/lov/2025-03-14-3) (i kraft 1 jan 2026 iflg. [res. 27. mai 2025 nr. 853](https://lovdata.no/forskrift/2025-05-27-853)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved lover [25 juni 2024 nr. 58](lov-2024-06-25-58-lov-om-omdanning-av-opplysningsvesenets-fond-til-aksjeselskap.md), [14 mars 2025 nr. 3](https://lovdata.no/lov/2025-03-14-3) (i kraft 1 jan 2026 iflg. [res. 27. mai 2025 nr. 853](https://lovdata.no/forskrift/2025-05-27-853)). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ### § 15. Kirkebygg
 

@@ -5,7 +5,7 @@
 - **DokumentID:** NL/lov/2026-06-19-48
 - **Departement:** Justis- og beredskapsdepartementet
 - **Kunngjort:** 2026-06-19 12:05
-- **I kraft fra:** 2026-06-19, Kongen bestemmer
+- **I kraft fra:** 2026-06-19, 2027-01-01
 - **Rettsområde:** Konkurs, gjeld og pant > Dekningsrett; Konkurs, gjeld og pant > Gjeldsforhandling. Konkurs; Konkurs, gjeld og pant > Gjeldsordning; Konkurs, gjeld og pant > Pant
 - **Endrer:** lov 13.08.1915 nr. 5; lov 30.06.1916 nr. 1; lov 31.05.1918 nr. 4; lov 27.05.1932 nr. 2; lov 07.06.1935 nr. 2; lov 17.02.1939 nr. 1; lov 18.05.1979 nr. 18; lov 08.02.1980 nr. 2; lov 17.12.1982 nr. 86; lov 08.06.1984 nr. 58; lov 08.06.1984 nr. 59; lov 21.06.1985 nr. 79; lov 21.06.1985 nr. 83; lov 16.06.1989 nr. 69; lov 11.06.1993 nr. 101; lov 24.06.1994 nr. 39; lov 29.11.1996 nr. 72; lov 13.06.1997 nr. 44; lov 13.06.1997 nr. 45; lov 29.01.1999 nr. 6; lov 26.03.1999 nr. 14; lov 17.12.1999 nr. 95; lov 15.06.2001 nr. 93; lov 06.06.2003 nr. 38; lov 06.06.2003 nr. 39; lov 26.03.2004 nr. 17; lov 20.05.2005 nr. 28; lov 17.06.2005 nr. 62; lov 17.06.2005 nr. 85; lov 29.06.2007 nr. 81; lov 15.05.2008 nr. 35; lov 19.06.2009 nr. 58; lov 25.11.2011 nr. 44; lov 20.06.2014 nr. 28; lov 10.04.2015 nr. 17; lov 23.03.2018 nr. 3; lov 01.06.2018 nr. 24; lov 22.06.2018 nr. 83; lov 15.03.2019 nr. 6; lov 22.03.2019 nr. 7; lov 14.06.2019 nr. 21; lov 20.12.2019 nr. 109; lov 24.04.2020 nr. 31; lov 07.05.2020 nr. 38; lov 18.12.2020 nr. 146; lov 22.12.2021 nr. 163; lov 16.12.2022 nr. 91; lov 13.12.2024 nr. 76; lov 10.04.2025 nr. 9
 - **Merknad:** Prop. 56 L (2025–2026), Innst. 355 L (2025–2026), Lovvedtak 79 (2025–2026). Stortingets første og andre gangs behandling hhv. 9. og 15. juni 2026. Fremmet av Justis- og beredskapsdepartementet.
@@ -1323,6 +1323,10 @@ Kravene i første ledd skal dokumenteres gjennom foreleggelse av ordinær politi
 
 ## XXVIII
 
-1. Endringen av [rekonstruksjonsloven](lov-2020-05-07-38-rekonstruksjonsloven.md) i del V i loven her trer i kraft straks. For øvrig gjelder loven fra den tid Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
+1. Endringen av [rekonstruksjonsloven](lov-2020-05-07-38-rekonstruksjonsloven.md) i del V i loven her trer i kraft straks. For øvrig gjelder loven fra den tid[1] Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.
 2. Fra den tid endringene av [konkurslovens](lov-1984-06-08-58-konkursloven.md) første del i del I i loven her trer i kraft, oppheves [midlertidig lov 7. mai 2020 nr. 38 om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19](lov-2020-05-07-38-rekonstruksjonsloven.md).
 3. Departementet kan gi overgangsregler.
+
+## Fotnoter
+
+**1.** Fra 1. januar 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341).

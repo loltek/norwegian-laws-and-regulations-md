@@ -56,7 +56,7 @@ Med EØS menes Det europeiske økonomiske samarbeidsområdet.
 
 Med samvirkende system menes to eller flere system der operatørene har gjort avtale med hverandre om utføring av oppdrag på tvers av systemene. En ordning som er innført mellom samvirkende systemer, utgjør ikke et system.
 
-*Endret ved [lover 18 nov 2011 nr. 42](https://lovdata.no/lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](https://lovdata.no/forskrift/2011-11-18-1107)), [20 des 2018 nr. 103](https://lovdata.no/lov/2018-12-20-103) (ikr. 1 jan 2019). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+*Endret ved [lover 18 nov 2011 nr. 42](https://lovdata.no/lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](https://lovdata.no/forskrift/2011-11-18-1107)), [20 des 2018 nr. 103](https://lovdata.no/lov/2018-12-20-103) (ikr. 1 jan 2019). **Endres** ved lov [19 juni 2026 nr. 48](lov-2026-06-19-48-endringslov-til-konkursloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 13 nov 2026 nr. 2341](https://lovdata.no/forskrift/2026-11-13-2341)).*
 
 ## Kapittel 2. Interbanksystemer
 
