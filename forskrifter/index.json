@@ -1,5 +1,5 @@
 {
-  "count": 5116,
+  "count": 5118,
   "documents": [
     {
       "based_on": [
@@ -50602,7 +50602,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2014-08-22-1097",
-      "last_updated": "2026-06-26",
+      "last_updated": "2026-11-11",
       "legal_area": "",
       "ministry": "Finansdepartementet",
       "path": "forskrifter/for-2014-08-22-1097-crr-crd-forskriften.md",
@@ -74114,7 +74114,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2022-04-06-633",
-      "last_updated": "2026-10-30",
+      "last_updated": "2026-11-11",
       "legal_area": "",
       "ministry": "Landbruks- og matdepartementet; Nærings- og fiskeridepartementet",
       "path": "forskrifter/for-2022-04-06-633-dyreimportforskriften.md",
@@ -93136,6 +93136,54 @@
       "slug": "for-2026-11-11-2334-vedtak-om-endring-i-vaapeninstruks-for-politiet",
       "source_url": "https://lovdata.no/INS/forskrift/2026-11-11-2334",
       "title": "Vedtak om endring i våpeninstruks for politiet",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2008-06-06-37/§11",
+        "lov/2008-06-06-37/§12",
+        "lov/2008-06-06-37/§16",
+        "lov/2008-06-06-37/§22",
+        "lov/2008-06-06-37/§23",
+        "lov/2008-06-06-37/§34",
+        "lov/2008-06-06-37/§39",
+        "lov/2008-06-06-37/§59",
+        "forskrift/2001-10-16-4686"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-11-2336",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Nærings- og fiskeridepartementet",
+      "path": "forskrifter/for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md",
+      "slug": "for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027",
+      "source_url": "https://lovdata.no/forskrift/2026-11-11-2336",
+      "title": "Forskrift om regulering av fisket etter leppefisk i 2027",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2026-06-19-41/§1-4",
+        "lov/2026-06-19-41/§1-5",
+        "lov/2026-06-19-41/§1-6",
+        "lov/2026-06-19-41/§3-1",
+        "lov/2026-06-19-41/§4-1",
+        "lov/2026-06-19-41/§7-1",
+        "lov/2026-06-19-41/§7-4",
+        "lov/2026-06-19-41/§21-13",
+        "lov/2026-06-19-41/§21-14",
+        "lov/2026-06-19-41/§22-2",
+        "lov/2026-06-19-41/§22-3"
+      ],
+      "category": "del",
+      "date_code": "FOR-2026-11-12-2337",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Finansdepartementet",
+      "path": "forskrifter/for-2026-11-12-2337-delegering-av-myndighet-til-aa-fatte-vedtak-etter-saeravgiftsloven.md",
+      "slug": "for-2026-11-12-2337-delegering-av-myndighet-til-aa-fatte-vedtak-etter-saeravgiftsloven",
+      "source_url": "https://lovdata.no/DEL/forskrift/2026-11-12-2337",
+      "title": "Delegering av myndighet til å fatte vedtak etter særavgiftsloven",
       "type": "regulation"
     }
   ]

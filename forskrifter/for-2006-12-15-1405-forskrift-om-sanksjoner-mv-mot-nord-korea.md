@@ -12,8 +12,8 @@
 - **Siste endring i kraft:** 2025-01-01
 - **Sist endret ved:** forskrift 22.11.2024 nr. 2888 fra 2025-01-01
 - **Gjelder for:** Norge
-- **Siste rettelse:** 2026-01-09 (hjemmel)
-- **Merknad:** Hjemmel: Fastsatt ved kgl. res. 15. desember 2006 med hjemmel i lov 7. juni 1968 nr. 4 til gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd, jf. sikkerhetsrådsresolusjoner 1718 (2006) og 1874 (2009). Fremmet av Utenriksdepartementet. Tilføyd hjemmel: Sikkerhetsrådsresolusjoner 2087 (2013) og 2094 (2013). Lov 27. april 2001 nr. 14 om iverksetjing av internasjonale ikkje-militære tiltak i form av avbrot eller avgrensing av økonomisk eller anna samkvem med tredjestatar eller rørsler, jf. EUs rådsbeslutning 2013/183/FUSP. Lov 16. april 2021 nr. 18 om gjennomføring av internasjonale sanksjoner (sanksjonsloven) § 9. Endret ved forskrifter 18 april 2007 nr. 579, 6 des 2007 nr. 1358, 17 aug 2009 nr. 1094, 9 sep 2013 nr. 1067, 28 mars 2014 nr. 335, 16 nov 2014 nr. 1447, 1 des 2015 nr. 1448, 7 juni 2016 nr. 603, 14 okt 2016 nr. 1228, 4 april 2017 nr. 453, 9 mai 2017 nr. 628, 21 nov 2017 nr. 1853, 31 jan 2018 nr. 138, 9 mai 2018 nr. 706, 29 april 2021 nr. 1344, 20 des 2023 nr. 2259, 22 nov 2024 nr. 2888 (i kraft 1 jan 2025). Rettet 03.04.2014 (hjemmel), 04.05.2021 (tegnsetting i lister tilpasset universell utforming), 09.01.2026 (hjemmel)
+- **Siste rettelse:** 2026-11-13 (lenke i vedlegg XIV)
+- **Merknad:** Hjemmel: Fastsatt ved kgl. res. 15. desember 2006 med hjemmel i lov 7. juni 1968 nr. 4 til gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd, jf. sikkerhetsrådsresolusjoner 1718 (2006) og 1874 (2009). Fremmet av Utenriksdepartementet. Tilføyd hjemmel: Sikkerhetsrådsresolusjoner 2087 (2013) og 2094 (2013). Lov 27. april 2001 nr. 14 om iverksetjing av internasjonale ikkje-militære tiltak i form av avbrot eller avgrensing av økonomisk eller anna samkvem med tredjestatar eller rørsler, jf. EUs rådsbeslutning 2013/183/FUSP. Lov 16. april 2021 nr. 18 om gjennomføring av internasjonale sanksjoner (sanksjonsloven) § 9. Endret ved forskrifter 18 april 2007 nr. 579, 6 des 2007 nr. 1358, 17 aug 2009 nr. 1094, 9 sep 2013 nr. 1067, 28 mars 2014 nr. 335, 16 nov 2014 nr. 1447, 1 des 2015 nr. 1448, 7 juni 2016 nr. 603, 14 okt 2016 nr. 1228, 4 april 2017 nr. 453, 9 mai 2017 nr. 628, 21 nov 2017 nr. 1853, 31 jan 2018 nr. 138, 9 mai 2018 nr. 706, 29 april 2021 nr. 1344, 20 des 2023 nr. 2259, 22 nov 2024 nr. 2888 (i kraft 1 jan 2025). Rettet 03.04.2014 (hjemmel), 04.05.2021 (tegnsetting i lister tilpasset universell utforming), 09.01.2026 (hjemmel), 13.11.2026 (lenke i vedlegg XIV).
 - **Kilde:** <https://lovdata.no/forskrift/2006-12-15-1405>
 
 ## § 1. Virkeområde
@@ -2612,7 +2612,7 @@ FNs liste over personer og enheter identifisert av FNs sikkerhetsråds komité e
 
 #### Vedlegg XIV The vessels referred to in Article 34(2) and point (g) of Article 39(1) and applicable measures as specified by the Sanctions Committee
 
-FNs liste over fartøy identifisert av FNs sikkerhetsråds komité etablert i medhold av Sikkerhetsresolusjon 1718 (2006), er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/1718/materials/list-of-designated-vessels).
+FNs liste over fartøy identifisert av FNs sikkerhetsråds komité etablert i medhold av Sikkerhetsresolusjon 1718 (2006), er tilgjengelig [her](https://main.un.org/securitycouncil/en/sanctions/1718/materials/1718-Designated-Vessels-List).
 
 #### Vedlegg XV List of persons, entities and bodies referred to in Article 34
 
