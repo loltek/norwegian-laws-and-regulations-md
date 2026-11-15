@@ -6,8 +6,10 @@
 - **Etat:** Naturforvaltningsavdelingen
 - **Kunngjort:** 2024-10-08 14:30
 - **I kraft fra:** 2024-11-01
+- **Siste endring i kraft:** 2026-11-15
+- **Sist endret ved:** forskrift 30.10.2026 nr. 2220 fra 2026-11-15
 - **Endrer:** forskrift 25.11.2014 nr. 1536; forskrift 25.11.2014 nr. 1537
-- **Merknad:** Hjemmel: Fastsatt av Klima- og miljødepartementet 4. oktober 2024 til gjennomføring av Stortingets budsjettvedtak kap. 1420 post 80. Endres ved forskrift 30 okt 2026 nr. 2220 (i kraft 15 nov 2026).
+- **Merknad:** Hjemmel: Fastsatt av Klima- og miljødepartementet 4. oktober 2024 til gjennomføring av Stortingets budsjettvedtak kap. 1420 post 80. Endret ved forskrift 30 okt 2026 nr. 2220 (i kraft 15 nov 2026).
 - **Kilde:** <https://lovdata.no/forskrift/2024-10-04-2408>
 
 ## § 1. Formål
@@ -52,12 +54,14 @@ c. hvor tiltaket skal utføres, og hvilke naturverdier som blir berørt
 d. søknadsbeløp
 e. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem
 f. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
-g. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 9](for-2024-10-04-2408-forskrift-om-tilskudd-til-tiltak-for-aa-ivareta-natur.md)
-h. om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+g. søker også utøver økonomisk aktivitet, jf. [§ 9](for-2024-10-04-2408-forskrift-om-tilskudd-til-tiltak-for-aa-ivareta-natur.md)
+h. søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+
+For søknader der søkeren er registreringspliktig etter [lov om Enhetsregisteret § 3-1](../lover/lov-2025-06-20-105-enhetsregisterloven.md) skal Miljødirektoratet eller statsforvalter innhente relevant informasjon fra Enhetsregisteret jf. [lov om Enhetsregisteret § 2-1 fjerde ledd](../lover/lov-2025-06-20-105-enhetsregisterloven.md).
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
 
 ## § 6. Tilleggsopplysninger, kontroll og befaring før vedtak
 
@@ -77,11 +81,11 @@ c. det oppstår vesentlige forsinkelser eller andre endringer som har betydning 
 
 ## § 8. Behandling av søknad om tilskudd
 
-Miljødirektoratet og statsforvalter gir tilskudd i samsvar med Klima- og miljødepartementets årlige budsjettproposisjon.
+Miljødirektoratet og statsforvalter gir tilskudd i samsvar med eventuelle tilleggsføringer for ordningen i postomtalen i budsjettproposisjonen eller i Stortingets bevilgningsvedtak.
 
-Miljødirektoratet og statsforvalter tildeler tilskudd som ikke er bundet opp i budsjettproposisjonen, etter en skjønnsmessig vurdering av søknadene.
+Miljødirektoratet og statsforvalter fatter vedtak om tilskudd etter en skjønnsmessig vurdering av søknadene.
 
-***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
 
 ## § 9. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -93,29 +97,29 @@ Tilskuddsmottakere som har både økonomisk og ikke-økonomisk aktivitet skal ha
 
 Alle mottakere av tilskudd skal rapportere faglig på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i tilskuddsvedtaket ved å beskrive oppnådde resultater opp mot formålet i tilskuddsvedtaket.
 
-Tilskuddsmottaker skal oversende regnskap for bruken av tilskuddet til Miljødirektoratet innen fristen fastsatt i tilskuddsvedtaket. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører i de tilfeller det ikke er samme person.
+Tilskuddsmottaker skal oversende regnskap for bruken av tilskuddet til Miljødirektoratet eller statsforvalter innen fristen fastsatt i tilskuddsvedtaket. Regnskapet skal i en første del være satt opp i henhold til omsøkt budsjett, og i annen del vise alle transaksjoner knyttet til tilskuddsmidlene. Regnskapet skal underskrives av ansvarlig søker og i tillegg regnskapsfører i de tilfeller det ikke er samme person.
 
-Når tilskuddet er 400 000 kroner eller høyere skal delregnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 million kroner.
+Når tilskuddet er 500 000 kroner eller høyere skal regnskapet være revidert av statsautorisert revisor. For institusjoner som benytter kommunerevisjon eller annet offentlig revisjonsorgan skal tilskuddet være revidert av statsautorisert revisor når tilskuddet er over 1 million kroner.
 
-For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap undertegnet av organisasjonens leder, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene. For grunntilskudd bortfaller krav om eget transaksjonsregnskap og spesifikk revisjon når det foreligger revidert årsregnskap for virksomheten.
+For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der bruken av tilskuddsmidlene er synliggjort i eget delregnskap, bortfaller krav om annen spesifikk revisjon av tilskuddsmidlene. For grunntilskudd bortfaller krav om eget transaksjonsregnskap og spesifikk revisjon når det foreligger revidert årsregnskap for virksomheten.
 
 Det kan fastsettes nærmere krav om rapportering, revisorattestasjon og revisorkontroll i kunngjøring eller i tilskuddsvedtaket.
 
-***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
 
 ## § 11. Oppfølging og kontroll
 
-Miljødirektoratet eller statsforvalter kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, at opplysningene i søknaden er riktige og at organisasjonen drives i henhold til sine vedtekter.
+Miljødirektoratet eller statsforvalter kan kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og tilskuddsvedtaket, og at opplysningene i søknaden er riktige. Dersom en søkerorganisasjons virksomhet er regulert gjennom egne vedtekter, kan Miljødirektoratet eller statsforvalter kontrollere at organisasjonen drives i henhold til disse vedtektene.
 
 Miljødirektoratet eller statsforvalter har rett til å innhente ytterligere opplysninger og dokumentasjon om tiltaket/prosjektet, inkludert å gjennomføre befaring.
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
 
 ## § 12. Stans og tilbakebetaling av tilskudd
 
-Miljødirektoratet eller statsforvalter kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til organisasjoner som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
+Miljødirektoratet eller statsforvalter kan gjøre vedtak om midlertidig stans i utbetaling av tilskudd til tilskuddsmottaker som er under tilsyn for mulig misbruk av denne eller andre statlige tilskuddsordninger.
 
 Er det gitt tilskudd på uriktig eller ufullstendig grunnlag, eller mottakeren ikke anvender tilskuddet i samsvar med kravene i forskriften og tilskuddsvedtaket, kan vedtak om tilskudd omgjøres. Det uriktig utbetalte beløpet kan kreves tilbakebetalt eller trekkes fra et tilskudd som tildeles senere.
 
@@ -123,7 +127,7 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-***Endres** ved forskrift [30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
 
 ## § 13. Ikrafttredelse
 

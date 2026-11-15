@@ -16,13 +16,13 @@ Det er forbudt for norske fartøy å fiske og lande leppefisk i 2027.
 
 ## § 2. Totalkvote
 
-Uten hinder av forbudet i [§ 1](https://lovdata.no/forskrift/2026-11-11-2336/§1) kan fartøy som har adgang til å delta i fisket etter leppefisk fiske og lande inntil 18 millioner leppefisk. Kvoten i første ledd fordeles med 90 prosent til fartøy som deltar i lukket gruppe og 10 prosent til fartøy som deltar i åpen gruppe, ungdomsfiskeordningen og fritidsfiske.
+Uten hinder av forbudet i [§ 1](for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md) kan fartøy som har adgang til å delta i fisket etter leppefisk fiske og lande inntil 18 millioner leppefisk. Kvoten i første ledd fordeles med 90 prosent til fartøy som deltar i lukket gruppe og 10 prosent til fartøy som deltar i åpen gruppe, ungdomsfiskeordningen og fritidsfiske.
 
 ## § 3. Fartøykvote
 
-Uten hinder av forbudet i [§ 1](https://lovdata.no/forskrift/2026-11-11-2336/§1) kan fartøy som har adgang til å delta i lukket gruppe i fisket etter leppefisk i medhold av deltakerforskriften fiske og lande en fartøykvote på inntil 50 000 stk. leppefisk.
+Uten hinder av forbudet i [§ 1](for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md) kan fartøy som har adgang til å delta i lukket gruppe i fisket etter leppefisk i medhold av deltakerforskriften fiske og lande en fartøykvote på inntil 50 000 stk. leppefisk.
 
-Uten hinder av forbudet i [§ 1](https://lovdata.no/forskrift/2026-11-11-2336/§1) kan fartøy som har adgang til å delta i åpen gruppe i fisket etter leppefisk i medhold av deltakerforskriften fiske og lande en maksimalkvote på inntil 10 000 stk. leppefisk.
+Uten hinder av forbudet i [§ 1](for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md) kan fartøy som har adgang til å delta i åpen gruppe i fisket etter leppefisk i medhold av deltakerforskriften fiske og lande en maksimalkvote på inntil 10 000 stk. leppefisk.
 
 Fisket må skje innenfor de begrensninger som følger av fiskeriregelverket ellers, herunder begrensninger fastsatt i [forskrift 23. desember 2021 nr. 3910 om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser (høstingsforskriften)](for-2021-12-23-3910-hostingsforskriften.md).
 
@@ -50,7 +50,7 @@ Fisket må skje innenfor de rammer og begrensninger som følger av fiskeriregelv
 
 ## § 7. Siste fangstlevering
 
-Fartøy som deltar i lukket gruppe må innen 23. oktober kl. 20.00 ha tømt alle innretninger for mellomlagring av leppefisk, og levert leppefisken til kjøper. Fartøy som deltar i åpen gruppe, fritidsfiske eller fiske under ungdomsfiskeordningen må ha tømt alle innretninger for mellomlagring av leppefisk, og levert leppefisken til kjøper innen 23. oktober kl. 20.00 eller innen 72 timer fra en stopp i fisket fastsatt med hjemmel i [§ 23](https://lovdata.no/forskrift/2026-11-11-2336/§23).
+Fartøy som deltar i lukket gruppe må innen 23. oktober kl. 20.00 ha tømt alle innretninger for mellomlagring av leppefisk, og levert leppefisken til kjøper. Fartøy som deltar i åpen gruppe, fritidsfiske eller fiske under ungdomsfiskeordningen må ha tømt alle innretninger for mellomlagring av leppefisk, og levert leppefisken til kjøper innen 23. oktober kl. 20.00 eller innen 72 timer fra en stopp i fisket fastsatt med hjemmel i [§ 23](for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md).
 
 ## § 8. Minstemål og maksimalmål
 
@@ -86,7 +86,7 @@ Fartøy som ikke er underlagt kravet til posisjonsrapportering i henhold til [fo
 
 Første ledd gjelder ikke for fartøy som har installert posisjonsrapporteringsutstyr i henhold til [forskrift 24. mars 2010 nr. 454 om krav til utstyr og installasjon av posisjonsrapporteringsutstyr](for-2010-03-24-454-forskrift-om-posisjonsrapporteringsutstyr.md), og som minst hvert 10. minutt automatisk sender melding om fartøyets posisjon til Fiskeridirektoratet. Merkeregistrerte fartøy må enten ha et radiokallesignal tildelt av Telenor Kystradio, eller et kjenningssignal fra norsk ordinært skipsregister (NOR) for å kunne installere posisjonsrapporteringsutstyr. Fiskeridirektoratet kan gi dispensasjon fra kravene i [forskrift 24. mars 2010 nr. 454 om krav til utstyr og installasjon av posisjonsrapporteringsutstyr](for-2010-03-24-454-forskrift-om-posisjonsrapporteringsutstyr.md), eller gjøre unntak med eller uten vilkår for bestemmelser fastsatt i denne.
 
-AIS eller posisjonsrapporteringssystemet skal være aktivt til enhver tid fra fartøyet starter fisket til sluttdatoen for leppefisksesongen fastsatt i [§ 4](https://lovdata.no/forskrift/2026-11-11-2336/§4). Unntak gjøres dersom strømtilførselen må brytes grunnet vedlikehold av systemet, verkstedopphold eller når fartøyet skal ligge uvirksomt i mer enn 14 dager. Det skal sendes melding til Fiskeridirektoratet før strømmen brytes. Meldingen sendes på elektronisk skjema tilgjengelig på www.fiskeridir.no. Når strømmen til AIS eller posisjonsrapporteringssystemet er brutt kan ikke fartøyet endre posisjon.
+AIS eller posisjonsrapporteringssystemet skal være aktivt til enhver tid fra fartøyet starter fisket til sluttdatoen for leppefisksesongen fastsatt i [§ 4](for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md). Unntak gjøres dersom strømtilførselen må brytes grunnet vedlikehold av systemet, verkstedopphold eller når fartøyet skal ligge uvirksomt i mer enn 14 dager. Det skal sendes melding til Fiskeridirektoratet før strømmen brytes. Meldingen sendes på elektronisk skjema tilgjengelig på www.fiskeridir.no. Når strømmen til AIS eller posisjonsrapporteringssystemet er brutt kan ikke fartøyet endre posisjon.
 
 ## § 14. Kvoteutnyttelse
 
@@ -128,7 +128,7 @@ Teiner skal ha minst tre fluktåpninger i det innerste kammeret (fangstkammer) o
 
 Fluktåpningene skal være plassert på en slik måte at leppefisk lett kan ta seg ut av redskapen. Fluktåpningen skal ha en fast ramme. Fluktåpningene kan være plassert i rekke eller enkeltvis.
 
-Teiner og ruser som brukes til fangst av leppefisk skal ha rømmingshull innmontert i samsvar med anvisningen i [vedlegg 1](https://lovdata.no/forskrift/2026-11-11-2336/vedlegg1).
+Teiner og ruser som brukes til fangst av leppefisk skal ha rømmingshull innmontert i samsvar med anvisningen i [vedlegg 1](for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md).
 
 ## § 20. Størrelsesbegrensning på inngangen (kalven) i teiner og ruser
 
@@ -164,4 +164,4 @@ Forskriften trer i kraft 1. januar 2027 og gjelder til og med 31. desember 2027.
 
 ## Vedlegg 1. Monteringsbeskrivelse for teiner og ruser i fiske etter leppefisk
 
-For å lese [vedlegg 1](https://lovdata.no/forskrift/2026-11-11-2336/vedlegg1) se her: [pdf-fil](https://lovdata.no/static/SF/sf-20261111-2336-01-01.pdf).
+For å lese [vedlegg 1](for-2026-11-11-2336-forskrift-om-regulering-av-fisket-etter-leppefisk-i-2027.md) se her: [pdf-fil](https://lovdata.no/static/SF/sf-20261111-2336-01-01.pdf).
