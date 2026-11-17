@@ -20,7 +20,7 @@ Tilskuddsordningen skal bidra til å ivareta opplevelses-, natur- og kulturmilj�
 
 Måloppnåelsen for ordningen blir vurdert ut fra om tilskuddene bidrar til redusert naturslitasje og forsøpling, om det blir færre ulykker og utrykninger fra hjelpepersonell i forbindelse med ferdsel på stiene, og om tilskuddene bidrar til å ivareta natur- og miljøverdier på og i tilknytning til stiene. I tillegg legges det vekt på om ordningen bidrar til lokal verdiskaping.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 3. Hvem som kan søke om tilskudd
 
@@ -46,7 +46,7 @@ g. informasjonstiltak, herunder også fjellvakttjeneste, stipatruljer og vertska
 
 Det gis ikke tilskudd til driftsutgifter.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 6. Krav for å kunne tildeles tilskudd
 
@@ -90,7 +90,7 @@ For søknader der søkeren er registreringspliktig etter [lov om Enhetsregistere
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 9. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
@@ -108,7 +108,7 @@ a. søker blir oppmerksom på at søknaden inneholder ufullstendige eller urikti
 b. uberettiget tilskudd er utbetalt
 c. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet avgjør om endringene kan godkjennes.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 11. Behandling av søknad om tilskudd
 
@@ -116,7 +116,7 @@ Miljødirektoratet gir tilskudd i samsvar med eventuelle tilleggsføringer for o
 
 Miljødirektoratet fatter vedtak om tilskudd etter en skjønnsmessig vurdering av søknadene. I vurderingen legges det vekt på prioriteringene i [§ 7](for-2023-11-15-1847-forskrift-om-tilskudd-til-nasjonale-turiststier.md) og formålet i [§ 1](for-2023-11-15-1847-forskrift-om-tilskudd-til-nasjonale-turiststier.md).
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 12. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -132,7 +132,7 @@ Tilskuddsmottaker skal i tillegg oversende regnskap for bruken av tilskuddet til
 
 Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 14. Oppfølging og kontroll
 
@@ -142,7 +142,7 @@ Miljødirektoratet har rett til å innhente ytterligere opplysninger og dokument
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 15. Stans og tilbakebetaling av tilskudd
 
@@ -154,7 +154,7 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 16. Ikrafttredelse
 

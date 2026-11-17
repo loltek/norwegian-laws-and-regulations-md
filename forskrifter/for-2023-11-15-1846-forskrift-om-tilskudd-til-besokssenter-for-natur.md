@@ -22,7 +22,7 @@ Måloppnåelse for ordningen blir vurdert ut fra om tilskuddene bidrar til økt 
 
 For de autoriserte sentrene blir måloppnåelsen vurdert på bakgrunn av årlige rapporter der sentrene viser hvordan de oppfyller autorisasjonskravene satt av Miljødirektoratet.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 3. Hvem som kan søke om tilskudd
 
@@ -61,7 +61,7 @@ For søknader der søkeren er registreringspliktig etter [lov om Enhetsregistere
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 6. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
@@ -80,7 +80,7 @@ a. søker blir oppmerksom på at søknaden inneholder ufullstendige eller urikti
 b. uberettiget tilskudd er utbetalt
 c. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet avgjør om endringene kan godkjennes.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 8. Behandling av søknad om tilskudd
 
@@ -88,7 +88,7 @@ Miljødirektoratet fatter vedtak om tilskudd i samsvar med eventuelle tilleggsf�
 
 Miljødirektoratet fatter vedtak om tilskudd etter en skjønnsmessig vurdering av søknadene.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 9. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -106,7 +106,7 @@ For grunntilskudd bortfaller krav om eget transaksjonsregnskap og spesifikk revi
 
 Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 11. Oppfølging og kontroll
 
@@ -116,7 +116,7 @@ Miljødirektoratet har rett til å innhente ytterligere opplysninger og dokument
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 12. Stans og tilbakebetaling av tilskudd
 
@@ -128,7 +128,7 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 13. Ikrafttredelse
 

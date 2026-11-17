@@ -11,7 +11,7 @@
 - **Siste endring i kraft:** 2024-12-13
 - **Sist endret ved:** forskrift 13.12.2024 nr. 3091
 - **Endrer:** forskrift 21.12.1979 nr. 3420; forskrift 25.11.1994 nr. 1026; forskrift 15.12.1989 nr. 1335; forskrift 07.10.1980 nr. 1
-- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 26. januar 2024 med hjemmel i lov 16. juni 1989 nr. 70 om naturskadeforsikring § 1 annet og femte ledd, § 3 første og annet ledd, § 4 annet og femte ledd og § 4a. Fremmet av Justis- og beredskapsdepartementet. Endret ved forskrift 13 des 2024 nr. 3091 (bl.a. tittel).
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 26. januar 2024 med hjemmel i lov 16. juni 1989 nr. 70 om naturskadeforsikring § 1 annet og femte ledd, § 3 første og annet ledd, § 4 annet og femte ledd og § 4a. Fremmet av Justis- og beredskapsdepartementet. Endret ved forskrift 13 des 2024 nr. 3091 (bl.a. tittel). Endres ved forskrift 13 nov 2026 nr. 2342 (i kraft 1 jan 2027).
 - **Kilde:** <https://lovdata.no/forskrift/2024-01-26-111>
 
 ## Kapittel 1. Forholdet til forsikringstakeren og den sikrede
@@ -69,6 +69,8 @@ Norsk naturskadepool skal
 9. bistå med kunnskap og informasjon i arbeidet med å unngå eller begrense naturskader.
 
 Poolens medlemmer har ikke eiendomsrett til poolens naturskadekapital. Det kan ikke åpnes konkurs- eller akkordforhandlinger i poolen.
+
+***Endres** ved forskrift [13 nov 2026 nr. 2342](https://lovdata.no/forskrift/2026-11-13-2342) (i kraft 1 jan 2027).*
 
 ### § 9. Medlemmene i poolen
 

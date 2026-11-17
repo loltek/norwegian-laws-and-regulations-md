@@ -8,7 +8,7 @@
 - **Hjemmel:** lov 20.12.2019 nr. 109/§2; lov 20.12.2019 nr. 109/§29
 - **Kunngjort:** 2022-05-20 15:15
 - **I kraft fra:** 2022-07-01
-- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 20. mai 2022 med hjemmel i lov 20. desember 2019 nr. 109 om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven) § 2 og § 29. Fremmet av Barne- og familiedepartementet.
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 20. mai 2022 med hjemmel i lov 20. desember 2019 nr. 109 om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven) § 2 og § 29. Fremmet av Barne- og familiedepartementet. Endres ved forskrift 13 nov 2026 nr. 2342 (i kraft 1 jan 2027).
 - **Kilde:** <https://lovdata.no/forskrift/2022-05-20-883>
 
 ## § 1. Svalbard og Jan Mayen
@@ -55,6 +55,8 @@ b. kredittscore
 c. frivillig registrering av sperre mot kredittvurdering
 d. kredittrating av enkeltpersonforetak.
 
+***Endres** ved forskrift [13 nov 2026 nr. 2342](https://lovdata.no/forskrift/2026-11-13-2342) (i kraft 1 jan 2027).*
+
 ## § 3. Opplysninger om juridiske personer som kan behandles i kredittopplysningsvirksomhet
 
 I kredittopplysningsvirksomhet kan det registreres og behandles opplysninger om juridiske personer som nevnt i denne bestemmelsen.
@@ -96,6 +98,8 @@ h. bank- og forsikringsforbindelse
 i. informasjon om betalte fakturaer
 j. kredittvurderingen
 k. frivillig registrering av sperre mot kredittvurdering.
+
+***Endres** ved forskrift [13 nov 2026 nr. 2342](https://lovdata.no/forskrift/2026-11-13-2342) (i kraft 1 jan 2027).*
 
 ## § 4. Kilder opplysninger kan hentes fra
 

@@ -34952,7 +34952,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2007-06-29-876",
-      "last_updated": "2026-06-08",
+      "last_updated": "2026-11-12",
       "legal_area": "",
       "ministry": "Finansdepartementet",
       "path": "forskrifter/for-2007-06-29-876-verdipapirforskriften.md",
@@ -84444,7 +84444,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2025-06-06-940",
-      "last_updated": "2026-01-01",
+      "last_updated": "2026-11-13",
       "legal_area": "",
       "ministry": "Justis- og beredskapsdepartementet",
       "path": "forskrifter/for-2025-06-06-940-feltsikkerhetsforskriften.md",
@@ -92506,13 +92506,13 @@
       ],
       "category": "sf",
       "date_code": "FOR-2026-10-09-2216",
-      "last_updated": null,
+      "last_updated": "2026-11-16",
       "legal_area": "",
       "ministry": "Klima- og miljødepartementet",
-      "path": "forskrifter/for-2026-10-09-2216-utvidelse-av-virkeomraadet-til-lov-14-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall-forurensni.md",
-      "slug": "for-2026-10-09-2216-utvidelse-av-virkeomraadet-til-lov-14-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall-forurensni",
+      "path": "forskrifter/for-2026-10-09-2216-utvidelse-av-virkeomraadet-til-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall-forurensni.md",
+      "slug": "for-2026-10-09-2216-utvidelse-av-virkeomraadet-til-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-avfall-forurensni",
       "source_url": "https://lovdata.no/forskrift/2026-10-09-2216",
-      "title": "Utvidelse av virkeområdet til lov 14. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)",
+      "title": "Utvidelse av virkeområdet til lov 13. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)",
       "type": "regulation"
     },
     {
@@ -93017,26 +93017,6 @@
     },
     {
       "based_on": [
-        "forskrift/2022-04-06-631/§25",
-        "lov/2003-12-19-124/§19",
-        "forskrift/2003-12-19-1790",
-        "forskrift/2004-05-05-884",
-        "forskrift/2022-04-06-634/§3",
-        "forskrift/2006-04-07-444"
-      ],
-      "category": "sf",
-      "date_code": "FOR-2026-11-03-2258",
-      "last_updated": "2026-11-05",
-      "legal_area": "",
-      "ministry": "Landbruks- og matdepartementet",
-      "path": "forskrifter/for-2026-11-03-2258-hpai-soneforskrift.md",
-      "slug": "for-2026-11-03-2258-hpai-soneforskrift",
-      "source_url": "https://lovdata.no/forskrift/2026-11-03-2258",
-      "title": "Forskrift om opprettelse av restriksjonssone for å bekjempe høypatogen aviær influensa (HPAI-soneforskrift)",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
         "lov/1965-06-18-4/§23a",
         "forskrift/1975-06-13-4"
       ],
@@ -93171,6 +93151,23 @@
       "slug": "for-2026-11-12-2337-delegering-av-myndighet-til-aa-fatte-vedtak-etter-saeravgiftsloven",
       "source_url": "https://lovdata.no/DEL/forskrift/2026-11-12-2337",
       "title": "Delegering av myndighet til å fatte vedtak etter særavgiftsloven",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2016-06-17-73/§16",
+        "lov/2019-12-20-109/§29",
+        "lov/1989-06-16-70/§4"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-13-2342",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Justis- og beredskapsdepartementet",
+      "path": "forskrifter/for-2026-11-13-2342-forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md",
+      "slug": "for-2026-11-13-2342-forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv",
+      "source_url": "https://lovdata.no/forskrift/2026-11-13-2342",
+      "title": "Forskrift om endringer i forskrift om forsvars- og sikkerhetsanskaffelser mv.",
       "type": "regulation"
     }
   ]

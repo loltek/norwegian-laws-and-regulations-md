@@ -21,13 +21,13 @@ Måloppnåelse for ordningen blir vurdert ut fra om tilskuddene bidrar til økt 
 
 Måloppnåelsen blir vurdert på bakgrunn av årlige rapporter der sentrene viser hvordan de oppfyller autorisasjonskravene.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 3. Hvem som kan søke om tilskudd
 
 Sentre som er autorisert som besøkssentre innen kategorien verdensarvsenter, kan søke om grunntilskudd og tilskudd til utvikling.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 4. Hva det kan tildeles tilskudd til
 
@@ -63,7 +63,7 @@ For søknader der søkeren er registreringspliktig etter [lov om Enhetsregistere
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 7. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
@@ -74,7 +74,7 @@ b. be om omarbeiding av søknader og sammenkobling av ulike søknader når det e
 c. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
 d. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 8. Søkers opplysningsplikt
 
@@ -84,7 +84,7 @@ a. søker blir oppmerksom på at søknaden inneholder ufullstendige eller urikti
 b. uberettiget tilskudd er utbetalt
 c. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Riksantikvaren avgjør om endringene kan godkjennes.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 9. Behandling av søknad om tilskudd
 
@@ -92,7 +92,7 @@ Riksantikvaren fatter vedtak om tilskudd i samsvar med eventuelle tilleggsførin
 
 Riksantikvaren fatter vedtak om tilskudd etter en skjønnsmessig vurdering av søknadene.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 10. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -110,7 +110,7 @@ For grunntilskudd bortfaller krav om eget transaksjonsregnskap og spesifikk revi
 
 Det kan fastsettes nærmere krav om rapportering i tilskuddsbrevet.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 12. Oppfølging og kontroll
 
@@ -120,7 +120,7 @@ Riksantikvaren har rett til å innhente ytterligere opplysninger og dokumentasjo
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 13. Stans og tilbakebetaling av tilskudd
 
@@ -132,7 +132,7 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 14. Ikrafttredelse
 

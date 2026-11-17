@@ -61,7 +61,7 @@ For søknader der søkeren er registreringspliktig etter [lov om Enhetsregistere
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 6. Tilleggsopplysninger, kontroll og befaring før vedtak
 
@@ -85,7 +85,7 @@ Miljødirektoratet og statsforvalter gir tilskudd i samsvar med eventuelle tille
 
 Miljødirektoratet og statsforvalter fatter vedtak om tilskudd etter en skjønnsmessig vurdering av søknadene.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 9. Tilskuddsmottakere som driver økonomisk aktivitet
 
@@ -105,7 +105,7 @@ For tilskuddsmottakere som leverer revidert årsregnskap for sin virksomhet, der
 
 Det kan fastsettes nærmere krav om rapportering, revisorattestasjon og revisorkontroll i kunngjøring eller i tilskuddsvedtaket.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 11. Oppfølging og kontroll
 
@@ -115,7 +115,7 @@ Miljødirektoratet eller statsforvalter har rett til å innhente ytterligere opp
 
 Tilskuddsmottaker plikter å samarbeide, blant annet ved å innhente og systematisere informasjon som er nødvendig for kontrollen.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 12. Stans og tilbakebetaling av tilskudd
 
@@ -127,7 +127,7 @@ Har en tilskuddsmottaker ved feil fått utbetalt for mye tilskudd, kan det som e
 
 Ved manglende tilbakebetaling vil tilskuddsmottakeren ikke være søknadsberettiget før tilbakebetaling er foretatt.
 
-*Endret ved [forskrift 30 okt 2026 nr. 2220](for-2026-10-30-2220-forskrift-om-endring-i-forskrifter-om-tilskuddsordninger-for-aa-ivareta-natur-og-friluftsformaal.md) (i kraft 15 nov 2026).*
+*Endret ved [forskrift 30 okt 2026 nr. 2220](https://lovdata.no/forskrift/2026-10-30-2220) (i kraft 15 nov 2026).*
 
 ## § 13. Ikrafttredelse
 

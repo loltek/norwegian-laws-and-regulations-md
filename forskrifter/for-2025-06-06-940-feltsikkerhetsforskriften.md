@@ -7,11 +7,11 @@
 - **Etat:** Polaravdelingen
 - **Hjemmel:** lov 17.07.1925 nr. 11/§4; lov 17.06.2005 nr. 62/§3-1; lov 11.06.1976 nr. 79/§8
 - **Kunngjort:** 2025-06-06 14:00
-- **I kraft fra:** 2026-01-01, 2027-07-01
-- **Siste endring i kraft:** 2026-01-01
-- **Sist endret ved:** forskrift 12.12.2025 nr. 2557 fra 2026-01-01
+- **I kraft fra:** 2026-01-01, departementet bestemmer
+- **Siste endring i kraft:** 2026-11-13
+- **Sist endret ved:** forskrift 13.11.2026 nr. 2343
 - **Endrer:** forskrift 18.10.1991 nr. 671
-- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 6. juni 2025 med hjemmel i lov 17. juli 1925 nr. 11 om Svalbard § 4, lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 3-1 og lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 8. Fremmet av Justis- og beredskapsdepartementet. Endret ved forskrift 12 des 2025 nr. 2557 (i kraft 1 jan 2026).
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 6. juni 2025 med hjemmel i lov 17. juli 1925 nr. 11 om Svalbard § 4, lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 3-1 og lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 8. Fremmet av Justis- og beredskapsdepartementet. Endret ved forskrifter 12 des 2025 nr. 2557 (i kraft 1 jan 2026), 13 nov 2026 nr. 2343.
 - **Kilde:** <https://lovdata.no/forskrift/2025-06-06-940>
 
 ## § 1. Formål
@@ -243,21 +243,23 @@ Med bot eller fengsel inntil ett år straffes etter [lov 17. juli 1925 nr. 11 §
 
 ## § 26. Ikrafttredelse og endring
 
-Forskriften trer i kraft 1. januar 2026 med unntak av [§§ 10](for-2025-06-06-940-feltsikkerhetsforskriften.md)–[15](for-2025-06-06-940-feltsikkerhetsforskriften.md) og [§ 24](for-2025-06-06-940-feltsikkerhetsforskriften.md) som trer i kraft 1. juli 2027.
+Forskriften trer i kraft 1. januar 2026 med unntak av [§§ 10](for-2025-06-06-940-feltsikkerhetsforskriften.md)–[15](for-2025-06-06-940-feltsikkerhetsforskriften.md) og [§ 24](for-2025-06-06-940-feltsikkerhetsforskriften.md) som trer i kraft fra det tidspunkt departementet bestemmer.
 
 Fra 1. januar 2026 oppheves [forskrift 18. oktober 1991 nr. 671 om turisme, feltopplegg og annen reisevirksomhet på Svalbard](https://lovdata.no/forskrift/1991-10-18-671).
 
 Justis- og beredskapsdepartementet kan endre beløpene i [§ 16 annet ledd](for-2025-06-06-940-feltsikkerhetsforskriften.md) bokstavene a til c.
 
-*Endret ved forskrift [12 des 2025 nr. 2557](https://lovdata.no/forskrift/2025-12-12-2557) (i kraft 1 jan 2026).*
+*Endret ved forskrifter [12 des 2025 nr. 2557](https://lovdata.no/forskrift/2025-12-12-2557) (i kraft 1 jan 2026), [13 nov 2026 nr. 2343](https://lovdata.no/forskrift/2026-11-13-2343).*
 
 ## § 27. Overgangsbestemmelse
 
-For personer som kan gi tilstrekkelig dokumentasjon på at de over de tre siste årene har guidet minimum 1 500 timer, kan Sysselmesteren gi dispensasjon fra kravene i [§ 12](for-2025-06-06-940-feltsikkerhetsforskriften.md). Dispensasjon kan bare gis der guidens erfaring etter Sysselmesterens skjønn dekker de kompetansemålene som fremkommer av [§ 11](for-2025-06-06-940-feltsikkerhetsforskriften.md). En søknad om dispensasjon må være sendt inn til Sysselmesteren innen 1. januar 2027.
+For personer som kan gi tilstrekkelig dokumentasjon på at de over de tre siste årene har guidet minimum 1 500 timer, kan Sysselmesteren gi dispensasjon fra kravene i [§ 12](for-2025-06-06-940-feltsikkerhetsforskriften.md). Dispensasjon kan bare gis der guidens erfaring etter Sysselmesterens skjønn dekker de kompetansemålene som fremkommer av [§ 11](for-2025-06-06-940-feltsikkerhetsforskriften.md). En søknad om dispensasjon må være sendt inn til Sysselmesteren innen det tidspunkt departementet bestemmer.
 
 Sysselmesteren fastsetter gebyr for behandling av søknader og for utstedelse av godkjenningsbevis, jf. [§ 12 syvende ledd](for-2025-06-06-940-feltsikkerhetsforskriften.md).
 
 Sysselmesterens vedtak etter første ledd kan påklages til Nærings- og fiskeridepartementet. Departementet kan ikke overprøve Sysselmesterens skjønn etter første ledd.
+
+*Endret ved forskrift [13 nov 2026 nr. 2343](https://lovdata.no/forskrift/2026-11-13-2343).*
 
 ## Vedlegg I. Ferdselsområde, jf. [§ 3 bokstav g](for-2025-06-06-940-feltsikkerhetsforskriften.md)
 
