@@ -1,6 +1,6 @@
 {
   "converter_b3sum": "2c0e251832c0ad22b8e7e79829b76737355351c606a901ab3f4f3c680c4aab2d",
-  "document_count": 5117,
+  "document_count": 5119,
   "excluded_languages": [
     "nn",
     "se",
@@ -11,8 +11,8 @@
     "sms"
   ],
   "format_version": 1,
-  "generated_at": "2026-11-17T12:05:46Z",
-  "source_b3sum": "d85889e2b7fe7f5c0319d452934ccbca2852f464724750814b58474e66773308",
-  "source_file_count": 5153,
+  "generated_at": "2026-11-18T11:56:20Z",
+  "source_b3sum": "916ca109807ada2ca031de0d969cc8ac6a7fc881c2d861bc23f4938ed03438a4",
+  "source_file_count": 5155,
   "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2"
 }

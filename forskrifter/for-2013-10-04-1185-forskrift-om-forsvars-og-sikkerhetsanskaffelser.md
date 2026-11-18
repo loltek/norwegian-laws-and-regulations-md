@@ -356,7 +356,7 @@ l. ved tjenestekontrakter og bygge- og anleggskontrakter for nye arbeider, som e
 m. ved kontrakter vedrørende levering av luft- og sjøtransporttjenester til væpnede styrker eller sikkerhetsstyrker som skal eller er stasjonert i utlandet når oppdragsgiver er nødt til å anskaffe slike tjenester fra en leverandør som kun kan garantere for et tilbud i så kort tid at fristen for prosedyrene begrenset konkurranse eller konkurranse med forhandlinger etter forutgående kunngjøring ikke kan overholdes,
 n. ved dekningskjøp som er nødvendig som følge av at en kontrakt er kjent uten virkning etter reglene i [kapittel 14](for-2013-10-04-1185-forskrift-om-forsvars-og-sikkerhetsanskaffelser.md), forutsatt at det er umulig å overholde fristene fastsatt i denne forskrift og kontrakt ikke inngås for en lengre periode enn det som er nødvendig for å gjennomføre en konkurranse i samsvar med forskriften.
 
-***Endres** ved forskrift [13 nov 2026 nr. 2342](https://lovdata.no/forskrift/2026-11-13-2342) (i kraft 1 jan 2027).*
+***Endres** ved forskrift [13 nov 2026 nr. 2342](for-2026-11-13-2342-forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md) (i kraft 1 jan 2027).*
 
 ### Kapittel 6. Rammeavtaler
 
@@ -879,7 +879,7 @@ h. ikke vurderes å ha den påliteligheten som trengs for å utelukke en sikkerh
 
 (4) Denne bestemmelsen gjelder tilsvarende for avvisning av underleverandører.
 
-***Endres** ved forskrift [13 nov 2026 nr. 2342](https://lovdata.no/forskrift/2026-11-13-2342) (i kraft 1 jan 2027).*
+***Endres** ved forskrift [13 nov 2026 nr. 2342](for-2026-11-13-2342-forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md) (i kraft 1 jan 2027).*
 
 #### § 11-13. Avvisning på grunn av forhold ved tilbudet
 

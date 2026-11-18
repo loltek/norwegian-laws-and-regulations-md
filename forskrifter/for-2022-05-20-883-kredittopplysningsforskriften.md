@@ -55,7 +55,7 @@ b. kredittscore
 c. frivillig registrering av sperre mot kredittvurdering
 d. kredittrating av enkeltpersonforetak.
 
-***Endres** ved forskrift [13 nov 2026 nr. 2342](https://lovdata.no/forskrift/2026-11-13-2342) (i kraft 1 jan 2027).*
+***Endres** ved forskrift [13 nov 2026 nr. 2342](for-2026-11-13-2342-forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md) (i kraft 1 jan 2027).*
 
 ## § 3. Opplysninger om juridiske personer som kan behandles i kredittopplysningsvirksomhet
 
@@ -99,7 +99,7 @@ i. informasjon om betalte fakturaer
 j. kredittvurderingen
 k. frivillig registrering av sperre mot kredittvurdering.
 
-***Endres** ved forskrift [13 nov 2026 nr. 2342](https://lovdata.no/forskrift/2026-11-13-2342) (i kraft 1 jan 2027).*
+***Endres** ved forskrift [13 nov 2026 nr. 2342](for-2026-11-13-2342-forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md) (i kraft 1 jan 2027).*
 
 ## § 4. Kilder opplysninger kan hentes fra
 

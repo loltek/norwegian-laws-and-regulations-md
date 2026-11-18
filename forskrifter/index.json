@@ -1,5 +1,5 @@
 {
-  "count": 5117,
+  "count": 5119,
   "documents": [
     {
       "based_on": [
@@ -57846,7 +57846,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2017-04-18-480",
-      "last_updated": "2026-10-09",
+      "last_updated": "2026-11-11",
       "legal_area": "",
       "ministry": "Arbeids- og inkluderingsdepartementet; Klima- og miljødepartementet",
       "path": "forskrifter/for-2017-04-18-480-biocidforskriften.md",
@@ -93168,6 +93168,39 @@
       "slug": "for-2026-11-13-2342-forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv",
       "source_url": "https://lovdata.no/forskrift/2026-11-13-2342",
       "title": "Forskrift om endringer i forskrift om forsvars- og sikkerhetsanskaffelser mv.",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2003-12-19-124/§23",
+        "lov/2003-12-19-124/§12",
+        "lov/2003-12-19-124/§19"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-15-2361",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Landbruks- og matdepartementet",
+      "path": "forskrifter/for-2026-11-15-2361-endr-i-dyreimportforskriften.md",
+      "slug": "for-2026-11-15-2361-endr-i-dyreimportforskriften",
+      "source_url": "https://lovdata.no/forskrift/2026-11-15-2361",
+      "title": "Forskrift om endring i dyreimportforskriften for å gjennomføre endringer av tredjelandslista, forordning (EU) 2026/2503",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2009-06-19-58/§5-1",
+        "forskrift/2009-12-15-1523"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-16-2362",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Finansdepartementet",
+      "path": "forskrifter/for-2026-11-16-2362-endr-i-merverdiavgiftsforskriften.md",
+      "slug": "for-2026-11-16-2362-endr-i-merverdiavgiftsforskriften",
+      "source_url": "https://lovdata.no/forskrift/2026-11-16-2362",
+      "title": "Forskrift om endring i merverdiavgiftsforskriften",
       "type": "regulation"
     }
   ]

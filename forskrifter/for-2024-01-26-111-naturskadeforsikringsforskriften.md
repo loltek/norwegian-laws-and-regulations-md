@@ -70,7 +70,7 @@ Norsk naturskadepool skal
 
 Poolens medlemmer har ikke eiendomsrett til poolens naturskadekapital. Det kan ikke åpnes konkurs- eller akkordforhandlinger i poolen.
 
-***Endres** ved forskrift [13 nov 2026 nr. 2342](https://lovdata.no/forskrift/2026-11-13-2342) (i kraft 1 jan 2027).*
+***Endres** ved forskrift [13 nov 2026 nr. 2342](for-2026-11-13-2342-forskrift-om-endringer-i-forskrift-om-forsvars-og-sikkerhetsanskaffelser-mv.md) (i kraft 1 jan 2027).*
 
 ### § 9. Medlemmene i poolen
 
