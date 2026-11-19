@@ -361,7 +361,7 @@ Ved uttak av varer til kiosk- eller serveringsvirksomhet som er unntatt etter [m
 
 (3) Første og andre ledd gjelder for varer som reisende innfører utover avgiftsfri kvote og som er til personlig bruk. Første og andre ledd gjelder ikke for varer som innføres for videresalg eller annet ervervsmessig formål og heller ikke for varer som er kjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
 
-*Tilføyd ved forskrift [24 mai 2024 nr. 826](https://lovdata.no/forskrift/2024-05-24-826) (i kraft 1 juni 2024). **Endres** ved forskrift [16 nov 2026 nr. 2362](https://lovdata.no/forskrift/2026-11-16-2362) (i kraft 1 jan 2027).*
+*Tilføyd ved forskrift [24 mai 2024 nr. 826](https://lovdata.no/forskrift/2024-05-24-826) (i kraft 1 juni 2024). **Endres** ved forskrift [16 nov 2026 nr. 2362](for-2026-11-16-2362-endr-i-merverdiavgiftsforskriften.md) (i kraft 1 jan 2027).*
 
 ### § 5-2. Næringsmidler
 

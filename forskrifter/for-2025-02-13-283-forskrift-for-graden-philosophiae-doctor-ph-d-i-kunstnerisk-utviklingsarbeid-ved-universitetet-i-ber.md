@@ -7,11 +7,11 @@
 - **Hjemmel:** lov 08.03.2024 nr. 9/§3-4; lov 08.03.2024 nr. 9/§11-1; lov 08.03.2024 nr. 9/§11-6; lov 08.03.2024 nr. 9/§11-7; lov 08.03.2024 nr. 9/§13-1; lov 08.03.2024 nr. 9/§13-2
 - **Kunngjort:** 2025-02-25 14:20
 - **I kraft fra:** 2025-02-13
-- **Siste endring i kraft:** 2025-08-25
-- **Sist endret ved:** forskrift 25.08.2025 nr. 1724
+- **Siste endring i kraft:** 2026-11-06
+- **Sist endret ved:** forskrift 06.11.2026 nr. 2372
 - **Endrer:** forskrift 24.11.2022 nr. 2595
 - **Siste rettelse:** 2026-11-09 (lenkefeil)
-- **Merknad:** Hjemmel: Fastsatt av styret ved Universitetet i Bergen 13. februar 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-4, § 11-1, § 11-6, § 11-7, § 13-1 og § 13-2. Endret ved forskrifter 16 juni 2025 nr. 1035, 25 aug 2025 nr. 1724. Rettet 09.11.2026 (lenkefeil).
+- **Merknad:** Hjemmel: Fastsatt av styret ved Universitetet i Bergen 13. februar 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-4, § 11-1, § 11-6, § 11-7, § 13-1 og § 13-2. Endret ved forskrifter 16 juni 2025 nr. 1035, 25 aug 2025 nr. 1724, 6 nov 2026 nr. 2372. Rettet 09.11.2026 (lenkefeil).
 - **Kilde:** <https://lovdata.no/forskrift/2025-02-13-283>
 
 ## Del I. Innledende bestemmelser
@@ -297,13 +297,15 @@ Ph.d.-resultatet kan bedømmes ved kun ett lærested.
 
 ### § 10-4. Meldeplikt om resultater som har potensial for næringsmessig utnyttelse
 
-Kandidater som er tilsatt ved Universitetet i Bergen har meldeplikt om arbeidsresultater som omfattes av universitetets Reglement om håndtering av ansattes [rettigheter til forsknings- og arbeidsresultater](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/) ved Universitetet i Bergen og [arbeidstakeroppfinnelsesloven § 5](../lover/lov-1970-04-17-21-arbeidstakeroppfinnelsesloven.md).
+Kandidater som er tilsatt ved Universitetet i Bergen har meldeplikt om arbeidsresultater som omfattes av universitetets [reglement for immaterielle rettigheter og arbeidsresultater ved Universitetet i Bergen](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-for-immaterelle-rettigheter-og-arbeidsresultater-ved-Universitetet-i-Bergen/Reglement-for-immaterelle-rettigheter-og-arbeidsresultater-ved-Universitetet-i-Bergen/) og [arbeidstakeroppfinnerlovens § 5](../lover/lov-1970-04-17-21-arbeidstakeroppfinnelsesloven.md).
 
 For kandidater med annen arbeidsgiver enn UiB skal tilsvarende meldeplikt nedfelles i avtale mellom Universitetet i Bergen, kandidaten og den eksterne arbeidsgiveren.
 
 Regulering av rettigheter mellom samarbeidende institusjoner må være fastsatt i skriftlig avtale.
 
 For kandidater uten arbeidsgiver skal tilsvarende meldeplikt nedfelles i opptaksavtalen mellom Universitetet i Bergen og kandidaten.
+
+*Endret ved forskrift [6 nov 2026 nr. 2372](https://lovdata.no/forskrift/2026-11-06-2372).*
 
 ## Del IV. Fullføring
 

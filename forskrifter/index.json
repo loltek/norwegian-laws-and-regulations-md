@@ -1,5 +1,5 @@
 {
-  "count": 5119,
+  "count": 5118,
   "documents": [
     {
       "based_on": [
@@ -39482,7 +39482,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2009-10-15-1286",
-      "last_updated": "2026-10-19",
+      "last_updated": "2026-11-16",
       "legal_area": "",
       "ministry": "Arbeids- og inkluderingsdepartementet; Justis- og beredskapsdepartementet",
       "path": "forskrifter/for-2009-10-15-1286-utlendingsforskriften.md",
@@ -66577,22 +66577,6 @@
     },
     {
       "based_on": [
-        "lov/2020-03-27-12/§3",
-        "lov/2020-03-27-12/§4"
-      ],
-      "category": "ins",
-      "date_code": "FOR-2020-03-27-488",
-      "last_updated": "2020-05-08",
-      "legal_area": "",
-      "ministry": "Finansdepartementet",
-      "path": "forskrifter/for-2020-03-27-488-mandat-for-forvaltningen-av-statens-obligasjonsfond.md",
-      "slug": "for-2020-03-27-488-mandat-for-forvaltningen-av-statens-obligasjonsfond",
-      "source_url": "https://lovdata.no/INS/forskrift/2020-03-27-488",
-      "title": "Mandat for forvaltningen av Statens obligasjonsfond",
-      "type": "regulation"
-    },
-    {
-      "based_on": [
         "lov/2020-03-27-14/§2",
         "lov/2020-03-27-14/§3",
         "lov/2020-03-27-14/§4",
@@ -83479,7 +83463,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2025-02-13-282",
-      "last_updated": "2026-01-05",
+      "last_updated": "2026-11-06",
       "legal_area": "",
       "ministry": "Kunnskapsdepartementet",
       "path": "forskrifter/for-2025-02-13-282-forskrift-for-graden-philosophiae-doctor-ph-d-ved-universitetet-i-bergen.md",
@@ -83499,7 +83483,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2025-02-13-283",
-      "last_updated": "2025-08-25",
+      "last_updated": "2026-11-06",
       "legal_area": "",
       "ministry": "Kunnskapsdepartementet",
       "path": "forskrifter/for-2025-02-13-283-forskrift-for-graden-philosophiae-doctor-ph-d-i-kunstnerisk-utviklingsarbeid-ved-universitetet-i-ber.md",

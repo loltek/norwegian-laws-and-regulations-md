@@ -18,11 +18,11 @@ I [forskrift 6. april 2022 nr. 633 som utfyller dyrehelseforskriften med bestemm
 
 I EØS-henvisningsfeltet skal henvisningen til forordning [(EU) 2021/404](https://lovdata.no/eu/32021r0404) lyde:
 
-forordning [(EU) 2021/404](https://lovdata.no/eu/32021r0404) sist endret ved forordning (EU) 2026/2503
+forordning [(EU) 2021/404](https://lovdata.no/eu/32021r0404) sist endret ved forordning [(EU) 2026/2503](https://lovdata.no/eu/32026r2503)
 
 I [§ 4](for-2022-04-06-633-dyreimportforskriften.md) skal henvisningen til forordning [(EU) 2021/404](https://lovdata.no/eu/32021r0404) lyde:
 
-forordning [(EU) 2021/404](https://lovdata.no/eu/32021r0404) sist endret ved forordning (EU) 2026/2503
+forordning [(EU) 2021/404](https://lovdata.no/eu/32021r0404) sist endret ved forordning [(EU) 2026/2503](https://lovdata.no/eu/32026r2503)
 
 ## II
 
@@ -36,12 +36,12 @@ Under avsnittet forordninger gjøres følgende endringer:
 
 Tredje avsnitt av innledningsteksten frem til pdf-en skal lyde:
 
-Senere endringer av grunnrettsakten ved forordning [(EU) 2026/2020](https://lovdata.no/eu/32026r2020), forordning [(EU) 2026/2104](https://lovdata.no/eu/32026r2104), forordning [(EU) 2026/2149](https://lovdata.no/eu/32026r2149), forordning [(EU) 2026/2188](https://lovdata.no/eu/32026r2188), forordning [(EU) 2026/2227](https://lovdata.no/eu/32026r2227), forordning [(EU) 2026/2238](https://lovdata.no/eu/32026r2238), forordning [(EU) 2026/2268](https://lovdata.no/eu/32026r2268), forordning [(EU) 2026/2328](https://lovdata.no/eu/32026r2328), forordning [(EU) 2026/2466](https://lovdata.no/eu/32026r2466), forordning [(EU) 2026/2523](https://lovdata.no/eu/32026r2523) og forordning (EU) 2026/2503 er ikke innarbeidet i grunnrettsakten og gjengis derfor fortløpende nedenfor.
+Senere endringer av grunnrettsakten ved forordning [(EU) 2026/2020](https://lovdata.no/eu/32026r2020), forordning [(EU) 2026/2104](https://lovdata.no/eu/32026r2104), forordning [(EU) 2026/2149](https://lovdata.no/eu/32026r2149), forordning [(EU) 2026/2188](https://lovdata.no/eu/32026r2188), forordning [(EU) 2026/2227](https://lovdata.no/eu/32026r2227), forordning [(EU) 2026/2238](https://lovdata.no/eu/32026r2238), forordning [(EU) 2026/2268](https://lovdata.no/eu/32026r2268), forordning [(EU) 2026/2328](https://lovdata.no/eu/32026r2328), forordning [(EU) 2026/2466](https://lovdata.no/eu/32026r2466), forordning [(EU) 2026/2523](https://lovdata.no/eu/32026r2523) og forordning [(EU) 2026/2503](https://lovdata.no/eu/32026r2503) er ikke innarbeidet i grunnrettsakten og gjengis derfor fortløpende nedenfor.
 
 Etter overskrift, innledningstekst og pdf av forordning [(EU) 2026/2523](https://lovdata.no/eu/32026r2523) legges følgende overskrift, innledningstekst og pdf til:
 
-**Forordning (EU) 2026/2503 som endrer vedlegg XIV og XV av forordning [(EU) 2021/404](https://lovdata.no/eu/32021r0404)**
+**Forordning [(EU) 2026/2503](https://lovdata.no/eu/32026r2503) som endrer vedlegg XIV og XV av forordning [(EU) 2021/404](https://lovdata.no/eu/32021r0404)**
 
 Nedenfor gjengis til informasjon dansk versjon av rettsakten, da norsk oversettelse ikke foreligger per dags dato.
 
-- Forordning (EU) 2026/2503: [pdf-fil](https://lovdata.no/static/SF/32026r2503d-01.pdf).
+- Forordning [(EU) 2026/2503](https://lovdata.no/eu/32026r2503): [pdf-fil](https://lovdata.no/static/SF/32026r2503d-01.pdf).
