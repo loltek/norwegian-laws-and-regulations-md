@@ -1,5 +1,5 @@
 {
-  "count": 5118,
+  "count": 5121,
   "documents": [
     {
       "based_on": [
@@ -70369,7 +70369,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2021-05-11-1456",
-      "last_updated": "2025-01-01",
+      "last_updated": "2026-11-17",
       "legal_area": "",
       "ministry": "Utenriksdepartementet",
       "path": "forskrifter/for-2021-05-11-1456-forskrift-om-restriktive-tiltak-mot-spredning-og-bruk-av-kjemiske-vaapen.md",
@@ -93076,6 +93076,24 @@
     },
     {
       "based_on": [
+        "lov/2024-03-08-9/§3-12",
+        "lov/2024-03-08-9/§4-2",
+        "lov/2024-03-08-9/§11-4",
+        "lov/2024-03-08-9/§11-6"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-10-2387",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Kunnskapsdepartementet",
+      "path": "forskrifter/for-2026-11-10-2387-forskrift-om-autorisasjonsproven-ved-norges-handelshoyskole-for-aa-bli-statsautorisert-translator.md",
+      "slug": "for-2026-11-10-2387-forskrift-om-autorisasjonsproven-ved-norges-handelshoyskole-for-aa-bli-statsautorisert-translator",
+      "source_url": "https://lovdata.no/forskrift/2026-11-10-2387",
+      "title": "Forskrift om autorisasjonsprøven ved Norges Handelshøyskole for å bli statsautorisert translatør",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
         "lov/1995-08-04-53/§29"
       ],
       "category": "ins",
@@ -93185,6 +93203,47 @@
       "slug": "for-2026-11-16-2362-endr-i-merverdiavgiftsforskriften",
       "source_url": "https://lovdata.no/forskrift/2026-11-16-2362",
       "title": "Forskrift om endring i merverdiavgiftsforskriften",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2025-06-20-102/§58",
+        "lov/2025-06-20-102/§59",
+        "forskrift/2026-06-19-1153"
+      ],
+      "category": "del",
+      "date_code": "FOR-2026-11-18-2389",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Landbruks- og matdepartementet",
+      "path": "forskrifter/for-2026-11-18-2389-delegering-av-myndighet-etter-viltressursloven-58-og-59-fra-landbruks-og-matdepartementet-til-landbr.md",
+      "slug": "for-2026-11-18-2389-delegering-av-myndighet-etter-viltressursloven-58-og-59-fra-landbruks-og-matdepartementet-til-landbr",
+      "source_url": "https://lovdata.no/DEL/forskrift/2026-11-18-2389",
+      "title": "Delegering av myndighet etter viltressursloven § 58 og § 59 fra Landbruks- og matdepartementet til Landbruksdirektoratet",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/1999-03-26-14/§5-13",
+        "lov/1999-03-26-14/§6-21",
+        "lov/1999-03-26-14/§6-13",
+        "forskrift/1999-11-19-1158/§5-13-1",
+        "forskrift/1999-11-19-1158/§6-21",
+        "forskrift/1999-11-19-1158/§6-13-1",
+        "lov/2005-06-17-67/§5-8",
+        "forskrift/2025-11-11-2242",
+        "lov/2016-05-27-14/§9-8",
+        "forskrift/2023-12-20-2226"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-18-2405",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Finansdepartementet",
+      "path": "forskrifter/for-2026-11-18-2405-satsforskriften-2027.md",
+      "slug": "for-2026-11-18-2405-satsforskriften-2027",
+      "source_url": "https://lovdata.no/forskrift/2026-11-18-2405",
+      "title": "Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2027",
       "type": "regulation"
     }
   ]

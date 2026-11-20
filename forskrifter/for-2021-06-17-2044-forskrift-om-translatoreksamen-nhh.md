@@ -10,7 +10,7 @@
 - **I kraft fra:** 2021-07-01
 - **Endrer:** forskrift 12.12.2019 nr. 1983
 - **Gjelder for:** Norge
-- **Merknad:** Hjemmel: Fastsatt av styret ved Norges Handelshøyskole 17. juni 2021 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-9, § 3-10 og § 8-2. Tilføyd hjemmel: Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3.
+- **Merknad:** Hjemmel: Fastsatt av styret ved Norges Handelshøyskole 17. juni 2021 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-9, § 3-10 og § 8-2. Tilføyd hjemmel: Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3. Oppheves ved forskrift 10 nov 2026 nr. 2387 (i kraft 1 jan 2027).
 - **Kilde:** <https://lovdata.no/forskrift/2021-06-17-2044>
 
 ## § 1. Virkeområde
