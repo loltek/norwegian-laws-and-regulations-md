@@ -3,18 +3,18 @@
 - **Korttittel:** Forvareforskriften – forforskriften
 - **Datokode:** FOR-2002-11-07-1290
 - **DokumentID:** SF/forskrift/2002-11-07-1290
-- **Departement:** Nærings- og fiskeridepartementet; Landbruks- og matdepartementet
-- **Etat:** Avd. for matpolitikk, Avd. for havbruk, sjømat og marked, Mattilsynet
+- **Departement:** Landbruks- og matdepartementet; Nærings- og fiskeridepartementet
+- **Etat:** Havbruksavdelingen, Matpolitisk avdeling, Mattilsynet
 - **Hjemmel:** lov 19.12.2003 nr. 124/§5; lov 19.12.2003 nr. 124/§6; lov 19.12.2003 nr. 124/§7; lov 19.12.2003 nr. 124/§9; lov 19.12.2003 nr. 124/§10; lov 19.12.2003 nr. 124/§12; lov 19.12.2003 nr. 124/§14; lov 19.12.2003 nr. 124/§15; lov 19.12.2003 nr. 124/§16; lov 19.12.2003 nr. 124/§17; lov 19.12.2003 nr. 124/§21; lov 19.12.2003 nr. 124/§23; lov 19.12.2003 nr. 124/§32; lov 19.12.2003 nr. 124/§33; lov 19.12.2003 nr. 124/§36; forskrift 19.12.2003 nr. 1790; forskrift 05.05.2004 nr. 884
 - **Publisert i:** I 2002 hefte 16
 - **Kunngjort:** 2002-11-26
 - **I kraft fra:** 2002-11-23
-- **Siste endring i kraft:** 2025-04-30
-- **Sist endret ved:** forskrift 30.04.2025 nr. 744
+- **Siste endring i kraft:** 2026-11-12
+- **Sist endret ved:** forskrift 12.11.2026 nr. 2403
 - **Endrer:** forskrift 18.03.1999 nr. 364; forskrift 04.07.2001 nr. 1164
 - **Gjelder for:** Norge
 - **Siste rettelse:** 2015-10-10 (EØS-henvisning)
-- **Merknad:** Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) og Fiskeridepartementet (nå Fiskeri- og kystdepartementet) 7. november 2002 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 5, § 6, § 7, § 9, § 10, § 12, § 14, § 15, § 16, § 17, § 21, § 23, § 32 og § 33 første ledd, jf. § 36 andre ledd, jf. delegeringsvedtak 19. desember 2003 nr. 1790. Tilføyd hjemmel: Delegeringsvedtak 5. mai 2004 nr. 884. EØS-henvisninger: EØS-avtalen vedlegg I kap. II nr. 1 direktiv 93/74/EØF (endret ved direktiv 96/25/EF og direktiv 1999/29/EF), direktiv 82/475/EØF (endret ved direktiv 98/67/EF og direktiv 1991/334/EF), direktiv 2002/32/EF (endret ved direktiv 2003/57/EF, direktiv 2003/5/EF, direktiv 2003/100/EF, direktiv 2005/8/EF, direktiv 2005/86/EF, direktiv 2005/87/EF, direktiv 2006/13/EF, direktiv 2006/77/EF, direktiv 2008/76/EF, direktiv 2009/8/EF, direktiv 2009/141/EF, direktiv 2010/6/EF, forordning (EU) nr. 574/2011, forordning (EU) nr. 277/2012, forordning (EU) nr. 744/2012, forordning (EU) nr. 107/2013, forordning (EU) nr. 1275/2013, forordning (EU) 2015/186, forordning (EU) 2015/786, forordning (EU) 2017/2229 og forordning (EU) 2019/1869), forordning (EF) nr. 1831/2003, vedtak 2007/623/EF, forordning (EF) nr. 767/2009. Endret ved forskrifter 28 mai 2003 nr. 641, 30 juni 2003 nr. 976, 27 aug 2003 nr. 1109, 1 okt 2003 nr. 1238, 11 april 2003 nr. 477, 26 aug 2003 nr. 1086, 9 jan 2004 nr. 199, 16 feb 2004 nr. 450, 19 mai 2004 nr. 786, 16 nov 2004 nr. 1469, 12 april 2005 nr. 320, 9 sep 2005 nr. 1044, 25 okt 2005 nr. 1251, 23 jan 2006 nr. 94, 26 okt 2006 nr. 1201, 13 nov 2006 nr. 1263, 20 des 2006 nr. 1519, 29 mars 2007 nr. 511, 31 juli 2007 nr. 941, 20 des 2007 nr. 1694, 6 feb 2009 nr. 148, 3 juni 2009 nr. 585, 14 des 2009 nr. 1538, 14 jan 2010 nr. 65 jf. vedtak 22 feb 2010 nr. 233, 10 feb 2010 nr. 151 som endret ved forskrift 19 feb 2010 nr. 316, 23 juli 2010 nr. 1138, 12 nov 2010 nr. 1425, 19 april 2011 nr. 427, 29 juni 2011 nr. 728, 6 des 2011 nr. 1235, 2 mai 2012 nr. 396, 2 mai 2012 nr. 397, 1 nov 2012 nr. 1038, 2 juli 2013 nr. 890, 26 sep 2013 nr. 1159, 29 okt 2013 nr. 1274, 19 sep 2014 nr. 1235, 5 mai 2015 nr. 461, 11 mai 2015 nr. 492, 5 okt 2015 nr. 1147, 18 mars 2016 nr. 318, 25 april 2016 nr. 428, 7 juni 2017 nr. 905, 5 mars 2018 nr. 298, 25 juni 2020 nr. 1515, 18 jan 2021 nr. 132, 30 april 2025 nr. 744. Rettelser: 10.10.2015 (EØS-henvisning).
+- **Merknad:** Hjemmel: Fastsatt av Landbruksdepartementet og Fiskeridepartementet 7. november 2002 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 5, § 6, § 7, § 9, § 10, § 12, § 14, § 15, § 16, § 17, § 21, § 23, § 32 og § 33 første ledd, jf. § 36 andre ledd, jf. delegeringsvedtak 19. desember 2003 nr. 1790. Tilføyd hjemmel: Delegeringsvedtak 5. mai 2004 nr. 884. EØS-henvisninger: EØS-avtalen vedlegg I kap. II nr. 1 direktiv 93/74/EØF (endret ved direktiv 96/25/EF og direktiv 1999/29/EF), direktiv 82/475/EØF (endret ved direktiv 98/67/EF og direktiv 1991/334/EF), direktiv 2002/32/EF (endret ved direktiv 2003/57/EF, direktiv 2003/5/EF, direktiv 2003/100/EF, direktiv 2005/8/EF, direktiv 2005/86/EF, direktiv 2005/87/EF, direktiv 2006/13/EF, direktiv 2006/77/EF, direktiv 2008/76/EF, direktiv 2009/8/EF, direktiv 2009/141/EF, direktiv 2010/6/EF, forordning (EU) nr. 574/2011, forordning (EU) nr. 277/2012, forordning (EU) nr. 744/2012, forordning (EU) nr. 107/2013, forordning (EU) nr. 1275/2013, forordning (EU) 2015/186, forordning (EU) 2015/786, forordning (EU) 2017/2229 og forordning (EU) 2019/1869), forordning (EF) nr. 1831/2003, vedtak 2007/623/EF, forordning (EF) nr. 767/2009. Endret ved forskrifter 28 mai 2003 nr. 641, 30 juni 2003 nr. 976, 27 aug 2003 nr. 1109, 1 okt 2003 nr. 1238, 11 april 2003 nr. 477, 26 aug 2003 nr. 1086, 9 jan 2004 nr. 199, 16 feb 2004 nr. 450, 19 mai 2004 nr. 786, 16 nov 2004 nr. 1469, 12 april 2005 nr. 320, 9 sep 2005 nr. 1044, 25 okt 2005 nr. 1251, 23 jan 2006 nr. 94, 26 okt 2006 nr. 1201, 13 nov 2006 nr. 1263, 20 des 2006 nr. 1519, 29 mars 2007 nr. 511, 31 juli 2007 nr. 941, 20 des 2007 nr. 1694, 6 feb 2009 nr. 148, 3 juni 2009 nr. 585, 14 des 2009 nr. 1538, 14 jan 2010 nr. 65 jf. vedtak 22 feb 2010 nr. 233, 10 feb 2010 nr. 151 som endret ved forskrift 19 feb 2010 nr. 316, 23 juli 2010 nr. 1138, 12 nov 2010 nr. 1425, 19 april 2011 nr. 427, 29 juni 2011 nr. 728, 6 des 2011 nr. 1235, 2 mai 2012 nr. 396, 2 mai 2012 nr. 397, 1 nov 2012 nr. 1038, 2 juli 2013 nr. 890, 26 sep 2013 nr. 1159, 29 okt 2013 nr. 1274, 19 sep 2014 nr. 1235, 5 mai 2015 nr. 461, 11 mai 2015 nr. 492, 5 okt 2015 nr. 1147, 18 mars 2016 nr. 318, 25 april 2016 nr. 428, 7 juni 2017 nr. 905, 5 mars 2018 nr. 298, 25 juni 2020 nr. 1515, 18 jan 2021 nr. 132, 30 april 2025 nr. 744, 12 nov 2026 nr. 2403. Rettelser: 10.10.2015 (EØS-henvisning).
 - **Kilde:** <https://lovdata.no/forskrift/2002-11-07-1290>
 
 ## Kapittel I – Formål, virkeområde og definisjoner
@@ -29,9 +29,9 @@ Formålet med denne forskrift er å sikre at fôret er trygt og dermed ikke er h
 
 Forskriften gjelder tilvirkning, innførsel, utførsel og omsetning av fôrvarer til dyr, samt fôring av dyr.
 
-For fôrvarer som tilvirkes og omsettes til vitenskapelig bruk ved private eller offentlige forskningsinstitusjoner, gjelder kun [§ 4a](for-2002-11-07-1290-forvareforskriften-forforskriften.md), [§ 4b](for-2002-11-07-1290-forvareforskriften-forforskriften.md), [§ 5](for-2002-11-07-1290-forvareforskriften-forforskriften.md) og [§ 6](for-2002-11-07-1290-forvareforskriften-forforskriften.md) med tilhørende vedlegg. Tilsynsmyndigheten kan etter søknad gi dispensasjon og fastsette vilkår for dispensasjonen.
+For fôrvarer til vitenskapelig bruk ved private eller offentlige forskningsinstitusjoner, gjelder kun [§ 4a](for-2002-11-07-1290-forvareforskriften-forforskriften.md), [§ 4b](for-2002-11-07-1290-forvareforskriften-forforskriften.md), [§ 5](for-2002-11-07-1290-forvareforskriften-forforskriften.md) og [§ 6](for-2002-11-07-1290-forvareforskriften-forforskriften.md) med tilhørende vedlegg.
 
-*Endret ved [forskrifter 19 mai 2004 nr. 786](https://lovdata.no/forskrift/2004-05-19-786), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010), [12 nov 2010 nr. 1425](https://lovdata.no/forskrift/2010-11-12-1425), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [25 april 2016 nr. 428](https://lovdata.no/forskrift/2016-04-25-428).*
+*Endret ved [forskrifter 19 mai 2004 nr. 786](https://lovdata.no/forskrift/2004-05-19-786), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010), [12 nov 2010 nr. 1425](https://lovdata.no/forskrift/2010-11-12-1425), [26 sep 2013 nr. 1159](https://lovdata.no/forskrift/2013-09-26-1159), [25 april 2016 nr. 428](https://lovdata.no/forskrift/2016-04-25-428), [12 nov 2026 nr. 2403](https://lovdata.no/forskrift/2026-11-12-2403).*
 
 ### § 3. Definisjoner
 
@@ -84,27 +84,21 @@ I denne forskriften menes med:
 
 *Endret ved [forskrift 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 7), opphevet ved [forskrift 25 april 2016 nr. 428](https://lovdata.no/forskrift/2016-04-25-428).*
 
-### § 4a. Godkjenning av genmodifiserte fôrvarer og tilsetningsstoffer
+### § 4a. Godkjenning av genmodifiserte fôrvarer
 
-Fôrvarer herunder tilsetningsstoffer, som består av, inneholder eller er fremstilt på grunnlag av genmodifiserte organismer, er ikke tillatt omsatt eller markedsført med mindre Mattilsynet har godkjent dette. Unntak gjelder for:
+Tilvirkning, innførsel, omsetning og bruk av fôrvarer som er fremstilt på grunnlag av genmodifiserte organismer er bare tillatt:
 
-1. produkter som omfattes av [lov 2. april 1993 nr. 38](../lover/lov-1993-04-02-38-genteknologiloven.md) (genteknologiloven),
-2. produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
+1. når fôrvarene er godkjent av Mattilsynet, eller
+2. når fôrvarene skal brukes i fiskefôr, og er godkjent i EU.
 
-Godkjenningsplikt etter første ledd gjelder ikke ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale forutsatt at virksomheten kan dokumentere dette, samt forutsatt:
+Unntatt fra godkjenningskravet i første ledd er dokumentert utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale med opp til 0,9 % dersom det genmodifiserte materialet er godkjent i EU, eller opp til 0,5 % dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av EFSA eller Vitenskapskomiteen for mat og miljø samt at analysemetodikk er offentlig tilgjengelig.
 
-1. tilstedeværelse opp til 0,9% dersom det genmodifiserte materialet er godkjent i EU, eller
-2. tilstedeværelse opp til 0,5% dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av enten EFSA/EUs vitenskapskomiteer eller den norske Vitenskapskomiteen for Mattrygghet samt at analysemetodikk er offentlig tilgjengelig.
+Bestemmelsene i første ledd gjelder ikke produkter som:
 
-I forbindelse med søknad eller godkjenning kan Mattilsynet stille krav om analysemetodikk, prøvemateriale og sporbarhet mv.
+1. er omfattet av godkjenningskrav i [lov 2. april 1993 nr. 38 (genteknologiloven)](../lover/lov-1993-04-02-38-genteknologiloven.md)
+2. er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte prosesshjelpemidler samt fôrmidler og tilsetningsstoffer som er behandlet med genmodifiserte prosesshjelpemidler.
 
-Det stilles krav om angivelse av unik identifikasjonskode for genmodifiserte organismer i ledsagende dokument for produkter som består av eller inneholder slike organismer i [forskrift 2. september 2005 nr. 1009](for-2005-09-02-1009-forskrift-om-merking-mv-av-gmo.md) om merking, transport, import og eksport av genmodifiserte organismer.
-
-Fôrvarer og tilsetningsstoff som allerede finnes på det norske markedet pr. 15. september 2005, kan fortsatt omsettes forutsatt at det innen 15. mars 2006 er sendt melding til Mattilsynet med informasjon om fôrvaren eller tilsetningsstoffet. Innen 15. september 2008 må det for disse fôrvarene og tilsetningsstoffene søkes om godkjenning etter [§ 7](for-2002-11-07-1290-forvareforskriften-forforskriften.md)a.
-
-Mattilsynet kan fastsette utfyllende forskrifter for gjennomføringen av bestemmelsene i denne paragraf.
-
-*Tilføyd ved [forskrift 9 sep 2005 nr. 1044](https://lovdata.no/forskrift/2005-09-09-1044) (i kraft 15 sep 2005), endret ved [forskrift 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 7a).*
+*Tilføyd ved [forskrift 9 sep 2005 nr. 1044](https://lovdata.no/forskrift/2005-09-09-1044) (i kraft 15 sep 2005), endret ved [forskrifter 14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 7a), [12 nov 2026 nr. 2403](https://lovdata.no/forskrift/2026-11-12-2403).*
 
 ### § 4b. Merking av genmodifiserte fôrmidler og tilsetningsstoffer
 
@@ -258,7 +252,9 @@ Alle utgifter som påløper i forbindelse med vedtak truffet i henhold til førs
 
 Mattilsynet kan i særlige tilfelle dispensere fra bestemmelsene i denne forskriften forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser herunder EØS-avtalen.
 
-*Endret ved [forskrifter 9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 43).*
+Mattilsynet kan dispensere fra bestemmelsene i [§ 4a](for-2002-11-07-1290-forvareforskriften-forforskriften.md) og [§ 6](for-2002-11-07-1290-forvareforskriften-forforskriften.md) når fôrvarene er til vitenskapelig bruk i private eller offentlige forskningsinstitusjoner.
+
+*Endret ved [forskrifter 9 jan 2004 nr. 199](https://lovdata.no/forskrift/2004-01-09-199), [14 jan 2010 nr. 65](https://lovdata.no/forskrift/2010-01-14-65) som endret ved [vedtak 22 feb 2010 nr. 233](https://lovdata.no/forskrift/2010-02-22-233) (i kraft 1 mars 2010, tidligere § 43), [12 nov 2026 nr. 2403](https://lovdata.no/forskrift/2026-11-12-2403).*
 
 ### § 25. Straff
 

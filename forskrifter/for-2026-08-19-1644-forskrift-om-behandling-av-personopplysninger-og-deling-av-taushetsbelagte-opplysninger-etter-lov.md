@@ -12,7 +12,7 @@
 
 ## § 1. Behandling av personopplysninger
 
-Når det er nødvendig for å gjennomføre oppgaver beskrevet i [lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold § 3](../lover/lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md), kan følgende offentlige organer behandle personopplysninger:
+Når det er nødvendig for å gjennomføre oppgaver beskrevet i [lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold § 3](../lover/lov-2026-06-12-25-lov-om-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md), kan følgende offentlige organer behandle personopplysninger:
 
 a. Arbeids- og velferdsdirektoratet
 b. Barne-, ungdoms- og familiedirektoratet
@@ -89,9 +89,9 @@ Så langt det er praktisk mulig, skal barn motta alderstilpasset informasjon om 
 
 Offentlige organer nevnt i [§ 1](for-2026-08-19-1644-forskrift-om-behandling-av-personopplysninger-og-deling-av-taushetsbelagte-opplysninger-etter-lov.md) er behandlingsansvarlige for egen behandling av personopplysninger etter denne forskriften.
 
-Barne-, ungdoms- og familiedirektoratet har behandlingsansvar for opplysninger registrert i statistikkløsningen som benyttes av det nasjonale tverretatlige kompetanseteamet i [lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold § 3 første ledd bokstav a](../lover/lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md).
+Barne-, ungdoms- og familiedirektoratet har behandlingsansvar for opplysninger registrert i statistikkløsningen som benyttes av det nasjonale tverretatlige kompetanseteamet i [lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold § 3 første ledd bokstav a](../lover/lov-2026-06-12-25-lov-om-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md).
 
-Integrerings- og mangfoldsdirektoratet har behandlingsansvar for opplysninger registrert i statistikkløsningen som benyttes av rådgiverne med kompetanse på negativ sosial kontroll og æresmotivert vold og spesialutsendingene for integreringssaker i [lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold § 3 første ledd bokstav b](../lover/lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md) og [c](../lover/lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md).
+Integrerings- og mangfoldsdirektoratet har behandlingsansvar for opplysninger registrert i statistikkløsningen som benyttes av rådgiverne med kompetanse på negativ sosial kontroll og æresmotivert vold og spesialutsendingene for integreringssaker i [lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold § 3 første ledd bokstav b](../lover/lov-2026-06-12-25-lov-om-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md) og [c](../lover/lov-2026-06-12-25-lov-om-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md).
 
 ## § 6. Lagringstid
 

@@ -21,7 +21,7 @@
 
 (1) Autorisasjonsprøven i oversettelse tilbys fra norsk til fremmedspråk (prøve 1) og fra fremmedspråk til norsk (prøve 2).
 
-(2) Autorisasjonsprøven er todelt: hjemmeeksamen og skoleeksamen, jf. [§§ 4](https://lovdata.no/forskrift/2026-11-10-2387/§4) og [5](https://lovdata.no/forskrift/2026-11-10-2387/§5). Autorisasjonsprøven regnes som fullført når både hjemmeeksamen og skoleeksamen i samme prøve er bestått.
+(2) Autorisasjonsprøven er todelt: hjemmeeksamen og skoleeksamen, jf. [§§ 4](for-2026-11-10-2387-forskrift-om-autorisasjonsproven-ved-norges-handelshoyskole-for-aa-bli-statsautorisert-translator.md) og [5](for-2026-11-10-2387-forskrift-om-autorisasjonsproven-ved-norges-handelshoyskole-for-aa-bli-statsautorisert-translator.md). Autorisasjonsprøven regnes som fullført når både hjemmeeksamen og skoleeksamen i samme prøve er bestått.
 
 ## § 3. Vilkår for adgang til og gjennomføring av autorisasjonsprøven
 
@@ -41,7 +41,7 @@
 
 ## § 5. Skoleeksamen
 
-Gjennomføring av skoleeksamen forutsetter at hjemmeeksamen er bestått og gyldig, jf. [§ 4](https://lovdata.no/forskrift/2026-11-10-2387/§4).
+Gjennomføring av skoleeksamen forutsetter at hjemmeeksamen er bestått og gyldig, jf. [§ 4](for-2026-11-10-2387-forskrift-om-autorisasjonsproven-ved-norges-handelshoyskole-for-aa-bli-statsautorisert-translator.md).
 
 ## § 6. Eksamensforsøk og trekkfrist
 
