@@ -58,7 +58,7 @@
     },
     {
       "date_code": "LOV-1814-05-17",
-      "last_updated": "2021-07-01",
+      "last_updated": "2026-11-03",
       "legal_area": "Stats-, statsforfatnings- og statsborgerrett > Grunnloven; Stats-, statsforfatnings- og statsborgerrett > Stortinget",
       "ministry": "Justis- og beredskapsdepartementet",
       "path": "lover/lov-1814-05-17-grunnloven-bokmaal.md",
@@ -6518,8 +6518,8 @@
       "last_updated": null,
       "legal_area": "Fiskeri- og fangstrett og havbruk; Forvaltnings- og kommunalrett > Offentlige reguleringer; Internasjonal rett > Havrett; Stats-, statsforfatnings- og statsborgerrett > Grenser; Miljøvern, natur og friluftsliv > Naturmangfold/naturfredning",
       "ministry": "Klima- og miljødepartementet",
-      "path": "lover/lov-2025-05-27-21-lov-om-bevaring-og-baerekraftig-bruk-av-marint-naturmangfold-i-omraader-utenfor-nasjonal-jurisdiksjo.md",
-      "slug": "lov-2025-05-27-21-lov-om-bevaring-og-baerekraftig-bruk-av-marint-naturmangfold-i-omraader-utenfor-nasjonal-jurisdiksjo",
+      "path": "lover/lov-2025-05-27-21-lov-om-marint-naturmangfold-i-omraader-utenfor-nasjonal-jurisdiksjon.md",
+      "slug": "lov-2025-05-27-21-lov-om-marint-naturmangfold-i-omraader-utenfor-nasjonal-jurisdiksjon",
       "source_url": "https://lovdata.no/lov/2025-05-27-21",
       "title": "Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon",
       "type": "law"
@@ -6947,8 +6947,8 @@
       "last_updated": null,
       "legal_area": "Familie-, person- og barnerett > Personrett. Personvern; Pensjons- og trygderett > Utenfor folketrygdloven > Sosiale tjenester; Strafferett > Vold",
       "ministry": "Arbeids- og inkluderingsdepartementet",
-      "path": "lover/lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md",
-      "slug": "lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold",
+      "path": "lover/lov-2026-06-12-25-lov-om-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md",
+      "slug": "lov-2026-06-12-25-lov-om-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold",
       "source_url": "https://lovdata.no/lov/2026-06-12-25",
       "title": "Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold",
       "type": "law"
@@ -7211,8 +7211,8 @@
       "last_updated": null,
       "legal_area": "HMS og beredskaps- og sikkerhetsrett > Samfunnssikkerhet; IKT- og medierett > Personopplysninger; Sivil- og straffeprosess > Sivilprosess/tvisteloven; Sivil- og straffeprosess > Straffeprosess/straffeprosessloven",
       "ministry": "Justis- og beredskapsdepartementet",
-      "path": "lover/lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md",
-      "slug": "lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har",
+      "path": "lover/lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md",
+      "slug": "lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene",
       "source_url": "https://lovdata.no/lov/2026-06-23-75",
       "title": "Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene",
       "type": "law"

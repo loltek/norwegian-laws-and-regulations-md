@@ -1,5 +1,6 @@
 # Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon
 
+- **Korttittel:** Lov om marint naturmangfold i områder utenfor nasjonal jurisdiksjon
 - **Datokode:** LOV-2025-05-27-21
 - **DokumentID:** NL/lov/2025-05-27-21
 - **Departement:** Klima- og miljødepartementet

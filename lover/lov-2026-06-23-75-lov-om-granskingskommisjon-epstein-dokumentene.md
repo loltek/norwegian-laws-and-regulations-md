@@ -1,5 +1,6 @@
 # Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene
 
+- **Korttittel:** Lov om granskingskommisjon, Epstein-dokumentene
 - **Datokode:** LOV-2026-06-23-75
 - **DokumentID:** NL/lov/2026-06-23-75
 - **Departement:** Justis- og beredskapsdepartementet

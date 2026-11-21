@@ -1,5 +1,6 @@
 # Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold
 
+- **Korttittel:** Lov om innsats mot negativ sosial kontroll og æresmotivert vold
 - **Datokode:** LOV-2026-06-12-25
 - **DokumentID:** NL/lov/2026-06-12-25
 - **Departement:** Arbeids- og inkluderingsdepartementet
