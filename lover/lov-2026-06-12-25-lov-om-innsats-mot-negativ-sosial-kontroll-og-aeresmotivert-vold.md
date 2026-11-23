@@ -37,7 +37,7 @@ Departementet kan gi forskrift om oppgavene som nevnt i første ledd og hvilke o
 
 ## § 4. Behandling av personopplysninger
 
-Offentlige organer som utfører oppgaver etter [§ 3](lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md) første eller andre ledd, kan behandle personopplysninger, også personopplysninger nevnt i [personvernforordningen artikkel 9](lov-2018-06-15-38-personopplysningsloven.md) og [10](lov-2018-06-15-38-personopplysningsloven.md), når det er nødvendig for å utføre oppgavene.
+Offentlige organer som utfører oppgaver etter [§ 3](lov-2026-06-12-25-lov-om-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md) første eller andre ledd, kan behandle personopplysninger, også personopplysninger nevnt i [personvernforordningen artikkel 9](lov-2018-06-15-38-personopplysningsloven.md) og [10](lov-2018-06-15-38-personopplysningsloven.md), når det er nødvendig for å utføre oppgavene.
 
 Personopplysninger skal så langt som mulig innhentes i samarbeid med personen som ber om bistand, eller slik at personen har kjennskap til innhentingen.
 
@@ -47,7 +47,7 @@ Departementet kan gi forskrift om behandlingen av personopplysninger etter denne
 
 ## § 5. Deling av taushetsbelagte opplysninger
 
-Offentlige organer som utfører oppgaver etter [§ 3](lov-2026-06-12-25-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md) første eller andre ledd, kan uten hinder av lovbestemt taushetsplikt dele opplysninger med hverandre, og med offentlige organer som ikke har oppgaver etter denne loven, når det er nødvendig for å utføre oppgavene.
+Offentlige organer som utfører oppgaver etter [§ 3](lov-2026-06-12-25-lov-om-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md) første eller andre ledd, kan uten hinder av lovbestemt taushetsplikt dele opplysninger med hverandre, og med offentlige organer som ikke har oppgaver etter denne loven, når det er nødvendig for å utføre oppgavene.
 
 Private som utfører oppgaver for staten, fylkeskommune eller kommune, og privatskoler godkjent etter [privatskolelova](https://lovdata.no/lov/2003-07-04-84) eller [opplæringslova § 22-1](https://lovdata.no/lov/2023-06-09-30/§22-1) skal regnes som offentlige organer etter første ledd.
 

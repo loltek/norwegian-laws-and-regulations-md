@@ -22,7 +22,7 @@ Kommisjonen skal undersøke forhold som har blitt aktualisert gjennom offentligg
 
 ### § 3. Habilitet
 
-[Domstolloven §§ 106](lov-1915-08-13-5-domstolloven.md) og [108](lov-1915-08-13-5-domstolloven.md) gjelder tilsvarende for kommisjonens medlemmer og enhver som utfører arbeid eller tjeneste for kommisjonen. Der [domstolloven](lov-1915-08-13-5-domstolloven.md) bruker begrepet part, skal dette i denne loven omfatte alle som faller inn under definisjonen av den berørte i [§ 17 første ledd](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md).
+[Domstolloven §§ 106](lov-1915-08-13-5-domstolloven.md) og [108](lov-1915-08-13-5-domstolloven.md) gjelder tilsvarende for kommisjonens medlemmer og enhver som utfører arbeid eller tjeneste for kommisjonen. Der [domstolloven](lov-1915-08-13-5-domstolloven.md) bruker begrepet part, skal dette i denne loven omfatte alle som faller inn under definisjonen av den berørte i [§ 17 første ledd](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md).
 
 Dersom det oppstår spørsmål om inhabilitet for kommisjonens medlemmer eller personer som utfører arbeid eller tjeneste for kommisjonen, gjelder saksbehandlingsreglene i [forvaltningsloven § 8](lov-1967-02-10-forvaltningsloven.md) så langt de passer.
 
@@ -48,11 +48,11 @@ Om godtgjørelse til den som etterkommer et pålegg etter første ledd, gjelder 
 
 ### § 7. Rettergangsstraff og erstatning
 
-Kommisjonen kan ved kjennelse ilegge den som ikke etterkommer rettskraftig pålegg etter [§ 6 første ledd](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md), rettergangsstraff eller erstatningsplikt etter [domstolloven §§ 205](lov-1915-08-13-5-domstolloven.md), [206](lov-1915-08-13-5-domstolloven.md), [207](lov-1915-08-13-5-domstolloven.md) og [209](lov-1915-08-13-5-domstolloven.md). [Domstolloven § 215](lov-1915-08-13-5-domstolloven.md) gjelder tilsvarende.
+Kommisjonen kan ved kjennelse ilegge den som ikke etterkommer rettskraftig pålegg etter [§ 6 første ledd](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md), rettergangsstraff eller erstatningsplikt etter [domstolloven §§ 205](lov-1915-08-13-5-domstolloven.md), [206](lov-1915-08-13-5-domstolloven.md), [207](lov-1915-08-13-5-domstolloven.md) og [209](lov-1915-08-13-5-domstolloven.md). [Domstolloven § 215](lov-1915-08-13-5-domstolloven.md) gjelder tilsvarende.
 
 ### § 8. Anke til Høyesterett
 
-Kommisjonens kjennelser etter [§§ 6](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md) og [7](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md) kan ankes til Høyesterett. Anken avgjøres av Høyesteretts ankeutvalg, jf. [tvisteloven § 30-1 andre ledd](lov-2005-06-17-90-tvisteloven.md). [Tvisteloven § 30-9](lov-2005-06-17-90-tvisteloven.md) gjelder tilsvarende.
+Kommisjonens kjennelser etter [§§ 6](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md) og [7](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md) kan ankes til Høyesterett. Anken avgjøres av Høyesteretts ankeutvalg, jf. [tvisteloven § 30-1 andre ledd](lov-2005-06-17-90-tvisteloven.md). [Tvisteloven § 30-9](lov-2005-06-17-90-tvisteloven.md) gjelder tilsvarende.
 
 ### § 9. Straff for uriktig forklaring
 
@@ -62,7 +62,7 @@ Om straffansvar for uriktig forklaring gjelder [straffeloven § 221 første ledd
 
 ### § 10. Taushetsplikt
 
-Medlemmene av kommisjonen og enhver som utfører arbeid eller tjeneste for kommisjonen, har taushetsplikt etter reglene i [forvaltningsloven §§ 13](lov-1967-02-10-forvaltningsloven.md) til [13 f](lov-1967-02-10-forvaltningsloven.md). [Forvaltningsloven § 13 b første ledd nr. 6](lov-1967-02-10-forvaltningsloven.md) gjelder ikke. Taushetsplikten er likevel ikke til hinder for at kommisjonen anmelder eller gir opplysninger til påtalemyndigheten om uriktige forklaringer for kommisjonen, jf. [§ 9](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md) og [straffeloven § 221](lov-2005-05-20-28-straffeloven.md).
+Medlemmene av kommisjonen og enhver som utfører arbeid eller tjeneste for kommisjonen, har taushetsplikt etter reglene i [forvaltningsloven §§ 13](lov-1967-02-10-forvaltningsloven.md) til [13 f](lov-1967-02-10-forvaltningsloven.md). [Forvaltningsloven § 13 b første ledd nr. 6](lov-1967-02-10-forvaltningsloven.md) gjelder ikke. Taushetsplikten er likevel ikke til hinder for at kommisjonen anmelder eller gir opplysninger til påtalemyndigheten om uriktige forklaringer for kommisjonen, jf. [§ 9](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md) og [straffeloven § 221](lov-2005-05-20-28-straffeloven.md).
 
 Når personer som nevnt i første ledd mottar opplysninger som er undergitt strengere taushetsplikt enn det som følger av [forvaltningsloven](lov-1967-02-10-forvaltningsloven.md), skal de strengere reglene gjelde. Det samme gjelder etter at materialet har blitt avlevert til statlig bevaringsinstitusjon for de som er ansatt i eller som utfører arbeid eller tjeneste for bevaringsinstitusjonen.
 
@@ -70,7 +70,7 @@ Taushetsplikten gjelder også etter at kommisjonen har avsluttet arbeidet.
 
 ### § 11. Forbud mot bruk av opplysninger som bevis i straffesak eller sivil sak
 
-Opplysninger som kommisjonen har mottatt i medhold av [§§ 4](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md) og [6](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md), kan ikke benyttes som bevis i en straffesak eller sivil sak, eller som dokumentasjon i tilsynssaker som kan gi grunnlag for reaksjoner mot enkeltpersoner. Forbudet er ikke til hinder for at det i en straffesak som gjelder uriktig forklaring etter [straffeloven § 221](lov-2005-05-20-28-straffeloven.md), føres bevis om innholdet i forklaringer som er avgitt til kommisjonen.
+Opplysninger som kommisjonen har mottatt i medhold av [§§ 4](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md) og [6](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md), kan ikke benyttes som bevis i en straffesak eller sivil sak, eller som dokumentasjon i tilsynssaker som kan gi grunnlag for reaksjoner mot enkeltpersoner. Forbudet er ikke til hinder for at det i en straffesak som gjelder uriktig forklaring etter [straffeloven § 221](lov-2005-05-20-28-straffeloven.md), føres bevis om innholdet i forklaringer som er avgitt til kommisjonen.
 
 ### § 12. Behandling av personopplysninger
 
@@ -158,4 +158,4 @@ Kommisjonen har ansvaret for den økonomiske styringen av sin virksomhet basert 
 
 Loven trer i kraft straks.
 
-Loven, med unntak av [§§ 1](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md), [9](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md), [10](https://lovdata.no/lov/2025-06-20-96/§10), [11](lov-1995-02-03-7-eos-kontrolloven.md), [12](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md), [13 første ledd](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md), [§ 14 første ledd](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md) bokstavene b til e, [§ 15](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md) og [§ 18 andre ledd](lov-2026-06-23-75-lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-aa-undersoke-forhold-som-har.md), oppheves når kommisjonen har avsluttet sitt arbeid.
+Loven, med unntak av [§§ 1](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md), [9](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md), [10](https://lovdata.no/lov/2025-06-20-96/§10), [11](lov-1995-02-03-7-eos-kontrolloven.md), [12](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md), [13 første ledd](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md), [§ 14 første ledd](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md) bokstavene b til e, [§ 15](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md) og [§ 18 andre ledd](lov-2026-06-23-75-lov-om-granskingskommisjon-epstein-dokumentene.md), oppheves når kommisjonen har avsluttet sitt arbeid.

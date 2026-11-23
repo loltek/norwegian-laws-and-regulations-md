@@ -215,7 +215,7 @@ Ingen fremmede stridskrefter, unntatt allierte styrker, må gis adgang til riket
 
 Kongen har ikke rett til å bruke militær makt mot innbyggerne uten etter lov.
 
-*Endret ved vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](https://lovdata.no/forskrift/2014-05-09-613), 14 mai 2020 kunngjort ved [res. 29 mai 2020 nr. 1085](https://lovdata.no/forskrift/2020-05-29-1085), 3 nov 2026 (kunngjort ved [res. 20 nov 2026 nr. 2435](https://lovdata.no/forskrift/2026-11-20-2435)).*
+*Endret ved vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](https://lovdata.no/forskrift/2014-05-09-613), 14 mai 2020 kunngjort ved [res. 29 mai 2020 nr. 1085](https://lovdata.no/forskrift/2020-05-29-1085), 3 nov 2026 kunngjort ved [res. 20 nov 2026 nr. 2435](https://lovdata.no/forskrift/2026-11-20-2435).*
 
 ### § 26.
 
@@ -223,7 +223,7 @@ Kongen har rett til å inngå og oppheve folkerettslige avtaler og til å sende 
 
 Folkerettslige avtaler om saker som er av særlig stor viktighet, og i alle tilfeller folkerettslige avtaler hvis iverksettelse etter Grunnloven nødvendiggjør en ny lov eller et stortingsvedtak, blir først bindende når Stortinget har gitt sitt samtykke dertil.
 
-*Endret ved vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](https://lovdata.no/forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](https://lovdata.no/forskrift/2014-05-09-613), 3 nov 2026 (kunngjort ved [res. 20 nov 2026 nr. 2435](https://lovdata.no/forskrift/2026-11-20-2435)).*
+*Endret ved vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](https://lovdata.no/forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](https://lovdata.no/forskrift/2014-05-09-613), 3 nov 2026 kunngjort ved [res. 20 nov 2026 nr. 2435](https://lovdata.no/forskrift/2026-11-20-2435).*
 
 ### § 27.
 
@@ -319,7 +319,7 @@ Inntil Stortinget er samlet og har anordnet regjeringen under kongens mindreåri
 
 Er kongen fraværende fra riket uten å være i felt, eller er han så syk at han ikke kan ivareta regjeringen, skal den som er nærmest arveberettiget til tronen, forestå regjeringen som kongemaktens midlertidige utøver, så fremt han eller hun har oppnådd den for kongen fastsatte myndighetsalder. Kan heller ikke den nærmest arveberettigede forestå regjeringen, forestår dennes barn regjeringen som kongemaktens midlertidige utøver, så fremt han eller hun er neste arveberettigede til tronen og har oppnådd den for kongen fastsatte myndighetsalder. I motsatt fall forestår statsrådet bestyrelsen av riket.
 
-*Endret ved grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](https://lovdata.no/forskrift/1990-07-13-550), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](https://lovdata.no/forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](https://lovdata.no/forskrift/2014-05-09-613), 3 nov 2026 (kunngjort ved [res. 20 nov 2026 nr. 2434](https://lovdata.no/forskrift/2026-11-20-2434)).*
+*Endret ved grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](https://lovdata.no/forskrift/1990-07-13-550), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](https://lovdata.no/forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](https://lovdata.no/forskrift/2014-05-09-613), 3 nov 2026 kunngjort ved [res. 20 nov 2026 nr. 2434](https://lovdata.no/forskrift/2026-11-20-2434).*
 
 ### § 42.
 
@@ -604,7 +604,7 @@ j. å utnevne fem revisorer som årlig skal gjennomse statens regnskaper og bekj
 k. å utnevne en person som ikke er medlem av Stortinget, til på en måte som er nærmere bestemt i lov, å føre kontroll med den offentlige forvaltning og alle som virker i dens tjeneste, for å søke å sikre at det ikke øves urett mot den enkelte borger;
 l. å naturalisere fremmede.
 
-*Endret ved grunnlovsvedtak 13 aug 1857, 24 apr 1869, 22 juni 1880, 30 juni 1891, 11 juni 1898, vedtak 18 nov 1905, grunnlovsvedtak 8 juni 1907, 24 mars 1911, 8 apr 1916 kunngjort 28 apr 1916, 7 des 1917 kunngjort 14 des 1917, 10 feb 1959 kunngjort 27 feb 1959, 9 feb 1967 kunngjort 23 feb 1967, 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](https://lovdata.no/forskrift/1990-07-13-550), 7 juni 1995 kunngjort ved [res. 23 juni 1995 nr. 567](https://lovdata.no/forskrift/1995-06-23-567), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](https://lovdata.no/forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](https://lovdata.no/forskrift/2014-05-09-613), 3 nov 2026 (kunngjort ved [res. 20 nov 2026 nr. 2435](https://lovdata.no/forskrift/2026-11-20-2435)).*
+*Endret ved grunnlovsvedtak 13 aug 1857, 24 apr 1869, 22 juni 1880, 30 juni 1891, 11 juni 1898, vedtak 18 nov 1905, grunnlovsvedtak 8 juni 1907, 24 mars 1911, 8 apr 1916 kunngjort 28 apr 1916, 7 des 1917 kunngjort 14 des 1917, 10 feb 1959 kunngjort 27 feb 1959, 9 feb 1967 kunngjort 23 feb 1967, 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](https://lovdata.no/forskrift/1990-07-13-550), 7 juni 1995 kunngjort ved [res. 23 juni 1995 nr. 567](https://lovdata.no/forskrift/1995-06-23-567), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](https://lovdata.no/forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](https://lovdata.no/forskrift/2014-05-09-613), 3 nov 2026 kunngjort ved [res. 20 nov 2026 nr. 2435](https://lovdata.no/forskrift/2026-11-20-2435).*
 
 ### § 76.
 

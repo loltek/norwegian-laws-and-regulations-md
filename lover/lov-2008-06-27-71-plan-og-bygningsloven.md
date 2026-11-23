@@ -1259,7 +1259,7 @@ Dersom tiltak eller planer som behandles etter dette kapitlet kan få vesentlige
 
 Dersom tiltak som gjennomføres i marine områder, kan forårsake betydelig forurensning av eller vesentlige og skadelige forandringer i det marine miljøet i områder utenfor nasjonal jurisdiksjon, skal ansvarlig myndighet sørge for deling av nødvendig informasjon. Delingen skal skje gjennom Mekanismen for informasjonsutveksling, som er opprettet i medhold av Avtale om bevaring og bærekraftig bruk av marint biologisk mangfold i områder utenfor nasjonal jurisdiksjon under [Havrettskonvensjonen](https://lovdata.no/traktat/1982-12-10-1). Første og andre punktum gjelder ikke for Forsvarets aktiviteter, inkludert Forsvarets aktiviteter utført av statlige fartøy og luftfartøy i ikke-kommersiell tjeneste.
 
-*Endret ved lov [27 mai 2025 nr. 21](lov-2025-05-27-21-lov-om-bevaring-og-baerekraftig-bruk-av-marint-naturmangfold-i-omraader-utenfor-nasjonal-jurisdiksjo.md) (i kraft 17 jan 2026 iflg. [meddelelse 7 nov 2025 nr. 2226](https://lovdata.no/forskrift/2025-11-07-2226)).*
+*Endret ved lov [27 mai 2025 nr. 21](lov-2025-05-27-21-lov-om-marint-naturmangfold-i-omraader-utenfor-nasjonal-jurisdiksjon.md) (i kraft 17 jan 2026 iflg. [meddelelse 7 nov 2025 nr. 2226](https://lovdata.no/forskrift/2025-11-07-2226)).*
 
 ##### § 14-5. Kostnader
 
