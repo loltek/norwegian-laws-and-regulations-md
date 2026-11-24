@@ -8,9 +8,9 @@
 - **Hjemmel:** lov 25.04.2025 nr. 12/§2; lov 25.04.2025 nr. 12/§3; lov 25.04.2025 nr. 12/§11; lov 25.04.2025 nr. 12/§14; lov 25.04.2025 nr. 12/§15; lov 25.04.2025 nr. 12/§16; lov 25.04.2025 nr. 12/§21; lov 25.04.2025 nr. 12/§23; lov 25.04.2025 nr. 12/§25; lov 25.04.2025 nr. 12/§26; lov 25.04.2025 nr. 12/§27; lov 25.04.2025 nr. 12/§31; lov 25.04.2025 nr. 12/§34; lov 25.04.2025 nr. 12/§36; lov 25.04.2025 nr. 12/§40; forskrift 12.06.2025 nr. 1053
 - **Kunngjort:** 2025-07-02 14:25
 - **I kraft fra:** 2026-01-01, 2027-01-01
-- **Siste endring i kraft:** 2026-08-24
-- **Sist endret ved:** forskrift 24.08.2026 nr. 1662
-- **Merknad:** Hjemmel: Fastsatt av Skattedirektoratet 1. juli 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) §§ 2, 3, 11, 14, 15, 16, 21, 23, 25, 26, 27, 31, 34, 36 og 40 og delegeringsvedtak 12. juni 2025 nr. 1053. Endret ved forskrifter 11 des 2025 nr. 2494 (i kraft 1 jan 2026), 24 feb 2026 nr. 274, 24 aug 2026 nr. 1662.
+- **Siste endring i kraft:** 2026-11-19
+- **Sist endret ved:** forskrift 19.11.2026 nr. 2433
+- **Merknad:** Hjemmel: Fastsatt av Skattedirektoratet 1. juli 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) §§ 2, 3, 11, 14, 15, 16, 21, 23, 25, 26, 27, 31, 34, 36 og 40 og delegeringsvedtak 12. juni 2025 nr. 1053. Endret ved forskrifter 11 des 2025 nr. 2494 (i kraft 1 jan 2026), 24 feb 2026 nr. 274, 24 aug 2026 nr. 1662, 19 nov 2026 nr. 2433.
 - **Kilde:** <https://lovdata.no/forskrift/2025-07-01-1396>
 
 ## Kapittel 1. Innledende bestemmelser
@@ -278,6 +278,12 @@ Innkrevingsmyndigheten kan beslutte avregning for
 a. krav etter [folketrygdloven § 22-16](../lover/lov-1997-02-28-19-folketrygdloven.md)
 b. etteroppgjør med hjemmel i [AFP-tilskottsloven § 15](../lover/lov-2010-02-19-5-afp-tilskottsloven.md)
 c. etteroppgjør med hjemmel i [lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d](../lover/lov-2010-06-25-28-lov-om-afp-for-medlemmer-av-statens-pensjonskasse.md).
+
+#### § 2-11. Krav som Innkrevingsmyndigheten kun kan innvilge betalingsavtale og ettergivelse for
+
+Innkrevingsmyndigheten kan innvilge betalingsavtale og ettergivelse etter [innkrevingsloven §§ 17](../lover/lov-2025-04-25-12-innkrevingsloven.md) og [18](../lover/lov-2025-04-25-12-innkrevingsloven.md) for utdanningsstøtte gitt med hjemmel i [utdanningsstøtteloven](../lover/lov-2005-06-03-37-utdanningsstotteloven.md) der lånet ikke er oppsagt av Lånekassen.
+
+*Tilføyd ved forskrift [19 nov 2026 nr. 2433](https://lovdata.no/forskrift/2026-11-19-2433).*
 
 ### Utøvelse av kreditorposisjon
 

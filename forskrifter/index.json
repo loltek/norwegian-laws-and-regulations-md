@@ -1,5 +1,5 @@
 {
-  "count": 5121,
+  "count": 5122,
   "documents": [
     {
       "based_on": [
@@ -50602,7 +50602,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2014-08-22-1097",
-      "last_updated": "2026-11-11",
+      "last_updated": "2026-11-19",
       "legal_area": "",
       "ministry": "Finansdepartementet",
       "path": "forskrifter/for-2014-08-22-1097-crr-crd-forskriften.md",
@@ -85203,7 +85203,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2025-07-01-1396",
-      "last_updated": "2026-08-24",
+      "last_updated": "2026-11-19",
       "legal_area": "",
       "ministry": "Finansdepartementet",
       "path": "forskrifter/for-2025-07-01-1396-innkrevingsforskriften.md",
@@ -93244,6 +93244,22 @@
       "slug": "for-2026-11-18-2405-satsforskriften-2027",
       "source_url": "https://lovdata.no/forskrift/2026-11-18-2405",
       "title": "Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2027",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2009-06-19-58/§5-1",
+        "forskrift/2009-12-15-1523"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-19-2431",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Finansdepartementet",
+      "path": "forskrifter/for-2026-11-19-2431-endr-i-merverdiavgiftsforskriften.md",
+      "slug": "for-2026-11-19-2431-endr-i-merverdiavgiftsforskriften",
+      "source_url": "https://lovdata.no/forskrift/2026-11-19-2431",
+      "title": "Forskrift om endring i merverdiavgiftsforskriften",
       "type": "regulation"
     }
   ]
