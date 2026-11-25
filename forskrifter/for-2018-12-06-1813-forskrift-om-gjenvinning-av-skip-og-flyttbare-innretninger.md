@@ -4,26 +4,26 @@
 - **DokumentID:** SF/forskrift/2018-12-06-1813
 - **Departement:** Klima- og miljødepartementet
 - **Etat:** Forurensningsavdelingen
-- **Hjemmel:** lov 16.02.2007 nr. 9/§33; lov 16.02.2007 nr. 9/§36; lov 16.02.2007 nr. 9/§43; lov 16.02.2007 nr. 9/§44; forskrift 16.02.2007 nr. 171; lov 13.03.1981 nr. 6/§9; lov 13.03.1981 nr. 6/§12; lov 13.03.1981 nr. 6/§16; lov 13.03.1981 nr. 6/§31; lov 13.03.1981 nr. 6/§33; lov 13.03.1981 nr. 6/§49; lov 13.03.1981 nr. 6/§52a; lov 13.03.1981 nr. 6/§81; forskrift 08.07.1983 nr. 1245; forskrift 11.06.1993 nr. 785
+- **Hjemmel:** lov 16.02.2007 nr. 9/§33; lov 16.02.2007 nr. 9/§36; lov 16.02.2007 nr. 9/§43; lov 16.02.2007 nr. 9/§44; forskrift 16.02.2007 nr. 171; lov 13.03.1981 nr. 6/§9; lov 13.03.1981 nr. 6/§12; lov 13.03.1981 nr. 6/§16; lov 13.03.1981 nr. 6/§31; lov 13.03.1981 nr. 6/§33; lov 13.03.1981 nr. 6/§49; lov 13.03.1981 nr. 6/§52a; lov 13.03.1981 nr. 6/§81; forskrift 08.07.1983 nr. 1245; forskrift 11.06.1993 nr. 785; lov 17.06.2005 nr. 62/§5-2
 - **Kunngjort:** 2018-12-07 14:20
 - **I kraft fra:** 2018-12-06
-- **Siste endring i kraft:** 2025-06-26
-- **Sist endret ved:** forskrift 25.06.2025 nr. 1339 fra 2025-06-26
+- **Siste endring i kraft:** 2026-11-23
+- **Sist endret ved:** forskrift 23.11.2026 nr. 2439
 - **Endrer:** forskrift 01.06.2004 nr. 930
 - **Gjelder for:** Norge
 - **Siste rettelse:** 2019-02-12 (EØS-henvisning)
-- **Merknad:** Hjemmel: Fastsatt av Klima- og miljødepartementet 6. desember 2018 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 33, § 36, § 43 og § 44 jf. delegeringsvedtak 16. februar 2007 nr. 171 og lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 9, § 12, § 16, § 31, § 33, § 49, § 52a og § 81, jf. delegeringsvedtak 8. juli 1983 nr. 1245 og delegeringsvedtak 11. juni 1993 nr. 785. EØS-henvisninger: EØS-avtalen vedlegg XX nr. 32c og nr. 32fh (forordning (EU) nr. 1257/2013), vedlegg XIII nr. 56b (forordning (EU) nr. 1257/2013), vedlegg XX nr. 32fhe (beslutning (EU) 2016/2324) og vedlegg XX nr. 32fhc (beslutning (EU) 2016/2322). Endret ved forskrift 25 juni 2025 nr. 1339 (i kraft 26 juni 2025). Rettelser: 12.02.2019 (EØS-henvisning).
+- **Merknad:** Hjemmel: Fastsatt av Klima- og miljødepartementet 6. desember 2018 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 33, § 36, § 43 og § 44 jf. delegeringsvedtak 16. februar 2007 nr. 171 og lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 9, § 12, § 16, § 31, § 33, § 49, § 52a og § 81, jf. delegeringsvedtak 8. juli 1983 nr. 1245 og delegeringsvedtak 11. juni 1993 nr. 785. Tilføyd hjemmel: Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 5-2 tredje og fjerde ledd. EØS-henvisninger: EØS-avtalen vedlegg XX nr. 32c og nr. 32fh (forordning (EU) nr. 1257/2013), vedlegg XIII nr. 56b (forordning (EU) nr. 1257/2013), vedlegg XX nr. 32fhe (beslutning (EU) 2016/2324) og vedlegg XX nr. 32fhc (beslutning (EU) 2016/2322). Endret ved forskrifter 25 juni 2025 nr. 1339 (i kraft 26 juni 2025), 23 nov 2026 nr. 2439. Rettelser: 12.02.2019 (EØS-henvisning).
 - **Kilde:** <https://lovdata.no/forskrift/2018-12-06-1813>
 
 ## § 1. Gjennomføring av skipsgjenvinningsforordningen i norsk rett
 
 EØS-avtalen vedlegg XX nr. 32c og vedlegg XIII nr. 56b (forordning [(EU) nr. 1257/2013](https://lovdata.no/eu/32013r1257) om gjenvinning av skip og om endring av forordning [(EF) 1013/2006](https://lovdata.no/eu/32006r1013*) og direktiv [2009/16/EF](https://lovdata.no/eu/32009l0016*)) (skipsgjenvinningsforordningen) gjelder som forskrift med de endringer og tillegg som følger av vedlegg XX nr. 32fh, vedlegg XX, vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-## § 1a. Definisjon av skip i §§ 1b og 1c
+## § 1a. Definisjon av skip i §§ 1b, 1c og 1d
 
-Med skip menes i [§§ 1b](for-2018-12-06-1813-forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md) og [1c](for-2018-12-06-1813-forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md) skip som definert i skipsgjenvinningsforordningen artikkel 3 nr. 1.1, med unntak av skip som nevnt i skipsgjenvinningsforordningen artikkel 2 nr. 2.
+Med skip menes i [§§ 1b](for-2018-12-06-1813-forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md), [1c](for-2018-12-06-1813-forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md) og [1d](for-2018-12-06-1813-forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md) skip som definert i skipsgjenvinningsforordningen artikkel 3 nr. 1.1, med unntak av skip som nevnt i skipsgjenvinningsforordningen artikkel 2 nr. 2.
 
-*Tilføyd ved forskrift [25 juni 2025 nr. 1339](https://lovdata.no/forskrift/2025-06-25-1339) (i kraft 26 juni 2025).*
+*Tilføyd ved forskrift [25 juni 2025 nr. 1339](https://lovdata.no/forskrift/2025-06-25-1339) (i kraft 26 juni 2025), endret ved forskrift [23 nov 2026 nr. 2439](https://lovdata.no/forskrift/2026-11-23-2439).*
 
 ## § 1b. Sertifikatkrav etter Hongkong-konvensjonen
 
@@ -53,6 +53,24 @@ Ved gjenvinning gjelder kravene til skipsgjenvinningsanlegg i skipgjenvinningsfo
 
 *Tilføyd ved forskrift [25 juni 2025 nr. 1339](https://lovdata.no/forskrift/2025-06-25-1339) (i kraft 26 juni 2025).*
 
+## § 1d. Meldeplikt til Arbeidstilsynet
+
+Arbeidsgiver ved skipsgjenvinningsanlegg skal så raskt som mulig gi skriftlig melding til Arbeidstilsynet om:
+
+a. mindre alvorlige arbeidsulykker, som det ikke kreves varsel om etter [arbeidsmiljøloven § 5-2 første ledd](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md), alle fare- eller ulykkessituasjoner som har oppstått på arbeidsplassen i forbindelse med gjenvinning av skip og som utgjør eller som har potensial til å utgjøre risiko for arbeidstakernes sikkerhet, fysiske og psykiske helse og arbeidsmiljøet
+b. arbeidsrelatert sykdom eller kroniske helseplager som er eller kan være forårsaket av arbeidet eller forholdene på arbeidsplassen i forbindelse med gjenvinning av skip.
+
+Meldingen til Arbeidstilsynet skal inneholde:
+
+a. en beskrivelse av arbeidsulykken, fare- eller ulykkessituasjonen, den arbeidsrelaterte sykdommen eller den kroniske helseplagen
+b. opplysninger om årsaker og underliggende forhold
+c. tiltak som er iverksatt
+d. opplysninger om konsekvenser og planlagte korrigerende tiltak.
+
+Verneombudet skal ha kopi av meldingen til Arbeidstilsynet.
+
+*Tilføyd ved forskrift [23 nov 2026 nr. 2439](https://lovdata.no/forskrift/2026-11-23-2439).*
+
 ## § 2. Utforming av nærmere angitte dokumenter
 
 Meldinger om planlagt oppstart av gjenvinning av skip som nevnt i skipsgjenvinningsforordningen artikkel 13 nr. 2 bokstav b, skal utformes i henhold til vedlegg I til denne forskriften. Kopi av meldingen skal sendes til Miljødirektoratet.
@@ -79,7 +97,9 @@ Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger fatter ved
 
 Sjøfartsdirektoratet fatter vedtak etter de øvrige bestemmelsene i skipsgjenvinningsforordningen, samt [§ 1b](for-2018-12-06-1813-forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md) og [§ 1c](for-2018-12-06-1813-forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md) fjerde ledd, og fører tilsyn med at disse bestemmelsene overholdes.
 
-*Endret ved forskrift [25 juni 2025 nr. 1339](https://lovdata.no/forskrift/2025-06-25-1339) (i kraft 26 juni 2025).*
+Arbeidstilsynet fører tilsyn med at meldeplikten etter [§ 1d](for-2018-12-06-1813-forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md) overholdes. Arbeidstilsynet gir pålegg og treffer enkeltvedtak som er nødvendige for gjennomføring av bestemmelsen. [Arbeidsmiljøloven §§ 18-4](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md), [18-5](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md), [18-6](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md) første, andre, sjette, sjuende og åttende ledd samt [§§ 18-7](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md), [18-8](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md), [18-10](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md), [18-10a](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md), [18-12](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md) og [18-13](../lover/lov-2005-06-17-62-arbeidsmiljoloven.md) får tilsvarende anvendelse.
+
+*Endret ved forskrifter [25 juni 2025 nr. 1339](https://lovdata.no/forskrift/2025-06-25-1339) (i kraft 26 juni 2025), [23 nov 2026 nr. 2439](https://lovdata.no/forskrift/2026-11-23-2439).*
 
 ## § 6. Gebyr
 

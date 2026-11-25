@@ -11,8 +11,8 @@
     "sms"
   ],
   "format_version": 1,
-  "generated_at": "2026-11-24T13:57:42Z",
-  "source_b3sum": "8f942ce47f1a24472b84ea184491708fbdfa42e647896c986a0dd4b9018acbec",
+  "generated_at": "2026-11-25T13:12:19Z",
+  "source_b3sum": "15e5e66cea90726c14548d5ce1ec25a878d6609ce2872104872086acf5ab4620",
   "source_file_count": 5158,
   "source_url": "https://api.lovdata.no/v1/publicData/get/gjeldende-sentrale-forskrifter.tar.bz2"
 }

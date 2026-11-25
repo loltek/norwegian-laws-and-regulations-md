@@ -7,9 +7,9 @@
 - **Hjemmel:** lov 16.04.2021 nr. 18/§1; lov 16.04.2021 nr. 18/§2
 - **Kunngjort:** 2023-03-24 15:30
 - **I kraft fra:** 2023-03-24
-- **Siste endring i kraft:** 2025-01-01
-- **Sist endret ved:** forskrift 22.11.2024 nr. 2888 fra 2025-01-01
-- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 24. mars 2023 med hjemmel i lov 16. april 2021 nr. 18 om gjennomføring av internasjonale sanksjoner (sanksjonsloven) § 1. Fremmet av Utenriksdepartementet. Tilføyd hjemmel: Lov 16. april 2021 nr. 18 om gjennomføring av internasjonale sanksjoner (sanksjonsloven) § 2. Endret ved forskrifter 3 april 2023 nr. 489, 20 sep 2024 nr. 2260, 22 nov 2024 nr. 2888 (i kraft 1 jan 2025).
+- **Siste endring i kraft:** 2026-11-23
+- **Sist endret ved:** forskrift 23.11.2026 nr. 2440
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 24. mars 2023 med hjemmel i lov 16. april 2021 nr. 18 om gjennomføring av internasjonale sanksjoner (sanksjonsloven) § 1. Fremmet av Utenriksdepartementet. Tilføyd hjemmel: Lov 16. april 2021 nr. 18 om gjennomføring av internasjonale sanksjoner (sanksjonsloven) § 2. Endret ved forskrifter 3 april 2023 nr. 489, 20 sep 2024 nr. 2260, 22 nov 2024 nr. 2888 (i kraft 1 jan 2025), 23 nov 2026 nr. 2440.
 - **Kilde:** <https://lovdata.no/forskrift/2023-03-24-404>
 
 ## § 1. Innarbeiding av rådsforordning (EU) 2022/2309
@@ -28,40 +28,37 @@
 
 (7) Henvisningene til 28. november 2022 i artikkel 1 bokstav a og i artikkel 11 nr. 5 skal forstås som 24. mars 2023, 9. januar 2023 i artikkel 11 nr. 2 bokstav a skal forstås som 5. mai 2023 og 1. januar 2023 i artikkel 11 nr. 5 skal forstås som 27. april 2023.
 
-*Endret ved forskrifter [20 sep 2024 nr. 2260](https://lovdata.no/forskrift/2024-09-20-2260), [22 nov 2024 nr. 2888](https://lovdata.no/forskrift/2024-11-22-2888) (i kraft 1 jan 2025).*
+(8) Henvisning til «EUs felles liste over militært materiell» skal forstås som henvisninger til «Liste I – forsvarsrelaterte varer» i [vedlegg I](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md) i [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.)](for-2013-06-19-718-forskrift-om-eksport-av-forsvarsmateriell-mv.md).
 
-## § 2. Forbud mot eksport mv. av enkelte typer våpen og ammunisjon
+*Endret ved forskrifter [20 sep 2024 nr. 2260](https://lovdata.no/forskrift/2024-09-20-2260), [22 nov 2024 nr. 2888](https://lovdata.no/forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [23 nov 2026 nr. 2440](https://lovdata.no/forskrift/2026-11-23-2440).*
 
-Det er forbudt å direkte eller indirekte forsyne, selge, overføre, eller eksportere håndvåpen, lette våpen og ammunisjon til Haiti.
-
-Forbudet i første ledd gjelder ikke:
-
-a. Forsyning, salg, overførsel eller eksport av håndvåpen, lette våpen, eller ammunisjon, til FN eller et FN-godkjent oppdrag eller til en sikkerhetsenhet som opererer under Haitis regjerings kommando, som er bestemt til bruk av eller i samordning med disse enhetene og som utelukkende har til formål å fremme målene om fred og stabilitet i Haiti,
-b. Andre forsyninger, salg, overførsler eller eksport av håndvåpen, lette våpen, og ammunisjon til Haiti hvis dette er forhåndsgodkjent av Sanksjonskomiteen omtalt i [Vedlegg A](for-2023-03-24-404-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-haiti.md) [artikkel 1 bokstav h](for-2023-03-24-404-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-haiti.md) for å fremme målene om fred og stabilitet i Haiti.
-
-*Endret ved forskrift [20 sep 2024 nr. 2260](https://lovdata.no/forskrift/2024-09-20-2260).*
-
-## § 3. Straff
+## § 2. Straff
 
 Den som overtrer bestemmelser gitt i forskriften, straffes i henhold til [sanksjonsloven § 4](../lover/lov-2021-04-16-18-sanksjonsloven.md).
 
-## § 4. Dispensasjon
+*Endret ved forskrift [23 nov 2026 nr. 2440](https://lovdata.no/forskrift/2026-11-23-2440) (tidligere § 3).*
+
+## § 3. Dispensasjon
 
 Direktoratet for eksportkontroll og sanksjoner kan dispensere fra forskriften på grunnlag av vedlagte forordnings dispensasjonsbestemmelser. Direktoratet for eksportkontroll og sanksjoner kan også i særskilte tilfeller dispensere fra forskriften dersom den får en klart utilsiktet virkning, og forutsatt at det ikke strider mot Norges folkerettslige forpliktelser eller hensynene bak sanksjonene i lys av situasjonen i Haiti.
 
-*Endret ved forskrift [22 nov 2024 nr. 2888](https://lovdata.no/forskrift/2024-11-22-2888) (i kraft 1 jan 2025).*
+*Endret ved forskrifter [22 nov 2024 nr. 2888](https://lovdata.no/forskrift/2024-11-22-2888) (i kraft 1 jan 2025), [23 nov 2026 nr. 2440](https://lovdata.no/forskrift/2026-11-23-2440) (tidligere § 4).*
 
-## § 5. Endring av forskriften
+## § 4. Endring av forskriften
 
 Utenriksdepartementet gis fullmakt til å endre, suspendere eller oppheve forskriften.
 
-## § 6. Forskriftens ikrafttredelse
+*Endret ved forskrift [23 nov 2026 nr. 2440](https://lovdata.no/forskrift/2026-11-23-2440) (tidligere § 5).*
+
+## § 5. Forskriftens ikrafttredelse
 
 Forskriften trer i kraft straks.
 
+*Endret ved forskrift [23 nov 2026 nr. 2440](https://lovdata.no/forskrift/2026-11-23-2440) (tidligere § 6).*
+
 ## Vedlegg A
 
-*Endret ved forskrifter [3 april 2023 nr. 489](https://lovdata.no/forskrift/2023-04-03-489), [20 sep 2024 nr. 2260](https://lovdata.no/forskrift/2024-09-20-2260).*
+*Endret ved forskrifter [3 april 2023 nr. 489](https://lovdata.no/forskrift/2023-04-03-489), [20 sep 2024 nr. 2260](https://lovdata.no/forskrift/2024-09-20-2260), [23 nov 2026 nr. 2440](https://lovdata.no/forskrift/2026-11-23-2440).*
 
 ### RÅDSFORORDNING [(EU) 2022/2309](https://lovdata.no/eu/32022*2309) av 25. november 2022 om restriktive tiltak i lys av situasjonen i Haiti
 
@@ -91,15 +88,25 @@ g. «penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ik
 h. «Sanksjonskomiteen»: komiteen som er opprettet under De forente nasjoners sikkerhetsråd i henhold til punkt 19 i FNs sikkerhetsrådsresolusjon 2653 (2022),
 i. «faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester, faglig bistand omfatter også muntlig bistand,
 j. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
+k. «formidlingstjenester»:
+   i. forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi, eller av finansielle og tekniske tjenester fra et tredjeland til et annet tredjeland, eller
+   ii. salg eller kjøp av varer og teknologi, eller av finansielle og tekniske tjenester som befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,
+l. «finansiering eller finansiell bistand»: enhver handling, uansett hvilken metode som velges, som innebærer at vedkommende fysiske eller juridiske person, enhet eller organ, med eller uten forbehold, utbetaler eller forplikter seg til å utbetale egne penger eller økonomiske ressurser, herunder, men ikke begrenset til tilskudd, lån, garantier, kausjoner, obligasjoner, remburser, leverandørkreditter, kjøperkreditter, import- eller eksportforskudd og alle former for forsikring og gjenforsikring, herunder eksportkredittforsikring. Betaling samt vilkår for betaling av den avtalte prisen for en vare eller en tjeneste i samsvar med vanlig forretningspraksis, utgjør ikke finansiering eller finansiell bistand.
 
 #### Artikkel 2
 
-1. Det er forbudt
+1. Det er forbudt å selge, levere, overføre eller eksportere, direkte eller indirekte, varer og teknologi som er oppført på EUs felles liste over militært materiell, samt skytevåpen og deler, vesentlige komponenter og ammunisjon til skytevåpen, som definert i europaparlaments- og rådsforordning [(EU) nr. 258/2012](https://lovdata.no/eu/32012r0258), uavhengig av om de har sin opprinnelse i Den europeiske union eller ikke, til fysiske eller juridiske personer, enheter eller organer i Haiti eller til bruk i Haiti.
 
-a. direkte eller indirekte å yte faglig bistand knyttet til levering, produksjon, vedlikehold og bruk av håndvåpen og lette våpen, komponenter og tilbehør til disse, samt ammunisjon som opplistet i vedlegget til Rådsbeslutning (FUSP) [(EU) 2021/38](https://lovdata.no/eu/32021d0038), samt av skytevåpen, deler og vesentlige komponenter til disse, samt ammunisjon som definert i Rådsforordning [(EU) nr. 258/2012](https://lovdata.no/eu/32012r0258) til fysiske eller juridiske personer, enheter eller organer i Haiti eller til bruk i Haiti,
-b. direkte eller indirekte å yte finansiering eller finansiell bistand, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, til salg, levering, overføring eller eksport av varer nevnt i bokstav a, eller til yting av tilknyttet faglig bistand, til fysiske eller juridiske personer, enheter eller organer i Haiti eller til bruk i Haiti.
+2. Det er forbudt,
 
-2. Nr. 1 gjelder ikke ytelse av faglig bistand, finansiering eller finansiell bistand som omhandlet i nr. 1 bokstav a og b, til FN eller et FN-godkjent oppdrag eller til en sikkerhetsenhet som opererer under Haitis regjerings kommando, som er bestemt til bruk av eller i samordning med disse enhetene og som utelukkende har til formål å fremme målene om fred og stabilitet i Haiti.
+a. å yte faglig bistand eller formidlingstjenester, direkte eller indirekte, knyttet til militære aktiviteter eller til levering, produksjon, vedlikehold og bruk av varer og teknologi oppført på EUs felles liste over militært materiell, eller skytevåpen og deler, vesentlige komponenter og ammunisjon til skytevåpen, som definert i europaparlaments- og rådsforordning [(EU) nr. 258/2012](https://lovdata.no/eu/32012r0258), til enhver fysisk eller juridisk person, enhver enhet eller ethvert organ i Haiti eller til bruk i Haiti,
+b. å yte finansiering eller finansiell bistand, direkte eller indirekte, knyttet til militære aktiviteter eller til levering, produksjon, vedlikehold og bruk av varer og teknologi oppført på EUs felles liste over militært materiell, eller skytevåpen og deler, vesentlige komponenter og ammunisjon til skytevåpen, som definert i europaparlaments- og rådsforordning [(EU) nr. 258/2012](https://lovdata.no/eu/32012r0258), eller å yte tilknyttet faglig bistand eller formidlingstjenester, til enhver fysisk eller juridisk person, enhver enhet eller ethvert organ i Haiti eller til bruk i Haiti.
+
+3. Som unntak fra nr. 1 og 2 kan de kompetente myndighetene tillate salg, levering, overføring eller eksport av varene og teknologien nevnt i nr. 1 eller yting av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller personell til FN eller oppdrag godkjent av FN, eller til en sikkerhetsenhet som er underlagt kommando fra haitiske myndigheter, som er forutsatt benyttet av, eller i samordning med, disse enhetene, og som utelukkende er ment for å fremme målene om fred og stabilitet i Haiti.
+
+4. Som unntak fra nr. 1 og 2 kan de kompetente myndighetene tillate salg, levering, overføring eller eksport av varene og teknologien nevnt i nr. 1 eller yting av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller personell til Haiti, forutsatt at Sanksjonskomiteen på forhånd har godkjent salget, leveringen, overføringen eller eksporten eller ytingen av tilknyttet finansiering eller finansiell bistand, faglig bistand, formidlingstjenester eller personell for å fremme målene om fred og stabilitet i Haiti.
+
+5. Som unntak fra nr. 1 og 2 kan de kompetente myndighetene tillate salg, levering, overføring eller eksport av ikke-dødbringende militært utstyr, eller levering av tilknyttet finansiering eller finansiell bistand, faglig bistand eller formidlingstjenester som utelukkende er ment for humanitær bruk eller beskyttelsesbruk, til Haiti, når de er ment å fremme målene om fred og stabilitet i Haiti.
 
 #### Artikkel 3
 
@@ -119,6 +126,7 @@ e. å planlegge, lede eller utføre handlinger som er i strid med internasjonale
 f. å planlegge, lede eller utføre handlinger som omfatter seksuell og kjønnsbasert vold, herunder voldtekt og seksuelt slaveri i Haiti,
 g. å hindre humanitær bistand til Haiti eller tilgang til eller distribuering av humanitær bistand i Haiti,
 h. å angripe personell eller lokaler tilknyttet FNs oppdrag og operasjoner i Haiti, eller gi støtte til slike angrep.
+i. delta i ulovlig utnyttelse av naturressurser eller ulovlig handel med naturressurser.
 
 2. Vedlegg I inneholder begrunnelsen for at de berørte fysiske eller juridiske personene, enhetene eller organene er listeført.
 
@@ -137,6 +145,7 @@ a. direkte eller indirekte er ansvarlig for, delaktig i eller involvert i handli
    vi. å planlegge, lede eller utføre handlinger som omfatter seksualisert og kjønnsbasert vold, herunder voldtekt og seksuelt slaveri i Haiti,
    vii. å hindre humanitær bistand til Haiti eller tilgang til eller distribuering av humanitær bistand i Haiti,
    viii. å angripe personell eller lokaler tilknyttet Unionens delegasjoner og medlemsstatenes diplomatiske stasjoner i Haiti, eller gi støtte til slike angrep,
+   ix. delta i ulovlig utnyttelse av naturressurser eller ulovlig handel med naturressurser,
 b. undergraver demokratiet eller rettsstaten i Haiti gjennom alvorlige finansielle misligheter i forbindelse med offentlige midler eller uautorisert eksport av kapital, eller
 c. har tilknytning til fysiske eller juridiske personer, enheter eller organer som er listeført i henhold til bokstav a og b.
 
