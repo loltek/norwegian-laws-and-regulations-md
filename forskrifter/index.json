@@ -1,5 +1,5 @@
 {
-  "count": 5122,
+  "count": 5124,
   "documents": [
     {
       "based_on": [
@@ -10109,7 +10109,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-1991-06-20-381",
-      "last_updated": "2024-04-09",
+      "last_updated": "2026-11-16",
       "legal_area": "",
       "ministry": "Finansdepartementet",
       "path": "forskrifter/for-1991-06-20-381-forskrift-om-utenlandsregistrert-motorvogn.md",
@@ -53399,7 +53399,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2015-09-18-1061",
-      "last_updated": "2025-01-01",
+      "last_updated": "2026-11-23",
       "legal_area": "",
       "ministry": "Utenriksdepartementet",
       "path": "forskrifter/for-2015-09-18-1061-forskrift-om-sanksjoner-og-tiltak-den-sentralafrikanske-republikk.md",
@@ -93268,6 +93268,45 @@
       "slug": "for-2026-11-19-2431-endr-i-merverdiavgiftsforskriften",
       "source_url": "https://lovdata.no/forskrift/2026-11-19-2431",
       "title": "Forskrift om endring i merverdiavgiftsforskriften",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2005-06-17-67/§10-4",
+        "lov/2005-06-17-67/§10-31",
+        "lov/2005-06-17-67/§11-4",
+        "lov/2005-06-17-67/§11-7",
+        "lov/2005-06-17-67/§14-11",
+        "lov/2005-06-17-67/§14-21",
+        "lov/2005-06-17-67/§14-22",
+        "forskrift/2025-11-11-2242"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-23-2460",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Finansdepartementet",
+      "path": "forskrifter/for-2026-11-23-2460-endr-i-skattebetalingsforskriften.md",
+      "slug": "for-2026-11-23-2460-endr-i-skattebetalingsforskriften",
+      "source_url": "https://lovdata.no/forskrift/2026-11-23-2460",
+      "title": "Forskrift om endring i skattebetalingsforskriften",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2025-04-25-12/§40",
+        "forskrift/2025-06-10-968",
+        "forskrift/2025-06-12-1053"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-24-2462",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Finansdepartementet",
+      "path": "forskrifter/for-2026-11-24-2462-endr-i-utrullingsforskriften.md",
+      "slug": "for-2026-11-24-2462-endr-i-utrullingsforskriften",
+      "source_url": "https://lovdata.no/forskrift/2026-11-24-2462",
+      "title": "Forskrift om endring i forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)",
       "type": "regulation"
     }
   ]

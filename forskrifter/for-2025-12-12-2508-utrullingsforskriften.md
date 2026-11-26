@@ -10,7 +10,7 @@
 - **I kraft fra:** 2026-01-01
 - **Siste endring i kraft:** 2026-11-01
 - **Sist endret ved:** forskrift 26.10.2026 nr. 2129 fra 2026-11-01
-- **Merknad:** Hjemmel: Fastsatt av Skattedirektoratet 12. desember 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) § 40, jf. delegeringsvedtak 10. juni 2025 nr. 968 og delegeringsvedtak 12. juni 2025 nr. 1053. Endret ved forskrifter 10 feb 2026 nr. 178 (i kraft 16 feb 2026), 9 mars 2026 nr. 359 (i kraft 16 mars 2026), 30 mars 2026 nr. 516 (i kraft 7 april 2026), 4 sep 2026 nr. 1729, 26 okt 2026 nr. 2129 (i kraft 1 nov 2026).
+- **Merknad:** Hjemmel: Fastsatt av Skattedirektoratet 12. desember 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) § 40, jf. delegeringsvedtak 10. juni 2025 nr. 968 og delegeringsvedtak 12. juni 2025 nr. 1053. Endret ved forskrifter 10 feb 2026 nr. 178 (i kraft 16 feb 2026), 9 mars 2026 nr. 359 (i kraft 16 mars 2026), 30 mars 2026 nr. 516 (i kraft 7 april 2026), 4 sep 2026 nr. 1729, 26 okt 2026 nr. 2129 (i kraft 1 nov 2026). Endres ved forskrift 24 nov 2026 nr. 2462 (i kraft 1 des 2026).
 - **Kilde:** <https://lovdata.no/forskrift/2025-12-12-2508>
 
 ## § 1.
@@ -28,7 +28,7 @@ e. Skyldner har ikke følgende kravtyper utestående hos Innkrevingsmyndigheten:
 
 For saker hos kommunal namsmyndighet gjelder nytt regelverk om utlegg mv. først fra det tidspunkt namsfogden eller Innkrevingsmyndigheten har etablert ett utleggstrekk mot skyldner etter nytt regelverk, jf. [forskrift om overgangsregler for innkrevingsloven og endringer i andre lover § 1 andre ledd](for-2025-07-01-1418-forskrift-om-overgangsregler-for-innkrevingsloven-og-endringer-i-andre-lover.md).
 
-*Endret ved forskrifter [10 feb 2026 nr. 178](https://lovdata.no/forskrift/2026-02-10-178) (i kraft 16 feb 2026), [9 mars 2026 nr. 359](https://lovdata.no/forskrift/2026-03-09-359) (i kraft 16 mars 2026), [30 mars 2026 nr. 516](https://lovdata.no/forskrift/2026-03-30-516) (i kraft 7 april 2026), [4 sep 2026 nr. 1729](https://lovdata.no/forskrift/2026-09-04-1729), [26 okt 2026 nr. 2129](https://lovdata.no/forskrift/2026-10-26-2129) (i kraft 1 nov 2026).*
+*Endret ved forskrifter [10 feb 2026 nr. 178](https://lovdata.no/forskrift/2026-02-10-178) (i kraft 16 feb 2026), [9 mars 2026 nr. 359](https://lovdata.no/forskrift/2026-03-09-359) (i kraft 16 mars 2026), [30 mars 2026 nr. 516](https://lovdata.no/forskrift/2026-03-30-516) (i kraft 7 april 2026), [4 sep 2026 nr. 1729](https://lovdata.no/forskrift/2026-09-04-1729), [26 okt 2026 nr. 2129](https://lovdata.no/forskrift/2026-10-26-2129) (i kraft 1 nov 2026). **Endres** ved forskrift [24 nov 2026 nr. 2462](https://lovdata.no/forskrift/2026-11-24-2462) (i kraft 1 des 2026).*
 
 ## § 2.
 

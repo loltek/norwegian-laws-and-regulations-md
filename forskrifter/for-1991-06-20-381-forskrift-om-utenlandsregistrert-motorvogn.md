@@ -8,11 +8,11 @@
 - **Hjemmel:** lov 19.06.1959 nr. 2/§1; lov 21.12.2007 nr. 119/§6-1; lov 19.06.2009 nr. 58/§7-2
 - **Publisert i:** I 1991 320
 - **I kraft fra:** 1991-07-15
-- **Siste endring i kraft:** 2024-04-09
-- **Sist endret ved:** forskrift 09.04.2024 nr. 586
+- **Siste endring i kraft:** 2026-11-16
+- **Sist endret ved:** forskrift 16.11.2026 nr. 2459
 - **Gjelder for:** Norge
 - **Siste rettelse:** 2021-01-01 (tegnsetting i lister tilpasset universell utforming).
-- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 20. juni 1991 med hjemmel i lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 1 og Stortingets vedtak om avgifter på motorvogner mv. A. Engangsavgift § 9. Endret ved forskrifter 17 jan 1992 nr. 22, 28 feb 1996 nr. 220, 19 mars 2001 nr. 270, 21 mai 2003 nr. 654, 12 des 2003 nr. 1538, 18 aug 2006 nr. 981, 15 des 2008 nr. 1359, 15 des 2009 nr. 1526, 15 mars 2010 nr. 393, 19 des 2013 nr. 1618, 20 jan 2014 nr. 36, 22 jan 2014 nr. 40, 6 feb 2014 nr. 109, 15 des 2015 nr. 1636, 2 april 2020 nr. 672, 16 des 2020 nr. 2903 (i kraft 1 jan 2021), 25 april 2022 nr. 608, 28 april 2022 nr. 641, 21 des 2022 nr. 2458 (i kraft 1 jan 2023, bl.a. tittel), 9 april 2024 nr. 586. Rettelser: 13.02.2004 (§ 5 bokstav e og g, § 6 annet ledd, § 11 annet ledd), 01.03.2010 (hjemmel), 01.01.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Merknad:** Hjemmel: Fastsatt av Finansdepartementet 20. juni 1991 med hjemmel i lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 1 og Stortingets vedtak om avgifter på motorvogner mv. A. Engangsavgift § 9. Endret ved forskrifter 17 jan 1992 nr. 22, 28 feb 1996 nr. 220, 19 mars 2001 nr. 270, 21 mai 2003 nr. 654, 12 des 2003 nr. 1538, 18 aug 2006 nr. 981, 15 des 2008 nr. 1359, 15 des 2009 nr. 1526, 15 mars 2010 nr. 393, 19 des 2013 nr. 1618, 20 jan 2014 nr. 36, 22 jan 2014 nr. 40, 6 feb 2014 nr. 109, 15 des 2015 nr. 1636, 2 april 2020 nr. 672, 16 des 2020 nr. 2903 (i kraft 1 jan 2021), 25 april 2022 nr. 608, 28 april 2022 nr. 641, 21 des 2022 nr. 2458 (i kraft 1 jan 2023, bl.a. tittel), 9 april 2024 nr. 586, 16 nov 2026 nr. 2459. Rettelser: 13.02.2004 (§ 5 bokstav e og g, § 6 annet ledd, § 11 annet ledd), 01.03.2010 (hjemmel), 01.01.2021 (tegnsetting i lister tilpasset universell utforming).
 - **Kilde:** <https://lovdata.no/forskrift/1991-06-20-381>
 
 ## § 1. Forskriftens omfang og virkeområde.
@@ -80,9 +80,9 @@ En person kan ikke anses å ha midlertidig opphold i Norge, dersom han har oppho
 
 ## § 4a. Midlertidig opphold i Norge på grunnlag av oppholdstillatelse etter utlendingsforskriften § 7-5a.
 
-Personer som er innvilget midlertidig oppholdstillatelse etter [utlendingsforskriften § 7-5a](for-2009-10-15-1286-utlendingsforskriften.md) anses å ha midlertidig opphold i Norge. Oppholdet anses som midlertidig så lenge oppholdstillatelsen varer, men maksimalt inntil 4 år fra innvilgelsen av oppholdstillatelse.
+Personer som er innvilget midlertidig oppholdstillatelse etter [utlendingsforskriften § 7-5a](for-2009-10-15-1286-utlendingsforskriften.md) anses å ha midlertidig opphold i Norge. Oppholdet anses som midlertidig så lenge oppholdstillatelsen varer, men maksimalt inntil 5 år fra innvilgelsen av oppholdstillatelse.
 
-*Tilføyd ved forskrift [9 april 2024 nr. 586](https://lovdata.no/forskrift/2024-04-09-586).*
+*Tilføyd ved forskrift [9 april 2024 nr. 586](https://lovdata.no/forskrift/2024-04-09-586), endret ved forskrift [16 nov 2026 nr. 2459](https://lovdata.no/forskrift/2026-11-16-2459).*
 
 ## § 5. Midlertidig bruk av utenlandsregistrert motorvogn for personer med fast oppholdssted i Norge. Vilkår.
 
