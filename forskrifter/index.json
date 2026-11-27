@@ -45147,7 +45147,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2012-01-20-84",
-      "last_updated": "2025-03-03",
+      "last_updated": "2026-11-25",
       "legal_area": "",
       "ministry": "Samferdselsdepartementet",
       "path": "forskrifter/for-2012-01-20-84-transportklagenemndforskriften.md",
@@ -70858,19 +70858,6 @@
       "type": "regulation"
     },
     {
-      "based_on": [],
-      "category": "stv",
-      "date_code": "FOR-2021-06-17-2109",
-      "last_updated": null,
-      "legal_area": "",
-      "ministry": "Stortinget",
-      "path": "forskrifter/for-2021-06-17-2109-endr-i-stortingets-forretningsorden.md",
-      "slug": "for-2021-06-17-2109-endr-i-stortingets-forretningsorden",
-      "source_url": "https://lovdata.no/STV/forskrift/2021-06-17-2109",
-      "title": "Endringer i Stortingets forretningsorden",
-      "type": "regulation"
-    },
-    {
       "based_on": [
         "lov/2005-06-10-51/§10"
       ],
@@ -74106,7 +74093,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2022-04-06-633",
-      "last_updated": "2026-11-11",
+      "last_updated": "2026-11-25",
       "legal_area": "",
       "ministry": "Landbruks- og matdepartementet; Nærings- og fiskeridepartementet",
       "path": "forskrifter/for-2022-04-06-633-dyreimportforskriften.md",
@@ -91224,7 +91211,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-2026-06-22-1211",
-      "last_updated": "2026-09-22",
+      "last_updated": "2026-11-24",
       "legal_area": "",
       "ministry": "Nærings- og fiskeridepartementet",
       "path": "forskrifter/for-2026-06-22-1211-forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027.md",
@@ -93307,6 +93294,25 @@
       "slug": "for-2026-11-24-2462-endr-i-utrullingsforskriften",
       "source_url": "https://lovdata.no/forskrift/2026-11-24-2462",
       "title": "Forskrift om endring i forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/1984-06-08-58/§78",
+        "lov/1984-06-08-58/§144",
+        "lov/1984-06-08-58/§156",
+        "lov/1984-06-08-58/§156a",
+        "lov/1984-06-08-58/§172"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-24-2474",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Justis- og beredskapsdepartementet",
+      "path": "forskrifter/for-2026-11-24-2474-forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjoringer-etter-konkursloven.md",
+      "slug": "for-2026-11-24-2474-forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjoringer-etter-konkursloven",
+      "source_url": "https://lovdata.no/forskrift/2026-11-24-2474",
+      "title": "Forskrift om endring i forskrift om konkursregisteret og om kunngjøringer etter konkursloven",
       "type": "regulation"
     }
   ]

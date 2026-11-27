@@ -4,17 +4,17 @@
 - **Datokode:** FOR-2012-01-20-84
 - **DokumentID:** SF/forskrift/2012-01-20-84
 - **Departement:** Samferdselsdepartementet
-- **Etat:** Avd. for luftfart, post og kjøp
+- **Etat:** Avdeling for luftfart, post og kjøp
 - **Hjemmel:** lov 11.06.1993 nr. 101/§10-44; lov 11.06.1993 nr. 101/§10-45; lov 11.06.1993 nr. 101/§10-46; lov 11.06.1993 nr. 101/§10-47; lov 11.06.1993 nr. 101/§15-4; lov 11.06.1993 nr. 100/§7c; lov 21.06.2002 nr. 45/§32a; lov 24.06.1994 nr. 39/§418a
 - **Publisert i:** I 2012 hefte 3
 - **Kunngjort:** 2012-01-31 14:50
 - **I kraft fra:** 2012-02-01
-- **Siste endring i kraft:** 2025-03-03
-- **Sist endret ved:** forskrift 03.03.2025 nr. 337
+- **Siste endring i kraft:** 2026-11-25
+- **Sist endret ved:** forskrift 25.11.2026 nr. 2477
 - **Endrer:** forskrift 31.10.2008 nr. 1168; forskrift 03.09.2010 nr. 1241
 - **Gjelder for:** Norge
 - **Siste rettelse:** 2016-08-25 (hjemmel)
-- **Merknad:** Hjemmel: Fastsatt av Samferdselsdepartementet 20. januar 2012 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 10-44, § 10-45, § 10-46, § 10-47 og § 15-4 og lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 7c. Tilføyd hjemmel: Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 32a og lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven) § 418 a. Endret ved forskrifter 25 feb 2016 nr. 194, 29 juni 2016 nr. 844, 20 des 2016 nr. 1782, 23 nov 2018 nr. 1744, 12 aug 2020 nr. 1629, forskrift 12 aug 2020 nr. 1629 (i kraft 1 jan 2021), 4 mars 2022 nr. 322, 18 sep 2023 nr. 1433, 21 nov 2024 nr. 2823, 3 mars 2025 nr. 337. Rettelser: 25.08.2016 (hjemmel).
+- **Merknad:** Hjemmel: Fastsatt av Samferdselsdepartementet 20. januar 2012 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 10-44, § 10-45, § 10-46, § 10-47 og § 15-4 og lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 7c. Tilføyd hjemmel: Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 32a og lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven) § 418 a. Endret ved forskrifter 25 feb 2016 nr. 194, 29 juni 2016 nr. 844, 20 des 2016 nr. 1782, 23 nov 2018 nr. 1744, 12 aug 2020 nr. 1629, forskrift 12 aug 2020 nr. 1629 (i kraft 1 jan 2021), 4 mars 2022 nr. 322, 18 sep 2023 nr. 1433, 21 nov 2024 nr. 2823, 3 mars 2025 nr. 337, 25 nov 2026 nr. 2477. Rettelser: 25.08.2016 (hjemmel).
 - **Kilde:** <https://lovdata.no/forskrift/2012-01-20-84>
 
 ## Kapittel 1. Innledende bestemmelser
@@ -242,9 +242,11 @@ Transportklagenemnda skal ha et sekretariat som betjenes av egne ansatte eller v
 
 ### § 5-8. Delegering av vedtaksmyndighet til sekretariatet
 
-(1) Sekretariatets leder kan treffe vedtak i klagesaker hvor det foreligger en fast nemndspraksis eller er truffet vedtak av prinsipiell betydning i tilsvarende saker. I tvilstilfelle skal sekretariatet konferere med nemndas leder.
+(1) Sekretariatets leder kan treffe vedtak i klagesaker hvor klager åpenbart ikke vil få medhold, hvor det foreligger en fast nemndspraksis eller er truffet vedtak av prinsipiell betydning i tilsvarende saker. Sekretariatets leder kan også treffe vedtak i klagesaker der tvistebeløpet er under 1000 kroner, og saker som ikke reiser prinsipielle spørsmål. I tvilstilfelle skal sekretariatet konferere med nemndas leder.
 
 (2) Har sekretariatets leder avgjort klagen, kan klageren likevel kreve klagen lagt frem for nemnda. Slik anmodning må være skriftlig og innlevert til sekretariatet senest tre uker etter at underretning om vedtak er mottatt. Dersom nemndas leder er enig i sekretariatslederens vurdering, og ikke av andre grunner mener at nemnda bør behandle saken, kan lederen beslutte med endelig virkning at saken ikke skal behandles i nemnda.
+
+*Endret ved forskrift [25 nov 2026 nr. 2477](https://lovdata.no/forskrift/2026-11-25-2477).*
 
 ### § 5-9. Taushetsplikt
 

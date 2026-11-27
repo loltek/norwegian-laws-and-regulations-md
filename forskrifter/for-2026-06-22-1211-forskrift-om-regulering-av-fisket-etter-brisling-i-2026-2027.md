@@ -7,10 +7,10 @@
 - **Hjemmel:** lov 06.06.2008 nr. 37/§11; lov 06.06.2008 nr. 37/§12; lov 06.06.2008 nr. 37/§16; lov 06.06.2008 nr. 37/§27; lov 06.06.2008 nr. 37/§36; lov 06.06.2008 nr. 37/§37; forskrift 16.10.2001 nr. 4686
 - **Kunngjort:** 2026-06-23 10:50
 - **I kraft fra:** 2026-06-22 – 2027-07-31
-- **Siste endring i kraft:** 2026-09-22
-- **Sist endret ved:** forskrift 22.09.2026 nr. 1872
+- **Siste endring i kraft:** 2026-11-24
+- **Sist endret ved:** forskrift 24.11.2026 nr. 2476
 - **Endrer:** forskrift 23.06.2025 nr. 1281
-- **Merknad:** Hjemmel: Fastsatt av Fiskeridirektoratet 22. juni 2026 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) §§ 11, 12, 16, 27, 36 og 37, jf. delegeringsvedtak 16. oktober 2001 nr. 4686. Endret ved forskrifter 3 sep 2026 nr. 1735, 22 sep 2026 nr. 1872.
+- **Merknad:** Hjemmel: Fastsatt av Fiskeridirektoratet 22. juni 2026 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) §§ 11, 12, 16, 27, 36 og 37, jf. delegeringsvedtak 16. oktober 2001 nr. 4686. Endret ved forskrifter 3 sep 2026 nr. 1735, 22 sep 2026 nr. 1872, 24 nov 2026 nr. 2476.
 - **Kilde:** <https://lovdata.no/forskrift/2026-06-22-1211>
 
 ## Kapittel 1. Fiskeforbud og kvoter
@@ -74,19 +74,19 @@ Uten hinder av [§ 1](for-2026-06-22-1211-forskrift-om-regulering-av-fisket-ette
 
 Det er forbudt å fiske brisling i statistikklokasjonene 28–36 (Nordfjord).
 
-Det er adgang å fiske brisling i statistikklokasjonene 28-39 (Sognefjorden) innenfor en kvote på 222 tonn.
+Det er adgang å fiske brisling i statistikklokasjonene 28–39 (Sognefjorden) innenfor en kvote på 222 tonn. Fisket etter brisling i Sognefjorden stoppes fra og med 25. november 2026.
 
 Det er adgang til å fiske brisling i statistikklokasjonene 08-20, 08-21 og 08-15 (Hardangerfjorden) innenfor en kvote på 811 tonn.
 
 Det er forbudt å fiske brisling i statistikklokasjon 07–26 og 07–27 (Trondheimsfjorden).
 
-Det er forbudt å fiske brisling i innenfor grunnlinjene fra og med Telemark til grensen mot Sverige (Oslofjorden).
+Det er adgang til å fiske brisling i innenfor grunnlinjene fra og med Telemark til grensen mot Sverige (Oslofjorden) innenfor en kvote på 804 tonn.
 
 Forbud etter denne paragraf er ikke til hinder for at vedkommende salgslag kan tillate å bringe i land marginale kvanta storbrisling, dvs. 60 % over 11 cm, i samsvar med praksisen i fredningstiden.
 
 Fartøy som skal delta i fisket etter kystbrisling må melde fra til Fiskeridirektoratets sjøtjeneste senest 48 timer før utseiling. Melding sendes på e-post til [sjotjenesten@fiskeridir.no](mailto:sjotjenesten@fiskeridir.no).
 
-*Endret ved forskrifter [3 sep 2026 nr. 1735](https://lovdata.no/forskrift/2026-09-03-1735), [22 sep 2026 nr. 1872](https://lovdata.no/forskrift/2026-09-22-1872).*
+*Endret ved forskrifter [3 sep 2026 nr. 1735](https://lovdata.no/forskrift/2026-09-03-1735), [22 sep 2026 nr. 1872](https://lovdata.no/forskrift/2026-09-22-1872), [24 nov 2026 nr. 2476](https://lovdata.no/forskrift/2026-11-24-2476).*
 
 ## Kapittel 4. Fellesbestemmelser
 
