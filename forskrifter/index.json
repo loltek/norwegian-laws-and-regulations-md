@@ -1,5 +1,5 @@
 {
-  "count": 5124,
+  "count": 5126,
   "documents": [
     {
       "based_on": [
@@ -12070,7 +12070,7 @@
         "lov/1984-06-08-58/§144",
         "lov/1984-06-08-58/§156",
         "lov/1984-06-08-58/§156a",
-        "lov/1984-06-08-58/§162",
+        "lov/1984-06-08-58/§177",
         "forskrift/1985-07-12-1435",
         "lov/1982-12-17-86/§27"
       ],
@@ -15457,6 +15457,7 @@
         "lov/1992-12-04-127/§2-19",
         "lov/1992-12-04-127/§2-20",
         "lov/1992-12-04-127/§2-21",
+        "lov/1992-12-04-127/§2-22",
         "lov/1992-12-04-127/§3-1",
         "lov/1992-12-04-127/§3-2",
         "lov/1992-12-04-127/§3-4",
@@ -15486,7 +15487,7 @@
       ],
       "category": "sf",
       "date_code": "FOR-1997-02-28-153",
-      "last_updated": "2026-01-01",
+      "last_updated": "2027-01-01",
       "legal_area": "",
       "ministry": "Kultur- og likestillingsdepartementet",
       "path": "forskrifter/for-1997-02-28-153-kringkastingsforskriften.md",
@@ -45657,7 +45658,7 @@
       ],
       "category": "stv",
       "date_code": "FOR-2012-06-07-518",
-      "last_updated": "2025-10-01",
+      "last_updated": "2026-10-01",
       "legal_area": "",
       "ministry": "Stortinget",
       "path": "forskrifter/for-2012-06-07-518-stortingets-forretningsorden.md",
@@ -93313,6 +93314,50 @@
       "slug": "for-2026-11-24-2474-forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjoringer-etter-konkursloven",
       "source_url": "https://lovdata.no/forskrift/2026-11-24-2474",
       "title": "Forskrift om endring i forskrift om konkursregisteret og om kunngjøringer etter konkursloven",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/2007-02-16-9/§2",
+        "lov/2007-02-16-9/§6",
+        "lov/2007-02-16-9/§7",
+        "lov/2007-02-16-9/§9",
+        "lov/2007-02-16-9/§11",
+        "lov/2007-02-16-9/§15",
+        "lov/2007-02-16-9/§16",
+        "lov/2007-02-16-9/§21",
+        "lov/2007-02-16-9/§28a",
+        "lov/2007-02-16-9/§29",
+        "lov/2007-02-16-9/§30",
+        "lov/2007-02-16-9/§45",
+        "forskrift/2007-02-16-171",
+        "forskrift/2007-05-31-590",
+        "forskrift/2013-08-19-1002"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-25-2499",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Nærings- og fiskeridepartementet",
+      "path": "forskrifter/for-2026-11-25-2499-forskrift-om-skip-som-bruker-batterisystem.md",
+      "slug": "for-2026-11-25-2499-forskrift-om-skip-som-bruker-batterisystem",
+      "source_url": "https://lovdata.no/forskrift/2026-11-25-2499",
+      "title": "Forskrift om skip som bruker batterisystem",
+      "type": "regulation"
+    },
+    {
+      "based_on": [
+        "lov/1992-12-04-127/§2-22"
+      ],
+      "category": "sf",
+      "date_code": "FOR-2026-11-27-2523",
+      "last_updated": null,
+      "legal_area": "",
+      "ministry": "Kultur- og likestillingsdepartementet",
+      "path": "forskrifter/for-2026-11-27-2523-endr-i-kringkastingsforskriften.md",
+      "slug": "for-2026-11-27-2523-endr-i-kringkastingsforskriften",
+      "source_url": "https://lovdata.no/forskrift/2026-11-27-2523",
+      "title": "Forskrift om endring i forskrift 28. februar 1997 nr. 153 om kringkasting og audiovisuelle bestillingstjenester mv.",
       "type": "regulation"
     }
   ]

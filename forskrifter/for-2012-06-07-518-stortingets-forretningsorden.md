@@ -8,12 +8,12 @@
 - **Publisert i:** I 2012 hefte 7
 - **Kunngjort:** 2012-06-15 15:15
 - **I kraft fra:** 2012-10-01
-- **Siste endring i kraft:** 2025-10-01
-- **Sist endret ved:** forskrift 19.06.2025 nr. 2009 fra 2025-10-01
+- **Siste endring i kraft:** 2026-10-01
+- **Sist endret ved:** forskrift 18.06.2026 nr. 2491 fra 2026-10-01
 - **Endrer:** forskrift 21.04.1966 nr. 4296
 - **Gjelder for:** Norge
 - **Siste rettelse:** 2021-10-01 (faglige fotnoter fjernet, tegnsetting i lister tilpasset universell utforming).
-- **Merknad:** Hjemmel: Vedtatt av Stortinget 7. juni 2012, jf. Innst.350 S (2011–2012), Innst.259 S (2012–2013), Innst.20 S (2013–2014), Innst.487 S (2016–2017), Innst.28 S (2017–2018), Innst.134 S (2017-2018), Innst.254 S (2017-2018), Innst.162 S (2018–2019), Innst.426 S (2017–2018), Innst.392 S (2018–2019), Innst.205 S (2019–2020), Innst. 473 S (2024–2025), jf. Dokument 18 (2024–2025). Endret ved vedtak 16 mai 2013 nr. 1075, 12 nov 2013 nr. 1309, 21 juni 2017 nr. 1425, 7 nov 2017 nr. 2456, 6 mars 2018 nr. 644, 3 mai 2018 nr. 687, 14 juni 2018 nr. 908, 5 mars 2019 nr. 316, 20 juni 2019 nr. 1298 (i kraft 1 okt 2019), 20 juni 2019 nr. 1299 (i kraft 1 okt 2019), 24 mars 2020 nr. 409, 1 okt 2020 nr. 2028, 17 juni 2021 nr. 2109 (i kraft 1 okt 2021), 15 juni 2022 nr. 1081 (i kraft 1 okt 2022), 19 juni 2025 nr. 2009, 19 juni 2025 nr. 2009 (i kraft 1 okt 2025). Rettelser: 13.11.2018 (§ 52 første ledd første punktum), 01.10.2021 (tegnsetting i lister tilpasset universell utforming).
+- **Merknad:** Hjemmel: Vedtatt av Stortinget 7. juni 2012, jf. Innst.350 S (2011–2012), Innst.259 S (2012–2013), Innst.20 S (2013–2014), Innst.487 S (2016–2017), Innst.28 S (2017–2018), Innst.134 S (2017-2018), Innst.254 S (2017-2018), Innst.162 S (2018–2019), Innst.426 S (2017–2018), Innst.392 S (2018–2019), Innst.205 S (2019–2020), Innst. 473 S (2024–2025), jf. Dokument 18 (2024–2025). Endret ved vedtak 16 mai 2013 nr. 1075, 12 nov 2013 nr. 1309, 21 juni 2017 nr. 1425, 7 nov 2017 nr. 2456, 6 mars 2018 nr. 644, 3 mai 2018 nr. 687, 14 juni 2018 nr. 908, 5 mars 2019 nr. 316, 20 juni 2019 nr. 1298 (i kraft 1 okt 2019), 20 juni 2019 nr. 1299 (i kraft 1 okt 2019), 24 mars 2020 nr. 409, 1 okt 2020 nr. 2028, 17 juni 2021 nr. 2109 (i kraft 1 okt 2021), 15 juni 2022 nr. 1081 (i kraft 1 okt 2022), 19 juni 2025 nr. 2009, 19 juni 2025 nr. 2009 (i kraft 1 okt 2025), 18 juni 2026 nr. 2491 (i kraft 1 okt 2026). Rettelser: 13.11.2018 (§ 52 første ledd første punktum), 01.10.2021 (tegnsetting i lister tilpasset universell utforming).
 - **Kilde:** <https://lovdata.no/STV/forskrift/2012-06-07-518>
 
 ## I
@@ -164,11 +164,11 @@ Samtlige representanter unntatt Stortingets president fordeles på disse fagkomi
 7. Kommunal- og forvaltningskomiteen
 8. Kontroll- og konstitusjonskomiteen
 9. Næringskomiteen
-10. Transport- og kommunikasjonskomiteen
+10. Samferdselskomiteen
 11. Utdannings- og forskningskomiteen
 12. Utenriks- og forsvarskomiteen.
 
-*Endret ved [vedtak 7 nov 2017 nr. 2456](https://lovdata.no/forskrift/2017-11-07-2456).*
+*Endret ved [vedtak 7 nov 2017 nr. 2456](https://lovdata.no/forskrift/2017-11-07-2456), [18 juni 2026 nr. 2491](https://lovdata.no/forskrift/2026-06-18-2491) (i kraft 1 okt 2026).*
 
 #### § 13. Sammensetning av fagkomiteene
 
@@ -199,11 +199,11 @@ Hovedregelen for saksfordelingen mellom fagkomiteene er:
    c. dokumenter og meldinger fra Stortingets eksterne organer, og andre saker om deres virksomhet,
    d. rapporter fra Stortingets ansvarskommisjon og stortingsoppnevnte granskingskommisjoner.
 9. Næringskomiteen: Saker om nærings-, industri- og handelsvirksomhet, romvirksomhet, skipsfart, statlig eierskapspolitikk, statsgaranti ved eksport mv., konkurranse- og prispolitikk, landbruk, jordbruksavtalen, matpolitikk, fiskeri, fangst, reindriftsavtalen, akvakultur og laksefiske.
-10. Transport- og kommunikasjonskomiteen: Saker om innenlands transport, post, fritidsbåter og oppgaver under Kystverket.
+10. Samferdselskomiteen: Saker om innenlands transport, post, fritidsbåter og oppgaver under Kystverket.
 11. Utdannings- og forskningskomiteen: Saker om utdanning, barnehager og forskning, herunder koordinering av forskningspolitikken og forskning for landbruk, fiskeri og næringsliv.
 12. Utenriks- og forsvarskomiteen: Saker om utenrikspolitiske forhold, militært forsvar, utviklingshjelp, saker som angår norske interesser på Svalbard eller i andre polarområder, årsrapporter fra Stortingets faste delegasjoner til interparlamentariske forsamlinger, og – i alminnelighet – saker som gjelder avtaler mellom den norske stat og andre stater eller internasjonale organisasjoner.
 
-*Endret ved [vedtak 16 mai 2013 nr. 1075](https://lovdata.no/forskrift/2013-05-16-1075) (i kraft 1 okt 2013), [21 juni 2017 nr. 1425](https://lovdata.no/forskrift/2017-06-21-1425) (i kraft 1 okt 2017), [7 nov 2017 nr. 2456](https://lovdata.no/forskrift/2017-11-07-2456), [17 juni 2021 nr. 2109](https://lovdata.no/forskrift/2021-06-17-2109) (i kraft 1 okt 2021), [19 juni 2025 nr. 2009](https://lovdata.no/forskrift/2025-06-19-2009) (i kraft 1 okt 2025).*
+*Endret ved [vedtak 16 mai 2013 nr. 1075](https://lovdata.no/forskrift/2013-05-16-1075) (i kraft 1 okt 2013), [21 juni 2017 nr. 1425](https://lovdata.no/forskrift/2017-06-21-1425) (i kraft 1 okt 2017), [7 nov 2017 nr. 2456](https://lovdata.no/forskrift/2017-11-07-2456), [17 juni 2021 nr. 2109](https://lovdata.no/forskrift/2021-06-17-2109) (i kraft 1 okt 2021), [19 juni 2025 nr. 2009](https://lovdata.no/forskrift/2025-06-19-2009) (i kraft 1 okt 2025), [18 juni 2026 nr. 2491](https://lovdata.no/forskrift/2026-06-18-2491) (i kraft 1 okt 2026).*
 
 #### § 15. Nærmere om kontroll- og konstitusjonskomiteen
 
@@ -580,7 +580,7 @@ Kongelig proposisjon om statsbudsjett for det påfølgende budsjettåret legges 
 
 Etter at den kongelige proposisjonen om statsbudsjettet er lagt frem for Stortinget, avgir presidentskapet innstilling om fordelingen av budsjettkapitlene på de enkelte komiteer og om rammeområder. Videre skal presidentskapet – etter at komitélederne har hatt anledning til å uttale seg – fastsette og kunngjøre fristene for avgivelse av budsjettinnstillingene og datoene for Stortingets behandling av dem.
 
-Senest 30. november skal finanskomiteen avgi innstilling om nasjonalbudsjettet og statsbudsjettet, med forslag til rammevedtak for bevilgninger i samsvar med inndelingen i rammeområder fastsatt av Stortinget. Forslag til bevilgningsvedtak som utformes i innstillingen eller fremsettes ved behandlingen av den, skal inneholde beløp for alle rammer, og kan ikke gå under rammenivå. Forslag til rammevedtak må begrunnes i innstillingen og kan ikke fremsettes ved behandlingen av den etter [§ 40](https://lovdata.no/forskrift/2012-06-07-518/§40), med mindre forslaget er ment å rette opp en klar feil i den avgitte innstillingen. En representant som ikke er medlem av en partigruppe, kan uansett fremsette forslag til rammevedtak ved behandlingen av innstillingen. I Stortinget kan det ikke voteres særskilt over enkelte deler av et slikt forslag.
+Senest 30. november skal finanskomiteen avgi innstilling om nasjonalbudsjettet og statsbudsjettet, med forslag til rammevedtak for bevilgninger i samsvar med inndelingen i rammeområder fastsatt av Stortinget. Forslag til bevilgningsvedtak som utformes i innstillingen eller fremsettes ved behandlingen av den, skal inneholde beløp for alle rammer, og kan ikke gå under rammenivå. Forslag til rammevedtak må begrunnes i innstillingen og kan ikke fremsettes ved behandlingen av den etter [§ 40 første ledd annet punktum](https://lovdata.no/forskrift/2012-06-07-518/§40/ledd/1/setning/2), med mindre forslaget er ment å rette opp en klar feil i den avgitte innstillingen. En representant som ikke er medlem av en partigruppe, kan uansett fremsette forslag til rammevedtak ved behandlingen av innstillingen. I Stortinget kan det ikke voteres særskilt over enkelte deler av et slikt forslag.
 
 Stortinget skal behandle innstillingen nevnt i tredje ledd innen en uke etter avgivelse. Stortingets rammevedtak er bindende for den etterfølgende budsjettbehandlingen samme år.
 
@@ -590,7 +590,7 @@ Fagkomiteenes budsjettinnstillinger skal behandles av Stortinget senest siste m�
 
 Eventuell kongelig samleproposisjon om endringer i statsbudsjettet legges frem senest 15. mai i budsjettåret, sammen med stortingsmelding om revidert nasjonalbudsjett. Finanskomiteen avgir innstilling om disse senest annen fredag i juni. Ved behandling av endringer i statsbudsjettet i budsjettåret kan det ikke voteres særskilt over enkelte deler av et forslag, dersom forslagsstilleren motsetter seg dette.
 
-*Endret ved [vedtak 16 mai 2013 nr. 1075](https://lovdata.no/forskrift/2013-05-16-1075) (i kraft 1 okt 2013, tidligere § 41), [19 juni 2025 nr. 2009](https://lovdata.no/forskrift/2025-06-19-2009) (i kraft 1 okt 2025).*
+*Endret ved [vedtak 16 mai 2013 nr. 1075](https://lovdata.no/forskrift/2013-05-16-1075) (i kraft 1 okt 2013, tidligere § 41), [19 juni 2025 nr. 2009](https://lovdata.no/forskrift/2025-06-19-2009) (i kraft 1 okt 2025), [18 juni 2026 nr. 2491](https://lovdata.no/forskrift/2026-06-18-2491) (i kraft 1 okt 2026).*
 
 #### § 44. Behandlingen av saker om konstitusjonelt ansvar
 

@@ -5,15 +5,15 @@
 - **DokumentID:** SF/forskrift/1997-02-28-153
 - **Departement:** Kultur- og likestillingsdepartementet
 - **Etat:** Medie- og kunstavdelingen
-- **Hjemmel:** lov 04.12.1992 nr. 127/§1-2; lov 04.12.1992 nr. 127/§2-1; lov 04.12.1992 nr. 127/§2-2; lov 04.12.1992 nr. 127/§2-4; lov 04.12.1992 nr. 127/§2-6; lov 04.12.1992 nr. 127/§2-7; lov 04.12.1992 nr. 127/§2-8; lov 04.12.1992 nr. 127/§2-9; lov 04.12.1992 nr. 127/§2-11; lov 04.12.1992 nr. 127/§2-14; lov 04.12.1992 nr. 127/§2-19; lov 04.12.1992 nr. 127/§2-20; lov 04.12.1992 nr. 127/§2-21; lov 04.12.1992 nr. 127/§3-1; lov 04.12.1992 nr. 127/§3-2; lov 04.12.1992 nr. 127/§3-4; lov 04.12.1992 nr. 127/§4-3; lov 04.12.1992 nr. 127/§4-4; lov 04.12.1992 nr. 127/§4-5; lov 04.12.1992 nr. 127/§4-6; lov 04.12.1992 nr. 127/§4-8; lov 04.12.1992 nr. 127/§5a-1; lov 04.12.1992 nr. 127/§5a-2; lov 04.12.1992 nr. 127/§5a-3; lov 04.12.1992 nr. 127/§5a-5; lov 04.12.1992 nr. 127/§5a-6; lov 04.12.1992 nr. 127/§5a-7; lov 04.12.1992 nr. 127/§5a-9; lov 04.12.1992 nr. 127/§6-1a; lov 04.12.1992 nr. 127/§7-1; lov 04.12.1992 nr. 127/§7-3; lov 04.12.1992 nr. 127/§8-3; lov 04.12.1992 nr. 127/§8-4; lov 04.12.1992 nr. 127/§9-3; lov 04.12.1992 nr. 127/§10-3; lov 04.12.1992 nr. 127/§10-4; lov 04.12.1992 nr. 127/§10-5; forskrift 28.02.2025 nr. 332; lov/1967-02-10/§28
+- **Hjemmel:** lov 04.12.1992 nr. 127/§1-2; lov 04.12.1992 nr. 127/§2-1; lov 04.12.1992 nr. 127/§2-2; lov 04.12.1992 nr. 127/§2-4; lov 04.12.1992 nr. 127/§2-6; lov 04.12.1992 nr. 127/§2-7; lov 04.12.1992 nr. 127/§2-8; lov 04.12.1992 nr. 127/§2-9; lov 04.12.1992 nr. 127/§2-11; lov 04.12.1992 nr. 127/§2-14; lov 04.12.1992 nr. 127/§2-19; lov 04.12.1992 nr. 127/§2-20; lov 04.12.1992 nr. 127/§2-21; lov 04.12.1992 nr. 127/§2-22; lov 04.12.1992 nr. 127/§3-1; lov 04.12.1992 nr. 127/§3-2; lov 04.12.1992 nr. 127/§3-4; lov 04.12.1992 nr. 127/§4-3; lov 04.12.1992 nr. 127/§4-4; lov 04.12.1992 nr. 127/§4-5; lov 04.12.1992 nr. 127/§4-6; lov 04.12.1992 nr. 127/§4-8; lov 04.12.1992 nr. 127/§5a-1; lov 04.12.1992 nr. 127/§5a-2; lov 04.12.1992 nr. 127/§5a-3; lov 04.12.1992 nr. 127/§5a-5; lov 04.12.1992 nr. 127/§5a-6; lov 04.12.1992 nr. 127/§5a-7; lov 04.12.1992 nr. 127/§5a-9; lov 04.12.1992 nr. 127/§6-1a; lov 04.12.1992 nr. 127/§7-1; lov 04.12.1992 nr. 127/§7-3; lov 04.12.1992 nr. 127/§8-3; lov 04.12.1992 nr. 127/§8-4; lov 04.12.1992 nr. 127/§9-3; lov 04.12.1992 nr. 127/§10-3; lov 04.12.1992 nr. 127/§10-4; lov 04.12.1992 nr. 127/§10-5; forskrift 28.02.2025 nr. 332; lov/1967-02-10/§28
 - **Publisert i:** I 1997 458
 - **I kraft fra:** 1997-02-28
-- **Siste endring i kraft:** 2026-01-01
-- **Sist endret ved:** forskrift 04.12.2025 nr. 2416 fra 2026-01-01
+- **Siste endring i kraft:** 2027-01-01
+- **Sist endret ved:** forskrift 27.11.2026 nr. 2523 fra 2027-01-01
 - **Endrer:** forskrift 29.05.1981 nr. 8630; forskrift 28.09.1988 nr. 3953; forskrift 07.10.1988 nr. 773; forskrift 22.12.1988 nr. 1220; forskrift 18.12.1989 nr. 1338; forskrift 19.04.1991 nr. 228; forskrift 19.04.1991 nr. 229; forskrift 26.11.1993 nr. 1068; forskrift 05.01.1996 nr. 10
 - **Gjelder for:** Norge
 - **Siste rettelse:** 2022-01-01 (tegnsetting i lister tilpasset universell utforming)
-- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 28. februar 1997 med hjemmel i lov 4. desember 1992 nr. 127 om kringkasting § 1-2, § 2-1, § 2-2, § 2-4, § 2-6, § 2-7, § 2-8, § 2-9, § 2-11, § 2-14, § 2-19, § 2-20, § 2-21, § 3-1, § 3-2, § 3-4, § 4-3, § 4-4, § 4-5, § 4-6, § 4-8, § 5-3, § 5-4, § 5A-1, § 5A-2, § 5A-3, § 5A-5, § 5A-6, § 5A-7, § 5A-9, § 6-1a, § 7-1, § 7-3, § 8-3, § 8-4, § 9-3, § 10-3, § 10-4 og § 10-5. Fremmet av Kulturdepartementet. Tilføyd hjemmel: delegeringsvedtak 28. februar 2025 nr. 332. EØS-henvisninger: EØS-avtalen vedlegg X nr. 1 (direktiv 89/552/EØF) og vedlegg XI nr. 5p (direktiv 2010/13/EU endret ved direktiv (EU) 2018/1808). Endret ved forskrifter 20 nov 1997 nr. 1180, 19 des 1997 nr. 1324, 30 april 1998 nr. 401, 20 nov 1998 nr. 1068, 7 april 2000 nr. 320, 1 juni 2001 nr. 559, 21 sep 2001 nr. 1093, 30 jan 2004 nr. 244, 4 juni 2004 nr. 827, 18 feb 2005 nr. 150, 11 april 2008 nr. 354, 30 mai 2008 nr. 525, 16 okt 2009 nr. 1291, 23 okt 2009 nr. 1296, 23 april 2010 nr. 582, 3 des 2010 nr. 1551, 14 des 2012 nr. 1246, 13 sep 2013 nr. 1073, 22 nov 2013 nr. 1333, 9 aug 2013 nr. 966 (som endret 20 juni 2014 nr. 781), 12 juni 2015 nr. 633, 28 okt 2016 nr. 1257, 15 des 2017 nr. 2104, 13 des 2019 nr. 1746 (i kraft 1 jan 2020), 26 nov 2021 nr. 3292 (i kraft 1 jan 2022), 10 april 2025 nr. 654 (i kraft 1 mai 2025, bl.a tittel), 4 des 2025 nr. 2416 (i kraft 1 jan 2026). Rettet 01.01.2022 (tegnsetting i lister tilpasset universell utforming).
+- **Merknad:** Hjemmel: Fastsatt ved kgl.res. 28. februar 1997 med hjemmel i lov 4. desember 1992 nr. 127 om kringkasting § 1-2, § 2-1, § 2-2, § 2-4, § 2-6, § 2-7, § 2-8, § 2-9, § 2-11, § 2-14, § 2-19, § 2-20, § 2-21, § 2-22, § 3-1, § 3-2, § 3-4, § 4-3, § 4-4, § 4-5, § 4-6, § 4-8, § 5-3, § 5-4, § 5A-1, § 5A-2, § 5A-3, § 5A-5, § 5A-6, § 5A-7, § 5A-9, § 6-1a, § 7-1, § 7-3, § 8-3, § 8-4, § 9-3, § 10-3, § 10-4 og § 10-5. Fremmet av Kulturdepartementet. Tilføyd hjemmel: delegeringsvedtak 28. februar 2025 nr. 332. EØS-henvisninger: EØS-avtalen vedlegg X nr. 1 (direktiv 89/552/EØF) og vedlegg XI nr. 5p (direktiv 2010/13/EU endret ved direktiv (EU) 2018/1808). Endret ved forskrifter 20 nov 1997 nr. 1180, 19 des 1997 nr. 1324, 30 april 1998 nr. 401, 20 nov 1998 nr. 1068, 7 april 2000 nr. 320, 1 juni 2001 nr. 559, 21 sep 2001 nr. 1093, 30 jan 2004 nr. 244, 4 juni 2004 nr. 827, 18 feb 2005 nr. 150, 11 april 2008 nr. 354, 30 mai 2008 nr. 525, 16 okt 2009 nr. 1291, 23 okt 2009 nr. 1296, 23 april 2010 nr. 582, 3 des 2010 nr. 1551, 14 des 2012 nr. 1246, 13 sep 2013 nr. 1073, 22 nov 2013 nr. 1333, 9 aug 2013 nr. 966 (som endret 20 juni 2014 nr. 781), 12 juni 2015 nr. 633, 28 okt 2016 nr. 1257, 15 des 2017 nr. 2104, 13 des 2019 nr. 1746 (i kraft 1 jan 2020), 26 nov 2021 nr. 3292 (i kraft 1 jan 2022), 10 april 2025 nr. 654 (i kraft 1 mai 2025, bl.a tittel), 4 des 2025 nr. 2416 (i kraft 1 jan 2026). Endres ved forskrift 27 nov 2026 nr. 2523 (i kraft 1 jan 2027). Rettet 01.01.2022 (tegnsetting i lister tilpasset universell utforming).
 - **Kilde:** <https://lovdata.no/forskrift/1997-02-28-153>
 
 ## Kapittel 1 – Generelle bestemmelser
@@ -135,9 +135,9 @@ Kringkastingsrådet kan likevel vurdere ikke-medieetiske problemstillinger knytt
 
 *Tilføyd ved [forskrift 13 des 2019 nr. 1746](https://lovdata.no/forskrift/2019-12-13-1746) (i kraft 1 jan 2020).*
 
-## Kapittel 2 – Europeisk programmateriale i fjernsyn og beskyttelse av mindreårige seere mv.
+## Kapittel 2. – Europeisk programmateriale og investeringsplikt mv.
 
-*Endret ved [forskrift 21 sep 2001 nr. 1093](https://lovdata.no/forskrift/2001-09-21-1093) (i kraft 1 okt 2001).*
+*Endret ved [forskrift 21 sep 2001 nr. 1093](https://lovdata.no/forskrift/2001-09-21-1093) (i kraft 1 okt 2001). Overskrift endret ved forskrift [27 nov 2026 nr. 2523](https://lovdata.no/forskrift/2026-11-27-2523) (i kraft 1 jan 2027).*
 
 ### § 2-1. Europeisk programandel i fjernsyn
 
@@ -225,6 +225,42 @@ Enhver direkte berørt fysisk eller juridisk person som er bosatt eller etablert
 Medietilsynet skal rapportere til EFTAs overvåkingsorgan om tiltak som er iverksatt for å fremme kritisk medieforståelse etter [kringkastingsloven § 2-21](../lover/lov-1992-12-04-127-kringkastingsloven.md) første gang innen 19. desember 2025 og deretter hvert tredje år.
 
 *Tilføyd ved forskrift [10 april 2025 nr. 654](https://lovdata.no/forskrift/2025-04-10-654) (i kraft 1 mai 2025).*
+
+### § 2-9. Rapportering om omsetning
+
+Tilbydere av audiovisuelle bestillingstjenester som omfattes av investeringsplikten etter [kringkastingsloven § 2-22](../lover/lov-1992-12-04-127-kringkastingsloven.md), skal senest 1. september hvert år rapportere brutto omsetning eksklusiv merverdiavgift fra den audiovisuelle bestillingstjenesten i Norge for foregående kalenderår. Rapporten skal sendes digitalt til Medietilsynet på løsninger som tilsynet fastsetter. Det skal fremgå av rapporten hvilken audiovisuell bestillingstjeneste omsetningstallene gjelder.
+
+Følgende omsetning inngår ikke som del av beregningsgrunnlaget for investeringsplikten og skal ikke inngå i rapporten etter første ledd:
+
+a. omsetning knyttet til tilleggstjenester som består av sport og nyheter, som tilbydere tilbyr tilgang til særskilt mot ekstra vederlag i tillegg til et basisabonnement
+b. omsetning fra fjernsyn gjort tilgjengelig i den audiovisuelle bestillingstjenesten
+c. omsetning fra andre audiovisuelle bestillingstjenester som en tjenestetilbyder tilbyr i egen audiovisuell bestillingstjeneste.
+
+Rapporteringen av omsetning etter første ledd skal følges av en erklæring utstedt av godkjent statsautorisert revisor eller tilsvarende fra annen EØS-stat, som bekrefter at opplysningene er korrekte. Revisorerklæringen kan utferdiges på norsk eller engelsk.
+
+*Tilføyd ved forskrift [27 nov 2026 nr. 2523](https://lovdata.no/forskrift/2026-11-27-2523) (i kraft 1 jan 2027).*
+
+### § 2-10. Rapportering om investeringer mv.
+
+Tilbydere av audiovisuelle bestillingstjenester som omfattes av investeringsplikten etter [kringkastingsloven § 2-22](../lover/lov-1992-12-04-127-kringkastingsloven.md), skal senest 1. september 2028 og deretter hvert år sende Medietilsynet en rapport over investeringer i norske audiovisuelle verk i det foregående kalenderåret.
+
+Rapporten skal sendes digitalt til Medietilsynet på løsninger som tilsynet fastsetter. Rapporten skal minst inneholde:
+
+a. identifikasjon av hvert norsk audiovisuelt verk det er investert i
+b. investert beløp per verk
+c. tidspunkt/periode for investeringen og investeringsform
+d. hvilken audiovisuell bestillingstjeneste investeringen gjelder
+e. erklæring utstedt av godkjent statsautorisert revisor eller tilsvarende fra annen EØS-stat, som bekrefter at opplysningene er korrekte. Revisorerklæringen kan utferdiges på norsk eller engelsk.
+
+Investeringer i produksjoner som ikke fullføres kan bli godkjent som investeringer. Investeringen godskrives året den regnskapsføres.
+
+Tilbyderen kan selv avgjøre om en investering skal godskrives i regnskapsåret der omkostningene til produksjonen bokføres, eller regnskapsåret når tilbyderen første gang gjør produksjonen tilgjengelig for brukerne av tjenesten.
+
+Dersom investeringsplikten ikke er oppfylt i et regnskapsår, kan Medietilsynet pålegge tilbyderen å foreta investeringer tilsvarende det manglende beløpet i påfølgende regnskapsår.
+
+Medietilsynet skal innen 19. desember 2027 og deretter hvert annet år rapportere til EFTAs overvåkningsorgan om gjennomføringen av [kringkastingsloven §§ 2-22](../lover/lov-1992-12-04-127-kringkastingsloven.md) og [2-23](../lover/lov-1992-12-04-127-kringkastingsloven.md) og tilhørende forskriftsbestemmelser.
+
+*Tilføyd ved forskrift [27 nov 2026 nr. 2523](https://lovdata.no/forskrift/2026-11-27-2523) (i kraft 1 jan 2027).*
 
 ## Kapittel 2A – Universell utforming av bildeprogrammer
 

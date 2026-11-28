@@ -5,7 +5,7 @@
 - **DokumentID:** SF/forskrift/1993-08-23-824
 - **Departement:** Justis- og beredskapsdepartementet
 - **Etat:** Lovavd.
-- **Hjemmel:** lov 08.06.1984 nr. 58/§78; lov 08.06.1984 nr. 58/§79; lov 08.06.1984 nr. 58/§144; lov 08.06.1984 nr. 58/§156; lov 08.06.1984 nr. 58/§156a; lov 08.06.1984 nr. 58/§162; forskrift 12.07.1985 nr. 1435; lov 17.12.1982 nr. 86/§27
+- **Hjemmel:** lov 08.06.1984 nr. 58/§78; lov 08.06.1984 nr. 58/§79; lov 08.06.1984 nr. 58/§144; lov 08.06.1984 nr. 58/§156; lov 08.06.1984 nr. 58/§156a; lov 08.06.1984 nr. 58/§177; forskrift 12.07.1985 nr. 1435; lov 17.12.1982 nr. 86/§27
 - **Publisert i:** Avd I 1993 958
 - **I kraft fra:** 1993-09-01
 - **Siste endring i kraft:** 2025-01-01
@@ -13,7 +13,7 @@
 - **Endrer:** forskrift 26.04.1991 nr. 287
 - **Gjelder for:** Norge
 - **Siste rettelse:** 2026-11-26 (hjemmelsoppdatering).
-- **Merknad:** Hjemmel: Fastsatt av Justis- og politidepartementet 23. august 1993 med hjemmel i lov av 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven) § 78, § 79, § 144, § 156, § 156a og § 162 og lov av 17. desember 1982 nr. 86 om rettsgebyr § 27. Tilføyd hjemmel: Delegeringsvedtak 12. juli 1985 nr. 1435. Endret ved forskrifter 6 nov 1995 nr. 877, 17 des 1998 nr. 1399, 12 nov 1999 nr. 1170, 11 okt 2002 nr. 1094, 26 juni 2003 nr. 887, 12 des 2003 nr. 1544, 27 jan 2006 nr. 88, 15 feb 2008 nr. 138, 18 des 2009 nr. 1726, 27 juni 2013 nr. 804, 15 juni 2018 nr. 876, 4 des 2019 nr. 1632 (i kraft 1 april 2020), 21 mai 2021 nr. 1617 (i kraft 1 juli 2021), 14 sep 2023 nr. 1427, 14 sep 2023 nr. 1427 (i kraft 1 april 2024), 22 okt 2024 nr. 2547 (i kraft 1 jan 2025). Endres ved forskrift 24 nov 2026 nr. 2474 (i kraft 1 jan 2027). Rettelser: 01.07.2021 (tegnsetting i lister tilpasset universell utforming), 26.11.2026 (hjemmelsoppdatering).
+- **Merknad:** Hjemmel: Fastsatt av Justis- og politidepartementet 23. august 1993 med hjemmel i lov av 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven) § 78, § 79, § 144, § 156, § 156a og § 177 og lov av 17. desember 1982 nr. 86 om rettsgebyr § 27. Tilføyd hjemmel: Delegeringsvedtak 12. juli 1985 nr. 1435. Endret ved forskrifter 6 nov 1995 nr. 877, 17 des 1998 nr. 1399, 12 nov 1999 nr. 1170, 11 okt 2002 nr. 1094, 26 juni 2003 nr. 887, 12 des 2003 nr. 1544, 27 jan 2006 nr. 88, 15 feb 2008 nr. 138, 18 des 2009 nr. 1726, 27 juni 2013 nr. 804, 15 juni 2018 nr. 876, 4 des 2019 nr. 1632 (i kraft 1 april 2020), 21 mai 2021 nr. 1617 (i kraft 1 juli 2021), 14 sep 2023 nr. 1427, 14 sep 2023 nr. 1427 (i kraft 1 april 2024), 22 okt 2024 nr. 2547 (i kraft 1 jan 2025). Endres ved forskrift 24 nov 2026 nr. 2474 (i kraft 1 jan 2027). Rettelser: 01.07.2021 (tegnsetting i lister tilpasset universell utforming), 26.11.2026 (hjemmelsoppdatering).
 - **Kilde:** <https://lovdata.no/forskrift/1993-08-23-824>
 
 ## Kapittel 1. Alminnelige bestemmelser
@@ -24,7 +24,7 @@ Det føres et register over sentrale opplysninger om bo tatt under behandling av
 
 Konkursregisteret føres av Registerenheten i Brønnøysund.
 
-*Endret ved [forskrifter 11 okt 2002 nr. 1094](https://lovdata.no/forskrift/2002-10-11-1094) (i kraft 1 jan 2003), [15 feb 2008 nr. 138](https://lovdata.no/forskrift/2008-02-15-138) (i kraft 1 mars 2008). **Endres** ved forskrift [24 nov 2026 nr. 2474](https://lovdata.no/forskrift/2026-11-24-2474) (i kraft 1 jan 2027).*
+*Endret ved [forskrifter 11 okt 2002 nr. 1094](https://lovdata.no/forskrift/2002-10-11-1094) (i kraft 1 jan 2003), [15 feb 2008 nr. 138](https://lovdata.no/forskrift/2008-02-15-138) (i kraft 1 mars 2008). **Endres** ved forskrift [24 nov 2026 nr. 2474](for-2026-11-24-2474-forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjoringer-etter-konkursloven.md) (i kraft 1 jan 2027).*
 
 ### § 2.
 
@@ -196,7 +196,7 @@ Opplysningene i Konkursregisteret er, ti år etter avsluttende kjennelse eller u
 
 Dersom boet leveres tilbake til skyldneren i medhold av [konkursloven § 136](../lover/lov-1984-06-08-58-konkursloven.md) eller dersom det oppnås tvangsakkord under konkursbehandlingen etter [konkursloven kapittel XIV](../lover/lov-1984-06-08-58-konkursloven.md), skal opplysningene om konkurskarantene kun gis myndigheter og personer som nevnt i [§ 10](for-1993-08-23-824-forskrift-om-konkursregisteret-mv.md) tredje ledd. Det samme gjelder dersom karantenetiden er utløpt.
 
-***Endres** ved forskrift [24 nov 2026 nr. 2474](https://lovdata.no/forskrift/2026-11-24-2474) (i kraft 1 jan 2027).*
+***Endres** ved forskrift [24 nov 2026 nr. 2474](for-2026-11-24-2474-forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjoringer-etter-konkursloven.md) (i kraft 1 jan 2027).*
 
 ### § 13.
 
@@ -235,7 +235,7 @@ Opplysninger om gjeldsforhandlinger etter konkursloven i boet til fysiske person
 
 Før sletting etter første eller annet ledd skal opplysningene lagres og oppbevares tilgjengelig kun for forskning. Den som mottar opplysninger er underlagt taushetsplikt etter reglene i [forvaltningsloven § 13e](../lover/lov-1967-02-10-forvaltningsloven.md). Opplysningene skal også være tilgjengelige for den de gjelder.
 
-*Tilføyd ved [forskrift 27 jan 2006 nr. 88](https://lovdata.no/forskrift/2006-01-27-88) (i kraft 1 feb 2006). **Endres** ved forskrift [24 nov 2026 nr. 2474](https://lovdata.no/forskrift/2026-11-24-2474) (i kraft 1 jan 2027).*
+*Tilføyd ved [forskrift 27 jan 2006 nr. 88](https://lovdata.no/forskrift/2006-01-27-88) (i kraft 1 feb 2006). **Endres** ved forskrift [24 nov 2026 nr. 2474](for-2026-11-24-2474-forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjoringer-etter-konkursloven.md) (i kraft 1 jan 2027).*
 
 ### § 18.
 
@@ -255,7 +255,7 @@ e. en bestemt næring,
 f. skyldnerens organisasjonsnummer eller fødselsnummer,
 g. et bestemt tidsrom.
 
-*Tilføyd ved [forskrift 27 jan 2006 nr. 88](https://lovdata.no/forskrift/2006-01-27-88) (i kraft 1 feb 2006). **Endres** ved forskrift [24 nov 2026 nr. 2474](https://lovdata.no/forskrift/2026-11-24-2474) (i kraft 1 jan 2027).*
+*Tilføyd ved [forskrift 27 jan 2006 nr. 88](https://lovdata.no/forskrift/2006-01-27-88) (i kraft 1 feb 2006). **Endres** ved forskrift [24 nov 2026 nr. 2474](for-2026-11-24-2474-forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjoringer-etter-konkursloven.md) (i kraft 1 jan 2027).*
 
 ### § 19.
 
@@ -355,7 +355,7 @@ Er skyldneren ikke et norskregistrert utenlandsk foretak, kan insolvensforvalter
 
 Insolvensforvalter i utenlandsk tvangsakkord eller lignende som omfatter skyldnerens samlede formue, kan kreve at åpningen av insolvensbehandlingen registreres i slike registre som nevnt i [konkursloven § 36](../lover/lov-1984-06-08-58-konkursloven.md) første ledd, på de vilkår som følger av bestemmelsen. Begjæringen fremsettes overfor Konkursregisteret, som videreformidler opplysningene om insolvensåpningen til de aktuelle registrene. Insolvensåpningen registreres i Løsøreregisteret bare dersom skyldneren har et norsk organisasjonsnummer.
 
-*Tilføyd ved forskrift [21 mai 2021 nr. 1617](https://lovdata.no/forskrift/2021-05-21-1617) (i kraft 1 juli 2021). **Endres** ved forskrift [24 nov 2026 nr. 2474](https://lovdata.no/forskrift/2026-11-24-2474) (i kraft 1 jan 2027).*
+*Tilføyd ved forskrift [21 mai 2021 nr. 1617](https://lovdata.no/forskrift/2021-05-21-1617) (i kraft 1 juli 2021). **Endres** ved forskrift [24 nov 2026 nr. 2474](for-2026-11-24-2474-forskrift-om-endring-i-forskrift-om-konkursregisteret-og-om-kunngjoringer-etter-konkursloven.md) (i kraft 1 jan 2027).*
 
 ### § 27.
 
