@@ -271,11 +271,11 @@ Medietilsynet skal senest innen en bestemt frist og deretter hvert tredje år ra
 
 ### § 2-22. Plikt til å investere i norskspråklige audiovisuelle verk (investeringsplikt)
 
-***Tilføyes** ved lov [28 feb 2025 nr. 2](lov-2025-02-28-2-endringslov-til-kringkastingsloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Tilføyes** ved lov [28 feb 2025 nr. 2](lov-2025-02-28-2-endringslov-til-kringkastingsloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 27 nov 2026 nr. 2510](https://lovdata.no/forskrift/2026-11-27-2510)).*
 
 ### § 2-23. Krav til direkte investeringer og norske audiovisuelle verk
 
-***Tilføyes** ved lov [28 feb 2025 nr. 2](lov-2025-02-28-2-endringslov-til-kringkastingsloven-mv.md) (i kraft fra den tid Kongen bestemmer).*
+***Tilføyes** ved lov [28 feb 2025 nr. 2](lov-2025-02-28-2-endringslov-til-kringkastingsloven-mv.md) (i kraft 1 jan 2027 iflg. [res. 27 nov 2026 nr. 2510](https://lovdata.no/forskrift/2026-11-27-2510)).*
 
 ## Kap. 3. Reklame, sponsing m.v.
 

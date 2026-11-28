@@ -5,7 +5,7 @@
 - **DokumentID:** NL/lov/2025-06-10-30
 - **Departement:** Arbeids- og inkluderingsdepartementet
 - **Kunngjort:** 2025-06-10 11:50
-- **I kraft fra:** 2026-01-01, 2027-01-01
+- **I kraft fra:** 2026-01-01, 2027-01-01, 2027-05-01
 - **Rettsområde:** Pensjons- og trygderett; Erstatnings- og forsikringsrett
 - **Endrer:** lov 28.02.1997 nr. 19
 - **Merknad:** Prop. 134 L (2024–2025), Innst. 346 L (2024–2025), Lovvedtak 75 (2024–2025). Stortingets første og andre gangs behandling hhv. 2. og 6. juni 2025. Fremmet av Arbeids- og inkluderingsdepartementet.
@@ -36,4 +36,5 @@ Loven trer i kraft fra den tid[1] Kongen bestemmer. Kongen kan bestemme at forsk
 ## Fotnoter
 
 **1.** Fra 1. januar 2026 for endring i [§ 13-4 første ledd andre punktum](lov-1997-02-28-19-folketrygdloven.md), samt et nytt femte ledd, og endring i [§ 13-14 første ledd](lov-1997-02-28-19-folketrygdloven.md),  
-Fra 1. januar 2027 for endring i [§ 13-4 tredje ledd](lov-1997-02-28-19-folketrygdloven.md), samt et nytt fjerde ledd, iflg. [res. 29 aug 2025 nr. 1743](https://lovdata.no/forskrift/2025-08-29-1743).
+Fra 1. januar 2027 for endring i [§ 13-4 tredje ledd](lov-1997-02-28-19-folketrygdloven.md), samt et nytt fjerde ledd, iflg. [res. 29 aug 2025 nr. 1743](https://lovdata.no/forskrift/2025-08-29-1743).  
+Fra 1. mai 2027 for endring i [§ 13-4 tredje ledd](lov-1997-02-28-19-folketrygdloven.md) og [fjerde ledd](lov-1997-02-28-19-folketrygdloven.md) iflg. [res. 27 nov 2026 nr. 2509](https://lovdata.no/forskrift/2026-11-27-2509).

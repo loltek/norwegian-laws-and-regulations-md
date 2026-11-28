@@ -5,7 +5,7 @@
 - **DokumentID:** NL/lov/2026-06-23-64
 - **Departement:** Arbeids- og inkluderingsdepartementet
 - **Kunngjort:** 2026-06-23 11:55
-- **I kraft fra:** 2027-01-01, Kongen bestemmer
+- **I kraft fra:** 2027-01-01, 2027-05-01
 - **Rettsområde:** Pensjons- og trygderett
 - **Endrer:** lov 28.02.1997 nr. 19
 - **Merknad:** Prop. 93 L (2025–2026), Innst. 443 L (2025–2026), Lovvedtak 90 (2025–2026). Stortingets første og andre gangs behandling hhv. 12. og 15. juni 2026. Fremmet av Arbeids- og inkluderingsdepartementet.
@@ -39,4 +39,5 @@ d. det er mer sannsynlig at en annen sykdom eller påvirkning er årsak til symp
 
 ## Fotnoter
 
-**1.** Fra 1 jan 2027 for endring i [§ 13-3 andre ledd](lov-1997-02-28-19-folketrygdloven.md) iflg. [res. 25 sep 2026 nr. 1893](https://lovdata.no/forskrift/2026-09-25-1893).
+**1.** Fra 1 jan 2027 for endring i [§ 13-3 andre ledd](lov-1997-02-28-19-folketrygdloven.md) iflg. [res. 25 sep 2026 nr. 1893](https://lovdata.no/forskrift/2026-09-25-1893).  
+Fra 1. mai 2027 for endring i [§ 13-4 andre ledd](lov-1997-02-28-19-folketrygdloven.md) iflg. [res. 27 nov 2026 nr. 2524](https://lovdata.no/forskrift/2026-11-27-2524).

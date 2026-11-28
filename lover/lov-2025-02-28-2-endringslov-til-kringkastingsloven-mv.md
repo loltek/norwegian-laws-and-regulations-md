@@ -5,7 +5,7 @@
 - **DokumentID:** NL/lov/2025-02-28-2
 - **Departement:** Kultur- og likestillingsdepartementet
 - **Kunngjort:** 2025-02-28 11:50
-- **I kraft fra:** 2025-05-01, Kongen bestemmer
+- **I kraft fra:** 2025-05-01, 2027-01-01
 - **Rettsområde:** Helse- og omsorgsrett; Næringsrett > Handel og tjenester; Kultur, idrett og underholdning > Film; Næringsrett > Inn- og utførsel; Næringsrett > Mat og alkohol; IKT- og medierett > Kringkasting; Helse- og omsorgsrett > Legemidler. Apotek
 - **EU/EØS-henvisning:** EØS-avtalen vedlegg XI nr. 5p (direktiv (EU) 2018/1808).
 - **Endrer:** lov 09.03.1973 nr. 14; lov 15.05.1987 nr. 21; lov 02.06.1989 nr. 27; lov 04.12.1992 nr. 127; lov 04.12.1992 nr. 132; lov 06.02.2015 nr. 7
@@ -97,4 +97,5 @@ I [lov 15. mai 1987 nr. 21 om film og videogram](https://lovdata.no/lov/1987-05-
 
 ## Fotnoter
 
-**1.** Fra 1. mai 2025 for endringsloven del I ([kringkastingsloven](lov-1992-12-04-127-kringkastingsloven.md)) med unntak av ny [§§ 2-22](lov-1992-12-04-127-kringkastingsloven.md) og [2-23](lov-1992-12-04-127-kringkastingsloven.md), del II ([tobakksskadeloven](lov-1973-03-09-14-tobakksskadeloven.md)), del III ([alkoholloven](lov-1989-06-02-27-alkoholloven.md)), del IV ([legemiddelloven](lov-1992-12-04-132-legemiddelloven.md)), del V ([bildeprogramloven](lov-2015-02-06-7-bildeprogramloven.md)) iflg. [res. 4 april 2025 nr. 601](https://lovdata.no/forskrift/2025-04-04-601).
+**1.** Fra 1. mai 2025 for endringsloven del I ([kringkastingsloven](lov-1992-12-04-127-kringkastingsloven.md)) med unntak av ny [§§ 2-22](lov-1992-12-04-127-kringkastingsloven.md) og [2-23](lov-1992-12-04-127-kringkastingsloven.md), del II ([tobakksskadeloven](lov-1973-03-09-14-tobakksskadeloven.md)), del III ([alkoholloven](lov-1989-06-02-27-alkoholloven.md)), del IV ([legemiddelloven](lov-1992-12-04-132-legemiddelloven.md)), del V ([bildeprogramloven](lov-2015-02-06-7-bildeprogramloven.md)) iflg. [res. 4 april 2025 nr. 601](https://lovdata.no/forskrift/2025-04-04-601).  
+Fra 1. januar 2027 for endringsloven del I ([kringkastingsloven](lov-1992-12-04-127-kringkastingsloven.md)), ny [§§ 2-22](lov-1992-12-04-127-kringkastingsloven.md) og [2-23](lov-1992-12-04-127-kringkastingsloven.md) og endringsloven del VI ([film- og videogramlova](https://lovdata.no/lov/1987-05-15-21)), oppheving av [§ 3 andre ledd](https://lovdata.no/lov/1987-05-15-21/§3/ledd/2) iflg. [res. 27 nov 2026 nr. 2510](https://lovdata.no/forskrift/2026-11-27-2510).
